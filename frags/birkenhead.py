@@ -4,9 +4,9 @@ TOWNS["birkenhead"] = {
     "nearby": ["Wallasey", "Bebington", "Bootle"],
     "meta_title": "Best Places to Eat in Birkenhead: Food Guide",
     "meta_description": (
-        "Where to eat in Birkenhead: a craft bar-kitchen in Oxton Village, "
-        "an award-winning village cafe, a Michelin-listed tasting restaurant "
-        "and a free-house ferry-side pub. Read the guide."
+        "Oxton Village bar-kitchen, Good Food Award cafe, Michelin-listed "
+        "tasting room and a CAMRA free house by the Woodside Ferry. "
+        "Read the guide."
     ),
     "trust_strip": (
         "From a Good Food Award cafe in leafy Oxton Village to a Michelin-listed "
