@@ -7,9 +7,8 @@ TOWNS["bedford"] = {
     "nearby": ["Luton", "Milton Keynes", "Wellingborough"],
     "meta_title": "Best Places to Eat in Bedford: Local Food Guide",
     "meta_description": (
-        "Four Bedford independents: award-winning wings, a High Street cafe in "
-        "a Victorian building, a family Italian on Mill Street and a CAMRA "
-        "real-ale champion. Read the guide."
+        "Award-winning wings, a book-lined Victorian cafe, Bedfords top-rated "
+        "Italian and a CAMRA real-ale champion pub. Read the guide."
     ),
     "trust_strip": (
         "From Midland Road's Little Italy to a CAMRA-crowned real-ale pub, "
