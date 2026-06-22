@@ -65,17 +65,15 @@ TOWNS["hove"] = {
             "cuisine": "Organic speciality coffee, all-day drinks",
             "body": (
                 "Fabio Lauro founded Wolfox in Hove in 2017 as an organic-first "
-                "speciality roaster, and the Lab on Western Road is where the "
-                "philosophy is most visible. Wolfox holds Soil Association certification "
-                "as the UK's only fully organic-certified coffee roastery - every bean "
-                "sourced, roasted and served to organic standards - a claim no other "
-                "British roaster can match. The cafe itself is a calm, design-led room "
-                "in the heart of Brunswick Town, serving espresso, filter and matcha "
-                "alongside pastries, with flat whites and single-origin pour-overs made "
-                "to the same exacting standard the wholesale operation holds itself to. "
-                "Head of coffee Anderson Locatelli has shaped the palate since 2018, and "
-                "Wolfox's beans now supply cafes in London, Leeds, Madrid and Lake Como. "
-                "Come here for coffee that takes its ethics as seriously as its flavour."
+                "speciality roaster, and the Lab on Western Road is where the philosophy "
+                "is most visible. Wolfox holds Soil Association certification as the "
+                "UK's only fully organic-certified coffee roastery - every bean sourced, "
+                "roasted and served to organic standards - a claim no other British "
+                "roaster can match. The cafe is a calm, design-led room in the heart of "
+                "Brunswick Town, serving espresso, filter and matcha alongside pastries, "
+                "with flat whites made to the same standard the wholesale operation holds "
+                "itself to. Head of coffee Anderson Locatelli has shaped the palate since "
+                "2018, and Wolfox's beans now supply cafes in London, Leeds and Madrid."
             ),
             "known_for": "The UK's only Soil Association-certified organic coffee roastery, open in Hove since 2017",
             "good_for": "A considered flat white or filter in a neighbourhood roastery-cafe with genuine credentials",
@@ -88,20 +86,17 @@ TOWNS["hove"] = {
             "area": "84 Church Road, Hove",
             "cuisine": "Seasonal small plates, wine bar and merchant",
             "body": (
-                "Sam Pryor trained at Heston Blumenthal's Fat Duck before moving "
-                "into consultancy; Paul Morgan ran the kitchen at terre a terre before "
-                "managing Lewes's Pelham House Hotel. The pair opened Fourth and Church "
-                "on Church Road in October 2015 as a neighbourhood restaurant, wine bar "
-                "and independent wine shop rolled into one, and the formula has made it "
-                "one of the most decorated independents on the south coast. The menu is "
-                "seasonal and ingredient-led, built around small sharing plates with "
-                "meats and vegetables often finished over charcoal in the evenings, "
-                "alongside snacks, charcuterie and British artisan cheese. The wine list "
-                "is the engine: a carefully curated selection of small-producer bottles "
-                "from across Europe, which earned BRAVO Best Wine List in both 2023 and "
-                "2024. Grace Dent called it 'a small, independent labour of love' in The "
-                "Guardian; the BRAVO 2025 judges voted it Best Lunch in Brighton and Hove. "
-                "Book ahead for evenings."
+                "Sam Pryor trained at Heston Blumenthal's Fat Duck before moving into "
+                "consultancy; Paul Morgan ran the kitchen at terre a terre before "
+                "managing Lewes's Pelham House Hotel. Together they opened Fourth and "
+                "Church on Church Road in October 2015 as a neighbourhood restaurant, "
+                "wine bar and independent wine shop. The menu is seasonal and "
+                "ingredient-led - small sharing plates with meats and vegetables often "
+                "finished over charcoal in the evenings - alongside snacks, charcuterie "
+                "and British artisan cheese. The wine list earned BRAVO Best Wine List "
+                "in both 2023 and 2024; the BRAVO 2025 judges voted it Best Lunch in "
+                "Brighton and Hove. Grace Dent called it a small, independent labour of "
+                "love in The Guardian. Book ahead for evenings."
             ),
             "known_for": "BRAVO Best Wine List 2023 and 2024, Best Lunch 2025 - charcoal-finished small plates on Church Road",
             "good_for": "A long lunch or evening of small plates and excellent wine in Hove's best restaurant street",
@@ -114,18 +109,16 @@ TOWNS["hove"] = {
             "area": "15-17 Belfast Street, Hove",
             "cuisine": "Fresh shellfish and own-brewed craft beer",
             "body": (
-                "The Urchin took over a former Bell Street pub around 2015 and became "
-                "a freehouse in 2016, building a reputation for the pairing that defines "
-                "it: simple, fresh shellfish and well-kept craft beer. In August 2018 "
-                "co-owner Nick installed a microbrewery in the basement, and the house "
-                "beer Larrikin - named for the Australian slang for a loveable rogue - "
-                "has been on the pumps ever since, alongside a rotating slate of guest "
-                "Sussex ales. The kitchen is refreshingly focused: oysters, mussels, "
-                "king prawns, crab cakes, moules mariniere, scallops and lobster, all "
-                "sourced for freshness and served without fuss in the 30-cover dining "
-                "room or at the bar. The combination of house-brewed beer, a credible "
-                "wine list and serious shellfish has made it a consistent fixture in the "
-                "Top 50 Gastropubs, and the most distinctively Hove pub on this list."
+                "The Urchin took over a Belfast Street pub and became a freehouse in "
+                "2016, building a reputation for the pairing that defines it: simple, "
+                "fresh shellfish and well-kept craft beer. In August 2018 co-owner Nick "
+                "installed a microbrewery in the basement, and the house beer Larrikin - "
+                "named for the Australian slang for a loveable rogue - has been on the "
+                "pumps ever since alongside rotating Sussex guest ales. The kitchen is "
+                "refreshingly focused: oysters, mussels, king prawns, crab cakes, moules "
+                "mariniere, scallops and lobster, sourced for freshness and served without "
+                "fuss. The combination of house-brewed beer and serious shellfish has made "
+                "it a consistent fixture in the Top 50 Gastropubs listing."
             ),
             "known_for": "Own-brewed Larrikin beer, fresh shellfish and Top 50 Gastropubs recognition",
             "good_for": "A pint of the house brew with oysters and mussels in a proper Hove freehouse",

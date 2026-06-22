@@ -81,25 +81,26 @@ TOWNS["watford"] = {
             "verified": "2026-06-22",
         },
         {
-            "type": "Restaurant",
+            "type": "Takeaway/Casual",
             "name": "Nana's Restaurant and Lounge",
             "area": "129 St Albans Road, north of the town centre",
-            "cuisine": "Lebanese",
+            "cuisine": "Lebanese, halal, takeaway and dine-in",
             "body": (
                 "On St Albans Road, a mile north of the High Street, Nana's has "
                 "established itself as Watford's go-to destination for Lebanese "
                 "home cooking with ceremony. The family-run kitchen produces halal "
                 "mezze — houmous, vine leaves, freshly made falafel and coriander "
-                "potatoes — alongside full charcoal-grilled mains and a well-regarded "
-                "Lebanese dessert menu of knafeh and baklava. The centrepiece is the "
+                "potatoes — alongside full charcoal-grilled mains, with takeaway "
+                "available on all dishes. The well-regarded Lebanese dessert menu "
+                "features knafeh and baklava. The centrepiece for eat-in is the "
                 "Arabian courtyard, where shisha and mocktails are served under "
                 "lanterns, and belly dancers perform on Friday and Saturday evenings. "
                 "The Tripadvisor Travellers' Choice award and a consistent 4.7 rating "
-                "underline the welcome it gives to both local regulars and visitors "
+                "underline the welcome it gives to both takeaway regulars and visitors "
                 "making a purposeful trip."
             ),
-            "known_for": "Arabian courtyard dining, fresh halal Lebanese mezze, Friday and Saturday belly dancing",
-            "good_for": "A special evening out or large group gathering with live entertainment",
+            "known_for": "Arabian courtyard dining, fresh halal Lebanese mezze and takeaway, Friday and Saturday belly dancing",
+            "good_for": "Casual Lebanese takeaway or a special evening with live entertainment",
             "source_url": "https://www.tripadvisor.co.uk/Restaurant_Review-g187058-d3244772-Reviews-Nana_s-Watford_Hertfordshire_England.html",
             "verified": "2026-06-22",
         },
