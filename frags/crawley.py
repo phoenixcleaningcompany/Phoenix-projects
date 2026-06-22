@@ -4,9 +4,8 @@ TOWNS["crawley"] = {
     "nearby": ["Horsham", "Haywards Heath", "Horley"],
     "meta_title": "Best Places to Eat in Crawley: Local Food Guide",
     "meta_description": (
-        "Where to eat in Crawley: Afghan canteen on the Broadway, a Portuguese "
-        "neighbourhood cafe, an award-winning Indian buffet and a 15th-century "
-        "real ale pub. Read the guide."
+        "Where to eat in Crawley: an Afghan canteen, a Portuguese cafe, an "
+        "award-winning Indian buffet and a 600-year-old real ale pub. Read the guide."
     ),
     "trust_strip": (
         "From a medieval High Street pub to a South East award-winning Indian "
