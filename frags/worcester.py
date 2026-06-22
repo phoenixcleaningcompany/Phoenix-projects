@@ -17,10 +17,11 @@ TOWNS["worcester"] = {
         "For a fast answer: Impasto on St Swithin's Street for hand-made "
         "sourdough pizza and fresh pasta in the Cathedral quarter, "
         "Wayland's Yard on Foregate Street for speciality brunch coffee "
-        "since 2016, The Farrier on Friar Street for a modern independent "
-        "bistro-pub dinner, and The Cardinal's Hat on Friar Street for a "
-        "real ale in Worcester's oldest pub, trading since 1497. Four "
-        "moods, one walkable city centre."
+        "since 2016, Friar Street Kitchen for locally sourced steaks and "
+        "modern British cooking in the Cathedral-quarter dining street, "
+        "and The Cardinal's Hat on Friar Street for a real ale in "
+        "Worcester's oldest pub, trading since 1497. Four moods, one "
+        "walkable city centre."
     ),
     "stats": [
         ("105K", "Population (approx)"),
@@ -90,29 +91,30 @@ TOWNS["worcester"] = {
         },
         {
             "type": "Restaurant",
-            "name": "The Farrier",
-            "area": "Friar Street, city centre",
-            "cuisine": "Modern British bistro-pub",
+            "name": "Friar Street Kitchen",
+            "area": "12 Friar Street, city centre",
+            "cuisine": "Modern British, locally sourced steaks and seasonal dishes",
             "body": (
-                "The Farrier occupies a handsome townhouse on Friar "
-                "Street, the historic lane of independent businesses that "
-                "runs south from the Cathedral. It operates as an "
-                "independent bistro-pub, serving a menu of modern British "
-                "cooking built around seasonal Worcestershire produce: "
-                "sharing boards, grilled meats, pub classics done properly "
-                "and a rotating specials board that follows what the county "
-                "market gardens are producing. The dining room is warm "
-                "and unfussy, the bar serves real ales from local "
-                "Worcestershire breweries, and the kitchen has earned a "
-                "consistent local following for cooking that respects its "
-                "ingredients. Its Friar Street address places it within "
-                "an easy walk of the Cathedral and the city's independent "
-                "shopping quarter, and it is a reliable choice for a "
-                "sit-down meal in the heart of the city."
+                "Opened in April 2017 by owners with more than fifteen "
+                "years of hospitality experience, Friar Street Kitchen "
+                "quickly established itself as one of Worcester's most "
+                "reliable independent dinner destinations. The menu is "
+                "rooted in responsible sourcing from trusted local farmers "
+                "and butchers: grass-fed steaks are the kitchen's calling "
+                "card, but the supporting cast of seasonal sides, sharing "
+                "boards and a rotating specials list that tracks "
+                "Worcestershire produce keeps the menu honest. The room "
+                "is modern but warm, intimate enough that it fills on "
+                "weekends, and the kitchen has accumulated over 2,000 "
+                "reviews with a 90 out of 100 aggregate on the major "
+                "platforms. Vegetarian and vegan options run alongside "
+                "the meat focus without compromise. The Friar Street "
+                "address sits squarely in the city's independent dining "
+                "quarter, two minutes from the Cathedral."
             ),
-            "known_for": "Seasonal Worcestershire produce and real ales on Friar Street",
-            "good_for": "A relaxed sit-down dinner in the city's independent quarter",
-            "source_url": "https://www.tripadvisor.co.uk/Restaurants-g186424-Worcester_Worcestershire_England.html",
+            "known_for": "Locally sourced steaks and seasonal modern British cooking since 2017",
+            "good_for": "A proper independent dinner in the Cathedral-quarter dining street",
+            "source_url": "https://www.friarstreetkitchen.co.uk/",
             "verified": "2026-06-22",
         },
         {
@@ -184,15 +186,15 @@ TOWNS["worcester"] = {
             "Worcester is smaller than it looks on a map and the eating "
             "is tightly grouped. Wayland's Yard is a two-minute walk from "
             "Foregate Street station; from there Friar Street, with "
-            "Impasto, The Farrier and The Cardinal's Hat all within two "
-            "hundred metres of each other, is a ten-minute stroll through "
-            "the city centre past the Cathedral."
+            "Impasto, Friar Street Kitchen and The Cardinal's Hat all "
+            "within two hundred metres of each other, is a ten-minute "
+            "stroll through the city centre past the Cathedral."
         ),
         (
             "The day runs naturally from coffee to pint. Start at "
             "Wayland's Yard for a brunch and a flat white, walk down to "
             "the Cathedral and into the Friar Street quarter for lunch at "
-            "Impasto or an evening at The Farrier, and end in the "
+            "Impasto or an evening at Friar Street Kitchen, and end in the "
             "Cardinal's Hat with a cask ale in a room that has been "
             "serving drinks since the Wars of the Roses. Saturday visits "
             "add the Shambles Market for Worcestershire produce."
@@ -200,7 +202,7 @@ TOWNS["worcester"] = {
     ],
     "checklist": [
         "Arrive at Wayland's Yard for opening to beat the weekend brunch queue",
-        "Book Impasto ahead for Friday and Saturday evenings; it fills quickly",
+        "Book Impasto or Friar Street Kitchen ahead for Friday and Saturday evenings; both fill quickly",
         "Walk through the Cathedral precinct between Foregate Street and Friar Street",
         "Visit The Cardinal's Hat off-peak to take in the back room and fireplace",
         "Come on a Saturday to catch the Shambles Market for local Worcestershire produce",
@@ -209,14 +211,15 @@ TOWNS["worcester"] = {
         "Order with intent. At Impasto, the fresh tagliatelle or a twelve-inch "
         "sourdough pizza with the edges charred right, and cicchetti to share "
         "first. At Wayland's Yard, the Warrior Breakfast or fried chicken "
-        "crumpets with the Odd Kin espresso. At The Farrier, whatever the "
-        "specials board says is in season from the Worcestershire market gardens. "
+        "crumpets with the Odd Kin espresso. At Friar Street Kitchen, the "
+        "steak and whatever the specials board says is in season from "
+        "Worcestershire farms. "
         "At The Cardinal's Hat, a pint of the local rotating guest ale in the "
         "flagstoned back room, next to the fire."
     ),
     "glance": [
         ("Best for a quick bite", "Impasto, for sourdough pizza and pasta in the Cathedral quarter"),
-        ("Best for an occasion", "The Farrier, for seasonal Worcestershire cooking on Friar Street"),
+        ("Best for an occasion", "Friar Street Kitchen, for locally sourced modern British cooking"),
         ("Best for atmosphere", "The Cardinal's Hat, a medieval pub trading since 1497"),
     ],
     "faq": [
@@ -225,9 +228,10 @@ TOWNS["worcester"] = {
             "Friar Street, which runs from the Cathedral south into the city "
             "centre, holds the best concentration of independents: Impasto "
             "on St Swithin's Street for sourdough pizza and fresh pasta, "
-            "The Farrier for modern British cooking, and The Cardinal's "
-            "Hat for a real ale in Worcester's oldest pub, all within a few "
-            "minutes' walk of the Cathedral."
+            "Friar Street Kitchen at number 12 for locally sourced modern "
+            "British cooking, and The Cardinal's Hat for a real ale in "
+            "Worcester's oldest pub, all within a few minutes' walk of the "
+            "Cathedral."
         ),
         (
             "What is Worcestershire famous for in food?",
@@ -261,20 +265,20 @@ TOWNS["worcester"] = {
             "Is Worcester good for a food day out?",
             "Yes and very compact. Foregate Street station puts you two "
             "minutes from Wayland's Yard, and from there Friar Street, "
-            "with Impasto, The Farrier and The Cardinal's Hat, is a "
-            "ten-minute walk through the Cathedral quarter. Add a morning "
-            "visit to the Saturday Shambles Market for Worcestershire "
-            "produce and the day plans itself."
+            "with Impasto, Friar Street Kitchen and The Cardinal's Hat, "
+            "is a ten-minute walk through the Cathedral quarter. Add a "
+            "morning visit to the Saturday Shambles Market for "
+            "Worcestershire produce and the day plans itself."
         ),
         (
             "Are the restaurants in Worcester independent?",
             "All four venues in this guide are independent businesses. "
             "Impasto is an independent Italian kitchen opened in 2021. "
             "Wayland's Yard is an independent coffee-brunch group that "
-            "started in Worcester in 2016. The Farrier is an independent "
-            "bistro-pub. The Cardinal's Hat is an independent free house "
-            "that has been run as a traditional ale house since its 2013 "
-            "restoration and carries no brewery tie."
+            "started in Worcester in 2016. Friar Street Kitchen is an "
+            "independent restaurant opened in 2017. The Cardinal's Hat is "
+            "an independent free house that has been run as a traditional "
+            "ale house since its 2013 restoration and carries no brewery tie."
         ),
     ],
 }
