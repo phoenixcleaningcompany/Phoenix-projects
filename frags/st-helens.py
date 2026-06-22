@@ -13,9 +13,9 @@ TOWNS["st-helens"] = {
     "nearby": ["Wigan", "Warrington", "Widnes"],
     "meta_title": "Best Places to Eat in St Helens: Local Food Guide",
     "meta_description": (
-        "Where to eat in St Helens: a classic fish and chip restaurant, "
-        "a beloved indie cafe, a 30-year Spanish tapas institution and a "
-        "CAMRA award-winning brewery pub. Read the guide."
+        "Where to eat in St Helens: a classic chippy, a beloved indie cafe, "
+        "a 30-year Spanish tapas institution and a CAMRA brewery pub. "
+        "Read the guide."
     ),
     "trust_strip": (
         "From a century-old chippy tradition to a Gran Canaria-born tapas "

@@ -9,9 +9,8 @@ TOWNS["salford"] = {
     "nearby": ["Manchester", "Stretford", "Stockport"],
     "meta_title": "Best Places to Eat in Salford: Local Food Guide",
     "meta_description": (
-        "Salford food guide: a Hong Kong cha chaan teng, a Chapel Street specialty "
-        "coffee bar, a Michelin-listed Greek cafe, and a nationally listed Edwardian "
-        "pub. Read the guide."
+        "Where to eat in Salford: a Hong Kong cha chaan teng, a Chapel Street coffee "
+        "bar, a Michelin-listed Greek cafe and an Edwardian pub. Read the guide."
     ),
     "trust_strip": (
         "From Chapel Street independents to a Michelin Guide Greek cafe, Salford "
