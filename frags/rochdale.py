@@ -11,9 +11,8 @@ TOWNS["rochdale"] = {
     "nearby": ["Oldham", "Bury", "Heywood"],
     "meta_title": "Best Places to Eat in Rochdale: Local Food Guide",
     "meta_description": (
-        "Where to eat in Rochdale: a Pakistani karahi takeaway, an Italian cafe-bistro "
-        "on Baillie Street, a contemporary Indian grill and a CAMRA pub of the year "
-        "on Toad Lane. Read the guide."
+        "Rochdale food guide: karahi on Milkstone Road, Italian bistro on Baillie "
+        "Street, an Indian grill and a CAMRA pub of the year. Read the guide."
     ),
     "trust_strip": (
         "From the South Asian karahi kitchens of Milkstone Road to a CAMRA national "

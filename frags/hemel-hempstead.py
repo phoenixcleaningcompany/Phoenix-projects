@@ -5,8 +5,7 @@ TOWNS["hemel-hempstead"] = {
     "meta_title": "Best Places to Eat in Hemel Hempstead: Food Guide",
     "meta_description": (
         "Where to eat in Hemel Hempstead: Thai in a Tudor cottage, organic "
-        "coffee in a 500-year-old building, South Indian dosas and a "
-        "16th-century inn. Read the guide."
+        "coffee, South Indian dosas and a 16th-century inn. Read the guide."
     ),
     "trust_strip": (
         "From a Tudor-roofed Thai cottage to the first South Indian in "
