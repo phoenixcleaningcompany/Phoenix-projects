@@ -4,9 +4,8 @@ TOWNS["basingstoke"] = {
     "nearby": ["Andover", "Aldershot", "Farnborough"],
     "meta_title": "Best Places to Eat in Basingstoke: Food Guide",
     "meta_description": (
-        "Where to eat in Basingstoke: a South Indian restaurant in a 1,400-year-old "
-        "building, a Thai fine-dining favourite, a specialty coffee house and a "
-        "riverside mill pub. Read the guide."
+        "Where to eat in Basingstoke: South Indian dosas on London Street, Thai fine "
+        "dining, a specialty coffee house and a riverside mill pub. Read the guide."
     ),
     "trust_strip": (
         "From a South Indian cocktail bar on ancient London Street to a Wadworth "
