@@ -4,9 +4,9 @@ TOWNS["solihull"] = {
     "nearby": ["Birmingham", "Coventry", "Redditch"],
     "meta_title": "Best Places to Eat in Solihull: Local Food Guide",
     "meta_description": (
-        "Where to eat in Solihull: fish and chips since 1982 in Knowle, an "
-        "award-winning brunch cafe, a one-Michelin-star walled-garden tasting "
-        "menu and a CAMRA micropub. Read the guide."
+        "Where to eat in Solihull: Knowle fish and chips since 1982, a brunch "
+        "cafe, a Michelin-starred walled garden and a CAMRA micropub. "
+        "Read the guide."
     ),
     "trust_strip": (
         "From a family chippy on Knowle High Street to the Solihull "
