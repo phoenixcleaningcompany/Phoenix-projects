@@ -7,9 +7,9 @@ TOWNS["oxford"] = {
     "nearby": ["Abingdon", "Bicester", "Witney"],
     "meta_title": "Best Places to Eat in Oxford: Local Food Guide",
     "meta_description": (
-        "Where to eat in Oxford: a Syrian falafel wrap on Cowley Road, "
-        "a Covered Market cafe since 1924, a Michelin-listed French brasserie "
-        "and a Victorian real-ale pub. Read the guide."
+        "Four Oxford independents: Cowley Road falafel, a Covered Market cafe "
+        "since 1924, a Michelin-listed brasserie and a Jericho real-ale pub. "
+        "Read the guide."
     ),
     "trust_strip": (
         "From the Covered Market stalls to a Michelin-listed brasserie in "
