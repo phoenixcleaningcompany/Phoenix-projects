@@ -4,9 +4,9 @@ TOWNS["sutton-coldfield"] = {
     "nearby": ["Tamworth", "Lichfield", "Walsall"],
     "meta_title": "Best Places to Eat in Sutton Coldfield: Food Guide",
     "meta_description": (
-        "Where to eat in Sutton Coldfield: Lebanese street food on the Parade, "
-        "an in-house roastery cafe, a lakeside Great British Menu kitchen, "
-        "and the town's last traditional pub. Read the guide."
+        "Where to eat in Sutton Coldfield: Lebanese street food, a roastery "
+        "cafe, a lakeside Great British Menu kitchen, and a 170-year-old pub. "
+        "Read the guide."
     ),
     "trust_strip": (
         "From a Lebanese street-food counter on The Parade to a Great British "

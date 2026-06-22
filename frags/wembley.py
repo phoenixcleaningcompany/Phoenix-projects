@@ -4,9 +4,9 @@ TOWNS["wembley"] = {
     "nearby": ["Harrow", "Edgware", "Ruislip"],
     "meta_title": "Best Places to Eat in Wembley: Local Food Guide",
     "meta_description": (
-        "Where to eat in Wembley: a Nairobi-born bhajia shop, an independent "
-        "coffee roaster on Olympic Way, Gujarati thali on Ealing Road and a pub "
-        "since 1722. Read the guide."
+        "Where to eat in Wembley: Nairobi-born bhajias on Ealing Road, "
+        "specialty coffee on Olympic Way, Gujarati thali and a pub since 1722. "
+        "Read the guide."
     ),
     "trust_strip": (
         "From a Nairobi-born bhajia house to an independent roastery on "

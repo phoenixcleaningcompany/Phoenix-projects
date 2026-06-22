@@ -4,8 +4,8 @@ TOWNS["hartlepool"] = {
     "nearby": ["Stockton-on-Tees", "Billingham", "Peterlee"],
     "meta_title": "Best Places to Eat in Hartlepool: Local Food Guide",
     "meta_description": (
-        "Where to eat in Hartlepool: award-winning fish and chips on the seafront, "
-        "a 1940s tearoom, a Marina Italian and a Headland pub open since 1868. "
+        "Where to eat in Hartlepool: award-winning seafront fish and chips, "
+        "a 1940s tearoom, a Marina Italian and a Headland pub since 1868. "
         "Read the guide."
     ),
     "trust_strip": (
