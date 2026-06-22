@@ -5,8 +5,8 @@ TOWNS["croydon"] = {
     "meta_title": "Best Places to Eat in Croydon: Local Food Guide",
     "meta_description": (
         "Where to eat in Croydon: Caribbean jerk on South End, specialty coffee "
-        "near East Croydon, award-winning Italian pasta and 38 years of great "
-        "real ale. Read the guide."
+        "near East Croydon, award-winning Italian and 38 years of real ale. "
+        "Read the guide."
     ),
     "trust_strip": (
         "From a Caribbean jerk house on the oldest restaurant street to a free "
