@@ -340,3 +340,180 @@ TOWNS["birmingham"] = {
          "south in Sparkbrook, a short bus or taxi ride away."),
     ],
 }
+
+TOWNS["leeds"] = {
+    "region": "West Yorkshire",
+    "population": "800K",
+    "nearby": ["Pudsey", "Horsforth", "Rothwell"],
+    "meta_title": "Best Places to Eat in Leeds: Local Food Guide",
+    "meta_description": (
+        "Where to eat in Leeds: a Kirkgate Market street-food stall, a "
+        "pioneering coffee bar, Michelin-listed Keralan cooking and the "
+        "oldest pub. Read the guide."
+    ),
+    "hero_svg_file": "eat_hero_leeds.svg",
+    "hero_svg_brief": (
+        "Leeds skyline in the Phoenix charcoal/slate palette with copper "
+        "highlights: the clock tower and glass roof of Leeds Town Hall, the "
+        "ornate Victorian Corn Exchange dome, the Bridgewater Place tower, "
+        "the arched Kirkgate Market facade; the River Aire and a canal "
+        "narrowboat across the foreground; copper plate-and-cutlery motif; "
+        "banner reading WHERE TO EAT IN LEEDS."
+    ),
+    "trust_strip": (
+        "From the street-food stalls of Kirkgate Market to a 1715 ale house, "
+        "Leeds packs a deep independent food scene into a walkable centre"
+    ),
+    "snapshot": (
+        "For a fast answer: Manjit's Kitchen at Kirkgate Market for "
+        "vegetarian Punjabi street food that grew from a food truck, Laynes "
+        "Espresso by the station for the coffee bar that helped start the "
+        "city's speciality scene, Tharavadu for Michelin-listed Keralan "
+        "cooking, and Whitelock's Ale House for a pint and a pie in the "
+        "oldest pub in Leeds. Four moods, one compact city centre."
+    ),
+    "stats": [
+        ("800K", "Population (approx)"),
+        ("1715", "Year Whitelock's first poured a pint"),
+        ("Kirkgate Market", "One of Europe's largest covered markets"),
+        ("4", "Hand-picked independents"),
+    ],
+    "pivot_variant": "high-volume",
+    "pivot_local_hook": (
+        "Leeds cooks at volume and at heat: tandoors and tawas firing dosas "
+        "and Punjabi street food, char-grills and fryers running through "
+        "lunch and dinner, and busy pub kitchens turning out pies and "
+        "battered fish all push a heavy load of grease-laden vapour into "
+        "their canopies every service."
+    ),
+    "venues": [
+        {"type": "Street Food", "name": "Manjit's Kitchen", "area": "Kirkgate Market (and 333 Kirkstall Road)",
+         "cuisine": "Vegetarian Punjabi street food",
+         "body": ("Manjit's Kitchen started as a humble food truck and grew into one of the best-loved "
+                  "names in Leeds street food, now trading from a stall in the food hall at Kirkgate "
+                  "Market and a bricks-and-mortar kitchen and bar on Kirkstall Road. Everything is "
+                  "vegetarian and much of it vegan: Punjabi home cooking done properly, with thalis, "
+                  "freshly griddled dosas, samosa chaat, paneer wraps and masala chai. Founder Manjit "
+                  "built a largely women-led kitchen, and the food carries that homemade care. Prices "
+                  "are gentle and portions generous, which is why the stall draws a lunchtime queue. "
+                  "Order the thali for the full spread, or a samosa chaat and a wrap to eat on the move."),
+         "known_for": "Vegetarian Punjabi street food that grew from a food truck",
+         "good_for": "A fast, cheap, properly spiced lunch in the market",
+         "source_url": "https://www.manjitskitchen.com/",
+         "verified": "2026-06-22"},
+        {"type": "Cafe", "name": "Laynes Espresso", "area": "16 New Station Street, by Leeds station",
+         "cuisine": "Speciality coffee and brunch",
+         "body": ("Laynes opened in 2011 in a narrow unit on New Station Street, right by the railway "
+                  "station, and is widely credited with helping kick off Leeds's independent speciality "
+                  "coffee scene. Barista-owned and run, it was one of the first in the city to pour the "
+                  "underground roasts and teas that locals now take for granted. Over fifteen years it "
+                  "has grown from an espresso bar into one of the best brunch spots in the centre, with "
+                  "pastries and bakes from its own Laynes Bakery in Armley. It is consistently rated the "
+                  "city's top coffee stop. Grab a flat white and a brunch plate on your way in or out of "
+                  "town, or settle in with a filter and a pastry."),
+         "known_for": "The coffee bar that helped start the city's speciality scene",
+         "good_for": "A serious coffee and brunch by the station",
+         "source_url": "https://laynescafe.co.uk/",
+         "verified": "2026-06-22"},
+        {"type": "Restaurant", "name": "Tharavadu", "area": "7-8 Mill Hill, city centre",
+         "cuisine": "Keralan, South Indian",
+         "body": ("Tharavadu, meaning ancestral home, was opened in 2014 by Siby Jose and a team of "
+                  "Keralan chefs, and has become one of the most respected Indian restaurants in the "
+                  "north of England. Tucked on Mill Hill near the station, it cooks the food of Kerala: "
+                  "superbly spiced, coastal South Indian dishes built on coconut, curry leaf and "
+                  "tamarind rather than the standard curry-house template. It has been recommended by "
+                  "the Michelin Guide for several years running, listed in Harden's, and named among the "
+                  "UK's top 100. The paper-thin dosas are a signature, and the meen kootan fish curry is "
+                  "the most-ordered main. Book ahead, especially at weekends, and go for the seafood and "
+                  "the dosas."),
+         "known_for": "Michelin-listed Keralan cooking, famous for its dosas",
+         "good_for": "A standout South Indian meal in the city centre",
+         "source_url": "https://www.tharavadurestaurants.com/",
+         "verified": "2026-06-22"},
+        {"type": "Pub", "name": "Whitelock's Ale House", "area": "Turk's Head Yard, off Briggate",
+         "cuisine": "British pub food, cask ale",
+         "body": ("Whitelock's is the oldest pub in Leeds, first licensed as the Turk's Head in 1715 and "
+                  "tucked down a narrow yard off Briggate. The Whitelock family took it on in the 1880s "
+                  "and remodelled it in 1895 into the long, narrow luncheon bar that largely survives "
+                  "today: gleaming brass, etched and stained glass, marble counters and a real fire in "
+                  "winter. It was reputedly the first building in the city with electric light, and the "
+                  "poet John Betjeman called it the very heart of Leeds. Now Grade II* listed, it pours a "
+                  "well-kept range of cask ales and serves proper British food. The beef and ale pie, "
+                  "served in its tin, and the Sunday roast are the orders to make."),
+         "known_for": "A 1715 luncheon bar interior, cask ale and beef-and-ale pie",
+         "good_for": "A pint and a pie in the oldest pub in Leeds",
+         "source_url": "https://whitelocksleeds.com/",
+         "verified": "2026-06-22"},
+    ],
+    "food_scene": [
+        ("Leeds eats around its Victorian heart. Kirkgate Market, one of the largest covered markets in "
+         "Europe and the birthplace of Marks & Spencer, now holds a buzzing food hall where stalls like "
+         "Manjit's Kitchen serve street food from around the world, while the domed Corn Exchange nearby "
+         "keeps a clutch of independent makers and eateries under its remarkable roof."),
+        ("Out from the centre, the city's food districts each have a flavour. Call Lane and the "
+         "Briggate yards hold the bars and historic pubs, including Whitelock's down Turk's Head Yard. "
+         "Headingley and Chapel Allerton draw the brunch and neighbourhood-restaurant crowd, while the "
+         "streets around the station and Mill Hill have become a strong run of independent cafes and "
+         "dining rooms."),
+        ("It is a genuinely independent scene for its size: a pioneering speciality-coffee culture led "
+         "by the likes of Laynes, a deep bench of South Asian cooking from market street food up to "
+         "Michelin-listed Keralan dining at Tharavadu, and a heritage pub culture that few cities match. "
+         "Eat across all of it and you cover a food truck thali to a tasting-grade fish curry within a "
+         "few walkable blocks."),
+    ],
+    "visit": [
+        ("Almost all of this guide sits in the compact, walkable city centre. Kirkgate Market, the Corn "
+         "Exchange, Whitelock's down Turk's Head Yard and Tharavadu on Mill Hill are minutes apart on "
+         "foot, and Laynes is right by Leeds station, so it works as your first or last stop of the day. "
+         "Leeds is exceptionally well connected by rail, so a food day here is easy without a car."),
+        ("Time it right and the day flows: a flat white and brunch at Laynes by the station, a thali "
+         "from Manjit's in the market for lunch, a pint and a pie under the etched glass at Whitelock's "
+         "in the afternoon, and Tharavadu saved for dinner. Book Tharavadu ahead, especially on a "
+         "weekend, and arrive at Manjit's market stall a little before the lunchtime rush."),
+    ],
+    "checklist": [
+        "Start with coffee and brunch at Laynes Espresso by the station",
+        "Queue for a thali or dosa at Manjit's Kitchen in Kirkgate Market",
+        "Duck down Turk's Head Yard to see Whitelock's 1715 interior",
+        "Book Tharavadu ahead for the dosas and meen kootan fish curry",
+        "Wander the Corn Exchange and market food hall between stops",
+    ],
+    "what_to_order": (
+        "Order with intent. At Manjit's Kitchen, a full thali, or a samosa chaat and a paneer wrap to "
+        "eat on the move. At Laynes, a flat white with a pastry from their own bakery, or the brunch "
+        "plate. At Tharavadu, the paper-thin dosas and the meen kootan fish curry, with plenty for "
+        "vegetarians too. At Whitelock's, the beef and ale pie in its tin with a pint of well-kept cask "
+        "ale, or the Sunday roast with Yorkshire puddings."
+    ),
+    "glance": [
+        ("Best for a quick bite", "Manjit's Kitchen, for a thali or dosa in Kirkgate Market"),
+        ("Best for an occasion", "Tharavadu, for Michelin-listed Keralan cooking"),
+        ("Best for atmosphere", "Whitelock's 1715 luncheon bar down Turk's Head Yard"),
+    ],
+    "faq": [
+        ("Where can I eat good street food in Leeds?",
+         "Kirkgate Market's food hall is the place to start, and Manjit's Kitchen is the standout: "
+         "vegetarian Punjabi street food, from thalis to freshly griddled dosas, that grew from a food "
+         "truck into one of the city's best-loved independents."),
+        ("What is the oldest pub in Leeds?",
+         "Whitelock's Ale House, down Turk's Head Yard off Briggate, first licensed as the Turk's Head "
+         "in 1715. Its narrow 1890s luncheon-bar interior, with etched glass and brass, is Grade II* "
+         "listed, and it serves cask ale and British classics like beef and ale pie."),
+        ("Where is the best independent coffee in Leeds?",
+         "Laynes Espresso on New Station Street, open since 2011 right by the railway station, helped "
+         "pioneer the city's speciality coffee scene. It is barista-owned, consistently rated the city's "
+         "top coffee stop, and also one of the best brunch spots in the centre."),
+        ("Does Leeds have a Michelin-recommended restaurant?",
+         "Yes. Tharavadu on Mill Hill, a Keralan restaurant opened in 2014, has been recommended in the "
+         "Michelin Guide for several years running and listed among the UK's top 100. It is known for "
+         "its paper-thin dosas and the meen kootan fish curry."),
+        ("Which Leeds restaurant is best for South Indian food?",
+         "Tharavadu cooks the food of Kerala rather than the standard curry-house menu, built on "
+         "coconut, curry leaf and tamarind, with strong seafood and dosas. It is a short walk from the "
+         "station on Mill Hill; book ahead at weekends."),
+        ("Can you do a Leeds food day on foot and public transport?",
+         "Easily. Kirkgate Market, the Corn Exchange, Whitelock's and Tharavadu are all minutes apart in "
+         "the compact centre, and Laynes sits right by Leeds station, which is one of the best-connected "
+         "rail hubs in the north."),
+    ],
+}
