@@ -1,0 +1,33 @@
+{
+  "slug": "birmingham",
+  "town": "Birmingham",
+  "built_at": "2026-06-22",
+  "exempt": false,
+  "venues": [
+    {
+      "name": "Shababs",
+      "source_url": "https://www.tripadvisor.com/Restaurant_Review-g186402-d1741396-Reviews-Shababs_Balti_Restaurant-Birmingham_West_Midlands_England.html",
+      "verified": "2026-06-22"
+    },
+    {
+      "name": "Quarter Horse Coffee",
+      "source_url": "https://quarterhorsecoffee.com/",
+      "verified": "2026-06-22"
+    },
+    {
+      "name": "Opheem",
+      "source_url": "https://opheem.com/",
+      "verified": "2026-06-22"
+    },
+    {
+      "name": "The Old Joint Stock",
+      "source_url": "https://www.oldjointstock.co.uk/",
+      "verified": "2026-06-22"
+    }
+  ],
+  "nearby": [
+    "Solihull",
+    "West Bromwich",
+    "Walsall"
+  ]
+}
