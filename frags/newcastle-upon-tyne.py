@@ -2,7 +2,7 @@ TOWNS["newcastle-upon-tyne"] = {
     "region": "the North East",
     "population": "300K",
     "nearby": ["Gateshead", "South Shields", "Tynemouth"],
-    "meta_title": "Best Places to Eat in Newcastle: Local Food Guide",
+    "meta_title": "Best Places to Eat in Newcastle upon Tyne: Food Guide",
     "meta_description": (
         "Where to eat in Newcastle: a seasonal Ouseburn bistro, a speciality "
         "roaster, a Michelin-star table and a Bib Gourmand pub. Read the guide."
