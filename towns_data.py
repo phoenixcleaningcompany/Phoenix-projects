@@ -8053,3 +8053,7650 @@ TOWNS["dudley"] = {
 for _k, _slug in [('glasgow', 'glasgow'), ('sheffield', 'sheffield'), ('manchester', 'manchester'), ('edinburgh', 'edinburgh'), ('liverpool', 'liverpool'), ('bristol', 'bristol'), ('cardiff', 'cardiff'), ('leicester', 'leicester'), ('bradford', 'bradford'), ('coventry', 'coventry'), ('nottingham', 'nottingham'), ('newcastle upon tyne', 'newcastle-upon-tyne'), ('sunderland', 'sunderland'), ('brighton', 'brighton'), ('plymouth', 'plymouth')]:
     if _k in TOWNS:
         TOWNS[_k]["hero_svg_file"] = "eat_hero_%s.svg" % _slug
+
+# norwich (batch2) -----------------------------------------------
+TOWNS["norwich"] = {
+    "region": "Norfolk",
+    "population": "195K",
+    "nearby": ["Ipswich", "Cambridge", "Colchester"],
+    "meta_title": "Best Places to Eat in Norwich: Local Food Guide",
+    "meta_description": (
+        "Where to eat in Norwich: a century-old Lanes fish bar, a multi-award "
+        "roastery, a Michelin-listed bistro and a Belgian alehouse. "
+        "Read the guide."
+    ),
+    "trust_strip": (
+        "From the Norwich Lanes fish bar to a Michelin-listed St Benedicts "
+        "kitchen, Norwich packs a genuine independent food culture into one "
+        "of the most complete medieval cities in England"
+    ),
+    "snapshot": (
+        "For a fast answer: Grosvenor Fish Bar on Lower Goat Lane for a "
+        "century-old fish and chip institution in a listed building, "
+        "Strangers Coffee at 21 Pottergate for the multi-award-winning "
+        "Norwich Lanes roastery, Benedicts on St Benedicts Street for "
+        "Richard Bainbridge's Michelin-listed Norfolk bistro, and The "
+        "Belgian Monk at 7 Pottergate for 45 Belgian beers and mussel pots "
+        "since 2000. Four moods, one walkable medieval city."
+    ),
+    "stats": [
+        ("195K", "Population (approx)"),
+        ("900+", "Years Norwich Market has traded"),
+        ("100", "Years the Grosvenor Fish Bar has served the Lanes"),
+        ("4", "Hand-picked independents"),
+    ],
+    "pivot_variant": "market-town",
+    "pivot_local_hook": (
+        "Norwich Market has run six days a week for over 900 years, and the "
+        "city centre kitchens feeding that daily footfall - from the fish "
+        "bars of the Lanes to the fine-dining rooms of St Benedicts Street "
+        "- push a steady load of grease-laden vapour into their canopies "
+        "through every service."
+    ),
+    "venues": [
+        {
+            "type": "Takeaway",
+            "name": "Grosvenor Fish Bar",
+            "area": "28 Lower Goat Lane, Norwich Lanes",
+            "cuisine": "Fish and chips, seafood",
+            "body": (
+                "A fish and chip shop has occupied this 1700s listed building on "
+                "Lower Goat Lane for a century, making the Grosvenor one of "
+                "Norwich's most durable food institutions. The family tradition "
+                "runs back over 50 years under current ownership, and the shop "
+                "sits at the heart of the Norwich Lanes - the warren of medieval "
+                "streets now given over to independent traders. The menu runs "
+                "beyond the standard batter, with sea bass, mackerel, tuna, "
+                "squid and rock salmon alongside the classic cod, plus wraps, "
+                "sandwiches and burgers. The bar is licensed, there is seating "
+                "for up to 70 downstairs, and opening hours run Monday to "
+                "Saturday through the lunch and early-evening rush."
+            ),
+            "known_for": "A century of fish and chips in a 1700s listed building",
+            "good_for": "A proper chip-shop lunch in the heart of the Norwich Lanes",
+            "source_url": "https://norwichlanes.co.uk/food-and-drink/grosvenor-fish-bar/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Cafe",
+            "name": "Strangers Coffee",
+            "area": "21 Pottergate, Norwich Lanes (roastery: 10 Dove Street)",
+            "cuisine": "Speciality coffee",
+            "body": (
+                "Founded in 2009 by Alex Sargeant and Samuel Maddocks, Strangers "
+                "Coffee has been the heartbeat of Norwich's speciality coffee "
+                "scene for well over a decade. The coffee house at 21 Pottergate "
+                "sits in the Norwich Lanes alongside the roastery on Dove Street, "
+                "where all their beans are sourced direct and roasted on site. "
+                "The company has been named among the top nine speciality coffee "
+                "shops in the country and has won best coffee experience in the "
+                "UK; co-founder Alex Sargeant has placed twice in the top 15 at "
+                "the UK Barista Championships. Rotating single-origin espresso "
+                "and filter are served at the Pottergate counter, with beans "
+                "available to take home and wholesale supply going out to cafes "
+                "across Britain. Open seven days a week."
+            ),
+            "known_for": "Multi-award-winning speciality roastery and coffee house since 2009",
+            "good_for": "A serious single-origin coffee in the middle of the Norwich Lanes",
+            "source_url": "https://strangerscoffee.com/location",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Restaurant",
+            "name": "Benedicts",
+            "area": "9 St Benedicts Street, Norwich Lanes",
+            "cuisine": "Modern British, Norfolk produce",
+            "body": (
+                "Richard Bainbridge opened Benedicts with his wife Katja in June "
+                "2015, and the restaurant has been one of the city's destination "
+                "tables ever since. Bainbridge won Great British Menu in 2016 and "
+                "is a committed ambassador for the Norfolk larder, building his "
+                "ingredient-led menus around the county's produce. The restaurant "
+                "holds 3 AA Rosettes and a Michelin Guide listing, and won "
+                "Restaurant of the Year and Front of House Experience of the Year "
+                "at the Norfolk Food and Drink Awards 2023. The room is simply "
+                "decorated - the food does the talking. Dinner runs as a sequence "
+                "of courses from eight upwards, and the restaurant was actively "
+                "hosting wine-dinner events in June 2026. Book ahead."
+            ),
+            "known_for": "Michelin-listed, AA three-rosette Norfolk bistro; Great British Menu winner",
+            "good_for": "A proper occasion meal in Norwich's best dining room",
+            "source_url": "https://restaurantbenedicts.com/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Pub",
+            "name": "The Belgian Monk",
+            "area": "7 Pottergate, Norwich Lanes",
+            "cuisine": "Belgian and North French pub food",
+            "body": (
+                "The Belgian Monk opened in December 2000 with the aim of doing "
+                "something genuinely different for Norwich, and it still stands "
+                "apart: 45 Belgian beers on tap and in bottle, and a kitchen "
+                "cooking Belgian and Northern French food to restaurant standard. "
+                "The connection to the city runs deeper than it seems - Flemish "
+                "weavers settled around this part of Pottergate centuries ago, "
+                "and the Monk honours that heritage. The mussels are the thing "
+                "to order: sourced from Brancaster in season or Scotland out of "
+                "season, they come in changing preparations including the "
+                "popular quattro formaggi pot. Wild boar sausages and Belgian "
+                "classics sit alongside vegetarian and vegan options. Bar open "
+                "Monday to Saturday 11am-11pm, Sunday from noon."
+            ),
+            "known_for": "45 Belgian beers and Brancaster mussel pots since 2000",
+            "good_for": "Belgian beer and mussels in one of Norwich's most distinctive rooms",
+            "source_url": "https://www.thebelgianmonk.com/",
+            "verified": "2026-06-22",
+        },
+    ],
+    "food_scene": [
+        (
+            "Norwich's food map is anchored by two medieval layers: the market and "
+            "the Lanes. Norwich Market has traded from the city centre for over 900 "
+            "years and is one of the largest outdoor markets in England, offering "
+            "everything from freshly dressed Cromer crab and local veg to street "
+            "food stalls serving international lunches to the daily crowd. The "
+            "Cromer crab - caught from the chalk reef just off the north Norfolk "
+            "coast - is the county's signature ingredient, as distinctively local "
+            "as pasties are to Cornwall."
+        ),
+        (
+            "The Norwich Lanes, a warren of medieval streets running west from the "
+            "market towards St Benedicts Street, have become the home of the city's "
+            "independent food culture. Lower Goat Lane, Pottergate and St Benedicts "
+            "Street hold the fish bars, roasteries, bistros, Belgian alehouses and "
+            "wine bars that give Norwich its dining identity. The area claims over "
+            "500 independent traders under one Norfolk sky, and the density of "
+            "quality independents in just a few streets is striking."
+        ),
+        (
+            "A short walk east, Tombland and the Cathedral Quarter add a different "
+            "register: cobbled streets opposite the cathedral hold Shiki, the "
+            "family-owned Japanese restaurant trading since 2004 and one of the "
+            "oldest of its kind in the region. The city's food geography is small "
+            "enough to walk in an afternoon, and the range - from a century-old "
+            "chip bar to a Michelin-listed tasting-menu restaurant - makes Norwich "
+            "the most complete food city in East Anglia."
+        ),
+    ],
+    "visit": [
+        (
+            "The geography is tight and almost entirely walkable. The Grosvenor "
+            "Fish Bar, Strangers Coffee and The Belgian Monk all sit within a "
+            "few minutes of one another in the Lanes, and Benedicts is on St "
+            "Benedicts Street at the western edge of the same area. Norwich "
+            "Market is a five-minute walk east. Norwich railway station is "
+            "about a mile south, with frequent trains from London Liverpool "
+            "Street (under two hours), Cambridge and Ipswich."
+        ),
+        (
+            "A good day runs: a Strangers flat white to start, lunch at the "
+            "Grosvenor Fish Bar in its listed Lanes building, a wander through "
+            "the market and cathedral quarter, then an evening split between "
+            "The Belgian Monk for the mussels and a pour of something Belgian, "
+            "and Benedicts if you have booked ahead for the full tasting sequence. "
+            "The Lanes are quieter on weekday lunchtimes; the market is at its "
+            "best Tuesday to Saturday."
+        ),
+    ],
+    "checklist": [
+        "Start the day at Strangers Coffee on Pottergate - the roastery is on Dove Street nearby",
+        "Lunch at the Grosvenor Fish Bar in its 1700s listed building on Lower Goat Lane",
+        "Browse Norwich Market (Tuesday-Saturday) for Norfolk produce and street food",
+        "Book Benedicts well ahead - evenings fill quickly and tasting menus run long",
+        "End at The Belgian Monk: order a mussel pot and ask the bar what is fresh on draught",
+    ],
+    "what_to_order": (
+        "Order with intent. At the Grosvenor, the classic battered cod with chips "
+        "or, for something different, the sea bass. At Strangers, ask which "
+        "single-origin bean is on the espresso that week and consider a bag to "
+        "take home. At Benedicts, surrender to the full tasting sequence and let "
+        "the Norfolk produce lead - the kitchen varies with the season. At The "
+        "Belgian Monk, the mussel pot is the centrepiece; pair it with one of the "
+        "10 draught Belgian beers and follow with the wild boar sausages if hunger "
+        "persists."
+    ),
+    "glance": [
+        ("Best for a quick bite", "Grosvenor Fish Bar, for a century of chips in a listed Lanes building"),
+        ("Best for an occasion", "Benedicts, for Michelin-listed Norfolk cooking on St Benedicts Street"),
+        ("Best for atmosphere", "The Belgian Monk's 45-beer Belgian alehouse, open since 2000"),
+    ],
+    "faq": [
+        (
+            "Where can I get the best fish and chips in Norwich?",
+            "The Grosvenor Fish Bar at 28 Lower Goat Lane has been serving fish "
+            "and chips from a 1700s listed building in the Norwich Lanes for a "
+            "century. It is open Monday to Saturday and offers cod, sea bass, "
+            "mackerel and more, with eat-in seating and a full bar licence.",
+        ),
+        (
+            "What is Norwich famous for to eat?",
+            "Cromer crab is the county's signature - the sweet, meaty crabs "
+            "are caught from the chalk reef off the north Norfolk coast and "
+            "appear on menus across the city. Norwich Market has sold fresh "
+            "Norfolk produce for over 900 years, and the city has a strong "
+            "independent food scene centred on the Norwich Lanes.",
+        ),
+        (
+            "Does Norwich have a Michelin-recommended restaurant?",
+            "Yes. Benedicts at 9 St Benedicts Street, run by chef-owner Richard "
+            "Bainbridge (Great British Menu winner 2016), holds a Michelin Guide "
+            "listing and 3 AA Rosettes. The restaurant focuses on Norfolk produce "
+            "and won Restaurant of the Year at the Norfolk Food and Drink Awards "
+            "2023. Book well ahead.",
+        ),
+        (
+            "Where is the best independent coffee in Norwich?",
+            "Strangers Coffee at 21 Pottergate in the Norwich Lanes, founded in "
+            "2009, is the city's leading speciality roastery. The company roasts "
+            "single-origin beans on site at their Dove Street roastery and has "
+            "been named among the top nine speciality coffee shops in the UK. "
+            "Open seven days a week.",
+        ),
+        (
+            "Which Norwich pub has the best beer selection?",
+            "The Belgian Monk at 7 Pottergate has offered 45 Belgian beers - "
+            "10 on draught and 35 in bottle - since opening in December 2000. "
+            "The pub also serves Belgian and Northern French food including "
+            "mussel pots sourced from Brancaster in season.",
+        ),
+        (
+            "Can you do a Norwich food day on foot?",
+            "Easily. The Grosvenor Fish Bar, Strangers Coffee and The Belgian "
+            "Monk are all in the Norwich Lanes within a few minutes of each "
+            "other. Benedicts is at the western end of St Benedicts Street, "
+            "a short walk away. Norwich Market and Tombland are five to ten "
+            "minutes east on foot.",
+        ),
+    ],
+}
+
+# swindon (batch2) -----------------------------------------------
+TOWNS["swindon"] = {
+    "region": "Wiltshire",
+    "population": "222K",
+    "nearby": ["Chippenham", "Newbury", "Oxford"],
+    "meta_title": "Best Places to Eat in Swindon: Local Food Guide",
+    "meta_description": (
+        "Where to eat in Swindon: an Indian since 1990, a Railway Village specialty "
+        "coffee, Spanish tapas in Old Town and a pre-1850 real-ale pub. "
+        "Read the guide."
+    ),
+    "trust_strip": (
+        "From a Railway Village specialty roast to Spanish tapas on Devizes Road, "
+        "Swindon's independent food scene punches well above its reputation"
+    ),
+    "snapshot": (
+        "For a fast answer: Ruchi on Victoria Road for a family-run Indian since "
+        "1990, Darkroom Espresso on Faringdon Road for Swindon's award-winning "
+        "specialty coffee, Los Gatos on Devizes Road for authentic Spanish tapas, "
+        "and The Glue Pot on Emlyn Square for Hop Back real ale in a pub older than "
+        "the railway itself. Four moods, two neighbourhoods, one town."
+    ),
+    "stats": [
+        ("222K", "Population (approx)"),
+        ("1843", "Year the GWR Works opened in Swindon"),
+        ("Old Town", "Swindon's independent dining heartland"),
+        ("4", "Hand-picked independents"),
+    ],
+    "pivot_variant": "market-town",
+    "pivot_local_hook": (
+        "Swindon's busy Old Town kitchens run through long lunch and dinner "
+        "services, and the railway-village gastropubs and curry houses that feed "
+        "shift workers and office crowds build a steady, heavy grease load in "
+        "their canopy filters across every service."
+    ),
+    "venues": [
+        {
+            "type": "Takeaway",
+            "name": "Ruchi",
+            "area": "89 Victoria Road, Old Town",
+            "cuisine": "Indian, British-Indian",
+            "body": (
+                "Ruchi has been feeding Old Town since 1990, making it one of the "
+                "longest-running independent Indian restaurants in Swindon. The "
+                "family-run kitchen on Victoria Road offers both dine-in and "
+                "takeaway, with a menu that spans classic British-Indian favourites "
+                "alongside tandoori grills and a popular VIP room for groups. "
+                "Chicken tikka masala, lamb rogan josh and king prawn dishes are "
+                "the standbys; Tuesday and Sunday evening specials make it the "
+                "neighbourhood go-to for a relaxed midweek meal. With more than "
+                "1,800 reviews on Tripadvisor and a 4.5-star rating, its longevity "
+                "is backed by local loyalty that stretches across three decades."
+            ),
+            "known_for": "Three decades of British-Indian cooking and takeaway in Old Town",
+            "good_for": "A reliable, affordable Indian evening out or takeaway",
+            "source_url": "https://www.ruchiswindon.co.uk/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Cafe",
+            "name": "Darkroom Espresso",
+            "area": "11 Faringdon Road, Railway Village",
+            "cuisine": "Specialty coffee",
+            "body": (
+                "Darkroom Espresso opened in September 2014 in the heart of Swindon's "
+                "historic Railway Village, making it the town's first serious specialty "
+                "coffee shop. Founded by Jacky Collyer and Andy Carter, it is now owned "
+                "and run by barista Stephen Jordan, who joined as staff before taking "
+                "the reins in 2019. The philosophy is straightforward: speciality "
+                "applies to everything on the counter, not just the beans. The shop "
+                "has won Good Food Awards consecutively in 2023, 2024 and 2025, and a "
+                "pop-up in Old Town's Faringdon Road opened in late 2025. Expect "
+                "rotating espresso and filter options, a calm working-cafe atmosphere, "
+                "and coffee taken seriously without the attitude."
+            ),
+            "known_for": "Award-winning specialty espresso and filter since 2014",
+            "good_for": "A serious mid-morning coffee in a relaxed Railway Village setting",
+            "source_url": "https://darkroomespresso.com/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Restaurant",
+            "name": "Los Gatos",
+            "area": "1-3 Devizes Road, Old Town",
+            "cuisine": "Spanish tapas",
+            "body": (
+                "Los Gatos opened on Wood Street in 2006 and moved to larger premises "
+                "on Devizes Road in 2014, doubling its dining room to over 120 covers "
+                "after an extension in 2022. The independently owned tapas bar serves "
+                "authentic Spanish small plates seven days a week, with Sunday paella "
+                "the weekly centrepiece and churros arriving on Saturday mornings. "
+                "Everything is prepared fresh from locally sourced or imported Spanish "
+                "ingredients: jamon, patatas bravas, gambas al ajillo and house "
+                "croquetas are the staples, while the wine list is built around Iberian "
+                "bottles. It books up fast at weekends - reservations are essential - "
+                "and remains one of the liveliest rooms in Old Town, updated on Yelp "
+                "as recently as June 2026."
+            ),
+            "known_for": "Authentic Spanish tapas, Sunday paella and Saturday churros",
+            "good_for": "A convivial evening of Spanish small plates in Old Town",
+            "source_url": "https://www.losgatos.uk/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Pub",
+            "name": "The Glue Pot",
+            "area": "5 Emlyn Square, Railway Village",
+            "cuisine": "Real ale, real cider",
+            "body": (
+                "The Glue Pot sits on Emlyn Square in Swindon's Railway Village, the "
+                "grid of stone cottages built by the Great Western Railway from the "
+                "mid-1840s. The pub itself pre-dates 1850, making it one of the oldest "
+                "trading businesses in town, and it is now the last survivor of the "
+                "three original Railway Village pubs. Owned by Hop Back Brewery, it "
+                "pours up to eight Hop Back and Downton real ales plus one rotating "
+                "guest, and its real cider range has earned it CAMRA Swindon and North "
+                "Wiltshire Cider Pub of the Year for 2024, 2025 and 2026 - three years "
+                "running. The Daily Telegraph named it the best pub in the region in "
+                "January 2025. No food frills, just exceptional drink in an unspoilt "
+                "Victorian corner local."
+            ),
+            "known_for": "CAMRA Cider Pub of the Year 2024, 2025 and 2026; Hop Back real ales",
+            "good_for": "A pint in a pre-1850 Railway Village pub with exceptional real cider",
+            "source_url": "https://camra.org.uk/pubs/glue-pot-swindon-138753",
+            "verified": "2026-06-22",
+        },
+    ],
+    "food_scene": [
+        (
+            "Swindon's food geography divides neatly between two distinct neighbourhoods. "
+            "Old Town, the original medieval settlement on the limestone hill above the "
+            "railway valley, is where the independent restaurants concentrate: Devizes "
+            "Road and Wood Street are lined with tapas bars, Indian kitchens, Italian "
+            "trattorias and daytime cafes, and a monthly artisan food market on Wood "
+            "Street adds local producers to the mix on the first and third Sunday of "
+            "the month."
+        ),
+        (
+            "Down the hill, the Railway Village is a different world. Isambard Kingdom "
+            "Brunel designed its grid of limestone cottages in the 1840s to house GWR "
+            "workers, and the neighbourhood remains remarkably intact, now a conservation "
+            "area anchored by the STEAM Museum of the Great Western Railway. Darkroom "
+            "Espresso on Faringdon Road brought specialty coffee to this heritage quarter "
+            "in 2014, and The Glue Pot on Emlyn Square has been pouring ale there since "
+            "before the cottages were fully built."
+        ),
+        (
+            "Between the two sits a broader town that has grown fast since the 1980s, "
+            "but the food worth seeking out remains in the original pair of neighbourhoods. "
+            "Old Town's Devizes Road alone holds Spanish tapas, Thai cooking and a run of "
+            "independents that make it Swindon's answer to a local high street; the "
+            "Railway Village's craft beer and coffee scene gives the heritage quarter a "
+            "second reason to visit."
+        ),
+    ],
+    "visit": [
+        (
+            "Old Town is easily walkable from the town centre station on foot in about "
+            "fifteen minutes, or a short taxi ride. The Devizes Road and Wood Street "
+            "strip is compact enough to cover on foot, putting Los Gatos, Mabel's and "
+            "Darkroom's Old Town pop-up within easy range of each other. The Railway "
+            "Village is a ten-minute walk north-west from the station, with the STEAM "
+            "Museum and The Glue Pot within a few hundred metres of each other."
+        ),
+        (
+            "A natural day runs: morning coffee at Darkroom Espresso in the Railway "
+            "Village, a walk around the STEAM Museum or the GWR cottage, then the short "
+            "climb up to Old Town for lunch or an early evening at Los Gatos - book "
+            "ahead. Ruchi opens from late afternoon and is ideal as a takeaway or a "
+            "relaxed Indian dinner to finish. The Glue Pot is best mid-afternoon or "
+            "early evening before the weekend crowd builds."
+        ),
+    ],
+    "checklist": [
+        "Book Los Gatos ahead, especially Friday and Saturday evenings",
+        "Arrive at Darkroom Espresso by mid-morning for the best rotating espresso",
+        "Walk the Railway Village cottages before or after The Glue Pot on Emlyn Square",
+        "Check Ruchi for Tuesday and Sunday evening specials",
+        "Catch the Wood Street artisan food market on the first or third Sunday of the month",
+    ],
+    "what_to_order": (
+        "Order with intent. At Ruchi, the chicken tikka masala or a lamb rogan josh "
+        "with pilau rice and a garlic naan; ask about the evening specials. At "
+        "Darkroom Espresso, whatever single origin is on the espresso that week, or "
+        "a pour-over filter. At Los Gatos, build a sharing spread of jambon croquetas, "
+        "gambas al ajillo, patatas bravas and a board of Spanish cheese, with the "
+        "Sunday paella as the main event if you visit at the weekend. At The Glue Pot, "
+        "a pint of Hop Back Summer Lightning or a glass of real cider from the board."
+    ),
+    "glance": [
+        ("Best for a quick bite", "Ruchi, for an Indian takeaway from Old Town's longest-running kitchen"),
+        ("Best for an occasion", "Los Gatos, for Spanish tapas and paella on Devizes Road"),
+        ("Best for atmosphere", "The Glue Pot, a pre-1850 Railway Village pub with three years of CAMRA cider awards"),
+    ],
+    "faq": [
+        (
+            "Where is the best Indian restaurant in Swindon?",
+            "Ruchi on Victoria Road in Old Town has been serving British-Indian cooking "
+            "since 1990, with over 1,800 Tripadvisor reviews and a 4.5-star rating. It "
+            "offers both dine-in and takeaway, with Tuesday and Sunday evening specials.",
+        ),
+        (
+            "Where can I get specialty coffee in Swindon?",
+            "Darkroom Espresso on Faringdon Road in the Railway Village opened in 2014 "
+            "as Swindon's first specialty coffee shop, and has won Good Food Awards in "
+            "2023, 2024 and 2025. It serves rotating espresso and filter in a calm, "
+            "working-cafe atmosphere.",
+        ),
+        (
+            "Is there good Spanish food in Swindon?",
+            "Los Gatos on Devizes Road in Old Town has been serving authentic Spanish "
+            "tapas since 2006. It offers small plates seven days a week, Sunday paella "
+            "and Saturday churros, all made fresh from Spanish and locally sourced "
+            "ingredients. Booking ahead is strongly recommended.",
+        ),
+        (
+            "Which Swindon pub has the best real ale and cider?",
+            "The Glue Pot on Emlyn Square in the Railway Village, owned by Hop Back "
+            "Brewery, pours up to eight real ales and an extensive real cider range. "
+            "It has been named CAMRA Swindon and North Wiltshire Cider Pub of the Year "
+            "for 2024, 2025 and 2026, and the Daily Telegraph called it the best pub "
+            "in the region in January 2025.",
+        ),
+        (
+            "What is Swindon Old Town like for eating out?",
+            "Old Town, on the limestone hill above the railway valley, is Swindon's "
+            "independent dining quarter. Devizes Road and Wood Street hold Spanish tapas, "
+            "Indian kitchens, Italian restaurants and daytime cafes, plus a monthly "
+            "artisan food market on the first and third Sunday of the month.",
+        ),
+        (
+            "What is the Railway Village in Swindon?",
+            "The Railway Village is a grid of limestone workers cottages built by the "
+            "Great Western Railway from the mid-1840s to house GWR employees. It is now "
+            "a conservation area containing the STEAM Museum of the Great Western Railway, "
+            "Darkroom Espresso and The Glue Pot, one of the oldest pubs in town.",
+        ),
+    ],
+}
+
+# croydon (batch2) -----------------------------------------------
+TOWNS["croydon"] = {
+    "region": "Greater London (south)",
+    "population": "390K",
+    "nearby": ["Bromley", "Sutton", "Epsom"],
+    "meta_title": "Best Places to Eat in Croydon: Local Food Guide",
+    "meta_description": (
+        "Where to eat in Croydon: Caribbean jerk on South End, specialty coffee "
+        "near East Croydon, award-winning Italian and 38 years of real ale. "
+        "Read the guide."
+    ),
+    "trust_strip": (
+        "From a Caribbean jerk house on the oldest restaurant street to a free "
+        "house with 38 consecutive years in the CAMRA Good Beer Guide, Croydon "
+        "rewards those who look beyond the high street chains"
+    ),
+    "snapshot": (
+        "For a fast answer: Goodlife Jerk Centre on South End for jerk chicken "
+        "and pork straight off the South End strip, Tao Cafe at Ruskin Square "
+        "for single-origin specialty coffee steps from East Croydon station, "
+        "Spaghetti Tree in Shirley for a Sicilian family restaurant that won "
+        "UK Best Independent Italian at the PAPA Awards, and the Claret and Ale "
+        "in Addiscombe for cask ales in a CAMRA-celebrated free house. Four "
+        "moods, one south London borough."
+    ),
+    "stats": [
+        ("390K", "London Borough of Croydon population (approx)"),
+        ("1276", "Year Surrey Street Market was first chartered"),
+        ("38", "Consecutive years Claret and Ale has been in CAMRA Good Beer Guide"),
+        ("4", "Hand-picked independents"),
+    ],
+    "pivot_variant": "high-volume",
+    "pivot_local_hook": (
+        "Croydon cooks at volume and at heat: Caribbean jerk pits firing "
+        "chicken and pork over charcoal, tandoors and spice-heavy street-food "
+        "stalls running all day on Surrey Street, and a busy restaurant quarter "
+        "on South End and High Street pushing a continuous load of grease-laden "
+        "vapour into their canopies through every service."
+    ),
+    "venues": [
+        {
+            "type": "Takeaway/Casual",
+            "name": "Goodlife Jerk Centre",
+            "area": "95 South End, Croydon CR0 1BG",
+            "cuisine": "Caribbean jerk, Jamaican",
+            "body": (
+                "South End is Croydon's original restaurant strip, and Goodlife "
+                "Jerk Centre, founded in 2019, has made itself a fixture on it. "
+                "The kitchen specialises in authentic Caribbean jerk: chicken, "
+                "pork and fish marinated deep in scotch bonnet, allspice and "
+                "thyme, then cooked until the skin crisps and the meat falls from "
+                "the bone. Sides run to rice and peas, fried plantain and festival "
+                "dumplings. The chicken and the pork both draw consistent praise "
+                "for their smoky heat and generous portions; the homemade chicken "
+                "soup on colder days has its own following. A compact, friendly "
+                "takeaway-and-dine operation on one of south London's most "
+                "culturally diverse eating streets, open into the evening."
+            ),
+            "known_for": "Jerk chicken and pork with rice and peas, plantain and festival dumplings",
+            "good_for": "An authentic Caribbean feed on Croydon's oldest restaurant strip",
+            "source_url": "https://www.goodlifejerkcentre.com/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Cafe",
+            "name": "Tao Cafe",
+            "area": "2A Ruskin Square, East Croydon CR0 2WF",
+            "cuisine": "Specialty coffee, vegetarian food",
+            "body": (
+                "Opened in February 2025 by Valentina and Tommaso, Tao Cafe sits "
+                "in the new Ruskin Square development a short walk from East "
+                "Croydon station. The name draws on Taoist principles of balance "
+                "and harmony, which the owners apply to coffee: light-roast, "
+                "single-origin beans sourced through Plot in south-east London, "
+                "with guest roasteries rotating alongside. Inside, a curving "
+                "concrete bar anchors a bright, airy space in soothing pastel "
+                "tones. The menu is fully vegetarian: homemade cakes, syrups and "
+                "extras are made in-house, and light snacks, salads and toasties "
+                "sit alongside the espresso, filter, chai and matcha. Open "
+                "weekdays from 7.30am and weekends from 8.30am."
+            ),
+            "known_for": "Light-roast single-origin espresso and filter through Plot; fully vegetarian kitchen",
+            "good_for": "A serious pre-commute coffee or a calm mid-morning pause near East Croydon",
+            "source_url": "https://taocafe.co.uk/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Restaurant",
+            "name": "Spaghetti Tree",
+            "area": "136-138 Wickham Road, Shirley, Croydon CR0 8BE",
+            "cuisine": "Sicilian Italian",
+            "body": (
+                "Spaghetti Tree began in 1985 when Sicilian founders Papa Luigi "
+                "and Mamma Caterina converted their sandwich bar in Sutton into "
+                "a pasta house, naming it after the famous BBC April Fools spoof. "
+                "Three generations on, the restaurant is run by Maria and her "
+                "daughter Loredana, and in 2024 they opened this Shirley branch "
+                "on Wickham Road. The following year it was named Best Independent "
+                "Italian Restaurant in the UK at the PAPA Awards, adding to the "
+                "family's Platinum PAPA Award and British Takeaway Award for "
+                "Greater London. The cooking is unapologetically Sicilian: "
+                "handmade pasta, slow-cooked sauces and a dessert list anchored "
+                "by the house tiramisu. Live music on weekend evenings and a "
+                "warm, family room atmosphere make it a south Croydon favourite."
+            ),
+            "known_for": "Sicilian handmade pasta and house tiramisu; UK Best Independent Italian PAPA Award 2025",
+            "good_for": "A proper occasion dinner with live music in a family-run dining room",
+            "source_url": "https://www.spaghettitree.co.uk/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Pub",
+            "name": "Claret and Ale",
+            "area": "5 Bingham Corner, Lower Addiscombe Road, Addiscombe CR0 7AA",
+            "cuisine": "Real ale free house",
+            "body": (
+                "A small, privately owned free house tucked into Bingham Corner "
+                "at the top of Lower Addiscombe Road, the Claret and Ale has been "
+                "making its case for the CAMRA Good Beer Guide every year for 38 "
+                "consecutive editions, a record that tells you everything about "
+                "the quality and consistency of the cellar. Six handpumps serve "
+                "a constantly changing range of cask ales alongside the house "
+                "Palmers IPA, with the board on the wall opposite the bar showing "
+                "what is on now and what is coming. It was named Croydon Borough "
+                "Pub of the Year by CAMRA in 2024. Near the Addiscombe tram stop, "
+                "dog-friendly, and without the noise of a sports-pub atmosphere, "
+                "it is the kind of place where locals know the regulars by name."
+            ),
+            "known_for": "Six rotating cask ales; 38 consecutive years in CAMRA Good Beer Guide",
+            "good_for": "A properly kept real ale in Croydon's best-regarded independent free house",
+            "source_url": "https://camra.org.uk/pubs/claret-ale-addiscombe-141487",
+            "verified": "2026-06-22",
+        },
+    ],
+    "food_scene": [
+        (
+            "Croydon's food map is built on genuine diversity. Surrey Street Market, "
+            "chartered in 1276 and one of Britain's oldest street markets, was "
+            "refurbished in 2025 and runs Monday to Saturday with vans and stalls "
+            "serving jerk chicken, Thai curries, Ethiopian wat, empanadas and more. "
+            "The shops lining Surrey Street add Jamaican classics, Vietnamese banh mi "
+            "and ramen, making the market the most compressed and varied food mile "
+            "in south London."
+        ),
+        (
+            "South End and the High Street form Croydon's restaurant quarter. "
+            "Turkish grill houses, Spanish tapas, Sri Lankan fish cutlets, Nigerian "
+            "stews and Sicilian pasta all sit within a few hundred metres of one "
+            "another, and the street draws serious restaurant-goers from across "
+            "south London. The area stretches up to Matthews Yard, a community arts "
+            "space near West Croydon station with a fully vegan kitchen and "
+            "programme of live events."
+        ),
+        (
+            "The coffee scene has come on fast. A handful of specialty independents "
+            "now operate across the borough, with the newest, Tao Cafe at Ruskin "
+            "Square, opening in early 2025. Meanwhile, the pub culture has its own "
+            "faithful geography: the CAMRA-celebrated free houses of Addiscombe "
+            "and Selsdon keep a rotating supply of cask ales well away from the "
+            "town centre crowds, and the Good Beer Guide has noted Croydon "
+            "consistently for decades."
+        ),
+    ],
+    "visit": [
+        (
+            "East Croydon station puts the borough within 15 minutes of London Bridge "
+            "and Victoria, and the Tramlink connects Addiscombe, South Croydon and "
+            "Shirley without needing the high street. The restaurant quarter on "
+            "South End is a ten-minute walk south from East Croydon, and Surrey "
+            "Street Market is right in the centre, off the High Street."
+        ),
+        (
+            "Done as a day: coffee at Tao Cafe near East Croydon station, a browse "
+            "through Surrey Street Market for a midday snack, jerk chicken on South "
+            "End at Goodlife for lunch, and the Claret and Ale in Addiscombe for "
+            "an afternoon pint. Save Spaghetti Tree in Shirley for an evening "
+            "booking, especially on a weekend with live music. Book ahead."
+        ),
+    ],
+    "checklist": [
+        "Start the morning at Tao Cafe at Ruskin Square - steps from East Croydon station",
+        "Walk through Surrey Street Market mid-morning; trading Monday to Saturday from 6am",
+        "Head south to Goodlife Jerk Centre on South End for a Caribbean lunch",
+        "Tram to Addiscombe for a rotating cask ale at the Claret and Ale free house",
+        "Book Spaghetti Tree in Shirley in advance for an evening with live music",
+    ],
+    "what_to_order": (
+        "Order with intent. At Goodlife Jerk Centre, the jerk chicken with rice and "
+        "peas, plantain and festival dumplings - ask about the homemade soup. At Tao "
+        "Cafe, ask which single origin is on the espresso or filter that week. At "
+        "Spaghetti Tree, go straight for the handmade pasta with a Sicilian-style "
+        "sauce and finish with the house tiramisu. At the Claret and Ale, read the "
+        "board and ask the bar staff what arrived newest - the cellar is the point."
+    ),
+    "glance": [
+        ("Best for a quick bite", "Goodlife Jerk Centre, for jerk chicken and pork on South End"),
+        ("Best for an occasion", "Spaghetti Tree in Shirley, PAPA Award-winning Sicilian cooking with live music"),
+        ("Best for atmosphere", "Claret and Ale in Addiscombe, 38 years in the CAMRA Good Beer Guide"),
+    ],
+    "faq": [
+        (
+            "Where can I eat jerk chicken in Croydon?",
+            "Goodlife Jerk Centre at 95 South End, founded in 2019, is the go-to "
+            "independent for Caribbean jerk chicken and pork on Croydon's oldest "
+            "restaurant strip, serving with rice and peas, plantain and festival dumplings."
+        ),
+        (
+            "Where is the best specialty coffee in Croydon?",
+            "Tao Cafe at 2A Ruskin Square near East Croydon station, opened in early "
+            "2025 by founders Valentina and Tommaso, serves light-roast single-origin "
+            "beans through Plot with rotating guest roasters and a fully vegetarian kitchen."
+        ),
+        (
+            "Which Croydon restaurant has won awards?",
+            "Spaghetti Tree on Wickham Road in Shirley was named Best Independent "
+            "Italian Restaurant in the UK at the PAPA Awards in 2025. The family "
+            "business, founded in 1985 by Sicilian founders, also holds a Platinum "
+            "PAPA Award and the British Takeaway Award for Greater London."
+        ),
+        (
+            "Which is the best real ale pub in Croydon?",
+            "The Claret and Ale at 5 Bingham Corner in Addiscombe is a small, privately "
+            "owned free house that has appeared in the CAMRA Good Beer Guide for 38 "
+            "consecutive years and was named Croydon Borough Pub of the Year 2024. "
+            "It serves six rotating cask ales and a regular Palmers IPA."
+        ),
+        (
+            "How old is Surrey Street Market in Croydon?",
+            "Surrey Street Market was first chartered in 1276, making it one of the "
+            "oldest street markets in Britain. It trades Monday to Saturday and "
+            "completed a 1.1 million pound refurbishment in 2025, marking 750 years "
+            "of continuous market trading on the same street."
+        ),
+        (
+            "Can you do a Croydon food day by public transport?",
+            "Easily. East Croydon station (15 minutes from London Bridge) puts you "
+            "near Tao Cafe and Surrey Street Market. The Tramlink connects South "
+            "Croydon, Addiscombe and Shirley without a car. Goodlife Jerk Centre "
+            "is a ten-minute walk south of East Croydon; the Claret and Ale is "
+            "near Addiscombe tram stop; and Spaghetti Tree is served by local buses."
+        ),
+    ],
+}
+
+# bournemouth (batch2) -----------------------------------------------
+TOWNS["bournemouth"] = {
+    "region": "Dorset",
+    "population": "196K",
+    "nearby": ["Poole", "Christchurch", "Ferndown"],
+    "meta_title": "Best Places to Eat in Bournemouth: Local Food Guide",
+    "meta_description": (
+        "Where to eat in Bournemouth: a family chippy, a Boscombe brunch cafe, "
+        "a Michelin-listed tasting menu and a CAMRA real ale pub. Read the guide."
+    ),
+    "trust_strip": (
+        "From a family chippy in Westbourne to a Michelin-listed tasting menu in "
+        "Southbourne, Bournemouth punches well above its weight as a seaside food destination"
+    ),
+    "snapshot": (
+        "For a fast answer: Chez Fred on Seamoor Road in Westbourne for the "
+        "south coast's most celebrated fish and chips, Cafe Boscanova in "
+        "Boscombe for a bohemian all-day brunch by the sea, Restaurant Roots "
+        "in Southbourne for Chef Jan Bretschneider's Michelin-listed tasting "
+        "menu, and The Goat and Tricycle on West Hill Road for 11 hand pumps "
+        "of CAMRA-award-winning real ale. Four moods, one seaside town."
+    ),
+    "stats": [
+        ("196K", "Population (approx)"),
+        ("1989", "Year Chez Fred first fried in Westbourne"),
+        ("3 AA Rosettes", "Restaurant Roots accolade in Dorset"),
+        ("4", "Hand-picked independents"),
+    ],
+    "pivot_variant": "coastal",
+    "pivot_local_hook": (
+        "A seaside town running flat-out through the summer months means "
+        "beachfront fryers, busy seafood kitchens and high-volume restaurant "
+        "services all pushing a sustained load of grease-laden vapour into "
+        "their canopies from Easter through September."
+    ),
+    "venues": [
+        {
+            "type": "Takeaway",
+            "name": "Chez Fred",
+            "area": "10 Seamoor Road, Westbourne",
+            "cuisine": "Fish and chips",
+            "body": (
+                "Father-and-son team Peter and Fred Capel opened their chip shop on "
+                "Seamoor Road in April 1989, with Fred bringing experience from "
+                "professional kitchens in London. Three generations of the Capel "
+                "family have run the same simply decorated room in the middle of "
+                "Westbourne ever since, and in that time Chez Fred has been voted "
+                "Britain's Best Fish and Chip Shop and holds a review in the Good "
+                "Food Guide. The formula is unchanged: fresh cod and haddock in "
+                "a light, grease-free batter, hand-cut chips that are refilled "
+                "without limit at the table, and proper mushy peas. Open for lunch "
+                "and dinner Tuesday to Saturday, with a queue often visible outside "
+                "before the doors open. No reservations; worth the wait."
+            ),
+            "known_for": "Britain's best-voted fish and chips, three generations of the Capel family since 1989",
+            "good_for": "A proper south-coast fish supper, with unlimited chips at the table",
+            "source_url": "https://www.yelp.com/biz/chez-fred-bournemouth",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Cafe",
+            "name": "Cafe Boscanova",
+            "area": "650 Christchurch Road, Boscombe",
+            "cuisine": "All-day brunch, speciality coffee",
+            "body": (
+                "Opened in 2012 a short walk from the beach on Christchurch Road, "
+                "Cafe Boscanova quickly became the heartbeat of Boscombe's "
+                "independent food scene. The interior works bare brick, wooden "
+                "features and a deliberately bohemian vibe into a genuinely "
+                "comfortable all-day space. The kitchen runs from 8am to 3pm on "
+                "locally sourced ingredients, with a menu spanning veggie and vegan "
+                "full English breakfasts, avocado on toast with smoked salmon, "
+                "stacked pancakes and creative brunch bowls. The coffee comes "
+                "from quality independent roasters, and the smoothies and fresh "
+                "juices are made on site. Gluten-free and vegan options run "
+                "throughout the menu, and the welcome is reliably warm. No "
+                "reservations; open Monday to Saturday."
+            ),
+            "known_for": "Bohemian all-day brunch cafe, locally sourced and vegan-friendly, Boscombe's independent anchor",
+            "good_for": "A relaxed morning or brunch stop a short walk from Boscombe beach",
+            "source_url": "https://m.yelp.com/biz/cafe-boscanova-bournemouth-2",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Restaurant",
+            "name": "Restaurant Roots",
+            "area": "141 Belle Vue Road, Southbourne",
+            "cuisine": "Modern European tasting menu",
+            "body": (
+                "Chef Jan Bretschneider and his wife Stacey opened Restaurant Roots "
+                "in 2015 in a modest shopfront on Belle Vue Road, a short walk from "
+                "the Southbourne clifftop. Jan's cooking weaves his German heritage "
+                "into the tasting menu - his grandmother's red cabbage recipe, "
+                "precisely crafted rye bread, seasonal British produce reworked "
+                "with central European technique - and the result has made Roots "
+                "Dorset's most decorated independent table. It holds 3 AA Rosettes, "
+                "appears in the Michelin Guide (recommended), and was rated in the "
+                "Hardens top 100 UK restaurants in 2024. The set menu runs eight "
+                "or twelve courses. Book well ahead; the dining room is small and "
+                "tables move fast."
+            ),
+            "known_for": "3 AA Rosettes, Michelin-listed, tasting menu rooted in Chef Jan's German heritage, open since 2015",
+            "good_for": "A serious occasion dinner in Bournemouth's most acclaimed independent restaurant",
+            "source_url": "https://guide.michelin.com/gb/en/bournemouth-region/southbourne/restaurant/roots",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Pub",
+            "name": "The Goat and Tricycle",
+            "area": "27-29 West Hill Road, town centre",
+            "cuisine": "Real ale, home-cooked pub food",
+            "body": (
+                "Four hundred yards from Bournemouth town centre and tucked into "
+                "the neighbourhood known locally as The Triangle, the Goat and "
+                "Tricycle is CAMRA multi-award-winning and widely regarded as the "
+                "best kept secret in the town's pub scene. The Grade II-fronted "
+                "building houses 11 handpumps rotating through Butcombe and "
+                "Liberation ales alongside rotating guest beers sourced from "
+                "independents across the country, plus real cider and lager for "
+                "the less committed. The kitchen produces honest home-cooked food "
+                "using locally sourced ingredients. There is an outdoor courtyard "
+                "for summer, and under-18s are not admitted, which keeps the "
+                "atmosphere resolutely focused on the beer. Dogs are welcome. "
+                "Open seven days from noon."
+            ),
+            "known_for": "CAMRA multi-award winner, 11 handpumps of real ale and cider, Grade II frontage",
+            "good_for": "The best real ale pint in Bournemouth, a short walk from the town centre",
+            "source_url": "https://camra.org.uk/pubs/goat-tricycle-bournemouth-149851",
+            "verified": "2026-06-22",
+        },
+    ],
+    "food_scene": [
+        (
+            "Bournemouth's food map is really a map of its distinct coastal "
+            "neighbourhoods. Westbourne, the village-like quarter to the west, "
+            "is where the town's oldest food names are rooted, with Chez Fred "
+            "on Seamoor Road anchoring a high street of independent cafes and "
+            "restaurants. Boscombe, a mile east of the pier along Christchurch "
+            "Road, has developed its own independent scene centred on the beach "
+            "and the arts community that settled there, with Cafe Boscanova as "
+            "its most visible standard-bearer."
+        ),
+        (
+            "Southbourne, the quieter eastern suburb that spills to the clifftop "
+            "above some of the best beaches in Dorset, has become a genuine "
+            "foodie hub in the last decade. Southbourne Grove, its tree-lined "
+            "high street, now holds independent restaurants, micro-breweries and "
+            "delicatessens, with Restaurant Roots at the top of the dining "
+            "hierarchy. The town centre and The Triangle area carry the pub and "
+            "bar trade, where the Goat and Tricycle remains the real ale focal "
+            "point, and the seafront itself runs from Boscombe pier westward "
+            "past the main Bournemouth pier to West Cliff and Westbourne."
+        ),
+        (
+            "Bournemouth has no single signature dish in the way that cities "
+            "claim a curry or a pie, but it does have a seafood identity rooted "
+            "in its coastal geography: fresh south coast fish and chips are the "
+            "baseline, lobster and crab arrive regularly from nearby Poole and "
+            "Dorset's fishing boats, and the town's proximity to the New Forest "
+            "and the Dorset dairy belt gives kitchens access to first-class "
+            "local meat, cheese and cream. The independent food scene that has "
+            "grown up around those ingredients is among the best on the south "
+            "coast outside Brighton."
+        ),
+    ],
+    "visit": [
+        (
+            "Chez Fred and the Goat and Tricycle are both in the western half of "
+            "town - Westbourne and The Triangle are a fifteen-minute walk apart, "
+            "or a short bus ride. Cafe Boscanova sits east in Boscombe, easy to "
+            "reach along the seafront promenade or by bus from the town centre. "
+            "Restaurant Roots is in Southbourne, roughly two miles east, best "
+            "reached by taxi or via the local bus along Christchurch Road; the "
+            "clifftop walk back along the beach path is a pleasure on a summer evening."
+        ),
+        (
+            "The day works well in layers: brunch at Cafe Boscanova in the "
+            "morning, a walk along the beach to the pier, then fish and chips at "
+            "Chez Fred in Westbourne for lunch or an early dinner. The Goat and "
+            "Tricycle opens from noon and is ideal for a post-lunch pint before "
+            "a taxi east to Southbourne. Book Restaurant Roots well ahead and "
+            "note it is dinner from Wednesday, with a Thursday-Saturday lunch "
+            "service too. The town is well served by bus along the coast road."
+        ),
+    ],
+    "checklist": [
+        "Book Restaurant Roots as far in advance as possible - the small dining room fills fast",
+        "Arrive at Chez Fred before the door opens to avoid the queue; it does not take reservations",
+        "Cafe Boscanova closes at 3pm - make it a morning or early afternoon visit",
+        "Walk the promenade from Boscombe pier to Bournemouth pier - the beach geography makes sense from there",
+        "The Goat and Tricycle opens from noon daily and is dog-friendly in the courtyard",
+    ],
+    "what_to_order": (
+        "Order with intent. At Chez Fred, cod or haddock in the house batter with "
+        "unlimited hand-cut chips, mushy peas and malt vinegar - the formula unchanged "
+        "since 1989. At Cafe Boscanova, the vegan full English or the smoked salmon "
+        "and avocado toast, with a flat white from that morning's independent roaster "
+        "delivery. At Restaurant Roots, surrender to the twelve-course Discovery menu "
+        "and let Chef Jan's German heritage work its way through the seasonal Dorset "
+        "produce - the rye bread alone is worth the journey. At the Goat and Tricycle, "
+        "a pint of whichever Butcombe or guest cask ale the bar staff recommend, taken "
+        "slowly in the courtyard."
+    ),
+    "glance": [
+        ("Best for a quick bite", "Chez Fred, for the south coast's most celebrated fish and chips in Westbourne"),
+        ("Best for an occasion", "Restaurant Roots, for a Michelin-listed tasting menu in Southbourne"),
+        ("Best for atmosphere", "The Goat and Tricycle, CAMRA multi-award winner with 11 real ale handpumps"),
+    ],
+    "faq": [
+        (
+            "Where can I get the best fish and chips in Bournemouth?",
+            "Chez Fred on Seamoor Road in Westbourne, run by three generations of the "
+            "Capel family since 1989, has been voted Britain's Best Fish and Chip Shop "
+            "and is listed in the Good Food Guide. Fresh cod and haddock in light batter, "
+            "unlimited hand-cut chips at the table, open Tuesday to Saturday. No reservations."
+        ),
+        (
+            "What is the best restaurant in Bournemouth for a special occasion?",
+            "Restaurant Roots on Belle Vue Road in Southbourne, opened by Chef Jan "
+            "Bretschneider in 2015, holds 3 AA Rosettes and is listed in the Michelin "
+            "Guide. The set tasting menu runs eight or twelve courses and draws on Jan's "
+            "German heritage alongside seasonal Dorset produce. Book well ahead."
+        ),
+        (
+            "Where is the best pub for real ale in Bournemouth?",
+            "The Goat and Tricycle on West Hill Road, a CAMRA multi-award-winning pub "
+            "400 yards from the town centre, runs 11 handpumps of cask-conditioned real "
+            "ale sourced from Butcombe, Liberation and rotating independents, plus real "
+            "cider. Open from noon seven days a week; dogs welcome in the courtyard."
+        ),
+        (
+            "Is there a good independent cafe in Bournemouth?",
+            "Cafe Boscanova on Christchurch Road in Boscombe, open since 2012, is the "
+            "area's best-loved independent all-day brunch cafe. Bohemian interior, "
+            "locally sourced ingredients, strong coffee from independent roasters, "
+            "and a full range of gluten-free and vegan options. Open Monday to Saturday "
+            "from 8am to 3pm."
+        ),
+        (
+            "What are the main food neighbourhoods in Bournemouth?",
+            "Westbourne (independent restaurants and the famous Chez Fred), Boscombe "
+            "(beach-adjacent independents led by Cafe Boscanova), Southbourne (a "
+            "fast-growing foodie hub with Restaurant Roots at the top), and the town "
+            "centre Triangle area (pub scene, including the Goat and Tricycle). "
+            "Southbourne Grove has become Dorset's best independent high street for food."
+        ),
+        (
+            "Can you do a Bournemouth food day without a car?",
+            "Largely, yes. Chez Fred in Westbourne and the Goat and Tricycle in "
+            "The Triangle are a fifteen-minute walk apart. Cafe Boscanova in Boscombe "
+            "is reachable by bus along the seafront or a pleasant promenade walk. "
+            "Restaurant Roots in Southbourne is a short taxi ride east, with the "
+            "town bus along Christchurch Road as an alternative."
+        ),
+    ],
+}
+
+# southend-on-sea (batch2) -----------------------------------------------
+TOWNS["southend-on-sea"] = {
+    "region": "Essex",
+    "population": "185K",
+    "nearby": ["Basildon", "Rayleigh", "Canvey Island"],
+    "meta_title": "Best Places to Eat in Southend-on-Sea: Food Guide",
+    "meta_description": (
+        "Where to eat in Southend-on-Sea: award-winning chippy since 1967, "
+        "seafront coffee roaster, cockle chowder and CAMRA real-ale terrace. "
+        "Read the guide."
+    ),
+    "trust_strip": (
+        "From Old Leigh cockle sheds to a waterfront seafood restaurant, "
+        "Southend-on-Sea punches well above its seaside weight as a food destination"
+    ),
+    "snapshot": (
+        "For a fast answer: Oldhams of Westcliff for a 1967 family chippy "
+        "with a Good Food Award, Utopia Coffee Lounge for Southend's only "
+        "in-house-roasting single-origin cafe, The Boatyard Restaurant in "
+        "Old Leigh for cockle chowder and estuary views, and The Mayflower "
+        "in Old Leigh for six cask ales and a CAMRA pub-of-the-year terrace "
+        "above the Thames. Four moods, one long seafront."
+    ),
+    "stats": [
+        ("185K", "Population (approx)"),
+        ("1880s", "When the Leigh cockle sheds began trading"),
+        ("1.33 mi", "The world's longest pleasure pier"),
+        ("4", "Hand-picked independents"),
+    ],
+    "pivot_variant": "coastal",
+    "pivot_local_hook": (
+        "Southend's coastal kitchens work hard all summer long: seafood "
+        "fryers and chippy ranges run flat-out from the seafront arcades "
+        "to Old Leigh's cockle-shed restaurants, pushing a sustained load "
+        "of grease-laden vapour into their canopies with every service."
+    ),
+    "venues": [
+        {
+            "type": "Takeaway/Casual",
+            "name": "Oldhams of Westcliff",
+            "area": "13 West Road, Westcliff-on-Sea",
+            "cuisine": "Fish and chips",
+            "body": (
+                "Family-run since 1967 and still trading from the same West Road "
+                "address in Westcliff-on-Sea, Oldhams is as close to a local "
+                "institution as a chippy gets. Three generations in, the family "
+                "source sustainable fish and fry in clean oil, offering both "
+                "eat-in and takeaway. The formula is unflashy and the execution "
+                "is consistently high enough to earn a 2024/25 Good Food Award "
+                "for Fish and Chips -- a Gold Seal that requires consistently "
+                "strong customer scores over three years. Cod, haddock and "
+                "plaice arrive in batter that is light and crisp; the chips are "
+                "proper ones. On a clear day the walk down to the seafront "
+                "afterwards takes about five minutes."
+            ),
+            "known_for": "Family-run since 1967; 2024/25 Good Food Award Gold Seal for Fish and Chips",
+            "good_for": "A classic coastal chippy meal, eat in or take to the prom",
+            "source_url": "https://www.goodchippyaward.com/winner/2025/oldhams-of-westcliff/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Cafe",
+            "name": "Utopia Coffee Lounge",
+            "area": "111 Chalkwell Esplanade, Westcliff-on-Sea",
+            "cuisine": "Speciality coffee, cakes, light bites",
+            "body": (
+                "Utopia has occupied its seafront spot on Chalkwell Esplanade "
+                "for well over eighteen years and holds a singular distinction "
+                "in the town: it is the only cafe in Southend that roasts its "
+                "own coffee on the premises. Single-origin Guatemalan beans are "
+                "roasted to a full-bodied darker profile and used as the base "
+                "for every espresso drink. Owned by Gerry and Teresa since 2017 "
+                "(regulars before they took the lease), the room is furnished "
+                "with vintage pieces and quirky decorations, operates cash-only "
+                "and keeps the Wi-Fi off to preserve the atmosphere. Homemade "
+                "cakes, fresh sandwiches and vegan options complete the offer. "
+                "Reviews updated to April 2026 confirm it remains open and "
+                "well-loved."
+            ),
+            "known_for": "The only in-house coffee roaster in Southend; 18-year community fixture",
+            "good_for": "A quiet, properly made coffee on the Chalkwell seafront",
+            "source_url": "https://utopia-coffee-lounge.wheree.com/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Restaurant",
+            "name": "The Boatyard Restaurant",
+            "area": "8-13 High Street, Old Leigh, Leigh-on-Sea",
+            "cuisine": "Seafood, estuary views",
+            "body": (
+                "Set in a converted former boatyard on the High Street of Old "
+                "Leigh -- a few steps from the famous cockle sheds -- The "
+                "Boatyard seats up to 220 inside behind a panoramic polarised "
+                "glass frontage aimed directly at the Thames Estuary and "
+                "Two-Tree Island. A wooden deck juts out across the full width "
+                "of the building for open-air dining. The menu leads with "
+                "locally sourced seafood: Old Leigh Cockle Chowder is the "
+                "signature starter, and the mixed seafood grill runs through "
+                "lobster, langoustines, squid, sea bass and king prawns. Steaks "
+                "and vegetarian dishes round it out. Live music runs every "
+                "evening and Sunday lunchtimes. Events booked through the end "
+                "of 2026 confirm current trading."
+            ),
+            "known_for": "Old Leigh Cockle Chowder and estuary-view deck in a converted boatyard",
+            "good_for": "A proper seafood occasion with waterfront views in Old Leigh",
+            "source_url": "https://www.tripadvisor.co.uk/Restaurant_Review-g1138967-d1016575-Reviews-The_Boatyard_Restaurant-Leigh_on_Sea_Southend_on_Sea_Essex_England.html",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Pub",
+            "name": "The Mayflower",
+            "area": "5-6 High Street, Old Leigh, Leigh-on-Sea",
+            "cuisine": "Real ale, traditional pub food",
+            "body": (
+                "Tucked into the same narrow Old Leigh High Street as the cockle "
+                "sheds, The Mayflower is the real-ale anchor of the area. Six "
+                "cask handpumps serve a changing roster that leans on local "
+                "breweries: regular appearances from Cockleboats by George's "
+                "Brewery in Great Wakering and Brewers Gold by Crouch Vale, "
+                "Essex's most celebrated independent brewer, with three "
+                "rotating guests alongside a dark cask beer kept on a dedicated "
+                "pump. The small courtyard terrace looks out over the boats and "
+                "the estuary. The pub won South East Essex CAMRA Pub of the "
+                "Year three years running (2014-2016) and remains listed on the "
+                "CAMRA website with current opening information as of May 2026. "
+                "Food runs to fish and chips, burgers and vegetarian options."
+            ),
+            "known_for": "Six cask ales including local Crouch Vale and George's Brewery; CAMRA Pub of the Year three times",
+            "good_for": "A pint of Essex real ale with estuary views in Old Leigh",
+            "source_url": "https://camra.org.uk/pubs/mayflower-leigh-on-sea-162294",
+            "verified": "2026-06-22",
+        },
+    ],
+    "food_scene": [
+        (
+            "Southend-on-Sea's food geography splits neatly between the modern "
+            "seafront and the ancient fishing village. Old Leigh -- its narrow "
+            "High Street of cockle sheds, pubs and restaurants sitting directly "
+            "on the Thames Estuary foreshore -- is where the town's deepest "
+            "food identity lives. The cockle sheds have traded here since the "
+            "1880s, and Leigh cockles are MSC-certified and supplied to kitchens "
+            "across the country. Walking Old Leigh on a summer afternoon, with "
+            "the fishing smacks moored outside and the smell of shellfish in the "
+            "air, is as close to an authentic English fishing-village experience "
+            "as you will find within an hour of London."
+        ),
+        (
+            "West of the pier, the seafront arc through Westcliff-on-Sea and "
+            "Chalkwell holds the town's independent cafes and neighbourhood "
+            "restaurants, from Utopia's seafront roastery to family-run chippy "
+            "institutions like Oldhams. The town centre around the High Street "
+            "and the Royal Mews has a growing independent dining scene, while "
+            "the Kursaal and seafront arcades anchor the traditional summer "
+            "trade in ice cream and battered fish. Southend pier -- the longest "
+            "pleasure pier in the world at 1.33 miles -- has its own cafe at "
+            "the far end, serving the rail-borne day-tripper."
+        ),
+        (
+            "The local signature dish is unarguably the cockle. Leigh cockles "
+            "are harvested from the Thames Estuary sandbanks, steamed and served "
+            "cold with malt vinegar and white pepper, or hot in chowders and "
+            "fritters at the converted shed-restaurants. Alongside them, "
+            "Southend's proximity to North Sea fishing grounds and the Essex "
+            "marshes means smoked fish, mussels, jellied eels and fresh "
+            "seafood platters are woven through menus across the town."
+        ),
+    ],
+    "visit": [
+        (
+            "The town has good rail links from London Fenchurch Street (around "
+            "50 minutes) and Liverpool Street via Southend Victoria, making it "
+            "an easy day trip. The seafront is long -- seven miles in total -- "
+            "but Westcliff and Old Leigh sit within comfortable walking distance "
+            "of each other along the foreshore. Old Leigh's High Street is "
+            "literally five minutes on foot from Leigh-on-Sea railway station. "
+            "A car helps for the wider area but the core food trail is "
+            "walkable from the train."
+        ),
+        (
+            "The day flows well in sequence: coffee at Utopia on the Chalkwell "
+            "Esplanade, a chippy lunch at Oldhams before heading west toward "
+            "Old Leigh for the afternoon. At the cockle sheds, pick up "
+            "a paper pint of cockles with vinegar before settling in at The "
+            "Boatyard for a proper seafood dinner, then a final pint of cask "
+            "ale at The Mayflower with the estuary at your back. Book The "
+            "Boatyard ahead, especially on weekends."
+        ),
+    ],
+    "checklist": [
+        "Catch the train to Leigh-on-Sea station -- Old Leigh High Street is a five-minute walk",
+        "Book The Boatyard Restaurant ahead for weekends and summer evenings",
+        "Order the cockle chowder at The Boatyard and a cold paper pint of cockles at the sheds",
+        "Ask which guest ale is on at The Mayflower -- the Crouch Vale and George's Brewery regulars are the keepers",
+        "Walk the full length of Southend Pier (1.33 miles) before or after -- it earns the chippy",
+    ],
+    "what_to_order": (
+        "Order with intent. At Oldhams, cod or haddock in crisp batter with "
+        "proper chips, taken away and eaten on the walk to the seafront. At "
+        "Utopia, ask for the single-origin Guatemalan espresso and a slice of "
+        "homemade cake. At The Boatyard, start with the Old Leigh Cockle Chowder "
+        "and follow with the mixed seafood grill. At The Mayflower, a pint of "
+        "Brewers Gold from Crouch Vale or whichever local guest is on -- and "
+        "sit in the courtyard if the weather allows."
+    ),
+    "glance": [
+        ("Best for a quick bite", "Oldhams of Westcliff, for a 1967 family chippy with a national award"),
+        ("Best for an occasion", "The Boatyard Restaurant, for cockle chowder and estuary views in Old Leigh"),
+        ("Best for atmosphere", "The Mayflower, for six cask ales on a terrace above the Thames"),
+    ],
+    "faq": [
+        (
+            "Where can I eat cockles in Leigh-on-Sea?",
+            "Old Leigh High Street is the place. The cockle sheds -- including "
+            "Osborne Bros at Billet Wharf, trading since the 1880s -- sell "
+            "fresh-steamed cockles from the paper; The Boatyard Restaurant "
+            "nearby turns them into Old Leigh Cockle Chowder. The cockles are "
+            "MSC-certified, harvested from Thames Estuary sandbanks.",
+        ),
+        (
+            "What is the local food of Southend-on-Sea?",
+            "The cockle is Southend and Leigh-on-Sea's signature food, eaten "
+            "cold with malt vinegar and white pepper straight from the sheds, "
+            "or cooked into chowders and croquettes at the Old Leigh restaurants. "
+            "Fish and chips are a close second, with family chippies like "
+            "Oldhams of Westcliff serving the town since 1967.",
+        ),
+        (
+            "Which Southend-on-Sea pub has the best real ale?",
+            "The Mayflower at 5-6 High Street in Old Leigh, Leigh-on-Sea, "
+            "serves six cask ales, keeping a rotating selection of local "
+            "independents such as George's Brewery Cockleboats and Crouch "
+            "Vale Brewers Gold. It won South East Essex CAMRA Pub of the Year "
+            "three years running and remains listed on CAMRA with current details.",
+        ),
+        (
+            "Is Southend-on-Sea easy to reach from London?",
+            "Yes. Fenchurch Street to Southend Central takes around 50 minutes "
+            "with c2c trains. Liverpool Street to Southend Victoria is slightly "
+            "longer. Leigh-on-Sea station is one stop before Southend and puts "
+            "you a five-minute walk from Old Leigh's cockle sheds, The Boatyard "
+            "and The Mayflower.",
+        ),
+        (
+            "Where can I get the best fish and chips in Southend?",
+            "Oldhams of Westcliff at 13 West Road in Westcliff-on-Sea has been "
+            "frying since 1967 and holds the 2024/25 Good Food Award Gold Seal "
+            "for Fish and Chips -- awarded for consistently high customer scores "
+            "over three years. Both eat-in and takeaway are available.",
+        ),
+        (
+            "Is there a good independent coffee shop in Southend-on-Sea?",
+            "Utopia Coffee Lounge at 111 Chalkwell Esplanade, Westcliff-on-Sea, "
+            "is the only cafe in Southend that roasts its own coffee on the "
+            "premises -- single-origin Guatemalan beans roasted daily. The "
+            "cafe has been trading for over 18 years and is cash-only with no "
+            "Wi-Fi, which keeps the atmosphere exactly as it should be.",
+        ),
+    ],
+}
+
+# walsall (batch2) -----------------------------------------------
+TOWNS["walsall"] = {
+    "region": "the West Midlands",
+    "population": "175,000",
+    "nearby": ["Wolverhampton", "West Bromwich", "Lichfield"],
+    "meta_title": "Best Places to Eat in Walsall: Local Food Guide",
+    "meta_description": (
+        "Where to eat in Walsall: a Caldmore karahi house, a speciality "
+        "coffee shop, an award-winning Indian restaurant and a historic "
+        "real ale pub. Read the guide."
+    ),
+    "trust_strip": (
+        "From a late-night Caldmore karahi to a Black Country pub first "
+        "recorded in 1627, Walsall's independent food scene runs deeper than "
+        "most people expect"
+    ),
+    "snapshot": (
+        "For a fast answer: Sultan's on Caldmore Road for a late-night "
+        "Pakistani karahi, The Table on Lower Hall Lane for Walsall's first "
+        "speciality coffee, Five Rivers A La Carte on Vicarage Place for "
+        "award-winning Indian fine dining, and the Black Country Arms on "
+        "High Street for cask ale in a pub first recorded in 1627. Four "
+        "moods, one compact Black Country market town."
+    ),
+    "stats": [
+        ("175,000", "Population (approx)"),
+        ("1627", "First written record of the Black Country Arms"),
+        ("Caldmore", "Walsall's historic South Asian food quarter"),
+        ("4", "Hand-picked independents"),
+    ],
+    "pivot_variant": "pub-town",
+    "pivot_local_hook": (
+        "Walsall's pubs and Pakistani grill houses run long services and "
+        "late nights, with karahis seared fast over fierce heat and pub "
+        "kitchens turning out faggots and peas through a full weekend shift "
+        "— both throw a heavy, sustained grease load into their canopies."
+    ),
+    "venues": [
+        {
+            "type": "Takeaway/Casual",
+            "name": "Sultan's",
+            "area": "110 Caldmore Road, Caldmore",
+            "cuisine": "Pakistani karahi and balti",
+            "body": (
+                "Caldmore Road is Walsall's South Asian food corridor, and Sultan's "
+                "is the late-night anchor. The 100-percent halal kitchen opens at "
+                "five in the evening and runs until the small hours, seven nights a "
+                "week, turning out traditional karahis and baltis cooked to order. "
+                "The Peshawari chicken karahi — fresh tomatoes, green chillies, "
+                "garlic and ginger, finished with a handful of coriander — is the "
+                "thing to order, alongside sheesh kebabs and a stack of hand-made "
+                "roti from the clay oven. With over a thousand Google reviews "
+                "averaging 4.2 stars and a family side as well as a main room, "
+                "Sultan's is as close as Walsall gets to a Caldmore institution for "
+                "honest, generous Pakistani cooking."
+            ),
+            "known_for": "Peshawari chicken karahi and sheesh kebabs, open late every night",
+            "good_for": "Late-night desi dining or a sit-down family karahi in Caldmore",
+            "source_url": "https://sultans.uk.com/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Cafe",
+            "name": "The Table",
+            "area": "33 Lower Hall Lane, town centre",
+            "cuisine": "Speciality coffee, brunch",
+            "body": (
+                "The Table opened as Walsall's first dedicated speciality coffee "
+                "shop, occupying the corner of a handsome Victorian building a few "
+                "minutes from the train station on Lower Hall Lane. Run as a "
+                "community interest company with the backing of Walsall Community "
+                "Church, it is not-for-profit in structure but serious in cup: the "
+                "house espresso comes from Odd Kin Coffee Roasters in Bristol, with "
+                "pour-over as an alternative. The food runs to a simple breakfast "
+                "menu and a range of doorstep sandwiches, with dinner on Thursdays, "
+                "Fridays and Saturdays. The venue hosts Craft Club, chess nights "
+                "and book swaps, and holds a five-star food hygiene rating awarded "
+                "December 2025. It is the kind of place a town centre deserves."
+            ),
+            "known_for": "Walsall's first speciality coffee shop, Odd Kin espresso, community events",
+            "good_for": "A proper flat white and a quiet work table in the town centre",
+            "source_url": "https://thetablewalsall.co.uk/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Restaurant",
+            "name": "Five Rivers A La Carte",
+            "area": "11 Vicarage Place, town centre",
+            "cuisine": "Indian fine dining",
+            "body": (
+                "The name comes from the five rivers of the Punjab, and the cooking "
+                "carries that weight: executive chef Rashpal Sunner left Punjab in "
+                "1982 and has spent four decades refining classic Indian cuisine with "
+                "fresh, seasonal British produce. The restaurant won British Asian "
+                "HAFTA's Ethnic Chef of the Year, featured in The Telegraph's top-20 "
+                "UK restaurants, and picked up British Curry Award recognition. The "
+                "room itself — exposed brick, dark timber and a Louis XIII Library "
+                "Bar — matches the ambition of the kitchen. Amritsari fish, slow "
+                "lamb shank and the chef's ancestral karahi recipe are the signatures; "
+                "the midweek two-course deal and Tuesday Secret Supper make the "
+                "experience more accessible than the decor suggests. Book ahead."
+            ),
+            "known_for": "Award-winning Punjabi fine dining, British Curry Award recognition",
+            "good_for": "A special-occasion dinner or a midweek fine-dining deal",
+            "source_url": "https://fiveriversalacarte.co.uk/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Pub",
+            "name": "The Black Country Arms",
+            "area": "High Street, town centre",
+            "cuisine": "Pub food, Black Country classics",
+            "body": (
+                "First recorded in writing in 1627, the Black Country Arms may be "
+                "older still — the site is linked to the town's Guildhall and was "
+                "previously known as the Green Dragon. Now Grade II listed and run "
+                "by Black Country Ales, it holds 16 hand-pulls of constantly "
+                "rotating cask ales and real ciders sourced from across the UK, "
+                "spread across three open-plan levels with comfortable seating and "
+                "quieter corners. The pub has been Walsall CAMRA Pub of the Year "
+                "six times and features in the CAMRA Good Beer Guide 2026. The "
+                "kitchen serves Black Country classics including faggots and peas "
+                "alongside traditional pub grub Tuesday to Saturday, with pork pies "
+                "and cobs available any time. A short walk from bus and train "
+                "stations, it earns its reputation every service."
+            ),
+            "known_for": "16 rotating cask ales, Walsall CAMRA Pub of the Year six times, c.1627",
+            "good_for": "A serious real-ale session or a proper pub lunch in a historic room",
+            "source_url": "https://www.blackcountryales.co.uk/pubs/the-black-country-arms",
+            "verified": "2026-06-22",
+        },
+    ],
+    "food_scene": [
+        (
+            "Walsall's food map runs through its neighbourhoods. Caldmore, a ten-minute "
+            "walk south of the market centre, is the town's South Asian food quarter: "
+            "Caldmore Road and Caldmore Green were once lined with balti houses, and "
+            "while the number has thinned, the corridor remains the place for late-night "
+            "Pakistani karahis, tandoori grills and desi snacks, with Sultan's as the "
+            "current standard-bearer."
+        ),
+        (
+            "The town centre itself clusters around the covered market, Park Street and "
+            "the Saddlers Centre, with pubs anchoring several corners. Vicarage Place "
+            "is a quiet Georgian street just off the ring road where Five Rivers A La "
+            "Carte has built a fine-dining reputation that reaches well beyond Walsall, "
+            "while Lower Hall Lane holds The Table, the independent coffee shop that "
+            "the town centre had been missing."
+        ),
+        (
+            "Walsall has a broader food identity that often goes unannounced. The town "
+            "sits at the heart of the Black Country's pork-scratching belt: much of the "
+            "UK's pork scratchings are made in an arc from Dudley through Walsall to "
+            "Wolverhampton, and the snack remains a fixture on every pub bar in the "
+            "borough. The Black Country Arms on High Street keeps the tradition alive "
+            "alongside its rotating sixteen cask ales."
+        ),
+    ],
+    "visit": [
+        (
+            "Most of this guide is walkable from Walsall railway station, which sits "
+            "five minutes from the High Street. The Black Country Arms and The Table "
+            "are both in the town centre; Five Rivers is a short walk to Vicarage "
+            "Place. Caldmore is a ten-to-fifteen-minute walk or a quick local bus "
+            "south of the centre along Caldmore Road."
+        ),
+        (
+            "Time it right and the day flows easily: a morning coffee at The Table, "
+            "a lunchtime pint and a plate of faggots under the hand-pulls at the "
+            "Black Country Arms, a karahi evening at Sultan's, and Five Rivers saved "
+            "for the occasion that deserves a proper table. Book Five Rivers in "
+            "advance; Sultan's runs late so no rush on that one."
+        ),
+    ],
+    "checklist": [
+        "Start at The Table on Lower Hall Lane for Walsall's first speciality flat white",
+        "Pop into the Black Country Arms to check what is on the hand-pulls today",
+        "Walk down to Caldmore for a late karahi at Sultan's - it runs to the small hours",
+        "Book Five Rivers on Vicarage Place well ahead for a special-occasion dinner",
+        "Walsall station is five minutes from the High Street - no need for a car",
+    ],
+    "what_to_order": (
+        "Order with intent. At Sultan's, the Peshawari chicken karahi with roti and "
+        "sheesh kebabs to start. At The Table, ask which single origin is on the "
+        "espresso and pair it with a doorstep sandwich. At Five Rivers, lean into "
+        "the amritsari fish and the slow lamb shank, or the ancestral karahi recipe "
+        "if it is on the menu. At the Black Country Arms, let the bar staff guide "
+        "you through the rotating sixteen ales and pick up pork scratchings at the "
+        "bar - you are in the heart of the Black Country scratching belt."
+    ),
+    "glance": [
+        ("Best for a quick bite", "Sultan's, for a karahi or sheesh kebab on Caldmore Road"),
+        ("Best for an occasion", "Five Rivers A La Carte, for award-winning Indian fine dining"),
+        ("Best for atmosphere", "The Black Country Arms, in a pub first recorded in 1627"),
+    ],
+    "faq": [
+        (
+            "Where can I get a good karahi in Walsall?",
+            "Sultan's on Caldmore Road is the go-to for authentic Pakistani karahi "
+            "in Walsall, open every evening until the small hours. The Peshawari "
+            "chicken karahi and sheesh kebabs are the orders to make."
+        ),
+        (
+            "Where is the best coffee in Walsall town centre?",
+            "The Table on Lower Hall Lane is Walsall's first dedicated speciality "
+            "coffee shop, using Odd Kin Coffee Roasters beans and serving brunch "
+            "Monday to Saturday. It is a few minutes from the train station."
+        ),
+        (
+            "What is the best restaurant in Walsall for a special occasion?",
+            "Five Rivers A La Carte on Vicarage Place is Walsall's standout fine "
+            "dining option, with British Curry Award recognition and decades of "
+            "Punjabi cooking from executive chef Rashpal Sunner. Book ahead."
+        ),
+        (
+            "Which is the best real ale pub in Walsall?",
+            "The Black Country Arms on High Street, a Grade II listed pub first "
+            "recorded in 1627, serves 16 rotating cask ales and has been Walsall "
+            "CAMRA Pub of the Year six times. It is in the Good Beer Guide 2026."
+        ),
+        (
+            "What is the Black Country's traditional food?",
+            "Faggots and peas, groaty pudding, pork scratchings and the Black "
+            "Country balti are the region's signature foods. Much of the UK's "
+            "pork scratchings are made in the Walsall-Dudley-Wolverhampton belt, "
+            "and the Black Country Arms serves faggots alongside its ales."
+        ),
+        (
+            "Is there good independent food near Caldmore in Walsall?",
+            "Caldmore Road is Walsall's South Asian food corridor, with Sultan's "
+            "as the anchor for late-night karahis and grills. The area also has "
+            "sweet shops and bakeries serving Pakistani and South Asian snacks."
+        ),
+    ],
+}
+
+# warrington (batch2) -----------------------------------------------
+TOWNS["warrington"] = {
+    "region": "Cheshire",
+    "population": "175K",
+    "nearby": ["Widnes", "Runcorn", "St Helens"],
+    "meta_title": "Best Places to Eat in Warrington: Local Food Guide",
+    "meta_description": (
+        "Where to eat in Warrington: birria tacos, a Stockton Heath breakfast "
+        "cafe, Cantonese dim sum in Padgate and a CAMRA real ale bar. "
+        "Read the guide."
+    ),
+    "trust_strip": (
+        "From a CAMRA Good Beer Guide market bar to a Quality Business Award-"
+        "winning Cantonese kitchen, Warrington punches well above its size at "
+        "the table"
+    ),
+    "snapshot": (
+        "For a fast answer: The Street Food Project in Great Sankey for slow-"
+        "cooked birria tacos and Mexican street food, Heaths Kitchen in Stockton "
+        "Heath for the borough's best-loved breakfast cafe, OAO in Padgate for "
+        "award-winning Cantonese dim sum, and The Hop Emporium inside Warrington "
+        "Market for three rotating cask ales in a CAMRA Good Beer Guide bar. "
+        "Four moods, one Wire city."
+    ),
+    "stats": [
+        ("175K", "Population (approx)"),
+        ("Est. 1994", "Year Caffe Caruso first opened in the old market"),
+        ("CAMRA GBG", "The Hop Emporium in the Good Beer Guide 2025"),
+        ("4", "Hand-picked independents"),
+    ],
+    "pivot_variant": "high-volume",
+    "pivot_local_hook": (
+        "Warrington's kitchens run hard: a pub-town centre, a thriving market "
+        "CookHouse with a dozen food outlets, and a restaurant suburb in Stockton "
+        "Heath all push a sustained load of grease-laden vapour into their "
+        "canopies through every service."
+    ),
+    "venues": [
+        {
+            "type": "Takeaway/Casual",
+            "name": "The Street Food Project",
+            "area": "Buckingham Drive, Great Sankey",
+            "cuisine": "Mexican and American street food",
+            "body": (
+                "Warrington does not have a famous signature dish, but it does "
+                "have one of the most-praised takeaways in the borough. The Street "
+                "Food Project operates from Great Sankey, west of the town centre, "
+                "running a tight menu of Mexican and American street food with a "
+                "five-star Food Hygiene rating (awarded May 2025). The standout "
+                "order is the Taco de Birria: slow-cooked beef folded into a corn "
+                "tortilla and served with a rich consomme for dipping, a dish that "
+                "reviewers describe as the best takeaway in Warrington. The Taco al "
+                "Pastor and the loaded Burrito de Birria, filled with slow-braised "
+                "meat, mozzarella and mango pico de gallo, run it close. Open "
+                "Wednesday to Saturday from 5 pm via Uber Eats, Deliveroo and "
+                "local collection."
+            ),
+            "known_for": "Birria tacos, slow-cooked beef burritos and Mexican street food",
+            "good_for": "An informal evening meal; delivery within Great Sankey",
+            "source_url": "https://www.tripadvisor.co.uk/Restaurant_Review-g190764-d26639644-Reviews-Street_Food_Project_warrington-Warrington_Cheshire_England.html",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Cafe",
+            "name": "Heaths Kitchen",
+            "area": "Walton Road, Stockton Heath",
+            "cuisine": "Breakfasts, brunches and Sunday roasts",
+            "body": (
+                "Stockton Heath, a mile south of Warrington town centre, was the "
+                "first village in England to receive a Purple Flag for excellence "
+                "in its bars and restaurants. At the breakfast and brunch end of "
+                "that offer, Heaths Kitchen on Walton Road has become the area's "
+                "most-rated cafe: ranked number two of twenty-five restaurants in "
+                "Stockton Heath on Tripadvisor with over 600 reviews, and noted by "
+                "one reviewer in September 2025 as recently voted the best cafe in "
+                "Warrington. The family-run room is compact and warm, the menu "
+                "leans into a full English, eggs Benedict, Al's Brekkie and daily "
+                "specials, and the pace is unhurried. Dog-friendly and open Monday "
+                "to Sunday from 9 am, with booking advised at weekends."
+            ),
+            "known_for": "Full English, eggs Benedict and weekend brunches in Stockton Heath",
+            "good_for": "A leisurely breakfast or brunch; families and dogs welcome",
+            "source_url": "https://heaths-kitchen.wheree.com/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Restaurant",
+            "name": "OAO",
+            "area": "Padgate Lane, Padgate",
+            "cuisine": "Cantonese dim sum and fine dining",
+            "body": (
+                "On a quiet terrace in Padgate, on the eastern edge of Warrington, "
+                "OAO is quietly doing some of the most accomplished cooking in "
+                "Cheshire. The restaurant specialises in Cantonese cuisine, with "
+                "the chef combining traditional techniques and locally sourced "
+                "ingredients to produce hand-folded dim sum that regularly draws "
+                "diners from across the region. Signatures include pork and prawn "
+                "dumplings finished with XO sauce, lobster and lychee dim sum, and "
+                "a full a la carte of Cantonese dishes running from crispy aromatic "
+                "duck to steamed whole fish. OAO won Best Chinese Restaurant at "
+                "the Warrington Quality Business Awards 2026 and achieves a "
+                "customer satisfaction score above 95 percent. Open Tuesday to "
+                "Sunday from 5 pm; book ahead for weekends."
+            ),
+            "known_for": "Hand-folded dim sum, Cantonese fine dining, Quality Business Award 2026",
+            "good_for": "A special-occasion dinner or a proper dim sum spread",
+            "source_url": "https://oaowarrington.com/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Pub",
+            "name": "The Hop Emporium",
+            "area": "Time Square, Warrington Market (CookHouse)",
+            "cuisine": "Cask ales, craft beers and ciders",
+            "body": (
+                "Inside the redeveloped Warrington Market at Time Square, the Hop "
+                "Emporium is the town's most serious real ale destination. Run by "
+                "CAMRA members who are genuine enthusiasts rather than landlords by "
+                "trade, it earned a place in the CAMRA Good Beer Guide 2025 and "
+                "keeps three rotating cask ales on at any time, usually including "
+                "a dark beer alongside a pale and a session bitter, backed by a "
+                "house ale and a rotating lineup of craft beers, lagers, ciders "
+                "and gins. Seating is shared with the CookHouse food hall, so "
+                "you can pick up food from any of a dozen world-food outlets and "
+                "drink it alongside your pint. A Beer Paddle of three third-pints "
+                "is the ideal way to explore the range. Live music on Saturdays."
+            ),
+            "known_for": "CAMRA Good Beer Guide 2025, three rotating cask ales, Beer Paddle",
+            "good_for": "Real ale in the market, sampling new beers with food hall dishes",
+            "source_url": "https://camra.org.uk/pubs/hop-emporium-warrington-137870",
+            "verified": "2026-06-22",
+        },
+    ],
+    "food_scene": [
+        (
+            "Warrington grew up as a market town at the lowest crossing point on "
+            "the River Mersey, and the market has always been at the heart of its "
+            "food life. The modern Warrington Market, which moved to its new home "
+            "at Time Square in 2020, now houses more than fifty independent traders "
+            "and a CookHouse food hall with a dozen world-food outlets under one "
+            "roof, from Korean and Thai to Mexican and Italian pizza."
+        ),
+        (
+            "Stockton Heath, a mile south of the town centre, is where independent "
+            "dining has put down its deepest roots. The village became the first in "
+            "England to hold a Purple Flag award for the quality of its bars and "
+            "restaurants, and its London Road and Walton Road are lined with "
+            "independents covering every mood from a full English at Heaths Kitchen "
+            "to neighbourhood bistros and wine bars. It is where Warrington eats "
+            "when the occasion matters."
+        ),
+        (
+            "The wider borough stretches east to the village suburb of Padgate and "
+            "west to Great Sankey, and some of the town's most ambitious cooking "
+            "sits away from the centre: OAO's Cantonese kitchen in Padgate draws "
+            "diners from across Cheshire, while The Street Food Project has built "
+            "a devoted following in Great Sankey on the strength of a tight, "
+            "obsessively executed Mexican menu. Warrington is not a food destination "
+            "in the way that Manchester or Liverpool is, but it rewards those who "
+            "look beyond the ring road."
+        ),
+    ],
+    "visit": [
+        (
+            "The Hop Emporium and Warrington Market are in the town centre at Time "
+            "Square, a short walk from Warrington Bank Quay and Warrington Central "
+            "stations. Stockton Heath, where Heaths Kitchen sits, is about a mile "
+            "south and easily reached by bus or a twenty-minute walk along the "
+            "riverbank. OAO in Padgate is best reached by car or taxi, about two "
+            "miles east of the centre."
+        ),
+        (
+            "A day here flows naturally: a late breakfast at Heaths Kitchen in "
+            "Stockton Heath, a browse of the market traders at Time Square followed "
+            "by a Beer Paddle at the Hop Emporium, and a table booked at OAO for "
+            "the evening. The Street Food Project opens from Wednesday to Saturday "
+            "from 5 pm and is ideal for a relaxed weeknight takeaway rather than a "
+            "sit-down occasion."
+        ),
+    ],
+    "checklist": [
+        "Book OAO in Padgate ahead, especially for weekend evenings",
+        "Try the Taco de Birria and the Beer Paddle at the Hop Emporium on separate visits",
+        "Head to Heaths Kitchen on a Saturday morning and expect a queue at peak time",
+        "Pick up a Beer Paddle at the Hop Emporium to sample three cask ales in thirds",
+        "Warrington Bank Quay and Central stations are both walkable to the market",
+    ],
+    "what_to_order": (
+        "Order with intent. At The Street Food Project, the Taco de Birria with "
+        "consomme for dipping is the defining dish; the Burrito de Birria with "
+        "mango pico de gallo is the more filling option. At Heaths Kitchen, ask "
+        "what the daily special is alongside a flat white, or go straight for "
+        "eggs Benedict. At OAO, surrender to a selection of hand-folded dim sum "
+        "to share, anchored by the pork and prawn dumplings with XO sauce. At "
+        "the Hop Emporium, order the Beer Paddle to try three cask ales in "
+        "thirds, and let the bar team guide you to the dark."
+    ),
+    "glance": [
+        ("Best for a quick bite", "The Street Food Project, for birria tacos from a dark kitchen"),
+        ("Best for an occasion", "OAO, for award-winning Cantonese dim sum in Padgate"),
+        ("Best for atmosphere", "The Hop Emporium inside the market, with live music on Saturdays"),
+    ],
+    "faq": [
+        (
+            "Where can I get the best breakfast in Warrington?",
+            "Heaths Kitchen on Walton Road in Stockton Heath is ranked among the "
+            "top cafes in the area, with over 600 Tripadvisor reviews and a "
+            "reputation for eggs Benedict, full English and weekend brunches. It "
+            "is open Monday to Sunday from 9 am and booking is advised at weekends.",
+        ),
+        (
+            "Does Warrington have a good real ale pub?",
+            "The Hop Emporium inside Warrington Market at Time Square is listed in "
+            "the CAMRA Good Beer Guide 2025. Run by CAMRA members, it keeps three "
+            "rotating cask ales on at all times and offers a Beer Paddle of three "
+            "third-pints so you can sample the range.",
+        ),
+        (
+            "What is the best restaurant in Warrington for a special occasion?",
+            "OAO on Padgate Lane in Padgate won Best Chinese Restaurant at the "
+            "Warrington Quality Business Awards 2026. The Cantonese kitchen "
+            "specialises in hand-folded dim sum, with pork and prawn dumplings "
+            "finished in XO sauce among the signatures. Book ahead for weekends.",
+        ),
+        (
+            "What is Stockton Heath known for food?",
+            "Stockton Heath was the first village in England to receive a Purple "
+            "Flag award for the quality of its hospitality. Its London Road and "
+            "Walton Road are lined with independent cafes, bistros and bars, making "
+            "it the most concentrated dining destination in the Warrington borough.",
+        ),
+        (
+            "Where is the best takeaway in Warrington?",
+            "The Street Food Project in Great Sankey is consistently rated the "
+            "best takeaway in the borough on review platforms, with a five-star "
+            "food hygiene rating and a focused menu of Mexican street food. The "
+            "birria tacos are the standout order. Open Wednesday to Saturday from "
+            "5 pm via Uber Eats, Deliveroo and collection.",
+        ),
+        (
+            "Is there a good food market in Warrington?",
+            "Warrington Market at Time Square, which opened in its modern home in "
+            "2020, has over fifty independent traders and a CookHouse food hall "
+            "with a dozen world-food outlets. The Hop Emporium real ale bar is "
+            "also inside the market, open until 7 pm on weekdays and 11 pm at "
+            "weekends.",
+        ),
+    ],
+}
+
+# slough (batch2) -----------------------------------------------
+TOWNS["slough"] = {
+    "region": "Berkshire",
+    "population": "165K",
+    "nearby": ["Windsor", "Maidenhead", "Uxbridge"],
+    "meta_title": "Best Places to Eat in Slough: Local Food Guide",
+    "meta_description": (
+        "Where to eat in Slough: fresh roti in Chalvey, a High Street cafe "
+        "open since 1989, karahi at Salt Hill Park, and a family real-ale pub. "
+        "Read the guide."
+    ),
+    "trust_strip": (
+        "From Chalvey's Pakistani kitchens to a CAMRA-listed real-ale house, "
+        "Slough eats far better and more diversely than its reputation suggests"
+    ),
+    "snapshot": (
+        "For a fast answer: Rotinaanwala in Chalvey for freshly rolled roti and "
+        "Pakistani curries, Gino's on the High Street for a proper all-day "
+        "breakfast since 1989, Kashmiri Karahi at Salt Hill Park for the town's "
+        "most-reviewed karahi, and The Barleycorn in Cippenham for cask ales and "
+        "a beer festival run by the same family for 40 years."
+    ),
+    "stats": [
+        ("165K", "Population (approx)"),
+        ("46%", "Asian residents — one of the UK's most diverse towns"),
+        ("Chalvey", "Slough's South Asian food heartland"),
+        ("4", "Hand-picked independents"),
+    ],
+    "pivot_variant": "high-volume",
+    "pivot_local_hook": (
+        "Slough's South Asian kitchens run hard: karahi and balti are cooked "
+        "over fierce heat in wide steel pans at high volume, and the town's "
+        "busy Pakistani, Afghan and Kashmiri restaurants throw a heavy load of "
+        "spiced, grease-laden vapour into their canopies every service."
+    ),
+    "venues": [
+        {
+            "type": "Pakistani Takeaway",
+            "name": "Rotinaanwala",
+            "area": "Chalvey Road West, Chalvey",
+            "cuisine": "Pakistani roti, naan and curry",
+            "body": (
+                "Rotinaanwala sits at the heart of Chalvey, the neighbourhood "
+                "south of Slough town centre that functions as the borough's "
+                "South Asian food quarter. The name means 'roti maker', and the "
+                "clue is in the title: the kitchen rolls and bakes its own roti "
+                "and naan to order, producing the soft, hot flatbreads that "
+                "locals come back for again and again. Founded in 2020, the "
+                "compact takeaway has built a loyal following for its lamb keema, "
+                "chicken wings and slow-cooked Nihari on weekends — a rich, "
+                "bone-in lamb shank stew that needs most of the night to make "
+                "properly. Paya (trotters) and curry pakora round out the "
+                "weekend specials. Order the naan fresh and eat immediately."
+            ),
+            "known_for": "Freshly rolled roti and naan, slow-cooked Nihari at weekends",
+            "good_for": "A fast, authentic Pakistani meal to take away or eat in Chalvey",
+            "source_url": "https://rotinaanwala.co.uk/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Cafe",
+            "name": "Gino's Cafe",
+            "area": "82 High Street, Slough town centre",
+            "cuisine": "All-day British breakfast and cafe",
+            "body": (
+                "Gino's has been anchored to Slough High Street since 1989, "
+                "making it one of the longest-running independent businesses on "
+                "the street. The formula has barely changed in 35 years: a busy, "
+                "no-fuss cafe that opens from 7:30am and feeds the town on full "
+                "cooked breakfasts, huge sandwiches, jacket potatoes, omelettes "
+                "and homemade soups. The kitchen cooks everything on site, "
+                "portions are generous, and the price point is honest. Regulars "
+                "cite the all-day breakfast and the tuna melt as the orders to "
+                "make. It closes at 3pm, so this is a morning-to-mid-afternoon "
+                "venue — arrive early on weekdays for the full atmosphere of a "
+                "local cafe that has outlasted every chain around it."
+            ),
+            "known_for": "All-day cooked breakfast and sandwiches, open since 1989",
+            "good_for": "An early start, a working lunch, or a proper breakfast before exploring",
+            "source_url": "https://www.yelp.com/biz/ginos-cafe-slough",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Restaurant",
+            "name": "Kashmiri Karahi",
+            "area": "Bath Road, Salt Hill Park, Cippenham",
+            "cuisine": "Pakistani and Kashmiri",
+            "body": (
+                "Kashmiri Karahi sits in its own premises overlooking Salt Hill "
+                "Park on Bath Road, a generous two-floor restaurant with outdoor "
+                "seating that catches the park view in summer. Established in "
+                "2016 and expanded since, it has accumulated more than 3,000 "
+                "reviews across platforms and sits among the highest-rated South "
+                "Asian restaurants in the Slough area. The kitchen's focus is the "
+                "karahi — chicken or lamb, cooked in a wide steel pan with "
+                "tomatoes, ginger, whole spices and green chilli, finished at the "
+                "table still sizzling. The mixed grill on sizzler plates, butter "
+                "chicken and black pepper chicken are also strong. Ample free "
+                "parking makes it accessible, and the function room upstairs "
+                "handles local celebrations."
+            ),
+            "known_for": "Karahi cooked in the pan, sizzler platters, park-view terrace",
+            "good_for": "A South Asian sit-down dinner, large groups or a family meal",
+            "source_url": "https://www.tripadvisor.co.uk/Restaurant_Review-g190742-d2342581-Reviews-Kashmiri_Karahi-Slough_Berkshire_England.html",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Pub",
+            "name": "The Barleycorn",
+            "area": "151 Lower Cippenham Lane, Cippenham",
+            "cuisine": "British pub",
+            "body": (
+                "The Barleycorn is one of those pubs that has simply got on with "
+                "being itself for four decades. The Byrne family took it over in "
+                "1985 and in November 2025 celebrated 40 years in the same "
+                "building on Lower Cippenham Lane, a single-bar village local on "
+                "the western edge of the borough. CAMRA lists it as a cider pub "
+                "of distinction: there are always four or more real ales on, one "
+                "from Rebellion Brewery, the rest rotating through regional "
+                "micros, plus a serious cider and perry line-up. The bar walls "
+                "are lined with hundreds of pump clips from previous guests. A "
+                "bank holiday beer and cider festival runs each May with 40-plus "
+                "ales and live music — the May 2026 edition ran over four days. "
+                "No frills, no gimmicks, just properly kept ale."
+            ),
+            "known_for": "40 years under the Byrne family, CAMRA cider pub, May beer festival",
+            "good_for": "Properly kept real ale away from the town centre crowds",
+            "source_url": "https://camra.org.uk/pubs/barleycorn-cippenham-139594",
+            "verified": "2026-06-22",
+        },
+    ],
+    "food_scene": [
+        (
+            "Slough's food map is shaped by one of the most diverse populations "
+            "in the United Kingdom: at the 2021 census nearly 47 per cent of "
+            "residents identified as Asian, and that is written into every street "
+            "of the eating scene. Chalvey, the neighbourhood immediately south "
+            "of the town centre, is the borough's South Asian food heartland, "
+            "where Pakistani, Kashmiri and Punjabi kitchens sit alongside Afghan "
+            "and Persian restaurants on streets like Chalvey Road West and "
+            "Chalvey Road East."
+        ),
+        (
+            "Along the High Street and around the town centre a separate, more "
+            "eclectic layer of cafes and independent traders has built up over "
+            "decades — places like Gino's, trading since 1989, that have "
+            "outlasted multiple waves of chain openings. The Bath Road corridor "
+            "towards Cippenham holds larger South Asian restaurants with car "
+            "parks and function rooms, Kashmiri Karahi among them, drawing "
+            "diners from across the Thames Valley who know the quality of the "
+            "cooking even if Slough's reputation does not always suggest it."
+        ),
+        (
+            "The borough has no single signature dish in the way Birmingham has "
+            "the balti, but the karahi — chicken or lamb seared in a heavy steel "
+            "pan with tomatoes and whole spices — is the default order in the "
+            "South Asian quarter, and freshly rolled roti is the bread of choice. "
+            "West of the centre, Cippenham retains enough of a village character "
+            "to support a traditional pub, The Barleycorn, that has kept CAMRA's "
+            "attention for forty years."
+        ),
+    ],
+    "visit": [
+        (
+            "The town centre and Chalvey are walkable from Slough railway station "
+            "(Elizabeth line and Great Western services). Gino's Cafe is ten "
+            "minutes on foot along the High Street; Chalvey and Rotinaanwala are "
+            "a fifteen-minute walk south or a short bus ride. Bath Road and Salt "
+            "Hill Park, where Kashmiri Karahi sits, is best reached by taxi or "
+            "bus — about two miles west of the station along the A4."
+        ),
+        (
+            "The Barleycorn in Cippenham is a further mile west along Lower "
+            "Cippenham Lane, well served by the free car park next door and worth "
+            "the trip if your priority is real ale. A logical day runs: breakfast "
+            "at Gino's, a lunch or early dinner at Kashmiri Karahi or "
+            "Rotinaanwala in Chalvey, and a final pint at the Barleycorn. The "
+            "town is also ten minutes from Windsor by train, making a day that "
+            "takes in both places straightforward."
+        ),
+    ],
+    "checklist": [
+        "Start at Gino's Cafe on the High Street from 7:30am for a full cooked breakfast",
+        "Head to Chalvey for Rotinaanwala — order the naan fresh and eat it immediately",
+        "Book a table at Kashmiri Karahi at Salt Hill Park for a sit-down karahi dinner",
+        "Drive or taxi west to The Barleycorn in Cippenham for cask ale and cider",
+        "Slough station has Elizabeth line trains — Windsor is ten minutes away if combining days",
+    ],
+    "what_to_order": (
+        "Order with intent. At Rotinaanwala, the freshly rolled naan with lamb "
+        "keema or the weekend Nihari — the slow-cooked bone-in lamb stew that "
+        "sells out early. At Gino's, the all-day breakfast or tuna melt sandwich, "
+        "taken at the counter early. At Kashmiri Karahi, the karahi chicken or "
+        "lamb on the sizzler, or the mixed grill; the black pepper chicken is a "
+        "less obvious choice that regulars rate highly. At The Barleycorn, the "
+        "rotating guest ale — ask which micro is on that week — and whatever "
+        "cider the Byrne family have sourced for the tap."
+    ),
+    "glance": [
+        ("Best for a quick bite", "Rotinaanwala, for fresh roti and karahi in Chalvey"),
+        ("Best for a sit-down dinner", "Kashmiri Karahi at Salt Hill Park for sizzler platters"),
+        ("Best for atmosphere", "The Barleycorn — 40 years of the same family, 40-plus ales at the May festival"),
+    ],
+    "faq": [
+        (
+            "Where is the best South Asian food in Slough?",
+            "Chalvey, just south of the town centre, is the borough's South Asian "
+            "food quarter, with Pakistani, Kashmiri and Afghan restaurants on "
+            "Chalvey Road West and East. Rotinaanwala is a local favourite for "
+            "fresh roti and curries; Kashmiri Karahi on Bath Road draws diners "
+            "from across the Thames Valley for its sizzler karahis."
+        ),
+        (
+            "What is Slough's local food culture known for?",
+            "Slough has one of the most ethnically diverse populations in the UK — "
+            "nearly half the borough is South Asian — and that diversity is "
+            "reflected in a concentration of Pakistani, Kashmiri, Punjabi and "
+            "Afghan restaurants that is unusually strong for a town of its size. "
+            "The karahi and freshly rolled roti are the foods most associated "
+            "with the local eating culture."
+        ),
+        (
+            "Does Slough have a good pub for real ale?",
+            "Yes. The Barleycorn on Lower Cippenham Lane in Cippenham is a "
+            "CAMRA-listed family-run pub that has been run by the Byrne family "
+            "since 1985. It keeps four or more real ales at a time, including a "
+            "Rebellion Brewery regular and rotating microbrewery guests, and runs "
+            "a 40-plus ale bank holiday festival each May."
+        ),
+        (
+            "Is there a traditional independent cafe in Slough town centre?",
+            "Gino's Cafe at 82 High Street has been open since 1989, making it "
+            "one of the longest-serving independents on the street. It opens at "
+            "7:30am and serves cooked breakfasts, sandwiches and jacket potatoes "
+            "until 3pm — a proper working cafe that has outlasted the chains."
+        ),
+        (
+            "How do I get to Slough from London?",
+            "Slough is on the Elizabeth line (Crossrail) from Paddington and "
+            "Liverpool Street, as well as Great Western Railway services. Journey "
+            "time from central London is around 25-35 minutes. The town centre, "
+            "High Street and Chalvey are all within walking distance of the "
+            "station; the Bath Road restaurants are a short taxi ride west."
+        ),
+        (
+            "What is near Slough worth combining with a visit?",
+            "Windsor Castle and Windsor Great Park are ten minutes by train from "
+            "Slough station, making a combined Slough-Windsor day easy. Maidenhead "
+            "is fifteen minutes east along the Elizabeth line, and Uxbridge is "
+            "accessible via the A4 and public transport. All three towns have "
+            "their own food scenes worth exploring."
+        ),
+    ],
+}
+
+# huddersfield (batch2) -----------------------------------------------
+TOWNS["huddersfield"] = {
+    "region": "West Yorkshire",
+    "population": "165K",
+    "nearby": ["Dewsbury", "Halifax", "Brighouse"],
+    "meta_title": "Best Places to Eat in Huddersfield: Food Guide",
+    "meta_description": (
+        "Where to eat in Huddersfield: Pakistani karahi on Chapel Hill, a Victorian-arcade "
+        "cafe, a Bib Gourmand bistro and a Grade II Art Deco pub. Read the guide."
+    ),
+    "trust_strip": (
+        "From a Victorian-arcade brunch spot to the Pennines village bistro that earned a "
+        "Michelin Bib Gourmand, Huddersfield punches well above its size for independent food"
+    ),
+    "snapshot": (
+        "For a fast answer: Lahori Taste on Chapel Hill for outstanding Pakistani karahi and "
+        "grilled meats, Arcade Coffee and Food in Byram Arcade for seasonal brunch and Dark "
+        "Woods espresso, Norman's Neighbourhood Kitchen in Kirkburton for the Bib Gourmand "
+        "sharing plates locals are raving about, and The Sportsman Beerhouse on St John's "
+        "Road for a pint in Huddersfield's finest Art Deco interior. Four moods, one compact "
+        "Pennines town."
+    ),
+    "stats": [
+        ("165K", "Population (approx)"),
+        ("1881", "Year Byram Arcade opened"),
+        ("Bib Gourmand", "Michelin recognition for Norman's, 2026"),
+        ("4", "Hand-picked independents"),
+    ],
+    "pivot_variant": "pub-town",
+    "pivot_local_hook": (
+        "Huddersfield's pub culture runs deep and its kitchen output runs hot: "
+        "a Pakistani karahi seared fast over a fierce flame and a busy gastropub "
+        "service both push a heavy load of grease-laden vapour into their canopies "
+        "every evening."
+    ),
+    "venues": [
+        {
+            "type": "Takeaway/Casual",
+            "name": "Lahori Taste",
+            "area": "36 Chapel Hill, town centre",
+            "cuisine": "Pakistani, karahi and grilled meats",
+            "body": (
+                "Established in 2014 by owner Ahmed Salem, Lahori Taste sits on Chapel Hill "
+                "a short walk from the train station and has quietly become one of the most "
+                "consistent Pakistani kitchens in West Yorkshire. The menu takes its cues from "
+                "Lahore: richly spiced karahi cooked to order, grilled meats from the tandoor, "
+                "lamb chops, seekh kebab, and naan baked fresh throughout the evening. "
+                "Everything arrives fast and the portions are generous. It is primarily a "
+                "takeaway with a small dining area, opens at five and runs until midnight at "
+                "weekends, and with a 4.3-star Google rating across more than 130 reviews it "
+                "has earned a loyal following among locals who know their karahi. Bring cash "
+                "and an appetite."
+            ),
+            "known_for": "Authentic Lahori karahi, tandoor grills and fresh naan since 2014",
+            "good_for": "A proper Pakistani supper without the fuss, late-night included",
+            "source_url": "https://www.yelp.com/biz/lahori-taste-huddersfield",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Cafe",
+            "name": "Arcade Coffee and Food",
+            "area": "9 Byram Arcade, Westgate, town centre",
+            "cuisine": "Speciality coffee, seasonal brunch",
+            "body": (
+                "Set inside Huddersfield's Victorian Byram Arcade, completed in 1881 and one "
+                "of the oldest covered arcades in the north, Arcade Coffee and Food has been "
+                "drawing regulars through the glass-roofed galleries since around 2018. The "
+                "espresso is from Dark Woods Coffee of Slaithwaite, a West Yorkshire "
+                "independent roastery that sources single-origin beans from farm to cup, and "
+                "the brunch menu rotates with the seasons to reflect local produce. Two floors "
+                "of seating, a private room for hire, and a spot beneath the iron-and-glass "
+                "roof of the arcade itself make it somewhere worth lingering. Open Monday to "
+                "Saturday from eight and Sundays from ten, with occasional evening events "
+                "through the winter. Updated on Yelp in April 2026."
+            ),
+            "known_for": "Dark Woods single-origin espresso and a seasonal brunch in a Victorian arcade",
+            "good_for": "A proper morning coffee or all-day brunch in a beautiful setting",
+            "source_url": "https://www.yelp.co.uk/biz/arcade-coffee-and-food-huddersfield",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Restaurant",
+            "name": "Norman's Neighbourhood Kitchen",
+            "area": "22A North Road, Kirkburton (5 miles south of town centre)",
+            "cuisine": "Modern British small plates",
+            "body": (
+                "Chef Will Webster and sommelier Oliver Roberts left the multi-award-winning "
+                "Shibden Mill Inn in Halifax to open Norman's in a former car showroom in the "
+                "village of Kirkburton. The name nods to the owner's dog and his grandfather. "
+                "Within a year of opening the restaurant was in the Michelin Guide; in February "
+                "2026 it earned a Bib Gourmand, recognising exceptional food at accessible "
+                "prices, and it also holds two AA Rosettes awarded May 2025. The cooking is "
+                "relaxed in spirit and precise in execution: sharing plates with a playful "
+                "streak, stone bass, mackerel tart, lamb kofta, the famous eggy bread with "
+                "bacon jam. Tripadvisor rates it number one of 426 Huddersfield restaurants "
+                "at 4.9 stars. Book ahead; tables fill quickly Tuesday through Saturday."
+            ),
+            "known_for": "Michelin Bib Gourmand 2026, two AA Rosettes, creative sharing plates",
+            "good_for": "A special-occasion meal that does not ask you to dress up",
+            "source_url": "https://guide.michelin.com/gb/en/west-yorkshire/kirkburton_1745304/restaurant/norman-s-neighbourhood-kitchen",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Pub",
+            "name": "The Sportsman Beerhouse",
+            "area": "1 St John's Road, town centre",
+            "cuisine": "Real ale and real cider",
+            "body": (
+                "Built in 1930 by local brewer Seth Senior and Sons as one of the improved "
+                "pubs the government encouraged to change public drinking habits, The Sportsman "
+                "retains its original Art Deco layout almost entirely intact. Beerhouses took "
+                "it over in 2009, won an English Heritage Pub Design Award in 2010, and secured "
+                "Grade II Listed status shortly after. The curved wooden bar, panelled rooms and "
+                "period signage survive in remarkable condition, and the pub is one of only five "
+                "in Huddersfield on CAMRA's National Inventory of Historic Pub Interiors. Eight "
+                "cask ales rotate alongside a serious real cider list, and it has won "
+                "Huddersfield CAMRA Cider Pub of the Year multiple years running. The "
+                "Huddersfield International Crisp Festival calls it home each autumn."
+            ),
+            "known_for": "Grade II listed 1930 Art Deco interior, eight rotating ales, CAMRA Cider Pub of the Year",
+            "good_for": "A pint in one of Yorkshire's finest and best-preserved historic pubs",
+            "source_url": "https://beerhouses.co.uk/the-sportsman/",
+            "verified": "2026-06-22",
+        },
+    ],
+    "food_scene": [
+        (
+            "Huddersfield sits in the eastern foothills of the Pennines, a former wool town "
+            "that has been market-town proud since Anglo-Saxon times. The Victorian Byram Arcade "
+            "and the Open Market off Queensgate remain the physical anchors of the food scene in "
+            "the centre, while Bradford Road in Fartown and Chapel Hill carry Huddersfield's "
+            "Pakistani and South Asian kitchens, many of them family-run over decades."
+        ),
+        (
+            "The Bradford Road corridor and the streets around Chapel Hill make up an informal "
+            "curry quarter that has grown alongside the town's South Asian community since the "
+            "1960s, when Punjab Stores on Old South Street became the first Asian corner shop. "
+            "Today the area offers some of the most consistent Pakistani home cooking in West "
+            "Yorkshire, cooked for a local clientele rather than a tourist trade."
+        ),
+        (
+            "Five miles south in the village of Kirkburton, a wave of chef-led independents has "
+            "taken root in the hills. Norman's Neighbourhood Kitchen is the highest-profile "
+            "example, but Lindley and Slaithwaite both have growing dining scenes of their own, "
+            "fed by local produce from the Pennine farms and the Holme Valley. Dark Woods "
+            "Coffee, roasting in Marsden, supplies the town's best cafes and has become a "
+            "symbol of Huddersfield's quiet independent-food revival."
+        ),
+    ],
+    "visit": [
+        (
+            "The town centre is compact and most of it is walkable. Byram Arcade, The Sportsman "
+            "and the Chapel Hill takeaways all sit within a ten-minute radius of the railway "
+            "station, one of the finest Victorian stations in England. Norman's in Kirkburton "
+            "is five miles south and easiest reached by car or a short taxi."
+        ),
+        (
+            "A good Huddersfield food day: a Dark Woods espresso and brunch at Arcade Coffee, "
+            "a pint among the Art Deco panelling at The Sportsman, a karahi supper at Lahori "
+            "Taste, and Norman's saved for the evening you want to remember. Book Norman's well "
+            "in advance and plan the Kirkburton trip separately, as the restaurant does not "
+            "open until the evening Tuesday to Friday."
+        ),
+    ],
+    "checklist": [
+        "Start with brunch at Arcade Coffee inside the Victorian Byram Arcade",
+        "Walk to The Sportsman on St John's Road and admire the 1930 Art Deco interior",
+        "Head to Chapel Hill for a Pakistani karahi supper at Lahori Taste from 5pm",
+        "Book Norman's in Kirkburton well ahead - Tripadvisor's top-rated table in town",
+        "Huddersfield station is a five-minute walk from Arcade Coffee and The Sportsman",
+    ],
+    "what_to_order": (
+        "Order with intent. At Lahori Taste, a chicken karahi or lamb karahi with fresh naan "
+        "and a seekh kebab or lamb chop starter. At Arcade Coffee, ask which Dark Woods single "
+        "origin is on the espresso that day and order the seasonal brunch dish. At Norman's, "
+        "go for the sharing plates format and do not skip the eggy bread with bacon jam or "
+        "whichever fish dish is running that week. At The Sportsman, pick one of the rotating "
+        "cask ales, ask the bar staff what is freshest on the cider, and find a seat in one "
+        "of the original panelled rooms."
+    ),
+    "glance": [
+        ("Best for a quick bite", "Lahori Taste on Chapel Hill, for karahi and grills from 5pm"),
+        ("Best for an occasion", "Norman's Neighbourhood Kitchen in Kirkburton, Bib Gourmand 2026"),
+        ("Best for atmosphere", "The Sportsman's Grade II listed 1930 Art Deco interior"),
+    ],
+    "faq": [
+        (
+            "Where can I eat the best Pakistani food in Huddersfield?",
+            "Lahori Taste at 36 Chapel Hill, open since 2014, is one of the most consistently "
+            "praised Pakistani kitchens in West Yorkshire. Order the karahi, grilled meats and "
+            "fresh naan; it is primarily a takeaway but has a small dining area and stays open "
+            "until midnight at weekends.",
+        ),
+        (
+            "Which Huddersfield restaurant has Michelin recognition?",
+            "Norman's Neighbourhood Kitchen at 22A North Road, Kirkburton, earned a Michelin "
+            "Bib Gourmand in February 2026, the guide's recognition for exceptional food at "
+            "accessible prices. It also holds two AA Rosettes and is Tripadvisor's top-rated "
+            "restaurant in Huddersfield with a 4.9-star rating.",
+        ),
+        (
+            "What is special about The Sportsman pub in Huddersfield?",
+            "The Sportsman Beerhouse at 1 St John's Road is a Grade II listed 1930 Art Deco "
+            "pub with one of the most intact historic interiors in West Yorkshire. It is on "
+            "CAMRA's National Inventory of Historic Pub Interiors, has won Huddersfield CAMRA "
+            "Cider Pub of the Year multiple times, and rotates eight cask ales alongside a "
+            "serious real cider list.",
+        ),
+        (
+            "Where is the best coffee in Huddersfield town centre?",
+            "Arcade Coffee and Food inside the 1881 Byram Arcade on Westgate serves Dark Woods "
+            "Coffee of Slaithwaite, a respected West Yorkshire independent roaster, alongside "
+            "a seasonal brunch menu. It opens at 8am Monday to Saturday.",
+        ),
+        (
+            "Is Huddersfield a good place to eat out?",
+            "Yes. Huddersfield town centre was rated the best place for food and drink in West "
+            "Yorkshire by a local dining review service, with more than 90 restaurants, cafes "
+            "and takeaways inside the ring road. The Pakistani and South Asian kitchens around "
+            "Chapel Hill and Bradford Road are particularly strong, and the village of "
+            "Kirkburton nearby now holds a Michelin Bib Gourmand restaurant.",
+        ),
+        (
+            "Can you do a Huddersfield food day on foot and public transport?",
+            "Mostly. Arcade Coffee, The Sportsman and Lahori Taste all sit within a ten-minute "
+            "walk of Huddersfield railway station. Norman's Neighbourhood Kitchen in Kirkburton "
+            "is five miles south and easiest reached by car or taxi; it is closed Sunday and "
+            "Monday.",
+        ),
+    ],
+}
+
+# telford (batch2) -----------------------------------------------
+TOWNS["telford"] = {
+    "region": "Shropshire",
+    "population": "155K",
+    "nearby": ["Shrewsbury", "Wolverhampton", "Stafford"],
+    "meta_title": "Best Places to Eat in Telford: Local Food Guide",
+    "meta_description": (
+        "Where to eat in Telford: a riverside chippy by the Iron Bridge, "
+        "Gorge-view cafe, modern British fine dining and smokehouse craft "
+        "ales. Read the guide."
+    ),
+    "trust_strip": (
+        "From a chip shop with a balcony over the River Severn to the "
+        "riverside fine dining of Goodwins 1757, Telford and the Ironbridge "
+        "Gorge World Heritage Site hide a quietly serious food scene"
+    ),
+    "snapshot": (
+        "For a fast answer: The Ironbridge Fish and Chip Shop on the High Street "
+        "for freshly battered fish with river views, Darby's 1779 on Tontine Hill "
+        "for all-day breakfast and clotted cream teas in sight of the Iron Bridge, "
+        "Goodwins 1757 at The Valley Hotel for modern British fine dining beside the "
+        "Severn, and The Swan Taphouse on the Wharfage for American smokehouse food "
+        "and craft ales in an 18th-century malt house. Four moods, one Gorge."
+    ),
+    "stats": [
+        ("155K", "Population (approx)"),
+        ("1779", "Year the Iron Bridge was cast, giving the Gorge its name"),
+        ("UNESCO", "World Heritage Site status for the Ironbridge Gorge"),
+        ("4", "Hand-picked independents"),
+    ],
+    "pivot_variant": "market-town",
+    "pivot_local_hook": (
+        "Telford's Ironbridge Gorge restaurants and pubs cater to a dense "
+        "year-round flow of heritage tourists as well as local trade, so "
+        "kitchens here run long hours through lunch and dinner every day of "
+        "the week, loading canopies with grease-laden vapour from the "
+        "smokehouse grills, fryers and pub ranges that keep the Gorge fed."
+    ),
+    "venues": [
+        {
+            "type": "Takeaway",
+            "name": "The Ironbridge Fish and Chip Shop",
+            "area": "32 High Street, Ironbridge Gorge",
+            "cuisine": "Fish and chips",
+            "body": (
+                "Right on the High Street in the heart of the Gorge, The Ironbridge "
+                "Fish and Chip Shop has become the go-to takeaway for visitors and "
+                "locals alike. The setting alone is worth the trip: the balcony and "
+                "outdoor terrace overlook the River Severn and the famous Iron Bridge "
+                "itself, making it one of the most memorable spots in Shropshire to "
+                "eat chips out of a box. The kitchen holds a five-star food hygiene "
+                "rating from the Food Standards Agency, updated in April 2026, and "
+                "serves freshly cooked fish and chips daily from late morning into "
+                "the evening. Cod and haddock are the reliable orders; eat outside "
+                "on a fine day and the view is as good as anywhere in the county."
+            ),
+            "known_for": "River Severn views from the balcony, five-star food hygiene rating (April 2026)",
+            "good_for": "A classic chippy lunch in the shadow of the Iron Bridge, families",
+            "source_url": "https://www.facebook.com/Ironbridgefishandchips/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Cafe",
+            "name": "Darby's 1779",
+            "area": "10 Tontine Hill, Ironbridge Gorge",
+            "cuisine": "All-day breakfast, clotted cream teas, freshly ground coffee",
+            "body": (
+                "Darby's opened in the summer of 2009, taking its name from 1779 "
+                "when Abraham Darby III completed the world's first iron bridge a "
+                "few metres from the front door. Set on Tontine Hill on the Wharfage, "
+                "the cafe commands one of the best direct views of the Iron Bridge "
+                "from any table in the Gorge. The all-day menu leans into the "
+                "heritage-visitor crowd without being a tourist trap: the Ironmaster "
+                "Breakfast is a full English with locally sourced ingredients, and "
+                "the clotted cream tea comes with warm homemade scones, strawberry "
+                "jam and thick Devonshire cream served in a proper bone china pot. "
+                "Open every day from 8 am to 5:30 pm, Darby's is the reliable first "
+                "stop before a day in the museums."
+            ),
+            "known_for": "Iron Bridge views, Ironmaster Breakfast, proper clotted cream teas since 2009",
+            "good_for": "Breakfast before the Gorge museums, afternoon tea with a world-famous view",
+            "source_url": "https://darbyscoffeeshopironbridge.co.uk/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Restaurant",
+            "name": "Goodwins 1757",
+            "area": "The Valley Hotel, Buildwas Road, Ironbridge Gorge",
+            "cuisine": "Modern British fine dining",
+            "body": (
+                "Goodwins 1757 takes its name from 1757, the year the Valley Hotel's "
+                "Georgian country house was built on the banks of the River Severn. "
+                "The restaurant occupies a handsome dining room in the hotel, with "
+                "an outside terrace giving the best seats in the house: a direct "
+                "view over the river and the surrounding Gorge woodland. The kitchen "
+                "cooks a modern British menu with English and Continental influences, "
+                "using produce sourced from local Shropshire farms and suppliers, "
+                "and the cooking is a notch above what the hotel-restaurant setting "
+                "might suggest. The a la carte runs lunch (Monday to Friday) and "
+                "dinner six evenings a week. A riverside table at Goodwins is the "
+                "clear choice for a special occasion in the Gorge."
+            ),
+            "known_for": "Modern British fine dining in a Georgian country house beside the Severn",
+            "good_for": "A special-occasion dinner or romantic lunch with river views",
+            "source_url": "https://www.thevalleyhotel.co.uk/restaurant",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Pub",
+            "name": "The Swan Taphouse",
+            "area": "21 The Wharfage, Ironbridge Gorge",
+            "cuisine": "American smokehouse BBQ, craft ales and real ale",
+            "body": (
+                "The Swan Taphouse is housed in an 18th-century malt house on the "
+                "Wharfage, the riverside strip that runs below the Iron Bridge. The "
+                "building is one of the oldest pub premises in Ironbridge, and the "
+                "current team has made it into the Gorge's most distinctive food-led "
+                "pub: a working smokehouse turning out low-and-slow American-style "
+                "BBQ alongside craft beer and a wide spirits range. Smoked brisket "
+                "burgers, ribs, chicken sharer boards and handmade Shropshire beef "
+                "burgers with inventive seasonal toppings are the food to come for. "
+                "The bar draws a loyal local crowd in the evenings and is dog-friendly "
+                "throughout. Open daily from 11:30 am, with food served until 9:30 pm "
+                "Monday to Saturday and 8:30 pm on Sundays."
+            ),
+            "known_for": "Smokehouse BBQ in an 18th-century malt house, craft ales on the Wharfage",
+            "good_for": "A proper pub lunch or evening with smoked meats and craft beer",
+            "source_url": "https://theswantaphouse.co.uk/",
+            "verified": "2026-06-22",
+        },
+    ],
+    "food_scene": [
+        (
+            "Telford's food geography divides between the new-town centre at Southwater "
+            "and the historic Ironbridge Gorge UNESCO World Heritage Site, five miles to "
+            "the south. Most of the independent food destination worth travelling for sits "
+            "in the Gorge: the one-mile stretch of the Wharfage and the streets climbing "
+            "up from the river hold the best cafes, pubs and restaurants in the area, "
+            "drawing on a steady flow of heritage tourists as well as local trade."
+        ),
+        (
+            "Wellington, Telford's market town to the north-west, has its own quieter "
+            "independent food scene, with a weekly market and neighbourhood cafes around "
+            "the town centre. The wider borough is New Town built largely in the 1960s "
+            "and 1970s around relocated communities from the Black Country and Birmingham, "
+            "and that heritage shows in the range of South Asian restaurants in the "
+            "suburbs. But the Gorge remains the culinary anchor: the Iron Bridge, the "
+            "museums and the river draw visitors year-round, and the best of the town's "
+            "independent eating sits within walking distance of the bridge itself."
+        ),
+        (
+            "The local signature is the Ironbridge Pudding, a Victorian sponge dessert "
+            "said to have originated in the Gorge, still served at Grays of Shropshire "
+            "on the High Street. Shropshire as a county is serious about its produce: "
+            "Ludlow Food Festival, twenty miles to the south, is one of England's most "
+            "respected small-town food festivals, and the farm suppliers it draws on "
+            "appear on menus across Telford. The Severn Valley lamb, local game and "
+            "Shropshire cheeses are the ingredients most likely to appear on the best "
+            "plates in the Gorge."
+        ),
+    ],
+    "visit": [
+        (
+            "All four picks sit in the Ironbridge Gorge, within a short walk of each "
+            "other. The Ironbridge Fish and Chip Shop and Darby's 1779 are both on or "
+            "just off the Wharfage, with direct views of the Iron Bridge. The Swan "
+            "Taphouse is a few doors along the same riverside strip at 21 The Wharfage. "
+            "Goodwins 1757 at The Valley Hotel is a five-minute drive or a twenty-minute "
+            "riverside walk upstream to Buildwas Road."
+        ),
+        (
+            "Telford railway station serves the new-town centre, not the Gorge: allow "
+            "fifteen minutes by taxi or bus to reach Ironbridge village. From Shrewsbury, "
+            "the X4 bus runs through to Ironbridge. A practical day might run: breakfast "
+            "at Darby's 1779, a morning in the museums, a fish-and-chip lunch on the "
+            "balcony of the chip shop, an afternoon pint and snack at The Swan Taphouse, "
+            "and a dinner booking at Goodwins secured well in advance."
+        ),
+    ],
+    "checklist": [
+        "Eat fish and chips on the balcony of The Ironbridge Fish and Chip Shop with the bridge in view",
+        "Book Darby's 1779 for an early breakfast before the Gorge museums open",
+        "Reserve a riverside table at Goodwins 1757 for a special-occasion dinner",
+        "Try the smoked brisket burger at The Swan Taphouse with a craft ale",
+        "Walk the Wharfage between the chip shop, Swan Taphouse and the Iron Bridge itself",
+    ],
+    "what_to_order": (
+        "Order with the Gorge in mind. At The Ironbridge Fish and Chip Shop, cod or "
+        "haddock with chips and eat outside if the weather holds - the view does half "
+        "the work. At Darby's 1779, the Ironmaster Breakfast or the clotted cream tea "
+        "with warm scones and a pot of loose-leaf tea. At Goodwins 1757, the kitchen "
+        "sources Shropshire produce so ask what is local that day; the a la carte has "
+        "always carried fish from the Severn Valley and game in season. At The Swan "
+        "Taphouse, the smoked brisket burger or the chicken sharer board, with a craft "
+        "pale ale or a Shropshire-brewed guest."
+    ),
+    "glance": [
+        ("Best for a quick bite", "The Ironbridge Fish and Chip Shop, for river-view chips below the bridge"),
+        ("Best for an occasion", "Goodwins 1757, for modern British fine dining beside the Severn"),
+        ("Best for atmosphere", "The Swan Taphouse in an 18th-century malt house on the Wharfage"),
+    ],
+    "faq": [
+        (
+            "What is the best restaurant in Telford?",
+            "For a special occasion, Goodwins 1757 at The Valley Hotel on Buildwas "
+            "Road in Ironbridge Gorge is the strongest independent fine-dining choice "
+            "in the borough. The modern British kitchen uses local Shropshire produce "
+            "and the riverside Georgian setting is hard to beat. Book ahead for dinner; "
+            "weekday lunch is a more relaxed entry point.",
+        ),
+        (
+            "Where should I eat in Ironbridge Gorge?",
+            "The Wharfage and the High Street hold the best options in easy walking "
+            "distance of each other and of the Iron Bridge. Darby's 1779 on Tontine "
+            "Hill is the spot for breakfast or a cream tea with a direct view of the "
+            "bridge. The Swan Taphouse at 21 The Wharfage serves smokehouse food and "
+            "craft ales from a historic malt house. The Ironbridge Fish and Chip Shop "
+            "at 32 High Street has a balcony over the river.",
+        ),
+        (
+            "Is Ironbridge Gorge good for food?",
+            "Yes. The Gorge's year-round tourist trade and a loyal local population "
+            "support a cluster of good independents within a short walk of the Iron "
+            "Bridge: cafes, fish and chip shops, a smokehouse pub and a fine-dining "
+            "hotel restaurant all sit along the Wharfage and the streets rising from "
+            "the river. The wider Shropshire larder - local lamb, game, Shropshire "
+            "cheeses and Severn Valley produce - feeds the best kitchens in the area.",
+        ),
+        (
+            "What is the local food of Telford and Shropshire?",
+            "The Ironbridge Pudding, a Victorian steamed sponge said to have originated "
+            "in the Gorge, is the closest thing to a house dish. Shropshire more broadly "
+            "is known for its lamb (Ludlow Food Festival, twenty miles south, is one of "
+            "England's best), local game, Shropshire Blue and other county cheeses, and "
+            "black pudding from local butchers. The chip shop remains a staple of Gorge "
+            "eating for visitors and residents alike.",
+        ),
+        (
+            "Are there good pubs in Ironbridge?",
+            "The Swan Taphouse at 21 The Wharfage is the most food-forward pub in the "
+            "Gorge, serving American smokehouse BBQ and craft ales from an 18th-century "
+            "malt house with a strong local and visitor following. The Malthouse next "
+            "door and the Robin Hood Inn on the edge of the village are other real-ale "
+            "options, and the Telford and East Shropshire CAMRA branch covers the area.",
+        ),
+        (
+            "How do I get around the Telford eating spots on this guide?",
+            "All four venues sit in Ironbridge Gorge, within a mile of each other. "
+            "The Ironbridge Fish and Chip Shop, Darby's 1779 and The Swan Taphouse "
+            "are all on or a short walk from the Wharfage. Goodwins 1757 at The "
+            "Valley Hotel is about a mile west along the river on Buildwas Road, "
+            "reachable on foot in twenty minutes or by taxi in five. Telford railway "
+            "station is in the new-town centre, about five miles north; a taxi to "
+            "Ironbridge takes around fifteen minutes.",
+        ),
+    ],
+}
+
+# newport (batch2) -----------------------------------------------
+TOWNS["newport"] = {
+    "region": "South Wales",
+    "population": "160K",
+    "nearby": ["Cardiff", "Cwmbran", "Pontypool"],
+    "meta_title": "Best Places to Eat in Newport: Local Food Guide",
+    "meta_description": (
+        "Four Newport independents: Japanese izakaya in a restored market, "
+        "a coffee house, three AA Rosettes and a CAMRA pub. Read the guide."
+    ),
+    "trust_strip": (
+        "From Japanese izakaya in a restored Victorian market to a "
+        "three-AA-Rosette Italian tasting menu, Newport rewards anyone "
+        "who looks past the city's underdog reputation"
+    ),
+    "snapshot": (
+        "For a fast answer: Seven Lucky Gods at Newport Market for "
+        "Japanese izakaya and Korean fried chicken under a cast-iron "
+        "Victorian roof, Rogue Fox Coffee House on Clytha Park Road "
+        "for the city's most-loved independent coffee and all-day food, "
+        "Gem42 on Bridge Street for twin-brothers Cinotti's three-AA-Rosette "
+        "Italian-Welsh tasting menu, and the Pen and Wig on Stow Hill for "
+        "CAMRA-listed cask ale and a Sunday carvery. Four moods, one "
+        "Welsh city on the Usk."
+    ),
+    "stats": [
+        ("160K", "Population (approx)"),
+        ("1889", "Year Newport Market's cast-iron hall opened"),
+        ("3", "AA Rosettes held by Gem42, Newport's top table"),
+        ("4", "Hand-picked independents"),
+    ],
+    "pivot_variant": "market-town",
+    "pivot_local_hook": (
+        "Newport's food hall runs its woks and fryers hard through weekend "
+        "service, and the city's pubs and restaurant kitchens add daily "
+        "volume — a grease load that compounds fast in canopies above "
+        "compact city-centre passes."
+    ),
+    "venues": [
+        {
+            "type": "Takeaway/Casual",
+            "name": "Seven Lucky Gods",
+            "area": "Newport Market, High Street, city centre",
+            "cuisine": "Japanese izakaya, Korean fried chicken, Asian fusion",
+            "body": (
+                "Newport Market — a Grade II-listed Victorian cast-iron hall on High "
+                "Street, built in 1889 and reopened in March 2022 after a five-million-"
+                "pound regeneration — is the most dramatic place to eat in the city. "
+                "Seven Lucky Gods, one of the food court anchors since the market "
+                "relaunched, brings an izakaya format to unit F10: Korean fried chicken, "
+                "daily sushi, bento boxes and Asian small plates, eaten at communal "
+                "benches beneath the glazed barrel roof. The operation is part of the "
+                "Hyde and Co Group, which opened the original Seven Lucky Gods in "
+                "Bristol in 2019. A food hygiene inspection in February 2025 confirmed "
+                "the Newport kitchen is actively trading. The market's food court runs "
+                "Wednesday to Sunday, with walk-in seating on a first-come basis."
+            ),
+            "known_for": "Korean fried chicken and daily sushi in Newport's regenerated Victorian market",
+            "good_for": "A casual lunch or weekend food-hall feed under a spectacular cast-iron roof",
+            "source_url": "https://ratings.food.gov.uk/business/1494607",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Cafe",
+            "name": "Rogue Fox Coffee House",
+            "area": "3 Clytha Park Road, near Newport Cathedral",
+            "cuisine": "Speciality coffee, all-day breakfast and lunch",
+            "body": (
+                "Rogue Fox opened on Clytha Park Road in 2019, close to St Woolos "
+                "Cathedral at the top of Stow Hill, and quickly became Newport's "
+                "most-talked-about independent cafe. It is family-run, small in scale "
+                "and big on welcome: comfy sofas, a cwtch seating area at the back, "
+                "handmade cakes, and a locally sourced single-origin coffee programme "
+                "that regulars call the best cup in the city. The all-day menu runs to "
+                "freshly prepared toasted sandwiches, seasonal salads, doorstep slices "
+                "of homemade cake and a vegan chocolate-avocado cake that has its own "
+                "fanbase. Dog-friendly, rated 4.6 on Tripadvisor and ranked in the "
+                "city's top sixty restaurants, it is the place locals bring visitors "
+                "first. A food hygiene inspection in January 2024 confirmed trading."
+            ),
+            "known_for": "Single-origin coffee from a local roaster and homemade cakes in a cosy independent",
+            "good_for": "A relaxed morning coffee or all-day brunch in a dog-friendly neighbourhood cafe",
+            "source_url": "https://ratings.food.gov.uk/business/1500874/rogue-fox-coffee-house-south-wales",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Restaurant",
+            "name": "Gem42",
+            "area": "42 Bridge Street, city centre",
+            "cuisine": "Italian-Welsh fine dining, surprise tasting menu",
+            "body": (
+                "Gem42 is the most decorated restaurant in Newport. Twin brothers "
+                "Sergio Cinotti — head chef — and Pasquale Cinotti — pastry chef — "
+                "opened it at 42 Bridge Street in 2018 after the original Gemelli's "
+                "closed to railway works, using the pause to reimagine the cooking "
+                "as a modern Italian-French tasting menu rooted in Welsh produce. "
+                "In 2022 the AA awarded Gem42 three Rosettes and named it AA "
+                "Restaurant of the Year for Wales, an honour it retained in both "
+                "2024 and 2025. The signature format is a surprise seasonal menu — "
+                "four, six or ten courses — driven by what Sergio grows in his "
+                "kitchen garden and by the best Welsh ingredients available that "
+                "week. Open Tuesday to Saturday from mid-afternoon. Book ahead."
+            ),
+            "known_for": "Three AA Rosettes and AA Wales Restaurant of the Year 2022, 2024 and 2025",
+            "good_for": "A proper occasion meal: the finest table in Newport by a significant margin",
+            "source_url": "https://www.gem42.co.uk/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Pub",
+            "name": "The Pen and Wig",
+            "area": "22-24 Stow Hill, city centre",
+            "cuisine": "British pub food, cask ale",
+            "body": (
+                "The Pen and Wig occupies a rambling, skilfully divided space on Stow "
+                "Hill formed from former business premises, its open-plan interior "
+                "broken up by wooden columns and a handsome ornate bar counter. Run by "
+                "the independent JW Bassett group, it consistently appears in CAMRA's "
+                "Good Beer Guide and carries the Cask Marque accreditation: five ales "
+                "on at any one time, including two regulars and three rotating guests "
+                "that stretch to porter, stout and strong IPA. It was the only city-"
+                "centre pub regularly pouring Tiny Rebel — Newport's own Supreme "
+                "Champion Beer of Britain brewery — before Tiny Rebel opened their own "
+                "bar. The kitchen serves quality pub food all day, including a Sunday "
+                "carvery with a loyal following, and a function room upstairs is "
+                "fitted out in art deco style. A food hygiene inspection in February "
+                "2025 confirmed current trading."
+            ),
+            "known_for": "CAMRA Good Beer Guide listing, Cask Marque accreditation and five-ale range",
+            "good_for": "A proper pint of cask ale and pub food in a reliably well-kept independent",
+            "source_url": "https://camra.org.uk/pubs/pen-wig-newport-161592",
+            "verified": "2026-06-22",
+        },
+    ],
+    "food_scene": [
+        (
+            "Newport's food map is shaped by its Victorian bones and its River Usk setting. "
+            "The city centre clusters around the High Street market hall and the commercial "
+            "streets that run south from Newport station to the river, while Stow Hill "
+            "climbs west from the centre to the Cathedral of St Woolos, lined with "
+            "independent cafes and neighbourhood restaurants. Across the River Usk to "
+            "the east, Maindee is a diverse residential quarter with a long tradition of "
+            "independent food shops, including Maindee Fresh Food Traders on Chepstow Road, "
+            "a deli known for Welsh and West Country cheeses. North along the Usk lies "
+            "Caerleon, a small Roman-walled town whose tight streets hold a handful of "
+            "notable restaurant rooms including a tapas bar and a hotel-restaurant."
+        ),
+        (
+            "Newport Market is the centrepiece of the city's food revival. The Grade "
+            "II-listed cast-iron hall, built in 1889 on the site of a market dating to "
+            "1817, was comprehensively regenerated and reopened in March 2022 following a "
+            "five-million-pound investment. The refurbished food court now holds independent "
+            "vendors from Japanese izakaya to Italian street food, Welsh cake makers and "
+            "a Greek souvlaki stall, all eating at communal benches beneath the original "
+            "glazed barrel roof. It is open Wednesday to Sunday and draws visitors from "
+            "across South Wales."
+        ),
+        (
+            "Newport also has a strong craft-beer identity. Tiny Rebel — founded in "
+            "Newport in 2012 by brothers-in-law Brad Cummings and Gazz Williams — "
+            "won Supreme Champion Beer of Britain in 2015 with their Cwtch red ale, "
+            "making them the youngest brewery and the first from Wales to take the "
+            "title. Their brewery taproom in Rogerstone pours the freshest Tiny Rebel "
+            "beer brewed next door, and the Pen and Wig on Stow Hill remains the best "
+            "city-centre address for rotating Welsh cask ales."
+        ),
+    ],
+    "visit": [
+        (
+            "Newport's food quarter is compact. Newport Market, Gem42 on Bridge Street "
+            "and the Pen and Wig on Stow Hill are all within ten minutes' walk of Newport "
+            "railway station, which has direct trains from Cardiff in under twenty minutes "
+            "and from Bristol Parkway in about forty. Rogue Fox Coffee House is a short "
+            "walk further west up Clytha Park Road, close to the Cathedral — a natural "
+            "start or end point for a day in the city."
+        ),
+        (
+            "Time a visit well and the day flows: coffee and cake at Rogue Fox, then down "
+            "to Newport Market for lunch from the food court, an evening tasting menu at "
+            "Gem42 and a nightcap at the Pen and Wig. Book Gem42 ahead — it opens from "
+            "mid-afternoon and fills quickly. Newport Market takes walk-ins Wednesday to "
+            "Sunday. The Pen and Wig is open all day, Monday to Sunday."
+        ),
+    ],
+    "checklist": [
+        "Start the day at Rogue Fox Coffee House on Clytha Park Road for the city's best independent coffee",
+        "Visit Newport Market at the weekend for the full food court experience under the Victorian barrel roof",
+        "Book Gem42 on Bridge Street in advance - it opens from mid-afternoon and the tasting menus sell out",
+        "The Pen and Wig on Stow Hill keeps five real ales and a CAMRA Good Beer Guide listing year on year",
+        "Newport station has direct trains from Cardiff (20 min) and Bristol Parkway (40 min) - no car needed",
+    ],
+    "what_to_order": (
+        "Order with intent. At Seven Lucky Gods in Newport Market, the Korean fried chicken and "
+        "a bento box, plus daily sushi if it is on. At Rogue Fox, a flat white from whatever "
+        "single origin is on that week and a slice of the homemade cake — the chocolate-avocado "
+        "vegan cake is worth seeking out. At Gem42, trust the surprise tasting menu and let "
+        "Sergio lead: the seasonal Italian-Welsh cooking changes week to week. At the Pen and "
+        "Wig, ask which rotating guest ale has just gone on and order a pint of it with "
+        "whatever is on the daily specials board."
+    ),
+    "glance": [
+        ("Best for a quick bite", "Seven Lucky Gods at Newport Market, for izakaya and Korean fried chicken under a Victorian roof"),
+        ("Best for an occasion", "Gem42 on Bridge Street, for a three-AA-Rosette Italian-Welsh tasting menu"),
+        ("Best for atmosphere", "Newport Market's cast-iron barrel-roofed food court, reopened 2022 after a full regeneration"),
+    ],
+    "faq": [
+        (
+            "What is the best restaurant in Newport, South Wales?",
+            "Gem42 at 42 Bridge Street is Newport's most-decorated restaurant. Twin brothers "
+            "Sergio and Pasquale Cinotti hold three AA Rosettes and were named AA Restaurant of "
+            "the Year for Wales in 2022, 2024 and 2025. The format is a surprise seasonal "
+            "Italian-Welsh tasting menu in four, six or ten courses. Book ahead: it opens "
+            "Tuesday to Saturday from mid-afternoon and fills quickly."
+        ),
+        (
+            "What is Newport Market and is it worth visiting?",
+            "Newport Market is a Grade II-listed Victorian cast-iron hall on High Street, "
+            "built in 1889 and reopened in March 2022 after a five-million-pound regeneration. "
+            "The food court holds independent vendors including Seven Lucky Gods for Japanese "
+            "izakaya, plus Italian, Greek and Welsh cake traders. It is open Wednesday to "
+            "Sunday with walk-in seating at communal benches under the original glazed barrel roof."
+        ),
+        (
+            "Where can I get the best coffee in Newport?",
+            "Rogue Fox Coffee House at 3 Clytha Park Road is consistently rated the best "
+            "independent coffee in Newport. A family-run cafe opened in 2019 near St Woolos "
+            "Cathedral, it sources single-origin beans from a local roaster, serves an "
+            "all-day food menu of handmade cakes and toasted sandwiches, and is dog-friendly."
+        ),
+        (
+            "Which is the best pub for real ale in Newport city centre?",
+            "The Pen and Wig at 22-24 Stow Hill consistently appears in the CAMRA Good Beer "
+            "Guide and carries the Cask Marque accreditation. It pours five cask ales at a "
+            "time, including rotating guests that stretch to porter, stout and strong IPA, "
+            "and serves pub food all day with a popular Sunday carvery."
+        ),
+        (
+            "Is Newport a good food destination for a day trip from Cardiff?",
+            "Yes. Newport is twenty minutes from Cardiff by direct train and five minutes "
+            "from the station on foot brings you to Newport Market, Gem42 and the Pen and "
+            "Wig. The city has a strong independent food scene anchored by the regenerated "
+            "Victorian market and its most decorated restaurant. Rogue Fox Coffee House "
+            "makes a good start or finish to the day."
+        ),
+        (
+            "What is Tiny Rebel and is it connected to Newport?",
+            "Tiny Rebel is a Newport craft brewery, founded in 2012 by Brad Cummings and "
+            "Gareth Williams. Their Cwtch red ale won Supreme Champion Beer of Britain in "
+            "2015 — making them the youngest brewery and the first from Wales to win the "
+            "title. Their flagship taproom is at their brewery in Rogerstone, Newport, "
+            "and the Pen and Wig on Stow Hill in the city centre regularly pours their beers."
+        ),
+    ],
+}
+
+# oxford (batch2) -----------------------------------------------
+TOWNS["oxford"] = {
+    "region": "Oxfordshire",
+    "population": "167K",
+    "nearby": ["Abingdon", "Bicester", "Witney"],
+    "meta_title": "Best Places to Eat in Oxford: Local Food Guide",
+    "meta_description": (
+        "Four Oxford independents: Cowley Road falafel, a Covered Market cafe "
+        "since 1924, a Michelin-listed brasserie and a Jericho real-ale pub. "
+        "Read the guide."
+    ),
+    "trust_strip": (
+        "From the Covered Market stalls to a Michelin-listed brasserie in "
+        "Summertown, Oxford's independent food scene runs deeper than its "
+        "dreaming spires suggest"
+    ),
+    "snapshot": (
+        "For a fast answer: Aleppo's Falafel on Cowley Road for a fresh Syrian "
+        "wrap with crisp falafel and tahini, Brown's Cafe in the Covered Market "
+        "for a full English and a pasteis de nata since 1924, Pompette in "
+        "Summertown for Pascal Wiedemann's Michelin-listed French small plates, "
+        "and the Old Bookbinders Ale House deep in Jericho for six handpumps "
+        "and French-bistro food in a Victorian ale house. Four moods, one "
+        "compact city of spires."
+    ),
+    "stats": [
+        ("167K", "Population (approx)"),
+        ("1924", "Year Brown's Cafe opened in the Covered Market"),
+        ("1869", "Year the Old Bookbinders Ale House first opened"),
+        ("4", "Hand-picked independents"),
+    ],
+    "pivot_variant": "high-volume",
+    "pivot_local_hook": (
+        "Oxford's kitchens span the full spectrum from Cowley Road's "
+        "late-night international fryers to the high-output college and "
+        "hotel kitchens running three services a day, and every one of them "
+        "pushes grease-laden vapour through canopies that serve densely "
+        "occupied buildings above."
+    ),
+    "venues": [
+        {
+            "type": "Takeaway",
+            "name": "Aleppo's Falafel",
+            "area": "116b Cowley Road, East Oxford",
+            "cuisine": "Syrian falafel wraps and Middle Eastern",
+            "body": (
+                "Named for the ancient Syrian city famous for its street food, "
+                "Aleppo's Falafel is a tiny family-run counter at 116b Cowley Road "
+                "that has become one of Oxford's most-loved lunch spots by doing "
+                "one thing brilliantly. The freshly fried falafel — crisp outside, "
+                "herb-green within — are made to order and packed into toasted "
+                "flatbreads with hummus, pickles, fresh salad and tahini. The room "
+                "barely seats a dozen and the queue frequently spills onto the "
+                "pavement, but the owners keep it moving and the warmth of service "
+                "matches the warmth of the food. Cash only, opening from 8am "
+                "Monday to Saturday, it is the Cowley Road at its most direct "
+                "and most delicious. Google's 4.8 rating across hundreds of "
+                "reviews tells you everything you need to know."
+            ),
+            "known_for": "Fresh-fried Syrian falafel wraps with hummus and tahini",
+            "good_for": "A brilliant, budget lunch on Oxford's most international street",
+            "source_url": "https://www.tripadvisor.co.uk/Restaurant_Review-g186361-d18560801-Reviews-Aleppo_s_Falafel-Oxford_Oxfordshire_England.html",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Cafe",
+            "name": "Brown's Cafe",
+            "area": "92 The Market, Oxford Covered Market, city centre",
+            "cuisine": "British cafe with a Portuguese twist",
+            "body": (
+                "The Covered Market has been the heart of Oxford's independent "
+                "food trade since 1774, and Brown's Cafe has been feeding the "
+                "city from unit 92 since 1924 — making it one of the oldest "
+                "continuously trading cafes in Oxfordshire. The Portuguese family "
+                "who run it now have woven their own traditions into the menu: "
+                "pasteis de nata and bolo de arroz sit alongside English apple "
+                "pies, toasted teacakes and a full breakfast that suits the "
+                "market traders as well as the tourists. Open seven days a week "
+                "from 8am (10am Sunday), it occupies the same low-ceilinged "
+                "market stalls where Miss Brown first set up her tea counter over "
+                "a century ago. Come early for the best pastries."
+            ),
+            "known_for": "Full English, pasteis de nata and teacakes since 1924",
+            "good_for": "Breakfast or mid-morning cake in Oxford's historic Covered Market",
+            "source_url": "https://oxford-coveredmarket.co.uk/traders/browns/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Restaurant",
+            "name": "Pompette",
+            "area": "7 South Parade, Summertown, north Oxford",
+            "cuisine": "French and Mediterranean small plates, wine bar",
+            "body": (
+                "Pascal Wiedemann spent fourteen years in big London kitchens — "
+                "Racine, Terroirs, Six Portland Road — before opening Pompette in "
+                "Summertown in 2018 with his wife Laura. The restaurant earned a "
+                "Michelin Guide listing and two AA Rosettes and has held both "
+                "across its eight years, while a February 2026 review from Edible "
+                "Reading awarded it 9 out of 10. The menu is rooted in France but "
+                "travels: vitello tonnato, cod brandade, jambon de Bigorre, "
+                "boquerones with Manchego, pumpkin gnocchi with Gorgonzola. The "
+                "room is neat and warm, the wine list curated with care, and the "
+                "lunch service (Wednesday to Saturday) is the best-value entry "
+                "point. Book ahead for evenings; Pompette is Summertown's most "
+                "decorated table and fills early."
+            ),
+            "known_for": "Michelin-listed French small plates and a serious wine list since 2018",
+            "good_for": "A neighbourhood occasion meal or a slow wine-and-small-plates lunch",
+            "source_url": "https://www.pompetterestaurant.co.uk/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Pub",
+            "name": "The Old Bookbinders Ale House",
+            "area": "17-18 Victor Street, Jericho",
+            "cuisine": "Real ale and French-bistro pub food",
+            "body": (
+                "Built in 1869 to serve the Victorian artisans of Jericho — "
+                "Oxford's first planned suburb, home to the workers who set the "
+                "type for the Oxford University Press — the Old Bookbinders has "
+                "traded continuously for over 150 years. The Sadones family "
+                "took over in 2011 and kept the character intact: six handpumps "
+                "pouring a rotating mix of house and guest real ales, a small "
+                "but serious French-bistro food menu, board games on the shelves "
+                "and regular open-mic nights in the back. CAMRA-listed and "
+                "genuinely beloved in the neighbourhood, it sits on a residential "
+                "street one block from Walton Street's bookshops and cafes, "
+                "sufficiently hidden that the crowd is mostly local. Dog-friendly, "
+                "child-friendly, no background music: the conversion at the next "
+                "table keeps you here."
+            ),
+            "known_for": "Six rotating real-ale handpumps and a Jericho soul since 1869",
+            "good_for": "A proper local pint away from the tourist circuit, with real food",
+            "source_url": "https://oldbookbinders.co.uk/",
+            "verified": "2026-06-22",
+        },
+    ],
+    "food_scene": [
+        (
+            "Oxford's food geography splits across four distinct zones. The Covered "
+            "Market — a colonnaded arcade off the High Street built in 1774 — "
+            "anchors the city-centre independent scene: butchers, cheesemongers, "
+            "bakers and half a dozen places to eat, with Brown's Cafe the oldest "
+            "survivor. The market will stay open throughout planned improvement "
+            "works, with construction not anticipated before mid-2027."
+        ),
+        (
+            "A mile south-east, Cowley Road is Oxford's most internationally "
+            "diverse eating street, a dense corridor of Syrian, South Asian, "
+            "Cantonese, Caribbean and Middle Eastern kitchens running through "
+            "East Oxford. Jericho, due west from the city centre, is the "
+            "neighbourhood for slower, more neighbourhood-scale eating: "
+            "gastropubs, wine bars and restaurants drawing from the area's "
+            "professional and academic residents. Summertown, north along the "
+            "Banbury Road, has quietly become the city's fine-dining strip, "
+            "with Pompette its brightest example."
+        ),
+        (
+            "Oxford does not claim a single signature dish the way Birmingham "
+            "owns the balti, but the Covered Market's cheese and charcuterie "
+            "traditions, Ben's Cookies' gooey chocolate-chip originals (baked "
+            "here since 1984), and the Cowley Road's falafel counter culture "
+            "together give the city a recognisable independent food personality. "
+            "The university presence means the population turns over sharply "
+            "every autumn, which keeps demand for fresh openings high and the "
+            "standards competitive."
+        ),
+    ],
+    "visit": [
+        (
+            "The Covered Market and the city centre are compact enough to walk "
+            "in minutes from Oxford rail station. Cowley Road begins about a "
+            "mile from the station via the Plain roundabout — a fifteen-minute "
+            "walk or a short bus ride on the 1 or 5. Jericho is a ten-minute "
+            "walk north-west from the city centre via Walton Street, and "
+            "Summertown is a further fifteen minutes north on the Banbury Road, "
+            "or two stops on the 2 or 2A bus."
+        ),
+        (
+            "A well-paced Oxford food day runs: breakfast at Brown's in the "
+            "Covered Market, a lunchtime falafel wrap at Aleppo's on Cowley Road, "
+            "a leisurely dinner at Pompette in Summertown (book ahead), then a "
+            "nightcap pint at the Old Bookbinders in Jericho on the way back. "
+            "The four venues span the city's food districts and are all reachable "
+            "without a car from the station."
+        ),
+    ],
+    "checklist": [
+        "Arrive at Brown's Cafe early — the pasteis de nata sell out before noon",
+        "Cash only at Aleppo's Falafel; there is an ATM on Cowley Road",
+        "Book Pompette at least a week ahead for weekend evenings",
+        "Ask the Old Bookbinders staff what guest ale just came on — turnover is fast",
+        "Walk through the Covered Market even if not eating there: the butchers and cheesemongers are the show",
+    ],
+    "what_to_order": (
+        "At Brown's, a full English and a pasteis de nata with your coffee. "
+        "At Aleppo's, the classic falafel wrap with hummus, tahini and pickles — "
+        "add extra chilli if they offer it. At Pompette, lean into the charcuterie "
+        "and the fish soup with rouille and Gruyere croutons, then whatever the "
+        "French-bistro main catches your eye; the wine list is short and well chosen. "
+        "At the Old Bookbinders, a pint of whatever the chalk says is freshest on "
+        "cask, with the French-inspired bar snacks on the side."
+    ),
+    "glance": [
+        ("Best for a quick bite", "Aleppo's Falafel — a fresh Syrian wrap and queue worth joining on Cowley Road"),
+        ("Best for an occasion", "Pompette — Michelin-listed French small plates in Summertown, book ahead"),
+        ("Best for atmosphere", "The Old Bookbinders Ale House — 150 years of Jericho soul and six real-ale handpumps"),
+    ],
+    "faq": [
+        (
+            "Where is the best place to eat in Oxford city centre?",
+            "Brown's Cafe in the Covered Market at 92 The Market has been serving "
+            "full English breakfasts and pastries since 1924 and is the most "
+            "historic independent in the centre. For a sit-down lunch, the "
+            "Covered Market traders and the restaurants off the High Street "
+            "give the best concentration of independents within walking distance "
+            "of the colleges and Bodleian Library."
+        ),
+        (
+            "What is the best restaurant in Oxford?",
+            "Pompette at 7 South Parade in Summertown is Oxford's most consistently "
+            "recognised independent restaurant, holding a Michelin Guide listing "
+            "and two AA Rosettes since 2019. Chef-owner Pascal Wiedemann serves "
+            "French and Mediterranean small plates from a concise, well-sourced "
+            "menu. It is the city's most celebrated neighbourhood table: book "
+            "a week ahead for weekend evenings."
+        ),
+        (
+            "What should I eat on Cowley Road in Oxford?",
+            "Cowley Road is Oxford's most diverse international food street. "
+            "Aleppo's Falafel at 116b Cowley Road is the most-recommended quick "
+            "stop: a family-run Syrian counter with a Google rating of 4.8, "
+            "open Monday to Saturday from 8am and cash only. For a longer meal, "
+            "the road has South Asian, Cantonese dim sum, Caribbean and "
+            "Moroccan options within a few minutes' walk."
+        ),
+        (
+            "Which Oxford pub has the best real ale?",
+            "The Old Bookbinders Ale House on Victor Street in Jericho is the "
+            "city's most-recommended real-ale pub for those off the tourist track. "
+            "CAMRA-listed, it pours six handpumps of rotating house and guest ales, "
+            "with a French-bistro food menu alongside. The Sadones family have run "
+            "it since 2011 in a building that has been a pub since 1869."
+        ),
+        (
+            "Is Oxford's Covered Market worth visiting?",
+            "Yes. The Covered Market has been the heart of Oxford's independent "
+            "food trade since 1774 and remains open and trading throughout planned "
+            "improvement works (construction not before mid-2027). Brown's Cafe "
+            "has served breakfast here since 1924; the Oxford Cheese Company, "
+            "David John Butchers and Ben's Cookies (since 1984) are the other "
+            "anchor traders. It is a genuine working market, not a tourist replica."
+        ),
+        (
+            "Are these Oxford food spots easy to reach without a car?",
+            "All four are reachable on foot or by bus from Oxford rail station. "
+            "The Covered Market is a ten-minute walk from the station. Cowley Road "
+            "is fifteen minutes on foot or a short bus ride (routes 1 or 5). "
+            "Jericho is a ten-minute walk north-west via Walton Street; Summertown "
+            "is a fifteen-minute walk further north or two stops on the 2 or 2A bus."
+        ),
+    ],
+}
+
+# poole (batch2) -----------------------------------------------
+TOWNS["poole"] = {
+    "region": "Dorset",
+    "population": "155K",
+    "nearby": ["Bournemouth", "Christchurch", "Ferndown"],
+    "meta_title": "Best Places to Eat in Poole: Local Food Guide",
+    "meta_description": (
+        "Where to eat in Poole: award-winning harbour fish and chips, an Ashley Cross "
+        "patisserie, Michelin-listed seafood and a 1635 quayside pub. Read the guide."
+    ),
+    "trust_strip": (
+        "From a 1635 quayside pub to a Michelin-listed dining room, "
+        "Poole's independent food scene runs on its working harbour"
+    ),
+    "snapshot": (
+        "For a fast answer: Lakeside Fish and Chips on Lifeboat Quay for "
+        "award-winning harbour-view fish and chips, Patisserie Mark Bennett in "
+        "Ashley Cross for artisan pastry and coffee, the Guildhall Tavern for "
+        "Michelin-listed seafood in the Old Town, and the Poole Arms on the "
+        "Quay for fresh chowder and cask ale in Poole's oldest pub. Four "
+        "moods, one natural harbour."
+    ),
+    "stats": [
+        ("155K", "Population of Poole (approx)"),
+        ("1635", "Year the Poole Arms first opened on the Quay"),
+        ("One of the largest", "Natural harbour in the world"),
+        ("4", "Hand-picked independents"),
+    ],
+    "pivot_variant": "coastal",
+    "pivot_local_hook": (
+        "Poole's harbour-front kitchens fry at volume all summer long: "
+        "a busy quayside chippy and its fryers, a Michelin-listed range "
+        "turning out fresh shellfish service after service, and pub kitchens "
+        "firing on warm evenings push a sustained load of grease-laden vapour "
+        "into canopies corroded by salt air from the harbour."
+    ),
+    "venues": [
+        {
+            "type": "Takeaway/Casual",
+            "name": "Lakeside Fish and Chips",
+            "area": "Lifeboat Quay, Poole (inner harbour)",
+            "cuisine": "Fish and chips, grilled fish",
+            "body": (
+                "Tucked onto the inner harbour at Lifeboat Quay, Lakeside has been "
+                "run by brothers Wayne and Jason Leese as a family business since 1984. "
+                "The restaurant sits behind tall windows framing sweeping views across "
+                "Holes Bay, with a separate takeaway counter for those who want to eat "
+                "on the quay. It is more than a standard chippy: the menu runs from "
+                "classic battered cod and unlimited chips to grilled catch of the day "
+                "and shellfish starters, using local and seasonal produce throughout. "
+                "The combination of genuine harbour views, multi-award-winning fish "
+                "and chips (national Top 3 in 2012, 2013 and 2015), and honest prices "
+                "makes it the definitive Poole fish-and-chips destination."
+            ),
+            "known_for": "Multi-award-winning harbour-view fish and chips since 1984",
+            "good_for": "A classic Dorset fish supper with the working harbour in view",
+            "source_url": "https://www.lakeside-fishandchips.com/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Cafe",
+            "name": "Patisserie Mark Bennett",
+            "area": "33 Church Road, Ashley Cross, Lower Parkstone",
+            "cuisine": "Artisan patisserie, speciality coffee",
+            "body": (
+                "Mark Bennett is the third generation of a Poole baking family: his "
+                "grandfather Claude founded Bennett's Family Bakers in Poole in 1951, "
+                "and Mark trained as a master baker over thirty years before opening "
+                "his own patisserie in Penn Hill in 2012 with his wife Emma. The "
+                "Ashley Cross branch sits on Church Road at the heart of Poole's most "
+                "characterful urban village, and it is the kind of independent cafe "
+                "that earns neighbourhood loyalty: French-quality viennoiserie — a "
+                "celebrated almond croissant, cherry almond tarts, hand-shaped "
+                "sourdough — alongside gourmet sandwiches and Clifton speciality "
+                "coffee. Open from 7:30 am, making it the natural first stop of any "
+                "Poole food day."
+            ),
+            "known_for": "Third-generation Poole baking family; the almond croissant",
+            "good_for": "Morning coffee and pastry in Poole's best independent village cafe",
+            "source_url": "https://patisseriemarkbennett.com/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Restaurant",
+            "name": "The Guildhall Tavern",
+            "area": "15 Market Street, Poole Old Town",
+            "cuisine": "Seafood and grill, locally sourced",
+            "body": (
+                "In the heart of Poole's Old Town, a short walk from the Quay, the "
+                "Guildhall Tavern is Poole's finest independent restaurant: listed in "
+                "the Michelin Guide (2025 edition, confirmed into 2026), holder of 2 "
+                "AA Rosettes, and voted Best Restaurant in Dorset in 2017. The elegant "
+                "room downstairs is joined by a teak-furnished Yacht Lounge upstairs, "
+                "ideal for an aperitif before dinner. Locally sourced seafood is the "
+                "kitchen's great strength -- hand-dived scallops, crispy cod, freshly "
+                "landed shellfish -- alongside Hampshire and Dorset meats and "
+                "vegetables. The menu shifts with the harbour's catch and the county's "
+                "seasons. Closed Tuesdays; book ahead at weekends."
+            ),
+            "known_for": "Michelin Guide listed; 2 AA Rosettes; Best Restaurant in Dorset 2017",
+            "good_for": "A landmark meal with Dorset seafood at its best in the Old Town",
+            "source_url": "https://www.guildhalltavern.co.uk/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Pub",
+            "name": "The Poole Arms",
+            "area": "19 The Quay, Poole",
+            "cuisine": "Fresh fish and seafood, real ale",
+            "body": (
+                "The green Victorian-tiled exterior of the Poole Arms is one of the "
+                "most recognised buildings on the Quay. The pub dates to 1635, making "
+                "it the oldest on Poole Quay, and it has been run as a family-owned "
+                "independent for over twenty years: Michelle and Carl took it on from "
+                "Michelle's parents Bob and Maureen Kerr in 2016, and daughters Meghan "
+                "and Bethan now work kitchen and floor. The menu is exclusively fresh "
+                "fish and seafood -- oysters, mussels, crab salad, fish chowder, skate "
+                "wing, sea bass, fish pie -- with five real ales on handpump. The "
+                "interior is all pews and wood panels and old Poole photographs; bench "
+                "tables outside face the harbour directly. A hidden gem for genuinely "
+                "superb quayside seafood at honest prices."
+            ),
+            "known_for": "Poole's oldest pub (1635); family-run; fresh-catch-only seafood menu",
+            "good_for": "A pint and a bowl of chowder with the working harbour in front of you",
+            "source_url": "https://www.poolearms.co.uk/",
+            "verified": "2026-06-22",
+        },
+    ],
+    "food_scene": [
+        (
+            "Poole Harbour is one of the largest natural harbours in the world, and "
+            "the town's food identity is shaped entirely by it. The local fishing fleet "
+            "lands crab, lobster, plaice and bass daily, and Poole Bay oysters are "
+            "cultivated in the harbour's tidal creeks and hand-harvested for restaurants "
+            "and pubs along the Quay. Fresh seafood is not a selling point here -- it is "
+            "the baseline."
+        ),
+        (
+            "The Quay and Old Town concentrate the oldest venues: quayside pubs that "
+            "have been pouring ale since the seventeenth century, a Michelin-listed "
+            "dining room two minutes from the water, and harbourfront fish shops feeding "
+            "locals and visitors alike. Cut inland two kilometres to Lower Parkstone and "
+            "you reach Ashley Cross, a village-within-a-town with independent cafes, "
+            "patisseries and bistros that cater more to the neighbourhood than to the "
+            "tourist trail."
+        ),
+        (
+            "The local signature dish is fish and chips eaten at the water's edge -- "
+            "simple, honest and hard to beat when the fish was landed that morning. "
+            "But Poole's food scene runs well beyond that baseline: Michelin-listed "
+            "cooking, a third-generation patisserie family and a 1635 pub with an "
+            "all-seafood menu make this one of the most rounded independent food towns "
+            "on the South Coast."
+        ),
+    ],
+    "visit": [
+        (
+            "The geography is compact and walkable. From the Poole Arms at 19 The Quay, "
+            "it is a five-minute walk up Market Street to the Guildhall Tavern in the "
+            "Old Town. Lakeside Fish and Chips sits at Lifeboat Quay on the inner "
+            "harbour, a short walk or cycle from the Quay itself. Patisserie Mark "
+            "Bennett in Ashley Cross is two kilometres southwest -- a pleasant walk "
+            "through residential streets or a quick taxi ride."
+        ),
+        (
+            "A natural Poole food day: start with coffee and an almond croissant at "
+            "Patisserie Mark Bennett in Ashley Cross, then head to the Quay and the "
+            "Old Town for lunch at Lakeside or the Guildhall Tavern, and finish the "
+            "evening at the Poole Arms for chowder, oysters and a pint of cask ale "
+            "with the harbour in front of you. The Sandbanks ferry and Brownsea Island "
+            "(National Trust) are natural add-ons if the day is fine."
+        ),
+    ],
+    "checklist": [
+        "Start at Patisserie Mark Bennett in Ashley Cross from 7:30 am for pastry and coffee",
+        "Walk or cycle the harbour path to Lifeboat Quay for a harbour-view lunch at Lakeside",
+        "Book the Guildhall Tavern ahead -- closed Tuesdays, popular at weekends",
+        "Finish at the Poole Arms for chowder and a real ale with the quayside view",
+        "Add the Sandbanks ferry or Brownsea Island for a full Poole harbour day",
+    ],
+    "what_to_order": (
+        "Order with intent. At Lakeside Fish and Chips, the grilled fish of the day "
+        "over the Holes Bay view, or the classic battered cod with unlimited chips. "
+        "At Patisserie Mark Bennett, the almond croissant and a Clifton flat white. "
+        "At the Guildhall Tavern, hand-dived scallops to start and the crispy cod "
+        "or the catch of the day; use the Yacht Lounge upstairs for an aperitif "
+        "first. At the Poole Arms, the fish chowder and a pint of cask ale on the "
+        "bench outside, with the 1635 pub at your back and the working harbour "
+        "in front of you."
+    ),
+    "glance": [
+        ("Best for a quick bite", "Lakeside Fish and Chips, for award-winning harbour-view fish and chips on Lifeboat Quay"),
+        ("Best for an occasion", "The Guildhall Tavern, for Michelin-listed seafood in the Old Town"),
+        ("Best for atmosphere", "The Poole Arms, Poole's oldest pub since 1635, on the Quay"),
+    ],
+    "faq": [
+        (
+            "Where is the best fish and chips in Poole?",
+            "Lakeside Fish and Chips on Lifeboat Quay has been a multi-award-winning "
+            "harbour-view chippy since 1984, with national Top 3 recognition in 2012, "
+            "2013 and 2015. It serves battered and grilled fish alongside locally "
+            "sourced produce, with restaurant seating and sweeping views over Holes Bay.",
+        ),
+        (
+            "Is there a Michelin restaurant in Poole?",
+            "Yes. The Guildhall Tavern on Market Street in Poole Old Town is listed in "
+            "the Michelin Guide (2025 edition, confirmed into 2026) and holds 2 AA "
+            "Rosettes. It specialises in fresh local seafood and Dorset and Hampshire "
+            "produce, with a Yacht Lounge upstairs for pre-dinner drinks.",
+        ),
+        (
+            "What is the oldest pub in Poole?",
+            "The Poole Arms at 19 The Quay dates to 1635, making it Poole Quay's "
+            "oldest pub. It is independently family-run and serves an exclusively fresh "
+            "fish and seafood menu alongside five handpump real ales, with harbour "
+            "views from its outdoor bench seating.",
+        ),
+        (
+            "What are the best areas to eat out in Poole?",
+            "Poole Quay and Old Town for fresh seafood, historic pubs and the town's "
+            "finest restaurants within walking distance of the working harbour. Ashley "
+            "Cross (Lower Parkstone) is Poole's best cafe and independent bistro "
+            "district, about two kilometres southwest of the Quay.",
+        ),
+        (
+            "What is Poole famous for food-wise?",
+            "Fresh seafood landed by the local fishing fleet -- fish and chips at the "
+            "water's edge, Poole Bay oysters cultivated in the harbour creeks, crab, "
+            "lobster and daily catch. One of the largest natural harbours in the world "
+            "keeps the kitchens of the Quay supplied directly.",
+        ),
+        (
+            "Are there good independent cafes in Poole?",
+            "Patisserie Mark Bennett in Ashley Cross is Poole's standout independent "
+            "cafe, run by a third-generation Poole baking family since 2012. The "
+            "Ashley Cross branch on Church Road opens from 7:30 am and is known for "
+            "its almond croissant, hand-shaped sourdough and Clifton speciality coffee.",
+        ),
+    ],
+}
+
+# dundee (batch2) -----------------------------------------------
+TOWNS["dundee"] = {
+    "region": "Scotland",
+    "population": "150K",
+    "nearby": ["Perth", "Arbroath", "Kirkcaldy"],
+    "meta_title": "Best Places to Eat in Dundee: Local Food Guide",
+    "meta_description": (
+        "Dundee food picks: Perth Road Turkish gem open since 1982, "
+        "West End speciality cafe, Italian steakhouse and a CAMRA "
+        "Pub of the Year. Read the guide."
+    ),
+    "trust_strip": (
+        "From a 40-year Turkish institution on Perth Road to a CAMRA Pub of "
+        "the Year Edwardian bar, Dundee's independent food scene quietly "
+        "punches above its weight on the banks of the Tay"
+    ),
+    "snapshot": (
+        "For a fast answer: Agacan on Perth Road for a Turkish kebab and "
+        "meze in the art-crammed institution that has fed the West End since "
+        "1982, Pacamara Food and Drink on Perth Road for Dundee's favourite "
+        "West End speciality coffee and brunch cafe, Don Padrino on Tay "
+        "Square for dry-aged Scottish steaks and fresh local seafood in a "
+        "lively Italian brasserie beside Dundee Rep, and the Speedwell Bar "
+        "on Perth Road for a pint in a magnificent 1903 Edwardian interior "
+        "that Tayside CAMRA has named Pub of the Year multiple times. "
+        "Four moods, one Tay-side city of jute, jam and journalism."
+    ),
+    "stats": [
+        ("150K", "Population (approx)"),
+        ("1982", "Year Agacan first opened on Perth Road"),
+        ("1903", "Year the Speedwell Bar was built"),
+        ("4", "Hand-picked independents"),
+    ],
+    "pivot_variant": "high-volume",
+    "pivot_local_hook": (
+        "Dundee's kitchens carry a sustained and varied grease load: the "
+        "charcoal-grilled kebabs and high-temperature doner rotisseries of "
+        "Perth Road, the brunch flat-tops of the West End cafe strip, and "
+        "the steak grills and seafood fryers of the waterfront and Tay "
+        "Square all push a steady burden of grease-laden vapour through "
+        "their canopies across every busy service."
+    ),
+    "venues": [
+        {
+            "type": "Takeaway/Casual",
+            "name": "Agacan",
+            "area": "113 Perth Road, West End",
+            "cuisine": "Turkish kebab and meze",
+            "body": (
+                "Agacan opened on Perth Road in 1982 and has not really "
+                "changed since, which is exactly the point. The small "
+                "dining room doubles as an art gallery: walls, tables, "
+                "chairs and even the doorstep are covered in oils, "
+                "watercolours and painted mosaics, giving the place the "
+                "feel of an eccentric Turkish sitting room rather than a "
+                "restaurant. The menu has remained largely the same for "
+                "over forty years: authentic kebabs, meze plates, freshly "
+                "baked bread and vegetarian dishes cooked with the same "
+                "care as the meat. Thursday to Sunday, 5 to 9:30pm only, "
+                "which keeps standards high and demand higher. Regular "
+                "diners plan a week ahead for a table. For Dundee food "
+                "lovers, this is the place that defines what a neighbourhood "
+                "institution looks like: singular, unwavering and "
+                "unmissable."
+            ),
+            "known_for": "Turkish kebab and meze in a 40-year-old art-filled institution on Perth Road",
+            "good_for": "An atmospheric and authentic West End supper with real local character",
+            "source_url": "https://www.yelp.com/biz/agacan-kebab-house-dundee",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Cafe",
+            "name": "Pacamara Food and Drink",
+            "area": "302 Perth Road, West End",
+            "cuisine": "Speciality coffee, brunch and lunch",
+            "body": (
+                "Pacamara sits at the quieter upper end of Perth Road and "
+                "has become the West End's go-to for serious coffee and "
+                "food cooked with genuine care. The licensed cafe sources "
+                "beans from respected UK speciality roasters and takes its "
+                "brew methods as seriously as any dedicated espresso bar, "
+                "while the food menu lifts well above cafe standard: "
+                "shakshuka, Colombian eggs, bubble and squeak benny, "
+                "brioche French toast, and a rotating lunch card of "
+                "sourdough sandwiches and sweet potato falafel wraps. "
+                "The room is small and fills quickly at weekends, when "
+                "queues form on the pavement outside. Walk-ins only, open "
+                "seven days, breakfast through to mid-afternoon. One of "
+                "the West End's most reliably good spots for a sit-down "
+                "that does not rush you out."
+            ),
+            "known_for": "Speciality coffee and creative brunch on Perth Road's West End strip",
+            "good_for": "A proper West End coffee and brunch stop, any day of the week",
+            "source_url": "https://www.tripadvisor.co.uk/Restaurant_Review-g186518-d9462516-Reviews-Pacamara_Food_Drink-Dundee_Scotland.html",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Restaurant",
+            "name": "Don Padrino",
+            "area": "11 Tay Square, city centre (beside Dundee Rep Theatre)",
+            "cuisine": "Italian steakhouse and seafood brasserie",
+            "body": (
+                "Don Padrino opened in January 2025 on the site of the "
+                "former Tayberry restaurant at Tay Square, operated by the "
+                "experienced Dundee family team behind Don Michele on Perth "
+                "Road. The concept is an Italian brasserie with Scottish "
+                "ingredients at its core: dry-aged Scottish steaks, fresh "
+                "local seafood, handmade pasta and a wine list to match. "
+                "The room is lively, the walls hung with vintage cinema "
+                "and Rat Pack imagery, and the theatre-adjacent location "
+                "makes it a popular pre-show and celebration choice. "
+                "The seafood boards and the Sticky Guinness are early "
+                "signatures. Book ahead for dinner; the location beside "
+                "Dundee Rep means tables are in demand on performance "
+                "evenings. Awarded Best Steak and Seafood Restaurant "
+                "in Dundee 2026."
+            ),
+            "known_for": "Dry-aged Scottish steaks, fresh seafood and Italian pasta beside Dundee Rep, opened 2025",
+            "good_for": "A celebratory dinner or pre-theatre meal in the city centre",
+            "source_url": "https://www.opentable.com/r/don-padrino-restaurant-dundee",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Pub",
+            "name": "Speedwell Bar",
+            "area": "165-167 Perth Road, West End (known locally as Mennies)",
+            "cuisine": "Real ale, cask beer",
+            "body": (
+                "Built in 1903 for James Speed and known locally as "
+                "Mennies after the family who ran it for more than fifty "
+                "years, the Speedwell Bar is one of the finest surviving "
+                "Edwardian pub interiors in Scotland. The L-shaped bar is "
+                "divided by a part-glazed screen, the mahogany gantry and "
+                "counter are original, dado-panelled walls rise to a "
+                "Jacobean ceiling, and the whole ensemble is featured in "
+                "CAMRA's Scotland's True Heritage Pubs. The real ale is "
+                "taken seriously: Tayside CAMRA named it Pub of the Year "
+                "in 2017, 2023 and 2024, and it was Scottish Pub of the "
+                "Year Runner-Up in 2023. The current custodians keep the "
+                "ales in excellent condition, with a focus on Scottish and "
+                "UK regional breweries. Open Monday to Sunday; the sort of "
+                "pub that makes you stay for a third."
+            ),
+            "known_for": "Magnificent 1903 Edwardian interior, Tayside CAMRA Pub of the Year 2017, 2023 and 2024",
+            "good_for": "A pint in one of Scotland's most beautiful surviving Edwardian pub rooms",
+            "source_url": "https://camra.org.uk/pubs/speedwell-bar-dundee-138515",
+            "verified": "2026-06-22",
+        },
+    ],
+    "food_scene": [
+        (
+            "Dundee's food geography pivots on Perth Road, the long spine of "
+            "the West End that runs west from the city centre. This is the "
+            "neighbourhood that gave Dundee its independent cafe culture and "
+            "its most characterful restaurants, from the forty-year Turkish "
+            "institution at Agacan to the speciality coffee of Pacamara. "
+            "Perth Road has been named the coolest neighbourhood in Scotland, "
+            "and its mix of independent shops, bakers, bars and restaurants "
+            "is the reason. The waterfront, rebuilt around the V&A Dundee "
+            "which opened in 2018, adds a second food cluster at the city's "
+            "regenerated Tay-side edge."
+        ),
+        (
+            "Dundee holds a particular place in the history of British food. "
+            "The Keiller family's marmalade enterprise, which began when "
+            "merchant James Keiller bought a surplus of Seville oranges at "
+            "the harbour around 1797 and his wife Janet turned them into a "
+            "preserve, became a commercial empire that popularised marmalade "
+            "across Britain. Janet Keiller is also credited with developing "
+            "Dundee cake - the almond-topped fruit cake that used the candied "
+            "peel left over from marmalade production and became one of "
+            "Scotland's most distinctive bakes. Jute, jam and journalism: "
+            "those three industries defined Dundee for a century, and the "
+            "jam half lives on in the city's sweet tooth and in the "
+            "artisan bakers who still make the cake today."
+        ),
+        (
+            "The city's modern food scene is unpretentious and genuinely "
+            "local. Dundee lacks the tourist density of Edinburgh and the "
+            "size of Glasgow, which means its restaurants serve the city "
+            "itself rather than visitors, and the quality-to-price ratio "
+            "is consistently good. The student population from Dundee "
+            "University and Abertay University keeps the independent cafe "
+            "and bar scene dynamic, and the proximity to Angus farmland "
+            "and the North Sea fishing ports means fresh local produce is "
+            "within easy reach of any kitchen that wants it."
+        ),
+    ],
+    "visit": [
+        (
+            "Most of the guide runs along Perth Road and Tay Square, making "
+            "the geography straightforward. Agacan, Pacamara and the Speedwell "
+            "Bar are all on Perth Road itself, within comfortable walking "
+            "distance of one another. Don Padrino at Tay Square sits at the "
+            "east end of the centre near the waterfront and Dundee Rep "
+            "Theatre, a short walk or taxi from the Perth Road cluster. "
+            "The city centre and waterfront are compact enough to cover "
+            "comfortably on foot."
+        ),
+        (
+            "A Dundee food day might start with brunch at Pacamara, followed "
+            "by a walk along Perth Road past the independent shops to the "
+            "V&A Dundee and the waterfront. In the afternoon, the city "
+            "centre is worth an hour before heading to Don Padrino for "
+            "dinner - particularly if there is a show at Dundee Rep. End "
+            "the evening at the Speedwell Bar with a pint under the "
+            "Edwardian ceiling, or return to Perth Road for a late table "
+            "at Agacan on a Thursday through Sunday evening. Book Agacan "
+            "and Don Padrino ahead; Pacamara is walk-in only."
+        ),
+    ],
+    "checklist": [
+        "Start the day at Pacamara on Perth Road for speciality coffee and a creative brunch",
+        "Walk the length of Perth Road to see Dundee's best independent street",
+        "Book Agacan well ahead - it only opens Thursday to Sunday and fills quickly",
+        "Book Don Padrino for dinner, especially if combining with a Dundee Rep show",
+        "End at the Speedwell Bar to see one of Scotland's finest Edwardian pub interiors",
+    ],
+    "what_to_order": (
+        "Order with intent. At Agacan, the mixed kebab plate with meze and "
+        "freshly baked bread - the meats are carefully sourced and the "
+        "vegetable dishes as good as anything on the menu. At Pacamara, the "
+        "Colombian eggs or bubble and squeak benny with a flat white from "
+        "whichever speciality roaster is on the bar. At Don Padrino, the "
+        "dry-aged Scottish steak or the seafood board, with the Sticky "
+        "Guinness if it is available. At the Speedwell Bar, a pint of "
+        "whatever Scottish regional is on the handpull - the staff know "
+        "the range and keep it in exceptional condition."
+    ),
+    "glance": [
+        ("Best for a quick bite", "Pacamara, for speciality coffee and brunch on Perth Road's West End strip"),
+        ("Best for an occasion", "Don Padrino, for dry-aged Scottish steaks beside Dundee Rep at Tay Square"),
+        ("Best for atmosphere", "Speedwell Bar's 1903 Edwardian interior on Perth Road, Tayside CAMRA Pub of the Year"),
+    ],
+    "faq": [
+        (
+            "What is Dundee famous for food?",
+            "Dundee has two great food claims: Keiller's marmalade, which "
+            "began when merchant James Keiller bought surplus Seville oranges "
+            "at the harbour around 1797 and his wife Janet turned them into a "
+            "commercial preserve that popularised marmalade across Britain; and "
+            "Dundee cake, the almond-topped fruit cake Janet developed using "
+            "the candied peel left over from marmalade production. Both remain "
+            "made by Dundee bakers today."
+        ),
+        (
+            "Where is the best place to eat on Perth Road in Dundee?",
+            "Perth Road in the West End is Dundee's best independent food "
+            "street. Agacan at number 113 is the forty-year Turkish institution "
+            "famous for its art-covered walls and authentic meze and kebabs, "
+            "open Thursday to Sunday evenings. Pacamara Food and Drink at "
+            "number 302 is the West End's leading speciality coffee and brunch "
+            "cafe, open seven days. The Speedwell Bar at 165-167 is Tayside "
+            "CAMRA Pub of the Year."
+        ),
+        (
+            "Where should I eat before a show at Dundee Rep Theatre?",
+            "Don Padrino at 11 Tay Square, directly beside Dundee Rep, is the "
+            "natural pre-theatre choice. The Italian steakhouse and seafood "
+            "brasserie serves dry-aged Scottish steaks, fresh local seafood and "
+            "handmade pasta, and the kitchen is experienced with pre-show "
+            "timing. Book ahead, particularly on performance evenings."
+        ),
+        (
+            "Which Dundee pub has the best interior?",
+            "The Speedwell Bar at 165-167 Perth Road, built in 1903 and known "
+            "locally as Mennies, has one of the finest surviving Edwardian pub "
+            "interiors in Scotland: an L-shaped bar with a part-glazed screen, "
+            "original mahogany gantry and counter, dado-panelled walls and a "
+            "Jacobean ceiling. It is listed in CAMRA's Scotland's True Heritage "
+            "Pubs and has been Tayside CAMRA Pub of the Year in 2017, 2023 "
+            "and 2024."
+        ),
+        (
+            "Are there good independent cafes in Dundee?",
+            "Yes. Pacamara Food and Drink at 302 Perth Road is the West End's "
+            "leading independent cafe: a licensed, seven-day brunch and lunch "
+            "spot sourcing beans from UK speciality roasters and serving "
+            "creative food including shakshuka, Colombian eggs and bubble and "
+            "squeak benny. It fills quickly at weekends and operates walk-ins "
+            "only, so arrive early or mid-week for the best chance of a table."
+        ),
+        (
+            "Can you do a Dundee food day on foot?",
+            "Mostly. Agacan, Pacamara and the Speedwell Bar all sit on Perth "
+            "Road in the West End, within comfortable walking distance of each "
+            "other. Don Padrino is at Tay Square near the waterfront, a short "
+            "walk east toward the city centre. The V&A Dundee on the waterfront "
+            "is worth visiting en route, and the whole loop from the West End "
+            "to the waterfront is no more than a mile and a half."
+        ),
+    ],
+}
+
+# cambridge (batch2) -----------------------------------------------
+TOWNS["cambridge"] = {
+    "region": "Cambridgeshire",
+    "population": "145K",
+    "nearby": ["Peterborough", "Bedford", "Bishop's Stortford"],
+    "meta_title": "Best Places to Eat in Cambridge: Local Food Guide",
+    "meta_description": (
+        "Four Cambridge independents: BBQ since 2014, Chelsea buns since 1920, "
+        "two Michelin stars on the Cam and the pub where DNA was announced. "
+        "Read the guide."
+    ),
+    "trust_strip": (
+        "From a Victorian bakery on Trumpington Street to two Michelin stars on "
+        "Midsummer Common, Cambridge rewards the curious eater as well as the "
+        "curious mind"
+    ),
+    "snapshot": (
+        "For a fast answer: Smokeworks on Free School Lane for slow-smoked ribs "
+        "in the shadow of the colleges, Fitzbillies on Trumpington Street for a "
+        "sticky Chelsea bun baked to the same secret recipe since 1920, "
+        "Midsummer House on the River Cam for Daniel Clifford's two-Michelin-star "
+        "tasting menus, and The Eagle on Bene't Street for a pint in the pub "
+        "where Watson and Crick announced the discovery of DNA. Four moods, one "
+        "compact university city."
+    ),
+    "stats": [
+        ("145K", "Population (approx)"),
+        ("1920", "Year Fitzbillies first opened"),
+        ("2 Stars", "Michelin rating at Midsummer House"),
+        ("4", "Hand-picked independents"),
+    ],
+    "pivot_variant": "high-volume",
+    "pivot_local_hook": (
+        "Cambridge runs busy kitchens year-round: a university city of 145,000 "
+        "with a near-constant cycle of term-time dining, tourist footfall and "
+        "conference trade means that kitchens from the colleges to the Mill Road "
+        "independents throw a heavy load of grease-laden vapour into their "
+        "canopies every service."
+    ),
+    "venues": [
+        {
+            "type": "Casual Dining",
+            "name": "Smokeworks",
+            "area": "Free School Lane, city centre",
+            "cuisine": "American BBQ",
+            "body": (
+                "Smokeworks opened on Free School Lane in 2014 after its founders "
+                "were inspired by a visit to London's basement BBQ pioneer Pitt Cue "
+                "in Carnaby Street. The idea was straightforward: real low-and-slow "
+                "American BBQ in the heart of Cambridge, served with house-made "
+                "sauces and paired with beer, bourbon and milkshakes. A decade on, "
+                "Smokeworks has become one of the city's most reliable independent "
+                "dining rooms, serving brisket, racks of ribs, pulled pork and "
+                "smoked chicken through lunch and into the evening. The Free School "
+                "Lane address sits just yards from the medieval lanes of the city "
+                "centre, making it an easy stop between the colleges. It also holds "
+                "a spot among the top ten BBQ restaurants in the UK by Tripadvisor "
+                "ranking, and is listed by Indie Cambridge as a community independent."
+            ),
+            "known_for": "Slow-smoked American BBQ — ribs, brisket and pulled pork — in the historic city centre",
+            "good_for": "A proper smoke-house lunch or early dinner between the colleges",
+            "source_url": "https://www.smokeworks.co.uk/locations/free-school-lane/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Cafe",
+            "name": "Fitzbillies",
+            "area": "Trumpington Street, city centre",
+            "cuisine": "Bakery cafe, afternoon tea",
+            "body": (
+                "Fitzbillies was opened in 1920 by brothers Ernest and Arthur Mason "
+                "using their First World War demob money, sons of local baker "
+                "'Ticker' Mason whose shop had stood further up Trumpington Street. "
+                "The founding speciality was fancy cakes; the Chelsea bun came to "
+                "define it. Over a century on, Fitzbillies still bakes more than "
+                "300,000 Chelsea buns a year by hand to the original secret recipe "
+                "— dark with spice, sticky with syrup and unmistakably themselves. "
+                "The Trumpington Street flagship at numbers 51-52 is the original "
+                "and largest branch, running a waiter-service tearoom alongside a "
+                "counter-service coffee shop and selling the full range of cakes, "
+                "bread, brunch and afternoon tea. It survived two bankruptcies, a "
+                "dramatic 1998 fire and a century of Cambridge fashions, and it is "
+                "still the first stop any returning student recommends."
+            ),
+            "known_for": "Chelsea buns baked by hand to the original 1920 secret recipe",
+            "good_for": "A mid-morning bun and coffee, or a full afternoon tea in the tearoom",
+            "source_url": "https://www.fitzbillies.com/pages/trumpington-street",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Restaurant",
+            "name": "Midsummer House",
+            "area": "Midsummer Common, River Cam",
+            "cuisine": "British fine dining, tasting menu",
+            "body": (
+                "Midsummer House sits in a Victorian house built in 1886 on the "
+                "bank of the River Cam, with Midsummer Common stretching away on "
+                "one side and college boathouses on the other. Chef-patron Daniel "
+                "Clifford took over the restaurant in 1998, won the first Michelin "
+                "star in 2002, and earned a second in 2005. The guide confirmed "
+                "both stars again in the 2026 edition, making Midsummer House the "
+                "only two-Michelin-star restaurant in the east of England. The "
+                "Solstice Menu, Clifford's flagship tasting experience, showcases "
+                "seasonal British produce with classical technique and modern "
+                "ambition across an immersive multi-course dinner; a lighter tasting "
+                "menu is also available at lunch and dinner Wednesday to Saturday. "
+                "The setting — meadow, river, Victorian dining room — is one of the "
+                "most singular in British fine dining. Book well ahead."
+            ),
+            "known_for": "Two Michelin stars since 2005; a Victorian riverside dining room on Midsummer Common",
+            "good_for": "A landmark special-occasion meal — the finest table in the east of England",
+            "source_url": "https://midsummerhouse.co.uk/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Pub",
+            "name": "The Eagle",
+            "area": "Bene't Street, city centre",
+            "cuisine": "British pub food",
+            "body": (
+                "The Eagle traces its history to a coaching inn first recorded in "
+                "1667, though a watering hole on the site dates back to 1353. It "
+                "sits on Bene't Street in the heart of the city, leased from Corpus "
+                "Christi College and run by Greene King. The pub entered scientific "
+                "history on 28 February 1953, when Francis Crick interrupted the "
+                "lunchtime patrons to announce that he and James Watson had "
+                "'discovered the secret of life' — the double-helix structure of "
+                "DNA. A blue plaque by the entrance marks the moment, updated in "
+                "2023 to include Rosalind Franklin and Maurice Wilkins. The RAF "
+                "Bar ceiling still carries the signatures and squadron numbers "
+                "scorched and smoked onto the plasterwork by Allied airmen during "
+                "the Second World War. The menu runs to reliable British pub fare — "
+                "Sunday roasts, burgers, pies — alongside the house DNA ale brewed "
+                "to mark the discovery. History at every table."
+            ),
+            "known_for": "The pub where Watson and Crick announced the discovery of DNA in 1953; WWII airmen ceiling graffiti",
+            "good_for": "A pint steeped in scientific history; the closest pub to the city centre colleges",
+            "source_url": "https://www.greeneking.co.uk/pubs/cambridgeshire/eagle",
+            "verified": "2026-06-22",
+        },
+    ],
+    "food_scene": [
+        (
+            "Cambridge's eating map divides between the formal city centre and the "
+            "bohemian stretch of Mill Road. The centre — Bene't Street, Free School "
+            "Lane, Trumpington Street — holds the historic pubs, the college-facing "
+            "cafes and bakeries, and the city's few fine-dining rooms. Bene't Street "
+            "has earned a local nickname as 'meat street' for its concentration of "
+            "steak and chop houses, while Trumpington Street carries a century of "
+            "Fitzbillies."
+        ),
+        (
+            "Mill Road, a mile south-east of the Market Square, is the city's "
+            "multicultural food corridor: a dense run of independent restaurants, "
+            "delis, and cafes offering cuisine from across the world. Turkish, "
+            "Greek, Ethiopian, Vietnamese and Sri Lankan kitchens sit side by side "
+            "with independent wine merchants and bakeries, and the street's "
+            "community feel is unlike anywhere else in Cambridge. It is the part of "
+            "the city locals choose for a relaxed evening out."
+        ),
+        (
+            "Beyond those two poles, the meadows and commons fringing the River Cam "
+            "provide a third Cambridge food experience. Midsummer House, the city's "
+            "only two-star kitchen, perches on the bank of the Cam overlooking "
+            "Midsummer Common where Red Poll cattle from CamCattle graze. The "
+            "cattle graze the common and supply local beef, making Midsummer Common "
+            "one of the few urban commons in Britain with a direct farm-to-table "
+            "connection to the restaurant above it."
+        ),
+    ],
+    "visit": [
+        (
+            "All four picks sit within a compact area of the centre and inner "
+            "suburbs. Smokeworks, Fitzbillies and The Eagle are within easy walking "
+            "distance of each other in the city centre. Midsummer House is roughly "
+            "a fifteen-minute walk north along the Cam towpath from the centre, or "
+            "a short taxi ride. Cambridge station is about a mile from the Market "
+            "Square and well served by direct trains from London King's Cross (50 "
+            "minutes), Peterborough and Bedford."
+        ),
+        (
+            "Time the day like this: a Chelsea bun and coffee at Fitzbillies to "
+            "start, a slow lunch of ribs at Smokeworks, an afternoon walk along the "
+            "Cam to Midsummer Common, then a pint of DNA ale at The Eagle before "
+            "the train home. Book Midsummer House weeks ahead for dinner and save "
+            "it for an occasion worth the journey."
+        ),
+    ],
+    "checklist": [
+        "Order a Chelsea bun at Fitzbillies — the original recipe, not a variation",
+        "Read the blue plaque at The Eagle before you order your DNA ale",
+        "Walk the Cam towpath north from the city centre to reach Midsummer House",
+        "Book Midsummer House well in advance; the tasting menu fills up weeks ahead",
+        "Spend an evening on Mill Road for the city's most multicultural independent dining",
+    ],
+    "what_to_order": (
+        "Order with intent. At Smokeworks, the rack of ribs with house BBQ sauce "
+        "and a side of smoked mac and cheese. At Fitzbillies, the house Chelsea bun "
+        "— dark, sticky and spiced — with a flat white. At Midsummer House, "
+        "surrender to the Solstice tasting menu and let the kitchen lead. At The "
+        "Eagle, a pint of the DNA ale and whatever comes with a side of ceiling "
+        "history."
+    ),
+    "glance": [
+        ("Best for a quick bite", "Smokeworks, for slow-smoked ribs near the colleges"),
+        ("Best for an occasion", "Midsummer House, for two-Michelin-star tasting menus on the River Cam"),
+        ("Best for atmosphere", "The Eagle, where Watson and Crick announced the discovery of DNA"),
+    ],
+    "faq": [
+        (
+            "What is Cambridge famous for in terms of food?",
+            "Cambridge has no single signature dish, but it has two standout food "
+            "institutions: Fitzbillies, which has been baking Chelsea buns to a "
+            "secret recipe since 1920, and The Eagle pub, where Watson and Crick "
+            "announced the discovery of DNA in 1953. The city also holds the only "
+            "two-Michelin-star restaurant in the east of England at Midsummer House.",
+        ),
+        (
+            "Does Cambridge have a Michelin-star restaurant?",
+            "Yes. Midsummer House on Midsummer Common, run by chef-patron Daniel "
+            "Clifford since 1998, holds two Michelin stars — awarded first in 2002 "
+            "and confirmed again in the 2026 guide. It is the only two-star "
+            "restaurant in Cambridgeshire.",
+        ),
+        (
+            "Where can I get the best Chelsea buns in Cambridge?",
+            "Fitzbillies on Trumpington Street has been baking Chelsea buns by hand "
+            "to the original 1920 secret recipe for over a century, producing more "
+            "than 300,000 a year. The Trumpington Street branch is the original "
+            "flagship and serves the widest range of buns and cakes alongside "
+            "brunch, afternoon tea and coffee.",
+        ),
+        (
+            "Is The Eagle pub in Cambridge still open?",
+            "Yes. The Eagle on Bene't Street is open seven days a week and still "
+            "serves food and drink in the historic coaching-inn building leased from "
+            "Corpus Christi College. The DNA blue plaque, the RAF Bar ceiling "
+            "graffiti and the house DNA ale are all still there.",
+        ),
+        (
+            "What is the best area to eat out in Cambridge?",
+            "The city centre around Bene't Street, Free School Lane and Trumpington "
+            "Street has the historic pubs, bakeries and fine dining. Mill Road, "
+            "about a mile south-east, is the multicultural food corridor — dense "
+            "with independent world-cuisine restaurants, delis and cafes favoured "
+            "by locals.",
+        ),
+        (
+            "Can I visit Cambridge restaurants by train?",
+            "Cambridge station is about a mile from the Market Square, with direct "
+            "trains from London King's Cross in around 50 minutes and connections "
+            "from Peterborough, Bedford and Bishop's Stortford. All four venues in "
+            "this guide are walkable from the centre.",
+        ),
+    ],
+}
+
+# york (batch2) -----------------------------------------------
+TOWNS["york"] = {
+    "region": "North Yorkshire",
+    "population": "145K",
+    "nearby": ["Harrogate", "Selby", "Knaresborough"],
+    "meta_title": "Best Places to Eat in York: Local Food Guide",
+    "meta_description": (
+        "Where to eat in York: a Yorkshire pudding wrap, a Fossgate "
+        "speciality coffee bar, a Michelin Bib Gourmand and an Edwardian "
+        "real-ale pub. Read the guide."
+    ),
+    "trust_strip": (
+        "From a viral Yorkshire pudding wrap on Low Petergate to an unaltered "
+        "1903 pub interior, York packs centuries of food history into one "
+        "walkable walled city"
+    ),
+    "snapshot": (
+        "For a fast answer: The York Roast Co on Low Petergate for the "
+        "city's famous YorkyPud wrap, Spring Espresso on Fossgate for the "
+        "independent speciality coffee that helped build York's cafe scene, "
+        "Skosh on Micklegate for Neil Bentinck's Michelin Bib Gourmand "
+        "small-plates, and The Blue Bell on Fossgate for a pint in one of "
+        "Britain's finest unaltered Edwardian pub interiors. Four moods, "
+        "one compact walled city."
+    ),
+    "stats": [
+        ("145K", "Population (approx)"),
+        ("1903", "Year The Blue Bell's interior was last remodelled"),
+        ("2026", "Year Skosh holds its Michelin Bib Gourmand"),
+        ("4", "Hand-picked independents"),
+    ],
+    "pivot_variant": "high-volume",
+    "pivot_local_hook": (
+        "York's tourist-driven kitchens run at pace all year: roast ovens "
+        "rendering hot pork fat for Yorkshire pudding wraps, pub grills firing "
+        "through double services, and the city's growing fine-dining rooms "
+        "pushing a steady load of grease-laden vapour into their canopies "
+        "on every cover."
+    ),
+    "venues": [
+        {
+            "type": "Takeaway",
+            "name": "The York Roast Co",
+            "area": "78 Low Petergate, city centre (also 4 Stonegate)",
+            "cuisine": "Yorkshire pudding wraps, roast meats",
+            "body": (
+                "Wayne and Stephen's family business started life as York Hog Roast "
+                "on Goodramgate in 2004 and grew into one of the city's most "
+                "recognised food names. The move that put them on the national map "
+                "came in 2017, when their YorkyPud Wrap went viral on social media "
+                "and reached two million views overnight. The wrap itself is a feat "
+                "of Yorkshire invention: a freshly made Yorkshire pudding flattened "
+                "into a wrap case, then loaded with slow-cooked roast pork, beef or "
+                "turkey, stuffing, roasted vegetables and a pour of thick gravy. It "
+                "is served hot, fast and without ceremony on Low Petergate, a "
+                "minute from the Minster. Reviews from April 2026 confirm the "
+                "queues are as long as ever. Order the pork with apple sauce and "
+                "crackling."
+            ),
+            "known_for": "The viral YorkyPud Wrap, York's own signature street food",
+            "good_for": "A cheap, hot, unmistakably local bite near the Minster",
+            "source_url": "https://www.tripadvisor.co.uk/Restaurant_Review-g186346-d2191146-Reviews-The_York_Roast_Co-York_North_Yorkshire_England.html",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Cafe",
+            "name": "Spring Espresso",
+            "area": "45 Fossgate, city centre (also 21 Lendal)",
+            "cuisine": "Speciality coffee, seasonal brunch and light lunch",
+            "body": (
+                "When Steve Dyson and Tracey Peck opened Spring Espresso on Fossgate "
+                "in November 2011, York had almost no independent speciality coffee. "
+                "They changed that: their motto, 'Righteous and True Since 2006', "
+                "reflects the years of sourcing work that predated the cafe itself. "
+                "Spring pulls espresso from small-batch roasters including Square "
+                "Mile and rotating guest roasters, alters its filter offerings with "
+                "the seasons and pairs the coffee with breakfast all day and a light "
+                "lunch menu. It won the Yorkshire Food and Drink Awards Best "
+                "Tea/Coffee Shop and earned a TripAdvisor Travellers' Choice in "
+                "2025. The Fossgate room is narrow and warm; the Lendal branch sits "
+                "near the river. Arrive early at weekends to secure a seat."
+            ),
+            "known_for": "The Fossgate speciality cafe that helped launch York's coffee scene",
+            "good_for": "A serious flat white and seasonal brunch on the city's food street",
+            "source_url": "https://www.springespresso.co.uk/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Restaurant",
+            "name": "Skosh",
+            "area": "98 Micklegate, just inside Micklegate Bar",
+            "cuisine": "Global small plates, modern British",
+            "body": (
+                "Neil Bentinck took the name from the Japanese word for 'a small "
+                "amount' when he opened Skosh in the summer of 2016, and the "
+                "format has stayed true ever since: snacks and small sharing plates "
+                "built from global technique applied to British produce, served in a "
+                "40-seat room in a newly refurbished Grade II listed building just "
+                "inside the medieval Micklegate Bar gatehouse. The Michelin Guide "
+                "awarded it a Bib Gourmand for good quality and good value cooking, "
+                "and it retained the award for 2026. In early 2024 Neil expanded "
+                "into the adjoining property to introduce a lounge and a more "
+                "layered experience, but the original spirit - energetic, inventive "
+                "and fairly priced - remained. Book well ahead, particularly for "
+                "weekend sittings; demand consistently outpaces availability."
+            ),
+            "known_for": "Michelin Bib Gourmand small plates in a medieval gatehouse setting",
+            "good_for": "A serious but relaxed occasion meal in a historic room",
+            "source_url": "https://guide.michelin.com/gb/en/york-region/york/restaurant/skosh",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Pub",
+            "name": "The Blue Bell",
+            "area": "53 Fossgate, city centre",
+            "cuisine": "Cask real ale, traditional pub",
+            "body": (
+                "The Blue Bell opened at 53 Fossgate in 1798 and was last "
+                "remodelled in 1903 by C. J. Melrose and Sons - and nothing "
+                "structural has changed since. The result is one of the finest "
+                "surviving Edwardian pub interiors in Britain: engraved and frosted "
+                "glass in doors and windows, glazed screens with sashed service "
+                "hatches to the back room, varnished matchboarding, a 1903 cast "
+                "iron fireplace with Art Nouveau detail, and only three small copper-"
+                "topped tables by bar fitters A Reynolds and Co of Leeds. It is "
+                "Grade II* listed and on CAMRA's National Inventory of Historic Pub "
+                "Interiors. The cellar is maintained by an award-winning Master "
+                "Cellarman who keeps seven cask ales always on, from local Rudgate "
+                "and Wold Top to house IPA brewed with Brass Castle of Malton. It "
+                "was named York CAMRA Pub of the Year 2025, beating over 450 pubs. "
+                "Children and large groups are not admitted; the house rules have "
+                "held for over a century."
+            ),
+            "known_for": "An unaltered 1903 Edwardian interior, CAMRA Pub of the Year 2025",
+            "good_for": "A pint of local cask ale in a genuinely jaw-dropping room",
+            "source_url": "https://bluebellyork.com/",
+            "verified": "2026-06-22",
+        },
+    ],
+    "food_scene": [
+        (
+            "York's food map is built on its medieval bones. The Shambles, the "
+            "best-preserved medieval street in Europe, once housed butchers in "
+            "its overhanging timber-framed shops; today the street holds a mix "
+            "of visitor trade and a handful of genuine food stops, including the "
+            "Shambles Kitchen smokehouse and Shambles Market's street food court. "
+            "Fossgate, a short walk south-east, has become the city's real food "
+            "address: Spring Espresso, The Blue Bell and a clutch of independent "
+            "restaurants and wine bars have turned it into a strip that rewards a "
+            "slow walk."
+        ),
+        (
+            "Bishopthorpe Road - Bishy Road to locals - was voted Britain's best "
+            "high street and anchors York's neighbourhood food scene south of the "
+            "walls. The Pig and Pastry, Flori bakery, Trinacria's gelateria and "
+            "the legendary fine-dining room Melton's all cluster here, with "
+            "independent delis, butchers and greengroers filling the gaps. It "
+            "has the feel of a local food community that happens also to be very "
+            "good at what it does."
+        ),
+        (
+            "The city's signature dish is the Yorkshire pudding wrap, invented "
+            "here by The York Roast Co and now something of a culinary icon. "
+            "Above the street-food level, Skosh on Micklegate sits at the top "
+            "of a growing independent restaurant scene that stretches from the "
+            "centre out through the snickelways and ancient gateways of one of "
+            "Britain's most intact walled cities."
+        ),
+    ],
+    "visit": [
+        (
+            "The geography is unusually friendly. Low Petergate, Fossgate and "
+            "Micklegate all sit within the medieval walls and are no more than "
+            "ten to fifteen minutes on foot from each other. The Blue Bell and "
+            "Spring Espresso share Fossgate. Skosh is five minutes south-west "
+            "through the ancient Micklegate Bar. The York Roast Co is north, "
+            "steps from the Minster."
+        ),
+        (
+            "Done as a day - a wrap from York Roast Co at lunch, a flat white "
+            "at Spring Espresso on Fossgate, small plates at Skosh in the "
+            "evening and a pint at the Blue Bell to finish - these four make a "
+            "compact, walkable tour through everything that makes York worth "
+            "eating in. Book Skosh weeks ahead; everything else is walk-in."
+        ),
+    ],
+    "checklist": [
+        "Arrive at York Roast Co before the midday rush for the freshest YorkyPud wrap",
+        "Walk the length of Fossgate to take in Spring Espresso and The Blue Bell",
+        "Book Skosh well in advance - tables go quickly and walk-ins are rare",
+        "Explore Bishy Road for the city's neighbourhood food community",
+        "Use York station - the city centre is entirely walkable from it",
+    ],
+    "what_to_order": (
+        "Order with intent. At The York Roast Co, the pork YorkyPud wrap with apple "
+        "sauce, crackling and gravy - it is the one that went viral for a reason. At "
+        "Spring Espresso, a flat white or a seasonal single-origin filter and whatever "
+        "cake is in that day. At Skosh, share as many plates as the table will allow "
+        "and let the kitchen guide you. At The Blue Bell, a pint of whatever the "
+        "Master Cellarman is proudest of that week - ask at the bar - and sit in the "
+        "back room to study the 1903 fittings."
+    ),
+    "glance": [
+        ("Best for a quick bite", "The York Roast Co, for a YorkyPud wrap near the Minster"),
+        ("Best for an occasion", "Skosh, for Michelin Bib Gourmand small plates on Micklegate"),
+        ("Best for atmosphere", "The Blue Bell's unaltered 1903 Edwardian interior on Fossgate"),
+    ],
+    "faq": [
+        (
+            "What is the Yorkshire pudding wrap and where can I get one in York?",
+            "The YorkyPud Wrap is a Yorkshire pudding flattened into a wrap case and "
+            "filled with slow-roasted meat, stuffing, vegetables and gravy. It was "
+            "invented by The York Roast Co, a family business founded in 2004, and "
+            "went viral in 2017. Their main shop is at 78 Low Petergate, near York Minster.",
+        ),
+        (
+            "Where is the best independent coffee in York?",
+            "Spring Espresso on Fossgate, which opened in 2011, is widely credited with "
+            "helping start York's speciality coffee scene. It serves rotating single-origin "
+            "espresso and filter from quality roasters alongside an all-day breakfast menu "
+            "from its Fossgate and Lendal branches.",
+        ),
+        (
+            "Does York have a Michelin Guide restaurant?",
+            "Yes. Skosh at 98 Micklegate, run by chef-owner Neil Bentinck since 2016, "
+            "holds a Michelin Bib Gourmand in the 2026 Guide for good quality and good "
+            "value cooking. It serves global small plates in a 40-seat room inside the "
+            "medieval Micklegate Bar gatehouse.",
+        ),
+        (
+            "Which York pub has the best interior?",
+            "The Blue Bell at 53 Fossgate, with an unaltered Edwardian interior from "
+            "1903, is Grade II* listed and on CAMRA's National Inventory of Historic Pub "
+            "Interiors. It was named York CAMRA Pub of the Year 2025, beating more than "
+            "450 pubs, and keeps seven cask ales from local Yorkshire breweries.",
+        ),
+        (
+            "What are the best areas to eat out in York?",
+            "Fossgate is the city's most concentrated food street, with Spring Espresso, "
+            "The Blue Bell and several independent restaurants in a short stretch. The "
+            "Shambles and its market hold street food and sandwich stops. Bishopthorpe "
+            "Road (Bishy Road) is the neighbourhood food hub south of the walls. "
+            "Micklegate has Skosh and a growing cluster of independents.",
+        ),
+        (
+            "Can you do a York food day entirely on foot?",
+            "Easily. York Roast Co (Low Petergate), Spring Espresso and The Blue Bell "
+            "(both on Fossgate) and Skosh (Micklegate) all sit within the medieval walls "
+            "and are no more than fifteen minutes on foot from each other. York station "
+            "is a short walk outside the walls and connects the city to Leeds, Harrogate "
+            "and the wider region.",
+        ),
+    ],
+}
+
+# blackpool (batch2) -----------------------------------------------
+TOWNS["blackpool"] = {
+    "region": "Lancashire",
+    "population": "140K",
+    "nearby": ["Lytham St Annes", "Thornton Cleveleys", "Fleetwood"],
+    "meta_title": "Best Places to Eat in Blackpool: Food Guide",
+    "meta_description": (
+        "Where to eat in Blackpool: a century-old chippy, a 1937 Art Deco "
+        "park cafe, a Good Food Guide bistro and a pub open since 1776. "
+        "Read the guide."
+    ),
+    "trust_strip": (
+        "From a century-old chippy on the Golden Mile to a 1937 Art Deco cafe "
+        "in Stanley Park, Blackpool's independent food scene runs deeper than "
+        "the Illuminations crowd ever expects"
+    ),
+    "snapshot": (
+        "For a fast answer: Yorkshire Fisheries on Topping Street for "
+        "Blackpool's oldest and most-awarded fish and chips, Park's Art Deco "
+        "Cafe in Stanley Park for breakfast or afternoon tea inside a listed "
+        "1937 building, Kwizeen on King Street for a Good Food Guide bistro "
+        "pairing Lancashire produce with a Mediterranean touch, and the Saddle "
+        "Inn on Whitegate Drive for a pint in a pub that has been continuously "
+        "licensed since 1776. Four moods across one seaside town."
+    ),
+    "stats": [
+        ("140K", "Blackpool population (approx)"),
+        ("1907", "Year Yorkshire Fisheries first opened"),
+        ("3.5M", "Visitors drawn by the Illuminations each year"),
+        ("4", "Hand-picked independents"),
+    ],
+    "pivot_variant": "coastal",
+    "pivot_local_hook": (
+        "Blackpool's seafront fryers run hot from Easter through to the end of "
+        "Illuminations season in November, pushing a heavy load of fish-frying "
+        "vapour through their extraction systems every service; the same load "
+        "hits the inland kitchens feeding the town's year-round visitor trade."
+    ),
+    "venues": [
+        {
+            "type": "Takeaway/Casual",
+            "name": "Yorkshire Fisheries",
+            "area": "14-16 Topping Street, town centre",
+            "cuisine": "Fish and chips",
+            "body": (
+                "Founded in 1907 and trading ever since from the same spot near "
+                "Blackpool Tower, Yorkshire Fisheries is the oldest chip shop in "
+                "the resort and widely regarded as the best. Owners Pavlos and "
+                "Maria Menelaou have built on two decades of stewardship to win "
+                "the NFFF Quality Award, the Gold Taste of Lancashire Award and "
+                "multiple TripAdvisor Certificates of Excellence. The seating "
+                "hall handles 126 covers, the fish is sourced and battered fresh "
+                "daily, and the cod special - a large fillet, chips, a side, "
+                "bread and butter, and a tea or coffee for around fifteen pounds "
+                "- is what most tables order. Ranked in the top five of Blackpool's "
+                "six hundred-plus restaurants by TripAdvisor on the strength of "
+                "over six thousand reviews, it earns that place by doing one "
+                "thing very well for well over a century."
+            ),
+            "known_for": "Blackpool's oldest chip shop, NFFF and Taste of Lancashire award winner",
+            "good_for": "The classic seaside meal, done properly, a short walk from the Tower",
+            "source_url": "https://www.yelp.co.uk/biz/yorkshire-fisheries-blackpool",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Cafe",
+            "name": "Park's Art Deco Cafe",
+            "area": "Stanley Park, East Park Drive",
+            "cuisine": "British cafe, afternoon tea",
+            "body": (
+                "Designed by Blackpool's Chief Architectural Assistant C. J. "
+                "Robinson and opened in 1937, the cafe in Stanley Park is one of "
+                "the finest pieces of civic Art Deco in the North West. Set on "
+                "the terrace overlooking the ornamental Italian Gardens, the "
+                "single-storey building retains its original steel-framed windows, "
+                "curved mahogany entrance doors, stylised 1930s light fittings and "
+                "the figurative bronze grates around the upper walls - depicting a "
+                "woman playing tennis, a woman dancing, a ship in full sail - that "
+                "make it unlike any other cafe in Lancashire. The kitchen serves "
+                "breakfast, lunch and afternoon tea, closes by mid-afternoon, and "
+                "shuts for its annual January maintenance before reopening each "
+                "February. Stanley Park itself was designed by Thomas Mawson and "
+                "receives over two million visitors a year; the cafe is its most "
+                "distinctive room."
+            ),
+            "known_for": "A listed 1937 Art Deco building with original bronze grates and Italian Garden views",
+            "good_for": "Breakfast, lunch or afternoon tea inside one of the region's finest 1930s interiors",
+            "source_url": "https://www.parks-artdecocafe.co.uk/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Restaurant",
+            "name": "Kwizeen",
+            "area": "47-49 King Street, town centre",
+            "cuisine": "Modern British, Mediterranean influence",
+            "body": (
+                "Kwizeen was opened on King Street by brothers-in-law Tony Beswick "
+                "and Catalan-born chef Marco Calle-Calatayud, who trained under "
+                "John Tovey OBE at the legendary Miller Howe in the Lakes. The "
+                "restaurant has earned a mention in the Good Food Guide and several "
+                "Taste of Blackpool and Taste of Lancashire awards for a menu that "
+                "changes every five weeks, sources ingredients from within thirty "
+                "miles, and combines British seasonal produce with Mediterranean "
+                "technique. Everything is made in house, from the bread through to "
+                "the ice cream. The room is sleek and unshowy; the cooking is the "
+                "draw. Lunch is served Tuesday to Friday, dinner Tuesday to "
+                "Saturday, and the kitchen offers fine-dining depth at prices "
+                "visitors from larger cities find remarkable. Book ahead."
+            ),
+            "known_for": "Good Food Guide-listed bistro with Taste of Lancashire awards and a menu that changes every five weeks",
+            "good_for": "A proper independent dinner showcasing Lancashire produce with a Catalan chef's touch",
+            "source_url": "https://www.tripadvisor.co.uk/Restaurant_Review-g186332-d719627-Reviews-Kwizeen_Restaurant-Blackpool_Lancashire_England.html",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Pub",
+            "name": "The Saddle Inn",
+            "area": "286 Whitegate Drive, South Shore",
+            "cuisine": "Pub food, cask ale",
+            "body": (
+                "The Saddle Inn has been continuously licensed since 1776, making "
+                "it the oldest licensed premises in Blackpool. Named after its "
+                "first owner Richard Hall, a saddler who worked the site, the pub "
+                "has kept its character across two and a half centuries. The bar "
+                "opens onto two cosy rooms, each with a real fire, the walls and "
+                "ceilings finished in original Lincrusta with brass bell-pushes, "
+                "fitted bench seating, stained glass above the door and match-"
+                "boarded walls - the kind of Victorian pub interior that listed "
+                "buildings campaigners pray survives. CAMRA logs it with a regular "
+                "beer plus five changing cask ales. A recent investment by "
+                "Stonegate brought a refurbishment that reopened the pub in "
+                "February 2026, with the grill and breakfast offer returning "
+                "alongside the ale range. Step off the Promenade and walk ten "
+                "minutes inland to find it."
+            ),
+            "known_for": "Continuously licensed since 1776, the oldest pub in Blackpool, with original Lincrusta rooms and real fires",
+            "good_for": "A pint in a genuinely ancient room, away from the Promenade crowds",
+            "source_url": "https://www.yelp.com/biz/saddle-inn-blackpool",
+            "verified": "2026-06-22",
+        },
+    ],
+    "food_scene": [
+        (
+            "Blackpool's food geography divides naturally between the seafront and "
+            "the inland streets. The Promenade and the Golden Mile are where "
+            "the traditional seaside economy plays out: fish and chip shops, ice "
+            "cream parlours and seafront cafes serving the three and a half million "
+            "visitors the Illuminations alone bring in each autumn. Yorkshire "
+            "Fisheries on Topping Street, steps from the Tower, is the pick of "
+            "this tradition - a chip shop that has been here since 1907 and earned "
+            "its awards the hard way."
+        ),
+        (
+            "Away from the front, the town has a quieter and more eclectic food "
+            "scene. King Street in the town centre holds Kwizeen, a Good Food "
+            "Guide-listed bistro that turns Lancashire produce into something "
+            "with real Mediterranean finesse. Stanley Park, two miles from the "
+            "Promenade in the east of the town, is where Park's Art Deco Cafe "
+            "sits inside its extraordinary 1937 building, drawing locals rather "
+            "than visitors for breakfast and afternoon tea. And South Shore, "
+            "the residential quarter inland from the Pleasure Beach, is where "
+            "the Saddle Inn has been pouring pints since the late eighteenth "
+            "century."
+        ),
+        (
+            "Fish and chips is Blackpool's signature dish without question - the "
+            "resort helped make the combination famous across Britain, and the "
+            "town's best chippies still use fresh cod and haddock battered to "
+            "order. But the wider scene rewards exploration: the independent "
+            "restaurants around King Street and the cafe in Stanley Park serve "
+            "a town that eats for itself as well as for its visitors. Go off "
+            "the Promenade and the food gets considerably more interesting."
+        ),
+    ],
+    "visit": [
+        (
+            "The Golden Mile and Topping Street are walkable from Blackpool North "
+            "station and the Tower. Stanley Park is best reached by bus or a "
+            "short drive east - it is about two miles from the Promenade but "
+            "well worth the detour for the park itself as well as the cafe. "
+            "King Street is a five-minute walk from the main tram stops on the "
+            "Promenade."
+        ),
+        (
+            "Time a visit to cover both halves of the town: a mid-morning coffee "
+            "or lunch at the Art Deco Cafe in the park, fish and chips at "
+            "Yorkshire Fisheries by early afternoon, an evening at Kwizeen "
+            "on King Street, and the Saddle Inn in South Shore to finish. "
+            "Book Kwizeen ahead - the room is small and the kitchen does not "
+            "open every day."
+        ),
+    ],
+    "checklist": [
+        "Arrive at Yorkshire Fisheries before the midday rush - queues form fast",
+        "Walk or take the bus to Stanley Park and allow time for the Italian Gardens as well as the cafe",
+        "Book Kwizeen in advance; it is open for dinner Tuesday to Saturday and lunch midweek",
+        "Find the Saddle Inn on Whitegate Drive - it is ten minutes inland from the Pleasure Beach, worth the walk",
+        "Use the Blackpool tram along the Promenade to move between the piers and town centre",
+    ],
+    "what_to_order": (
+        "At Yorkshire Fisheries, the cod special is the order: large fillet, "
+        "chips, a side and a pot of tea for around fifteen pounds. At Park's "
+        "Art Deco Cafe, the afternoon tea is the occasion to try, or a full "
+        "breakfast looking out over the Italian Gardens. At Kwizeen, the menu "
+        "changes every five weeks - ask what is in season and trust the kitchen; "
+        "the set lunch is extraordinary value for the level. At the Saddle Inn, "
+        "a pint of whatever is on the changing-beer board, taken slowly in one "
+        "of the Lincrusta rooms by the fire."
+    ),
+    "glance": [
+        ("Best for a quick bite", "Yorkshire Fisheries, for Blackpool's oldest and most-awarded fish and chips"),
+        ("Best for an occasion", "Kwizeen, for a Good Food Guide bistro dinner on King Street"),
+        ("Best for atmosphere", "Park's Art Deco Cafe inside its extraordinary 1937 Stanley Park building"),
+    ],
+    "faq": [
+        (
+            "Where can I get the best fish and chips in Blackpool?",
+            "Yorkshire Fisheries at 14-16 Topping Street, near Blackpool Tower, "
+            "has been trading since 1907 and is widely rated the best in the "
+            "resort. It holds the NFFF Quality Award and the Gold Taste of "
+            "Lancashire Award, and is ranked in the top five of Blackpool's "
+            "restaurants on TripAdvisor on the strength of over six thousand "
+            "reviews."
+        ),
+        (
+            "Is there a Good Food Guide restaurant in Blackpool?",
+            "Yes. Kwizeen on King Street, run by Catalan-born chef Marco Calle-"
+            "Calatayud and co-owner Tony Beswick, has earned a Good Food Guide "
+            "mention and several Taste of Blackpool and Taste of Lancashire awards "
+            "for its locally sourced, Mediterranean-influenced menu that changes "
+            "every five weeks."
+        ),
+        (
+            "What is the Art Deco cafe in Blackpool?",
+            "Park's Art Deco Cafe sits inside a listed 1937 building in Stanley "
+            "Park, designed by C. J. Robinson with original steel-framed windows, "
+            "curved mahogany doors and decorative bronze grates. It serves "
+            "breakfast, lunch and afternoon tea overlooking the ornamental Italian "
+            "Gardens, and closes for annual maintenance each January before "
+            "reopening in February."
+        ),
+        (
+            "Which is the oldest pub in Blackpool?",
+            "The Saddle Inn on Whitegate Drive in South Shore has been "
+            "continuously licensed since 1776, making it the oldest licensed "
+            "premises in Blackpool. It retains its original Lincrusta-panelled "
+            "rooms with real fires, stained glass and brass bell-pushes, and "
+            "serves up to six cask ales."
+        ),
+        (
+            "What is the local food scene like beyond the Promenade?",
+            "Step back from the Golden Mile and Blackpool has a genuine independent "
+            "scene: King Street holds Kwizeen, one of Lancashire's most awarded "
+            "bistros; Stanley Park has the Art Deco Cafe for a slow breakfast or "
+            "afternoon tea; and South Shore has the Saddle Inn, a pub with a "
+            "more than two-hundred-year history. The fish and chips tradition "
+            "runs deep at the seafront but the inland eating is well worth finding."
+        ),
+        (
+            "How do I get around Blackpool to visit these places?",
+            "Blackpool North station and the coastal tram connect the Promenade "
+            "and town centre, putting Yorkshire Fisheries and Kwizeen within "
+            "easy reach on foot. Stanley Park is about two miles east of the "
+            "front - a short bus ride or taxi from the centre. The Saddle Inn "
+            "in South Shore is about ten minutes inland from the Pleasure Beach "
+            "by foot or a quick tram-and-walk combination."
+        ),
+    ],
+}
+
+# ipswich (batch2) -----------------------------------------------
+TOWNS["ipswich"] = {
+    "region": "Suffolk",
+    "population": "140K",
+    "nearby": ["Norwich", "Colchester", "Chelmsford"],
+    "meta_title": "Best Places to Eat in Ipswich: Local Food Guide",
+    "meta_description": (
+        "Where to eat in Ipswich: a steampunk smokehouse by the marina, "
+        "a 15th-century teahouse, a waterfront bistro and a CAMRA-winning "
+        "local. Read the guide."
+    ),
+    "trust_strip": (
+        "From a 15th-century Dial Lane teahouse to a waterfront bistro in a "
+        "Victorian salt warehouse, Ipswich has one of East Anglia's most "
+        "characterful independent food scenes"
+    ),
+    "snapshot": (
+        "For a fast answer: The Forge Kitchen on Duke Street for smoked "
+        "burgers and craft cocktails in a former electricity substation, "
+        "Pickwick's on Dial Lane for 40 loose-leaf teas in Ipswich's oldest "
+        "coffee house, Bistro on the Quay at Wherry Quay for seasonal modern "
+        "British cooking in a converted salt warehouse, and The Arbor House "
+        "near Christchurch Park for cask ales in the town's CAMRA pub of the "
+        "year. Four moods, one compact Suffolk town."
+    ),
+    "stats": [
+        ("140K", "Population (approx)"),
+        ("15th C", "Age of Pickwick's building on Dial Lane"),
+        ("Waterfront", "Ipswich's regenerated marina dining quarter"),
+        ("4", "Hand-picked independents"),
+    ],
+    "pivot_variant": "high-volume",
+    "pivot_local_hook": (
+        "Ipswich kitchens run from waterfront smokehouse grills and "
+        "charcoal-fired burger stations to busy bistro ranges cooking "
+        "for a full marina dining room every service, and every one of "
+        "them pushes a heavy load of grease-laden vapour into its canopy."
+    ),
+    "venues": [
+        {
+            "type": "Casual",
+            "name": "The Forge Kitchen",
+            "area": "1 Duke Street, near the Waterfront",
+            "cuisine": "Smoked burgers, steaks, brunch, cocktails",
+            "body": (
+                "The Forge Kitchen occupies a former electricity substation "
+                "a 30-second walk from the Ipswich marina, and the "
+                "industrial bones of the place -- exposed brickwork, heavy "
+                "steel fittings, a two-storey dining room and a roof terrace "
+                "-- give it a genuinely atmospheric setting. Opened as an "
+                "independent in December 2017 by Grant and Robyn Owen, it "
+                "built its name on gourmet smoked burgers and charcoal-grilled "
+                "steaks, all made from fresh ingredients. The weekend brunch "
+                "menu and creative cocktail list have since made it a local "
+                "institution. A food hygiene inspection in March 2026 confirmed "
+                "it is actively trading. Order the signature smoked beef burger "
+                "or a thick-cut ribeye, and stay for the cocktails on the terrace."
+            ),
+            "known_for": "Gourmet smoked burgers and steaks in a steampunk substation",
+            "good_for": "A casual waterfront lunch or an early-evening burger and cocktail",
+            "source_url": "https://www.theforgekitchen.co.uk/our-story/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Cafe",
+            "name": "Pickwick's Coffee and Teahouse",
+            "area": "1 Dial Lane, historic town centre",
+            "cuisine": "Loose-leaf teas, speciality coffees, light lunches",
+            "body": (
+                "Pickwick's sits in a building on Dial Lane that dates to the "
+                "15th century -- the facade is Art Nouveau and the interior "
+                "carries the hush of a genuinely old room. The cafe is believed "
+                "to occupy what was once the office of Cardinal Wolsey's "
+                "secretary, and it trades as Ipswich's oldest coffee house. "
+                "The offering is built around depth of choice rather than "
+                "speed: more than 40 varieties of loose-leaf tea and over "
+                "30 coffees, all available to drink in and to take home. "
+                "All tables are served by staff -- no queuing with a tray. "
+                "Seasonally, the courtyard behind the cafe opens out into the "
+                "churchyard, shaded by ancient yew trees. A peaceful, unhurried "
+                "stop at the heart of the medieval centre."
+            ),
+            "known_for": "40-plus loose-leaf teas in Ipswich's oldest coffee house",
+            "good_for": "A slow pot of tea in a building that predates the Tudors",
+            "source_url": "https://www.pickwicksipswich.com/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Restaurant",
+            "name": "Bistro on the Quay",
+            "area": "3 Wherry Quay, Ipswich Waterfront",
+            "cuisine": "Modern British, seasonal, local sourcing",
+            "body": (
+                "Bistro on the Quay is housed in a former salt warehouse on "
+                "Wherry Quay, just beyond the Custom House, with floor-to-ceiling "
+                "windows overlooking the marina and moored yachts. The building "
+                "was converted into a restaurant in 1996 and has been "
+                "family-run as an independent neighbourhood bistro ever since. "
+                "After a full refurbishment in early 2026 -- new artwork by local "
+                "painters, extended menu -- the room feels both elevated and "
+                "relaxed. The kitchen works seasonally with Suffolk suppliers, "
+                "turning out dishes that are simple in concept and executed "
+                "cleanly, with pricing that reflects the quality rather than "
+                "the postcode. A 4.5-star Google rating and Yelp reviews "
+                "updated June 2026 confirm it is actively trading. Book ahead "
+                "for evening tables with the waterfront view."
+            ),
+            "known_for": "Seasonal modern British cooking in a converted Victorian salt warehouse",
+            "good_for": "A proper dinner out with waterfront views",
+            "source_url": "https://www.bistroonthequay.co.uk/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Pub",
+            "name": "The Arbor House",
+            "area": "43 High Street, near Christchurch Park",
+            "cuisine": "Rotating local cask ales, craft guests",
+            "body": (
+                "The Arbor House sits a short walk from the town centre on "
+                "the High Street, close to the arboretum in Christchurch Park "
+                "from which it takes its name. The building has been a pub "
+                "since at least the mid-19th century -- listed as the "
+                "Arboretum -- and was reopened as The Arbor House in August "
+                "2016 under independent licensee Georgina. The result is one "
+                "of Ipswich's most consistently well-run real ale pubs: cask "
+                "kept properly, a rotating line-up of local Suffolk ales and "
+                "craft guest beers, and a thoughtful selection of wines and "
+                "spirits alongside. The Ipswich and East Suffolk CAMRA branch "
+                "named it Ipswich Pub of the Year 2025, recognition built on "
+                "the quality of the cellar and the welcome. No food beyond bar "
+                "snacks, but the beer is the point here."
+            ),
+            "known_for": "CAMRA Ipswich Pub of the Year 2025, rotating local cask ales",
+            "good_for": "A properly kept pint in an honest independent local",
+            "source_url": "https://camra.org.uk/pubs/arbor-house-ipswich-183269",
+            "verified": "2026-06-22",
+        },
+    ],
+    "food_scene": [
+        (
+            "Ipswich eats in two distinct zones. The Waterfront -- the regenerated "
+            "Victorian dock basin south of the town centre, anchored by Neptune "
+            "Quay and Wherry Quay -- draws the marina crowd to a run of bistros, "
+            "bars and independent restaurants that make the most of the converted "
+            "warehouses and riverside light. Bistro on the Quay in its former salt "
+            "store is the most established of these; The Forge Kitchen in its old "
+            "electricity substation the most atmospheric."
+        ),
+        (
+            "The historic centre clusters around the Cornhill and the medieval "
+            "street pattern that fans out from it. Dial Lane, a narrow passage "
+            "linking the main shopping streets, holds Pickwick's and its "
+            "15th-century building -- a reminder that Ipswich was a prosperous "
+            "wool-trade town long before its Victorian dock boom. St Peter's "
+            "Street and St Nicholas Street, known locally as The Saints, form "
+            "a hub of independent businesses a five-minute walk from the "
+            "Waterfront, with cafes and specialist food shops among them."
+        ),
+        (
+            "Suffolk produce shapes the menus across the town. Local fish from "
+            "the North Sea coast at Aldeburgh and Orford, game from the county's "
+            "estates and vegetables from the Waveney Valley all appear regularly "
+            "on waterfront and centre menus alike. The Cornhill market brings "
+            "local cheese, Suffolk fudge and street food to the town square on "
+            "market days. Adnams of Southwold and a growing number of Suffolk "
+            "microbreweries -- including Ipswich's own Briarbank, brewing on "
+            "Fore Street since 2013 -- keep the real ale tradition well supplied."
+        ),
+    ],
+    "visit": [
+        (
+            "The geography is friendly. The Waterfront and the historic centre "
+            "are about ten minutes apart on foot, connected by a pleasant walk "
+            "through the old dock basin and up through the medieval street "
+            "pattern. Bistro on the Quay and The Forge Kitchen sit within a "
+            "couple of minutes of each other on the marina; Pickwick's is in "
+            "the centre at Dial Lane; The Arbor House is a short walk north "
+            "towards Christchurch Park."
+        ),
+        (
+            "As a day: coffee and a toasted sandwich at Pickwick's to start, "
+            "a smoked burger at The Forge Kitchen for lunch on the waterfront "
+            "terrace, a proper dinner at Bistro on the Quay watching the yachts, "
+            "and a closing pint of local ale at The Arbor House. Book the "
+            "Bistro in advance for evenings. Ipswich station is 15 minutes from "
+            "Liverpool Street, so the town is easily done as a day trip from "
+            "London or as a base for the Suffolk coast."
+        ),
+    ],
+    "checklist": [
+        "Book Bistro on the Quay in advance for evening tables with the waterfront view",
+        "Visit Pickwick's mid-morning on a weekday when the lanes are quiet",
+        "Ask The Forge Kitchen about the daily smoked special and the cocktail board",
+        "Check The Arbor House's chalkboard for which local Suffolk ales are on cask",
+        "Walk the Waterfront between Fore Street and Wherry Quay to take in the dock basin",
+    ],
+    "what_to_order": (
+        "Order with intent. At The Forge Kitchen, the signature smoked beef burger or a "
+        "ribeye from the charcoal grill, and a house cocktail on the terrace. At Pickwick's, "
+        "choose a single-estate loose-leaf tea from the menu and pair it with a homemade cake. "
+        "At Bistro on the Quay, ask what is coming off the Suffolk farms that week and follow "
+        "the kitchen's lead -- the seafood and game dishes are reliably the strongest. At "
+        "The Arbor House, order whatever local Suffolk ale is freshest on cask and take it "
+        "to a table by the window."
+    ),
+    "glance": [
+        ("Best for a quick bite", "The Forge Kitchen, for a smoked burger near the Ipswich marina"),
+        ("Best for an occasion", "Bistro on the Quay, for waterfront seasonal dining in a converted salt warehouse"),
+        ("Best for atmosphere", "Pickwick's on Dial Lane, for a pot of tea in a 15th-century town-centre building"),
+    ],
+    "faq": [
+        (
+            "Where should I eat on the Ipswich Waterfront?",
+            "Bistro on the Quay at 3 Wherry Quay is the standout independent: a family-run "
+            "bistro in a former Victorian salt warehouse with floor-to-ceiling marina views, "
+            "seasonal modern British cooking and a recent 2026 refurbishment. The Forge "
+            "Kitchen on Duke Street, a 30-second walk from the water, is the choice for "
+            "smoked burgers and craft cocktails in a converted electricity substation.",
+        ),
+        (
+            "What is the best cafe in Ipswich town centre?",
+            "Pickwick's Coffee and Teahouse on Dial Lane is widely considered the "
+            "town's most characterful independent cafe, housed in a building dating "
+            "to the 15th century. It carries over 40 varieties of loose-leaf tea and "
+            "30-plus coffees, with table service throughout and a courtyard in the "
+            "old churchyard for warmer months.",
+        ),
+        (
+            "Which pub in Ipswich won CAMRA Pub of the Year?",
+            "The Arbor House on the High Street near Christchurch Park was named "
+            "Ipswich Pub of the Year 2025 by the Ipswich and East Suffolk CAMRA "
+            "branch. Run by independent licensee Georgina since 2016, it is "
+            "known for properly kept cask ales, a rotating line-up of local "
+            "Suffolk beers and craft guests.",
+        ),
+        (
+            "Is Ipswich a good place to eat out?",
+            "Yes. The Waterfront regeneration has brought a cluster of independent "
+            "bistros and bars to the converted dock buildings, while the medieval "
+            "centre around Dial Lane and The Saints quarter on St Peter's Street "
+            "holds older independents. Suffolk produce -- North Sea fish, county "
+            "game, local cheese -- appears widely across the menus.",
+        ),
+        (
+            "What local produce should I look for in Ipswich?",
+            "Suffolk is strong on fish from the North Sea coast (particularly "
+            "Aldeburgh and Orford), game from the county estates and seasonal "
+            "vegetables from the Waveney Valley. Adnams of Southwold and local "
+            "microbrewers including Briarbank, brewing on Fore Street since 2013, "
+            "are the real ale names to look for in Ipswich pubs.",
+        ),
+        (
+            "How do I get to Ipswich and how long does it take from London?",
+            "Ipswich station is on the Greater Anglia main line, approximately "
+            "70 minutes from London Liverpool Street by fast train. The Waterfront "
+            "is a 15-minute walk south of the station; the historic town centre "
+            "and Dial Lane are midway between them. The town is easily done as a "
+            "day trip or as a base for the Suffolk coast.",
+        ),
+    ],
+}
+
+# middlesbrough (batch2) -----------------------------------------------
+TOWNS["middlesbrough"] = {
+    "region": "Teesside, North East England",
+    "population": "143K",
+    "nearby": ["Stockton-on-Tees", "Redcar", "Hartlepool"],
+    "meta_title": "Best Places to Eat in Middlesbrough: Food Guide",
+    "meta_description": (
+        "Four Middlesbrough independents: a Linthorpe Road parmo legend, "
+        "a Baker Street cafe, an award-winning restaurant and a real-ale micropub. "
+        "Read the guide."
+    ),
+    "trust_strip": (
+        "From a parmo institution on Linthorpe Road to a ARTA award-winning kitchen, "
+        "Middlesbrough's independent food scene is built on character and community"
+    ),
+    "snapshot": (
+        "For a fast answer: Cafe Central Park on Linthorpe Road for the parmo the "
+        "town invented, Baker Street Kitchen on Albert Road for the best independent "
+        "brunch in the cultural quarter, Oven Restaurant on Linthorpe Road for "
+        "Tarek Thoma's eclectic Modern British and Mediterranean menu, and The "
+        "Twisted Lip on Baker Street for locally sourced real ales in the micropub "
+        "that helped revive the street. Four moods, one Teesside town."
+    ),
+    "stats": [
+        ("143K", "Population (approx)"),
+        ("1958", "Year the parmo was invented on Linthorpe Road"),
+        ("1985", "Year Cafe Central Park opened"),
+        ("4", "Hand-picked independents"),
+    ],
+    "pivot_variant": "high-volume",
+    "pivot_local_hook": (
+        "Middlesbrough's signature dish is the parmo - a deep-fried chicken or pork "
+        "escalope blanketed in bechamel and melted cheese, served by the thousand "
+        "every week across Linthorpe Road and beyond. The high heat, the fat-laden "
+        "vapour and the late-night service hours combine to put Teesside's "
+        "kitchens among the busiest and greasiest in the North East."
+    ),
+    "venues": [
+        {
+            "type": "Takeaway/Casual",
+            "name": "Cafe Central Park",
+            "area": "337 Linthorpe Road, opposite Albert Park",
+            "cuisine": "Parmo, Italian, British grill",
+            "body": (
+                "The parmo was invented in Middlesbrough in 1958 by Nicos Harris, a "
+                "Greek-American navy chef who settled in the town and opened The American "
+                "Grill on Linthorpe Road. Cafe Central Park, which opened on the same "
+                "road in December 1985 and sits opposite the gates of Albert Park, is now "
+                "one of the town's most celebrated keepers of the tradition. The kitchen "
+                "serves over 1,500 parmos every week - a breaded chicken or pork escalope, "
+                "deep-fried, layered with bechamel and topped with melted cheddar - "
+                "alongside pizzas, pasta and hanging kebabs. Consistently rated one of the "
+                "best parmo venues in town, it is open every day from noon and still run "
+                "as an independent family restaurant after four decades."
+            ),
+            "known_for": "Serving over 1,500 parmos a week since 1985",
+            "good_for": "Eating Middlesbrough's most famous dish in the place that has mastered it",
+            "source_url": "https://www.cafecentralpark.com/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Cafe",
+            "name": "Baker Street Kitchen",
+            "area": "159 Albert Road, corner of Baker Street",
+            "cuisine": "Speciality coffee, all-day brunch, British bistro",
+            "body": (
+                "Baker Street Kitchen sits on the corner of Albert Road and Baker Street, "
+                "the two-street independent quarter that has become Middlesbrough's most "
+                "talked-about food and culture patch. The cafe serves its own blend of "
+                "coffee, a full roster of speciality teas, all-day breakfast and brunch "
+                "through the week and extends to a dinner service on Friday and Saturday "
+                "evenings. The Sunday roast sells out regularly. The room is styled "
+                "around exposed brick and reclaimed timber, the vibe is deliberately "
+                "unhurried, and the kitchen uses local produce throughout - eggs on toast "
+                "in the morning give way to crispy pork belly and pie of the day by "
+                "afternoon. No bookings taken; just walk in and order at the counter. "
+                "Rated 4.4 on Google Maps and updated in February 2026."
+            ),
+            "known_for": "The heart of the Baker and Bedford Street independent quarter",
+            "good_for": "A morning coffee or weekend brunch before exploring the cultural quarter",
+            "source_url": "https://www.bakerstreetkitchen.com/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Restaurant",
+            "name": "Oven Restaurant",
+            "area": "202-204 Linthorpe Road, near Teesside University",
+            "cuisine": "Modern British, Italian, Middle Eastern",
+            "body": (
+                "Tarek Thoma opened the original Oven in Darlington in 2005, building a "
+                "reputation for honest, inventive cooking before relocating to larger "
+                "premises at 202-204 Linthorpe Road in 2015. The Middlesbrough restaurant "
+                "is an independent with strong local roots: Tarek was awarded a British "
+                "Empire Medal in 2021 for his community work during the pandemic, when "
+                "the kitchen provided meals for vulnerable residents. The menu is "
+                "deliberately eclectic - Neapolitan-style pizza from a wood-fired oven "
+                "alongside slow-cooked British classics and Middle Eastern spiced dishes, "
+                "all made from locally sourced produce. The outdoor heated terrace at the "
+                "back runs year-round. Open daily from noon, updated on OpenTable in 2026."
+            ),
+            "known_for": "An eclectic independent menu and a BEM-awarded owner rooted in the community",
+            "good_for": "A relaxed evening meal with something for every taste on Linthorpe Road",
+            "source_url": "https://www.ovenrestaurantmiddlesbrough.co.uk/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Pub",
+            "name": "The Twisted Lip",
+            "area": "11-13 Baker Street, the independent quarter",
+            "cuisine": "Real ale, craft beer, deli boards",
+            "body": (
+                "The Twisted Lip opened in April 2014 as a single-room micropub on Baker "
+                "Street, one of the first wave of independent businesses that transformed "
+                "the neglected two-street corridor between Albert Road and Linthorpe Road "
+                "into Middlesbrough's cultural quarter. By early 2016 it had expanded "
+                "into the adjacent unit, adding a kitchen and a second room. The pub "
+                "keeps three cask ales on tap - often sourced from North East and "
+                "Yorkshire microbreweries - alongside a strong craft and bottled beer "
+                "list. The decor is deliberately eclectic, the staff knowledgeable, and "
+                "the atmosphere convivial. Listed on CAMRA and updated on Yelp in March "
+                "2026, it anchors the Baker Street drinking scene alongside its "
+                "Sherlock Holmes-themed neighbours."
+            ),
+            "known_for": "Three rotating real ales and the pub that helped launch Baker Street",
+            "good_for": "A well-kept pint and a relaxed evening in the heart of the independent quarter",
+            "source_url": "https://www.instagram.com/thetwistedlip/",
+            "verified": "2026-06-22",
+        },
+    ],
+    "food_scene": [
+        (
+            "Middlesbrough's food map is shaped by two parallel axes. Linthorpe Road, "
+            "the long high street running south from the town centre, has been the "
+            "spine of Teesside eating for over a century - it is the road where Nicos "
+            "Harris opened The American Grill in 1958 and created the parmo, and where "
+            "Cafe Central Park has been serving the dish since 1985. Today the road "
+            "holds a dense run of independents from noon into the small hours, from "
+            "the family restaurants near Albert Park to the student-facing kitchens "
+            "near Teesside University."
+        ),
+        (
+            "A mile north, Baker Street and Bedford Street form the town's independent "
+            "quarter, a pair of terraced streets between Albert Road and Linthorpe Road "
+            "that were largely derelict before a wave of small businesses arrived from "
+            "around 2013. Baker Street Kitchen anchors the daytime trade; The Twisted "
+            "Lip and its Sherlock Holmes-themed neighbours animate the evenings. The "
+            "Orange Pip Market - an artisan food and drink market held on the last "
+            "Saturday of the month in summer across Baker Street, Albert Road and "
+            "Corporation Road - brings in tens of thousands of visitors and has "
+            "become the town's most visible food event."
+        ),
+        (
+            "Beyond these anchors, Middlesbrough's food identity is built on the parmo "
+            "and the community culture that surrounds it. The dish - a breaded escalope "
+            "under bechamel and melted cheese - is found nowhere else in this form, and "
+            "the town wears the association with pride. Restaurants like Oven have "
+            "earned national recognition without leaving the city, and the Asian "
+            "restaurant scene along Linthorpe Road and in the Marton and Norton suburbs "
+            "has produced ARTA award winners. The food is unfussy and the welcome is "
+            "direct: this is a working town that eats well."
+        ),
+    ],
+    "visit": [
+        (
+            "Linthorpe Road runs south from the town centre and is an easy walk from "
+            "Middlesbrough railway station. Cafe Central Park and Oven Restaurant are "
+            "both on Linthorpe Road, about half a mile apart. Baker Street and Bedford "
+            "Street lie between Albert Road and Linthorpe Road in the town centre - "
+            "Baker Street Kitchen and The Twisted Lip are a three-minute walk from "
+            "each other."
+        ),
+        (
+            "A day structured around both axes flows well. Start with coffee and brunch "
+            "at Baker Street Kitchen, walk down to Albert Park (the Victorian park "
+            "opposite Cafe Central Park is worth an hour), come back up Linthorpe Road "
+            "to Oven for an early dinner, then finish with a pint at The Twisted Lip "
+            "before the Orange Pip Market empties out if it is market Saturday. "
+            "Middlesbrough station is the main rail hub for Teesside."
+        ),
+    ],
+    "checklist": [
+        "Order the classic chicken parmo at Cafe Central Park - the bechamel and cheddar finish is the authentic version",
+        "Walk Baker Street and Bedford Street to see the full independent quarter before choosing where to eat",
+        "Visit Baker Street Kitchen early - no bookings taken and it fills up on weekend mornings",
+        "Ask the Twisted Lip staff which North East microbrewery is on cask that week",
+        "Check the Orange Pip Market calendar - held on the last Saturday of the month in summer across Albert Road and Baker Street",
+    ],
+    "what_to_order": (
+        "Order with intent. At Cafe Central Park, a classic chicken parmo with chips "
+        "- the dish that Linthorpe Road gave the world, done the traditional way. At "
+        "Baker Street Kitchen, the eggs and smashed avocado for a weekday brunch, or "
+        "the full roast if you are there on Sunday. At Oven, the pizza from the wood-"
+        "fired oven or a slow-cooked Middle Eastern dish from the weekly specials board. "
+        "At The Twisted Lip, ask what is on cask and take a third pint to give yourself "
+        "time to look up the Baker Street history above the bar."
+    ),
+    "glance": [
+        ("Best for a quick bite", "Cafe Central Park, for a parmo the town has made its own since 1985"),
+        ("Best for an occasion", "Oven Restaurant, for Tarek Thoma's eclectic menu on Linthorpe Road"),
+        ("Best for atmosphere", "The Twisted Lip, the micropub that helped relaunch Baker Street in 2014"),
+    ],
+    "faq": [
+        (
+            "What is a Teesside parmo?",
+            "A parmo is a breaded chicken or pork escalope, deep-fried and topped with "
+            "a white bechamel sauce and melted cheddar cheese. It was invented in "
+            "Middlesbrough in 1958 by Nicos Harris, a Greek-American chef who settled "
+            "in the town and served it at The American Grill on Linthorpe Road. The "
+            "dish is unique to Teesside and remains the town's defining food."
+        ),
+        (
+            "Where can I eat the best parmo in Middlesbrough?",
+            "Cafe Central Park at 337 Linthorpe Road has been serving parmos since "
+            "December 1985 and puts out over 1,500 a week. It is open daily from noon "
+            "and is consistently rated one of the best in the town. The classic chicken "
+            "parmo with chips is the order."
+        ),
+        (
+            "What is the Baker and Bedford Street quarter?",
+            "Baker Street and Bedford Street are a pair of terraced streets in the town "
+            "centre between Albert Road and Linthorpe Road that have become "
+            "Middlesbrough's independent food and culture quarter. Baker Street Kitchen, "
+            "The Twisted Lip and several micropubs and independent shops occupy the "
+            "street. The Orange Pip Market fills the surrounding streets on the last "
+            "Saturday of the month in summer."
+        ),
+        (
+            "Does Middlesbrough have any award-winning restaurants?",
+            "Yes. Jolsha, in the Marton suburb on Stokesley Road, won North East "
+            "Restaurant of the Year at the Bangladesh Caterers Association awards 2024 "
+            "and its owner Azizur Rahman was named North East Chef of the Year at ARTA "
+            "2025. Oven Restaurant owner Tarek Thoma was awarded a British Empire Medal "
+            "in 2021 for services to the community."
+        ),
+        (
+            "What is the Orange Pip Market?",
+            "Orange Pip Market is an artisan food and drink market held on Baker Street, "
+            "Albert Road and Corporation Road in central Middlesbrough, running on the "
+            "last Saturday of the month during the summer. It brings together local food "
+            "producers, street food vendors, live music and independent bars and has "
+            "been credited with a significant boost to the Baker Street economy since "
+            "it launched."
+        ),
+        (
+            "Can I do a Middlesbrough food day on foot?",
+            "Yes. Baker Street Kitchen and The Twisted Lip are a three-minute walk "
+            "apart in the town centre. Cafe Central Park and Oven Restaurant are both "
+            "on Linthorpe Road, half a mile south - an easy walk or short bus ride "
+            "from the centre. Middlesbrough railway station is the Teesside rail hub, "
+            "with direct services to York, Leeds and Newcastle."
+        ),
+    ],
+}
+
+# gloucester (batch2) -----------------------------------------------
+TOWNS["gloucester"] = {
+    "region": "Gloucestershire",
+    "population": "140K",
+    "nearby": ["Cheltenham", "Worcester", "Hereford"],
+    "meta_title": "Best Places to Eat in Gloucester: Local Food Guide",
+    "meta_description": (
+        "Where to eat in Gloucester: ramen at the Docks, a Cathedral cafe, "
+        "a Greek waterside restaurant and a CAMRA award-winning alehouse. "
+        "Read the guide."
+    ),
+    "trust_strip": (
+        "From a Japanese ramen bar in the Victorian Docks to a 17th-century "
+        "alehouse that is one of the four best pubs in the UK, Gloucester "
+        "punches well above its size as an independent food city"
+    ),
+    "snapshot": (
+        "For a fast answer: Daikoku Ramen at Gloucester Food Dock for "
+        "precision Japanese noodles in the city's restored Victorian Docks, "
+        "Hubble Bubble on Westgate Street for a quirky all-day cafe a "
+        "stone's throw from the Cathedral, Greek on the Docks at Merchants "
+        "Quay for modern Greek meze and souvlaki with waterfront views, and "
+        "The Pelican Inn on St Mary's Street for up to ten real ales in "
+        "Gloucester's most celebrated Grade II-listed alehouse. Four moods, "
+        "one compact city centre."
+    ),
+    "stats": [
+        ("140K", "Population (approx)"),
+        ("1679", "Year The Pelican Inn first opened"),
+        ("15", "Victorian warehouses in the historic Docks"),
+        ("4", "Hand-picked independents"),
+    ],
+    "pivot_variant": "high-volume",
+    "pivot_local_hook": (
+        "Gloucester's kitchens span the full spectrum of grease load: ramen "
+        "broth simmered low then finished at high heat, char-grilled souvlaki "
+        "and whole fish over the flame, pub kitchens firing through lunch and "
+        "dinner service, all pushing grease-laden vapour into canopies inside "
+        "the tight Victorian warehouse spaces of the Docks and the city centre."
+    ),
+    "venues": [
+        {
+            "type": "Takeaway/Casual",
+            "name": "Daikoku Ramen",
+            "area": "Gloucester Food Dock, Victoria Basin, the historic Docks",
+            "cuisine": "Japanese ramen and izakaya",
+            "body": (
+                "Husband and wife Hugo and Mixuki have been making ramen since "
+                "2010 and already run a thriving Daikoku in Stroud when they "
+                "opened this second site at Gloucester Food Dock in October 2024 "
+                "as the first Asian restaurant in the complex. Their style is "
+                "izakaya, the Japanese tavern where you linger over food and "
+                "drink with friends, and the menu reflects it: ramen bowls built "
+                "on stocks simmered from scratch, katsu curry, gyoza and rice "
+                "bowls, with ingredients sourced both locally and directly from "
+                "Japan. Mixuki developed a vegan ramen that holds its own "
+                "alongside the meat versions. The space is compact and cosy; "
+                "book ahead or arrive early. Both dine-in and takeaway are "
+                "offered at the counter."
+            ),
+            "known_for": "Scratch-made ramen and izakaya small plates since 2024",
+            "good_for": "A casual bowl in the Victorian Docks, dine-in or takeaway",
+            "source_url": "https://www.visitgloucester.co.uk/things-to-do/food-and-drink/daikoku-ramen-p3592523",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Cafe",
+            "name": "Hubble Bubble Coffee House",
+            "area": "42-44 Westgate Street, Cathedral quarter",
+            "cuisine": "All-day cafe, locally sourced brunch and lunch",
+            "body": (
+                "Established in 2013 and a stone's throw from Gloucester "
+                "Cathedral, Hubble Bubble is one of the city's most beloved "
+                "neighbourhood cafes: a quirky, family-run independent that "
+                "sources its ingredients locally and leans into the eccentric "
+                "rather than the corporate. The ever-changing menu runs from "
+                "American-style pancakes and all-day brunch through stuffed "
+                "ciabattas, jacket potatoes and loaded fries to a wild boar and "
+                "venison burger and homemade cakes. Freakshakes, organic teas "
+                "and a serious coffee menu round it out. The decor lives up to "
+                "the name, and the TripAdvisor ranking as number two in "
+                "Gloucester Quick Bites reflects the consistency of the kitchen "
+                "rather than hype. Open Monday to Saturday from 9am and Sunday "
+                "from 9.30am."
+            ),
+            "known_for": "Quirky all-day brunch, wild boar burger and homemade cakes since 2013",
+            "good_for": "A coffee and brunch break beside the Cathedral",
+            "source_url": "https://thehubblebubble.co.uk/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Restaurant",
+            "name": "Greek on the Docks",
+            "area": "Unit A Merchants Quay, Gloucester Docks, GL1 2EW",
+            "cuisine": "Modern Greek and Mediterranean",
+            "body": (
+                "Opened in 2015 by a trio of food-passionate founders, Greek on "
+                "the Docks occupies an exceptional position in the heart of "
+                "Gloucester's regenerated Victorian Docks, with quayside outdoor "
+                "tables and views across the basin. The menu is rooted in "
+                "genuine Greek technique using local British ingredients: meze "
+                "boards of dolmadakia, spanakopita and calamari to share, "
+                "followed by lamb kleftiko baked in filo, Beef Stifado, Lavraki "
+                "sea bass, and chicken souvlaki from the grill. The atmosphere "
+                "runs from relaxed weekday lunch to lively weekend dinner with "
+                "the dockside as a backdrop, and the restaurant has held "
+                "TripAdvisor Travellers Choice recognition. With 1,343 reviews "
+                "and ranked in the top 15 restaurants in Gloucester, the kitchen "
+                "earns its position as the Docks' destination dining table."
+            ),
+            "known_for": "Lamb kleftiko, souvlaki and meze with waterfront views since 2015",
+            "good_for": "A proper sit-down Greek dinner beside the Victorian Docks",
+            "source_url": "https://www.greekonthedocks.co.uk/welcome/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Pub",
+            "name": "The Pelican Inn",
+            "area": "4 St Mary's Street, city centre (near the Cathedral)",
+            "cuisine": "Real ale freehouse, no kitchen",
+            "body": (
+                "Few pubs in England carry a story as good as the Pelican's. "
+                "Licensed as an alehouse in 1679, and with beams said by some "
+                "to have come from Drake's Golden Hinde, which began life as "
+                "the Pelican, the Grade II-listed building was rescued and "
+                "refurbished by Herefordshire's Wye Valley Brewery in 2012 and "
+                "is run by landlord Mike Hall and his team. The result is one of "
+                "Britain's most celebrated real-ale houses: up to ten cask ales, "
+                "twelve still ciders, six craft kegs and a can selection that "
+                "stretches to imperial porters, all kept to exceptional standard. "
+                "The pub has been in the CAMRA Good Beer Guide for over ten "
+                "years, won Gloucestershire Pub of the Year multiple times, and "
+                "in 2025 was named CAMRA West Central Region Pub of the Year and "
+                "a national finalist in the UK Pub of the Year award. Two beer "
+                "festivals a year bring fifty beers and twenty ciders into the "
+                "small white-fronted courtyard pub near the Cathedral."
+            ),
+            "known_for": "CAMRA West Central Pub of the Year 2025, ten real ales, 12 ciders",
+            "good_for": "The finest pint in Gloucester, in a 17th-century alehouse",
+            "source_url": "https://camra.org.uk/pubs/pelican-inn-gloucester-171781",
+            "verified": "2026-06-22",
+        },
+    ],
+    "food_scene": [
+        (
+            "Gloucester's food map is anchored by two distinct zones. The "
+            "historic Docks, a cluster of fifteen restored Victorian warehouses "
+            "around Victoria Basin, have become the city's most dynamic eating "
+            "quarter: Gloucester Food Dock packs thirteen independent food and "
+            "drink businesses into the waterfront complex, while Merchants Quay "
+            "and the basin edges hold restaurants like Greek on the Docks with "
+            "their quayside tables. The Docks were Britain's most inland port "
+            "and the warehouses now listed buildings form a genuinely "
+            "spectacular setting for a meal or a bowl."
+        ),
+        (
+            "The city centre, strung along the Roman grid of Westgate, "
+            "Northgate, Southgate and Eastgate streets, holds a different layer: "
+            "independent cafes in the Cathedral quarter, family-run Italian and "
+            "global kitchens on Southgate Street, and real-ale pubs that draw "
+            "from a deep well of cask tradition. Gloucester has always sat at "
+            "the crossroads of the Severn Valley and the Cotswold edge, and "
+            "the food scene reflects that position, with West Country produce "
+            "and a strong independent streak."
+        ),
+        (
+            "The city's most famous old delicacy is the elver, the baby eel "
+            "harvested from the River Severn in spring, once fried in bacon fat "
+            "and eaten in vast quantities by dockworkers and fishermen, though "
+            "now so rare as to be almost mythic. Today the food story is told "
+            "through the independents of the Docks and the Cathedral streets: "
+            "Japanese ramen made from scratch beside Victorian brickwork, Greek "
+            "kleftiko by the waterfront, and a real-ale house in a building "
+            "that may have first served beer when Drake was still at sea."
+        ),
+    ],
+    "visit": [
+        (
+            "Gloucester is more compact than it looks on a map. The Docks, "
+            "Gloucester Food Dock, and Merchants Quay sit within a few "
+            "minutes' walk of the city centre, and Westgate Street runs "
+            "directly from the Cathedral towards the waterfront. The Pelican "
+            "is five minutes from both the Cathedral and the Docks, so the "
+            "whole of this guide is easily walkable in an afternoon and evening."
+        ),
+        (
+            "The natural sequence: coffee and brunch at Hubble Bubble near "
+            "the Cathedral, then down Westgate to the Docks for a ramen at "
+            "Daikoku or a long Greek lunch at Greek on the Docks, and then "
+            "The Pelican for the evening's pint. Gloucester Central station "
+            "is ten minutes on foot and connects to Cheltenham in eight "
+            "minutes, Bristol in forty-five."
+        ),
+    ],
+    "checklist": [
+        "Book Greek on the Docks ahead for evenings and weekends, outdoor tables go quickly",
+        "Arrive early or book at Daikoku Ramen; the Food Dock space is small and fills fast",
+        "Visit Hubble Bubble on Westgate Street on a weekday to avoid the weekend brunch queue",
+        "Save The Pelican for the evening; ask the bar staff which guest ale is freshest",
+        "Allow time to walk the Docks waterfront between the Food Dock and Merchants Quay",
+    ],
+    "what_to_order": (
+        "Order with intent. At Daikoku, a classic tonkotsu or the vegan ramen, "
+        "plus gyoza to share. At Hubble Bubble, the wild boar or venison burger "
+        "or a loaded brunch plate with the house coffee. At Greek on the Docks, "
+        "start with the meze board, then lamb kleftiko in filo or the fresh "
+        "Lavraki sea bass. At The Pelican, take time over the pump clips and ask "
+        "Mike which Wye Valley beer is drinking best that week."
+    ),
+    "glance": [
+        ("Best for a quick bite", "Daikoku Ramen, for a scratch-made bowl in the Victorian Docks"),
+        ("Best for an occasion", "Greek on the Docks, for meze and kleftiko by the waterfront"),
+        ("Best for atmosphere", "The Pelican Inn's 17th-century alehouse near the Cathedral"),
+    ],
+    "faq": [
+        (
+            "Where should I eat in the Gloucester Docks?",
+            "Gloucester Food Dock at Victoria Basin holds thirteen independents "
+            "including Daikoku Ramen, which opened in October 2024 as the first "
+            "Asian restaurant in the complex. For a sit-down dinner with "
+            "waterfront views, Greek on the Docks at Merchants Quay is the "
+            "Docks' leading destination restaurant."
+        ),
+        (
+            "What is the best pub for real ale in Gloucester?",
+            "The Pelican Inn on St Mary's Street, a Grade II-listed alehouse "
+            "dating to 1679 and rescued by Wye Valley Brewery in 2012, was "
+            "named CAMRA West Central Region Pub of the Year 2025 and a "
+            "national finalist for UK Pub of the Year. It offers up to ten "
+            "real ales, twelve still ciders and two beer festivals a year."
+        ),
+        (
+            "What food is Gloucester famous for?",
+            "Historically, Gloucester is known for elvers, the baby eels "
+            "harvested from the River Severn in spring and once a staple of "
+            "the dockworkers and fishing community. Today the city is better "
+            "known for its independent food scene in the restored Victorian "
+            "Docks and the Cathedral-quarter cafes and restaurants."
+        ),
+        (
+            "Is Gloucester Food Dock worth visiting?",
+            "Yes. Gloucester Food Dock at Victoria Basin holds thirteen "
+            "independent food and drink businesses across four levels of a "
+            "restored Victorian warehouse, with options ranging from Japanese "
+            "ramen and wood-fired pizza to taproom craft beer, gelato and "
+            "speciality coffee. The setting inside the listed Docks is "
+            "exceptional."
+        ),
+        (
+            "Where is a good independent cafe near Gloucester Cathedral?",
+            "Hubble Bubble Coffee House at 42-44 Westgate Street, established "
+            "in 2013, is a quirky family-run cafe a short walk from the "
+            "Cathedral. It serves all-day brunch, homemade cakes, specialist "
+            "teas and coffee, and is ranked among the top quick-bite spots "
+            "in the city."
+        ),
+        (
+            "Can you do a Gloucester food day on foot?",
+            "Easily. Hubble Bubble, The Pelican and the Docks are all within "
+            "a ten-minute walk of each other. Greek on the Docks and Daikoku "
+            "Ramen are both in the Docks area. Gloucester Central station is "
+            "a ten-minute walk from the Cathedral, with direct trains to "
+            "Cheltenham in eight minutes and Bristol in forty-five."
+        ),
+    ],
+}
+
+# exeter (batch2) -----------------------------------------------
+TOWNS["exeter"] = {
+    "region": "Devon",
+    "population": "130K",
+    "nearby": ["Exmouth", "Newton Abbot", "Torquay"],
+    "meta_title": "Best Places to Eat in Exeter: Local Food Guide",
+    "meta_description": (
+        "Where to eat in Exeter: Korean bowls, a Magdalen Road roastery, "
+        "award-winning Quayside small plates and a 700-year-old pub. "
+        "Read the guide."
+    ),
+    "trust_strip": (
+        "From Magdalen Road speciality coffee to a Quayside restaurant "
+        "winning Devon's best independent two years running, Exeter eats "
+        "well above its size"
+    ),
+    "snapshot": (
+        "For a fast answer: Oh My Kimchi on Blackboy Road for Exeter's "
+        "best Korean street food, 18g Coffee Roasters on Magdalen Road "
+        "for the city's finest independent roastery cafe, Crave on the "
+        "Quayside for Devon's award-winning seasonal small plates, and "
+        "The Turk's Head on the High Street for a pint brewed on the "
+        "premises beside a Guildhall that Dickens knew. Four moods, one "
+        "compact cathedral city."
+    ),
+    "stats": [
+        ("130K", "Population (approx)"),
+        ("700+", "Years the Turk's Head has stood beside the Guildhall"),
+        ("Magdalen Road", "Named by the Guardian one of the world's coolest shopping streets"),
+        ("4", "Hand-picked independents"),
+    ],
+    "pivot_variant": "high-volume",
+    "pivot_local_hook": (
+        "Exeter's kitchens draw on Brixham fish, Dartmoor meat and River "
+        "Exe mussels, and the frying, grilling and roasting that goes with "
+        "that produce pushes a heavy load of grease-laden vapour into "
+        "canopies across the Quay, Magdalen Road and the city centre every "
+        "lunch and dinner service."
+    ),
+    "venues": [
+        {
+            "type": "Takeaway/Casual",
+            "name": "Oh My Kimchi",
+            "area": "57-58 Blackboy Road, Newtown",
+            "cuisine": "Korean street food",
+            "body": (
+                "Oh My Kimchi opened on Blackboy Road in 2024 and quickly became "
+                "Exeter's first dedicated Korean restaurant, earning a near-perfect "
+                "4.9 rating across platforms on the strength of its house-fermented "
+                "kimchi and premium free-range ingredients. The menu is built around "
+                "the Korean staples done properly: sizzling bulgogi bowls, colourful "
+                "bibimbap, rich stews and crisp Korean fried chicken, all ordered at "
+                "a self-service counter that keeps prices genuinely accessible. "
+                "Everything is made with free-range beef and pork, halal chicken and "
+                "thoughtful vegan and gluten-free alternatives. The interior is "
+                "minimalist and warm, the staff are welcoming, and the portions are "
+                "the kind that make you plan a return visit before you have finished "
+                "the first bowl."
+            ),
+            "known_for": "House-fermented kimchi, bibimbap and Korean fried chicken",
+            "good_for": "A flavour-packed, affordable bowl on Blackboy Road",
+            "source_url": "https://www.ohmy-kimchi.com/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Cafe",
+            "name": "18g Coffee Roasters",
+            "area": "43 Magdalen Road, St Leonard's",
+            "cuisine": "Speciality coffee, breakfast and light lunch",
+            "body": (
+                "The name is the answer to a barista's question: eighteen grams is "
+                "the precise dose of coffee this family-run shop measures for every "
+                "cup it makes. Sitting on Magdalen Road - the street the Guardian "
+                "once called one of the ten coolest shopping areas in the world - "
+                "18g rotates an ever-changing selection of award-winning beans from "
+                "independent roasters across the country, so the espresso on the "
+                "machine changes regularly and there is always a reason to come back. "
+                "The cafe is open seven days from eight in the morning, the space is "
+                "cosy and unhurried, and the food runs to a short seasonal breakfast "
+                "and lunch menu that suits the independent character of the street "
+                "perfectly. A proper destination roastery stop."
+            ),
+            "known_for": "Precision-dosed rotating single-origin coffees on Magdalen Road",
+            "good_for": "A serious coffee and a slow morning on Exeter's coolest street",
+            "source_url": "https://www.18gcoffeeroasters.com/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Restaurant",
+            "name": "Crave",
+            "area": "60-61 Commercial Road, Exeter Quayside",
+            "cuisine": "Modern British small plates, seasonal seafood",
+            "body": (
+                "Crave opened on the historic Quayside in summer 2024, and within a "
+                "year had won Devon's Best Independent Restaurant at the Muddy "
+                "Stilettos Awards - a title it held for the second year running in "
+                "2025. Owner Sameer Shetty built the menu around sharing plates that "
+                "change with the seasons and the day's catch from Brixham Fish "
+                "Market, one of Britain's finest, moored a few miles along the coast. "
+                "Dartmoor farm produce fills out the land side of the menu: steaks "
+                "on the bone, brunch dishes and small plates designed for the table "
+                "to pick through. The room sits right on the quayside with al fresco "
+                "tables in good weather, and the cocktail list is as considered as "
+                "the kitchen. Book ahead for evening service - it fills quickly."
+            ),
+            "known_for": "Devon's Best Independent Restaurant 2024 and 2025 (Muddy Stilettos)",
+            "good_for": "A proper occasion on the Quay with Brixham seafood and Dartmoor meat",
+            "source_url": "https://www.visitexeter.com/food-and-drink/crave-exeter-p3638733",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Pub",
+            "name": "The Turk's Head",
+            "area": "202 High Street, beside the Guildhall",
+            "cuisine": "Pub food, on-site microbrewery",
+            "body": (
+                "There has been a tavern beside Exeter's Guildhall since at least "
+                "1289, when city records note a lease for the building's beam. The "
+                "Turk's Head is that pub: Grade II listed, 700-plus years in the "
+                "trade, and the Dickens connection is not a marketing invention - the "
+                "novelist drank here and based the Fat Boy character from Pickwick "
+                "Papers on a man he met in this room, whose name now graces the "
+                "pub's flagship IPA. The microbrewery was installed in 2021, in full "
+                "view behind the bar, and the seven on-site craft beers change with "
+                "the seasons. It is a pub that earns its history rather than trading "
+                "on it: run with care, listed on CAMRA's national guide, and busy "
+                "every session."
+            ),
+            "known_for": "700 years of history, on-site microbrewery and the Fat Boy IPA",
+            "good_for": "A pint brewed ten metres from where Dickens once drank",
+            "source_url": "https://camra.org.uk/pubs/turks-head-exeter-195151",
+            "verified": "2026-06-22",
+        },
+    ],
+    "food_scene": [
+        (
+            "Exeter's food map is shaped by three very different streets and one "
+            "stretch of waterfront. Magdalen Road in St Leonard's is the city's "
+            "village-within-the-city, a Guardian-listed coolest shopping street "
+            "where independent cafes, bakers and food shops sit shoulder to "
+            "shoulder, and where Exeter's most serious coffee is found."
+        ),
+        (
+            "The Quayside along Commercial Road has transformed from working "
+            "warehouse district into a waterside dining destination, with "
+            "independent restaurants drawing on Brixham's daily fish landings and "
+            "produce from Dartmoor farms. Gandy Street in the Cathedral Quarter "
+            "adds a cobbled lane of independent bars and restaurants, while "
+            "Blackboy Road in Newtown hosts a younger, more international wave of "
+            "independent openings."
+        ),
+        (
+            "The wider Devon larder makes Exeter unusual: Brixham Fish Market is "
+            "among Britain's finest, River Exe mussels and oysters are harvested "
+            "on the estuary doorstep, and the Thursday farmers market on Fore "
+            "Street and the monthly Quayside farmers market bring Dartmoor meat "
+            "and Devon produce into the city every week. The result is a food "
+            "scene that punches well above a city of 130,000."
+        ),
+    ],
+    "visit": [
+        (
+            "The four picks sit in four distinct parts of the city but none is "
+            "far from the centre. Magdalen Road is a ten-minute walk from the "
+            "High Street; the Quayside is a similar stroll south along the "
+            "canal towpath; Blackboy Road is a fifteen-minute walk east through "
+            "the university quarter; and the Turk's Head is a step off the "
+            "main shopping street beside the Guildhall."
+        ),
+        (
+            "A day in Exeter flows naturally: morning coffee at 18g on Magdalen "
+            "Road, a bowl at Oh My Kimchi for lunch, an afternoon exploring the "
+            "Cathedral Quarter and Gandy Street, then the Quayside in the "
+            "evening for Crave's sharing plates, and a nightcap at the Turk's "
+            "Head with a pint of Fat Boy IPA. The city is compact enough to do "
+            "all four without transport."
+        ),
+    ],
+    "checklist": [
+        "Start on Magdalen Road for coffee at 18g, then browse the independent shops",
+        "Book Crave ahead - evening tables on the Quayside fill up quickly",
+        "Visit the Turk's Head off-peak to see the microbrewery behind the bar",
+        "Oh My Kimchi is counter-service and walk-in; no booking needed",
+        "Use the Quay towpath to walk between the city centre and Commercial Road",
+    ],
+    "what_to_order": (
+        "Order with intent. At Oh My Kimchi, the bibimbap or a bulgogi bowl with "
+        "extra kimchi on the side. At 18g, ask which guest roast is on the espresso "
+        "that week and take your time over it. At Crave, go for the daily seafood "
+        "specials from Brixham and a sharing steak if the table is hungry; save room "
+        "for dessert. At the Turk's Head, start with the Fat Boy IPA and ask what "
+        "else is pouring from the on-site brewery that session."
+    ),
+    "glance": [
+        ("Best for a quick bite", "Oh My Kimchi, for a Korean bibimbap bowl on Blackboy Road"),
+        ("Best for an occasion", "Crave, for Brixham seafood and sharing plates on the Quayside"),
+        ("Best for atmosphere", "The Turk's Head, 700 years of history with a Dickens connection"),
+    ],
+    "faq": [
+        (
+            "Where can I eat Korean food in Exeter?",
+            "Oh My Kimchi on Blackboy Road, opened in 2024, is Exeter's first dedicated "
+            "Korean restaurant, serving house-fermented kimchi, bibimbap, bulgogi and "
+            "Korean fried chicken at accessible prices with free-range ingredients.",
+        ),
+        (
+            "Where is the best independent coffee in Exeter?",
+            "18g Coffee Roasters at 43 Magdalen Road is a family-run speciality cafe "
+            "that precisely doses eighteen grams per cup and rotates a changing "
+            "selection of award-winning beans from roasters across the country, open "
+            "seven days from 8am.",
+        ),
+        (
+            "Which restaurant won Devon's best independent in Exeter?",
+            "Crave on the Quayside at Commercial Road won Devon's Best Independent "
+            "Restaurant at the Muddy Stilettos Awards for the second year running in "
+            "2025, serving seasonal small plates and fresh Brixham seafood.",
+        ),
+        (
+            "What is special about the Turk's Head pub in Exeter?",
+            "The Turk's Head at 202 High Street has stood beside the Guildhall since "
+            "at least 1289, making it one of England's longest-serving pubs. Charles "
+            "Dickens drank here and modelled the Fat Boy character from Pickwick "
+            "Papers on a man he met inside. The pub installed its own microbrewery in "
+            "2021, and the Fat Boy IPA is the flagship.",
+        ),
+        (
+            "What local produce is Exeter known for?",
+            "Exeter sits at the gateway to some of Devon's finest produce: Brixham "
+            "Fish Market is one of Britain's most active, River Exe mussels and "
+            "oysters are harvested on the estuary doorstep, and Dartmoor farms "
+            "supply the city's restaurants with beef, lamb and seasonal vegetables.",
+        ),
+        (
+            "Can you do a food tour of Exeter on foot?",
+            "Easily. Magdalen Road, the Quayside, Blackboy Road and the Turk's Head "
+            "on the High Street are all within a fifteen-minute walk of each other. "
+            "The canal towpath connects the city centre to the Quay, and Gandy "
+            "Street and the Cathedral Quarter fill out the route between stops.",
+        ),
+    ],
+}
+
+# solihull (batch2) -----------------------------------------------
+TOWNS["solihull"] = {
+    "region": "the West Midlands",
+    "population": "125K",
+    "nearby": ["Birmingham", "Coventry", "Redditch"],
+    "meta_title": "Best Places to Eat in Solihull: Local Food Guide",
+    "meta_description": (
+        "Where to eat in Solihull: Knowle fish and chips since 1982, a brunch "
+        "cafe, a Michelin-starred walled garden and a CAMRA micropub. "
+        "Read the guide."
+    ),
+    "trust_strip": (
+        "From a family chippy on Knowle High Street to the Solihull "
+        "borough's only Michelin-starred kitchen, this is a town that "
+        "eats much better than its quiet reputation suggests"
+    ),
+    "snapshot": (
+        "For a fast answer: Knowle Fish Bar for Bruckshaws-potato chips cooked "
+        "fresh since 1982, Elderberry Blacks for award-worthy all-day brunch on "
+        "Knowle High Street, Grace and Savour at Hampton Manor for the "
+        "Solihull borough's one Michelin star, and the Pup and Duckling for "
+        "eight cask ales served straight from the barrel in a family-run "
+        "micropub. Four moods, one affluent corner of the West Midlands."
+    ),
+    "stats": [
+        ("1242", "Year Solihull received its market charter"),
+        ("1982", "Year Knowle Fish Bar opened on Station Road"),
+        ("1 Star", "Michelin recognition held by Grace and Savour (2026 Guide)"),
+        ("4", "Hand-picked independents"),
+    ],
+    "pivot_variant": "market-town",
+    "pivot_local_hook": (
+        "Solihull's kitchens range from the high-volume lunchtime trade of "
+        "Touchwood and Mell Square to the evening services of Knowle, Shirley "
+        "and Hampton-in-Arden; a Michelin-starred tasting-menu kitchen running "
+        "a full evening service throws as heavy a grease load into its canopy "
+        "as any city-centre restaurant."
+    ),
+    "venues": [
+        {
+            "type": "Takeaway",
+            "name": "Knowle Fish Bar",
+            "area": "Station Road, Knowle",
+            "cuisine": "Fish and chips",
+            "body": (
+                "Knowle Fish Bar has been frying on Station Road since 1982, making it "
+                "one of the longest-established family-run chippies in the West Midlands. "
+                "The formula is straightforward: cod and haddock sourced from sustainable "
+                "fisheries, chips cut from Bruckshaws premium potatoes and cooked to order, "
+                "served in 100-percent compostable packaging. Locally sourced pies from "
+                "Eric Lyons Butchers sit alongside the fish, and since January 2024 a "
+                "dedicated gluten-free menu runs on Tuesdays. You can order ahead on their "
+                "app for quick collection, with parking outside, or take delivery via "
+                "Deliveroo. In a village high street of independent shops and cafes, a "
+                "no-frills chippy with four decades of family ownership is the kind of "
+                "anchor that keeps a food community real."
+            ),
+            "known_for": "Family-run fish and chips in Knowle since 1982, Bruckshaws-potato chips",
+            "good_for": "A classic British takeaway, quick collection or delivery",
+            "source_url": "https://www.knowlefishbar.com/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Cafe",
+            "name": "Elderberry Blacks",
+            "area": "High Street, Knowle",
+            "cuisine": "All-day breakfast and brunch",
+            "body": (
+                "Elderberry Blacks opened on Knowle High Street in 2017 when chef-owner "
+                "Hayley, who had spent years running pop-up restaurants around Birmingham, "
+                "decided to settle in a permanent space on one of the West Midlands's most "
+                "attractive village high streets. The cafe is family-run and opens from "
+                "08:45 to 16:00, serving an entirely homemade menu that leans on fresh, "
+                "locally sourced produce. Signature dishes include smashed avocado on "
+                "sourdough with poached eggs, a full English made with good-quality local "
+                "ingredients, French toast, pancakes and a Triple Decker Mexican BLT that "
+                "has developed a loyal following. Specialist loose-leaf teas and properly "
+                "made coffee complete the picture. The room is bright and unhurried: "
+                "exactly the kind of neighbourhood cafe that makes a high street worth "
+                "walking down."
+            ),
+            "known_for": "Homemade all-day brunch on Knowle High Street, locally sourced produce",
+            "good_for": "A relaxed breakfast or brunch, afternoon tea, or a long coffee",
+            "source_url": "https://www.elderberryblackscafe.co.uk/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Restaurant",
+            "name": "Grace and Savour",
+            "area": "Hampton Manor, Hampton-in-Arden",
+            "cuisine": "Modern British, seasonal tasting menu",
+            "body": (
+                "Grace and Savour opened in the Victorian walled kitchen garden of Hampton "
+                "Manor in 2022 and was awarded a Michelin star in the 2023 Guide, which it "
+                "retains in 2026. Chef Director David Taylor trained under Glynn Purnell in "
+                "Birmingham before working in North America and Scandinavia, finishing at "
+                "Oslo's three-Michelin-star Maaemo. The restaurant celebrates what the "
+                "estate and its local farms grow and raise: an open kitchen serves a "
+                "fourteen-course seasonal tasting menu at dinner (195 pounds) and a shorter "
+                "lunch on Fridays and Saturdays (110 pounds). Hampton-in-Arden is four miles "
+                "east of Solihull town centre inside the metropolitan borough, and the "
+                "journey through greenbelt lanes to a walled Victorian garden is part of the "
+                "meal. The restaurant diary for non-residents opens three months ahead; book "
+                "early."
+            ),
+            "known_for": "The Solihull borough's one Michelin star, walled-garden setting, estate-led seasonal menus",
+            "good_for": "A landmark special occasion, farm-to-table tasting menus, Michelin dining outside the city",
+            "source_url": "https://hamptonmanor.com/grace-savour/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Pub",
+            "name": "The Pup and Duckling",
+            "area": "Hatchford Brook Road, Olton",
+            "cuisine": "Real ale and craft beer micropub",
+            "body": (
+                "The Pup and Duckling opened in February 2016 in a long-closed corner shop "
+                "on Hatchford Brook Road, and in ten years it has become the definitive "
+                "micropub for Solihull's real-ale drinkers, winning the Solihull and District "
+                "CAMRA Pub of the Year in both 2023 and 2024. The family-run three-room pub "
+                "serves up to eight rotating cask ales and two craft beers, drawn straight "
+                "from the barrel with no keg fonts in sight. Local independents such as Fixed "
+                "Wheel, Shiny Brewery and Byatts feature regularly, and the beer board "
+                "updates on realalefinder.com as ales change. The interior is deliberately "
+                "low-key: no TV, no fruit machines, just conversation, snacks, and the option "
+                "to bring food from the Chinese or Indian takeaways that stand within a "
+                "hundred yards. Opening hours run Wednesday to Saturday from 16:00, and "
+                "Sunday from noon."
+            ),
+            "known_for": "CAMRA Pub of the Year 2023 and 2024, eight rotating cask ales, no-frills micropub",
+            "good_for": "Serious real ale in a convivial neighbourhood micropub",
+            "source_url": "https://www.tripadvisor.co.uk/Restaurant_Review-g187061-d10068730-Reviews-Pup_and_Duckling-Solihull_West_Midlands_England.html",
+            "verified": "2026-06-22",
+        },
+    ],
+    "food_scene": [
+        (
+            "Solihull received its market charter in 1242 and the instinct for good "
+            "independent trading has never entirely left it. The town centre today "
+            "splits into two moods: Touchwood and Mell Square bring the volume, with "
+            "over twenty-five dining destinations between them ranging from high-street "
+            "chains to the Taste Collective street-food hall, while the older streets "
+            "around the High Street and Church Hill carry the independent pubs and "
+            "neighbourhood restaurants."
+        ),
+        (
+            "The real food character of the area, however, is out in the villages. "
+            "Knowle, four miles south of the town centre, has built itself into one of "
+            "the most rewarding independent high streets in the West Midlands, with "
+            "Elderberry Blacks for brunch, Knowle Fish Bar for chips and Cheal's "
+            "restaurant for Michelin-listed modern British cooking all within a short "
+            "walk of each other. Dorridge, one stop further on the Chiltern Main Line, "
+            "adds canal-side pubs and a brasserie opposite the station."
+        ),
+        (
+            "The Solihull borough's most significant culinary story is four miles east, "
+            "inside the walled Victorian garden of Hampton Manor in Hampton-in-Arden, "
+            "where Grace and Savour holds the area's sole Michelin star. It anchors "
+            "a food scene that consistently outperforms a town of 125,000 people: "
+            "the combination of an affluent catchment, good rail links to Birmingham "
+            "and the green belt keeping the character intact has produced the kind of "
+            "independent food culture most market towns ten times smaller would envy."
+        ),
+    ],
+    "visit": [
+        (
+            "The easiest route takes Knowle as its base. Knowle High Street is about "
+            "four miles south of Solihull town centre and served by frequent buses on "
+            "the 37 route. Elderberry Blacks and Knowle Fish Bar are within a two-minute "
+            "walk of each other on and just off the High Street; Cheal's restaurant is "
+            "a further two minutes along the same street. Hampton-in-Arden for Grace "
+            "and Savour is four miles east of Solihull and has its own station on the "
+            "Chiltern Main Line."
+        ),
+        (
+            "The Pup and Duckling is in the Olton area of Solihull, about a mile from "
+            "the town centre, and is most easily reached by car or the frequent X12 "
+            "bus. The pub only opens from 16:00 on weekdays, so build an afternoon "
+            "around it: fish and chips at Knowle Fish Bar for lunch, Elderberry Blacks "
+            "for coffee, then head to the Pup and Duckling for evening cask ales. "
+            "Grace and Savour requires advance booking and a planned evening; the "
+            "restaurant diary for non-residents opens three months ahead."
+        ),
+    ],
+    "checklist": [
+        "Book Grace and Savour at least three months in advance for non-residents",
+        "Walk Knowle High Street from Elderberry Blacks to Knowle Fish Bar for two of the four picks in ten minutes",
+        "Check the Pup and Duckling beer board on realalefinder.com before visiting",
+        "Take the Chiltern Main Line to Hampton-in-Arden station and walk to Hampton Manor",
+        "Use Solihull station or the 37 bus to reach Knowle without a car",
+    ],
+    "what_to_order": (
+        "Order with purpose. At Knowle Fish Bar, cod or haddock battered fresh to order "
+        "with Bruckshaws chips, and an Eric Lyons butcher's pie on the side. At "
+        "Elderberry Blacks, the Triple Decker Mexican BLT or smashed avocado on "
+        "sourdough with poached eggs, with a loose-leaf tea. At Grace and Savour, "
+        "surrender to the full fourteen-course dinner tasting menu and let the estate "
+        "season dictate what arrives. At the Pup and Duckling, ask what arrived that "
+        "morning: ales last a single day and the landlord has a gift for sourcing "
+        "interesting beers from small national independents as well as Midlands locals."
+    ),
+    "glance": [
+        ("Best for a quick bite", "Knowle Fish Bar, family-run since 1982 with Bruckshaws chips"),
+        ("Best for an occasion", "Grace and Savour at Hampton Manor, the Solihull borough's Michelin star"),
+        ("Best for atmosphere", "The Pup and Duckling, CAMRA Pub of the Year, real ale straight from the cask"),
+    ],
+    "faq": [
+        (
+            "Where can I eat fish and chips in Solihull?",
+            "Knowle Fish Bar on Station Road in Knowle has been family-owned since 1982. "
+            "It uses sustainably sourced fish and Bruckshaws premium potatoes, cooks "
+            "everything to order and serves in compostable packaging. A gluten-free menu "
+            "is available on Tuesdays."
+        ),
+        (
+            "Does Solihull have a Michelin-starred restaurant?",
+            "Yes. Grace and Savour at Hampton Manor in Hampton-in-Arden, four miles east "
+            "of Solihull town centre, holds one Michelin star in the 2026 Guide. Chef "
+            "Director David Taylor serves a seasonal fourteen-course tasting menu from "
+            "the Victorian walled kitchen garden of the estate."
+        ),
+        (
+            "What is the best cafe in Solihull for brunch?",
+            "Elderberry Blacks on Knowle High Street, open since 2017, is a family-run "
+            "cafe serving an entirely homemade all-day brunch menu with locally sourced "
+            "ingredients. Favourites include smashed avocado on sourdough, French toast "
+            "and the Triple Decker Mexican BLT. Open 08:45 to 16:00."
+        ),
+        (
+            "Where is the best real-ale pub in Solihull?",
+            "The Pup and Duckling on Hatchford Brook Road in Olton is a family-run "
+            "micropub that won the Solihull and District CAMRA Pub of the Year in both "
+            "2023 and 2024. It serves eight rotating cask ales and two craft beers drawn "
+            "straight from the barrel, with no keg fonts and no background TV."
+        ),
+        (
+            "Is Knowle a good place to eat in Solihull?",
+            "Yes. Knowle village, four miles south of the town centre, has one of the "
+            "most rewarding independent food streets in the West Midlands. Elderberry "
+            "Blacks cafe, Knowle Fish Bar and Michelin-listed Cheal's restaurant are all "
+            "within a short walk of each other on and just off the High Street."
+        ),
+        (
+            "How do I get to Grace and Savour at Hampton Manor without a car?",
+            "Hampton-in-Arden has its own station served by Chiltern Railways trains "
+            "from Birmingham Moor Street and London Marylebone. The walk from the "
+            "station to Hampton Manor takes about ten minutes through the village. "
+            "Book the non-resident restaurant diary three months ahead online."
+        ),
+    ],
+}
+
+# colchester (batch2) -----------------------------------------------
+TOWNS["colchester"] = {
+    "region": "Essex",
+    "population": "130K",
+    "nearby": ["Chelmsford", "Ipswich", "Harlow"],
+    "meta_title": "Best Places to Eat in Colchester: Local Food Guide",
+    "meta_description": (
+        "Where to eat in Colchester: castle-side oysters, a plant-led cafe, "
+        "a Michelin-listed tasting menu and a three-time CAMRA pub of the year. "
+        "Read the guide."
+    ),
+    "trust_strip": (
+        "From a castle-side fish and chip takeaway to a Michelin-listed tasting "
+        "menu on North Hill, Colchester punches well above its size as an eating-"
+        "out destination in Essex"
+    ),
+    "snapshot": (
+        "For a fast answer: Cod of the Castle on Museum Street for freshly "
+        "shucked Colchester native oysters and traditional fish and chips beside "
+        "the castle, Patch on Trinity Street for a Good Food Guide plant-led "
+        "brunch in the historic centre, Kintsu on North Hill for an ingredient-"
+        "led Michelin Guide tasting menu, and The Ale House on Butt Road for a "
+        "pint of rotating local ales at CAMRA's three-time branch pub of the "
+        "year. Four moods, one Roman-walled city."
+    ),
+    "stats": [
+        ("130K", "Population (approx)"),
+        ("AD 43", "Year Romans founded Camulodunum here"),
+        ("Oct feast", "Annual civic Oyster Feast at the Town Hall since 1845"),
+        ("4", "Hand-picked independents"),
+    ],
+    "pivot_variant": "market-town",
+    "pivot_local_hook": (
+        "Colchester kitchens run the full range from a busy castle-side seafood "
+        "fryer through summer to a North Hill tasting-menu kitchen firing on "
+        "every service, and every one of them pushes grease-laden vapour into "
+        "its canopy whether the town is packed with day-trippers or not."
+    ),
+    "venues": [
+        {
+            "type": "Takeaway/Casual",
+            "name": "Cod of the Castle",
+            "area": "7 Museum Street, beside Colchester Castle",
+            "cuisine": "Seafood, fish and chips, freshly shucked oysters",
+            "body": (
+                "Cod of the Castle opened in June 2025 in the former Al Pacino "
+                "Italy site on Museum Street, steps from the castle gates. The "
+                "concept ties the town's most famous natural produce directly to "
+                "its most recognisable landmark: traditional fish and chips, "
+                "freshly shucked Colchester native oysters, garlic prawns, fish "
+                "stew, calamari and crispy pan-fried seabass, all available to "
+                "eat in the relaxed dining room or in the beer garden beside the "
+                "castle walls. The Colchester native oyster has been farmed in "
+                "the Colne and Pyefleet estuaries since Roman times -- shells "
+                "were found in the ruins of Rome itself -- and the annual civic "
+                "Oyster Feast at the Town Hall has celebrated the season every "
+                "October since 1845. Lunch from noon, last orders around 9pm."
+            ),
+            "known_for": "Freshly shucked Colchester native oysters and fish and chips beside the castle",
+            "good_for": "A casual seafood lunch or early evening fish supper in the shadow of the keep",
+            "source_url": "https://www.codofthecastle.co.uk/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Cafe",
+            "name": "Patch",
+            "area": "Trinity Works, 24 Trinity Street, historic centre",
+            "cuisine": "Plant-led brunch and lunch, seasonal and local",
+            "body": (
+                "Patch opened in September 2022 in a creative workspace on "
+                "Trinity Street, and within a year the Good Food Guide had "
+                "labelled it a local gem, praising its super-friendly service "
+                "and generous cooking with a fierce commitment to its Colchester "
+                "community. The kitchen is fully plant-led -- no meat, "
+                "no fish -- and works to a focused brunch-and-lunch menu of "
+                "seasonal dishes built from locally grown and small-producer "
+                "ingredients. The room is informal: wooden tables, natural light, "
+                "a neighbourhood feel. On Saturday evenings the kitchen raises "
+                "its ambition with a fixed-price small-plates dinner, tickets "
+                "available through the website. Open Monday to Saturday 10am "
+                "to 4pm; Saturday evenings 7pm to 10pm by booking."
+            ),
+            "known_for": "Good Food Guide plant-led brunch in the heart of the old town",
+            "good_for": "A relaxed weekend brunch or a seasonal Saturday-evening supper",
+            "source_url": "https://www.patchcolchester.co.uk/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Restaurant",
+            "name": "Kintsu",
+            "area": "11A North Hill, town centre",
+            "cuisine": "Ingredient-led modern tasting menus",
+            "body": (
+                "Kintsu is Colchester's most ambitious kitchen: a small, "
+                "chef-owned restaurant on North Hill run by Paul and Ruby "
+                "Wendholt, serving ingredient-led tasting menus that change "
+                "with micro-seasonality and supplier availability. The "
+                "restaurant first attracted attention when the Michelin Guide "
+                "awarded it a Bib Gourmand, and it remains listed in the "
+                "current Michelin Guide for Great Britain and Ireland. After a "
+                "brief closure in 2025 the restaurant reopened in September "
+                "that year to positive reviews, with bookings confirmed open "
+                "for 2026. Midweek and weekend lunchtimes offer the shorter "
+                "tasting menu; Friday and Saturday evenings the full menu "
+                "only. Vegetarian, pescatarian and gluten-free menus available "
+                "with 48 hours notice. Book well ahead."
+            ),
+            "known_for": "Michelin-listed tasting menus on North Hill, driven by local seasonal produce",
+            "good_for": "A special-occasion dinner at Colchester's top independent kitchen",
+            "source_url": "https://kintsu.co.uk/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Pub",
+            "name": "The Ale House",
+            "area": "82 Butt Road, south-west of the town centre",
+            "cuisine": "Rotating cask ales, ciders, craft guests",
+            "body": (
+                "The Ale House on Butt Road is Colchester's most decorated "
+                "real ale pub: CAMRA's Colchester and North East Essex branch "
+                "has named it branch Pub of the Year for 2024, 2025 and again "
+                "in 2026, a three-consecutive-year run that reflects the "
+                "consistency of its cellar. The pub serves eight changing beers "
+                "dispensed by handpump and gravity -- always at least one dark "
+                "ale in the rotation -- alongside a serious cider selection. "
+                "Many of the ales come from local Essex and East Anglian "
+                "microbreweries. The room is unfussy and friendly: a large beer "
+                "garden at the rear for summer, regular quiz and folk nights, "
+                "and a welcome that explains why regulars keep voting it back "
+                "to the top. Open afternoons and evenings; check hours on the "
+                "website before travelling."
+            ),
+            "known_for": "CAMRA branch pub of the year 2024, 2025 and 2026 -- three in a row",
+            "good_for": "A properly kept pint of rotating local ales in an honest independent",
+            "source_url": "https://www.gazette-news.co.uk/news/25987073.ale-house-colchester-named-2026-pub-year/",
+            "verified": "2026-06-22",
+        },
+    ],
+    "food_scene": [
+        (
+            "Colchester eats against a backdrop of deep history. Britain's oldest "
+            "recorded town -- the Roman Camulodunum of AD 43 -- has its food "
+            "identity shaped by two things above all others: the Colchester native "
+            "oyster and the Dutch Quarter. The native oyster has been farmed in "
+            "the tidal creeks of the Colne and Pyefleet estuaries since before "
+            "the Romans arrived; Pliny the Elder wrote that the Colchester oyster "
+            "was the only good thing in Britain, and the civic Oyster Feast at "
+            "the Town Hall has opened the season every October since 1845. "
+            "Modern seafood restaurants like Cod of the Castle are continuing "
+            "a tradition more than two thousand years old."
+        ),
+        (
+            "The Dutch Quarter -- the grid of narrow streets around West Stockwell "
+            "Street and East Stockwell Street between the High Street and "
+            "Northgate -- carries the trace of the Flemish weavers who settled "
+            "here in the 16th century, invited to revive the town's cloth trade. "
+            "It remains one of the best-preserved areas of the old town and is "
+            "a short walk from the independent cafes and restaurants of the High "
+            "Street and Trinity Street. Patch on Trinity Street and Kintsu on "
+            "North Hill both sit within easy reach of the Quarter, giving the "
+            "area a characterful circuit for food and heritage in the same "
+            "afternoon."
+        ),
+        (
+            "Essex produce underpins the menus. Beyond the native oyster, the "
+            "county is known for the Tiptree jam and preserve tradition from "
+            "Wilkin and Sons just up the road, and for the pig-and-game farming "
+            "of the Colchester hinterland. Local microbreweries -- including "
+            "Colchester Brewing Company, founded in 2014 -- supply many of the "
+            "town's pubs, and The Ale House on Butt Road makes a point of "
+            "rotating Essex and East Anglian ales through its eight taps."
+        ),
+    ],
+    "visit": [
+        (
+            "The town centre is compact and walkable. Cod of the Castle and the "
+            "castle park sit at its heart, with the Dutch Quarter, Patch on "
+            "Trinity Street and Kintsu on North Hill all within fifteen minutes "
+            "on foot. The Ale House on Butt Road is a ten-minute walk south-west "
+            "of the centre, past the Roman walls and the Balkerne Gate -- the "
+            "best-preserved Roman town gate in Britain."
+        ),
+        (
+            "A good day in Colchester: a Patch brunch on Trinity Street to start, "
+            "a walk through the Dutch Quarter and into the castle park, oysters "
+            "at Cod of the Castle for a late lunch, then a pint of rotating Essex "
+            "ale at The Ale House on the way back. Save Kintsu for the evening "
+            "you want to remember -- book several weeks ahead, as the tasting-menu "
+            "format means covers are limited. Colchester is around 55 minutes by "
+            "train from London Liverpool Street."
+        ),
+    ],
+    "checklist": [
+        "Book Kintsu well in advance -- tasting-menu restaurants fill quickly",
+        "Try the Colchester native oyster at Cod of the Castle; it is the town's signature",
+        "Walk the Dutch Quarter around West Stockwell Street before or after Patch",
+        "Check The Ale House chalkboard for which local Essex ales are on cask that day",
+        "Visit the Balkerne Gate Roman town-gate near Butt Road on the way to The Ale House",
+    ],
+    "what_to_order": (
+        "Order with intent. At Cod of the Castle, freshly shucked Colchester "
+        "native oysters are the must-order -- the town's signature since Roman "
+        "times. At Patch, follow the seasonal brunch specials; the kitchen makes "
+        "the most of what the Essex farms and market gardens bring in that week. "
+        "At Kintsu, let the tasting menu do its work and ask about the wine "
+        "pairing -- Paul and Ruby Wendholt build the menus around their "
+        "suppliers, so the best dish is whichever came off the van that morning. "
+        "At The Ale House, order whichever Essex microbrewery ale is freshest "
+        "on the handpump and take it to the beer garden."
+    ),
+    "glance": [
+        ("Best for a quick bite", "Cod of the Castle, for oysters and fish and chips beside the castle"),
+        ("Best for an occasion", "Kintsu on North Hill, for a Michelin-listed tasting menu"),
+        ("Best for atmosphere", "The Ale House on Butt Road, CAMRA pub of the year three years running"),
+    ],
+    "faq": [
+        (
+            "Where can I eat Colchester native oysters in the town?",
+            "Cod of the Castle at 7 Museum Street, beside Colchester Castle, "
+            "serves freshly shucked Colchester native oysters alongside "
+            "traditional fish and chips and a full seafood menu. It opened in "
+            "June 2025 and is open from noon daily. The Colchester native oyster "
+            "has been farmed in the Colne and Pyefleet estuaries since Roman "
+            "times and the annual civic Oyster Feast at the Town Hall celebrates "
+            "the season every October.",
+        ),
+        (
+            "What is the best independent cafe in Colchester?",
+            "Patch at Trinity Works, 24 Trinity Street, is the standout "
+            "independent cafe in Colchester's historic centre -- a plant-led "
+            "brunch and lunch restaurant that the Good Food Guide called a local "
+            "gem, praising its seasonal cooking and commitment to local producers. "
+            "Open Monday to Saturday 10am to 4pm, with Saturday-evening small-"
+            "plates dinners by booking.",
+        ),
+        (
+            "Does Colchester have a Michelin-listed restaurant?",
+            "Yes. Kintsu at 11A North Hill is listed in the current Michelin "
+            "Guide for Great Britain and Ireland. Run by chef-owners Paul and "
+            "Ruby Wendholt, it serves ingredient-led tasting menus that change "
+            "with the seasons. The restaurant reopened in September 2025 and "
+            "takes bookings for 2026 through its website.",
+        ),
+        (
+            "Which is the best real ale pub in Colchester?",
+            "The Ale House at 82 Butt Road has been named CAMRA Colchester and "
+            "North East Essex branch Pub of the Year for 2024, 2025 and 2026 -- "
+            "three consecutive years. It serves eight changing cask ales and "
+            "ciders, with a strong showing of local Essex and East Anglian "
+            "microbrewery beers. Open afternoons and evenings.",
+        ),
+        (
+            "What is the Dutch Quarter in Colchester?",
+            "The Dutch Quarter is a grid of narrow streets around West Stockwell "
+            "Street and East Stockwell Street in the historic centre, settled by "
+            "Flemish weavers invited by Queen Elizabeth I in the 1560s to "
+            "revive Colchester's cloth trade. It is one of the best-preserved "
+            "areas of the old town and sits within easy walking distance of "
+            "Patch on Trinity Street and Kintsu on North Hill.",
+        ),
+        (
+            "How do I get to Colchester and how long does it take from London?",
+            "Colchester is approximately 55 minutes from London Liverpool Street "
+            "by Greater Anglia train. The town centre, castle, Dutch Quarter "
+            "and all four venues in this guide are within 15 minutes walk of "
+            "Colchester Town station. The Ale House on Butt Road is a "
+            "10-minute walk south-west of the centre past the Balkerne Gate.",
+        ),
+    ],
+}
+
+# cheltenham (batch2) -----------------------------------------------
+TOWNS["cheltenham"] = {
+    "region": "Gloucestershire",
+    "population": "122K",
+    "nearby": ["Gloucester", "Worcester", "Swindon"],
+    "meta_title": "Best Places to Eat in Cheltenham: Local Food Guide",
+    "meta_description": (
+        "Where to eat in Cheltenham: Regency artisan cafe, Suffolks award "
+        "bakery, a one-Michelin-star forager kitchen and a CAMRA pub "
+        "champion. Read the guide."
+    ),
+    "trust_strip": (
+        "From a Regency artisan cafe to a one-Michelin-star forager kitchen, "
+        "Cheltenham punches well above its size for independent dining"
+    ),
+    "snapshot": (
+        "For a fast answer: The Clementine Cafe in Montpellier for breakfast "
+        "in a Regency butcher shop, Baker and Graze on Suffolk Road for "
+        "La Liste award-winning pastries and sourdough, Le Champignon Sauvage "
+        "for David Everitt-Matthias's one-Michelin-star seasonal cooking, and "
+        "Sandford Park Alehouse for CAMRA-champion cask ale in a grade II-listed "
+        "High Street pub. Four moods, one spa town."
+    ),
+    "stats": [
+        ("122K", "Population (approx)"),
+        ("35+", "Annual festivals in the Festival Town"),
+        ("1987", "Year Le Champignon Sauvage opened"),
+        ("4", "Hand-picked independents"),
+    ],
+    "pivot_variant": "high-volume",
+    "pivot_local_hook": (
+        "Cheltenham's kitchens run the full range from a forager's fine-dining "
+        "pass to race-week pub fryers — all of them push grease-laden vapour "
+        "through their canopies at the kind of sustained volumes that make "
+        "regular TR19 extraction cleaning a legal and insurance necessity."
+    ),
+    "venues": [
+        {
+            "type": "Cafe",
+            "name": "The Clementine Cafe",
+            "area": "Queens Circus, Montpellier",
+            "cuisine": "Artisan cafe, breakfast and brunch",
+            "body": (
+                "Tucked into a Regency terrace in the heart of Montpellier, "
+                "The Clementine Cafe occupies a building that was originally "
+                "a butcher's shop and still carries its original floor tiling, "
+                "marble window counter and period cashier's booth. The company "
+                "opened in 2018 and has built its reputation on seasonally "
+                "driven home-baking — cakes change daily and the breakfast and "
+                "lunch menus draw on the best of local and Cotswold produce. "
+                "The result is a room that strikes the right balance between "
+                "Regency elegance and a genuinely relaxed neighbourhood feel. "
+                "Open seven days a week, it is the natural first stop in "
+                "Cheltenham's most atmospheric dining quarter."
+            ),
+            "known_for": "Daily home-baked cakes and seasonal brunch in a restored Regency butcher's shop",
+            "good_for": "Morning coffee or weekend brunch in Montpellier",
+            "source_url": "https://theclementinecafe.co.uk/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Takeaway/Casual",
+            "name": "Baker and Graze",
+            "area": "48 Suffolk Road, The Suffolks",
+            "cuisine": "Artisan bakery, deli and brunch",
+            "body": (
+                "Baker and Graze is the definitive neighbourhood bakery of "
+                "Cheltenham's Suffolks quarter. The team bakes sourdough "
+                "loaves, cruffins, sausage rolls, lamingtons and pastries "
+                "in-house every morning, and the all-day menu spans proper "
+                "brunch dishes — nduja with labneh, fennel sausage with "
+                "cavolo nero — through to sandwiches and salads. In 2024 the "
+                "bakery was named as a British winner in the prestigious La "
+                "Liste Pastry Awards, one of the most respected international "
+                "accolades in the field. Bags of beans, loaves and pastries "
+                "make it the easiest place in town to take something good home. "
+                "Open from 8 am, Monday through Sunday."
+            ),
+            "known_for": "La Liste Pastry Awards 2024, house sourdough and cruffins",
+            "good_for": "Coffee and a pastry or a full brunch, with bread to take home",
+            "source_url": "https://www.bakerandgraze.com/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Restaurant",
+            "name": "Le Champignon Sauvage",
+            "area": "24-26 Suffolk Road, The Suffolks",
+            "cuisine": "Modern British fine dining, foraging",
+            "body": (
+                "David and Helen Everitt-Matthias opened Le Champignon Sauvage "
+                "in 1987 and have never missed a service in nearly four decades "
+                "— a record that is as remarkable as the cooking. David is a "
+                "dedicated forager and wild ingredients have always anchored "
+                "the seasonal menus, which change to reflect what the "
+                "Cotswolds lanes and hedgerows yield. The restaurant has held "
+                "a Michelin star for 30 consecutive years, retaining its One "
+                "Star in the 2026 Guide announced in February 2026. Fixed-price "
+                "lunch and dinner menus run Wednesday to Saturday. Book well "
+                "ahead; this is one of the most consistent restaurant kitchens "
+                "in Britain outside London."
+            ),
+            "known_for": "One Michelin star for 30 consecutive years, forager menus since 1987",
+            "good_for": "A landmark special-occasion meal in the Suffolks",
+            "source_url": "https://www.lechampignonsauvage.co.uk/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Pub",
+            "name": "Sandford Park Alehouse",
+            "area": "20 High Street, eastern end near Sandford Park",
+            "cuisine": "Real ale, craft beer and pub food",
+            "body": (
+                "Sandford Park Alehouse opened in 2013 in a Grade II-listed "
+                "building at the quiet eastern end of Cheltenham's High Street, "
+                "backing on to Sandford Park and the River Chelt. The pub was "
+                "voted CAMRA National Pub of the Year in 2015 and has remained "
+                "the benchmark for real ale in the town ever since, winning the "
+                "Cheltenham CAMRA branch award again in 2025. Ten cask lines "
+                "and sixteen keg taps draw from local Gloucestershire breweries "
+                "and national names in equal measure, and the south-facing beer "
+                "garden is the best in Cheltenham when the sun is out. Food is "
+                "a genuine kitchen operation with ingredients sourced from "
+                "local suppliers, and the annual Cheese and Cider Festival "
+                "each July is a fixture in the town's calendar."
+            ),
+            "known_for": "CAMRA National Pub of Year 2015, ten cask ales and the best garden in town",
+            "good_for": "The finest real ale in Cheltenham and a sunny afternoon in the garden",
+            "source_url": "https://sandfordparkalehouse.co.uk/",
+            "verified": "2026-06-22",
+        },
+    ],
+    "food_scene": [
+        (
+            "Cheltenham's food map is organised around three distinct quarters. "
+            "Montpellier, the grandest of the Regency districts, shelters "
+            "artisan cafes, wine bars and neighbourhood restaurants in its "
+            "colonnaded terraces and courtyard gardens. A short walk east, "
+            "The Suffolks — the grid of period streets around Suffolk Square "
+            "and Bath Road — is where the independent food scene concentrates: "
+            "independent bakeries, the Michelin-starred room at Le Champignon "
+            "Sauvage, and Bhoomi Kitchen's Keralan cooking on Suffolk Road. "
+        ),
+        (
+            "The Promenade and High Street tie the two quarters together, "
+            "with Cheltenham's fortnightly Farmers Market on the Promenade "
+            "drawing Cotswold producers into the town centre on the second "
+            "and last Friday of each month. The market is the clearest "
+            "expression of what underpins the town's best kitchens: short "
+            "supply chains, seasonal Cotswold produce, and serious intent. "
+        ),
+        (
+            "Cheltenham does not have a single signature dish in the way "
+            "Birmingham has the balti, but it has something rarer: a critical "
+            "mass of long-running owner-operated kitchens. Le Champignon "
+            "Sauvage is the headline, but the ethos runs through the "
+            "town's best independents at every price point — a spa town that "
+            "has always expected quality, and generally gets it."
+        ),
+    ],
+    "visit": [
+        (
+            "Most of this guide sits within a compact mile. Montpellier and "
+            "The Suffolks are a fifteen-minute walk apart via the Promenade; "
+            "Sandford Park Alehouse is at the far eastern end of High Street, "
+            "a short walk from both. Cheltenham has no direct rail link to "
+            "London — change at Swindon or Bristol — but it sits on the "
+            "main line between Birmingham New Street and Bristol Temple Meads, "
+            "and Gloucester is fifteen minutes south by train. There is "
+            "plentiful car parking on and around Bath Road for the Suffolks."
+        ),
+        (
+            "Time it well and the day runs itself: coffee and morning pastries "
+            "at The Clementine, sourdough or brunch at Baker and Graze later "
+            "in the morning, an afternoon pint and garden time at Sandford Park "
+            "Alehouse, and Le Champignon Sauvage for the evening you want to "
+            "remember. Book Le Champignon well ahead — services fill weeks out — "
+            "and note it runs Wednesday to Saturday only."
+        ),
+    ],
+    "checklist": [
+        "Start in Montpellier at The Clementine Cafe for coffee and morning baking",
+        "Pick up sourdough or stay for brunch at Baker and Graze on Suffolk Road",
+        "Book Le Champignon Sauvage weeks ahead for Wednesday to Saturday service",
+        "Catch Cheltenham Farmers Market on the Promenade on the second or last Friday",
+        "End the afternoon at Sandford Park Alehouse with cask ale in the south-facing garden",
+    ],
+    "what_to_order": (
+        "Order with intent. At The Clementine, whatever cake came out of the oven "
+        "that morning alongside the seasonal brunch. At Baker and Graze, the "
+        "sourdough, a cruffin, and one of the inventive brunch plates — the nduja "
+        "with labneh is the thing to pick. At Le Champignon Sauvage, surrender to "
+        "the fixed-price menu and trust the kitchen; the forager-sourced wild "
+        "ingredient specials are what set it apart from every other one-star in the "
+        "country. At Sandford Park Alehouse, ask the staff which cask ale arrived "
+        "most recently and let the beer garden do the rest."
+    ),
+    "glance": [
+        ("Best for a quick bite", "Baker and Graze, for La Liste-winning pastries and sourdough in the Suffolks"),
+        ("Best for an occasion", "Le Champignon Sauvage, for a one-Michelin-star forager kitchen open since 1987"),
+        ("Best for atmosphere", "Sandford Park Alehouse, CAMRA national champion with a south-facing riverside garden"),
+    ],
+    "faq": [
+        (
+            "Does Cheltenham have a Michelin-starred restaurant?",
+            "Yes, two. Le Champignon Sauvage on Suffolk Road has held one Michelin star for "
+            "30 consecutive years, retaining it in the 2026 guide. Lumiere on Clarence Parade "
+            "also holds one star, awarded for the fourth year running in 2026. Both are "
+            "independently owned and require booking well ahead."
+        ),
+        (
+            "What areas of Cheltenham are best for eating out?",
+            "The Suffolks and Montpellier are the two food anchors. The Suffolks, the grid of "
+            "period streets around Suffolk Road and Bath Road, holds Le Champignon Sauvage, "
+            "Baker and Graze and several other independents. Montpellier, the grander Regency "
+            "district, has The Clementine Cafe and a cluster of wine bars and restaurants "
+            "around the Rotunda and Queens Circus."
+        ),
+        (
+            "Where is a good independent pub for real ale in Cheltenham?",
+            "Sandford Park Alehouse on High Street was voted CAMRA National Pub of the Year "
+            "in 2015 and remains the benchmark for real ale in the town, winning the local "
+            "CAMRA branch award again in 2025. It has ten cask lines, sixteen keg taps and "
+            "a large south-facing beer garden backing on to Sandford Park."
+        ),
+        (
+            "Is there a good independent bakery or cafe in Cheltenham?",
+            "Baker and Graze at 48 Suffolk Road in The Suffolks was named a British winner "
+            "in the La Liste Pastry Awards 2024, one of the most prestigious international "
+            "pastry accolades. The Clementine Cafe in Montpellier bakes all its cakes in-house "
+            "daily in a restored Regency butcher's shop on Queens Circus. Both are open daily."
+        ),
+        (
+            "When is the best time to visit Cheltenham for food?",
+            "Cheltenham is busy year-round but March race week brings the highest concentration "
+            "of visitors and the liveliest atmosphere in pubs and restaurants. The Cheltenham "
+            "Food and Drink Festival runs annually in the summer, and the fortnightly Farmers "
+            "Market on the Promenade — held on the second and last Friday of every month — "
+            "brings the best of Cotswold producers into the town centre."
+        ),
+        (
+            "How do I get to Cheltenham by public transport?",
+            "Cheltenham Spa station sits on the main line between Birmingham New Street and "
+            "Bristol Temple Meads and is around 15 minutes by rail from Gloucester. There is "
+            "no direct London service; change at Swindon or Bristol Parkway. National Express "
+            "coaches serve Cheltenham from London Victoria. Once in town, Montpellier and "
+            "The Suffolks are a short walk from the Promenade."
+        ),
+    ],
+}
+
+# gateshead (batch2) -----------------------------------------------
+TOWNS["gateshead"] = {
+    "region": "Tyne and Wear",
+    "population": "120K",
+    "nearby": ["Newcastle upon Tyne", "Sunderland", "South Shields"],
+    "meta_title": "Best Places to Eat in Gateshead: Local Food Guide",
+    "meta_description": (
+        "Four Gateshead independents: a Turkish grill in Low Fell, a Dunston "
+        "Staiths cafe, an award-winning Indian brasserie and a CAMRA pub. "
+        "Read the guide."
+    ),
+    "trust_strip": (
+        "From a riverside cafe beside the largest timber structure in Europe "
+        "to a national-champion Indian brasserie, Gateshead's independent "
+        "food scene is one of the North East's most rewarding"
+    ),
+    "snapshot": (
+        "For a fast answer: Ilbay's Turkish Cuisine on Durham Road in Low Fell "
+        "for wood-fired mezze and mixed grill just down the road from the Angel "
+        "of the North, The Staiths Cafe at Dunston Staiths for riverside coffee "
+        "beside the largest timber structure in Europe, Raval on Church Street "
+        "at Gateshead Quays for the national-champion Indian brasserie that won "
+        "Best Fine Dining Outside London at the 2024 Curry Oscars, and The "
+        "Central on the Gateshead end of the Tyne Bridge for up to 14 handpulls "
+        "in a CAMRA National Inventory Buffet Bar from 1854. Four moods, one "
+        "south bank city."
+    ),
+    "stats": [
+        ("120K", "Population (approx)"),
+        ("1854", "Year The Central's wedge-shaped building was built"),
+        ("2025", "Year Raval named national champion by the British Indian Good Food Guide"),
+        ("4", "Hand-picked independents"),
+    ],
+    "pivot_variant": "high-volume",
+    "pivot_local_hook": (
+        "Gateshead's kitchens feed a dense riverside crowd across the Quays "
+        "and the neighbourhood high streets of Low Fell and Bensham, and the "
+        "city's Turkish grills, Indian brasseries and neighbourhood bistros "
+        "run their canopies hard through lunch and dinner service every day."
+    ),
+    "venues": [
+        {
+            "type": "Casual Dining",
+            "name": "Ilbay's Turkish Cuisine",
+            "area": "565A Durham Road, Low Fell",
+            "cuisine": "Turkish mezze, grill and kebabs",
+            "body": (
+                "Ilbay's arrived in Low Fell as a newcomer and quickly built a "
+                "loyal local following, earning a TripAdvisor Travellers Choice "
+                "award for 2025 and a 4.8-star Google rating from well over a "
+                "thousand diners. The menu runs from cold mezze platters loaded "
+                "with falafel, muska boregi, chargrilled halloumi and hummus, "
+                "through to sucuk sausage, lamb adana and a classic mixed grill "
+                "cooked over the charcoal. Bread is made in house, portions are "
+                "generous, and the room is warm and relaxed with the owner front "
+                "of house. Low Fell sits on the edge of Gateshead's outer suburbs, "
+                "a short drive from the Angel of the North, and Ilbay's has "
+                "become the neighbourhood's destination dining spot. Dine in or "
+                "order takeaway; either way the chargrilled lamb is the order to make."
+            ),
+            "known_for": "Handmade mezze and charcoal-grilled kebabs in Low Fell",
+            "good_for": "A relaxed neighbourhood Turkish dinner, dine-in or takeaway",
+            "source_url": "https://www.tripadvisor.co.uk/Restaurant_Review-g190793-d16678684-Reviews-Ilbay_s_Turkish_Cuisine-Gateshead_Tyne_and_Wear_England.html",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Cafe",
+            "name": "The Staiths Cafe",
+            "area": "1 Autumn Drive, Dunston Staiths Southbank",
+            "cuisine": "Speciality coffee, brunch and light plates",
+            "body": (
+                "Dunston Staiths — the 500-metre coal loading jetty built in 1893 "
+                "from Baltic pitch pine and now the largest timber structure in "
+                "Europe — is one of the most dramatic industrial monuments in "
+                "England, a Grade II-listed Scheduled Monument preserved by the "
+                "Tyne and Wear Building Preservation Trust. The Staiths Cafe sits "
+                "right beside it on the river bank, serving high-quality coffee, "
+                "a seasonal brunch and lunch menu, local produce and a small bottle "
+                "shop. The outdoor balcony terrace looks directly onto the Staiths "
+                "and the River Tyne beyond. It is dog-friendly, cyclist-friendly "
+                "and open seven days a week, with evening licensing on Friday and "
+                "Saturday. The food runs from breakfast dishes and toasted sandwiches "
+                "to fresh soups and daily specials. A 4.8-star rating from over "
+                "4,000 Google reviews is the local verdict."
+            ),
+            "known_for": "Riverside coffee beside the largest timber structure in Europe",
+            "good_for": "A morning coffee or weekend brunch with a view of the Tyne",
+            "source_url": "https://thestaithscafe.co.uk/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Restaurant",
+            "name": "Raval Indian Brasserie and Bar",
+            "area": "Church Street, Gateshead Quays",
+            "cuisine": "Contemporary Indian fine dining",
+            "body": (
+                "Raval opened in 2007 on Church Street between the Glasshouse "
+                "International Music Centre and the Hilton Hotel, occupying a "
+                "glass-fronted space with floor-to-ceiling views across the Tyne. "
+                "It has become the highest-decorated Indian restaurant in the North "
+                "East: in 2024 it was named Best Indian Fine Dining Restaurant "
+                "Outside London at the Asian Curry Awards, and in 2025 it won Fine "
+                "Dining Restaurant of the Year at the Asian Restaurant Awards and "
+                "was crowned Britain's National Champion by the British Indian Good "
+                "Food Guide — the first time the title came to the North East. The "
+                "kitchen is led by chefs trained in five-star hotels in Delhi, Dubai, "
+                "London and New York, and the flagship seven-course tasting menu "
+                "moves through Bombay lobster, Darjeeling lamb cutlets and Goan "
+                "salmon. The dining room opens Monday to Saturday from 5.30pm. "
+                "Book ahead."
+            ),
+            "known_for": "National-champion Indian fine dining, 2024 Curry Oscars winner",
+            "good_for": "A landmark special-occasion dinner on the Gateshead Quayside",
+            "source_url": "https://www.ravaluk.com/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Pub",
+            "name": "The Central",
+            "area": "Half Moon Lane, Gateshead (Tyne Bridge end)",
+            "cuisine": "Real ale and pub food",
+            "body": (
+                "The Central's wedge-shaped, four-storey building dates from 1854, "
+                "designed as premises for a wine merchant and converted to a hotel "
+                "around 1890 — when its most extraordinary feature was fitted. The "
+                "Buffet Bar, with its U-shaped carved counter, ornate segmental-arch "
+                "bar front, etched glass, deep plasterwork frieze and fixed seating, "
+                "is designated by CAMRA as a pub interior of Special Historic "
+                "Interest and sits on CAMRA's National Inventory with three stars. "
+                "After a period of neglect the pub was carefully restored in 2010 "
+                "by the Head of Steam Group and now runs up to 14 handpulls, "
+                "dispensing a rotating range of cask ales and ciders from local "
+                "microbreweries, with live music in the function rooms and a rooftop "
+                "terrace. It is the best real ale pub in Gateshead, with one of the "
+                "finest pub interiors in the North East."
+            ),
+            "known_for": "An 1854 Grade II-listed Buffet Bar on CAMRA's National Inventory",
+            "good_for": "A pint in a remarkable historic interior at the foot of the Tyne Bridge",
+            "source_url": "https://camra.org.uk/pubs/central-gateshead-193183",
+            "verified": "2026-06-22",
+        },
+    ],
+    "food_scene": [
+        (
+            "Gateshead's food map spreads across its distinct neighbourhoods. The "
+            "Quays district on the river, anchored by the Glasshouse and the BALTIC "
+            "Centre for Contemporary Art, carries the city's most ambitious dining, "
+            "with Raval the standout name on Church Street. In the old town centre, "
+            "the streets behind the Tyne Bridge hold heritage pubs like The Central "
+            "whose Buffet Bar survives from the 1890s."
+        ),
+        (
+            "A mile south, Low Fell's Durham Road has evolved into Gateshead's "
+            "most reliable neighbourhood eating strip, with independent restaurants, "
+            "delis and cafes serving the suburb's growing food-conscious population. "
+            "Ilbay's Turkish Cuisine is the recent success story, drawing diners "
+            "from across the borough. Dunston, west along the Tyne, is home to The "
+            "Staiths Cafe beside the extraordinary 1893 coal loading jetty."
+        ),
+        (
+            "The broader Gateshead food identity is bound up with the region's "
+            "working-class staples — the stottie cake (the flat North East bread "
+            "roll), pease pudding (cooked split peas eaten cold from the deli), "
+            "and the saveloy dip (a pork sausage sandwich in gravy). These remain "
+            "the local street-food traditions, distinct from the more polished "
+            "Quayside dining that has developed since the BALTIC and Sage opened "
+            "in the early 2000s and transformed the riverfront."
+        ),
+    ],
+    "visit": [
+        (
+            "The Quays venues are on the south bank of the Tyne, ten minutes' walk "
+            "from the Metro at Gateshead station. The Central is at the Gateshead "
+            "end of the Tyne Bridge, five minutes from the station on foot. Low "
+            "Fell is two miles south of the centre, easily reached by bus along "
+            "the A167 Durham Road. Dunston and The Staiths Cafe are two miles west "
+            "of the Quays, a short drive or taxi from the centre."
+        ),
+        (
+            "A well-routed day: coffee at The Staiths with the Dunston Staiths "
+            "as the backdrop, a walk or drive to Low Fell for a long lunch at "
+            "Ilbay's, an afternoon exploring the Quays and BALTIC gallery, then "
+            "a pint in The Central's Buffet Bar before an evening at Raval. "
+            "Book Raval several days ahead for weekend evenings."
+        ),
+    ],
+    "checklist": [
+        "Book Raval ahead for evening service - weekend tables go quickly",
+        "Visit The Central's Buffet Bar at opening time to take in the 1890s carved interior",
+        "Ask staff at The Staiths Cafe which local ales are in the bottle shop that week",
+        "Head to Ilbay's on a Friday or Saturday evening for the full mezze and grill experience",
+        "Walk the path beside Dunston Staiths from The Staiths Cafe for the best views of the river",
+    ],
+    "what_to_order": (
+        "Order with intent. At Ilbay's, the cold mezze platter to start - falafel, muska boregi, "
+        "chargrilled halloumi - then the mixed grill or lamb adana with the house bread. At The "
+        "Staiths Cafe, whatever single origin is on the espresso and a brunch dish from the daily "
+        "menu. At Raval, the seven-course tasting menu is the full experience: Bombay lobster, "
+        "Darjeeling lamb cutlets and Goan salmon in sequence. At The Central, a pint of whichever "
+        "North East microbrewery is on the handpull, taken slowly so you have time to look at "
+        "the plasterwork frieze."
+    ),
+    "glance": [
+        ("Best for a quick bite", "Ilbay's Turkish Cuisine, for mezze and charcoal grill in Low Fell"),
+        ("Best for an occasion", "Raval, for national-champion Indian fine dining on the Quays"),
+        ("Best for atmosphere", "The Central's 1890s CAMRA National Inventory Buffet Bar"),
+    ],
+    "faq": [
+        (
+            "Where should I eat in Gateshead for a special occasion?",
+            "Raval Indian Brasserie and Bar on Church Street at Gateshead Quays is the "
+            "city's top destination table. It was named Best Indian Fine Dining Restaurant "
+            "Outside London at the 2024 Curry Oscars, Fine Dining Restaurant of the Year "
+            "at the Asian Restaurant Awards 2025, and Britain's National Champion by the "
+            "British Indian Good Food Guide 2025. Book ahead for evenings."
+        ),
+        (
+            "Which Gateshead pub has the best interior?",
+            "The Central at the Gateshead end of the Tyne Bridge, a Grade II-listed 1854 "
+            "building, has the finest pub interior in the city. Its Buffet Bar, fitted out "
+            "around 1890 with a carved U-shaped counter, etched glass and deep plasterwork "
+            "frieze, sits on CAMRA's National Inventory of Historic Pub Interiors with "
+            "three stars and is designated a pub interior of Special Historic Interest."
+        ),
+        (
+            "What is Dunston Staiths and why is it worth visiting?",
+            "Dunston Staiths is a 500-metre coal loading jetty built in 1893 from Baltic "
+            "pitch pine on the south bank of the Tyne. It is the largest timber structure "
+            "in Europe, a Grade II-listed Scheduled Monument, and one of the most dramatic "
+            "pieces of industrial heritage in England. The Staiths Cafe sits beside it on "
+            "the river bank and is open seven days a week."
+        ),
+        (
+            "What is the best independent cafe in Gateshead?",
+            "The Staiths Cafe at Dunston Staiths Southbank, 1 Autumn Drive, is the most "
+            "distinctive cafe in the borough: high-quality speciality coffee, a seasonal "
+            "brunch and lunch menu, a bottle shop with local produce, an outdoor terrace "
+            "overlooking the Tyne, and a setting beside the largest timber structure in "
+            "Europe. Open seven days a week, dog-friendly and cyclist-friendly."
+        ),
+        (
+            "What are Gateshead's local traditional foods?",
+            "The stottie cake - a flat, dense round bread roll baked in North East bakeries "
+            "- is the region's most-loved bread, eaten with pease pudding (cooked split peas) "
+            "and ham. The saveloy dip (a pork sausage in a bread roll dipped in gravy) is "
+            "the local street-food staple. Both remain available from traditional Gateshead "
+            "bakeries and market stalls."
+        ),
+        (
+            "Can you visit all four Gateshead food picks in one day?",
+            "Yes. The Staiths Cafe in Dunston is ideal for morning coffee, then Low Fell "
+            "and Ilbay's for lunch or early evening. The Quays and Raval are a short drive "
+            "east, with The Central at the Tyne Bridge just minutes away on foot. The Metro "
+            "to Gateshead station puts The Central and the Quays within easy reach of "
+            "Newcastle and Sunderland connections."
+        ),
+    ],
+}
+
+# high-wycombe (batch2) -----------------------------------------------
+TOWNS["high wycombe"] = {
+    "region": "Buckinghamshire",
+    "population": "120K",
+    "nearby": ["Maidenhead", "Aylesbury", "Chesham"],
+    "meta_title": "Best Places to Eat in High Wycombe: Food Guide",
+    "meta_description": (
+        "Where to eat in High Wycombe: Hong Kong noodles, Italian espresso, "
+        "award-winning Kerala cuisine, and a Good Beer Guide real ale pub. "
+        "Read the guide."
+    ),
+    "trust_strip": (
+        "From a family-run Hong Kong noodle bar to an award-winning South Indian kitchen, "
+        "High Wycombe's independent food scene punches well above its size"
+    ),
+    "snapshot": (
+        "For a fast answer: Noodle Nation on Crown Lane for Hong Kong-inspired noodles "
+        "and stir-fries from the family that has run it since 2000, Kubik Cafe on the "
+        "High Street for Italian espresso and breakfast, Kappad on the High Street for "
+        "award-winning Kerala cuisine and masala dosa, and The General Havelock in "
+        "Wycombe Marsh for four real ales in a Good Beer Guide pub that has been "
+        "family-run since Fuller's acquired it in 1986."
+    ),
+    "stats": [
+        ("120K", "Population (approx)"),
+        ("700+", "Years of charter market history"),
+        ("2017", "Year Kappad won Best Indian in Buckinghamshire"),
+        ("4", "Hand-picked independents"),
+    ],
+    "pivot_variant": "market-town",
+    "pivot_local_hook": (
+        "High Wycombe's charter market has run for over 700 years and the town centre "
+        "kitchens -- from a South Indian rice-and-curry house to a Thai grill -- run "
+        "high-volume services through lunch and evening, loading their extraction "
+        "systems with the full range of spiced oils and chargrilled vapour."
+    ),
+    "venues": [
+        {
+            "type": "Takeaway/Casual",
+            "name": "Noodle Nation",
+            "area": "5 Crown Lane, town centre",
+            "cuisine": "Hong Kong-inspired Asian noodles and stir-fries",
+            "body": (
+                "Founded in 2000 by a family who grew up in a Chinese takeaway, Noodle "
+                "Nation built its reputation on Crown Lane with a menu inspired by the "
+                "lively street cafes of Hong Kong. The kitchen keeps the approach "
+                "unfussy: freshly cooked noodle soups, sizzling stir-fries and rice "
+                "bowls made to order, with vegan and gluten-free options woven "
+                "throughout. Singapore udon with chicken, char siu pork and king "
+                "prawns, chow mein and Kung Pao dishes are the orders to go for. "
+                "The portions are generous, the prices are fair and the restaurant "
+                "has been feeding High Wycombe for well over two decades. Dine in, "
+                "collect or order via Deliveroo -- the kitchen runs seven days a week."
+            ),
+            "known_for": "Hong Kong-style noodles and stir-fries, family-run since 2000",
+            "good_for": "A satisfying, well-priced Asian meal any day of the week",
+            "source_url": "https://noodlenation.com/high-wycombe/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Cafe",
+            "name": "Kubik Cafe",
+            "area": "29 High Street, town centre",
+            "cuisine": "Italian espresso, breakfast, pastries",
+            "body": (
+                "Opened in 2020, Kubik Cafe occupies a spot on the High Street and "
+                "quickly earned a reputation as the best espresso in town. The "
+                "independent operation keeps a tight focus: authentic Italian freshly "
+                "ground coffee -- served as espresso, flat white, iced or as "
+                "filter -- alongside homemade baked pastries, milkshakes, and a "
+                "freshly cooked breakfast that regulars return to again and again. "
+                "The bacon and egg bap and the smooth, piping-hot coffee draw a "
+                "loyal morning crowd. Open Monday to Friday from 7am and Saturday "
+                "from 9am, Kubik closes at 3pm, making it a morning and lunchtime "
+                "destination. With a 4.9-star rating across 130-plus Google reviews, "
+                "it has become a fixture for commuters and locals alike."
+            ),
+            "known_for": "Italian espresso and breakfast on the High Street since 2020",
+            "good_for": "The best coffee in town and a proper breakfast before 3pm",
+            "source_url": "https://www.facebook.com/kubikcafe2020/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Restaurant",
+            "name": "Kappad",
+            "area": "21A High Street, town centre",
+            "cuisine": "South Indian, Kerala",
+            "body": (
+                "Opened in October 2017, Kappad brought authentic Kerala cooking to "
+                "the High Street and has collected awards to prove it: shortlisted at "
+                "the 2022 Food Awards England and named Best Indian Restaurant in "
+                "Buckinghamshire at the Euro Asia Curry Awards in 2024. The menu "
+                "travels the length of South India -- masala dosa arriving crisp and "
+                "golden, wrapped around a spiced potato filling and paired with "
+                "coconut chutney and sambar; lamb black pepper fry; Calicut chicken "
+                "biryani fragrant with whole spices. With over 800 Google reviews "
+                "averaging 4.7 stars, it is far from a hidden gem, yet the warmth of "
+                "service keeps it feeling personal. Book ahead for Friday and Saturday "
+                "evenings, when the room fills quickly."
+            ),
+            "known_for": "Award-winning Kerala cuisine and masala dosa on the High Street",
+            "good_for": "An authentic South Indian meal in the best Indian restaurant in Buckinghamshire",
+            "source_url": "https://www.kappadrestaurant.com/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Pub",
+            "name": "The General Havelock",
+            "area": "114 Kingsmead Road, Wycombe Marsh",
+            "cuisine": "Real ale, traditional pub food",
+            "body": (
+                "Fuller's acquired The General Havelock in 1986 and a single family "
+                "has run it ever since -- a span of nearly four decades that tells you "
+                "everything about the continuity here. The building began life as three "
+                "farmyard cottages supplying ale to local farm workers, and the "
+                "interior still carries that unhurried character: an eclectic collection "
+                "of bric-a-brac and antiques, four handpumps dispensing Fuller's "
+                "London Pride alongside rotating seasonals and guests, and a garden "
+                "that becomes a peaceful retreat in summer. It has featured in CAMRA's "
+                "Good Beer Guide every year since 1990. Sunday roast is served from "
+                "noon to 4pm and the kitchen delivers honest value throughout the week."
+            ),
+            "known_for": "Four real ales and Good Beer Guide listed every year since 1990",
+            "good_for": "A proper pint in a family-run local with decades of continuity",
+            "source_url": "https://www.generalhavelock.co.uk/",
+            "verified": "2026-06-22",
+        },
+    ],
+    "food_scene": [
+        (
+            "High Wycombe's food map is shaped by the valley it sits in. The River Wye "
+            "cuts through the chalk of the Chilterns for several miles, and the town "
+            "stretches along it, with the historic centre -- the Guildhall, the Little "
+            "Market House and the charter market that has run for over 700 years -- at "
+            "its heart. The market, held on Tuesdays, Fridays and Saturdays in the Corn "
+            "Market area, draws street-food sellers alongside the fruit-and-veg and "
+            "household stalls, with Caribbean, Indian, Lebanese and vegan dishes all "
+            "represented on a busy market day."
+        ),
+        (
+            "The High Street and the streets around the Eden Centre hold the bulk of the "
+            "independent restaurant scene, with a cluster of South Asian, East Asian and "
+            "Mediterranean kitchens making the most of the town's diversity. Kappad on "
+            "the High Street is the standard-bearer for South Indian cooking in the "
+            "region, while Noodle Nation a few streets away has been feeding the town "
+            "with Hong Kong-style noodles since 2000. The town is among the most "
+            "ethnically diverse in England outside London, and its food scene reflects "
+            "that breadth."
+        ),
+        (
+            "Away from the centre, the suburbs and surrounding villages hold a network "
+            "of country pubs and gastropubs set in the beech-wooded Chilterns landscape "
+            "-- an Area of Outstanding Natural Beauty that supplied the beech for "
+            "High Wycombe's famous Windsor chair-making industry. The General Havelock "
+            "in Wycombe Marsh sits at the edge of this world: a Fuller's local that "
+            "has held a Good Beer Guide listing for 35 consecutive years and shows no "
+            "sign of changing."
+        ),
+    ],
+    "visit": [
+        (
+            "The centre is compact and walkable. Kubik Cafe, Kappad and the Eden Centre "
+            "are a short stroll apart on and off the High Street, and the charter market "
+            "pitches close by on Tuesdays, Fridays and Saturdays. Noodle Nation sits on "
+            "Crown Lane, a few minutes on foot from the High Street, making it easy to "
+            "combine a coffee at Kubik with a noodle lunch."
+        ),
+        (
+            "The General Havelock is in Wycombe Marsh, roughly a mile south-east of the "
+            "centre along Kingsmead Road -- a short bus ride or taxi from the High Street. "
+            "Time it as an afternoon or evening destination after exploring the centre, "
+            "or combine it with the Sunday roast (served noon to 4pm) for a proper "
+            "Chilterns pub day."
+        ),
+    ],
+    "checklist": [
+        "Start at Kubik Cafe on the High Street for Italian espresso from 7am on weekdays",
+        "Walk down to Kappad for lunch -- the masala dosa and lamb black pepper fry are the orders to make",
+        "Check the charter market on Tuesdays, Fridays and Saturdays for street food and fresh produce",
+        "Cross to Crown Lane for Noodle Nation if you want Asian noodles -- generous portions at good prices",
+        "Head out to Wycombe Marsh for an evening pint at The General Havelock; four ales always on handpump",
+    ],
+    "what_to_order": (
+        "Order with intent. At Noodle Nation, the Singapore udon with char siu pork and king prawns "
+        "or a classic chow mein -- freshly cooked and generously portioned. At Kubik, a flat white "
+        "or espresso with a homemade pastry, or the full-English breakfast before 3pm. At Kappad, "
+        "open with a masala dosa -- golden and crisp with coconut chutney and sambar -- then the "
+        "lamb black pepper fry or the Calicut chicken biryani. At The General Havelock, a pint of "
+        "Fuller's London Pride or ask which seasonal is on the guest pump, and linger in the garden."
+    ),
+    "glance": [
+        ("Best for a quick bite", "Noodle Nation on Crown Lane for Hong Kong noodles since 2000"),
+        ("Best for an occasion", "Kappad on the High Street for award-winning Kerala cuisine"),
+        ("Best for atmosphere", "The General Havelock -- a Fuller's local in the Good Beer Guide since 1990"),
+    ],
+    "faq": [
+        (
+            "Where can I get the best South Indian food in High Wycombe?",
+            "Kappad at 21A High Street, opened in October 2017, is named Best Indian Restaurant "
+            "in Buckinghamshire at the Euro Asia Curry Awards 2024. The masala dosa, lamb black "
+            "pepper fry and Calicut chicken biryani are the dishes to order.",
+        ),
+        (
+            "Is there a good independent cafe for coffee in High Wycombe town centre?",
+            "Kubik Cafe at 29 High Street serves authentic Italian freshly ground espresso, "
+            "homemade pastries and cooked breakfast. It is open from 7am Monday to Friday and "
+            "9am Saturday, closing at 3pm, and is widely rated as the best coffee on the High Street.",
+        ),
+        (
+            "What is the oldest independent pub in High Wycombe for real ale?",
+            "The General Havelock on Kingsmead Road in Wycombe Marsh is a Fuller's pub that has "
+            "been run by the same family since 1986. It has appeared in the CAMRA Good Beer Guide "
+            "every year since 1990 and keeps four real ales on handpump at all times.",
+        ),
+        (
+            "Where can I get good Asian noodles in High Wycombe?",
+            "Noodle Nation at 5 Crown Lane has been a family-run noodle bar since 2000, inspired "
+            "by Hong Kong street cafes. The menu covers chow mein, Singapore udon, noodle soups "
+            "and stir-fries. Open seven days a week with dine-in, takeaway and delivery.",
+        ),
+        (
+            "Does High Wycombe have a traditional market?",
+            "Yes. High Wycombe's charter market dates back over 700 years, making it one of the "
+            "oldest in England. It runs on Tuesdays, Fridays and Saturdays in the Corn Market "
+            "area near the Guildhall, with street food alongside fresh produce and general stalls.",
+        ),
+        (
+            "Can you do a High Wycombe food day on foot?",
+            "The town centre is very walkable. Kubik Cafe, Kappad and Noodle Nation are all "
+            "within a few minutes of the High Street. The General Havelock is about a mile south-east "
+            "in Wycombe Marsh -- a short bus or taxi ride if you want to combine it with the centre.",
+        ),
+    ],
+}
+
+# blackburn (batch2) -----------------------------------------------
+TOWNS["blackburn"] = {
+    "region": "Lancashire",
+    "population": "120K",
+    "nearby": ["Darwen", "Accrington", "Burnley"],
+    "meta_title": "Best Places to Eat in Blackburn: Local Food Guide",
+    "meta_description": (
+        "Where to eat in Blackburn: a Whalley Range curry since 1966, "
+        "a Great Taste roastery, an award-winning Kerala kitchen and a "
+        "CAMRA micro pub. Read the guide."
+    ),
+    "trust_strip": (
+        "From a 1966 Whalley Range curry institution to a multi-award-winning "
+        "South Indian kitchen, Blackburn has one of the most distinctive food "
+        "scenes in the North West"
+    ),
+    "snapshot": (
+        "For a fast answer: Khyber Cafe on Whalley Range for a Pakistani curry "
+        "from a counter that has been open since 1966, Exchange Coffee Company "
+        "in the 1849 Fleming Square arcade for single-origin beans roasted on "
+        "site, Thira on Darwen Street for Kerala cooking that won South Indian "
+        "Restaurant of the Year at the 2025 English Curry Awards, and the "
+        "Drummer's Arms on King William Street for cask ale in a CAMRA-decorated "
+        "micro pub opposite the Town Hall. Four moods, one proud Lancashire mill town."
+    ),
+    "stats": [
+        ("1966", "Year Khyber Cafe first opened on Whalley Range"),
+        ("32", "Great Taste Awards won by Exchange Coffee Company"),
+        ("Whalley Range", "Blackburn's South Asian dining quarter"),
+        ("4", "Hand-picked independents"),
+    ],
+    "pivot_variant": "high-volume",
+    "pivot_local_hook": (
+        "Blackburn's South Asian kitchens run hot and long: a Whalley Range "
+        "curry house searing karahi dishes over fierce gas flames from 5 pm to "
+        "1 am generates a heavy continuous load of grease-laden vapour, and the "
+        "town's concentration of high-volume evening restaurants means canopies "
+        "and ductwork here work harder than in most Lancashire towns."
+    ),
+    "venues": [
+        {
+            "type": "Takeaway/Casual",
+            "name": "Khyber Cafe",
+            "area": "35 Whalley Range, Blackburn",
+            "cuisine": "Pakistani and Indian, dine-in and takeaway",
+            "body": (
+                "Whalley Range is Blackburn's South Asian dining quarter, a "
+                "stretch of curry houses, halal butchers and sweet shops that "
+                "Blackburn Council has compared to Manchester's Curry Mile. "
+                "Khyber Cafe has anchored it since 1966, making it one of the "
+                "oldest South Asian restaurants in Lancashire. The menu runs "
+                "to 20 specialty curries including Beef Tikka Bahar, Murgh "
+                "Samundari and Persian Masala, alongside kebabs and garlic "
+                "naan that regulars travel for. The kitchen is open from "
+                "5 pm to 1 am, serves both dine-in and takeaway, and has a "
+                "food hygiene inspection on record from March 2026. Some "
+                "customers have been coming for over forty years, which in a "
+                "town as curry-rich as Blackburn is the sharpest endorsement "
+                "the street can give."
+            ),
+            "known_for": "Specialty Pakistani curries on Whalley Range since 1966",
+            "good_for": "A late-evening curry in the heart of Blackburn's Asian quarter",
+            "source_url": "https://www.tripadvisor.co.uk/Restaurant_Review-g580406-d4698897-Reviews-Khyber_Cafe-Blackburn_Lancashire_England.html",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Cafe",
+            "name": "Exchange Coffee Company",
+            "area": "13-15 Fleming Square, Cathedral Quarter, Blackburn",
+            "cuisine": "Speciality coffee, roastery cafe",
+            "body": (
+                "Owner Mark Smith began roasting beans in his garden shed "
+                "around thirty years ago; today Exchange Coffee Company has "
+                "accumulated 32 Great Taste Awards and holds a position as "
+                "one of the North's most respected specialty coffee operations. "
+                "The Blackburn shop sits in the 1849 Exchange Arcade off "
+                "Fleming Square, close to the Cathedral: a run of Victorian "
+                "shopfronts housing a coffee house, roasting shop and a period "
+                "private dining room with original oak panelling and William "
+                "Morris wallpaper. The roastery itself occupies a converted "
+                "1764 Baptist chapel, where a 1978 Probat GN25 roaster "
+                "processes single-estate and micro-lot beans sourced direct. "
+                "Open Monday to Saturday 9 am to 5 pm, it is the right address "
+                "for a serious flat white and a bag of something exceptional "
+                "to take home."
+            ),
+            "known_for": "32 Great Taste Awards; single-estate beans roasted on site in a converted Baptist chapel",
+            "good_for": "A proper speciality coffee and beans to take home; beautiful Victorian surroundings",
+            "source_url": "https://exchangecoffee.co.uk/place/blackburn-coffee-house-roastery-and-shop/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Restaurant",
+            "name": "Thira Restaurant",
+            "area": "32 Darwen Street, Blackburn town centre",
+            "cuisine": "South Indian, Kerala",
+            "body": (
+                "Thira means wave in Malayalam, the language of Kerala, and "
+                "the restaurant brings the coastal cooking of southern India "
+                "to Blackburn town centre, two minutes from the train station "
+                "and bus station. The head chef brings two decades of "
+                "experience from five-star hotels including the Taj group, "
+                "and the menu is rooted in genuine Kerala technique: fragrant "
+                "coconut-based curries, crisp Masala Dosa filled with spiced "
+                "potato, Appam, Kozhikodan Biriyani and Prawn Moily. In "
+                "August 2025 Thira won South Indian Restaurant of the Year at "
+                "the English Curry Awards, and in late 2025 was announced as "
+                "a finalist for the 4th Nation's Curry Awards 2026. Open "
+                "Wednesday to Monday evenings, Tuesday closed. Book ahead "
+                "for weekends."
+            ),
+            "known_for": "South Indian Restaurant of the Year, English Curry Awards 2025; authentic Kerala cuisine",
+            "good_for": "A genuine South Indian dinner in the town centre - dosas, biriyani and coastal curries",
+            "source_url": "https://www.thira-restaurant.co.uk/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Pub",
+            "name": "The Drummer's Arms",
+            "area": "65 King William Street, Blackburn town centre",
+            "cuisine": "Real ale, micro pub",
+            "body": (
+                "The Drummer's Arms occupies a single room on the pedestrianised "
+                "King William Street opposite the Town Hall, its walls covered "
+                "in breweriana and old pub signs. It is a classic Lancashire "
+                "micro pub: ever-changing cask ales, Stoker's Slake mild a "
+                "regular on the pump, no fruit machines, no screen sports, "
+                "just well-kept beer and conversation. The pub was listed in "
+                "CAMRA's Good Beer Guide 2025 and has been named CAMRA Pub of "
+                "the Year for the area. In late 2025 it briefly closed before "
+                "reopening under the same team in November 2025, and it "
+                "continues to trade in 2026 with a reduced Monday-Tuesday "
+                "schedule. Open Sunday to Thursday noon to 7 pm, Friday and "
+                "Saturday to 10 pm; open for Blackburn Rovers home matches "
+                "regardless."
+            ),
+            "known_for": "CAMRA Good Beer Guide 2025, CAMRA Pub of the Year; changing local cask ales",
+            "good_for": "A proper pint in an unpretentious Lancashire micro pub two minutes from the town centre",
+            "source_url": "https://camra.org.uk/pubs/drummers-arms-blackburn-176353",
+            "verified": "2026-06-22",
+        },
+    ],
+    "food_scene": [
+        (
+            "Blackburn's food identity was shaped by the cotton industry. From "
+            "the mid-nineteenth century the town's mills drew workers from "
+            "Pakistan and India, and their communities put down permanent roots "
+            "in neighbourhoods like Whalley Range and Bastwell. Today Whalley "
+            "Range is Blackburn's South Asian dining quarter: a long stretch of "
+            "curry houses, halal butchers, South Asian confectioners and sweet "
+            "shops that the council has compared to Manchester's Curry Mile, "
+            "anchored by Khyber Cafe, which has been serving at number 35 since "
+            "1966."
+        ),
+        (
+            "The Cathedral Quarter around Fleming Square and Darwen Street "
+            "offers a different register. Exchange Coffee Company occupies the "
+            "Victorian Exchange Arcade, a survivor from 1849, roasting "
+            "single-estate beans a few doors from Blackburn Cathedral. A "
+            "short walk along Darwen Street, Thira brings Kerala cooking to "
+            "the town centre, and the covered Blackburn Market on King William "
+            "Street runs a food hall with stalls covering Indian, Turkish, "
+            "Chinese and English cooking. The Drummer's Arms, also on King "
+            "William Street, is the CAMRA-listed anchor for cask-ale drinkers."
+        ),
+        (
+            "The town's South Asian kitchens have attracted growing national "
+            "recognition. Thira's 2025 English Curry Awards win put Blackburn "
+            "on the map for Kerala cuisine; across Whalley Range the long-"
+            "established Pakistani and Bangladeshi restaurants maintain the "
+            "tradition that made the quarter famous. Blackburn is not a "
+            "destination for fine dining in the conventional sense, but for "
+            "breadth and authenticity of South Asian cooking it competes with "
+            "anywhere in the North West outside Manchester."
+        ),
+    ],
+    "visit": [
+        (
+            "The Cathedral Quarter is compact and walkable. Exchange Coffee "
+            "on Fleming Square, Thira on Darwen Street and the Drummer's Arms "
+            "on King William Street all sit within five minutes of each other "
+            "on foot, and Blackburn train station is a two-minute walk from "
+            "Thira. Whalley Range is about a mile east of the town centre, "
+            "a short bus ride or taxi from the Cathedral Quarter; the number "
+            "4 and 4A buses connect the two."
+        ),
+        (
+            "Time the day well and the pieces fit naturally: a morning coffee "
+            "at Exchange in the arcade, a browse of Blackburn Market, an "
+            "evening at Thira for a Kerala dinner, then a closing pint at the "
+            "Drummer's Arms. Khyber Cafe on Whalley Range opens at 5 pm and "
+            "runs to 1 am, so it works either as the dinner plan or as a "
+            "late-night addition. Most Blackburn parking is in the multi-storeys "
+            "off King William Street and Blakey Moor."
+        ),
+    ],
+    "checklist": [
+        "Visit Exchange Coffee in the 1849 Fleming Square arcade - it smells extraordinary when they are roasting",
+        "Book Thira ahead for Friday and Saturday evenings; it fills up quickly",
+        "Head to Whalley Range for Khyber Cafe - it opens at 5 pm and runs to 1 am",
+        "Call in at the Drummer's Arms on King William Street for a pint of whatever is on the pump",
+        "Blackburn train station connects direct to Manchester Victoria and Preston - no need to drive",
+    ],
+    "what_to_order": (
+        "Order with intent. At Khyber Cafe, ask the staff what the kitchen is "
+        "proud of that evening - the specialty curries and garlic naan are the "
+        "constants. At Exchange Coffee, ask which single-estate bean is on the "
+        "espresso and consider a bag to take home. At Thira, the Masala Dosa "
+        "and Kozhikodan Biriyani are the signatures, or surrender to whatever "
+        "the chef is running as a Kerala special. At the Drummer's Arms, take "
+        "whatever is on the handpump and ask about the provenance - the staff know."
+    ),
+    "glance": [
+        ("Best for a quick bite", "Khyber Cafe, for a Whalley Range curry that has been feeding Blackburn since 1966"),
+        ("Best for an occasion", "Thira, for award-winning Kerala cooking two minutes from the train station"),
+        ("Best for atmosphere", "The Drummer's Arms, CAMRA-listed micro pub with breweriana walls and local cask ale"),
+    ],
+    "faq": [
+        (
+            "What is Blackburn famous for in terms of food?",
+            "Blackburn is known for its South Asian food scene, rooted in the "
+            "Pakistani and Indian communities that settled here from the "
+            "mid-twentieth century to work in the cotton mills. Whalley Range "
+            "is the main South Asian dining quarter, often compared to "
+            "Manchester's Curry Mile, and the town has a long tradition of "
+            "high-quality, authentic curry houses.",
+        ),
+        (
+            "Where can I eat authentic South Asian food in Blackburn?",
+            "Whalley Range is the main address. Khyber Cafe at number 35 has "
+            "been serving Pakistani and Indian cooking since 1966 and is one "
+            "of the longest-established South Asian restaurants in Lancashire. "
+            "Open 5 pm to 1 am, dine-in and takeaway.",
+        ),
+        (
+            "Does Blackburn have any award-winning restaurants?",
+            "Yes. Thira Restaurant on Darwen Street won South Indian Restaurant "
+            "of the Year at the English Curry Awards in August 2025, and was "
+            "named a finalist for the Nation's Curry Awards 2026. The kitchen "
+            "specialises in authentic Kerala cuisine and is open Wednesday to "
+            "Monday evenings.",
+        ),
+        (
+            "Where is the best coffee in Blackburn?",
+            "Exchange Coffee Company on Fleming Square in the Cathedral Quarter "
+            "is the standout. The independent roaster-cafe has won 32 Great "
+            "Taste Awards and roasts single-estate beans on site in a converted "
+            "1764 Baptist chapel. The Blackburn shop is in the 1849 Exchange "
+            "Arcade and opens Monday to Saturday 9 am to 5 pm.",
+        ),
+        (
+            "Which Blackburn pub is in the CAMRA Good Beer Guide?",
+            "The Drummer's Arms on King William Street, a micro pub opposite "
+            "the Town Hall, is listed in the CAMRA Good Beer Guide 2025 and "
+            "has been named CAMRA Pub of the Year for the area. It serves "
+            "changing cask ales including Stoker's Slake mild, open from "
+            "noon daily (reduced Monday-Tuesday hours in 2026).",
+        ),
+        (
+            "How do I get to Blackburn by public transport?",
+            "Blackburn train station is on the East Lancashire line with direct "
+            "services to Manchester Victoria and Preston. The station is a "
+            "two-minute walk from Thira Restaurant and five minutes from "
+            "Exchange Coffee on Fleming Square. Buses connect the town centre "
+            "to Whalley Range for Khyber Cafe.",
+        ),
+    ],
+}
+
+# maidstone (batch2) -----------------------------------------------
+TOWNS["maidstone"] = {
+    "region": "Kent",
+    "population": "115K",
+    "nearby": ["Chatham", "Rochester", "Sittingbourne"],
+    "meta_title": "Best Places to Eat in Maidstone: Local Food Guide",
+    "meta_description": (
+        "Where to eat in Maidstone: an award-winning Bangladeshi takeaway, "
+        "a coffee house, a French bistro and a real ale free house. "
+        "Read the guide."
+    ),
+    "trust_strip": (
+        "From a prize-winning Bangladeshi takeaway to a French bistro in a "
+        "Victorian market hall, Maidstone punches well above its size as a "
+        "county-town food destination"
+    ),
+    "snapshot": (
+        "For a fast answer: Jhal Chilli on Union Street for Bangladeshi "
+        "cooking that won the 2026 Kent and Medway Takeaway of the Year, "
+        "Matestone Coffee and Tea House on Gabriel's Hill for a proper "
+        "independent coffee stop, Frederic Bistro at Market Buildings for "
+        "French provincial cooking from a chef-patron who has been there "
+        "since 2012, and The Flower Pot on Sandling Road for eight "
+        "handpumps and a beer festival that has been running for over two "
+        "decades. Four moods, one county town on the Medway."
+    ),
+    "stats": [
+        ("115K", "Population of Maidstone (approx)"),
+        ("1682", "Year of the Maidstone Hop Fair charter"),
+        ("8", "Handpumps at The Flower Pot"),
+        ("4", "Hand-picked independents"),
+    ],
+    "pivot_variant": "market-town",
+    "pivot_local_hook": (
+        "Maidstone's Market Buildings and Earl Street kitchens run hard "
+        "through lunch and dinner service in a compact town centre, and "
+        "the bistro burners, deep fryers and tandoor ovens that drive the "
+        "county-town dining scene push a heavy load of grease-laden vapour "
+        "into their canopies every service."
+    ),
+    "venues": [
+        {
+            "type": "Takeaway",
+            "name": "Jhal Chilli",
+            "area": "61 Union Street, town centre",
+            "cuisine": "Bangladeshi and Indian",
+            "body": (
+                "Jhal Chilli on Union Street is as well-regarded as any takeaway "
+                "in Kent, and the trophies back it up: co-owners Ruhul Tarafder "
+                "and chef Iqbal Hussain won the Kent and Medway Food and Drink "
+                "Awards Takeaway of the Year in 2026, the only Bangladeshi "
+                "restaurant in the competition's history to have taken the top "
+                "prize. Tarafder's father ran Indian restaurants from Ross-on-Wye "
+                "to Tenterden, and included one of the first Indian restaurants "
+                "in Maidstone, so the family connection to this town runs deep. "
+                "The menu ranges from familiar curries to more unusual lines like "
+                "ostrich jalfrezi and honey-glazed duck, and the lamb rezalla and "
+                "tarka dhal are regulars on reviewers' must-order lists. Open "
+                "every evening from 5pm; delivery or collection."
+            ),
+            "known_for": "Award-winning Bangladeshi cooking, ostrich jalfrezi, lamb rezalla",
+            "good_for": "An evening delivery or collection with something genuinely different",
+            "source_url": "https://www.kentonline.co.uk/news/native/these-pubs-hotels-restaurants-and-chefs-have-been-named-th-339382/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Cafe",
+            "name": "Matestone Coffee and Tea House",
+            "area": "23 Gabriel's Hill, town centre",
+            "cuisine": "Speciality coffee, homemade bakes",
+            "body": (
+                "Gabriel's Hill is the steep cobbled street that connects "
+                "Maidstone's high street to the River Medway below, lined with "
+                "independent shops, and Matestone is its coffee anchor. "
+                "This independently run coffee and tea house occupies a warm, "
+                "book-and-board-game-lined room bespoke-furnished and hung with "
+                "work by local artists, and sources its produce locally wherever "
+                "it can. The coffee is taken seriously, made with quality beans "
+                "and served properly, and the bakes, particularly the carrot cake "
+                "and almond croissants, draw regulars back every week. Rated "
+                "4.7 stars across review platforms, it opens Tuesday to Sunday "
+                "from 8am and is a reliable spot before or after a walk to the "
+                "river or the Archbishop's Palace."
+            ),
+            "known_for": "Quality coffee, carrot cake, local artwork, board games",
+            "good_for": "A relaxed mid-morning stop on Gabriel's Hill",
+            "source_url": "https://matestone.wixsite.com/matestone",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Restaurant",
+            "name": "Frederic Bistro",
+            "area": "14-16 Market Buildings, town centre",
+            "cuisine": "French provincial, bistro",
+            "body": (
+                "Tucked into the Victorian Market Buildings arcade near the "
+                "Royal Star Arcade, Frederic Bistro has been one of Maidstone's "
+                "most-discussed independent restaurants since chef-patron Ulric "
+                "opened it in 2012. The offer is unapologetically French: "
+                "provincial peasant food cooked from scratch with seasonal "
+                "produce, served in a rustically furnished room alongside an "
+                "extraordinary cellar of over 400 French wines, 90-plus rums "
+                "and more than 30 French cheeses from the adjoining cheese and "
+                "wine shop. Croque monsieurs at lunch give way to beef "
+                "bourguignon and duck confit in the evenings. Open for lunch "
+                "Monday to Saturday and dinner Wednesday to Saturday; the "
+                "expanded Maison Frederic on Earl Street now handles the "
+                "overflow. Book ahead for evenings."
+            ),
+            "known_for": "French provincial cooking, 400-wine cellar, cheese shop",
+            "good_for": "A proper French dinner or a long lunch with wine in town",
+            "source_url": "https://www.fredericbistro.com/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Pub",
+            "name": "The Flower Pot",
+            "area": "96 Sandling Road, north of the town centre",
+            "cuisine": "Real ale and pub food",
+            "body": (
+                "The Flower Pot on Sandling Road is Maidstone's foremost "
+                "real ale pub: a free house with eight handpumps serving a "
+                "rotating cast of ales from microbreweries, up to four ciders "
+                "and perries, and a KeyKeg range for good measure. CAMRA's "
+                "Maidstone and Mid Kent branch lists it as a flagship, and the "
+                "annual Flower Pot Beer, Cider and Music Festival, which "
+                "reached its 24th edition in June 2026, draws enthusiasts from "
+                "across Kent for 34-plus ales across a long weekend. The upper "
+                "bar has a log fire in winter; the lower bar hosts a weekly "
+                "Tuesday jam session and occasional weekend music nights. "
+                "Food is served Wednesday to Saturday. The pub opens from noon "
+                "daily, late at weekends."
+            ),
+            "known_for": "Eight handpumps, annual beer festival, CAMRA-listed free house",
+            "good_for": "A serious pint of cask ale in a genuine community pub",
+            "source_url": "https://mmk.camra.org.uk/viewnode.php?id=102792",
+            "verified": "2026-06-22",
+        },
+    ],
+    "food_scene": [
+        (
+            "Maidstone's food map is shaped by its history as Kent's county town "
+            "and river port. The Market Buildings arcade, built in the late "
+            "Victorian era beside the Royal Star Arcade, has become an unlikely "
+            "enclave of independent eating, with Frederic Bistro the most "
+            "prominent occupant. Gabriel's Hill, the steep cobbled street "
+            "running down to the River Medway, is lined with independents "
+            "including Matestone Coffee and Tea House, and the riverside itself "
+            "carries a cluster of casual eating and drinking spots."
+        ),
+        (
+            "Earl Street is the town's main dining corridor, where chains sit "
+            "alongside independents including La Taberna's Spanish tapas at "
+            "Corpus Christi Hall and the takeaway strip on Union Street. "
+            "Maidstone has a deep history with Bangladeshi and South Asian "
+            "cooking that traces back to some of the earliest Indian restaurants "
+            "in Kent, and that tradition is carried forward today by Jhal Chilli, "
+            "which won the county's top takeaway prize in 2026."
+        ),
+        (
+            "Maidstone's relationship with brewing and hops stretches back to a "
+            "1682 royal charter for a hop fair, and the town once supported eight "
+            "working breweries. That heritage has left a culture of real ale "
+            "appreciation, and the Flower Pot on Sandling Road is its current "
+            "home: a CAMRA-listed free house that hosts one of Kent's most-loved "
+            "annual beer festivals. The county town sits at the heart of the "
+            "Garden of England, and the farms, orchards and hop gardens of the "
+            "Medway valley supply much of what the town's best kitchens cook."
+        ),
+    ],
+    "visit": [
+        (
+            "Most of these venues cluster within a ten-minute walk of the "
+            "town centre. Market Buildings and Gabriel's Hill are a short "
+            "stroll from Maidstone East station, and the Archbishop's Palace "
+            "and River Medway are close by. Jhal Chilli on Union Street is "
+            "a five-minute walk from the high street. The Flower Pot on "
+            "Sandling Road sits about fifteen minutes north on foot, or a "
+            "short bus ride from the town centre."
+        ),
+        (
+            "A day in Maidstone flows well: coffee at Matestone on Gabriel's "
+            "Hill, a wander through the Market Buildings to see if Frederic "
+            "Bistro has a lunch table, an afternoon by the Medway, then either "
+            "a Jhal Chilli order for the evening or the walk up to the Flower "
+            "Pot for a pint of cask ale and the Tuesday jam session. If you are "
+            "visiting during the Flower Pot Beer Festival in late June, book "
+            "everything else around it."
+        ),
+    ],
+    "checklist": [
+        "Start at Matestone Coffee on Gabriel's Hill before the town gets busy",
+        "Walk through Market Buildings and book a table at Frederic Bistro for dinner",
+        "Follow Gabriel's Hill down to the River Medway and the Archbishop's Palace",
+        "Order from Jhal Chilli on Union Street; try the lamb rezalla or the honey-glazed duck",
+        "Head to The Flower Pot on Sandling Road for cask ale, live music or the annual beer festival",
+    ],
+    "what_to_order": (
+        "Order with intent. At Jhal Chilli, the lamb rezalla is the local "
+        "recommendation, with tarka dhal on the side and the ostrich jalfrezi "
+        "if you want something unusual. At Matestone, ask for the carrot cake "
+        "with whatever single origin is on the coffee machine. At Frederic "
+        "Bistro, surrender to the French provincial menu: beef bourguignon or "
+        "duck confit in the evenings, a croque monsieur and a glass from the "
+        "400-bottle French wine list at lunch. At The Flower Pot, ask the "
+        "bar staff which microbrewery ale just came on and take it to the "
+        "upper bar by the log fire."
+    ),
+    "glance": [
+        ("Best for a quick bite", "Jhal Chilli, for the county's award-winning Bangladeshi takeaway"),
+        ("Best for an occasion", "Frederic Bistro, for French provincial cooking in the Victorian Market Buildings"),
+        ("Best for atmosphere", "The Flower Pot, for eight handpumps and live music on Sandling Road"),
+    ],
+    "faq": [
+        (
+            "What is the best takeaway in Maidstone?",
+            "Jhal Chilli on Union Street won Takeaway of the Year at the 2026 Kent and Medway "
+            "Food and Drink Awards. Run by co-owners Ruhul Tarafder and chef Iqbal Hussain, it "
+            "serves Bangladeshi and Indian cooking including lamb rezalla, honey-glazed duck and "
+            "the more unusual ostrich jalfrezi. Open every evening from 5pm."
+        ),
+        (
+            "Where can I get good coffee in Maidstone town centre?",
+            "Matestone Coffee and Tea House at 23 Gabriel's Hill is the town's best-rated "
+            "independent coffee stop, open Tuesday to Sunday from 8am. It serves quality "
+            "espresso-based drinks alongside homemade bakes in a relaxed, book-lined room "
+            "with local artwork on the walls."
+        ),
+        (
+            "Which is the best independent restaurant in Maidstone?",
+            "Frederic Bistro at 14-16 Market Buildings has been Maidstone's most celebrated "
+            "independent restaurant since chef-patron Ulric opened it in 2012. It serves "
+            "French provincial cooking from scratch alongside over 400 French wines and more "
+            "than 30 cheeses from the adjoining cheese shop. Book ahead for evenings."
+        ),
+        (
+            "Where is the best real ale pub in Maidstone?",
+            "The Flower Pot at 96 Sandling Road is a CAMRA-listed free house with eight "
+            "handpumps serving rotating ales from microbreweries, plus ciders and perries. "
+            "It hosts an annual Beer, Cider and Music Festival every June, which reached "
+            "its 24th edition in 2026."
+        ),
+        (
+            "What is Maidstone known for as a food town?",
+            "Maidstone is the county town of Kent, the Garden of England, and has a long "
+            "history with hops and brewing, including a royal hop fair charter from 1682. "
+            "The town has a strong South Asian takeaway tradition and an emerging independent "
+            "restaurant scene centred on Market Buildings, Gabriel's Hill and Earl Street."
+        ),
+        (
+            "Is Maidstone good for a food day out?",
+            "Yes. Coffee at Matestone on Gabriel's Hill, lunch or dinner at Frederic Bistro "
+            "in the Market Buildings, a Jhal Chilli order for an easy evening meal, and "
+            "real ale at The Flower Pot all sit within a short walk or bus ride of Maidstone "
+            "East and West stations. The Archbishop's Palace and the River Medway are close "
+            "to most of these stops."
+        ),
+    ],
+}
+
+# basingstoke (batch2) -----------------------------------------------
+TOWNS["basingstoke"] = {
+    "region": "Hampshire",
+    "population": "108K",
+    "nearby": ["Andover", "Aldershot", "Farnborough"],
+    "meta_title": "Best Places to Eat in Basingstoke: Food Guide",
+    "meta_description": (
+        "Where to eat in Basingstoke: South Indian dosas on London Street, Thai fine "
+        "dining, a specialty coffee house and a riverside mill pub. Read the guide."
+    ),
+    "trust_strip": (
+        "From a South Indian cocktail bar on ancient London Street to a Wadworth "
+        "riverside mill, Basingstoke has a sharper independent food scene than its "
+        "corporate-hub reputation suggests"
+    ),
+    "snapshot": (
+        "For a fast answer: Elai on London Street for South Indian dosas and "
+        "cocktails in a 1,400-year-old building, Willows Coffee House on Church "
+        "Street for specialty coffee and sourdough in the old town, The Lime Leaf "
+        "on London Street for authentic Thai fine dining in a 15th-century room, "
+        "and Bartons Mill in Old Basing for Wadworth cask ale and riverside British "
+        "cooking a mile from the ruins of Basing House. Four moods, one Hampshire "
+        "market town."
+    ),
+    "stats": [
+        ("108K", "Population (approx)"),
+        ("2007", "Year The Lime Leaf opened on London Street"),
+        ("Old Basing", "Village heart of the local pub scene"),
+        ("4", "Hand-picked independents"),
+    ],
+    "pivot_variant": "market-town",
+    "pivot_local_hook": (
+        "Basingstoke is a compact market town whose hospitality kitchens range from "
+        "a South Indian dosa station running through lunch and dinner to a riverside "
+        "mill pub serving all day seven days a week, and the cumulative grease load "
+        "across those canopies is higher than the town-centre footprint suggests."
+    ),
+    "venues": [
+        {
+            "type": "Restaurant",
+            "name": "Elai",
+            "area": "Anchor Court, 28 London Street, town centre",
+            "cuisine": "South Indian, cocktail bar",
+            "body": (
+                "Opened in 2021 by Nidhin Satheesan and Unni Bala, two hospitality "
+                "professionals with more than forty years of combined experience "
+                "between the Hilton Group and AA Red Star hotels, Elai is housed in "
+                "a 1,400-year-old building on London Street and looks more like a "
+                "smart Shoreditch bar than a Hampshire curry house. The cooking "
+                "honours the South Indian tradition straight: masala dosa arrives "
+                "crisp from the pan with sambar and coconut chutney, kerala parathas "
+                "are flaky and layered, and the clay-pot chattichoru (rice and "
+                "curry, sealed and slow-cooked) is the dish regulars come back for. "
+                "A full cocktail list and halal kitchen make it one of the most "
+                "versatile independents in town. In 2026 it was recognised with a "
+                "hospitality award for exceptional standards and warm service."
+            ),
+            "known_for": "Masala dosa, kerala parathas and clay-pot chattichoru",
+            "good_for": "A proper South Indian dinner or a long cocktail evening",
+            "source_url": "https://www.elai.uk/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Cafe",
+            "name": "Willows Coffee House",
+            "area": "37 Church Street, old town",
+            "cuisine": "Specialty coffee, sourdough, homemade cakes",
+            "body": (
+                "Willows opened in August 2020 in a corner unit on Church Street, "
+                "the old lane that runs from the market place down towards the "
+                "bottom of town. The coffee is sourced from independent roasters "
+                "in Winchester and the surrounding area, served as espresso or "
+                "filter in a room that pairs a relaxed Amsterdam-cafe feel with a "
+                "strong community ethos: over 150 local Basingstoke businesses, "
+                "charities and individuals have been supported since opening. The "
+                "food is built around sourdough toasties, freshly baked cakes and "
+                "pastries, and a broad range of vegan, vegetarian and low-gluten "
+                "options. It is dog-friendly, has a basement seating area and "
+                "serves as a Food Bank pick-up point. Under new ownership since "
+                "mid-2025, it remains the town's best independent coffee stop."
+            ),
+            "known_for": "Locally roasted specialty coffee, sourdough toasties and lemon muffins",
+            "good_for": "A morning coffee break or a laptop-friendly afternoon in the old town",
+            "source_url": "https://www.willowscoffeehouse.com/",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Restaurant",
+            "name": "The Lime Leaf",
+            "area": "25-25a London Street, Top of Town",
+            "cuisine": "Authentic Thai fine dining",
+            "body": (
+                "Founded in 2007 by a retired British diplomat who spent years "
+                "working in Thailand, The Lime Leaf occupies a 15th-century "
+                "building at the Top of Town, a few steps from the market place. "
+                "The colourful, individually designed dining rooms are as much a "
+                "talking point as the food, and the kitchen has spent nearly two "
+                "decades earning its reputation as the best Thai restaurant in "
+                "Hampshire. The menu spans the length of the country: fragrant "
+                "tom kha gai, red and green curries made to order with freshly "
+                "ground paste, whole sea bass in chilli and lime, and sticky "
+                "mango desserts. Lunch and dinner service runs Tuesday to Saturday; "
+                "takeaway is collection-only. Booking is recommended, particularly "
+                "at weekends."
+            ),
+            "known_for": "Authentic Thai cooking in a historic 15th-century town-centre building",
+            "good_for": "A special dinner or a long Thai lunch in one of Hampshire's best independents",
+            "source_url": "https://www.tripadvisor.co.uk/Restaurant_Review-g187054-d1381961-Reviews-The_Lime_Leaf-Basingstoke_Hampshire_England.html",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Pub",
+            "name": "Bartons Mill",
+            "area": "Bartons Lane, Old Basing (1 mile east of the town centre)",
+            "cuisine": "British pub and restaurant food",
+            "body": (
+                "Bartons Mill stopped grinding flour in 1965 and opened as a "
+                "restaurant in 1979; it is now a Wadworth riverside pub, restaurant "
+                "and twelve-bedroom hotel in the village of Old Basing. The building "
+                "sits above the River Loddon with a working water wheel still in "
+                "place, and the beer garden backs onto the river where swans and "
+                "otters are regular visitors. Inside, wooden floors, exposed beams "
+                "and log fires make it the sort of pub that draws locals year-round. "
+                "Wadworth serves six cask ales including 6X alongside Folly Road "
+                "craft beers from its own brewery; the kitchen leans into British "
+                "seasonal cooking and is worth visiting for a Sunday lunch or an "
+                "evening meal. It sits a short walk from the picturesque ruins of "
+                "Basing House, a Tudor great house destroyed in the Civil War."
+            ),
+            "known_for": "Six Wadworth cask ales, riverside setting and a working water wheel",
+            "good_for": "A proper country pub lunch or an evening pint by the River Loddon",
+            "source_url": "https://www.bartonsmillpubanddining.co.uk/",
+            "verified": "2026-06-22",
+        },
+    ],
+    "food_scene": [
+        (
+            "Basingstoke's food map splits neatly between the old town around London "
+            "Street and Church Street, and the village of Old Basing a mile east. "
+            "London Street, which climbs from Festival Place to the medieval market "
+            "place, holds the town's most distinctive independent restaurants: The "
+            "Lime Leaf has anchored Thai fine dining in a 15th-century building here "
+            "since 2007, and Elai brought a South Indian-led dining room to an "
+            "ancient Anchor Court building in 2021. Church Street, the parallel "
+            "lane running from the same market place, is where Willows keeps the "
+            "town's best independent coffee."
+        ),
+        (
+            "Festival Place, the large shopping centre at the foot of town, is "
+            "dominated by national chains, but the market itself is worth seeking "
+            "out: a Wednesday and Saturday general market on Market Place and Wote "
+            "Street brings fresh produce, meat and street food to the town centre. "
+            "The Wednesday market is one of the oldest trading fixtures in North "
+            "Hampshire and gives the town its market-town character despite the "
+            "post-war expansion."
+        ),
+        (
+            "Old Basing sits to the east and provides the pub complement: three "
+            "CAMRA-listed pubs in a single Hampshire village, anchored by Bartons "
+            "Mill on the River Loddon. The village is built around the ruins of "
+            "Basing House, the largest private house in Tudor England, and the walk "
+            "from the ruins to Bartons Mill along the river bank is as good a "
+            "Hampshire afternoon as the county offers."
+        ),
+    ],
+    "visit": [
+        (
+            "The town-centre picks are tightly clustered. Willows Coffee House on "
+            "Church Street, The Lime Leaf and Elai on London Street, and the "
+            "Wednesday and Saturday market on Wote Street are all within a few "
+            "minutes' walk of each other and of Basingstoke railway station. The "
+            "station sits at the bottom of town and puts the whole London Street "
+            "corridor within a ten-minute walk."
+        ),
+        (
+            "Bartons Mill in Old Basing is about a mile east of the town centre, "
+            "best reached by taxi or a pleasant walk along the River Loddon. "
+            "Combine it with a visit to Basing House ruins for an afternoon that "
+            "takes in 1,000 years of Hampshire history. The Saturday morning "
+            "pattern works well: market browsing, coffee at Willows, lunch or "
+            "dinner at Elai or The Lime Leaf, and Bartons Mill as an evening "
+            "destination or a Sunday-lunch ending."
+        ),
+    ],
+    "checklist": [
+        "Hit the Wednesday or Saturday market on Wote Street for local produce and street food",
+        "Start with coffee at Willows on Church Street before exploring the old town",
+        "Book The Lime Leaf ahead, especially Fridays and Saturdays",
+        "Walk out to Old Basing to see Basing House ruins, then finish at Bartons Mill",
+        "Reserve a table at Elai if you want the private room or a busy evening slot",
+    ],
+    "what_to_order": (
+        "Order with intent. At Elai, the masala dosa or the clay-pot chattichoru, "
+        "and one of the house cocktails. At Willows, a filter coffee made from "
+        "Winchester-roasted beans and a sourdough toastie. At The Lime Leaf, ask "
+        "the kitchen for a green curry and the whole sea bass in chilli and lime. "
+        "At Bartons Mill, a pint of Wadworth 6X and the Sunday roast, taken in a "
+        "window seat overlooking the river."
+    ),
+    "glance": [
+        ("Best for a quick bite", "Elai, for a South Indian dosa lunch on London Street"),
+        ("Best for an occasion", "The Lime Leaf, for Thai fine dining in a 15th-century room"),
+        ("Best for atmosphere", "Bartons Mill's riverside setting with a working water wheel"),
+    ],
+    "faq": [
+        (
+            "Where is the best South Indian food in Basingstoke?",
+            "Elai on London Street, opened in 2021 by two hospitality professionals "
+            "with Hilton Group backgrounds, serves masala dosa, kerala parathas and "
+            "clay-pot chattichoru in a 1,400-year-old building at Anchor Court. "
+            "It also runs a full cocktail bar and is halal-certified."
+        ),
+        (
+            "Where is the best Thai restaurant in Basingstoke?",
+            "The Lime Leaf at 25-25a London Street, founded in 2007 by a retired "
+            "diplomat with years of experience in Thailand, is widely regarded as "
+            "the best Thai restaurant in Hampshire. It sits in a 15th-century "
+            "building at the Top of Town and serves lunch and dinner Tuesday to "
+            "Saturday, booking recommended."
+        ),
+        (
+            "Where can I get good independent coffee in Basingstoke?",
+            "Willows Coffee House at 37 Church Street, open since August 2020, "
+            "serves specialty coffee from independent roasters in Winchester and "
+            "the surrounding area. It is dog-friendly, community-focused and "
+            "offers sourdough toasties and homemade cakes."
+        ),
+        (
+            "Which is the best country pub near Basingstoke?",
+            "Bartons Mill in Old Basing, a converted mill on the River Loddon that "
+            "opened as a pub in 1979, serves six Wadworth cask ales including 6X "
+            "alongside Folly Road craft beers from its own Wiltshire brewery. The "
+            "riverside beer garden and log-fire interior make it a year-round "
+            "destination, and it sits a short walk from the ruins of Basing House."
+        ),
+        (
+            "Is there a market in Basingstoke?",
+            "Yes. A general market runs on Wote Street and Market Place on "
+            "Wednesdays and Saturdays, 9am to 4pm, with fresh produce, meat, "
+            "eggs and street food stalls. It is one of the oldest trading fixtures "
+            "in North Hampshire and reflects the town's market-town origins."
+        ),
+        (
+            "How do I get around Basingstoke to eat well?",
+            "The London Street and Church Street venues are all within a short walk "
+            "of Basingstoke railway station at the foot of town. Bartons Mill in "
+            "Old Basing is about a mile east, best reached by taxi or a pleasant "
+            "walk along the River Loddon. The whole town is compact enough that "
+            "you can cover it on foot in a day."
+        ),
+    ],
+}
+
+# crawley (batch2) -----------------------------------------------
+TOWNS["crawley"] = {
+    "region": "West Sussex",
+    "population": "118,500",
+    "nearby": ["Horsham", "Haywards Heath", "Horley"],
+    "meta_title": "Best Places to Eat in Crawley: Local Food Guide",
+    "meta_description": (
+        "Where to eat in Crawley: an Afghan canteen, a Portuguese cafe, an "
+        "award-winning Indian buffet and a 600-year-old real ale pub. Read the guide."
+    ),
+    "trust_strip": (
+        "From a medieval High Street pub to a South East award-winning Indian "
+        "buffet, Crawley punches well above its new-town reputation"
+    ),
+    "snapshot": (
+        "For a fast answer: Fatboys Joint on the Broadway for Afghan chapli kebab "
+        "and artisan burgers, Cafe Santa Maria in Broadfield for Portuguese "
+        "pasteis de nata and prego rolls, Tamashah on the High Street for its "
+        "award-winning 50-dish Indian and Thai buffet, and the Brewery Shades for "
+        "eight real ales inside a Grade II listed timber hall that has been a pub "
+        "since the 1400s. Four moods, one compact new town."
+    ),
+    "stats": [
+        ("118,500", "Population (2021 census)"),
+        ("1947", "Year Crawley was designated a new town"),
+        ("14", "Self-contained neighbourhoods around the centre"),
+        ("4", "Hand-picked independents"),
+    ],
+    "pivot_variant": "high-volume",
+    "pivot_local_hook": (
+        "Crawley sits at the edge of Gatwick Airport, the world's busiest single-"
+        "runway airport: the town's kitchens run near-continuously through early "
+        "breakfasts, all-day trade, and late returns, loading their canopies with "
+        "a steady, heavy grease burden that builds fast."
+    ),
+    "venues": [
+        {
+            "type": "Takeaway/Casual",
+            "name": "Fatboys Joint Afghan Canteen",
+            "area": "The Broadway, town centre",
+            "cuisine": "Afghan, artisan burgers",
+            "body": (
+                "There are not many places in West Sussex cooking Qabuli pilau and "
+                "chapli kebab, but Fatboys Joint has been doing exactly that from its "
+                "canteen on The Broadway since around 2015. The menu is built around "
+                "Afghan home cooking: the chapli kebab -- a spiced minced-lamb patty "
+                "griddled flat and served with flatbread -- is the signature, alongside "
+                "a tandoori mixed grill of lamb, chicken and kobeda kebab and a slow-"
+                "cooked Qabuli pilau fragrant with raisins and carrots. The kitchen also "
+                "makes artisan burgers and a vegan tarka daal, and all meat is HMC-"
+                "certified halal. It is a compact, informal canteen with eat-in and "
+                "takeaway, and the lunch meal-deal makes it one of the best-value plates "
+                "in the town centre."
+            ),
+            "known_for": "Chapli kebab, Qabuli pilau and HMC halal Afghan canteen cooking",
+            "good_for": "A generous lunch or takeaway unlike anything else in Crawley",
+            "source_url": "https://www.opentable.co.uk/r/fatboys-joint-crawley",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Cafe",
+            "name": "Cafe Santa Maria",
+            "area": "Broadfield Barton, Broadfield neighbourhood",
+            "cuisine": "Portuguese, all-day cafe",
+            "body": (
+                "Tucked into the Broadfield neighbourhood shopping parade, Cafe Santa "
+                "Maria is both a cafe and a Portuguese grocery -- you eat a prego roll "
+                "or a pastel de nata at the counter and then pick up a bottle of Vinho "
+                "Verde on the way out. The prego, a marinated beef steak in a soft roll, "
+                "is the main event, and the custard tarts are baked to the proper "
+                "Belem recipe with a lightly charred pastry case. The breakfast is "
+                "generous and priced for the neighbourhood rather than the high street. "
+                "Staff are welcoming and regulars gather here on weekend mornings in the "
+                "way they would at a proper Portuguese pastelaria, making it one of the "
+                "most genuinely local cafes in the borough. Food hygiene rating 5, "
+                "confirmed June 2026."
+            ),
+            "known_for": "Pasteis de nata, prego rolls and a proper neighbourhood Portuguese welcome",
+            "good_for": "Breakfast or a mid-morning coffee with something baked",
+            "source_url": "https://ratings.food.gov.uk/business/190391",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Restaurant",
+            "name": "Tamashah",
+            "area": "High Street, Old Town",
+            "cuisine": "Indian and Thai buffet",
+            "body": (
+                "Tamashah sits on Crawley's medieval High Street and won Best Restaurant "
+                "in the South East at the Asian Restaurant and Takeaway Awards in 2019 -- "
+                "an accolade that brought it national attention. The format is a "
+                "50-plus-dish buffet of freshly cooked Indian and Thai food served across "
+                "two floors, with a lounge bar and late-night dancing upstairs at "
+                "weekends. The kitchen cycles through classic North Indian curries, "
+                "tandoori grills, Thai stir-fries and a salad bar, with traditional "
+                "desserts including gulab jamun and halwa. The price is a fraction of "
+                "comparable restaurant meals, which is why the dining room fills fast. "
+                "Bookable on OpenTable and available on Deliveroo, with recent reviews "
+                "on TripAdvisor confirming it is trading strongly into 2026."
+            ),
+            "known_for": "Award-winning 50-dish Indian and Thai buffet on the historic High Street",
+            "good_for": "A relaxed group meal with something for every appetite",
+            "source_url": "https://www.opentable.co.uk/r/tamashah-crawley",
+            "verified": "2026-06-22",
+        },
+        {
+            "type": "Pub",
+            "name": "Brewery Shades",
+            "area": "High Street, Old Town",
+            "cuisine": "British pub food, real ale",
+            "body": (
+                "The Brewery Shades has stood on Crawley's High Street since at least the "
+                "1400s, making it one of the oldest buildings in the town. At its heart is "
+                "a 15th-century timber-framed open hall-house -- complete with the "
+                "subterranean cells where prisoners were held before execution -- that was "
+                "given a chimney stack and extra storey in the 17th century and has been "
+                "a Grade II listed building since. The pub pours up to eight real ales and "
+                "up to six ciders at any one time, usually with at least one dark ale on, "
+                "and the food leans into British classics. It has been in CAMRA's Good "
+                "Beer Guide every year since 2012 and was North Sussex CAMRA Pub of the "
+                "Year and Cider Pub of the Year in both 2022 and 2023. Live music nights "
+                "run on Fridays and Saturdays."
+            ),
+            "known_for": "Eight real ales, six ciders, and a timber-framed pub hall from the 1450s",
+            "good_for": "A proper pint in the oldest building in Crawley",
+            "source_url": "https://www.yelp.co.uk/biz/brewery-shades-crawley",
+            "verified": "2026-06-22",
+        },
+    ],
+    "food_scene": [
+        (
+            "Crawley is a planned new town, designated in 1947 and built rapidly around "
+            "Gatwick Airport, but its food map is older and richer than that narrative "
+            "suggests. The medieval High Street in the Old Town, a north-south ridge "
+            "road that was part of the original London to Brighton coaching route, "
+            "retains a cluster of historic buildings and independents that feel genuinely "
+            "distinct from the post-war town centre a short walk away."
+        ),
+        (
+            "The new town centre -- County Mall and the surrounding pedestrian streets -- "
+            "holds the expected mix of chains, but the real independent eating is spread "
+            "across the 14 self-contained neighbourhoods. Broadfield has its Portuguese "
+            "community cafe; the Broadway has its Afghan canteen; the High Street anchors "
+            "the award-winning Indian buffet and the ancient pub. Each neighbourhood was "
+            "designed with its own parade of shops and services, which is why Crawley's "
+            "food culture is more neighbourhood-rooted than in many towns of similar size."
+        ),
+        (
+            "The international mix reflects Crawley's history as a town built to rehouse "
+            "London overspill and then shaped by airport-economy migration: you will find "
+            "Afghan, Portuguese, Indian, Thai and a dozen other cuisines within a compact "
+            "borough. The town has no single signature dish, but the quality of the "
+            "independent South Asian cooking -- from the humble Afghan canteen to the "
+            "award-winning buffet -- is the consistent thread."
+        ),
+    ],
+    "visit": [
+        (
+            "The Old Town High Street is the natural base for a day of eating: the "
+            "Brewery Shades and Tamashah are within a few minutes' walk of each other, "
+            "and the historic streetscape of timber-framed buildings, the Ancient Priors "
+            "and the George Hotel make the strip worth a slow stroll. Crawley station "
+            "on the Thameslink line is about ten minutes' walk from the High Street."
+        ),
+        (
+            "Broadfield is a bus ride or short drive south from the centre -- the "
+            "neighbourhood parade where Cafe Santa Maria sits is easy to combine with "
+            "a visit to Tilgate Park, Crawley's main green space, which is directly "
+            "adjacent. Fatboys Joint on The Broadway is a five-minute walk from "
+            "Crawley station, making it a practical stop before or after travel."
+        ),
+    ],
+    "checklist": [
+        "Start on the Old Town High Street -- the timber-framed buildings predate the new town by five centuries",
+        "Order the chapli kebab at Fatboys Joint, the most distinctive dish in the town centre",
+        "Pick up a pastel de nata at Cafe Santa Maria in Broadfield alongside breakfast",
+        "Book Tamashah for a group -- the 50-dish buffet is one of the best-value meals in West Sussex",
+        "Finish at the Brewery Shades: ask the bar staff about the cells beneath the 15th-century floor",
+    ],
+    "what_to_order": (
+        "Order with intent. At Fatboys Joint, the chapli kebab is the signature -- one "
+        "minced-lamb patty griddled flat, served with flatbread and a side of tarka daal. "
+        "At Cafe Santa Maria, a prego roll and a pastel de nata is the correct combination, "
+        "with a flat white to follow. At Tamashah, work the whole buffet but start with the "
+        "tandoori starters and finish with gulab jamun. At the Brewery Shades, ask what "
+        "dark ale is on -- they always have one -- and take it slowly in the timber hall."
+    ),
+    "glance": [
+        ("Best for a quick bite", "Fatboys Joint, for a chapli kebab unlike anything else in town"),
+        ("Best for an occasion", "Tamashah, for the award-winning 50-dish buffet on the historic High Street"),
+        ("Best for atmosphere", "The Brewery Shades, inside a Grade II listed hall built in the 1450s"),
+    ],
+    "faq": [
+        (
+            "What are the best independent places to eat in Crawley?",
+            "The four strongest independents are Fatboys Joint Afghan Canteen on the "
+            "Broadway for chapli kebab and Afghan cooking, Cafe Santa Maria in Broadfield "
+            "for Portuguese pasteis de nata and prego rolls, Tamashah on the High Street "
+            "for its award-winning Indian and Thai buffet, and the Brewery Shades for "
+            "eight real ales in a pub that has stood since the 1400s."
+        ),
+        (
+            "Is there good food in Crawley Old Town?",
+            "Yes. The medieval High Street in Crawley Old Town holds two of the borough's "
+            "best independents: Tamashah, which won Best Restaurant in the South East at "
+            "the Asian Restaurant and Takeaway Awards in 2019, and the Brewery Shades, a "
+            "Grade II listed 15th-century timber hall that has been in the CAMRA Good "
+            "Beer Guide every year since 2012."
+        ),
+        (
+            "Where can I eat Afghan food in Crawley?",
+            "Fatboys Joint Afghan Canteen at 8 The Broadway in the town centre has been "
+            "serving authentic Afghan dishes since around 2015. The chapli kebab, Qabuli "
+            "pilau and tandoori mixed grill are the signature orders. All meat is HMC-"
+            "certified halal and there is a vegan tarka daal on the menu."
+        ),
+        (
+            "What is the oldest pub in Crawley?",
+            "The Brewery Shades at 85 High Street is one of the oldest buildings in "
+            "Crawley, built as a timber-framed hall-house in around 1450. The pub has "
+            "subterranean cells dating from shortly after the original build. It is Grade "
+            "II listed, has been in the CAMRA Good Beer Guide since 2012, and was North "
+            "Sussex CAMRA Pub of the Year in 2022 and 2023."
+        ),
+        (
+            "Is there a Portuguese cafe in Crawley?",
+            "Cafe Santa Maria at 18 Broadfield Barton in the Broadfield neighbourhood "
+            "is a dual-purpose Portuguese cafe and grocery shop. It is known for its "
+            "pasteis de nata, prego rolls and generous breakfasts. The cafe received a "
+            "food hygiene rating of 5, last inspected in 2025."
+        ),
+        (
+            "How do I get to Crawley for a food visit?",
+            "Crawley station on the Thameslink line connects directly to London Bridge "
+            "and London Victoria, with the Old Town High Street roughly ten minutes on "
+            "foot. Fatboys Joint is five minutes from the station. Broadfield is served "
+            "by local buses or a short drive south from the centre, and is well combined "
+            "with a visit to Tilgate Park."
+        ),
+    ],
+}
+
+# batch-2 bespoke hero wiring (ranks 34-48): (TOWNS key, svg slug)
+for _k, _slug in [('norwich', 'norwich'), ('swindon', 'swindon'), ('croydon', 'croydon'), ('bournemouth', 'bournemouth'), ('southend-on-sea', 'southend-on-sea'), ('walsall', 'walsall'), ('warrington', 'warrington'), ('slough', 'slough'), ('huddersfield', 'huddersfield'), ('telford', 'telford'), ('newport', 'newport'), ('oxford', 'oxford'), ('poole', 'poole'), ('dundee', 'dundee'), ('cambridge', 'cambridge')]:
+    if _k in TOWNS:
+        TOWNS[_k]["hero_svg_file"] = "eat_hero_%s.svg" % _slug
