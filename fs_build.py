@@ -7,10 +7,13 @@
 # differentiator. Exactly 14 .com + 1 community link per page. No JS, no HTML
 # entities, no delivery-timescale claims. Nearby MUST be geographically close,
 # hand-authored, on FS_towns.csv (no rank fallback).
-import re, os, json, zlib, sys, csv
+import re, os, json, zlib, hashlib, sys, csv
 
 def pick(key, salt, n):
-    return zlib.crc32((salt + '|' + str(key).lower()).encode()) % n
+    # md5 digest gives well-distributed bits; crc32 % n leaks correlated low
+    # bits (e.g. all 7-letter town names collided on the same pool variant).
+    h = hashlib.md5((salt + '|' + str(key).lower()).encode()).digest()
+    return int.from_bytes(h[:4], 'big') % n
 
 def _find_base():
     here = os.path.dirname(os.path.abspath(__file__))
@@ -308,6 +311,426 @@ TOWNS = {
   "kit_loc":"across the city's gardens, parks and woodland tree work",
   "s2_intro":"Whether you climb, work the ground or run a small crew across Leeds's gardens, parks and West Yorkshire woodland",
  },
+ "glasgow": {
+  "region":"Glasgow and the West of Scotland",
+  "nearby":["Paisley", "Rutherglen", "Clydebank"],
+  "snapshot":"iNeedWorkwear supplies chainsaw trousers, chainsaw boots, forestry helmets, gloves, hi-vis and waterproofs to arborists, tree surgeons and forestry contractors across Glasgow, from sole-trader climbers and groundsmen to small firms working Pollok Country Park, Cathkin Braes and the wider Clyde Climate Forest, all rated to EN ISO 11393, branded in-house and ordered direct online with no account needed.",
+  "s1_head":"Kitting the people who climb and clear Glasgow's trees",
+  "s1loc":[
+   "Glasgow is a green city with a large estate of mature street, park and garden trees, and managing it keeps a big community of arborists and tree surgeons busy across the city and the West of Scotland. Most are sole traders and small teams working domestic gardens, council and park contracts and storm clearance, every one of them dependent on proper chainsaw PPE.",
+   "The work follows the city's leafy geography. Suburbs like Bearsden, Milngavie, Newlands and the West End carry mature oak, beech and estate trees, while Pollok Country Park, Cathkin Braes, Dawsholm Park, Kelvingrove and the wider Clyde Climate Forest hold parkland and woodland, all of it generating crown reductions, dismantles, felling, deadwooding and stump grinding for local firms.",
+   "It is a safety-critical trade run to recognised standards. Glasgow tree surgeons are typically NPTC, City and Guilds and Lantra qualified, working to BS 3998 for tree work and BS 5837 where trees meet construction, many of them Arboricultural Association members, and conservation-area and TPO rules shape much of the work. Ash dieback is confirmed and spreading across the city's parks, schools and roads, and Storm Eowyn toppled trees the length of Glasgow in early 2025, so felling and clearance stays steady. Every chainsaw job, on the ground or roped into a canopy, depends on cut-protective trousers, boots, a forestry helmet and gloves rated to EN ISO 11393.",
+   "And the firms are mostly small: a climber and a groundsman, a family business, a one or two-van outfit working across Glasgow, Bearsden and the wider West of Scotland patch. They buy their own kit, get the sizes and protection class right and want it ordered direct, without a procurement department or a trade account in the way.",
+  ],
+  "kit_loc":"across the city's gardens, parks and woodland tree work",
+  "s2_intro":"Whether you climb, work the ground or run a small crew across Glasgow's gardens, parks and Clyde Valley woodland",
+ },
+ "sheffield": {
+  "region":"Sheffield and South Yorkshire",
+  "nearby":["Rotherham", "Barnsley", "Chesterfield"],
+  "snapshot":"iNeedWorkwear supplies chainsaw trousers, chainsaw boots, forestry helmets, gloves, hi-vis and waterproofs to arborists, tree surgeons and forestry contractors across Sheffield, from sole-trader climbers and groundsmen to small firms working Ecclesall Woods, the Rivelin Valley and the city's ancient woodland, all rated to EN ISO 11393, branded in-house and ordered direct online with no account needed.",
+  "s1_head":"Kitting the people who climb and clear Sheffield's trees",
+  "s1loc":[
+   "Sheffield is one of the most wooded cities in Britain, with a vast estate of mature street, park and woodland trees, and managing it keeps a big community of arborists and tree surgeons busy across the city and South Yorkshire. Most are sole traders and small teams working domestic gardens, council and park contracts and storm clearance, every one of them dependent on proper chainsaw PPE.",
+   "The work follows the city's leafy geography. Suburbs like Dore, Totley, Fulwood and Ranmoor carry mature oak, beech and estate trees, while Ecclesall Woods, Graves Park, Endcliffe Park, the Rivelin Valley and the Loxley Valley hold parkland and ancient woodland, all of it generating crown reductions, dismantles, felling, deadwooding and stump grinding for local firms.",
+   "It is a safety-critical trade run to recognised standards. Sheffield tree surgeons are typically NPTC, City and Guilds and LANTRA qualified, working to BS 3998 for tree work and BS 5837 where trees meet construction, many of them Arboricultural Association members, and the city's street-tree partnership and conservation-area rules shape much of the work. Ash dieback runs through the woodland estate and storm events keep clearance steady, so felling and deadwooding stays in demand. Every chainsaw job, on the ground or roped into a canopy, depends on cut-protective trousers, boots, a forestry helmet and gloves rated to EN ISO 11393.",
+   "And the firms are mostly small: a climber and a groundsman, a family business, a one or two-van outfit working across Sheffield, Dronfield and the wider South Yorkshire patch. They buy their own kit, get the sizes and protection class right and want it ordered direct, without a procurement department or a trade account in the way.",
+  ],
+  "kit_loc":"across the city's gardens, parks and ancient woodland tree work",
+  "s2_intro":"Whether you climb, work the ground or run a small crew across Sheffield's gardens, parks and South Yorkshire woodland",
+ },
+ "manchester": {
+  "region":"Manchester and Greater Manchester",
+  "nearby":["Salford", "Stockport", "Oldham"],
+  "snapshot":"iNeedWorkwear supplies chainsaw trousers, chainsaw boots, forestry helmets, gloves, hi-vis and waterproofs to arborists, tree surgeons and forestry contractors across Manchester, from sole-trader climbers and groundsmen to small firms working Heaton Park, Fletcher Moss and the City of Trees community forest, all rated to EN ISO 11393, branded in-house and ordered direct online with no account needed.",
+  "s1_head":"Kitting the people who climb and clear Greater Manchester's trees",
+  "s1loc":[
+   "Manchester is a green city with a large estate of mature street, park and garden trees, and managing it keeps a big community of arborists and tree surgeons busy across the city and Greater Manchester. Most are sole traders and small teams working domestic gardens, council and park contracts and storm clearance, every one of them dependent on proper chainsaw PPE.",
+   "The work follows the city's leafy geography. Suburbs like Didsbury, Chorlton, Withington and Whalley Range carry mature oak, beech and estate trees, while Heaton Park, Fletcher Moss, Chorlton Ees and the wider City of Trees community forest hold parkland and woodland, all of it generating crown reductions, dismantles, felling, deadwooding and stump grinding for local firms.",
+   "It is a safety-critical trade run to recognised standards. Manchester tree surgeons are typically NPTC, City and Guilds and LANTRA qualified, working to BS 3998 for tree work and BS 5837 where trees meet construction, many of them Arboricultural Association members, and the conservation areas at Didsbury St James and Chorlton Green, where trees over 75mm are protected, shape much of the work. Ash dieback runs through the urban forest and storm clearance keeps crews busy. Every chainsaw job, on the ground or roped into a canopy, depends on cut-protective trousers, boots, a forestry helmet and gloves rated to EN ISO 11393.",
+   "And the firms are mostly small: a climber and a groundsman, a family business, a one or two-van outfit working across Manchester, Sale and the wider Greater Manchester patch. They buy their own kit, get the sizes and protection class right and want it ordered direct, without a procurement department or a trade account in the way.",
+  ],
+  "kit_loc":"across the city's gardens, parks and woodland tree work",
+  "s2_intro":"Whether you climb, work the ground or run a small crew across Manchester's gardens, parks and Greater Manchester woodland",
+ },
+ "edinburgh": {
+  "region":"Edinburgh and the Lothians",
+  "nearby":["Musselburgh", "Livingston", "Bathgate"],
+  "snapshot":"iNeedWorkwear supplies chainsaw trousers, chainsaw boots, forestry helmets, gloves, hi-vis and waterproofs to arborists, tree surgeons and forestry contractors across Edinburgh, from sole-trader climbers and groundsmen to small firms working Corstorphine Hill, the Hermitage of Braid and the Pentland Hills, all rated to EN ISO 11393, branded in-house and ordered direct online with no account needed.",
+  "s1_head":"Kitting the people who climb and clear Edinburgh's trees",
+  "s1loc":[
+   "Edinburgh is a particularly leafy city, with a large estate of mature street, park and garden trees, and managing it keeps a big community of arborists and tree surgeons busy across the city and the Lothians. Most are sole traders and small teams working domestic gardens, council and park contracts and storm clearance, every one of them dependent on proper chainsaw PPE.",
+   "The work follows the city's leafy geography. Suburbs like Corstorphine, Blackford, Morningside and Colinton carry mature oak, beech and estate trees, while Corstorphine Hill, the Hermitage of Braid and Blackford Hill, Holyrood Park and the Pentland Hills hold parkland and broad-leaved woodland of oak, birch, elm, sycamore, beech and ash, all of it generating crown reductions, dismantles, felling, deadwooding and stump grinding for local firms.",
+   "It is a safety-critical trade run to recognised standards. Edinburgh tree surgeons are typically NPTC and Lantra qualified, working to BS 3998 for tree work and BS 5837 where trees meet construction, many of them Arboricultural Association members, and conservation-area and TPO rules shape much of the work. Chalara ash dieback is now firmly established across the city and the council fells infected trees on its land where they pose a risk, so felling and clearance stays steady. Every chainsaw job, on the ground or roped into a canopy, depends on cut-protective trousers, boots, a forestry helmet and gloves rated to EN ISO 11393.",
+   "And the firms are mostly small: a climber and a groundsman, a family business, a one or two-van outfit working across Edinburgh, Musselburgh and the wider Lothians patch. They buy their own kit, get the sizes and protection class right and want it ordered direct, without a procurement department or a trade account in the way.",
+  ],
+  "kit_loc":"across the city's gardens, parks and woodland tree work",
+  "s2_intro":"Whether you climb, work the ground or run a small crew across Edinburgh's gardens, parks and Lothians woodland",
+ },
+ "liverpool": {
+  "region":"Liverpool and Merseyside",
+  "nearby":["Bootle", "Birkenhead", "Crosby"],
+  "snapshot":"iNeedWorkwear supplies chainsaw trousers, chainsaw boots, forestry helmets, gloves, hi-vis and waterproofs to arborists, tree surgeons and forestry contractors across Liverpool, from sole-trader climbers and groundsmen to small firms working Sefton Park, Calderstones and the wider Mersey Forest, all rated to EN ISO 11393, branded in-house and ordered direct online with no account needed.",
+  "s1_head":"Kitting the people who climb and clear Merseyside's trees",
+  "s1loc":[
+   "Liverpool is a green city with a large estate of mature street, park and garden trees, and managing it keeps a big community of arborists and tree surgeons busy across the city and Merseyside. Most are sole traders and small teams working domestic gardens, council and park contracts and storm clearance, every one of them dependent on proper chainsaw PPE.",
+   "The work follows the city's leafy geography. Suburbs like Allerton, Mossley Hill, Woolton and Aigburth carry mature oak, beech and estate trees, while Sefton Park, Calderstones Park with its thousand-year-old Allerton Oak, Croxteth Hall Park, the National Trust's Speke Hall woodland and the wider Mersey Forest hold parkland and woodland, all of it generating crown reductions, dismantles, felling, deadwooding and stump grinding for local firms.",
+   "It is a safety-critical trade run to recognised standards. Liverpool tree surgeons are typically NPTC, City and Guilds and LANTRA qualified, working to BS 3998 for tree work and BS 5837 where trees meet construction, many of them Arboricultural Association members, and the Woolton, Allerton and Mossley Hill conservation areas and TPO rules shape much of the work. Ash dieback runs heavy across the Merseyside rural fringe, keeping felling and clearance steady. Every chainsaw job, on the ground or roped into a canopy, depends on cut-protective trousers, boots, a forestry helmet and gloves rated to EN ISO 11393.",
+   "And the firms are mostly small: a climber and a groundsman, a family business, a one or two-van outfit working across Liverpool, Crosby and the wider Merseyside patch. They buy their own kit, get the sizes and protection class right and want it ordered direct, without a procurement department or a trade account in the way.",
+  ],
+  "kit_loc":"across the city's gardens, parks and woodland tree work",
+  "s2_intro":"Whether you climb, work the ground or run a small crew across Liverpool's gardens, parks and Merseyside woodland",
+ },
+ "bristol": {
+  "region":"Bristol and the West of England",
+  "nearby":["Bath", "Weston-super-Mare", "Portishead"],
+  "snapshot":"iNeedWorkwear supplies chainsaw trousers, chainsaw boots, forestry helmets, gloves, hi-vis and waterproofs to arborists, tree surgeons and forestry contractors across Bristol, from sole-trader climbers and groundsmen to small firms working Leigh Woods, Ashton Court and the wider Forest of Avon, all rated to EN ISO 11393, branded in-house and ordered direct online with no account needed.",
+  "s1_head":"Kitting the people who climb and clear Bristol's trees",
+  "s1loc":[
+   "Bristol is a notably green city with a huge estate of mature street, park and garden trees, and looking after it keeps a busy community of arborists and tree surgeons working across the city and the West of England. Most are sole traders and small teams covering domestic gardens, council and park contracts and storm clearance, every one of them dependent on proper chainsaw PPE.",
+   "The work follows the city's leafy geography. Suburbs like Clifton, Stoke Bishop, Sneyd Park, Westbury-on-Trym and Henleaze carry mature oak, beech, lime and plane, while Leigh Woods, Ashton Court Estate, Blaise Castle, the Avon Gorge and the wider Forest of Avon hold ancient woodland and veteran oak pollards, all of it generating crown reductions, dismantles, felling, deadwooding and stump grinding for local firms.",
+   "It is a safety-critical trade run to recognised standards. Bristol tree surgeons are typically NPTC, City and Guilds and LANTRA qualified, working to BS 3998 for tree work and BS 5837 where trees meet construction, many of them Arboricultural Association members, with TPOs, the city's conservation areas and ongoing ash dieback shaping much of the work. Every chainsaw job, on the ground or roped into a canopy, depends on cut-protective trousers, boots, a forestry helmet and gloves rated to EN ISO 11393.",
+   "And the firms are mostly small: a climber and a groundsman, a family business, a one or two-van outfit working across Bristol, Bath and the North Somerset patch. They buy their own kit, get the sizes and protection class right and want it ordered direct, without a procurement department or a trade account in the way.",
+  ],
+  "kit_loc":"across the city's gardens, parks and gorge-side woodland work",
+  "s2_intro":"Whether you climb, work the ground or run a small crew across Bristol's gardens, parks and Avon Gorge woodland",
+ },
+ "cardiff": {
+  "region":"Cardiff and South Wales",
+  "nearby":["Barry", "Penarth", "Caerphilly"],
+  "snapshot":"iNeedWorkwear supplies chainsaw trousers, chainsaw boots, forestry helmets, gloves, hi-vis and waterproofs to arborists, tree surgeons and forestry contractors across Cardiff, from sole-trader climbers and groundsmen to small firms working Bute Park, Forest Farm and the Wenallt, all rated to EN ISO 11393, branded in-house and ordered direct online with no account needed.",
+  "s1_head":"Kitting the people who climb and clear Cardiff's trees",
+  "s1loc":[
+   "Cardiff is a green capital with a large estate of mature street, park and garden trees, and managing it keeps a steady community of arborists and tree surgeons busy across the city and South Wales. Most are sole traders and small teams working domestic gardens, council and park contracts and storm clearance, every one of them dependent on proper chainsaw PPE.",
+   "The work follows the city's leafy geography. Suburbs like Cyncoed, Lisvane, Rhiwbina, Llandaff and Penylan carry mature oak, beech and lime, while Bute Park, Roath Park, Forest Farm, the Wenallt and Fforest Fawr hold parkland and semi-natural ancient woodland, all of it generating crown reductions, dismantles, felling, deadwooding and stump grinding for local firms.",
+   "It is a safety-critical trade run to recognised standards. Cardiff tree surgeons are typically NPTC, City and Guilds and LANTRA qualified, working to BS 3998 for tree work and BS 5837 where trees meet construction, many of them Arboricultural Association members, with Natural Resources Wales, Coed Cymru, TPOs and ongoing ash dieback work in Bute Park and beyond shaping much of the job. Every chainsaw job, on the ground or roped into a canopy, depends on cut-protective trousers, boots, a forestry helmet and gloves rated to EN ISO 11393.",
+   "And the firms are mostly small: a climber and a groundsman, a family business, a one or two-van outfit working across Cardiff, the Vale of Glamorgan and the South Wales valleys. They buy their own kit, get the sizes and protection class right and want it ordered direct, without a procurement department or a trade account in the way.",
+  ],
+  "kit_loc":"across the city's gardens, parks and valley-edge woodland work",
+  "s2_intro":"Whether you climb, work the ground or run a small crew across Cardiff's parks, the Wenallt and the South Wales valleys",
+ },
+ "leicester": {
+  "region":"Leicester and Leicestershire",
+  "nearby":["Loughborough", "Oadby", "Hinckley"],
+  "snapshot":"iNeedWorkwear supplies chainsaw trousers, chainsaw boots, forestry helmets, gloves, hi-vis and waterproofs to arborists, tree surgeons and forestry contractors across Leicester, from sole-trader climbers and groundsmen to small firms working Bradgate Park, Watermead and the Charnwood Forest, all rated to EN ISO 11393, branded in-house and ordered direct online with no account needed.",
+  "s1_head":"Kitting the people who climb and clear Leicestershire's trees",
+  "s1loc":[
+   "Leicester is a green city with a large estate of mature street, park and garden trees, and managing it keeps a busy community of arborists and tree surgeons working across the city and Leicestershire. Most are sole traders and small teams covering domestic gardens, council and park contracts and storm clearance, every one of them dependent on proper chainsaw PPE.",
+   "The work follows the city's leafy geography. Suburbs like Stoneygate, Clarendon Park, Knighton and Western Park carry mature oak, lime, sweet chestnut, plane and beech, while Bradgate Park, Swithland Wood, Watermead Country Park and the wider Charnwood Forest and National Forest hold parkland and ancient woodland, all of it generating crown reductions, dismantles, felling, deadwooding and stump grinding for local firms.",
+   "It is a safety-critical trade run to recognised standards. Leicester tree surgeons are typically NPTC, City and Guilds and LANTRA qualified, working to BS 3998 for tree work and BS 5837 where trees meet construction, many of them Arboricultural Association members, with the Stoneygate and Clarendon Park conservation areas, TPOs and severe ash dieback across the Charnwood outcrop shaping much of the work. Every chainsaw job, on the ground or roped into a canopy, depends on cut-protective trousers, boots, a forestry helmet and gloves rated to EN ISO 11393.",
+   "And the firms are mostly small: a climber and a groundsman, a family business, a one or two-van outfit working across Leicester, Loughborough and the Charnwood patch. They buy their own kit, get the sizes and protection class right and want it ordered direct, without a procurement department or a trade account in the way.",
+  ],
+  "kit_loc":"across the city's gardens, parks and Charnwood woodland work",
+  "s2_intro":"Whether you climb, work the ground or run a small crew across Leicester's gardens, parks and Charnwood Forest woodland",
+ },
+ "bradford": {
+  "region":"Bradford and West Yorkshire",
+  "nearby":["Keighley", "Shipley", "Bingley"],
+  "snapshot":"iNeedWorkwear supplies chainsaw trousers, chainsaw boots, forestry helmets, gloves, hi-vis and waterproofs to arborists, tree surgeons and forestry contractors across Bradford, from sole-trader climbers and groundsmen to small firms working Heaton Woods, the St Ives Estate and Shipley Glen, all rated to EN ISO 11393, branded in-house and ordered direct online with no account needed.",
+  "s1_head":"Kitting the people who climb and clear Bradford's trees",
+  "s1loc":[
+   "Bradford is a green district with a large estate of mature street, park and garden trees set against the moorland edge, and managing it keeps a busy community of arborists and tree surgeons working across the city and West Yorkshire. Most are sole traders and small teams covering domestic gardens, council and park contracts and storm clearance, every one of them dependent on proper chainsaw PPE.",
+   "The work follows the district's leafy geography. Suburbs like Heaton, Baildon, Cottingley and Saltaire carry mature oak, beech and lime, while Heaton Woods, Northcliffe Wood, Hirst Wood, the St Ives Estate at Bingley and Shipley Glen up onto Baildon Moor hold ancient woodland and parkland, all of it generating crown reductions, dismantles, felling, deadwooding and stump grinding for local firms.",
+   "It is a safety-critical trade run to recognised standards. Bradford tree surgeons are typically NPTC, City and Guilds and LANTRA qualified, working to BS 3998 for tree work and BS 5837 where trees meet construction, many of them Arboricultural Association members, with TPOs, conservation areas and widespread ash dieback across the district's ash population shaping much of the work. Every chainsaw job, on the ground or roped into a canopy, depends on cut-protective trousers, boots, a forestry helmet and gloves rated to EN ISO 11393.",
+   "And the firms are mostly small: a climber and a groundsman, a family business, a one or two-van outfit working across Bradford, Keighley and the Aire Valley patch. They buy their own kit, get the sizes and protection class right and want it ordered direct, without a procurement department or a trade account in the way.",
+  ],
+  "kit_loc":"across the district's gardens, parks and Aire Valley woodland work",
+  "s2_intro":"Whether you climb, work the ground or run a small crew across Bradford's woods, the St Ives Estate and the Aire Valley",
+ },
+ "coventry": {
+  "region":"Coventry and Warwickshire",
+  "nearby":["Nuneaton", "Bedworth", "Kenilworth"],
+  "snapshot":"iNeedWorkwear supplies chainsaw trousers, chainsaw boots, forestry helmets, gloves, hi-vis and waterproofs to arborists, tree surgeons and forestry contractors across Coventry, from sole-trader climbers and groundsmen to small firms working Coombe Abbey, the War Memorial Park and the Coundon Wedge, all rated to EN ISO 11393, branded in-house and ordered direct online with no account needed.",
+  "s1_head":"Kitting the people who climb and clear Coventry's trees",
+  "s1loc":[
+   "Coventry is a green city with a large estate of mature street, park and garden trees, and managing it keeps a busy community of arborists and tree surgeons working across the city and Warwickshire. Most are sole traders and small teams covering domestic gardens, council and park contracts and storm clearance, every one of them dependent on proper chainsaw PPE.",
+   "The work follows the city's leafy geography. Suburbs like Allesley, Earlsdon, Stivichall and Coundon carry mature oak, lime and beech, while Coombe Abbey Country Park, the War Memorial Park, Allesley Park, the Coundon Wedge and the Kenilworth Road woodlands of Wainbody Wood and Stivichall Common hold parkland and mixed woodland, all of it generating crown reductions, dismantles, felling, deadwooding and stump grinding for local firms.",
+   "It is a safety-critical trade run to recognised standards. Coventry tree surgeons are typically NPTC, City and Guilds and LANTRA qualified, working to BS 3998 for tree work and BS 5837 where trees meet construction, many of them Arboricultural Association members, with the Allesley Village conservation area, TPOs, the council's urban forestry strategy and ongoing ash dieback shaping much of the work. Every chainsaw job, on the ground or roped into a canopy, depends on cut-protective trousers, boots, a forestry helmet and gloves rated to EN ISO 11393.",
+   "And the firms are mostly small: a climber and a groundsman, a family business, a one or two-van outfit working across Coventry, Kenilworth and the wider Warwickshire patch. They buy their own kit, get the sizes and protection class right and want it ordered direct, without a procurement department or a trade account in the way.",
+  ],
+  "kit_loc":"across the city's gardens, parks and Warwickshire woodland work",
+  "s2_intro":"Whether you climb, work the ground or run a small crew across Coventry's parks, the Coundon Wedge and Warwickshire woodland",
+ },
+ "nottingham": {
+  "region":"Nottingham and the East Midlands",
+  "nearby":["Beeston", "Arnold", "West Bridgford"],
+  "snapshot":"iNeedWorkwear supplies chainsaw trousers, chainsaw boots, forestry helmets, gloves, hi-vis and waterproofs to arborists, tree surgeons and forestry contractors across Nottingham, from sole-trader climbers and groundsmen to small firms working the city's leafy suburbs, parks and the Greenwood Community Forest, all rated to EN ISO 11393, branded in-house and ordered direct online with no account needed.",
+  "s1_head":"Kitting the people who climb and clear Nottingham's trees",
+  "s1loc":[
+   "Nottingham is a green city with a large estate of mature street, park and garden trees, and managing it keeps a busy community of arborists and tree surgeons working across the city and the wider East Midlands. Most are sole traders and small teams working domestic gardens, council and park contracts and storm clearance, every one of them dependent on proper chainsaw PPE.",
+   "The work follows the city's leafy geography. Suburbs like Mapperley Park, The Park Estate, Sherwood and Wollaton carry mature lime, oak and beech and Victorian garden trees, while Wollaton Park, the Arboretum, Colwick Country Park and the wider Greenwood Community Forest hold parkland and woodland, all of it generating crown reductions, dismantles, felling, deadwooding and stump grinding for local firms.",
+   "It is a safety-critical trade run to recognised standards. Nottingham tree surgeons are typically NPTC, City and Guilds and LANTRA qualified, working to BS 3998 for tree work and BS 5837 where trees meet construction, many of them Arboricultural Association members, and TPO and conservation-area rules across the city and Rushcliffe, Gedling and Broxtowe shape much of the work. Ash dieback is a live issue here, with diseased ash managed and felled across Sherwood and the suburbs, and every chainsaw job, on the ground or roped into a canopy, depends on cut-protective trousers, boots, a forestry helmet and gloves rated to EN ISO 11393.",
+   "And the firms are mostly small: a climber and a groundsman, a family business, a one or two-van outfit working across Nottingham, Beeston and the wider Nottinghamshire patch. They buy their own kit, get the sizes and protection class right and want it ordered direct, without a procurement department or a trade account in the way.",
+  ],
+  "kit_loc":"across the city's gardens, parks and woodland tree work",
+  "s2_intro":"Whether you climb, work the ground or run a small crew across Nottingham's gardens, parks and Greenwood Community Forest woodland",
+ },
+ "newcastle upon tyne": {
+  "region":"Newcastle upon Tyne and the North East",
+  "nearby":["Gateshead", "Gosforth", "Tynemouth"],
+  "snapshot":"iNeedWorkwear supplies chainsaw trousers, chainsaw boots, forestry helmets, gloves, hi-vis and waterproofs to arborists, tree surgeons and forestry contractors across Newcastle upon Tyne, from sole-trader climbers and groundsmen to small firms working the city's leafy suburbs, parks and Tyneside woodland, all rated to EN ISO 11393, branded in-house and ordered direct online with no account needed.",
+  "s1_head":"Kitting the people who climb and clear Tyneside's trees",
+  "s1loc":[
+   "Newcastle upon Tyne is a green city with a large estate of mature street, park and garden trees, and managing it keeps a busy community of arborists and tree surgeons working across the city and the wider North East. Most are sole traders and small teams working domestic gardens, council and park contracts and storm clearance, every one of them dependent on proper chainsaw PPE.",
+   "The work follows the city's leafy geography. Suburbs like Jesmond, Gosforth, Heaton and Kenton carry mature oak, beech and estate trees, while Jesmond Dene, the Town Moor and Cow Hill, Leazes Park, Heaton Park and Gosforth Central Park hold ancient woodland and parkland, all of it generating crown reductions, dismantles, felling, deadwooding and stump grinding for local firms.",
+   "It is a safety-critical trade run to recognised standards. Newcastle tree surgeons are typically NPTC, City and Guilds and LANTRA qualified, working to BS 3998 for tree work and BS 5837 where trees meet construction, many of them Arboricultural Association members, and TPO and conservation-area rules shape much of the work. Storm Arwen in November 2021 hit the North East hard, with gusts above 90mph coming unusually from the north-east and felling thousands of trees across Tyne and Wear and County Durham, leaving years of clearance and replanting, and every chainsaw job, on the ground or roped into a canopy, depends on cut-protective trousers, boots, a forestry helmet and gloves rated to EN ISO 11393.",
+   "And the firms are mostly small: a climber and a groundsman, a family business, a one or two-van outfit working across Newcastle, Gateshead and the wider Tyneside patch. They buy their own kit, get the sizes and protection class right and want it ordered direct, without a procurement department or a trade account in the way.",
+  ],
+  "kit_loc":"across the city's gardens, parks and woodland tree work",
+  "s2_intro":"Whether you climb, work the ground or run a small crew across Newcastle's gardens, parks and Tyneside woodland",
+ },
+ "sunderland": {
+  "region":"Sunderland and the North East",
+  "nearby":["Washington", "Houghton le Spring", "Seaham"],
+  "snapshot":"iNeedWorkwear supplies chainsaw trousers, chainsaw boots, forestry helmets, gloves, hi-vis and waterproofs to arborists, tree surgeons and forestry contractors across Sunderland, from sole-trader climbers and groundsmen to small firms working the city's parks, country parks and Wearside woodland, all rated to EN ISO 11393, branded in-house and ordered direct online with no account needed.",
+  "s1_head":"Kitting the people who climb and clear Wearside's trees",
+  "s1loc":[
+   "Sunderland is a green city with a large estate of mature street, park and garden trees, and managing it keeps a busy community of arborists and tree surgeons working across the city and the wider North East. Most are sole traders and small teams working domestic gardens, council and park contracts and storm clearance, every one of them dependent on proper chainsaw PPE.",
+   "The work follows the city's leafy geography. Mature trees line the older suburbs and the riverside, while Herrington Country Park below Penshaw Monument, Hetton Lyons Country Park and the woodland and former colliery sites around Washington and Houghton le Spring hold parkland and reclaimed woodland, all of it generating crown reductions, dismantles, felling, deadwooding and stump grinding for local firms.",
+   "It is a safety-critical trade run to recognised standards. Sunderland tree surgeons are typically NPTC, City and Guilds and LANTRA qualified, working to BS 3998 for tree work and BS 5837 where trees meet construction, many of them Arboricultural Association members, and TPO and conservation-area rules shape much of the work. Storm Arwen in November 2021 battered the North East with gusts above 90mph from an unusual north-east direction, felling thousands of trees across Tyne and Wear and County Durham and leaving years of clearance and replanting, and every chainsaw job, on the ground or roped into a canopy, depends on cut-protective trousers, boots, a forestry helmet and gloves rated to EN ISO 11393.",
+   "And the firms are mostly small: a climber and a groundsman, a family business, a one or two-van outfit working across Sunderland, Washington and the wider Wearside patch. They buy their own kit, get the sizes and protection class right and want it ordered direct, without a procurement department or a trade account in the way.",
+  ],
+  "kit_loc":"across the city's parks, country parks and woodland tree work",
+  "s2_intro":"Whether you climb, work the ground or run a small crew across Sunderland's parks, country parks and Wearside woodland",
+ },
+ "brighton": {
+  "region":"Brighton and East Sussex",
+  "nearby":["Hove", "Worthing", "Shoreham-by-Sea"],
+  "snapshot":"iNeedWorkwear supplies chainsaw trousers, chainsaw boots, forestry helmets, gloves, hi-vis and waterproofs to arborists, tree surgeons and forestry contractors across Brighton, from sole-trader climbers and groundsmen to small firms working the city's leafy suburbs, parks and South Downs woodland, all rated to EN ISO 11393, branded in-house and ordered direct online with no account needed.",
+  "s1_head":"Kitting the people who climb and clear Brighton's trees",
+  "s1loc":[
+   "Brighton is a green city with a large estate of mature street, park and garden trees, and managing it keeps a busy community of arborists and tree surgeons working across the city and the wider Sussex coast. Most are sole traders and small teams working domestic gardens, council and park contracts and storm clearance, every one of them dependent on proper chainsaw PPE.",
+   "The work follows the city's leafy geography. Suburbs like Withdean, Patcham, Preston Park and Hove carry mature elm, beech and estate trees, while Stanmer Park and its Great Wood, Preston Park, Hove Park and Withdean Park run up into the South Downs National Park, all of it generating crown reductions, dismantles, felling, deadwooding and stump grinding for local firms.",
+   "It is a safety-critical trade run to recognised standards. Brighton tree surgeons are typically NPTC, City and Guilds and LANTRA qualified, working to BS 3998 for tree work and BS 5837 where trees meet construction, many of them Arboricultural Association members, and TPO and conservation-area rules shape much of the work. The city holds the National Elm Collection, with over 17,000 elms protected by Dutch elm disease sanitation felling, so diseased elm work and careful removals are a constant, and every chainsaw job, on the ground or roped into a canopy, depends on cut-protective trousers, boots, a forestry helmet and gloves rated to EN ISO 11393.",
+   "And the firms are mostly small: a climber and a groundsman, a family business, a one or two-van outfit working across Brighton, Hove and the wider Sussex patch. They buy their own kit, get the sizes and protection class right and want it ordered direct, without a procurement department or a trade account in the way.",
+  ],
+  "kit_loc":"across the city's gardens, parks and Downs woodland tree work",
+  "s2_intro":"Whether you climb, work the ground or run a small crew across Brighton's gardens, parks and South Downs woodland",
+ },
+ "plymouth": {
+  "region":"Plymouth and Devon",
+  "nearby":["Saltash", "Bodmin", "St Austell"],
+  "snapshot":"iNeedWorkwear supplies chainsaw trousers, chainsaw boots, forestry helmets, gloves, hi-vis and waterproofs to arborists, tree surgeons and forestry contractors across Plymouth, from sole-trader climbers and groundsmen to small firms working the city's parks, estate woodland and the Plym Valley, all rated to EN ISO 11393, branded in-house and ordered direct online with no account needed.",
+  "s1_head":"Kitting the people who climb and clear Plymouth's trees",
+  "s1loc":[
+   "Plymouth is a green city with a large estate of mature street, park and garden trees, and managing it keeps a busy community of arborists and tree surgeons working across the city and the wider Devon and Cornwall border. Most are sole traders and small teams working domestic gardens, council and park contracts and storm clearance, every one of them dependent on proper chainsaw PPE.",
+   "The work follows the city's leafy geography. Mature trees line the older suburbs and Central Park, while Plymbridge Woods and the Plym Valley, the Saltram estate above the River Plym and the western oak woodland running up to the Dartmoor fringe hold parkland and ancient woodland, all of it generating crown reductions, dismantles, felling, deadwooding and stump grinding for local firms.",
+   "It is a safety-critical trade run to recognised standards. Plymouth tree surgeons are typically NPTC, City and Guilds and LANTRA qualified, working to BS 3998 for tree work and BS 5837 where trees meet construction, many of them Arboricultural Association members, and TPO and conservation-area rules shape much of the work. The National Trust holds Plymbridge Woods and Saltram with their oak woodland and parkland, ash dieback is being managed across the valley sides, and every chainsaw job, on the ground or roped into a canopy, depends on cut-protective trousers, boots, a forestry helmet and gloves rated to EN ISO 11393.",
+   "And the firms are mostly small: a climber and a groundsman, a family business, a one or two-van outfit working across Plymouth, Saltash and the wider Devon and Cornwall patch. They buy their own kit, get the sizes and protection class right and want it ordered direct, without a procurement department or a trade account in the way.",
+  ],
+  "kit_loc":"across the city's parks, estate woodland and valley tree work",
+  "s2_intro":"Whether you climb, work the ground or run a small crew across Plymouth's parks, estate woodland and the Plym Valley",
+ },
+ "hull": {
+  "region":"Hull and East Yorkshire",
+  "nearby":["Beverley", "Hessle", "Cottingham"],
+  "snapshot":"iNeedWorkwear supplies chainsaw trousers, chainsaw boots, forestry helmets, gloves, hi-vis and waterproofs to arborists, tree surgeons and forestry contractors across Hull, from sole-trader climbers and groundsmen to small firms working the city's leafy avenues, parks and East Yorkshire woodland from Pearson Park to the Humber Bridge Country Park, all rated to EN ISO 11393, branded in-house and ordered direct online with no account needed.",
+  "s1_head":"Kitting the people who climb and clear East Yorkshire's trees",
+  "s1loc":[
+   "Hull is a green port city with a large estate of mature street, avenue and park trees, and managing it keeps a steady community of arborists and tree surgeons busy across the city and out into East Yorkshire. Most are sole traders and small teams working domestic gardens, council and park contracts and storm clearance, every one of them dependent on proper chainsaw PPE.",
+   "The work follows the city's leafy geography. The Avenues and Pearson Park carry mature oak, ash, sycamore and beech on tree-lined streets, while East Park, Pickering Park and Kingswood hold parkland, and out at the edges Beverley Westwood, Beverley Parks Nature Reserve and the Woodland Trust's Humber Bridge Country Park at Hessle bring proper woodland into reach, all of it generating crown reductions, dismantles, felling, deadwooding and stump grinding for local firms.",
+   "It is a safety-critical trade run to recognised standards. Hull tree surgeons are typically NPTC, City and Guilds and LANTRA qualified, working to BS 3998 for tree work and BS 5837 where trees meet construction, many of them Arboricultural Association members, and TPO and conservation-area rules in the Avenues and Pearson Park shape much of the work. Ash dieback has put a lot of roadside and woodland ash on the felling list across the East Riding, and every chainsaw job, on the ground or roped into a canopy, depends on cut-protective trousers, boots, a forestry helmet and gloves rated to EN ISO 11393.",
+   "And the firms are mostly small: a climber and a groundsman, a family business, a one or two-van outfit working across Hull, Beverley, Hessle and Cottingham and the wider East Yorkshire patch. They buy their own kit, get the sizes and protection class right and want it ordered direct, without a procurement department or a trade account in the way.",
+  ],
+  "kit_loc":"across the city's avenues, parks and East Yorkshire woodland tree work",
+  "s2_intro":"Whether you climb, work the ground or run a small crew across Hull's avenues, parks and East Yorkshire woodland",
+ },
+ "derby": {
+  "region":"Derby and Derbyshire",
+  "nearby":["Belper", "Ripley", "Long Eaton"],
+  "snapshot":"iNeedWorkwear supplies chainsaw trousers, chainsaw boots, forestry helmets, gloves, hi-vis and waterproofs to arborists, tree surgeons and forestry contractors across Derby, from sole-trader climbers and groundsmen to small firms working the city's leafy suburbs, parks and Derbyshire woodland from Allestree Park to the edge of the Peak District and the National Forest, all rated to EN ISO 11393, branded in-house and ordered direct online with no account needed.",
+  "s1_head":"Kitting the people who climb and clear Derbyshire's trees",
+  "s1loc":[
+   "Derby is a green city sitting between the Derwent valley, the Peak District and the National Forest, with a large estate of mature street, park and garden trees, and managing it keeps a busy community of arborists and tree surgeons working across the city and the wider county. Most are sole traders and small teams working domestic gardens, council and park contracts and storm clearance, every one of them dependent on proper chainsaw PPE.",
+   "The work follows the city's leafy geography. Suburbs like Allestree, Darley Abbey, Mickleover and Littleover carry mature oak, beech and estate trees, while Allestree Park and its Big Wood, Markeaton Park and Darley Park hold parkland and woodland above the Derwent, and Shipley Country Park near Ripley, Belper Parks and the Calke Abbey estate add country-park and veteran-tree work, all of it generating crown reductions, dismantles, felling, deadwooding and stump grinding for local firms.",
+   "It is a safety-critical trade run to recognised standards. Derby tree surgeons are typically NPTC, City and Guilds and LANTRA qualified, working to BS 3998 for tree work and BS 5837 where trees meet construction, many of them Arboricultural Association members, and TPO and conservation-area rules shape much of the work. With the city bordering the Peak District and the National Forest planting reaching up from the south, there is steady woodland-management, ash dieback felling and replanting work, and every chainsaw job, on the ground or roped into a canopy, depends on cut-protective trousers, boots, a forestry helmet and gloves rated to EN ISO 11393.",
+   "And the firms are mostly small: a climber and a groundsman, a family business, a one or two-van outfit working across Derby, Belper, Ripley and Long Eaton and the wider Derbyshire patch. They buy their own kit, get the sizes and protection class right and want it ordered direct, without a procurement department or a trade account in the way.",
+  ],
+  "kit_loc":"across the city's gardens, parks and Derbyshire woodland tree work",
+  "s2_intro":"Whether you climb, work the ground or run a small crew across Derby's gardens, parks and Derbyshire woodland",
+ },
+ "southampton": {
+  "region":"Southampton and Hampshire",
+  "nearby":["Eastleigh", "Totton", "Fareham"],
+  "snapshot":"iNeedWorkwear supplies chainsaw trousers, chainsaw boots, forestry helmets, gloves, hi-vis and waterproofs to arborists, tree surgeons and forestry contractors across Southampton, from sole-trader climbers and groundsmen to small firms working the city's leafy suburbs, parks and Hampshire woodland from Southampton Common to the edge of the New Forest, all rated to EN ISO 11393, branded in-house and ordered direct online with no account needed.",
+  "s1_head":"Kitting the people who climb and clear Hampshire's trees",
+  "s1loc":[
+   "Southampton is a green waterside city with a large estate of mature street, park and garden trees and the New Forest on its doorstep, and managing it keeps a big community of arborists and tree surgeons busy across the city and the wider county. Most are sole traders and small teams working domestic gardens, council and park contracts and storm clearance, every one of them dependent on proper chainsaw PPE.",
+   "The work follows the city's leafy geography. Suburbs like Bassett, Highfield and Bitterne Park carry mature oak, beech and estate trees on tree-lined roads, while Southampton Common, Mayfield Park and the Chessel Bay reserve hold parkland and woodland inside the city, and Itchen Valley Country Park near Eastleigh, Lakeside at Eastleigh and Holly Hill Woodland Park at Fareham add ancient woodland and country-park work, all of it generating crown reductions, dismantles, felling, deadwooding and stump grinding for local firms.",
+   "It is a safety-critical trade run to recognised standards. Southampton tree surgeons are typically NPTC, City and Guilds and LANTRA qualified, working to BS 3998 for tree work and BS 5837 where trees meet construction, many of them Arboricultural Association members, and TPO and conservation-area rules shape much of the work. With the New Forest and its Forestry England veteran oaks and beeches close to the south and west around Totton, there is steady woodland and veteran-tree work alongside the urban canopy, and every chainsaw job, on the ground or roped into a canopy, depends on cut-protective trousers, boots, a forestry helmet and gloves rated to EN ISO 11393.",
+   "And the firms are mostly small: a climber and a groundsman, a family business, a one or two-van outfit working across Southampton, Eastleigh, Totton and Fareham and the wider Hampshire patch. They buy their own kit, get the sizes and protection class right and want it ordered direct, without a procurement department or a trade account in the way.",
+  ],
+  "kit_loc":"across the city's gardens, parks and Hampshire woodland tree work",
+  "s2_intro":"Whether you climb, work the ground or run a small crew across Southampton's gardens, parks and Hampshire woodland",
+ },
+ "stoke-on-trent": {
+  "region":"Stoke-on-Trent and Staffordshire",
+  "nearby":["Newcastle-under-Lyme", "Kidsgrove", "Biddulph"],
+  "snapshot":"iNeedWorkwear supplies chainsaw trousers, chainsaw boots, forestry helmets, gloves, hi-vis and waterproofs to arborists, tree surgeons and forestry contractors across Stoke-on-Trent, from sole-trader climbers and groundsmen to small firms working the city's leafy suburbs, parks and Staffordshire woodland from the Trentham Estate to Hem Heath Woods and Cannock Chase, all rated to EN ISO 11393, branded in-house and ordered direct online with no account needed.",
+  "s1_head":"Kitting the people who climb and clear Staffordshire's trees",
+  "s1loc":[
+   "Stoke-on-Trent is a green city of six towns with a large estate of mature street, park and garden trees and proper woodland on its fringes, and managing it keeps a busy community of arborists and tree surgeons working across the Potteries and North Staffordshire. Most are sole traders and small teams working domestic gardens, council and park contracts and storm clearance, every one of them dependent on proper chainsaw PPE.",
+   "The work follows the city's leafy geography. Suburbs like Trentham, Hartshill and Westlands carry mature oak, beech and estate trees, while the Trentham Estate with its ancient woodland, Hem Heath Woods, Park Hall Country Park and Westport Lake hold parkland and woodland, and Apedale Country Park at Newcastle-under-Lyme, Bathpool Park at Kidsgrove and Biddulph Grange Country Park add country-park work, all of it generating crown reductions, dismantles, felling, deadwooding and stump grinding for local firms.",
+   "It is a safety-critical trade run to recognised standards. Stoke tree surgeons are typically NPTC, City and Guilds and LANTRA qualified, working to BS 3998 for tree work and BS 5837 where trees meet construction, many of them Arboricultural Association members, and TPO and conservation-area rules shape much of the work. Ash dieback has put a lot of woodland and roadside ash on the felling list across Staffordshire, and with Cannock Chase and its Forestry England plantations to the south there is steady woodland-management work too, every chainsaw job, on the ground or roped into a canopy, depending on cut-protective trousers, boots, a forestry helmet and gloves rated to EN ISO 11393.",
+   "And the firms are mostly small: a climber and a groundsman, a family business, a one or two-van outfit working across Stoke-on-Trent, Newcastle-under-Lyme, Kidsgrove and Biddulph and the wider Staffordshire patch. They buy their own kit, get the sizes and protection class right and want it ordered direct, without a procurement department or a trade account in the way.",
+  ],
+  "kit_loc":"across the city's gardens, parks and Staffordshire woodland tree work",
+  "s2_intro":"Whether you climb, work the ground or run a small crew across Stoke-on-Trent's gardens, parks and Staffordshire woodland",
+ },
+ "wolverhampton": {
+  "region":"Wolverhampton and the Black Country",
+  "nearby":["Bilston", "Willenhall", "Sedgley"],
+  "snapshot":"iNeedWorkwear supplies chainsaw trousers, chainsaw boots, forestry helmets, gloves, hi-vis and waterproofs to arborists, tree surgeons and forestry contractors across Wolverhampton, from sole-trader climbers and groundsmen to small firms working the city's leafy suburbs, parks and Black Country woodland from West Park and the Smestow Valley to Baggeridge Country Park, all rated to EN ISO 11393, branded in-house and ordered direct online with no account needed.",
+  "s1_head":"Kitting the people who climb and clear the Black Country's trees",
+  "s1loc":[
+   "Wolverhampton is a greener city than its Black Country roots suggest, with a large estate of mature street, park and garden trees, and managing it keeps a steady community of arborists and tree surgeons busy across the city and the wider Black Country. Most are sole traders and small teams working domestic gardens, council and park contracts and storm clearance, every one of them dependent on proper chainsaw PPE.",
+   "The work follows the city's leafy geography. Suburbs like Tettenhall, Penn and Compton carry mature oak, beech and estate trees, while the Victorian West Park, Bantock Park and the Smestow Valley Local Nature Reserve hold parkland and woodland inside the city, and Northycote Farm, the National Trust's Wightwick Manor and Baggeridge Country Park near Sedgley add estate and country-park work, all of it generating crown reductions, dismantles, felling, deadwooding and stump grinding for local firms.",
+   "It is a safety-critical trade run to recognised standards. Wolverhampton tree surgeons are typically NPTC, City and Guilds and LANTRA qualified, working to BS 3998 for tree work and BS 5837 where trees meet construction, many of them Arboricultural Association members, and TPO and conservation-area rules around Tettenhall and Sedgley Beacon shape much of the work. Ash dieback has put a lot of roadside and woodland ash on the felling list across the region, and with Cannock Chase and its Forestry England plantations close to the north there is steady woodland work too, every chainsaw job, on the ground or roped into a canopy, depending on cut-protective trousers, boots, a forestry helmet and gloves rated to EN ISO 11393.",
+   "And the firms are mostly small: a climber and a groundsman, a family business, a one or two-van outfit working across Wolverhampton, Bilston, Willenhall and Sedgley and the wider Black Country patch. They buy their own kit, get the sizes and protection class right and want it ordered direct, without a procurement department or a trade account in the way.",
+  ],
+  "kit_loc":"across the city's gardens, parks and Black Country woodland tree work",
+  "s2_intro":"Whether you climb, work the ground or run a small crew across Wolverhampton's gardens, parks and Black Country woodland",
+ },
+ "swansea": {
+  "region":"Swansea and West Glamorgan",
+  "nearby":["Neath", "Llanelli", "Port Talbot"],
+  "snapshot":"iNeedWorkwear supplies chainsaw trousers, chainsaw boots, forestry helmets, gloves, hi-vis and waterproofs to arborists, tree surgeons and forestry contractors across Swansea, from sole-trader climbers and groundsmen to small firms working the city's leafy suburbs, Gower woodland and Clyne Valley, all rated to EN ISO 11393, branded in-house and ordered direct online with no account needed.",
+  "s1_head":"Kitting the climbers and groundsmen working Swansea's trees",
+  "s1loc":[
+   "Swansea is a green coastal city wrapped around Gower, with a big estate of mature street, park, garden and valley trees, and managing it keeps a busy community of arborists and tree surgeons working across the city and the wider Swansea Bay. Most are sole traders and small teams on domestic gardens, council and park contracts and storm clearance, every one of them reliant on proper chainsaw PPE.",
+   "The work follows the city's leafy geography. Suburbs like Sketty, Mumbles, Bishopston and Langland carry mature oak, beech and estate trees, while Singleton Park, Clyne Valley Country Park, Bishop's Wood, Penllergare Valley Woods and the Natural Resources Wales forestry on Gower and in the Afan Valley hold parkland and woodland, all of it generating crown reductions, dismantles, felling, deadwooding and stump grinding for local firms.",
+   "It is a safety-critical trade run to recognised standards. Swansea tree surgeons are typically NPTC, City and Guilds and LANTRA qualified, working to BS 3998 for tree work and BS 5837 where trees meet construction, many of them Arboricultural Association members, with ash dieback across Gower and the valleys driving a steady run of felling and removals. Every chainsaw job, on the ground or roped into a canopy, depends on cut-protective trousers, boots, a forestry helmet and gloves rated to EN ISO 11393.",
+   "And the firms are mostly small: a climber and a groundsman, a family business, a one or two-van outfit working across Swansea, Gower and the wider West Glamorgan patch. They buy their own kit, get the sizes and protection class right and want it ordered direct, without a procurement department or a trade account in the way.",
+  ],
+  "kit_loc":"across the city's gardens, parks and Gower woodland tree work",
+  "s2_intro":"Whether you climb, work the ground or run a small crew across Swansea's gardens, Gower woodland and Clyne Valley",
+ },
+ "milton keynes": {
+  "region":"Milton Keynes and Buckinghamshire",
+  "nearby":["Bedford", "Dunstable", "Bicester"],
+  "snapshot":"iNeedWorkwear supplies chainsaw trousers, chainsaw boots, forestry helmets, gloves, hi-vis and waterproofs to arborists, tree surgeons and forestry contractors across Milton Keynes, from sole-trader climbers and groundsmen to small firms working the city's millions of trees, linear parks and ancient woodland, all rated to EN ISO 11393, branded in-house and ordered direct online with no account needed.",
+  "s1_head":"Kitting the people who climb and clear the forest city's trees",
+  "s1loc":[
+   "Milton Keynes was built as a forest city, with millions of trees planted across its grid roads, parks and estates, and managing that enormous canopy keeps a busy community of arborists and tree surgeons working right across the city. Most are sole traders and small teams on domestic gardens, grid-road and park contracts and storm clearance, every one of them reliant on proper chainsaw PPE.",
+   "The work follows the city's planted geography. The Parks Trust looks after the canopy along the grid roads and the Ouse and Ouzel linear parks, while Linford Wood, Howe Park Wood and Shenley Wood hold ancient woodland and parkland trees, all of it generating thinning, crown reductions, dismantles, felling, deadwooding and stump grinding for local firms.",
+   "It is a safety-critical trade run to recognised standards. Milton Keynes tree surgeons are typically NPTC, City and Guilds and LANTRA qualified, working to BS 3998 for tree work and BS 5837 where trees meet construction, many of them Arboricultural Association members, with ash dieback across the city's woods driving felling and a major oak-replanting effort. Every chainsaw job, on the ground or roped into a canopy, depends on cut-protective trousers, boots, a forestry helmet and gloves rated to EN ISO 11393.",
+   "And the firms are mostly small: a climber and a groundsman, a family business, a one or two-van outfit working across Milton Keynes, Newport Pagnell and the wider Buckinghamshire patch. They buy their own kit, get the sizes and protection class right and want it ordered direct, without a procurement department or a trade account in the way.",
+  ],
+  "kit_loc":"across the city's grid-road trees, linear parks and woodland",
+  "s2_intro":"Whether you climb, work the ground or run a small crew across Milton Keynes's grid-road trees, linear parks and ancient woodland",
+ },
+ "aberdeen": {
+  "region":"Aberdeen and the North East",
+  "nearby":["Arbroath", "Elgin", "Perth"],
+  "snapshot":"iNeedWorkwear supplies chainsaw trousers, chainsaw boots, forestry helmets, gloves, hi-vis and waterproofs to arborists, tree surgeons and forestry contractors across Aberdeen, from sole-trader climbers and groundsmen to small firms working the city's leafy West End, parks and Deeside woodland, all rated to EN ISO 11393, branded in-house and ordered direct online with no account needed.",
+  "s1_head":"Kitting the climbers and groundsmen working the Granite City's trees",
+  "s1loc":[
+   "Aberdeen is a granite city set on the edge of Royal Deeside, with a large estate of mature street, park, garden and estate trees, and managing it keeps a busy community of arborists and tree surgeons working across the city and out along the Dee. Most are sole traders and small teams on domestic gardens, council and park contracts and storm clearance, every one of them reliant on proper chainsaw PPE.",
+   "The work follows the city's leafy geography. West End suburbs like Cults, Bieldside, Milltimber and Countesswells carry mature beech, pine and estate trees, while Hazlehead Park, Duthie Park, Countesswells Wood, Foggieton Woods and the Forestry and Land Scotland pinewoods up Deeside hold parkland and woodland, all of it generating crown reductions, dismantles, felling, windblow clearance and stump grinding for local firms.",
+   "It is a safety-critical trade run to recognised standards. Aberdeen tree surgeons are typically NPTC, City and Guilds and LANTRA qualified, working to BS 3998 for tree work and BS 5837 where trees meet construction, many of them Arboricultural Association members, with Storm Arwen windblow across the North East having left a long run of clearance and felling work. Every chainsaw job, on the ground or roped into a canopy, depends on cut-protective trousers, boots, a forestry helmet and gloves rated to EN ISO 11393.",
+   "And the firms are mostly small: a climber and a groundsman, a family business, a one or two-van outfit working across Aberdeen, Banchory and the wider Deeside patch. They buy their own kit, get the sizes and protection class right and want it ordered direct, without a procurement department or a trade account in the way.",
+  ],
+  "kit_loc":"across the city's gardens, parks and Deeside woodland tree work",
+  "s2_intro":"Whether you climb, work the ground or run a small crew across Aberdeen's leafy West End, parks and Deeside woodland",
+ },
+ "reading": {
+  "region":"Reading and Berkshire",
+  "nearby":["Wokingham", "Bracknell", "Woodley"],
+  "snapshot":"iNeedWorkwear supplies chainsaw trousers, chainsaw boots, forestry helmets, gloves, hi-vis and waterproofs to arborists, tree surgeons and forestry contractors across Reading, from sole-trader climbers and groundsmen to small firms working the town's leafy suburbs, parks and Thames Valley woodland, all rated to EN ISO 11393, branded in-house and ordered direct online with no account needed.",
+  "s1_head":"Kitting the people who climb and clear the Thames Valley's trees",
+  "s1loc":[
+   "Reading is a green Thames Valley town with a large estate of mature street, park, garden and riverside trees, and managing it keeps a busy community of arborists and tree surgeons working across the town and the wider Berkshire patch. Most are sole traders and small teams on domestic gardens, council and park contracts and storm clearance, every one of them reliant on proper chainsaw PPE.",
+   "The work follows the town's leafy geography. Suburbs like Caversham, Caversham Heights, Emmer Green, Tilehurst and Earley carry mature oak, beech and estate trees, while Prospect Park, Caversham Court, the McIlroy Park and Blundells Copse ancient woodland and the Chilterns and Thames-side woods just north hold parkland and woodland, all of it generating crown reductions, dismantles, felling, deadwooding and stump grinding for local firms.",
+   "It is a safety-critical trade run to recognised standards. Reading tree surgeons are typically NPTC, City and Guilds and LANTRA qualified, working to BS 3998 for tree work and BS 5837 where trees meet construction, many of them Arboricultural Association members, with TPO and conservation-area rules across Caversham and the older suburbs shaping much of the work. Every chainsaw job, on the ground or roped into a canopy, depends on cut-protective trousers, boots, a forestry helmet and gloves rated to EN ISO 11393.",
+   "And the firms are mostly small: a climber and a groundsman, a family business, a one or two-van outfit working across Reading, Pangbourne and the wider Berkshire patch. They buy their own kit, get the sizes and protection class right and want it ordered direct, without a procurement department or a trade account in the way.",
+  ],
+  "kit_loc":"across the town's gardens, parks and Thames Valley woodland",
+  "s2_intro":"Whether you climb, work the ground or run a small crew across Reading's leafy suburbs, parks and Thames Valley woodland",
+ },
+ "northampton": {
+  "region":"Northampton and Northamptonshire",
+  "nearby":["Wellingborough", "Kettering", "Rushden"],
+  "snapshot":"iNeedWorkwear supplies chainsaw trousers, chainsaw boots, forestry helmets, gloves, hi-vis and waterproofs to arborists, tree surgeons and forestry contractors across Northampton, from sole-trader climbers and groundsmen to small firms working the town's leafy suburbs, parks and Salcey Forest woodland, all rated to EN ISO 11393, branded in-house and ordered direct online with no account needed.",
+  "s1_head":"Kitting the climbers and groundsmen working Northamptonshire's trees",
+  "s1loc":[
+   "Northampton is a green Nene Valley town with a large estate of mature street, park, garden and parkland trees, and managing it keeps a busy community of arborists and tree surgeons working across the town and the wider Northamptonshire patch. Most are sole traders and small teams on domestic gardens, council and park contracts and storm clearance, every one of them reliant on proper chainsaw PPE.",
+   "The work follows the town's leafy geography. Suburbs like Abington, Kingsthorpe, Duston and Wootton carry mature oak, beech and estate trees, while Abington Park, Delapre Woods with its fine oak and sweet chestnut, Hunsbury Hill Country Park and the Forestry England oaks of Salcey Forest hold parkland and woodland, all of it generating crown reductions, dismantles, felling, deadwooding and stump grinding for local firms.",
+   "It is a safety-critical trade run to recognised standards. Northampton tree surgeons are typically NPTC, City and Guilds and LANTRA qualified, working to BS 3998 for tree work and BS 5837 where trees meet construction, many of them Arboricultural Association members, with ash dieback across the county's parks and woodland driving a steady run of felling and removals. Every chainsaw job, on the ground or roped into a canopy, depends on cut-protective trousers, boots, a forestry helmet and gloves rated to EN ISO 11393.",
+   "And the firms are mostly small: a climber and a groundsman, a family business, a one or two-van outfit working across Northampton, Towcester and the wider Northamptonshire patch. They buy their own kit, get the sizes and protection class right and want it ordered direct, without a procurement department or a trade account in the way.",
+  ],
+  "kit_loc":"across the town's gardens, parks and Northamptonshire woodland",
+  "s2_intro":"Whether you climb, work the ground or run a small crew across Northampton's leafy suburbs, parks and Salcey Forest woodland",
+ },
+ "luton": {
+  "region":"Luton and Bedfordshire",
+  "nearby":["Dunstable", "Hitchin", "Harpenden"],
+  "snapshot":"iNeedWorkwear supplies chainsaw trousers, chainsaw boots, forestry helmets, gloves, hi-vis and waterproofs to arborists, tree surgeons and forestry contractors across Luton, from sole-trader climbers and groundsmen to small firms working Stockwood Park, Wardown Park and the Chiltern woodland on the town's edge, all rated to EN ISO 11393, branded in-house and ordered direct online with no account needed.",
+  "s1_head":"Kitting the people who climb and clear the Chilterns' trees",
+  "s1loc":[
+   "Luton sits at the foot of the Chiltern Hills on the River Lea, a busy Bedfordshire town wrapped in mature street, park and estate trees, and managing that green estate keeps a steady community of arborists and tree surgeons working across the town and the surrounding countryside. Most are sole traders and small teams on domestic gardens, council and park contracts and storm clearance, every one of them dependent on proper chainsaw PPE.",
+   "The work follows the town's leafy geography. Suburbs like Wigmore, Stopsley and Round Green carry mature garden and street trees, while Stockwood Park and the old Crawley estate, Wardown Park on the Lea, Wigmore Valley Park and Kidney Wood hold parkland and woodland, and the Chiltern beechwoods rise just beyond the edge, all of it generating crown reductions, dismantles, felling, deadwooding and stump grinding for local firms.",
+   "It is a safety-critical trade run to recognised standards. Luton tree surgeons are typically NPTC, City and Guilds and LANTRA qualified, working to BS 3998 for tree work and BS 5837 where trees meet construction, many of them Arboricultural Association members, and ash dieback across the Chilterns has driven thousands of felled ash trees and a heavy run of safety work. Every chainsaw job, on the ground or roped into a canopy, depends on cut-protective trousers, boots, a forestry helmet and gloves rated to EN ISO 11393.",
+   "And the firms are mostly small: a climber and a groundsman, a family business, a one or two-van outfit working across Luton, Dunstable and the wider Bedfordshire and Chilterns patch. They buy their own kit, get the sizes and protection class right and want it ordered direct, without a procurement department or a trade account in the way.",
+  ],
+  "kit_loc":"across the town's gardens, parks and Chiltern woodland tree work",
+  "s2_intro":"Whether you climb, work the ground or run a small crew across Luton's parks, gardens and Chiltern woodland",
+ },
+ "portsmouth": {
+  "region":"Portsmouth and Hampshire",
+  "nearby":["Gosport", "Fareham", "Havant"],
+  "snapshot":"iNeedWorkwear supplies chainsaw trousers, chainsaw boots, forestry helmets, gloves, hi-vis and waterproofs to arborists, tree surgeons and forestry contractors across Portsmouth, from sole-trader climbers and groundsmen to small firms working Portsdown Hill, the South Downs and the Hampshire woodland inland, all rated to EN ISO 11393, branded in-house and ordered direct online with no account needed.",
+  "s1_head":"Kitting the people who climb and clear Hampshire's coastal trees",
+  "s1loc":[
+   "Portsmouth is a dense island city backed by green Hampshire countryside, with a large estate of street, park and garden trees and the wooded chalk of Portsdown Hill on its northern edge, and managing it keeps a steady community of arborists and tree surgeons busy across the city and South Hampshire. Most are sole traders and small teams working domestic gardens, council and park contracts and storm clearance, every one of them dependent on proper chainsaw PPE.",
+   "The work follows the city's geography. Suburbs like Cosham, Drayton and Farlington carry mature garden and street trees, while Victoria Park, Portsdown Hill with its chalk grassland and scrub, Staunton Country Park and Stansted Park run along the edge, and Queen Elizabeth Country Park and the South Downs beechwoods rise inland, all of it generating crown reductions, dismantles, felling, deadwooding and stump grinding for local firms.",
+   "It is a safety-critical trade run to recognised standards. Portsmouth tree surgeons are typically NPTC, City and Guilds and LANTRA qualified, working to BS 3998 for tree work and BS 5837 where trees meet construction, many of them Arboricultural Association members, and ash dieback across the South Downs woodlands keeps a heavy run of felling and safety work coming. Every chainsaw job, on the ground or roped into a canopy, depends on cut-protective trousers, boots, a forestry helmet and gloves rated to EN ISO 11393.",
+   "And the firms are mostly small: a climber and a groundsman, a family business, a one or two-van outfit working across Portsmouth, Havant and the wider South Hampshire patch. They buy their own kit, get the sizes and protection class right and want it ordered direct, without a procurement department or a trade account in the way.",
+  ],
+  "kit_loc":"across the city's gardens, parks and South Downs woodland tree work",
+  "s2_intro":"Whether you climb, work the ground or run a small crew across Portsmouth's parks, Portsdown Hill and South Downs woodland",
+ },
+ "peterborough": {
+  "region":"Peterborough and Cambridgeshire",
+  "nearby":["Stamford", "Spalding", "Corby"],
+  "snapshot":"iNeedWorkwear supplies chainsaw trousers, chainsaw boots, forestry helmets, gloves, hi-vis and waterproofs to arborists, tree surgeons and forestry contractors across Peterborough, from sole-trader climbers and groundsmen to small firms working Nene Park, Thorpe Wood and the Nene Valley woodland, all rated to EN ISO 11393, branded in-house and ordered direct online with no account needed.",
+  "s1_head":"Kitting the people who climb and clear the Nene Valley's trees",
+  "s1loc":[
+   "Peterborough is a fast-growing Cambridgeshire city set in the Nene Valley, with a large estate of street, park and parkway trees and ancient woodland on its doorstep, and managing it keeps a steady community of arborists and tree surgeons busy across the city and the surrounding fen and valley country. Most are sole traders and small teams working domestic gardens, council and park contracts and storm clearance, every one of them dependent on proper chainsaw PPE.",
+   "The work follows the city's green geography. Suburbs like Longthorpe, Orton and Bretton carry mature garden and parkway trees, while Ferry Meadows and the wider Nene Park, Thorpe Wood on its heavy clay and the Bretton Woodlands hold parkland and woodland, with the Forest of Marston Vale and Nene Valley planting beyond, all of it generating crown reductions, dismantles, felling, deadwooding and stump grinding for local firms.",
+   "It is a safety-critical trade run to recognised standards. Peterborough tree surgeons are typically NPTC, City and Guilds and LANTRA qualified, working to BS 3998 for tree work and BS 5837 where trees meet construction, many of them Arboricultural Association members, and ash dieback in the Bretton Woodlands has driven a council felling programme along paths and boundaries. Every chainsaw job, on the ground or roped into a canopy, depends on cut-protective trousers, boots, a forestry helmet and gloves rated to EN ISO 11393.",
+   "And the firms are mostly small: a climber and a groundsman, a family business, a one or two-van outfit working across Peterborough, Stamford and the wider Nene Valley and fen patch. They buy their own kit, get the sizes and protection class right and want it ordered direct, without a procurement department or a trade account in the way.",
+  ],
+  "kit_loc":"across the city's gardens, parks and Nene Valley woodland tree work",
+  "s2_intro":"Whether you climb, work the ground or run a small crew across Peterborough's parks, gardens and Nene Valley woodland",
+ },
+ "bolton": {
+  "region":"Bolton and Greater Manchester",
+  "nearby":["Bury", "Wigan", "Horwich"],
+  "snapshot":"iNeedWorkwear supplies chainsaw trousers, chainsaw boots, forestry helmets, gloves, hi-vis and waterproofs to arborists, tree surgeons and forestry contractors across Bolton, from sole-trader climbers and groundsmen to small firms working Smithills, Moss Bank Park and the West Pennine Moors woodland, all rated to EN ISO 11393, branded in-house and ordered direct online with no account needed.",
+  "s1_head":"Kitting the people who climb and clear the West Pennine trees",
+  "s1loc":[
+   "Bolton is a green Greater Manchester town that climbs from the valley up to the edge of the West Pennine Moors, with a large estate of mature street, park and estate trees, and managing it keeps a steady community of arborists and tree surgeons busy across the town and the moorland fringe. Most are sole traders and small teams working domestic gardens, council and park contracts and storm clearance, every one of them dependent on proper chainsaw PPE.",
+   "The work follows the town's leafy geography. Suburbs like Heaton, Lostock and Smithills carry mature oak and beech and estate trees, while Moss Bank Park, the Smithills Estate, England's largest Woodland Trust site, running from Barrow Bridge up toward Winter Hill, and the wooded cloughs of the West Pennine Moors hold parkland and woodland, all of it generating crown reductions, dismantles, felling, deadwooding and stump grinding for local firms.",
+   "It is a safety-critical trade run to recognised standards. Bolton tree surgeons are typically NPTC, City and Guilds and LANTRA qualified, working to BS 3998 for tree work and BS 5837 where trees meet construction, many of them Arboricultural Association members, and exposure to West Pennine wind and a heavy stock of TPO trees around Heaton, Lostock and Smithills Hall shape much of the work. Every chainsaw job, on the ground or roped into a canopy, depends on cut-protective trousers, boots, a forestry helmet and gloves rated to EN ISO 11393.",
+   "And the firms are mostly small: a climber and a groundsman, a family business, a one or two-van outfit working across Bolton, Bury and the wider Greater Manchester and West Pennine patch. They buy their own kit, get the sizes and protection class right and want it ordered direct, without a procurement department or a trade account in the way.",
+  ],
+  "kit_loc":"across the town's gardens, parks and West Pennine woodland tree work",
+  "s2_intro":"Whether you climb, work the ground or run a small crew across Bolton's parks, estates and West Pennine woodland",
+ },
+ "dudley": {
+  "region":"Dudley and the West Midlands",
+  "nearby":["Stourbridge", "Halesowen", "Brierley Hill"],
+  "snapshot":"iNeedWorkwear supplies chainsaw trousers, chainsaw boots, forestry helmets, gloves, hi-vis and waterproofs to arborists, tree surgeons and forestry contractors across Dudley, from sole-trader climbers and groundsmen to small firms working Saltwells, Wren's Nest and the Black Country urban woodland, all rated to EN ISO 11393, branded in-house and ordered direct online with no account needed.",
+  "s1_head":"Kitting the people who climb and clear the Black Country's trees",
+  "s1loc":[
+   "Dudley sits at the heart of the Black Country, a busy West Midlands borough threaded with street, park and garden trees and pockets of ancient woodland, and managing that urban forest keeps a steady community of arborists and tree surgeons busy across the town and the wider conurbation. Most are sole traders and small teams working domestic gardens, council and park contracts and storm clearance, every one of them dependent on proper chainsaw PPE.",
+   "The work follows the borough's green geography. Suburbs like Woodside, Sedgley and Gornal carry mature garden and street trees, while Saltwells National Nature Reserve with its ancient Saltwells Wood, the limestone slopes and woodland of Wren's Nest and the Capability Brown parkland at Himley Hall hold woodland and estate trees, all of it generating crown reductions, dismantles, felling, deadwooding and stump grinding for local firms.",
+   "It is a safety-critical trade run to recognised standards. Dudley tree surgeons are typically NPTC, City and Guilds and LANTRA qualified, working to BS 3998 for tree work and BS 5837 where trees meet construction, many of them Arboricultural Association members, and ash dieback in the borough's mixed oak and ash woodland alongside the council's urban forest and woodland grant work keeps the felling and safety jobs coming. Every chainsaw job, on the ground or roped into a canopy, depends on cut-protective trousers, boots, a forestry helmet and gloves rated to EN ISO 11393.",
+   "And the firms are mostly small: a climber and a groundsman, a family business, a one or two-van outfit working across Dudley, Stourbridge and the wider Black Country patch. They buy their own kit, get the sizes and protection class right and want it ordered direct, without a procurement department or a trade account in the way.",
+  ],
+  "kit_loc":"across the borough's gardens, parks and Black Country woodland tree work",
+  "s2_intro":"Whether you climb, work the ground or run a small crew across Dudley's parks, nature reserves and Black Country woodland",
+ },
 }
 
 # === CSV / nearby ==========================================================
@@ -451,6 +874,7 @@ def main():
     args=[a for a in sys.argv[1:]]
     outdir=os.environ.get('FS_OUTDIR','outputs')
     os.makedirs(outdir, exist_ok=True)
+    disp={r[1].lower():r[1] for r in _load_csv()}  # exact CSV display names
     if not args:
         args=[t for t in TOWNS if t!='london']
     for town_key in args:
@@ -458,7 +882,7 @@ def main():
         if tk=='london': continue
         if tk not in TOWNS:
             print(f"SKIP {town_key}: not in TOWNS (must be web-researched first)"); continue
-        town=' '.join(w.capitalize() for w in tk.split())
+        town=disp.get(tk) or ' '.join(w.capitalize() for w in tk.split())
         slug=f"fs-{slugify(town)}"
         html=assemble(slug, town)
         path=os.path.join(outdir, f"{slug}.html")
