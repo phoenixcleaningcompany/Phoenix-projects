@@ -2,3 +2,4 @@ __pycache__/
 *.pyc
 research_b*g*.py
 batch*_nearby.json
+dist/
