@@ -465,12 +465,15 @@ def main():
     os.makedirs(outdir, exist_ok=True)
     if not args:
         args=[t for t in TOWNS if t!='london']
+    # exact CSV spelling for display (handles Stoke-on-Trent, Newcastle upon Tyne,
+    # Weston-super-Mare etc.); verify keys off the CSV town, so this is safest.
+    disp={r[1].lower(): r[1] for r in _load_csv()}
     for town_key in args:
         tk=town_key.lower()
         if tk=='london': continue
         if tk not in TOWNS:
             print(f"SKIP {town_key}: not in TOWNS (must be web-researched first)"); continue
-        town=' '.join(w.capitalize() for w in tk.split())
+        town=disp.get(tk, ' '.join(w.capitalize() for w in tk.split()))
         slug=f"dc-{slugify(town)}"
         html=assemble(slug, town)
         path=os.path.join(outdir, f"{slug}.html")
