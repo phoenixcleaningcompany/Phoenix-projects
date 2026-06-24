@@ -4,17 +4,18 @@
 Usage:  python3 verify_fs.py [folder]     default folder: outputs/
 Needs:  FS_towns.csv in repo root (Rank, Town, Population, Nation)
 
-Concierge / Template A series (procurement buyer). Hard fails: links
-(14 .com + 1 community), JS, entities, meta length, town in title/h1, delivery
-claims, cross-series bleed, lead products (polo + softshell + trousers),
-duplicate title/description, dead nearby links. Warn only: word count (12),
-filename slug (14).
+Self-checkout / Template B series (sole-trader / small-crew buyer ordering
+direct online). Hard fails: links (14 .com + 1 community), JS, entities, meta
+length, town in title/h1, delivery claims, cross-series bleed, lead products
+(chainsaw + safety boots + helmet), duplicate title/description, dead nearby
+links. Warn only: word count (12), filename slug (14).
 
-SE is STRICTLY everyday workwear. Check 10 hard-blocks any body-armour /
-ballistic / stab-vest language, plus FM-cleaning bleed (tabard, tunic, COSHH),
-sports bleed (the SF kit lineage) and education/care/trade bleed. SIA, BS 7858,
-epaulettes, hi-vis, softshell, enforcement, door supervision and DBS are
-legitimate SE vocabulary and are NOT bleed.
+FS core vocabulary - chainsaw, tree surgery, arboriculture, forestry,
+EN ISO 11393, Type A/C, AFAG - is LEGITIMATE and must NOT be blocked. Check 10
+instead bans the OTHER series' template bleed: food-hygiene (BRCGS/hairnet),
+security (SIA/body armour), cleaning (COSHH/tabard), waste (RCV/refuse),
+renewables (solar/EV/heat pump/MCS), highway (Chapter 8/National Highways),
+care/education (Ofsted/CQC) and sports (gym/tracksuit/matchday).
 """
 import csv, os, re, sys
 

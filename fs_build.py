@@ -449,7 +449,8 @@ def assemble(slug, town):
 
 def main():
     args=[a for a in sys.argv[1:]]
-    outdir='/mnt/user-data/outputs'
+    outdir=os.environ.get('FS_OUTDIR','outputs')
+    os.makedirs(outdir, exist_ok=True)
     if not args:
         args=[t for t in TOWNS if t!='london']
     for town_key in args:
