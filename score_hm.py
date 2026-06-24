@@ -23,7 +23,20 @@ MIN_WORDS = 5
 
 CHROME = ["hm-header", "hm-trust-strip", "hm-stats", "hm-jump-links",
           "hm-cta-bar", "hm-contact-block", "hm-footer", "hm-nearby",
-          "hm-contract", "hm-product-grid"]
+          "hm-contract", "hm-product-grid", "hm-faq", "hm-workwear"]
+
+# Generated boilerplate body sections assembled from shared variant pools (no
+# per-town editorial substance once the town name is masked). These mirror the
+# already-stripped hm-contract block: they exist to vary phrasing across pages,
+# not to carry local content. Stripped so the score measures AUTHORED substance
+# (snapshot + s1loc + s2_intro) and still catches real authored drift. Tuned as
+# the series scales past the handful of pages the pools were calibrated on.
+GEN_SECTIONS = [
+    "Branding, Identity and Conspicuity",
+    "Ordering, Trade Accounts and Multi-Depot Supply",
+    "Why Highways Teams and Contractors Choose iNeedWorkwear",
+    "How to Order Highway Maintenance Workwear",
+]
 
 
 def remove_div(html, cls):
@@ -50,6 +63,28 @@ def footer_tag(html):
     return re.sub(r'<footer\b.*?</footer>', ' ', html, flags=re.I | re.S)
 
 
+def remove_section_by_heading(html, heading):
+    """Remove the generated hm-section whose H2 matches `heading` (depth-balanced)."""
+    idx = html.find("<h2>" + heading)
+    if idx == -1:
+        return html
+    start = html.rfind('<div class="hm-section"', 0, idx)
+    if start == -1:
+        return html
+    tag = re.compile(r'<(/?)div\b[^>]*>', re.I)
+    depth, j, seen = 0, start, False
+    while j < len(html):
+        m = tag.search(html, j)
+        if not m:
+            j = len(html); break
+        depth += -1 if m.group(1) else 1
+        j = m.end()
+        if seen and depth == 0:
+            break
+        seen = True
+    return html[:start] + " " + html[j:]
+
+
 def strip(html):
     html = re.sub(r'<script\b.*?</script>', ' ', html, flags=re.I | re.S)
     html = re.sub(r'<style\b.*?</style>', ' ', html, flags=re.I | re.S)
@@ -58,6 +93,8 @@ def strip(html):
     html = footer_tag(html)
     for c in CHROME:
         html = remove_div(html, c)
+    for h in GEN_SECTIONS:
+        html = remove_section_by_heading(html, h)
     text = re.sub(r'<[^>]+>', ' ', html)
     return text
 

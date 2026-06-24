@@ -307,6 +307,426 @@ TOWNS = {
   "kit_loc":"across the city's carriageway, lighting and winter-maintenance work",
   "s2_intro":"Across Leeds's council carriageway, lighting and drainage work and the National Highways motorway network",
  },
+ "glasgow": {
+  "region":"Glasgow and the west of Scotland",
+  "nearby":["Paisley","Motherwell","Clydebank"],
+  "snapshot":"iNeedWorkwear supplies Class 3 hi-vis, safety boots, waterproofs and branded workwear to Glasgow's highway maintenance teams and roadworks contractors, from the city council's in-house roads service and its carriageway and lighting renewal programme to Amey's Transport Scotland trunk-road work on the M8 and the Clyde crossings, with name and ID branding placed off the certified reflective area and multi-depot supply.",
+  "s1_head":"Kitting the people who keep the west of Scotland's roads running",
+  "s1loc":[
+   "Glasgow carries Scotland's densest urban traffic, with the M8 cutting through the city centre over the Kingston Bridge and the Clyde Tunnel running beneath the river. The city council is the roads authority for the local carriageways, footways and many thousands of lighting columns, and its crews work in Class 3 hi-vis within feet of moving traffic on almost every job.",
+   "The council has been delivering a multi-year roads renewal programme worth well over one hundred million pounds, resurfacing hundreds of streets, replacing around nine thousand lighting columns with LED and tackling drainage, with its own neighbourhoods and roads teams doing the work and contractors called off for the larger schemes. It also maintains the Clyde Tunnel directly, an unusual structural responsibility for a city council.",
+   "Beyond the local network, Transport Scotland is the roads authority for the motorways, with Amey running the south-west trunk-road unit covering the M8, M74, M77, M73 and the Erskine Bridge in recent years. The Kingston Bridge carries one of the heaviest flows in the country and is closed overnight for joint and bearing inspection, the kind of high-speed, after-dark work where being seen is everything.",
+   "Resurfacing, lining, gully work, lighting, structures and winter gritting on the city's steep streets all put Glasgow gangs out on live carriageways in full Class 3 hi-vis, jacket and trousers together.",
+  ],
+  "kit_loc":"across the city's carriageway, lighting and winter-maintenance work",
+  "s2_intro":"Across Glasgow's council carriageway, lighting and drainage work and the Transport Scotland trunk-road network",
+ },
+ "sheffield": {
+  "region":"Sheffield and South Yorkshire",
+  "nearby":["Rotherham","Barnsley","Doncaster"],
+  "snapshot":"iNeedWorkwear kits Sheffield's highway maintenance teams and roadworks contractors with Class 3 hi-vis, safety boots, waterproofs and branded workwear, from Amey's long-running Streets Ahead PFI across the city to National Highways work on the M1 and M18, with name and ID branding placed off the certified reflective area and multi-depot supply.",
+  "s1_head":"Kitting the people who keep South Yorkshire's roads running",
+  "s1loc":[
+   "Sheffield spreads across seven hills and several river valleys, which makes its road network one of the most awkward in the country to surface and grit. The city's carriageways, footways, bridges, drainage, signals and tens of thousands of lighting columns are run under one of England's longest highway PFIs, and the gangs that look after them work in Class 3 hi-vis beside live traffic.",
+   "That work runs through Streets Ahead, the twenty-five-year PFI with Amey that reaches into the 2030s, which resurfaced more than half the city's roads and switched the whole lighting stock to LED in its core investment period before moving to a mix of preventative and reactive upkeep. It is a large, heavily audited programme that puts crews on the carriageway day and night.",
+   "The motorways belong to National Highways, with the M1 along the eastern edge through junctions 31 to 35a, the M18 peeling off at 32a and the trans-Pennine A57 and A628 Woodhead route heading west toward Manchester. The Supertram shares carriageway across much of the city, so works near the tram reservation add a layer of coordination to already fast, exposed roads.",
+   "Surfacing, lining, gully and drainage, lighting, structures and winter gritting on the steep valley roads put Sheffield crews out in Class 3 hi-vis beside running traffic through the year.",
+  ],
+  "kit_loc":"across the city's carriageway, lighting and winter-maintenance work",
+  "s2_intro":"Across Sheffield's Streets Ahead carriageway, lighting and drainage work and the National Highways motorway network",
+ },
+ "manchester": {
+  "region":"Manchester and Greater Manchester",
+  "nearby":["Salford","Stockport","Bolton"],
+  "snapshot":"iNeedWorkwear supplies Class 3 hi-vis, safety boots, waterproofs and branded workwear to Manchester's highway maintenance teams and roadworks contractors, from the city council's repair framework and the Transport for Greater Manchester Key Route Network to National Highways work on the M60 ring, with name and ID branding placed off the certified reflective area and multi-depot supply.",
+  "s1_head":"Kitting the people who keep Greater Manchester's roads running",
+  "s1loc":[
+   "Manchester sits inside one of the busiest motorway boxes in Britain, ringed by the M60 and threaded by the Metrolink tram. The city council looks after the local carriageways, footways and cycleways, while Transport for Greater Manchester coordinates a Key Route Network of around six hundred kilometres of the busiest roads across the ten boroughs that carries most of the peak traffic.",
+   "Rather than a PFI, the city runs planned and reactive repairs through a maintenance framework, with firms such as Thermal Road Repairs among those appointed and a planned programme worth tens of millions of pounds a year. Across the conurbation the combined authority and TfGM fund a multi-year renewals programme under the Bee Network banner, keeping repair gangs out across the city day and night.",
+   "National Highways runs the motorways: the M60 orbital, the M62 east to west, the M56 to the south, the M61 toward Bolton and the M6 to the west, with schemes such as Simister Island and the A57 link in the pipeline. Metrolink shares city-centre carriageway and junctions, so works near the tramway need careful staging alongside fast motorway traffic.",
+   "Resurfacing, lining, drainage, lighting, structures, tram-corridor works and winter gritting all mean Manchester gangs work in hi-vis next to live traffic.",
+  ],
+  "kit_loc":"across the city's carriageway, tram-corridor and winter-maintenance work",
+  "s2_intro":"Across Manchester's council carriageway and tram-corridor work and the National Highways motorway box",
+ },
+ "edinburgh": {
+  "region":"Edinburgh and the Lothians",
+  "nearby":["Glasgow","Dundee","Livingston"],
+  "snapshot":"iNeedWorkwear kits Edinburgh's highway maintenance teams and roadworks contractors with Class 3 hi-vis, safety boots, waterproofs and branded workwear, from the council's in-house roads operations and construction framework to BEAR Scotland's Transport Scotland work on the A720 City Bypass, with name and ID branding placed off the certified reflective area and multi-depot supply.",
+  "s1_head":"Kitting the people who keep the Lothians' roads running",
+  "s1loc":[
+   "Edinburgh's roads run through a tight, hilly historic core, with a tram line down Princes Street and Leith Walk that complicates any city-centre dig. The council maintains the carriageways, footways, bridges, retaining walls and lighting, and its crews turn out in Class 3 hi-vis to work safely beside the capital's busy traffic.",
+   "The council delivers roads work through its own roads operations team backed by a multi-year construction framework worth around one hundred million pounds, with surfacing and civils lots held by contractors including Aggregate Industries and Holcim. In a recent year it logged its largest single jump in road condition on record, improving hundreds of thousands of square metres of carriageway and footway.",
+   "Transport Scotland is the roads authority for the trunk network, with BEAR Scotland running the south-east unit and maintaining the A720 Edinburgh City Bypass, the A1 and the routes out across the Lothians and Borders, while the Queensferry Crossing carries the M90 over the Forth nearby. Bypass work means fast roads, lane closures and traffic management at all hours.",
+   "Resurfacing, lining, drainage, lighting, retaining walls and winter gritting on the bypass and the city's hills are all handled by Edinburgh crews in Class 3 hi-vis on the carriageway.",
+  ],
+  "kit_loc":"across the city's carriageway, tram-corridor and winter-maintenance work",
+  "s2_intro":"Across Edinburgh's council carriageway and tram-corridor work and the Transport Scotland trunk-road network",
+ },
+ "liverpool": {
+  "region":"Liverpool and Merseyside",
+  "nearby":["Birkenhead","St Helens","Warrington"],
+  "snapshot":"iNeedWorkwear supplies Class 3 hi-vis, safety boots, waterproofs and branded workwear to Liverpool's highway maintenance teams and roadworks contractors, from the council's term contractors and the Liverpool City Region works framework to National Highways work on the M62 and M57, with name and ID branding placed off the certified reflective area and multi-depot supply.",
+  "s1_head":"Kitting the people who keep Merseyside's roads running",
+  "s1loc":[
+   "Liverpool's network packs a dense city and dockland into the east bank of the Mersey, with the Queensway and Kingsway road tunnels running under the river to Birkenhead and Wallasey. The council maintains the carriageways, footways and lighting, while Merseytravel operates and maintains the two tunnels, and repair gangs work the whole lot in Class 3 hi-vis beside live traffic.",
+   "Day-to-day maintenance runs through term contracts with local firms such as Dowhigh and Huyton Asphalt Civils, north and south of the city, sitting beneath a large Liverpool City Region planned-works framework shared with the neighbouring boroughs and the combined authority for resurfacing, signals and bridges. Eight contractors hold places on that wider framework for the bigger capital schemes.",
+   "National Highways carries the motorways, with the M62 east to Manchester, the M57 outer ring, the M58 toward the M6 and the M53 over on the Wirral, plus the historic A580 East Lancashire Road as a major arterial. Tunnel approaches and motorway lane closures alike mean fast traffic and tight management on the busiest crossings in the region.",
+   "Resurfacing, lining, drainage, lighting, structures, tunnel-approach works and winter gritting keep Liverpool crews in hi-vis within feet of moving traffic.",
+  ],
+  "kit_loc":"across the city's carriageway, tunnel-approach and winter-maintenance work",
+  "s2_intro":"Across Liverpool's council carriageway and tunnel-approach work and the National Highways motorway network",
+ },
+ "bristol": {
+  "region":"Bristol and the West of England",
+  "nearby":["Bath","Weston-super-Mare","Gloucester"],
+  "snapshot":"iNeedWorkwear kits Bristol's highway maintenance teams and roadworks contractors with Class 3 hi-vis, safety boots, waterproofs and branded workwear, from the council's term and asset frameworks to National Highways work on the M5, M4 and M32, with name and ID branding placed off the certified reflective area and multi-depot supply.",
+  "s1_head":"Kitting the people who keep the West of England's roads running",
+  "s1loc":[
+   "Bristol holds more than twelve hundred kilometres of carriageway across a hilly, historic street pattern, with the M32 urban motorway driving straight into the centre. The council maintains the roads, footways, cycleways, bridges, subways and drainage, and its repair gangs work in Class 3 hi-vis beside the city's heavy traffic.",
+   "Maintenance runs through term contracts and frameworks rather than a PFI, including a highways asset management and civils framework worth hundreds of millions of pounds spread over surfacing, bridges and traffic-management lots, with Eurovia, Tarmac, Breedon and Colas among those appointed. Much of the funding flows from the West of England Combined Authority transport settlement.",
+   "National Highways runs the motorways, with the M5 north to south past Avonmouth, the M4 east toward the Severn crossings and the M32 spur into the centre. The M5 Avonmouth Bridge alone carries well over one hundred thousand vehicles a day, so structural and resurfacing work there means high-speed traffic and overnight closures.",
+   "Resurfacing, lining, drainage, lighting, bridges and winter gritting put Bristol gangs out on live carriageways in full Class 3 hi-vis, jacket and trousers together.",
+  ],
+  "kit_loc":"across the city's carriageway, lighting and winter-maintenance work",
+  "s2_intro":"Across Bristol's council carriageway, lighting and drainage work and the National Highways motorway network",
+ },
+ "cardiff": {
+  "region":"Cardiff and South Wales",
+  "nearby":["Newport","Pontypridd","Bridgend"],
+  "snapshot":"iNeedWorkwear supplies Class 3 hi-vis, safety boots, waterproofs and branded workwear to Cardiff's highway maintenance teams and roadworks contractors, from the council's in-house operation at Brindley Road to the Welsh Government trunk-road network on the M4 and A470, with name and ID branding placed off the certified reflective area and multi-depot supply.",
+  "s1_head":"Kitting the people who keep South Wales's roads running",
+  "s1loc":[
+   "Cardiff maintains around five thousand roads and over one hundred thousand highway assets across the Welsh capital. It runs a largely direct-labour operation from its Brindley Road depot in Tremorfa, handling carriageway and footway repairs, lighting, drainage, gully cleansing and barriers, with gangs working in Class 3 hi-vis beside the city's traffic.",
+   "The council fields a frontline team of around two hundred staff for planned and reactive work, letting specialist contracts for the larger schemes and managing its stock through a highway asset management plan. It is an unusually in-house model for a city of this size, keeping most everyday maintenance under direct control.",
+   "The Welsh Government is the roads authority for the motorways and trunk roads, managed through the South Wales Trunk Road Agent with Traffic Wales running the control centre in Cardiff. The M4 passes north of the city, the A4232 Cardiff Bay link and the A470 into the valleys are trunk routes, and the Brynglas Tunnels just west at Newport are a notorious pinch point for works.",
+   "Resurfacing, lining, drainage, lighting, structures and winter gritting put Cardiff crews out in Class 3 hi-vis beside running traffic.",
+  ],
+  "kit_loc":"across the city's carriageway, lighting and winter-maintenance work",
+  "s2_intro":"Across Cardiff's council carriageway, lighting and drainage work and the Welsh Government trunk-road network",
+ },
+ "leicester": {
+  "region":"Leicester and the East Midlands",
+  "nearby":["Nottingham","Coventry","Northampton"],
+  "snapshot":"iNeedWorkwear kits Leicester's highway maintenance teams and roadworks contractors with Class 3 hi-vis, safety boots, waterproofs and branded workwear, from the council's Aggregate Industries surfacing contract to National Highways work on the M1 and M69, with name and ID branding placed off the certified reflective area and multi-depot supply.",
+  "s1_head":"Kitting the people who keep the East Midlands' roads running",
+  "s1loc":[
+   "Leicester is a compact, busy city wrapped by inner and outer ring roads, with roughly thirty-seven thousand street lights and more than two hundred bridges and structures on the council's books. Its maintenance gangs work in Class 3 hi-vis beside heavy city traffic, day and night.",
+   "Carriageway patching and resurfacing run through Aggregate Industries, holding both a multi-year city contract and a larger joint patching deal with the surrounding county that spans thousands of kilometres, fed by asphalt from the Bardon Hill and Croft quarries in Leicestershire. The council also runs separate contracts for structures and street lighting.",
+   "National Highways carries the motorways, with the M1 to the west through junctions 21 and 21A, the M69 linking south to Coventry and the M6, and the A46 Leicester Western Bypass tying the motorway to the city's outer ring. The city's role as a logistics hub keeps freight heavy on those approaches at all hours.",
+   "Resurfacing, patching, lining, drainage, ring-road work and winter gritting mean Leicester gangs work in hi-vis next to live traffic.",
+  ],
+  "kit_loc":"across the city's carriageway, ring-road and winter-maintenance work",
+  "s2_intro":"Across Leicester's council carriageway and ring-road work and the National Highways motorway network",
+ },
+ "bradford": {
+  "region":"Bradford and West Yorkshire",
+  "nearby":["Leeds","Halifax","Huddersfield"],
+  "snapshot":"iNeedWorkwear supplies Class 3 hi-vis, safety boots, waterproofs and branded workwear to Bradford's highway maintenance teams and roadworks contractors, from the council's in-house operation and the Yorkshire Highways Alliance framework to National Highways work on the M62 and M606, with name and ID branding placed off the certified reflective area and multi-depot supply.",
+  "s1_head":"Kitting the people who keep the Bradford district's roads running",
+  "s1loc":[
+   "The Bradford district climbs steeply into the Pennines, with large estates and roads sitting above the normal snow line, which makes winter and surfacing work unusually demanding. The council runs its highways operation from Britannia House and depots including Stockbridge in Keighley, and its gangs work in Class 3 hi-vis on fast, often exposed roads.",
+   "Surfacing and planing run through the Yorkshire Highways Alliance, a collaborative framework led by Kirklees for Bradford, Leeds, Wakefield, York and Calderdale, with Colas among the appointed contractors, while the council's own drivers grit more than seven hundred miles of priority routes from four depots. The wider programme is funded through the West Yorkshire Combined Authority.",
+   "National Highways carries the motorways, with the M62 along the south of the district and the M606 spur running north into Bradford as its main motorway link, while the A650, A647 and A641 carry the heaviest urban traffic. Much of this runs on night and lane closures where speed and poor light are the real hazard.",
+   "Resurfacing, lining, drainage, lighting, structures and heavy winter gritting on the high Pennine roads are all handled by Bradford crews in Class 3 hi-vis on the carriageway.",
+  ],
+  "kit_loc":"across the district's carriageway, lighting and winter-maintenance work",
+  "s2_intro":"Across Bradford's council carriageway, lighting and drainage work and the National Highways motorway network",
+ },
+ "coventry": {
+  "region":"Coventry and Warwickshire",
+  "nearby":["Birmingham","Leamington Spa","Rugby"],
+  "snapshot":"iNeedWorkwear kits Coventry's highway maintenance teams and roadworks contractors with Class 3 hi-vis, safety boots, waterproofs and branded workwear, from the council's Balfour Beatty term contract and street-lighting PFI to National Highways work on the M6, M69 and A46, with name and ID branding placed off the certified reflective area and multi-depot supply.",
+  "s1_head":"Kitting the people who keep Coventry and Warwickshire's roads running",
+  "s1loc":[
+   "Coventry's network of around nine hundred kilometres is built around a grade-separated inner ring road, one of the more complex urban structures in England. The council maintains the carriageways, footways, drainage, structures and tens of thousands of lights, with highway structures alone valued near half a billion pounds, and its gangs work the lot in Class 3 hi-vis.",
+   "Highway maintenance runs through a long-standing term contract with Balfour Beatty Living Places alongside a street-lighting PFI, and from 2026 a new joint Warwickshire contract run with Solihull and the county, again with Balfour Beatty, covering more than five thousand kilometres of road across the three authorities. Temporary traffic management is let separately.",
+   "National Highways carries the motorways, with the M6 to the north and west, the M69 east to Leicester and the A46 forming part of the city's orbital, where a major grade-separated upgrade is planned at the Walsgrave junction. The ring road and these trunk routes mean fast traffic and constant lane closures.",
+   "Resurfacing, lining, drainage, lighting, structures and ring-road work keep Coventry crews in hi-vis within feet of moving traffic.",
+  ],
+  "kit_loc":"across the city's carriageway, ring-road and winter-maintenance work",
+  "s2_intro":"Across Coventry's council carriageway and ring-road work and the National Highways motorway network",
+ },
+ "nottingham": {
+  "region":"Nottingham and the East Midlands",
+  "nearby":["West Bridgford","Beeston","Arnold"],
+  "snapshot":"iNeedWorkwear supplies Class 3 hi-vis, safety boots, waterproofs and branded workwear to Nottingham's highway maintenance teams and roadworks contractors, from the council's Thomas Bow surfacing framework and street-lighting PFI to National Highways work on the M1, A52 and A453, with name and ID branding placed off the certified reflective area and multi-depot supply.",
+  "s1_head":"Kitting the people who keep Nottingham's roads running",
+  "s1loc":[
+   "Nottingham runs around eight hundred and twenty-five kilometres of adopted road alongside one of the largest tram systems in the country, the NET network sharing carriageway right through the centre. The council looks after the roads, footways, drainage and lighting, and its gangs work in Class 3 hi-vis beside both traffic and live tram track.",
+   "Surfacing and civils run through a joint Nottingham and Derby framework with Thomas Bow City Asphalt among the appointed contractors, while around thirty-six thousand lighting columns sit under a long PFI now maintained and converted to LED by Enerveo. The East Midlands Combined County Authority has lifted road-maintenance funding sharply across the city and county.",
+   "National Highways carries the strategic roads, with the M1 to the west, the A52 east to west through the city and the dualled A453 linking junction 24 into Clifton. The A52 is set for a major junction improvement, and any work near the NET track has to be booked weeks ahead with the tram depot at Wilkinson Street.",
+   "Resurfacing, lining, drainage, lighting, tram-corridor work and winter gritting put Nottingham gangs out on live carriageways in full Class 3 hi-vis, jacket and trousers together.",
+  ],
+  "kit_loc":"across the city's carriageway, tram-corridor and winter-maintenance work",
+  "s2_intro":"Across Nottingham's council carriageway and tram-corridor work and the National Highways motorway network",
+ },
+ "newcastle upon tyne": {
+  "region":"Newcastle upon Tyne and Tyneside",
+  "nearby":["Gateshead","Tynemouth","Whitley Bay"],
+  "snapshot":"iNeedWorkwear kits Newcastle upon Tyne's highway maintenance teams and roadworks contractors with Class 3 hi-vis, safety boots, waterproofs and branded workwear, from the council's in-house teams and the Tyne crossings to National Highways work on the A1 Western Bypass and A19, with name and ID branding placed off the certified reflective area and multi-depot supply.",
+  "s1_head":"Kitting the people who keep Tyneside's roads running",
+  "s1loc":[
+   "Newcastle's network centres on a knot of river crossings, with the council-maintained A167(M) Central Motorway lifting traffic over the city and the Tyne and Wear Metro running through and beneath it. The council inspects, repairs and maintains every public road in the city around the clock, and its gangs work in Class 3 hi-vis on fast, structurally complex roads.",
+   "Maintenance runs largely through in-house teams backed by the North East procurement frameworks, with a major refurbishment of the A167(M) Central Motorway viaduct underway by VolkerStevin and VolkerLaser, and the landmark Tyne Bridge in a multi-year restoration by Esh Construction shared with Gateshead. Street lighting sits under a PFI run with North Tyneside.",
+   "National Highways carries the strategic roads, with the heavily loaded A1 Western Bypass along the western edge of the city and the A19 and Tyne Tunnel to the east, the tunnel operated as a tolled crossing by TT2 for the region. Bypass, viaduct and tunnel work all mean fast traffic and tight overnight management.",
+   "Resurfacing, lining, drainage, lighting, bridges and winter gritting put Newcastle crews out in Class 3 hi-vis beside running traffic.",
+  ],
+  "kit_loc":"across the city's carriageway, bridge and winter-maintenance work",
+  "s2_intro":"Across Newcastle upon Tyne's council carriageway and bridge work and the National Highways trunk-road network",
+ },
+ "sunderland": {
+  "region":"Sunderland and Wearside",
+  "nearby":["Washington","Houghton le Spring","Seaham"],
+  "snapshot":"iNeedWorkwear supplies Class 3 hi-vis, safety boots, waterproofs and branded workwear to Sunderland's highway maintenance teams and roadworks contractors, from the council's surfacing contractors and the Strategic Transport Corridor to National Highways work on the A19, with name and ID branding placed off the certified reflective area and multi-depot supply.",
+  "s1_head":"Kitting the people who keep Wearside's roads running",
+  "s1loc":[
+   "Sunderland's roads straddle the River Wear, so crossings shape every maintenance round, from the cable-stayed Northern Spire down to the Wearmouth and Queen Alexandra bridges. The council maintains the carriageways, footways, lighting and structures, and the Tyne and Wear Metro runs through the city too, with gangs working in Class 3 hi-vis beside live traffic.",
+   "Resurfacing runs mainly through the regional NEPO surfacing framework, with Sunderland-based Northumbrian Roads among the contractors, and the council has carried recent highways programmes worth eight to eleven million pounds across well over a hundred schemes. Street lighting and signs sit under a long PFI delivered by Aurora, a Balfour Beatty business, which fitted tens of thousands of LED lanterns.",
+   "National Highways carries the A19, the main north-south route west of the city crossing the Wear at Hylton, with recent junction upgrades at Downhill Lane, while the council-maintained A1231 runs over the Northern Spire toward Washington and the A1. The Nissan plant nearby keeps freight heavy on those corridors.",
+   "Resurfacing, lining, drainage, lighting, bridges and winter gritting mean Sunderland gangs work in hi-vis next to live traffic.",
+  ],
+  "kit_loc":"across the city's carriageway, lighting and winter-maintenance work",
+  "s2_intro":"Across Sunderland's council carriageway, lighting and drainage work and the National Highways trunk-road network",
+ },
+ "brighton": {
+  "region":"Brighton and the South Coast",
+  "nearby":["Hove","Worthing","Eastbourne"],
+  "snapshot":"iNeedWorkwear kits Brighton's highway maintenance teams and roadworks contractors with Class 3 hi-vis, safety boots, waterproofs and branded workwear, from the council's FM Conway highways framework and seafront structures to National Highways work on the A27 and A23, with name and ID branding placed off the certified reflective area and multi-depot supply.",
+  "s1_head":"Kitting the people who keep the South Coast's roads running",
+  "s1loc":[
+   "Brighton and Hove runs a dense seafront and downland network as a single unitary authority, with around six hundred and twenty kilometres of carriageway and a hundred and fifty kilometres of ageing concrete roads. It also carries an unusual stock of coastal structures, including the seafront arches under King's Road, and its gangs work in Class 3 hi-vis beside busy traffic.",
+   "The council runs a multi-supplier highways framework with FM Conway holding the main civils and resurfacing lot alongside Edburton and RJ Dance, and the road-lining lot too, a deal worth around one hundred and sixty-six million pounds. Major seafront and Valley Gardens schemes run on top of routine work, all in a salt-laden setting that is hard on surfacing.",
+   "National Highways carries the trunk roads, with the A27 Brighton bypass running east to west across the top of the city, the A23 north toward the M23 and the complex Patcham Interchange where the two networks meet. The council picks up the local network beneath, including the steep Downs climbs of Ditchling Road and Bear Road.",
+   "Resurfacing, lining, drainage, lighting, seafront structures and winter gritting on the Downs are all handled by Brighton crews in Class 3 hi-vis on the carriageway.",
+  ],
+  "kit_loc":"across the city's carriageway, seafront and winter-maintenance work",
+  "s2_intro":"Across Brighton's council carriageway and seafront work and the National Highways trunk-road network",
+ },
+ "plymouth": {
+  "region":"Plymouth and South West Devon",
+  "nearby":["Saltash","Newton Abbot","Torquay"],
+  "snapshot":"iNeedWorkwear supplies Class 3 hi-vis, safety boots, waterproofs and branded workwear to Plymouth's highway maintenance teams and roadworks contractors, from the council's South West Highways term contract to National Highways work on the A38 Devon Expressway, with name and ID branding placed off the certified reflective area and multi-depot supply.",
+  "s1_head":"Kitting the people who keep South West Devon's roads running",
+  "s1loc":[
+   "Plymouth is hemmed in by water, the Plym to the east, the tidal Tamar to the west and the Sound to the south, so its road network leans heavily on a handful of crossings. The council maintains the carriageways, footways, lighting and structures, including dozens of bridges and four tunnels, and its gangs work in Class 3 hi-vis beside live traffic.",
+   "Highway maintenance runs under the Plymouth Highways term contract with South West Highways, a Ringway and Eurovia business, covering carriageways, drainage, structures, lighting and winter service from the Prince Rock depot. The Tamar Bridge, carrying the A38 into Cornwall, is run jointly with Cornwall Council as a tolled crossing by the bridge and ferry joint committee.",
+   "National Highways carries the A38 Devon Expressway straight through the city from Marsh Mills toward the Tamar, including the tidal-flow lanes through the Saltash Tunnel, and the A380 toward Torbay. With the naval dockyard at Devonport and the ferry port loading the approaches, this is fast, freight-heavy work.",
+   "Resurfacing, lining, drainage, lighting, structures and winter gritting on the city's hills put Plymouth crews out in Class 3 hi-vis beside running traffic.",
+  ],
+  "kit_loc":"across the city's carriageway, expressway and winter-maintenance work",
+  "s2_intro":"Across Plymouth's council carriageway work and the National Highways A38 Devon Expressway",
+ },
+ "hull": {
+  "region":"Hull and the East Riding",
+  "nearby":["Grimsby","Beverley","Goole"],
+  "snapshot":"iNeedWorkwear kits Hull's highway maintenance teams and roadworks contractors with Class 3 hi-vis, safety boots, waterproofs and branded workwear, from the council's in-house Streetscene service to National Highways work on the A63 Castle Street and A1033, with name and ID branding placed off the certified reflective area and multi-depot supply.",
+  "s1_head":"Kitting the people who keep Hull and the East Riding's roads running",
+  "s1loc":[
+   "Hull is a working port on the Humber, and its road network is shaped by dock and freight traffic moving to and from Associated British Ports. Kingston upon Hull City Council handles most routine and reactive maintenance in-house through its Streetscene service, covering carriageways, footways and drainage, with gangs working in Class 3 hi-vis beside heavy goods traffic.",
+   "Street lighting is maintained by the council-linked Kingstown Works on a large LED programme, and the council's gritters run from the Stockholm Road depot to treat a long priority network across an exposed, low-lying district. Most carriageway work is delivered directly by the council's own teams.",
+   "National Highways carries the strategic roads, with the A63 Castle Street the main artery linking the M62 to the Port of Hull, now part-way through a major grade-separated rebuild at Mytongate, and the A1033 running east to the Saltend chemical complex. Port-access work means fast roads, heavy freight and tight diversions.",
+   "Resurfacing, lining, drainage, lighting, port-access work and winter gritting on the exposed estuary roads mean Hull gangs work in hi-vis next to live traffic.",
+  ],
+  "kit_loc":"across the city's carriageway, port-access and winter-maintenance work",
+  "s2_intro":"Across Hull's council carriageway and port-access work and the National Highways trunk-road network",
+ },
+ "derby": {
+  "region":"Derby and the East Midlands",
+  "nearby":["Nottingham","Burton-on-Trent","Long Eaton"],
+  "snapshot":"iNeedWorkwear supplies Class 3 hi-vis, safety boots, waterproofs and branded workwear to Derby's highway maintenance teams and roadworks contractors, from the council's in-house Commercial Services to National Highways work on the A38 and A52, with name and ID branding placed off the certified reflective area and multi-depot supply.",
+  "s1_head":"Kitting the people who keep Derby's roads running",
+  "s1loc":[
+   "Derby runs around eight hundred kilometres of carriageway serving one of the country's densest advanced-manufacturing clusters, from Rolls-Royce at Sinfin to the rail works at Litchurch Lane. The council delivers highways through its in-house Commercial Services arm, based centrally for fast response, maintaining footways, drainage and structures as well as the carriageway, all in Class 3 hi-vis.",
+   "The direct-labour team is backed by a multi-lot framework worth tens of millions of pounds covering markings, signals, surfacing and traffic management, and the Commercial Services arm also takes on civils and footway work for outside clients across the area. It is a notably self-sufficient highways operation.",
+   "National Highways carries the trunk roads, with the A38 west and north of the city, the A52 east toward Nottingham meeting it at Markeaton and the M1 a short way east. A major A38 junctions upgrade at Kingsway, Markeaton and Little Eaton is in the pipeline, with freight from the city's factories keeping the routes busy.",
+   "Resurfacing, lining, drainage, lighting, structures and winter gritting are all handled by Derby crews in Class 3 hi-vis on the carriageway.",
+  ],
+  "kit_loc":"across the city's carriageway, lighting and winter-maintenance work",
+  "s2_intro":"Across Derby's council carriageway, lighting and drainage work and the National Highways trunk-road network",
+ },
+ "southampton": {
+  "region":"Southampton and the South",
+  "nearby":["Portsmouth","Eastleigh","Fareham"],
+  "snapshot":"iNeedWorkwear kits Southampton's highway maintenance teams and roadworks contractors with Class 3 hi-vis, safety boots, waterproofs and branded workwear, from the council's Balfour Beatty highways partnership to National Highways work on the M27 and M271, with name and ID branding placed off the certified reflective area and multi-depot supply.",
+  "s1_head":"Kitting the people who keep Southampton's roads running",
+  "s1loc":[
+   "Southampton sits between the Test and the Itchen, and its roads carry very heavy dock traffic from one of the country's biggest cruise, container and vehicle ports. The council maintains the carriageways, footways, lighting and structures including the Itchen Bridge, and its gangs work in Class 3 hi-vis beside constant freight.",
+   "Maintenance runs through a long-standing partnership with Balfour Beatty Living Places, the Highways Service Partnership, recently renewed for a further multi-year term and run from an operational control hub at the Millbrook depot, covering reactive and planned work, winter service and major structures like the Itchen Bridge refurbishment.",
+   "National Highways carries the motorways, with the M27 along the top of the city, the M271 spur down to the Western Docks and the A33, and the M3 and A34 heading north toward Winchester. Dock-access and motorway work mean fast roads and heavy goods movements through the day and night.",
+   "Resurfacing, lining, drainage, lighting, structures and port-access work mean Southampton gangs work in hi-vis next to live traffic.",
+  ],
+  "kit_loc":"across the city's carriageway, port-access and winter-maintenance work",
+  "s2_intro":"Across Southampton's council carriageway and port-access work and the National Highways motorway network",
+ },
+ "stoke-on-trent": {
+  "region":"Stoke-on-Trent and Staffordshire",
+  "nearby":["Newcastle-under-Lyme","Crewe","Stafford"],
+  "snapshot":"iNeedWorkwear supplies Class 3 hi-vis, safety boots, waterproofs and branded workwear to Stoke-on-Trent's highway maintenance teams and roadworks contractors, from the council's in-house operations and street-lighting PFI to National Highways work on the A500 and A50, with name and ID branding placed off the certified reflective area and multi-depot supply.",
+  "s1_head":"Kitting the people who keep the Potteries' roads running",
+  "s1loc":[
+   "Stoke-on-Trent is a polycentric Potteries city of six towns set across several steep hills, which gives its road network an unusual spread and plenty of gradient. The council runs a mainly in-house highways operations division covering carriageways, footways, drainage and patching, with gangs working in Class 3 hi-vis beside live traffic.",
+   "The in-house team is backed by a multi-lot highway works framework for extra capacity, with contractors such as Kilkern appointed, while over forty thousand street lights sit under a long PFI with the operator Enerveo, all upgraded to LED. Specialist traffic-technology work is contracted separately.",
+   "National Highways carries the strategic roads, with the A500 D-road arcing around the city to join the M6 at junctions 15 and 16 and the near-motorway A50 heading east toward Derby. Both carry intense freight from the city's ceramics and distribution parks, so junction work means fast roads and constant lane management.",
+   "Resurfacing, lining, drainage, lighting, structures and winter gritting on the Potteries hills keep Stoke crews in hi-vis within feet of moving traffic.",
+  ],
+  "kit_loc":"across the city's carriageway, lighting and winter-maintenance work",
+  "s2_intro":"Across Stoke-on-Trent's council carriageway, lighting and drainage work and the National Highways A500 and A50 network",
+ },
+ "wolverhampton": {
+  "region":"Wolverhampton and the Black Country",
+  "nearby":["Dudley","Walsall","West Bromwich"],
+  "snapshot":"iNeedWorkwear kits Wolverhampton's highway maintenance teams and roadworks contractors with Class 3 hi-vis, safety boots, waterproofs and branded workwear, from the council's in-house teams and the Black Country works framework to National Highways work on the M54 and M6, with name and ID branding placed off the certified reflective area and multi-depot supply.",
+  "s1_head":"Kitting the people who keep the Black Country's roads running",
+  "s1loc":[
+   "Wolverhampton sits at the western edge of the Black Country, with the A449 Stafford Road and the A4123 to Birmingham carrying heavy industrial freight straight through the city. The council maintains the great majority of the local carriageways, footways, drainage and lighting, and its gangs work in Class 3 hi-vis beside that traffic.",
+   "Highway work runs mainly through the council's in-house teams, which have completed tens of thousands of pothole repairs and grit roughly three hundred and eighty kilometres of priority carriageway, and the council leads procurement of the Black Country highways works framework for the neighbouring authorities and the combined authority. Sixteen contractors are appointed to that framework.",
+   "National Highways carries the motorways, with the M54 running west to Telford from its junction with the M6 and the M6 itself passing to the east, and a long-planned M54 to M6 link road set to pull freight off the A449. Black Country routes and motorway work alike mean fast traffic and overnight closures.",
+   "Resurfacing, lining, drainage, lighting, structures and winter gritting put Wolverhampton crews out in Class 3 hi-vis beside running traffic.",
+  ],
+  "kit_loc":"across the city's carriageway, lighting and winter-maintenance work",
+  "s2_intro":"Across Wolverhampton's council carriageway, lighting and drainage work and the National Highways motorway network",
+ },
+ "swansea": {
+  "region":"Swansea and South West Wales",
+  "nearby":["Llanelli","Neath","Port Talbot"],
+  "snapshot":"iNeedWorkwear supplies Class 3 hi-vis, safety boots, waterproofs and branded workwear to Swansea's highway maintenance teams and roadworks contractors, from the council's Swansea Highways Partnership to the Welsh Government trunk-road network on the M4 and A483, with name and ID branding placed off the certified reflective area and multi-depot supply.",
+  "s1_head":"Kitting the people who keep South West Wales's roads running",
+  "s1loc":[
+   "Swansea runs a coastal city and county network that stretches from the docks out to the Gower, with seafront and port roads that need surfacing tough enough for a salt-laden setting. The council is the roads authority for all the local routes, covering carriageways, footways, lighting and drainage, and its gangs work in Class 3 hi-vis beside live traffic.",
+   "Work runs through the Swansea Highways Partnership, a collaboration between the council's own direct services team and a consortium of Alun Griffiths and Hanson, with the council targeting record highway investment of around twenty million pounds. The model keeps real in-house capacity rather than handing everything to a single outsourced contractor.",
+   "The Welsh Government is the roads authority for the motorways and trunk roads, run through the South Wales Trunk Road Agent with Traffic Wales managing the network. The M4 threads the Swansea corridor at junctions 42 to 47, the A483 runs from the motorway into the city and the A484 serves the Llanelli side, all fast routes where works need tight management.",
+   "Resurfacing, lining, drainage, lighting, coastal routes and winter gritting put Swansea gangs out on live carriageways in full Class 3 hi-vis, jacket and trousers together.",
+  ],
+  "kit_loc":"across the city's carriageway, coastal and winter-maintenance work",
+  "s2_intro":"Across Swansea's council carriageway and coastal-route work and the Welsh Government trunk-road network",
+ },
+ "milton keynes": {
+  "region":"Milton Keynes and Buckinghamshire",
+  "nearby":["Bedford","Northampton","Aylesbury"],
+  "snapshot":"iNeedWorkwear kits Milton Keynes's highway maintenance teams and roadworks contractors with Class 3 hi-vis, safety boots, waterproofs and branded workwear, from the council's Ringway grid-road partnership to National Highways work on the M1 and A5, with name and ID branding placed off the certified reflective area and multi-depot supply.",
+  "s1_head":"Kitting the people who keep Milton Keynes's roads running",
+  "s1loc":[
+   "Milton Keynes is built on a planned grid of more than fifteen hundred kilometres of road, with around a hundred and thirty grid-road roundabouts and a separate redway cycle network running through underpasses. The council is the unitary roads authority for the grid roads, footways, bridges, lighting and drainage, and its gangs work in Class 3 hi-vis beside fast grid traffic.",
+   "Maintenance runs through a term partnership with Ringway, branded MK Highways, on an annual contract worth around twenty million pounds that covers the carriageways, the redways, hundreds of bridges, tens of thousands of lights and the drainage stock, with a separate developer-funded programme rebuilding the busiest roundabouts. The grid's lane markings need near-constant renewal.",
+   "National Highways carries the motorways and trunk roads, with the M1 along the eastern edge at junctions 13 and 14, the A5 running through the western side of the city and the A509 heading north. The grid roads themselves run fast and free-flowing, so resurfacing and roundabout work means live, high-speed traffic.",
+   "Resurfacing, lining, roundabout work, lighting, structures and winter gritting across the grid mean Milton Keynes gangs work in hi-vis next to live traffic.",
+  ],
+  "kit_loc":"across the grid roads, roundabout and winter-maintenance work",
+  "s2_intro":"Across Milton Keynes's grid-road, roundabout and lighting work and the National Highways motorway network",
+ },
+ "aberdeen": {
+  "region":"Aberdeen and the North East of Scotland",
+  "nearby":["Elgin","Arbroath","Dundee"],
+  "snapshot":"iNeedWorkwear supplies Class 3 hi-vis, safety boots, waterproofs and branded workwear to Aberdeen's highway maintenance teams and roadworks contractors, from the city council's roads service to the Transport Scotland network and the AWPR bypass, with name and ID branding placed off the certified reflective area and multi-depot supply.",
+  "s1_head":"Kitting the people who keep the North East of Scotland's roads running",
+  "s1loc":[
+   "Aberdeen is a granite city with a busy, expanding harbour, and its approach roads carry heavy traffic to the port and the energy supply base. The city council runs its own roads service covering carriageways, footways, lighting and drainage, and its gangs work in Class 3 hi-vis through a hard northern climate.",
+   "Routine maintenance runs through an annual maintenance contract and roads service framework, on a roads and infrastructure budget of around ten million pounds a year, with the surrounding north-east network maintained separately by the neighbouring council. Larger schemes are competitively tendered through Scottish public-sector frameworks.",
+   "Transport Scotland is the roads authority for the trunk network, with Amey running the north-east unit on the A90, A96 and A92 in recent years, while the fifty-eight kilometre Aberdeen Western Peripheral Route bypass, opened in 2018 and 2019, is maintained under a long concession by Aberdeen Roads Limited with Balfour Beatty. The bypass and trunk roads mean fast, exposed driving.",
+   "Resurfacing, lining, drainage, lighting, harbour-access work and heavy winter gritting are all handled by Aberdeen crews in Class 3 hi-vis on the carriageway.",
+  ],
+  "kit_loc":"across the city's carriageway, harbour-access and winter-maintenance work",
+  "s2_intro":"Across Aberdeen's council carriageway and harbour-access work and the Transport Scotland trunk-road network",
+ },
+ "reading": {
+  "region":"Reading and the Thames Valley",
+  "nearby":["Slough","Maidenhead","Wokingham"],
+  "snapshot":"iNeedWorkwear kits Reading's highway maintenance teams and roadworks contractors with Class 3 hi-vis, safety boots, waterproofs and branded workwear, from the borough's in-house highways team to National Highways work on the M4 and A33, with name and ID branding placed off the certified reflective area and multi-depot supply.",
+  "s1_head":"Kitting the people who keep the Thames Valley's roads running",
+  "s1loc":[
+   "Reading sits where major road and rail corridors meet in the Thames Valley, carrying high commuter and freight volumes across a network squeezed by the river and the Kennet. The borough is a unitary roads authority covering carriageways, footways, lighting and drainage, and its gangs work in Class 3 hi-vis beside heavy through-traffic.",
+   "Maintenance runs through the council's own in-house highways team supported by specialist frameworks, with several million pounds of road investment over recent years and twice-yearly maintenance on major routes including the A329M, A3290 and A33 corridors. Concrete-road preservation has been a particular focus on the older dual carriageways.",
+   "National Highways carries the strategic roads, with the M4 across the southern edge at junctions 10 to 12, the A33 relief road heading south toward Basingstoke and the A329M spur into the town. Commuter peaks and motorway closures alike mean fast traffic and tight working windows.",
+   "Resurfacing, lining, drainage, lighting, concrete-road work and winter gritting keep Reading crews in hi-vis within feet of moving traffic.",
+  ],
+  "kit_loc":"across the town's carriageway, lighting and winter-maintenance work",
+  "s2_intro":"Across Reading's council carriageway, lighting and drainage work and the National Highways M4 corridor",
+ },
+ "northampton": {
+  "region":"Northampton and West Northamptonshire",
+  "nearby":["Wellingborough","Kettering","Daventry"],
+  "snapshot":"iNeedWorkwear supplies Class 3 hi-vis, safety boots, waterproofs and branded workwear to Northampton's highway maintenance teams and roadworks contractors, from West Northamptonshire's Kier term contract to National Highways work on the M1 and A45, with name and ID branding placed off the certified reflective area and multi-depot supply.",
+  "s1_head":"Kitting the people who keep West Northamptonshire's roads running",
+  "s1loc":[
+   "Northampton is a major logistics town built around M1 junction 15, with the Brackmills and Swan Valley distribution estates pumping heavy goods traffic onto the A45 and the motorway approaches. The unitary council is the roads authority for the local carriageways, footways, lighting, drainage and structures, and its gangs work in Class 3 hi-vis beside that freight.",
+   "Highway maintenance runs through a term contract with Kier Transportation worth around thirty million pounds a year, covering routine and planned work, resurfacing, structures and winter service, and the council is delivering a programme of A45 junction improvements jointly with National Highways. North Northamptonshire next door runs a parallel Kier contract.",
+   "National Highways carries the strategic roads, with the M1 through junctions 15 and 15a, the A45 linking the motorway east through the town toward Wellingborough and the A43 and A508 feeding the wider county. The logistics traffic keeps those routes busy day and night.",
+   "Resurfacing, lining, drainage, lighting, structures and winter gritting put Northampton crews out in Class 3 hi-vis beside running traffic.",
+  ],
+  "kit_loc":"across the town's carriageway, lighting and winter-maintenance work",
+  "s2_intro":"Across Northampton's council carriageway, lighting and drainage work and the National Highways M1 and A45 network",
+ },
+ "luton": {
+  "region":"Luton and Bedfordshire",
+  "nearby":["Bedford","Dunstable","Stevenage"],
+  "snapshot":"iNeedWorkwear kits Luton's highway maintenance teams and roadworks contractors with Class 3 hi-vis, safety boots, waterproofs and branded workwear, from the borough's VolkerHighways term contract to National Highways work on the M1, with name and ID branding placed off the certified reflective area and multi-depot supply.",
+  "s1_head":"Kitting the people who keep Luton's roads running",
+  "s1loc":[
+   "Luton's road network is shaped by its airport and the M1, with the A505 and the airport spur carrying heavy passenger and commercial traffic at all hours. The borough is a unitary roads authority for around four hundred and eighty kilometres of adopted road, covering carriageways, footways, bridges, drainage and lighting, with gangs working in Class 3 hi-vis beside live traffic.",
+   "Maintenance runs through a long-term contract with VolkerHighways, worth up to two hundred million pounds over its life and run from a central depot on Kingsway, covering planned resurfacing, reactive patching, footways, winter gritting and bridge inspection. The council has lifted annual road-repair spending to resurface hundreds of thousands of square metres.",
+   "National Highways carries the strategic roads, with the M1 east of the town at junctions 10, 10a and 11 including the airport spur, and the A505 and A6 carrying traffic through the borough. Work near the airport often runs around the clock, so being seen on those approaches is critical.",
+   "Resurfacing, lining, drainage, lighting, airport-access work and winter gritting mean Luton gangs work in hi-vis next to live traffic.",
+  ],
+  "kit_loc":"across the town's carriageway, airport-access and winter-maintenance work",
+  "s2_intro":"Across Luton's council carriageway and airport-access work and the National Highways M1 corridor",
+ },
+ "portsmouth": {
+  "region":"Portsmouth and South Hampshire",
+  "nearby":["Southampton","Gosport","Fareham"],
+  "snapshot":"iNeedWorkwear supplies Class 3 hi-vis, safety boots, waterproofs and branded workwear to Portsmouth's highway maintenance teams and roadworks contractors, from the council's Colas highways PFI to National Highways work on the M27 and M275, with name and ID branding placed off the certified reflective area and multi-depot supply.",
+  "s1_head":"Kitting the people who keep South Hampshire's roads running",
+  "s1loc":[
+   "Portsmouth is a densely built island city with heavy port and ferry traffic and few parallel routes, so closing one corridor for works ripples across the whole network. The council is the unitary roads authority for the carriageways, footways, lighting and structures, and its gangs work in Class 3 hi-vis in tight, busy streets.",
+   "Maintenance runs under a long PFI, with Colas operating the network around the clock through the Ensign Highways arrangement and carrying out heavy structural work on the M275 bridges into the city, from the Tipner Interchange to the Rudmore flyover. The island setting makes structures and bridge upkeep an unusually large part of the job.",
+   "National Highways carries the motorways, with the M27 along the top of South Hampshire, the A3(M) spur to the north and the M275 carrying the main route onto the island from the Hilsea Interchange. Island-access work means fast roads and very tight diversions when a lane goes.",
+   "Resurfacing, lining, drainage, lighting, bridge work and winter gritting put Portsmouth crews out in Class 3 hi-vis beside running traffic.",
+  ],
+  "kit_loc":"across the island city's carriageway, structures and winter-maintenance work",
+  "s2_intro":"Across Portsmouth's council carriageway and structures work and the National Highways motorway network",
+ },
+ "peterborough": {
+  "region":"Peterborough and Cambridgeshire",
+  "nearby":["Cambridge","Spalding","Stamford"],
+  "snapshot":"iNeedWorkwear kits Peterborough's highway maintenance teams and roadworks contractors with Class 3 hi-vis, safety boots, waterproofs and branded workwear, from the council's Milestone parkway contract to National Highways work on the A1 and A47, with name and ID branding placed off the certified reflective area and multi-depot supply.",
+  "s1_head":"Kitting the people who keep Peterborough's roads running",
+  "s1loc":[
+   "Peterborough is a New Town built around high-capacity parkways, the Nene, Fletton and Paston among them, ageing dual carriageways without hard shoulders that need careful cyclical upkeep. The unitary council maintains the local carriageways, footways, lighting and drainage, and its gangs work in Class 3 hi-vis beside fast parkway traffic.",
+   "Highway maintenance and street lighting run through a contract now delivered by Milestone Infrastructure, part of M Group, covering design, planned and reactive work, drainage and winter service, with the combined authority funding strategic parkway improvements. The flat fenland to the east makes the parkways especially frost-prone.",
+   "National Highways carries the strategic roads, with the A1 and A1(M) west of the city, the A47 Soke Parkway east of Wansford and the A15 to the north, and a programme of A47 dualling and junction work underway. Parkway and trunk work alike mean high-speed traffic and exposed winter conditions.",
+   "Resurfacing, lining, drainage, lighting, parkway work and winter gritting on the exposed dual carriageways keep Peterborough crews in hi-vis within feet of moving traffic.",
+  ],
+  "kit_loc":"across the city's parkway, lighting and winter-maintenance work",
+  "s2_intro":"Across Peterborough's council parkway, lighting and drainage work and the National Highways A1 and A47 corridors",
+ },
+ "bolton": {
+  "region":"Bolton and Greater Manchester",
+  "nearby":["Wigan","Bury","Salford"],
+  "snapshot":"iNeedWorkwear supplies Class 3 hi-vis, safety boots, waterproofs and branded workwear to Bolton's highway maintenance teams and roadworks contractors, from the council's highways works framework to National Highways work on the M61 and the TfGM Key Route Network, with name and ID branding placed off the certified reflective area and multi-depot supply.",
+  "s1_head":"Kitting the people who keep Bolton's roads running",
+  "s1loc":[
+   "Bolton sits at the Pennine edge of Greater Manchester, with routes climbing toward the West Pennine Moors that bring a long, hard winter season. The borough is the local roads authority for the carriageways, footways, lighting and structures, and its gangs work in Class 3 hi-vis on fast, often high and exposed roads.",
+   "Maintenance runs through a multi-lot highways works framework worth around forty million pounds, with established local contractors such as George Cox and Sons appointed across civils, surfacing and structures, and gritters running from the Mayor Street depot through a season that can stretch to twenty-eight weeks. Combined-authority funding tops up skid-resistance work on higher-risk roads.",
+   "National Highways carries the motorways, with the M61 linking the M60 to the M6 near Preston through the Horwich and Bolton West junctions and the A666 heading toward Darwen and the moors, while Transport for Greater Manchester coordinates the Key Route Network. The complex Worsley Braided Interchange nearby is among the densest junctions in the North West.",
+   "Resurfacing, lining, drainage, lighting, structures and heavy winter gritting on the high moor roads are all handled by Bolton crews in Class 3 hi-vis on the carriageway.",
+  ],
+  "kit_loc":"across the town's carriageway, moor-road and winter-maintenance work",
+  "s2_intro":"Across Bolton's council carriageway and moor-road work and the National Highways motorway network",
+ },
+ "dudley": {
+  "region":"Dudley and the Black Country",
+  "nearby":["Stourbridge","Halesowen","West Bromwich"],
+  "snapshot":"iNeedWorkwear kits Dudley's highway maintenance teams and roadworks contractors with Class 3 hi-vis, safety boots, waterproofs and branded workwear, from the council's Black Country framework and Lister Road depot to National Highways work on the M5, with name and ID branding placed off the certified reflective area and multi-depot supply.",
+  "s1_head":"Kitting the people who keep the Black Country's roads running",
+  "s1loc":[
+   "Dudley's network runs through the historic industrial heart of the Black Country, with the A4123 Birmingham New Road forming the borough's strategic spine from Wolverhampton toward Birmingham. The borough is the local roads authority for the carriageways, footways, lighting and structures, working from its Lister Road depot, with gangs in Class 3 hi-vis beside heavy freight.",
+   "Surfacing and minor works run through a collaborative Black Country procurement model led by Wolverhampton for the four authorities, with Colas appointed to the surfacing framework and a new multi-supplier works framework coming in. The shared model spreads contractors across thousands of kilometres of Black Country road.",
+   "National Highways carries the M5 along the eastern edge of the Black Country, with Birchley Island near junction 2 the main interchange for freight using the A4123, while the A461 runs north to south through the borough toward Walsall and Stourbridge. Metro extension works on the A4123 corridor add coordination to the carriageway upkeep.",
+   "Resurfacing, lining, drainage, lighting, structures and winter gritting put Dudley crews out in Class 3 hi-vis beside running traffic.",
+  ],
+  "kit_loc":"across the borough's carriageway, lighting and winter-maintenance work",
+  "s2_intro":"Across Dudley's council carriageway, lighting and drainage work and the National Highways M5 corridor",
+ },
 }
 
 # === CSV / nearby ==========================================================
@@ -325,6 +745,14 @@ def _load_csv():
 
 def slugify(name):
     return re.sub(r'-+','-', re.sub(r"[^a-z0-9]+","-", name.lower().replace("&"," and "))).strip('-')
+
+def _display_name(arg):
+    """Resolve a CLI arg (slug or name) to the exact CSV display name and casing."""
+    s = slugify(arg)
+    for r in _load_csv():
+        if slugify(r[1]) == s:
+            return r[1]
+    return ' '.join(w.capitalize() for w in arg.lower().split())
 
 def require_nearby(town, T):
     nb = T.get("nearby")
@@ -453,11 +881,11 @@ def main():
     if not args:
         args=[t for t in TOWNS if t!='london']
     for town_key in args:
-        tk=town_key.lower()
+        town=_display_name(town_key)
+        tk=town.lower()
         if tk=='london': continue
         if tk not in TOWNS:
             print(f"SKIP {town_key}: not in TOWNS (must be web-researched first)"); continue
-        town=' '.join(w.capitalize() for w in tk.split())
         slug=f"hm-{slugify(town)}"
         html=assemble(slug, town)
         path=os.path.join(outdir, f"{slug}.html")
