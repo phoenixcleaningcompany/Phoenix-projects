@@ -19,7 +19,7 @@ Usage:
 """
 import os, sys, glob
 from itertools import combinations
-import scofs_re as S
+import score_fs as S
 
 
 def load(path):
