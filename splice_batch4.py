@@ -60,6 +60,9 @@ for k, e in merged.items():
             errs.append(f"{k}: non-ASCII char in: {s[:60]!r}")
         if '"' in s:
             errs.append(f"{k}: double-quote inside value: {s[:60]!r}")
+        for ch in "&<>":
+            if ch in s:
+                errs.append(f"{k}: illegal char {ch!r} in value (use 'and', no markup): {s[:60]!r}")
     si = e.get("s2_intro", "")
     if si.rstrip().endswith((".", ",", ";", ":")):
         errs.append(f"{k}: s2_intro must have NO trailing punctuation")
