@@ -1192,6 +1192,23 @@ TOWNS = {
  },
 }
 
+def _load_extra_towns():
+    """Merge per-batch town entries from tc/towns/*.json into TOWNS. Keeps later
+    batches as data files instead of growing this literal. Same data in -> same
+    pages out (pick() is md5-keyed on town name; iteration order is irrelevant)."""
+    here = os.path.dirname(os.path.abspath(__file__))
+    d = os.path.join(here, 'towns')
+    if not os.path.isdir(d):
+        return
+    for fn in sorted(os.listdir(d)):
+        if not fn.endswith('.json'):
+            continue
+        with open(os.path.join(d, fn), encoding='utf-8') as f:
+            data = json.load(f)
+        for k, v in data.items():
+            TOWNS[k.lower()] = v
+_load_extra_towns()
+
 _CSV=None
 def _load_csv():
     global _CSV
