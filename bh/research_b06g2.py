@@ -1,0 +1,86 @@
+NEW = {
+ "wokingham": {
+  "region":"Wokingham and Berkshire",
+  "nearby":["Reading","Bracknell","Woodley"],
+  "snapshot":"iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Wokingham, from the Peach Street salons and town-centre day spas to the Lower Earley and Woodley parades, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head":"Kitting the salons, barbers and spas of Berkshire",
+  "s1loc":[
+   "Wokingham is a prosperous Berkshire market town, and its salon scene is built around a compact, mostly independent centre. Hair salons, barbers and beauty rooms cluster along Peach Street, Denmark Street, Broad Street and Market Place, with treatment rooms and laser clinics tucked into Anvil Court and the side lanes off the Market Place. Beyond the centre the volume sits in the surrounding parades, in Lower Earley around the Maiden Lane Centre, in Winnersh and Wescott, and out along the Woodley high street.",
+   "The operator mix here is small and owner-run. The Peach Street and Denmark Street hairdressers, the town-centre barbers and threading studios, the nail bars and beauty rooms in Lower Earley and Winnersh, and the mobile beauticians and aesthetics practitioners covering the Wokingham and Woodley estates are overwhelmingly sole traders or two-chair teams rather than chains. Almost every one puts staff in front of clients in something branded, and a tidy tunic or polo is part of how the salon presents itself.",
+  ],
+  "kit_loc":"across the town's salons, barber chairs and treatment rooms",
+  "s2_intro":"Whether you are a Peach Street salon, a Denmark Street barber, a mobile beautician or a nail studio across Wokingham",
+ },
+ "glenrothes": {
+  "region":"Glenrothes and Fife",
+  "nearby":["Kirkcaldy","Dunfermline","Perth"],
+  "snapshot":"iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Glenrothes, from the Kingdom Centre salons and town-centre treatment rooms to the Markinch and Leslie parades, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head":"Kitting the salons, barbers and spas of Fife",
+  "s1loc":[
+   "Set in the heart of Fife, Glenrothes spreads its salon trade across the Kingdom Centre and a ring of precinct hubs rather than one long high street. Hair salons, barbers and beauty rooms sit inside and around the Kingdom Centre, the Cadham Centre and Woodside Way, with more clusters out at the Saltire Retail Park. The contiguous neighbouring settlements of Markinch, Leslie and Thornton carry their own parade salons, and Colliston Avenue and Balbirnie Street add further independent chairs.",
+   "Almost all of it is small and independent. The Kingdom Centre and Cadham hairdressers, the Woodside Way and Stirling-style barbers, the nail bars and beauty rooms scattered through Markinch and Leslie, and the mobile beauticians working the surrounding Glenrothes estates are nearly all sole traders or small teams rather than chains. Each of them puts staff in front of clients every day, and a branded tunic or polo is a quiet but real part of the welcome.",
+  ],
+  "kit_loc":"across the town's salons, barber chairs and treatment rooms",
+  "s2_intro":"Whether you are a Kingdom Centre salon, a Cadham barber, a mobile beautician or a nail studio across Glenrothes",
+ },
+ "abingdon": {
+  "region":"Abingdon and Oxfordshire",
+  "nearby":["Oxford","Didcot","Witney"],
+  "snapshot":"iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Abingdon, from the Bury Street salons and Market Place treatment rooms to the Stert Street barbers and Northcourt parades, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head":"Kitting the salons, barbers and spas of Oxfordshire",
+  "s1loc":[
+   "Abingdon is one of England's oldest towns, and its salon trade keeps to a tight historic core around the Market Place. Hair salons, barbers and beauty rooms line Bury Street, Stert Street, Bridge Street and the St Helen Street lanes, with award-winning beauty studios sitting among the independent shopfronts off West St Helen Street and Bath Street. Beyond the centre, the Northcourt and Abbey parades and the surrounding villages towards Drayton and Radley add their own neighbourhood chairs and treatment rooms.",
+   "The trade here is almost entirely small and independent. The Bury Street and St Helen Street salons, the Stert Street and Bridge Street barbers, the nail bars and organic hairdressing studios off Bath Street, and the mobile beauticians and aesthetics practitioners working the Abingdon and Oxford-fringe villages are nearly all sole traders or small teams rather than chains. Every one of them puts staff in front of clients, and looking smart in branded kit is part of the service they sell.",
+  ],
+  "kit_loc":"across the town's salons, barber chairs and treatment rooms",
+  "s2_intro":"Whether you are a Bury Street salon, a Stert Street barber, a mobile beautician or a nail studio across Abingdon",
+ },
+ "airdrie": {
+  "region":"Airdrie and North Lanarkshire",
+  "nearby":["Coatbridge","Motherwell","Cumbernauld"],
+  "snapshot":"iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Airdrie, from the Graham Street salons and town-centre treatment rooms to the Stirling Street barbers and surrounding parades, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head":"Kitting the salons, barbers and spas of North Lanarkshire",
+  "s1loc":[
+   "A busy North Lanarkshire town, Airdrie packs much of its salon trade into a dense town-centre grid. Hair salons, barbers and beauty rooms concentrate along Graham Street and Stirling Street, with more on Hallcraig Street and around the Bank Street and Wellwynd lanes off the Cross. The pattern runs into the adjoining streets and out towards the Whinhall, Petersburn and Rawyards estates, where neighbourhood parades carry their own chairs, nail bars and treatment rooms close to the Coatbridge boundary.",
+   "Nearly all of it is small and owner-run. The Graham Street and Stirling Street hairdressers, the Hallcraig Street barbers, the nail bars and beauty rooms tucked through the town centre and the surrounding estates, and the mobile beauticians covering Airdrie and the wider Monklands are overwhelmingly sole traders or small teams rather than chains. Each of them faces clients every day, and a clean branded tunic or polo is part of how a Lanarkshire salon presents itself.",
+  ],
+  "kit_loc":"across the town's salons, barber chairs and treatment rooms",
+  "s2_intro":"Whether you are a Graham Street salon, a Stirling Street barber, a mobile beautician or a nail studio across Airdrie",
+ },
+ "erith": {
+  "region":"Erith and south-east London",
+  "nearby":["Dartford","Sidcup","Eltham"],
+  "snapshot":"iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Erith, from the Pier Road salons and Riverside treatment rooms to the Northumberland Heath barbers and Slade Green parades, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head":"Kitting the salons, barbers and spas of riverside Bexley",
+  "s1loc":[
+   "Beyond the chains, Erith is a riverside Bexley town whose salon trade sits across a regenerating centre and a string of local parades. Hair salons, barbers and beauty rooms gather around Pier Road, the Riverside Shopping Centre and the pedestrianised stretch of Erith High Street, with steady clusters out along Bexley Road towards Northumberland Heath and Belvedere. Belmont Road and the Slade Green and Northumberland Heath parades add their own neighbourhood chairs, nail bars and treatment rooms.",
+   "The operator mix is small, local and independent. The Pier Road and High Street hairdressers, the Bexley Road and Northumberland Heath barbers, the nail bars and beauty rooms dotted through Slade Green and Belvedere, and the mobile beauticians working the Erith and wider Bexley estates are nearly all sole traders or small teams rather than chains. Almost every one puts staff in front of clients in something branded, and how the team looks is part of the welcome.",
+  ],
+  "kit_loc":"across the town's salons, barber chairs and treatment rooms",
+  "s2_intro":"Whether you are a Pier Road salon, a Northumberland Heath barber, a mobile beautician or a nail studio across Erith",
+ },
+ "dover": {
+  "region":"Dover and the Kent coast",
+  "nearby":["Folkestone","Deal","Canterbury"],
+  "snapshot":"iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Dover, from the Biggin Street salons and town-centre treatment rooms to the Cannon Street barbers and High Street parades, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head":"Kitting the salons, barbers and spas of the Kent coast",
+  "s1loc":[
+   "A historic Channel port, Dover runs its salon trade along a connected town-centre spine. Hair salons, barbers and beauty rooms line Biggin Street, Cannon Street and the High Street, where you find hairdressing-and-beauty combinations like the Biggin Street studios alongside long-standing town barbers. The pattern continues up towards Charlton and the Maison Dieu Road shops, with further neighbourhood chairs in River, Whitfield and the seafront streets close to the harbour and Market Square.",
+   "The trade is small, settled and independent. The Biggin Street and High Street hairdressers, the Cannon Street barbers, the nail bars and beauty rooms scattered through the town centre and out towards Charlton and River, and the mobile beauticians covering Dover and the surrounding coast villages are nearly all sole traders or small teams rather than chains. Each of them puts staff in front of clients daily, and a smart branded tunic or polo is part of how a coastal salon presents itself.",
+  ],
+  "kit_loc":"across the town's salons, barber chairs and treatment rooms",
+  "s2_intro":"Whether you are a Biggin Street salon, a Cannon Street barber, a mobile beautician or a nail studio across Dover",
+ },
+ "irvine": {
+  "region":"Irvine and North Ayrshire",
+  "nearby":["Kilmarnock","Ayr","Paisley"],
+  "snapshot":"iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Irvine, from the Rivergate Centre salons and High Street treatment rooms to the Bridgegate barbers and East Road parades, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head":"Kitting the salons, barbers and spas of Ayrshire",
+  "s1loc":[
+   "Irvine is the largest town in North Ayrshire, and its salon trade splits between the Rivergate Shopping Centre and the old High Street that runs down towards the harbour. Hair salons, barbers and beauty rooms sit inside the Rivergate Centre and around the Rivergate Roundabout, along the High Street and Bridgegate, and on Bank Street and East Road. The pattern carries out into the surrounding estates and towards Kilwinning, where neighbourhood parades hold their own chairs, nail bars and treatment rooms.",
+   "Almost all of it is small and independent. The High Street and Bridgegate hairdressers, the Rivergate and Bank Street barbers, the nail bars and beauty rooms around East Road and the town estates, and the mobile beauticians working across Irvine and the Three Towns coast are nearly all sole traders or small teams rather than chains. Every one of them faces clients each day, and a clean branded tunic or polo is part of how an Ayrshire salon looks the part.",
+  ],
+  "kit_loc":"across the town's salons, barber chairs and treatment rooms",
+  "s2_intro":"Whether you are a Rivergate salon, a Bridgegate barber, a mobile beautician or a nail studio across Irvine",
+ },
+}
