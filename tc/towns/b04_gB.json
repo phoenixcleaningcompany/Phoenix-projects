@@ -1,0 +1,86 @@
+{
+  "rugby": {
+    "region": "Rugby and Warwickshire",
+    "nearby": ["Coventry", "Nuneaton", "Leamington Spa"],
+    "snapshot": "Rugby is a busy Warwickshire fibre town where build crews and one-van installers work side by side. Fleet contractors and structured-cabling firms running engineers across the town buy through our trade accounts, while sole traders and ex-BT broadband and CCTV installers order branded polo, hi-vis and softshell direct online with no account. We run both routes together so the crew and the single installer are kitted the same way.",
+    "s1_head": "Kitting the field engineers of Warwickshire",
+    "s1loc": [
+      "Rugby sits in the middle of a real full-fibre push. CityFibre has invested around 17 million pound rolling its gigabit network out across the town, starting around Cawston, while Openreach has a large FTTP build of its own and Virgin Media keeps upgrading on top, so much of the district now has gigabit coverage. The major fibre and mobile networks all field delivery partners and civils crews through areas like Brownsover, Newbold and Hillmorton, and a long tail of broadband, CCTV and structured-cabling installers takes on the work the big contractors leave behind.",
+      "Alongside the residential rollout Rugby has a strong commercial scene built on logistics. The big industrial estates north of the town, from Swift Valley and Brownsover to Europark on Watling Street, plus the rail freight terminal out toward the Northamptonshire border, all need structured cabling, fibre links and CCTV across warehouses and offices. Cabling firms and CCTV installers wire these distribution sheds, the town-centre offices and the schools in Cat5e, Cat6 and fibre, which keeps a steady base of commercial engineers working across Rugby and the wider county."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Rugby, a structured-cabling firm or a one-van broadband installer toward Coventry"
+  },
+  "stafford": {
+    "region": "Stafford and Staffordshire",
+    "nearby": ["Cannock", "Stoke-on-Trent", "Telford"],
+    "snapshot": "Stafford is a Staffordshire fibre town with work for fleets and lone installers alike. Build contractors and cabling firms running engineers across the town order through our trade accounts, while sole traders and ex-BT broadband and CCTV installers buy branded polo, hi-vis and softshell direct online with no account needed. We run both routes side by side so the whole crew and the single van get the same kit.",
+    "s1_head": "Kitting the field engineers of Staffordshire",
+    "s1loc": [
+      "Stafford is in the thick of a multi-operator fibre build. Netomnia is investing up to 11 million pound putting a full-fibre network past roughly 37,000 premises in the town, while Openreach has pushed its own FTTP build past hundreds of thousands of premises across Staffordshire, and Virgin Media covers parts of the town on top. The major fibre and mobile networks all run delivery partners and civils crews through districts like Highfields, Rising Brook and Weeping Cross, with a tail of independent broadband and CCTV installers picking up the connections and repairs around them.",
+      "The commercial side runs on Stafford's business parks and county-town economy. Estates like Beaconside, the Tollgate and Staffordshire Technology Park, plus the office sites around the county council and the railway, all need structured cabling, fibre and CCTV across their units. Cabling firms and CCTV installers wire offices, the further-education colleges and multi-site businesses in Cat5e, Cat6 and fibre, and the rural Community Fibre Partnership work out toward Eccleshall keeps a base of engineers busy across Stafford and the surrounding villages."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Stafford, a structured-cabling firm or a one-van broadband installer toward Cannock"
+  },
+  "taunton": {
+    "region": "Taunton and Somerset",
+    "nearby": ["Bridgwater", "Yeovil", "Exeter"],
+    "snapshot": "Taunton is a Somerset county town where build crews and solo installers both find plenty of fibre work. Contractors and cabling firms running engineers across the town buy through our trade accounts, while sole traders and ex-BT broadband and CCTV installers order branded polo, hi-vis and softshell direct online with no account. We keep both routes open so the fleet and the one-van installer are kitted the same.",
+    "s1_head": "Kitting the field engineers of Somerset",
+    "s1loc": [
+      "Taunton has one of the more competitive fibre pictures in the South West. Jurassic Fibre has built its own gigabit network across the town and out through Staplegrove, Openreach has its full-fibre build reaching well over 380,000 premises across Devon and Somerset, and Virgin Media covers parts of the town too. Around the commercial deployments sit the rural Connecting Devon and Somerset schemes, an 80 million pound programme run through contractors such as Airband and Truespeed, so the major fibre and mobile networks and their delivery partners keep crews working across districts like Galmington, Priorswood and Norton Fitzwarren.",
+      "The commercial scene centres on Taunton's business parks and its role as Somerset's administrative hub. Blackbrook Business Park off junction 25 of the M5 carries over 300,000 square feet of offices, and sites like Hankridge, the Firepool regeneration around Trenchard Way and the estates at Norton Fitzwarren all need structured cabling, fibre and CCTV. Cabling firms and CCTV installers wire these offices, the college campuses and multi-site businesses in Cat5e, Cat6 and fibre, keeping a steady base of commercial engineers at work across the town and the wider county."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Taunton, a structured-cabling firm or a one-van broadband installer toward Bridgwater"
+  },
+  "tynemouth": {
+    "region": "Tynemouth and North Tyneside",
+    "nearby": ["North Shields", "Whitley Bay", "South Shields"],
+    "snapshot": "Tynemouth sits in a North Tyneside fibre build that suits fleets and lone installers alike. Build contractors and cabling firms running engineers across the area buy through our trade accounts, while sole traders and ex-BT broadband and CCTV installers order branded polo, hi-vis and softshell direct online with no account. We run both routes together so the crew and the single van are kitted the same way.",
+    "s1_head": "Kitting the field engineers of North Tyneside",
+    "s1loc": [
+      "Tynemouth sits inside a borough-wide full-fibre build. CityFibre has put around 50 million pound of private investment into a North Tyneside network, with construction starting in the Riverside area of nearby North Shields, while Openreach has spent more than 21 million pound locally building FTTP through Benton, Killingworth, North Shields, Wallsend and Whitley Bay. The major fibre and mobile networks all field delivery partners and civils crews along the coast, and alt-net providers ordering over the CityFibre network add to the work, with a tail of broadband and CCTV installers picking up connections street by street.",
+      "The commercial side runs on the coast and the river. Tynemouth's seafront, the Front Street offices and the Royal Quays and Cobalt areas toward North Shields all need structured cabling, fibre and CCTV across offices, hospitality units and multi-site businesses. Cabling firms and CCTV installers wire these premises, the schools and the business space along the Tyne in Cat5e, Cat6 and fibre, keeping a steady base of commercial engineers working across Tynemouth and the wider North Tyneside coast."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Tynemouth, a structured-cabling firm or a one-van broadband installer toward North Shields"
+  },
+  "cannock": {
+    "region": "Cannock and Staffordshire",
+    "nearby": ["Walsall", "Wolverhampton", "Stafford"],
+    "snapshot": "Cannock is a Staffordshire town on the edge of the West Midlands where fleets and solo installers both find fibre work. Build contractors and cabling firms running engineers across the town buy through our trade accounts, while sole traders and ex-BT broadband and CCTV installers order branded polo, hi-vis and softshell direct online with no account. We keep both routes open so the crew and the one-van installer are kitted alike.",
+    "s1_head": "Kitting the field engineers of Cannock Chase",
+    "s1loc": [
+      "Cannock sits where the West Midlands build meets rural Staffordshire. Openreach is extending its full-fibre network to reach more properties in and around Cannock and Rugeley, part of a wider Staffordshire FTTP push and the government Project Gigabit programme covering harder-to-reach premises, while Virgin Media covers parts of the town. The major fibre and mobile networks all field delivery partners and civils crews through districts like Hednesford, Heath Hayes and Bridgtown, with a long tail of independent broadband and CCTV installers taking on the connections and repairs the bigger contractors leave behind.",
+      "The commercial side runs on logistics and retail. Cannock has grown around big distribution and trade estates, from the Kingswood Lakeside and Orbital business parks to the Hawks Green and Watling Street sites near the M6 Toll, all needing structured cabling, fibre and CCTV across warehouses, offices and the McArthurGlen designer outlet. Cabling firms and CCTV installers wire these units, the schools and multi-site businesses in Cat5e, Cat6 and fibre, keeping a steady base of commercial engineers working across the town and the wider Cannock Chase district."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Cannock, a structured-cabling firm or a one-van broadband installer toward Walsall"
+  },
+  "farnborough": {
+    "region": "Farnborough and Hampshire",
+    "nearby": ["Aldershot", "Fleet", "Camberley"],
+    "snapshot": "Farnborough is a Hampshire fibre town where build crews and lone installers work side by side. Contractors and cabling firms running engineers across the town buy through our trade accounts, while sole traders and ex-BT broadband and CCTV installers order branded polo, hi-vis and softshell direct online with no account. We run both routes together so the fleet and the single van are kitted the same way.",
+    "s1_head": "Kitting the field engineers of north Hampshire",
+    "s1loc": [
+      "Farnborough has a busy multi-network fibre build. Openreach has started building a new full-fibre network across the town, Toob runs its own FTTP over the CityFibre network through Farnborough along with Aldershot, Fleet, Frimley and Blackwater, and smaller engineer-run alt-nets cover thousands of premises around North Camp. Virgin Media covers parts of the town on top. The major fibre and mobile networks all field delivery partners and civils crews through districts like Cove, Hawley and Southwood, with a tail of broadband and CCTV installers handling the connections and repairs around them.",
+      "The commercial scene is built on aerospace and defence. Cody Technology Park, the borough's largest employment site at over 400 acres next to Farnborough Airport, plus the Southwood and Farnborough Aerospace Centre business parks, all need structured cabling, fibre and CCTV across R and D labs, offices and manufacturing space. Cabling firms and CCTV installers wire these high-tech premises, the colleges and multi-site businesses in Cat5e, Cat6 and fibre, keeping a strong base of commercial engineers working across Farnborough and the wider north Hampshire area."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Farnborough, a structured-cabling firm or a one-van broadband installer toward Aldershot"
+  },
+  "torquay": {
+    "region": "Torquay and Torbay",
+    "nearby": ["Paignton", "Newton Abbot", "Exeter"],
+    "snapshot": "Torquay is a Torbay coastal town where fleets and solo installers both find plenty of fibre work. Build contractors and cabling firms running engineers across the town buy through our trade accounts, while sole traders and ex-BT broadband and CCTV installers order branded polo, hi-vis and softshell direct online with no account. We keep both routes open so the crew and the one-van installer are kitted the same.",
+    "s1_head": "Kitting the field engineers of Torbay",
+    "s1loc": [
+      "Torquay sits inside a major Torbay fibre build. Openreach has invested around 19 million pound putting full fibre past more than 80 percent of properties in Torbay, with engineers building gigabit speeds out through Torquay, St Marychurch, Shiphay, Chelston and on to Paignton and Brixham, while Virgin Media covers parts of the town. The major fibre and mobile networks all field delivery partners and civils crews along the bay, with rural Project Gigabit work in the surrounding villages and a tail of broadband and CCTV installers taking on the connections and repairs street by street.",
+      "The commercial scene runs on tourism and the seafront economy. Torquay's harbourside, the hotels along the bay, the offices around the town centre and trade units at the Lymington Road and Riviera Way estates all need structured cabling, fibre and CCTV. Cabling firms and CCTV installers wire these hospitality premises, the schools and multi-site businesses in Cat5e, Cat6 and fibre, keeping a steady base of commercial engineers working across Torquay and the wider Torbay coast."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Torquay, a structured-cabling firm or a one-van broadband installer toward Paignton"
+  }
+}

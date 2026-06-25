@@ -1,0 +1,86 @@
+{
+  "barry": {
+    "region": "Barry and the Vale of Glamorgan",
+    "nearby": ["Cardiff", "Penarth", "Bridgend"],
+    "snapshot": "Barry sits at the heart of a busy Vale of Glamorgan network build, and the telecoms trade here splits two ways. Fleet operators and structured-cabling firms run crews across the town and order on trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We kit both, which is why our trade-account route and our direct online ordering run side by side.",
+    "s1_head": "Kitting the field engineers of the Vale of Glamorgan",
+    "s1loc": [
+      "Barry is in the middle of a real full-fibre push. Openreach has run its own FTTP build across the town as part of the wider Wales rollout, Netomnia has invested heavily to bring multi-gigabit full fibre to roughly 16,000 premises in Barry, and Welsh alt-net Ogi is building out across the Vale in Dinas Powys, Llantwit Major, Rhoose and St Athan. Virgin Media and nexfibre are upgrading on top. So engineers and civils crews are working through Cadoxton, Barry Island, Gibbonsdown and the older terraces, pulling fibre into cabinets and customer premises right across the town.",
+      "Alongside the residential rollout sits a solid commercial scene. The Atlantic Trading Estate and the Vale Business Park give a base of warehouse and light-industrial units that need structured cabling and CCTV, while the Cardiff Airport and St Athan Enterprise Zone and the Aerospace Business Park draw in aerospace, defence and engineering occupiers wiring offices and shop floors in Cat5e, Cat6 and fibre. Add the schools, the dock-side regeneration and the busy town centre, and there is steady work for cabling and CCTV installers across Barry and out toward Penarth."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Barry, a structured-cabling firm or a one-van broadband installer toward Penarth"
+  },
+  "hamilton": {
+    "region": "Hamilton and South Lanarkshire",
+    "nearby": ["East Kilbride", "Motherwell", "Wishaw"],
+    "snapshot": "Hamilton sits in a fast-moving South Lanarkshire network build, and the telecoms trade here works two ways. Build contractors and cabling firms field crews across the town and buy on trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. A workwear supplier has to serve the fleet and the one-van installer alike, which is why we run trade accounts and direct online ordering side by side.",
+    "s1_head": "Kitting the field engineers of South Lanarkshire",
+    "s1loc": [
+      "Hamilton sits inside one of the busiest full-fibre regions in Scotland. CityFibre is investing heavily across the Glasgow City Region in its largest UK city-wide build, Openreach is pushing FTTP out through South Lanarkshire, and Virgin Media with nexfibre is upgrading alongside, while alt-net YouFibre runs symmetric full fibre across Lanarkshire. The Scottish Government's Reaching 100 programme has connected further premises around the area too. So crews and civils gangs are working through Burnbank, Blantyre, Earnock and the town centre, laying fibre into cabinets and customer premises right across Hamilton.",
+      "The commercial scene gives the cabling trade plenty to do. Hamilton International Park over at Blantyre is a fully developed business community of more than 80 firms and several thousand staff, with offices, manufacturing units and research space all needing structured cabling and CCTV in Cat5e, Cat6 and fibre. Add the retail parks, the council and college buildings, the hospital and the older industrial units around the town, and there is steady structured-cabling and CCTV work for installers across Hamilton and out toward Motherwell."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Hamilton, a structured-cabling firm or a one-van broadband installer toward Motherwell"
+  },
+  "folkestone": {
+    "region": "Folkestone and Kent",
+    "nearby": ["Dover", "Deal", "Canterbury"],
+    "snapshot": "Folkestone sits in a busy east-Kent network build, and the telecoms trade here splits two ways. Build contractors and structured-cabling firms run crews across the town and order on trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We kit the fleet and the one-van installer alike, which is why our trade-account route and our direct online ordering run side by side.",
+    "s1_head": "Kitting the field engineers of east Kent",
+    "s1loc": [
+      "Folkestone is one of Kent's strongest full-fibre towns. Openreach has built FTTP heavily across the town, and Netomnia has begun a multi-gigabit full-fibre rollout across Folkestone and Dover, with an investment reaching tens of millions of pounds and around 21,000 premises in Folkestone in its plan. Virgin Media is upgrading on top. So engineers and civils crews are working through the Old High Street area, Cheriton, Sandgate and Morehall, pulling fibre into cabinets and customer premises right across the town and along the coast.",
+      "Alongside the residential build sits a steady commercial scene. The Park Farm Industrial Estate near junction 13 of the M20 and the Shorncliffe Industrial Estate at North Close give a base of warehouse and trade units that need structured cabling and CCTV, while the Folkestone Harbour Arm regeneration, the creative quarter and the town-centre offices, schools and care sites add to the work. Installers wire Cat5e, Cat6 and fibre across Folkestone and out toward Dover, serving everything from small studios to multi-site businesses."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Folkestone, a structured-cabling firm or a one-van broadband installer toward Dover"
+  },
+  "crosby": {
+    "region": "Crosby and Merseyside",
+    "nearby": ["Bootle", "Liverpool", "Formby"],
+    "snapshot": "Crosby sits in a busy Merseyside network build, and the telecoms trade here works two ways. Build contractors and cabling firms field crews across the area and buy on trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. A workwear supplier has to kit the fleet and the one-person installer alike, which is why we run trade accounts and direct online ordering side by side.",
+    "s1_head": "Kitting the field engineers of Merseyside",
+    "s1loc": [
+      "Crosby sits inside the Liverpool City Region full-fibre push. Netomnia began its Merseyside rollout in the Sefton area and now reaches well over 100,000 premises across Liverpool, building on toward more homes alongside Openreach FTTP, Virgin Media with nexfibre and Hyperoptic. So engineers and civils crews are working through Waterloo, Seaforth, Blundellsands and Great Crosby, pulling fibre into cabinets and customer premises right across the area. With several networks overbuilding here, there is sustained street and chamber work for installers across Crosby and down toward Bootle.",
+      "The commercial scene keeps the cabling trade busy too. The LCR Connect full-fibre ring across the Liverpool City Region links business sites and public buildings, while the Sefton waterfront, the dock-edge units toward Seaforth and Bootle, and the town-centre shops, schools and care homes all need structured cabling and CCTV in Cat5e, Cat6 and fibre. Add the offices and multi-site businesses around the area, and there is steady structured-cabling and CCTV work for installers across Crosby and out toward Formby."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Crosby, a structured-cabling firm or a one-van broadband installer toward Formby"
+  },
+  "keighley": {
+    "region": "Keighley and West Yorkshire",
+    "nearby": ["Bradford", "Bingley", "Shipley"],
+    "snapshot": "Keighley sits in a busy West Yorkshire network build, and the telecoms trade here splits two ways. Build contractors and structured-cabling firms run crews across the town and order on trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We serve the fleet and the one-van installer alike, which is why our trade-account route and our direct online ordering run side by side.",
+    "s1_head": "Kitting the field engineers of the Aire Valley",
+    "s1loc": [
+      "Keighley sits in the Aire Valley as full fibre rolls out across the Bradford district. Openreach is building FTTP heavily across the town, Quickline holds a Project Gigabit contract reaching thousands of harder-to-reach premises around West Yorkshire including Keighley, and Virgin Media is upgrading on top. So engineers and civils crews are working through Keighley town centre, Riddlesden, Utley and Ingrow, pulling fibre into cabinets and customer premises right across the valley and out along the River Aire and River Worth.",
+      "The commercial scene gives the cabling trade plenty to do. The Airedale Business Park supports green manufacturing and precision engineering, while older mill and trade units around Lawkholme Lane, Hard Ings Road and the Worth Valley still need structured cabling and CCTV. Add the town-centre offices, the schools and care sites, and the manufacturing units that Keighley is known for, and installers wire Cat5e, Cat6 and fibre across the town and out toward Bingley, serving everything from small workshops to multi-site businesses."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Keighley, a structured-cabling firm or a one-van broadband installer toward Bingley"
+  },
+  "eastleigh": {
+    "region": "Eastleigh and Hampshire",
+    "nearby": ["Southampton", "Winchester", "Fareham"],
+    "snapshot": "Eastleigh sits in a busy Hampshire network build, and the telecoms trade here works two ways. Build contractors and cabling firms field crews across the town and buy on trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. A workwear supplier has to kit the fleet and the one-van installer alike, which is why we run trade accounts and direct online ordering side by side.",
+    "s1_head": "Kitting the field engineers of Hampshire",
+    "s1loc": [
+      "Eastleigh sits inside a strong Hampshire full-fibre push. Openreach has built FTTP across the town, CityFibre is rolling out its own full-fibre network, and Hampshire alt-net Toob runs its own-network and CityFibre-based full fibre across Eastleigh and Chandler's Ford alongside Southampton, Fareham and the wider county. Virgin Media is upgrading on top. So engineers and civils crews are working through Eastleigh town centre, Chandler's Ford, Bishopstoke and Fair Oak, pulling fibre into cabinets and customer premises right across the town.",
+      "The commercial scene keeps the cabling trade busy. Eastleigh has long been a railway and engineering town, and the trading estates, the airport-edge units near Southampton Airport, and the business parks around Chandler's Ford give a base of warehouse and office occupiers needing structured cabling and CCTV in Cat5e, Cat6 and fibre. Add the retail parks, the schools and care sites, and the multi-site businesses around the town, and there is steady structured-cabling and CCTV work for installers across Eastleigh and out toward Southampton."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Eastleigh, a structured-cabling firm or a one-van broadband installer toward Southampton"
+  },
+  "lancaster": {
+    "region": "Lancaster and Lancashire",
+    "nearby": ["Morecambe", "Preston", "Barrow-in-Furness"],
+    "snapshot": "Lancaster sits in a busy Lancashire network build, and the telecoms trade here splits two ways. Build contractors and structured-cabling firms run crews across the city and order on trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We kit the fleet and the one-van installer alike, which is why our trade-account route and our direct online ordering run side by side.",
+    "s1_head": "Kitting the field engineers of Lancashire",
+    "s1loc": [
+      "Lancaster has hit a real full-fibre milestone. Openreach has invested several million pounds in its FTTP network here, reaching around 80 percent of properties so that more than 20,000 homes and businesses can upgrade, with Virgin Media upgrading on top and the wider Lancashire rollout pushing into rural villages around the district. So engineers and civils crews are working through the city centre, Bowerham, Scotforth and Skerton, pulling fibre into cabinets and customer premises right across the city and out toward the canal and the river.",
+      "The commercial scene gives the cabling trade plenty to do. White Cross Business Park beside the Lancaster Canal houses well over a hundred firms in offices and managed workspace, while Lancaster University and the city's hospitals, schools and historic centre all need structured cabling and CCTV in Cat5e, Cat6 and fibre. Add the trade and industrial units around the city and the multi-site businesses across the district, and there is steady structured-cabling and CCTV work for installers across Lancaster and out toward Morecambe."
+    ],
+    "kit_loc": "across the city's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Lancaster, a structured-cabling firm or a one-van broadband installer toward Morecambe"
+  }
+}

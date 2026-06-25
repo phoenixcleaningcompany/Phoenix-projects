@@ -1,0 +1,86 @@
+{
+  "inverness": {
+    "region": "Inverness and the Highlands",
+    "nearby": ["Aberdeen", "Perth", "Dundee"],
+    "snapshot": "Inverness is a full-fibre city at the head of the Highlands, and its telecoms trade runs two ways. The build contractors and cabling firms putting crews across the city tend to run trade accounts and kit whole teams in branded workwear, while the ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run both routes side by side, fleet and single installer alike.",
+    "s1_head": "Kitting the field engineers of Inverness and the Highlands",
+    "s1loc": [
+      "Inverness has had a heavy full-fibre build for a city its size. CityFibre delivered a 24 million pound network through build partner GCU Utilities and has now passed primary build, taking fibre to the premises past 28,000 homes, Openreach has full fibre widely available too, and toob has joined the CityFibre network in the city alongside the operators on top. Engineers from the major fibre and mobile networks work the streets and cabinets across districts like Dalneigh, Kinmylies, Hilton, Culloden, Smithton, Raigmore and Inshes, with civils crews and delivery partners trenching and pulling fibre right across the city.",
+      "Alongside the residential rollout sits a steady commercial scene. Structured-cabling and CCTV installers wire offices, units and warehouses in Cat5e, Cat6 and fibre across the Longman Industrial Estate, Inverness Campus, Beechwood Business Park, Stoneyfield and the Inverness Airport Business Park out toward Dalcross. The trade runs from contractors cabling whole office floors to one-van installers fitting a single shopfront camera, and all of them need hard-wearing branded workwear for work across the city's premises."
+    ],
+    "kit_loc": "across the city's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Inverness, a structured-cabling firm or a one-van broadband installer toward Aberdeen"
+  },
+  "wrexham": {
+    "region": "Wrexham and north-east Wales",
+    "nearby": ["Oswestry", "Shrewsbury", "Buckley"],
+    "snapshot": "Wrexham sits in a busy north-east Wales full-fibre build, and its telecoms trade runs two ways. The build contractors and cabling firms putting crews across the city tend to run trade accounts and kit whole teams in branded workwear, while the ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run both routes side by side, fleet and single installer alike.",
+    "s1_head": "Kitting the field engineers of Wrexham and north-east Wales",
+    "s1loc": [
+      "Wrexham is well into its full-fibre build. Openreach has taken full fibre past 24,000 homes and businesses across the city and surrounding communities, with current work on the north-western edge and out into Rossett, Rhosllanerchrugog and Ruabon, Freedom Fibre is part way through a 14 million pound borough-wide rollout, and the Welsh alt-net Ogi is building too, with the operators layered on top. Engineers from the major fibre and mobile networks work the streets and cabinets across districts like Gwersyllt, Acton, Rhosnesni, Caia Park, Coedpoeth and the city centre, with civils crews and delivery partners pulling fibre right across the county borough.",
+      "Off the residential rollout sits a strong commercial scene. Structured-cabling and CCTV installers wire offices, factories and warehouses in Cat5e, Cat6 and fibre across the Wrexham Industrial Estate, one of the largest in Europe with over 340 firms, the Wrexham Technology Park and Wrexham University, with multi-site work running out toward the new Advanced Manufacturing Investment Zone. The trade runs from contractors cabling whole factory units to one-van installers fitting a single shopfront camera, and all of them need durable branded workwear for work across the city's premises."
+    ],
+    "kit_loc": "across the city's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Wrexham, a structured-cabling firm or a one-van broadband installer toward Oswestry"
+  },
+  "loughborough": {
+    "region": "Loughborough and Leicestershire",
+    "nearby": ["Leicester", "Coalville", "Melton Mowbray"],
+    "snapshot": "Loughborough sits in a busy Leicestershire full-fibre build, and its telecoms trade runs two ways. The build contractors and cabling firms putting crews across the town tend to run trade accounts and kit whole teams in branded workwear, while the ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run both routes side by side, fleet and single installer alike.",
+    "s1_head": "Kitting the field engineers of Loughborough and Leicestershire",
+    "s1loc": [
+      "Loughborough has a bigger network line-up than most towns. CityFibre is delivering a 17 million pound town-wide build through contractor Granemore, with early works around Storer and Garendon, Openreach has invested around 5 million pound and reached roughly 70 percent of properties with fibre past 18,000 homes, and alt-nets including Grain and ITS Technology Group are building too, with Virgin Media and nexfibre on top. Engineers from the major fibre and mobile networks work the streets and cabinets across districts like Shelthorpe, Thorpe Acre, Hastings, Storer and the town centre, with civils crews and delivery partners pulling fibre right across the borough.",
+      "Off the residential rollout sits a strong commercial scene. Structured-cabling and CCTV installers wire offices, labs and warehouses in Cat5e, Cat6 and fibre across the Loughborough University Science and Enterprise Park, one of Europe's largest science parks, the university itself and the industrial units off the M1 at junction 23. The trade runs from contractors cabling whole office blocks to one-van installers fitting a single shopfront camera, and all of them need durable branded workwear for work across the town's premises."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Loughborough, a structured-cabling firm or a one-van broadband installer toward Leicester"
+  },
+  "stourbridge": {
+    "region": "Stourbridge and the West Midlands",
+    "nearby": ["Halesowen", "Dudley", "Kidderminster"],
+    "snapshot": "Stourbridge sits in a busy West Midlands full-fibre build, and its telecoms trade runs two ways. The build contractors and cabling firms putting crews across the town tend to run trade accounts and kit whole teams in branded workwear, while the ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run both routes side by side, fleet and single installer alike.",
+    "s1_head": "Kitting the field engineers of Stourbridge and the West Midlands",
+    "s1loc": [
+      "Stourbridge has a busy full-fibre build across the Dudley borough. Openreach is part of a 21 million pound West Midlands investment reaching tens of thousands of homes around Dudley, Brierley Hill and Kingswinford, and alt-nets are building hard alongside, with Netomnia and YouFibre having passed over 50,000 premises out of the Brierley Hill exchange area, brsk building into Dudley and Virgin Media on top. Engineers from the major fibre and mobile networks work the streets and cabinets across districts like Wollaston, Norton, Amblecote, Lye, Wollescote and the town centre, with civils crews and delivery partners pulling fibre right across the borough.",
+      "Off the residential rollout sits a steady commercial scene. Structured-cabling and CCTV installers wire offices, units and warehouses in Cat5e, Cat6 and fibre across the Stourbridge Industrial Estate, the glassmaking units around the Glass Quarter at Wordsley, the Mill Race Lane and Bromley Street estates and the town-centre Ryemarket area, with multi-site work running out toward Kingswinford. The trade runs from contractors cabling whole industrial units to one-van installers fitting a single shopfront camera, and all of them need durable branded workwear for work across the town's premises."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Stourbridge, a structured-cabling firm or a one-van broadband installer toward Halesowen"
+  },
+  "ellesmere port": {
+    "region": "Ellesmere Port and Cheshire",
+    "nearby": ["Birkenhead", "Bebington", "Runcorn"],
+    "snapshot": "Ellesmere Port sits in a steady Cheshire full-fibre build, and its telecoms trade runs two ways. The build contractors and cabling firms putting crews across the town tend to run trade accounts and kit whole teams in branded workwear, while the ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run both routes side by side, fleet and single installer alike.",
+    "s1_head": "Kitting the field engineers of Ellesmere Port and Cheshire",
+    "s1loc": [
+      "Ellesmere Port has a solid full-fibre build. Openreach followed a 5.4 million pound investment to take full fibre past around 18,000 homes, with build partner MJ Quinn working on new infrastructure across Ellesmere Port, Hooton and Helsby, Freedom Fibre has reached over 25,000 homes across Ellesmere Port and Northwich working with Cheshire West and Chester Council, and Virgin Media is layered on top. Engineers from the major fibre and mobile networks work the streets and cabinets across districts like Whitby, Great Sutton, Little Sutton, Hooton, Overpool and the town centre, with civils crews and delivery partners pulling fibre right across the borough.",
+      "Alongside the residential rollout sits a strong commercial scene. Structured-cabling and CCTV installers wire offices, plants and warehouses in Cat5e, Cat6 and fibre across the Stanlow refinery complex, the Cheshire Oaks and Coliseum retail and business parks, the Vauxhall plant and the units around the Manchester Ship Canal and Boat Museum quarter. The trade runs from contractors cabling whole industrial sites to one-van installers fitting a single shopfront camera, and all of them need hard-wearing branded workwear for work across the town's premises."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Ellesmere Port, a structured-cabling firm or a one-van broadband installer toward Birkenhead"
+  },
+  "dewsbury": {
+    "region": "Dewsbury and West Yorkshire",
+    "nearby": ["Batley", "Huddersfield", "Mirfield"],
+    "snapshot": "Dewsbury sits in a busy West Yorkshire full-fibre build, and its telecoms trade runs two ways. The build contractors and cabling firms putting crews across the town tend to run trade accounts and kit whole teams in branded workwear, while the ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run both routes side by side, fleet and single installer alike.",
+    "s1_head": "Kitting the field engineers of Dewsbury and West Yorkshire",
+    "s1loc": [
+      "Dewsbury sits inside a major full-fibre investment. CityFibre is part of a 40 million pound build that grew out of the FibreNation network, putting full fibre within reach of nearly every home and business in the town and the wider Spen Valley, Openreach has full fibre widely available, Quickline is delivering Project Gigabit fibre to harder-to-reach premises across West Yorkshire, and Virgin Media is on top. Engineers from the major fibre and mobile networks work the streets and cabinets across districts like Ravensthorpe, Savile Town, Westtown, Thornhill, Earlsheaton and the town centre, with civils crews and delivery partners pulling fibre right across the borough.",
+      "Off the residential rollout sits a steady commercial scene. Structured-cabling and CCTV installers wire offices, mills and warehouses in Cat5e, Cat6 and fibre across the Mill Street East and Bretton Street industrial areas, the converted textile mills around the town, Forge Lane and the units off the A638 toward Batley, with multi-site work running into the Spen Valley. The trade runs from contractors cabling whole mill conversions to one-van installers fitting a single shopfront camera, and all of them need durable branded workwear for work across the town's premises."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Dewsbury, a structured-cabling firm or a one-van broadband installer toward Batley"
+  },
+  "widnes": {
+    "region": "Widnes and Cheshire",
+    "nearby": ["Runcorn", "Warrington", "St Helens"],
+    "snapshot": "Widnes sits in a heavy Cheshire full-fibre build, and its telecoms trade runs two ways. The build contractors and cabling firms putting crews across the town tend to run trade accounts and kit whole teams in branded workwear, while the ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run both routes side by side, fleet and single installer alike.",
+    "s1_head": "Kitting the field engineers of Widnes and Cheshire",
+    "s1loc": [
+      "Widnes has near-complete gigabit coverage. Openreach has invested around 8.1 million pound and taken full fibre past roughly 90 percent of properties, Virgin Media and nexfibre have extended their network to thousands more homes across the town, and the alt-net Grain has built into Widnes too, giving the borough of Halton an unusually full line-up of networks. Engineers from the major fibre and mobile networks work the streets and cabinets across districts like Appleton, Farnworth, Hough Green, Ditton, Upton Rocks and the town centre, with civils crews and delivery partners pulling fibre right across the borough.",
+      "Alongside the residential rollout sits a strong commercial scene. Structured-cabling and CCTV installers wire offices, plants and warehouses in Cat5e, Cat6 and fibre across the chemical and logistics estates around Moor Lane and Tanhouse, the Widnes Waterfront business area, the Venture Fields and Gateway retail parks and the units near the Mersey Gateway approaches. The trade runs from contractors cabling whole industrial sites to one-van installers fitting a single shopfront camera, and all of them need hard-wearing branded workwear for work across the town's premises."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Widnes, a structured-cabling firm or a one-van broadband installer toward Runcorn"
+  }
+}

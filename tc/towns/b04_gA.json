@@ -1,0 +1,86 @@
+{
+  "burnley": {
+    "region": "Burnley and Lancashire",
+    "nearby": ["Nelson", "Accrington", "Blackburn"],
+    "snapshot": "Burnley sits in a busy East Lancashire full-fibre build, and its telecoms trade splits two ways. Build contractors and structured-cabling firms run fleets of engineers across the town and buy branded polos, hi-vis and softshells on trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run both routes side by side, fleet and single installer alike.",
+    "s1_head": "Kitting the field engineers of East Lancashire",
+    "s1loc": [
+      "Burnley is deep into a full-fibre build with more than one network digging at once. Openreach is pushing fibre to the premises out across the town, while Netomnia and its YouFibre brand are building their own gigabit footprint here, and Virgin Media O2 keeps upgrading on top. Crews work through districts like Burnley Wood, Rosegrove, Brunshaw, Padiham and Cliviger, with civils gangs, jointers and fibre engineers on the streets and at cabinets day in and day out. The wider East Lancashire rollout pulls in the neighbouring mill towns too, keeping delivery partners busy right across the Calder and Brun valleys.",
+      "Alongside the residential rollout sits a steady commercial and structured-cabling scene. Local firms such as Burnley Communications and dB Data Comms wire offices, schools and warehouses in Cat5e, Cat6 and fibre, with work running across Network 65 Business Park, Shuttleworth Mead and the Innovation Drive cluster around the University of Central Lancashire campus. Cabling and CCTV installers fit out the manufacturing and aerospace units that fill the town's industrial estates, so the commercial side keeps its own steady population of engineers on the road right across the borough."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Burnley, a structured-cabling firm or a one-van broadband installer toward Nelson"
+  },
+  "enfield": {
+    "region": "Enfield and North London",
+    "nearby": ["Barnet", "Cheshunt", "Walthamstow"],
+    "snapshot": "Enfield is in the middle of a once-in-a-generation North London fibre upgrade, and the trade here splits two ways. Build contractors and cabling firms run crews across the borough and buy branded polos, hi-vis and softshells on trade accounts, while sole-trader broadband and CCTV installers order direct online with no account. We run both routes side by side so the fleet and the one-van installer are kitted the same way.",
+    "s1_head": "Kitting the field engineers of North London",
+    "s1loc": [
+      "Enfield is in the middle of a major full-fibre upgrade after years of low coverage. Openreach has teamed up with the borough to push fibre to the premises into thousands of flats and apartments, with engineers working across Enfield Town, Ponders End, Palmers Green, Bowes Park and Winchmore Hill. Community Fibre and Hyperoptic have built into parts of the borough alongside, ITS Technology Group's Faster Britain network is lighting up thousands of business premises, and Virgin Media O2 keeps upgrading on top. With coverage rising fast, delivery partners and civils crews stay busy threading fibre through the streets, tower blocks and estates.",
+      "Alongside the residential rollout sits a strong commercial and structured-cabling scene. Cabling and CCTV installers wire offices, schools and multi-site businesses in Cat5e, Cat6 and fibre across the Brimsdown industrial area, Innova Park and the Montagu industrial estate, with the Meridian Water regeneration on the Lee Valley adding fresh demand. Logistics and manufacturing units along the A10 corridor and the warehousing around Ponders End keep structured-cabling firms on the road right across the borough, so the commercial side carries its own steady engineer population."
+    ],
+    "kit_loc": "across the borough's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Enfield, a structured-cabling firm or a one-van broadband installer toward Barnet"
+  },
+  "gravesend": {
+    "region": "Gravesend and Kent",
+    "nearby": ["Dartford", "Chatham", "Rochester"],
+    "snapshot": "Gravesend sits in the Thames Gateway growth corridor, where a busy full-fibre build and steady commercial work keep network installers on the road. Build contractors and cabling fleets run crews across the town and buy branded polos, hi-vis and softshells on trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We serve both routes side by side.",
+    "s1_head": "Kitting the field engineers of Kent",
+    "s1loc": [
+      "Gravesend is one of the Kent towns deep into Openreach's full-fibre programme, with engineers pushing fibre to the premises out across the town as part of the wider Medway and north Kent rollout. Virgin Media O2 keeps upgrading its cable network on top, and the alt-nets building across Kent and the Thames Gateway add competition alongside. Crews work through Northfleet, Riverview Park, Singlewell, Pelham and the town centre, with civils gangs, jointers and fibre engineers on the streets and at cabinets, while the Ebbsfleet Garden City development draws fresh build into the surrounding valley.",
+      "Alongside the residential rollout sits a solid commercial and structured-cabling scene anchored by the Thames Gateway regeneration. Cabling and CCTV installers wire offices, schools and warehouses in Cat5e, Cat6 and fibre across Ebbsfleet Business Park and Springhead Enterprise Park at Northfleet, with the Ebbsfleet International rail hub and the riverside logistics sites driving heavy connectivity demand. Manufacturing and distribution units along the A2 corridor keep structured-cabling firms busy, so the commercial side carries its own steady engineer population right across Gravesham."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Gravesend, a structured-cabling firm or a one-van broadband installer toward Dartford"
+  },
+  "east kilbride": {
+    "region": "East Kilbride and South Lanarkshire",
+    "nearby": ["Glasgow", "Hamilton", "Rutherglen"],
+    "snapshot": "East Kilbride is one of the larger Scottish towns in the national full-fibre upgrade, and its telecoms trade splits two ways. Build contractors and cabling firms run crews across the town and buy branded polos, hi-vis and softshells on trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run both routes side by side, fleet and single installer alike.",
+    "s1_head": "Kitting the field engineers of South Lanarkshire",
+    "s1loc": [
+      "East Kilbride is one of the largest towns in Openreach's Scottish full-fibre expansion, with gigabit-capable fibre now reaching well over 90 per cent of properties. Openreach has pushed fibre to the premises out across the new town, Netomnia and its YouFibre brand are building their own footprint here, and Virgin Media O2 keeps upgrading its cable network on top. Crews work through the original neighbourhoods at Calderwood, Westwood, Greenhills, St Leonards and the Village, with civils gangs, jointers and fibre engineers on the streets and at cabinets across the town and out toward the wider Lanarkshire rollout.",
+      "Alongside the residential rollout sits a strong commercial and structured-cabling scene, reflecting the town's planned industrial base. Cabling and CCTV installers wire offices, factories and units in Cat5e, Cat6 and fibre across the Kelvin and College Milton industrial estates and the Scottish Enterprise Technology Park, with South Lanarkshire College and the town-centre offices adding their own demand. Manufacturing and logistics occupiers across the new town keep structured-cabling firms on the road, so the commercial side carries a steady engineer population right across East Kilbride."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across East Kilbride, a structured-cabling firm or a one-van broadband installer toward Glasgow"
+  },
+  "south shields": {
+    "region": "South Shields and South Tyneside",
+    "nearby": ["Jarrow", "Tynemouth", "Sunderland"],
+    "snapshot": "South Shields sits in a heavy South Tyneside full-fibre build, with more than one network digging at once. Build contractors and structured-cabling fleets run crews across the town and buy branded polos, hi-vis and softshells on trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run both routes side by side, fleet and single installer alike.",
+    "s1_head": "Kitting the field engineers of South Tyneside",
+    "s1loc": [
+      "South Shields is deep into a full-fibre build with more than one network on the streets. CityFibre is delivering a town-wide gigabit network across South Tyneside through its civils partner, with early work in the Laygate area, while Openreach has started its own full-fibre upgrade reaching the majority of local homes and businesses. Virgin Media O2 keeps upgrading its cable network on top. Crews work through Laygate, Westoe, Harton, Cleadon Park and the Riverside, with civils gangs, jointers and fibre engineers on the streets and at cabinets right across the borough day in and day out.",
+      "Alongside the residential rollout sits a solid commercial and structured-cabling scene tied to the river and the coast. Cabling and CCTV installers wire offices, schools and warehouses in Cat5e, Cat6 and fibre across the Boldon Business Park, the Tyne Dock and Port of Tyne sites and the Monkton industrial estates over toward Jarrow. The riverside regeneration and the holiday and seafront economy add their own demand, so the commercial side keeps its own steady engineer population on the road across South Shields."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across South Shields, a structured-cabling firm or a one-van broadband installer toward Jarrow"
+  },
+  "burton-on-trent": {
+    "region": "Burton-on-Trent and Staffordshire",
+    "nearby": ["Derby", "Stafford", "Tamworth"],
+    "snapshot": "Burton-on-Trent sits in a busy Staffordshire full-fibre build, and its telecoms trade splits two ways. Build contractors and cabling firms run crews across the town and buy branded polos, hi-vis and softshells on trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run both routes side by side so the fleet and the single installer are kitted the same way.",
+    "s1_head": "Kitting the field engineers of Staffordshire",
+    "s1loc": [
+      "Burton-on-Trent is deep into a full-fibre build, with Openreach extending its network to most homes and businesses across the town as part of the county council's Staffordshire programme. CityFibre is building alongside in parts of the town for an extra gigabit option, the Faster Britain network is lighting up business premises, and Virgin Media O2 keeps upgrading on top. Crews work through Stapenhill, Winshill, Stretton, Horninglow and Branston, with civils gangs, jointers and fibre engineers on the streets and at cabinets, and the rollout reaching out toward Uttoxeter and the surrounding East Staffordshire villages.",
+      "Alongside the residential rollout sits a strong commercial and structured-cabling scene built on the town's brewing and logistics base. Cabling and CCTV installers wire offices, breweries and warehouses in Cat5e, Cat6 and fibre across Centrum 100, the Branston Industrial Estate and the First Avenue sites, with the big distribution sheds along the A38 corridor driving heavy connectivity demand. Manufacturing and food-production occupiers keep structured-cabling firms on the road, so the commercial side carries its own steady engineer population right across Burton."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Burton-on-Trent, a structured-cabling firm or a one-van broadband installer toward Derby"
+  },
+  "shrewsbury": {
+    "region": "Shrewsbury and Shropshire",
+    "nearby": ["Telford", "Oswestry", "Wrexham"],
+    "snapshot": "Shrewsbury is well into a full-fibre build, with several networks live across the town at once. Build contractors and cabling firms run crews across the town and buy branded polos, hi-vis and softshells on trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run both routes side by side, fleet and single installer alike.",
+    "s1_head": "Kitting the field engineers of Shropshire",
+    "s1loc": [
+      "Shrewsbury is well into a full-fibre build, with Openreach now reaching around 80 per cent of properties and more than 30,000 homes and businesses able to order across the town. Full Fibre and its Fibre Heroes brand have built thousands of premises here, including a town-centre rollout, Airband has lit up its own pockets of fibre to the premises, and Virgin Media O2 keeps upgrading on top. Crews work through Castlefields, Monkmoor, Harlescott, Meole Brace and Bayston Hill, with civils gangs, jointers and fibre engineers on the streets and at cabinets across the loop of the Severn and out into the surrounding Shropshire countryside.",
+      "Alongside the residential rollout sits a steady commercial and structured-cabling scene. Cabling and CCTV installers wire offices, schools and warehouses in Cat5e, Cat6 and fibre across Battlefield Enterprise Park, the Harlescott industrial sites and the Sundorne and Vanguard estates, with the county-town offices, the hospital and the University Centre Shrewsbury adding their own demand. Manufacturing and distribution units along the A5 and A49 corridors keep structured-cabling firms on the road, so the commercial side carries its own steady engineer population right across the town."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Shrewsbury, a structured-cabling firm or a one-van broadband installer toward Telford"
+  }
+}
