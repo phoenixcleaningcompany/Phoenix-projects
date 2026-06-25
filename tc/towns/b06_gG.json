@@ -1,0 +1,86 @@
+{
+  "sidcup": {
+    "region": "Sidcup and the London Borough of Bexley",
+    "nearby": ["Bromley", "Eltham", "Dartford"],
+    "snapshot": "Sidcup sits in the London Borough of Bexley, one of the better-served corners of south-east London for full fibre, and the network and cabling trade here runs on two routes. Build contractors and structured-cabling firms put crews on the street and order on trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run both side by side.",
+    "s1_head": "Kitting the field engineers of Bexley and south-east London",
+    "s1loc": [
+      "Sidcup sits in a busy patch of the full-fibre build across the London Borough of Bexley, which Openreach has named among its best-covered London boroughs for FTTP. Openreach delivery partners are pushing fibre through Sidcup, Foots Cray, North Cray and out toward Bexley village and Welling, Virgin Media O2 holds long-standing cable across the area, and alt-nets including Community Fibre and Hyperoptic reach parts of the borough. The result is a steady stream of civils gangs, jointing teams and provisioning engineers working the streets, footways and cabinets around the town and its neighbouring districts day to day.",
+      "Alongside the residential rollout sits a solid commercial scene. Sidcup has the Sidcup high street and station district, the Ruxley Corner and Blackfen trading areas, and large employers and offices that all need structured cabling, Cat6 and fibre backbones and CCTV. Add the schools, the local NHS sites and the warehouse and trade units toward Foots Cray, and there is steady work for cabling firms and CCTV installers wiring offices and multi-site premises. It is a mix of national contractors on the build and a long tail of independent engineers serving homes and businesses across Bexley."
+    ],
+    "kit_loc": "across the borough's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Sidcup, a structured-cabling firm or a one-van broadband installer toward Bromley"
+  },
+  "hyde": {
+    "region": "Hyde and Tameside",
+    "nearby": ["Denton", "Stalybridge", "Ashton-under-Lyne"],
+    "snapshot": "Hyde is part of Tameside in Greater Manchester, where full fibre is going in fast and the network trade splits two ways. Build contractors and commercial cabling firms field crews and buy on trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. A workwear supplier here has to serve the fleet and the one-van installer alike, so we run both routes together.",
+    "s1_head": "Kitting the field engineers of Tameside",
+    "s1loc": [
+      "Hyde sits in the Tameside full-fibre build in Greater Manchester, where multiple networks are live at once. Openreach is extending FTTP across Hyde, Newton, Godley and Gee Cross, Virgin Media O2 holds cable across the borough, and alt-net builders have pushed fibre south from Ashton-under-Lyne and out through Hyde and Longdendale. With residential rollout overlapping older infrastructure, there is a steady run of civils work, jointing and provisioning for engineers across the town and the neighbouring Tameside districts, keeping crews busy on the streets, footways and cabinets day to day.",
+      "The commercial scene gives the cabling trade plenty to do. Hyde has its town-centre and market district, and industrial estates including those off Newton Street and the Hyde and Dukinfield trading areas, where units and offices need structured cabling, Cat6 and fibre and CCTV. Add the schools, the local health sites and the warehousing toward the M67 corridor, and there is steady work wiring offices and multi-site premises in copper and fibre. It runs on national contractors on the build plus a long tail of independent broadband and CCTV installers across Tameside."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Hyde, a structured-cabling firm or a one-van broadband installer toward Denton"
+  },
+  "billingham": {
+    "region": "Billingham and Teesside",
+    "nearby": ["Stockton-on-Tees", "Middlesbrough", "Hartlepool"],
+    "snapshot": "Billingham sits in the Stockton-on-Tees area of Teesside, where full fibre is now near-universal and the network trade runs on two routes. Build contractors and structured-cabling firms put crews on the street and buy on trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run trade accounts and direct online ordering side by side to serve both.",
+    "s1_head": "Kitting the field engineers of Teesside",
+    "s1loc": [
+      "Billingham sits in the Teesside full-fibre build, where gigabit coverage is now near-universal. Openreach FTTP reaches almost all of the town, Virgin Media O2 holds long-standing cable across Billingham, Thornaby and the wider Stockton area, and CityFibre and Netomnia, via YouFibre, have driven major full-fibre builds through neighbouring Stockton-on-Tees. That overlap of networks keeps civils gangs, jointing teams and provisioning engineers working the streets, footways and cabinets across Billingham and out toward Stockton and the rest of Teesside, with steady upgrade and repair work on top of the new build.",
+      "Billingham has an unusually strong commercial and industrial base for its size. The Billingham chemical complex and process-industry cluster, the 62-acre Belasis Business Park and the Cowpen Lane Industrial Estate host chemical, biotech and engineering firms, all needing structured cabling, fibre backbones and CCTV. Add the town-centre offices, the schools and the warehousing along the A19, and there is steady work for cabling firms and CCTV installers wiring offices and multi-site sites in copper and fibre. It runs on national contractors plus independent engineers across the Tees Valley."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Billingham, a structured-cabling firm or a one-van broadband installer toward Stockton-on-Tees"
+  },
+  "oldbury": {
+    "region": "Oldbury and Sandwell",
+    "nearby": ["West Bromwich", "Smethwick", "Halesowen"],
+    "snapshot": "Oldbury sits in Sandwell in the Black Country, one of the busiest patches of the West Midlands full-fibre build, and the network trade splits two ways. Build contractors and structured-cabling firms field crews and order on trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. A workwear supplier here has to kit the fleet and the one-van installer alike, so we run both.",
+    "s1_head": "Kitting the field engineers of Sandwell and the Black Country",
+    "s1loc": [
+      "Oldbury sits in Sandwell, which has been one of the fastest patches of the West Midlands full-fibre build, regularly topping the tables for FTTP premises added. Openreach is pushing fibre across Oldbury, Langley, Rounds Green and Brandhall, and alt-nets including Netomnia, via YouFibre, and nexfibre with Virgin Media O2 are building alongside through the borough. That overlap keeps civils gangs, jointing teams and provisioning engineers working the streets, footways and cabinets around Oldbury and the neighbouring Sandwell towns, with steady upgrade and repair work running on top of the new build day to day.",
+      "The commercial side keeps the cabling trade busy too. Oldbury sits among Black Country industry, with trading estates off the A4123 Wolverhampton Road, the canalside works, and warehousing and units across Sandwell that all need structured cabling, Cat6 and fibre backbones and CCTV. Add the town-centre offices, the local civic and health sites and the multi-site businesses across the borough, and there is steady work wiring offices and premises in copper and fibre. It runs on national contractors on the build plus a long tail of independent broadband and CCTV installers across Sandwell."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Oldbury, a structured-cabling firm or a one-van broadband installer toward West Bromwich"
+  },
+  "irvine": {
+    "region": "Irvine and North Ayrshire",
+    "nearby": ["Kilmarnock", "Ayr", "Glasgow"],
+    "snapshot": "Irvine is the main town of North Ayrshire, where full fibre now reaches most of the town and the network trade runs on two routes. Build contractors and structured-cabling firms put crews on the street and buy on trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run trade accounts and direct online ordering side by side to serve both ends of the trade.",
+    "s1_head": "Kitting the field engineers of North Ayrshire",
+    "s1loc": [
+      "Irvine sits in a busy phase of the Ayrshire full-fibre build. Openreach FTTP now reaches around four in five properties across the town, with engineers working through the town centre, Bourtreehill, Girdle Toll and Dreghorn, and Virgin Media O2 holds cable across parts of the area. With the residential rollout still extending and upgrade and repair work running on top, there is a steady stream of civils gangs, jointing teams and provisioning engineers on the streets, footways and cabinets around Irvine and out toward the neighbouring North Ayrshire and east Ayrshire towns day to day.",
+      "Irvine has a strong commercial base for the cabling trade. The Riverside Business Park, the i3 enterprise area and the harbourside redevelopment sit alongside the older industrial estates around Annick and Bartonholm, all needing structured cabling, fibre backbones and CCTV. Add the town-centre offices, the schools, the local health sites and the multi-site businesses across the town, and there is steady work for cabling firms and CCTV installers wiring offices and premises in copper and fibre. It runs on national contractors plus independent engineers across Ayrshire."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Irvine, a structured-cabling firm or a one-van broadband installer toward Kilmarnock"
+  },
+  "aberdare": {
+    "region": "Aberdare and Rhondda Cynon Taf",
+    "nearby": ["Merthyr Tydfil", "Pontypridd", "Caerphilly"],
+    "snapshot": "Aberdare sits in the Cynon Valley in Rhondda Cynon Taf, where full fibre now reaches most of the town and the network trade splits two ways. Build contractors and structured-cabling firms field crews and order on trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. A workwear supplier here has to serve the fleet and the one-van installer alike, so we run both routes together.",
+    "s1_head": "Kitting the field engineers of the Cynon Valley",
+    "s1loc": [
+      "Aberdare sits in a busy phase of the south Wales full-fibre build. Openreach has invested in a new Full Fibre network reaching around nine in ten properties, with more than fourteen thousand homes and businesses across the area able to upgrade, and engineers working through Aberdare town, Aberaman, Cwmbach and Trecynon. Ogi, the Welsh alt-net, is rolling out across Rhondda Cynon Taf and the wider valleys too. That keeps civils gangs, jointing teams and provisioning engineers working the streets, footways and cabinets around Aberdare and out across the Cynon Valley day to day.",
+      "The commercial side gives the cabling trade steady work. Aberdare has its town-centre and market district, the Aberaman and Hirwaun industrial estates and the trading units along the valley floor, all needing structured cabling, Cat6 and fibre backbones and CCTV. Add the schools, the local health sites and the multi-site businesses across Rhondda Cynon Taf, and there is plenty of work wiring offices and premises in copper and fibre. It runs on national contractors on the build plus a long tail of independent broadband and CCTV installers across the valleys."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Aberdare, a structured-cabling firm or a one-van broadband installer toward Merthyr Tydfil"
+  },
+  "lichfield": {
+    "region": "Lichfield and Staffordshire",
+    "nearby": ["Tamworth", "Burton-on-Trent", "Cannock"],
+    "snapshot": "Lichfield is a Staffordshire cathedral city where full fibre is going in across the city and surrounding villages, and the network trade runs on two routes. Build contractors and structured-cabling firms put crews on the street and buy on trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run trade accounts and direct online ordering side by side to serve both.",
+    "s1_head": "Kitting the field engineers of Staffordshire",
+    "s1loc": [
+      "Lichfield sits in the Staffordshire full-fibre build, where Openreach has reached hundreds of thousands of premises across the county and is extending into the rural areas around the city through Project Gigabit, including villages like Colton and Elford near Lichfield. Engineers work the city centre, Boley Park, Streethay and the surrounding districts, with Virgin Media O2 cable across parts of the area. With the residential rollout still extending and upgrade work on top, there is a steady run of civils gangs, jointing teams and provisioning engineers on the streets, footways and cabinets around the city and the neighbouring Staffordshire towns day to day.",
+      "Lichfield has a strong commercial base for the cabling trade. Fradley Park, the major logistics and business park just north on the A38, hosts national occupiers and distribution centres, while the city-centre offices, the cathedral district and the trading estates around Streethay all need structured cabling, fibre backbones and CCTV. Add the schools, the local health sites and the multi-site businesses across the area, and there is steady work for cabling firms and CCTV installers wiring offices and premises in copper and fibre. It runs on national contractors plus independent engineers across Staffordshire."
+    ],
+    "kit_loc": "across the city's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Lichfield, a structured-cabling firm or a one-van broadband installer toward Tamworth"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "abingdon": {
+    "region": "Abingdon and Oxfordshire",
+    "nearby": ["Oxford", "Didcot", "Witney"],
+    "snapshot": "Abingdon sits in the heart of Oxfordshire's Science Vale, with full fibre going in across the town and a busy commercial cabling scene around its science and business parks. We kit both routes here: build contractors and structured-cabling firms running fleets of engineers buy through trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. The fleet and the single installer both get branded workwear the same way.",
+    "s1_head": "Kitting the field engineers of Oxfordshire",
+    "s1loc": [
+      "Abingdon is part of Openreach's wider Oxfordshire full fibre programme, with the exchange among the local internet exchange areas being upgraded to fibre straight to the premises. Crews push the network out through Caldecott, Ock Street, Saxton Road and the riverside districts, while across the county Gigaclear builds full fibre into the rural villages around the Vale of the White Horse. The major mobile and fibre networks keep upgrading on top, so on any week you will find civils gangs, jointers and fibre engineers working the town's footways, chambers and cabinets alongside the national delivery partners.",
+      "Around the residential build sits a strong commercial scene anchored by Science Vale. Milton Park between Abingdon and Didcot runs to nearly three million square feet across hundreds of organisations, Abingdon Science Park and Harwell and Culham campuses nearby host research and high-technology firms, and all of it needs structured cabling in Cat5e, Cat6 and fibre plus CCTV. Local cabling and security installers wire these offices, laboratories and multi-site businesses, working alongside the broadband crews and giving Abingdon a steady mix of network build and commercial fit-out work across the town."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Abingdon, a structured-cabling firm or a one-van broadband installer toward Didcot"
+  },
+  "north shields": {
+    "region": "North Shields and North Tyneside",
+    "nearby": ["Tynemouth", "Whitley Bay", "South Shields"],
+    "snapshot": "North Shields is in the middle of a major full fibre build, with two networks digging across the town and a busy commercial cabling and CCTV scene along the riverside. We serve both ordering routes here: build contractors and cabling firms running fleets of engineers buy on trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. Fleet and single installer alike get the same branded workwear.",
+    "s1_head": "Kitting the field engineers of North Tyneside",
+    "s1loc": [
+      "North Shields is one of the busiest full fibre towns on Tyneside. Openreach has spent more than 21 million pound building ultrafast full fibre in and around North Shields, Wallsend, Benton, Killingworth and Whitley Bay, and CityFibre is investing roughly 50 million pound on a borough-wide network with construction kicked off in the Riverside area and rolling across the rest of North Tyneside. Delivery partners run civils gangs, jointers and fibre engineers through Chirton, Percy Main, Preston and Meadow Well, while the major mobile networks keep upgrading on top of the fixed build.",
+      "Alongside the residential rollout sits a solid commercial scene. The Royal Quays and Fish Quay districts, the riverside business units and the trading estates toward Wallsend host offices, marine and industrial firms that need structured cabling in Cat5e, Cat6 and fibre plus CCTV and access control. Local cabling and security installers wire these premises, schools and multi-site businesses across North Tyneside, working alongside the broadband crews. It gives North Shields a steady blend of street-level network build and commercial fit-out work the year round."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across North Shields, a structured-cabling firm or a one-van broadband installer toward Tynemouth"
+  },
+  "falkirk": {
+    "region": "Falkirk and Stirlingshire",
+    "nearby": ["Cumbernauld", "Livingston", "Bathgate"],
+    "snapshot": "Falkirk is in the middle of a major full fibre build, with more than one network digging across the town and a busy commercial cabling scene around its business parks. We serve both ordering routes here: build contractors and structured-cabling firms running fleets of engineers buy on trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. Fleet and single installer get branded workwear the same way.",
+    "s1_head": "Kitting the field engineers of the Falkirk district",
+    "s1loc": [
+      "Falkirk is well into its full fibre rollout. Openreach has already brought ultrafast full fibre to tens of thousands of homes and businesses across the town and is extending the build into Stenhousemuir, Larbert, Shieldhill and Grangemouth, with thousands of flats and apartments added to the upgrade plan. Netomnia is building its own full fibre network across Falkirk too, sold through YouFibre, so two networks have crews on the ground. Civils gangs, jointers and fibre engineers work the footways and cabinets through Bainsford, Camelon, Hallglen and Tamfourhill alongside the delivery partners.",
+      "Around the residential build sits a steady commercial scene. Callendar Business Park off Callendar Road, the Earls Gate and Abbotsford parks toward Grangemouth, and Middlefield Industrial Estate host offices, logistics and industrial firms that need structured cabling in Cat5e, Cat6 and fibre plus CCTV. Local cabling and security installers wire these premises, the petrochemical and engineering sites around Grangemouth and multi-site businesses across the district, working alongside the broadband crews and giving Falkirk a constant mix of network build and commercial fit-out work."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Falkirk, a structured-cabling firm or a one-van broadband installer toward Cumbernauld"
+  },
+  "chester-le-street": {
+    "region": "Chester-le-Street and County Durham",
+    "nearby": ["Washington", "Houghton le Spring", "Gateshead"],
+    "snapshot": "Chester-le-Street is in line for full fibre from more than one network, with crews building across the town and a steady commercial cabling and CCTV scene alongside. We serve both ordering routes here: build contractors and cabling firms running fleets of engineers buy on trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. Fleet and single installer get the same branded workwear.",
+    "s1_head": "Kitting the field engineers of County Durham",
+    "s1loc": [
+      "Chester-le-Street sits in Openreach's full fibre programme for County Durham, named among the North East market towns getting a network upgrade straight to the premises, and it features in CityFibre's wider North East rollout plans too. Delivery partners run civils gangs, jointers and fibre engineers through the town centre, Pelton, Sacriston, Great Lumley and the Riverside, while the major mobile networks keep upgrading on top. With the build pushing out toward Washington and the wider Durham villages, there is a steady flow of street-level network work across the town the year round.",
+      "Around the residential build sits a solid commercial scene. The Drum and Bowburn-facing industrial estates, the business units off the A1 corridor and the offices around the town centre and Riverside host firms that need structured cabling in Cat5e, Cat6 and fibre plus CCTV and access control. Local cabling and security installers wire these premises, schools and multi-site businesses across the area, working alongside the broadband crews. It gives Chester-le-Street a dependable blend of network build and commercial fit-out work to keep engineers busy."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Chester-le-Street, a structured-cabling firm or a one-van broadband installer toward Washington"
+  },
+  "wednesbury": {
+    "region": "Wednesbury and the Black Country",
+    "nearby": ["West Bromwich", "Walsall", "Bilston"],
+    "snapshot": "Wednesbury is in the middle of a major full fibre build, with more than one network digging across the town and a busy commercial cabling scene around its trading estates. We serve both ordering routes here: build contractors and structured-cabling firms running fleets of engineers buy on trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. Fleet and single installer get branded workwear the same way.",
+    "s1_head": "Kitting the field engineers of the Black Country",
+    "s1loc": [
+      "Wednesbury is a busy full fibre town. Netomnia is building a full fibre network here, ready for service to tens of thousands of premises and pushing toward a target north of 100,000 across the town, sold through YouFibre, while nexfibre and Virgin Media already have significant coverage of the same streets. Openreach keeps upgrading across the Black Country too, so several networks have crews on the ground. Civils gangs, jointers and fibre engineers work the footways and cabinets through Mesty Croft, Friar Park, Wood Green and Kings Hill alongside the delivery partners.",
+      "Around the residential build sits a strong commercial scene built on industry. Wednesbury Trading Estate off the Black Country New Road, Old Park Industrial Estate near junction 9 of the M6 and Potters Lane Business Park host distribution, manufacturing and trade firms that need structured cabling in Cat5e, Cat6 and fibre plus CCTV. Local cabling and security installers wire these warehouses, offices and multi-site businesses across the Black Country, working alongside the broadband crews and giving Wednesbury a steady mix of network build and commercial fit-out work."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Wednesbury, a structured-cabling firm or a one-van broadband installer toward West Bromwich"
+  },
+  "denton": {
+    "region": "Denton and Tameside",
+    "nearby": ["Hyde", "Ashton-under-Lyne", "Stockport"],
+    "snapshot": "Denton is part of the Greater Manchester full fibre push, with more than one network building across Tameside and a steady commercial cabling and CCTV scene alongside. We serve both ordering routes here: build contractors and cabling firms running fleets of engineers buy on trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. Fleet and single installer get the same branded workwear.",
+    "s1_head": "Kitting the field engineers of Tameside",
+    "s1loc": [
+      "Denton sits inside the Greater Manchester full fibre build, where Openreach has full fibre live across all ten boroughs including Tameside and more than a million homes and businesses can already upgrade. CityFibre and the alternative networks are expanding aggressively through the borough alongside, with neighbouring Hyde and Ashton-under-Lyne already seeing gigabit speeds. Delivery partners run civils gangs, jointers and fibre engineers through Haughton Green, Audenshaw, Dane Bank and the districts off the M67, while the major mobile networks keep upgrading on top of the fixed build.",
+      "Around the residential rollout sits a solid commercial scene. The industrial units off Manchester Road and Crown Point, the trading estates toward Audenshaw and the offices around the town centre host distribution, manufacturing and trade firms that need structured cabling in Cat5e, Cat6 and fibre plus CCTV. Local cabling and security installers wire these premises, schools and multi-site businesses across Tameside, working alongside the broadband crews. It gives Denton a dependable blend of street-level network build and commercial fit-out work the year round."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Denton, a structured-cabling firm or a one-van broadband installer toward Hyde"
+  },
+  "port talbot": {
+    "region": "Port Talbot and Neath Port Talbot",
+    "nearby": ["Neath", "Bridgend", "Swansea"],
+    "snapshot": "Port Talbot is seeing steady full fibre investment, with the network building across the town and a strong commercial cabling scene around its energy and industrial parks. We serve both ordering routes here: build contractors and structured-cabling firms running fleets of engineers buy on trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. Fleet and single installer get branded workwear the same way.",
+    "s1_head": "Kitting the field engineers of Neath Port Talbot",
+    "s1loc": [
+      "Port Talbot is part of Openreach's full fibre programme across Neath Port Talbot, with the network pushing straight to the premises through Aberavon, Sandfields, Margam, Taibach and Baglan, and a Swansea Bay City Deal project has taken full fibre out to Margam Park and the surrounding homes. Openreach has invested heavily in nearby Neath too, reaching most properties, while the major mobile networks keep upgrading on top. Delivery partners run civils gangs, jointers and fibre engineers across the town's footways, chambers and cabinets the year round.",
+      "Around the residential build sits a strong commercial scene built on industry. Baglan Energy Park runs to around 180 acres by junctions 41 and 42 of the M4, home to the Baglan Bay Innovation Centre and the Bay Technology Centre, while Baglan Industrial Park and the units toward the steelworks host engineering, energy and logistics firms. All of it needs structured cabling in Cat5e, Cat6 and fibre plus CCTV. Local cabling and security installers wire these offices, laboratories and multi-site businesses across Neath Port Talbot, working alongside the broadband crews."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Port Talbot, a structured-cabling firm or a one-van broadband installer toward Neath"
+  }
+}

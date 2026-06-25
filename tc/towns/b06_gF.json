@@ -1,0 +1,86 @@
+{
+  "wickford": {
+    "region": "Wickford and Essex",
+    "nearby": ["Basildon", "Rayleigh", "Billericay"],
+    "snapshot": "Wickford sits in the middle of the Essex full-fibre push, with Openreach and County Broadband both building toward the town. Fleet operators and structured-cabling firms run trade accounts to kit whole crews and reorder branded polo and hi-vis in bulk, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run both routes side by side so every size of installer gets covered.",
+    "s1_head": "Kitting the field engineers of Essex",
+    "s1loc": [
+      "Wickford is part of a busy Essex full-fibre programme. Openreach has its delivery partners pushing FTTP out through the town and the wider Basildon district, and the Essex rural alt-net County Broadband is building fibre-to-the-premises across the surrounding villages on the back of major private investment. Mobile operators keep upgrading on top, so on any given week you will find build crews and civils teams working the streets and cabinets around the Broadway, Shotgate, Runwell and the newer estates toward Wick. It is the kind of mixed urban-and-village build that keeps a steady tail of contractors and subcontractors busy across the area.",
+      "Alongside the residential build sits a solid commercial cabling and CCTV scene. Small commercial units off Radford Crescent and Castledon Road, the town-centre shops around the High Street and the industrial pockets between Wickford and Basildon all need structured cabling in Cat5e, Cat6 and fibre, plus camera systems for shops, depots and offices. Firms like ClearView Communications have worked the High Street CCTV under Basildon Borough Council, and a long tail of local security and data installers wire schools, offices and private premises across the town and out toward Rayleigh and Billericay."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Wickford, a structured-cabling firm or a one-van broadband installer toward Basildon"
+  },
+  "bridlington": {
+    "region": "Bridlington and East Yorkshire",
+    "nearby": ["Beverley", "Scarborough", "Hull"],
+    "snapshot": "Bridlington is in the middle of an East Yorkshire fibre build, with Openreach, the Project Gigabit operator Quickline and independent networks all working the coast. Fleet operators and cabling firms run trade accounts to kit crews and reorder branded polo and hi-vis in bulk, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run both routes side by side so every size of installer gets covered.",
+    "s1_head": "Kitting the field engineers of East Yorkshire",
+    "s1loc": [
+      "Bridlington sits in a genuinely multi-network corner of East Yorkshire. Openreach is extending its full-fibre footprint across the town, the Project Gigabit operator Quickline holds the East Riding and Lincolnshire contract and is connecting community after community across the East Riding, and independent operators such as Open Fibre are building gigabit networks into Bridlington streets and businesses. With the wider Humber alt-net MS3 Networks active across East Yorkshire too, there is steady FTTP and gigabit work running through the Old Town, the harbour area and the estates inland, which keeps build contractors, civils teams and subcontractors busy along the coast.",
+      "Around the residential rollout sits the local commercial and CCTV trade. The seafront and harbour businesses, the town-centre shops, the holiday parks and the industrial units toward Bessingby and Carnaby all need structured cabling in Cat5e, Cat6 and fibre plus camera systems for retail, leisure and offices. A tail of local data and security installers wires schools, hospitality sites and multi-site businesses across the town and out toward Beverley, Scarborough and Hull, taking on everything from a single shop fit-out to a full estate of cameras and cabling."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Bridlington, a structured-cabling firm or a one-van broadband installer toward Beverley"
+  },
+  "beverley": {
+    "region": "Beverley and East Yorkshire",
+    "nearby": ["Hull", "Bridlington", "Cottingham"],
+    "snapshot": "Beverley sits in a competitive East Yorkshire fibre market, with Openreach, the Project Gigabit operator Quickline and the Humber alt-net MS3 all in play. Fleet operators and cabling firms run trade accounts to kit crews and reorder branded polo and hi-vis in bulk, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run both routes side by side so every size of installer gets covered.",
+    "s1_head": "Kitting the field engineers of East Yorkshire",
+    "s1loc": [
+      "Beverley is well served by competing networks. Openreach has full fibre live across many HU17 addresses, the Humber-based wholesale operator MS3 Networks is building an alternative gigabit network across East Yorkshire, the Project Gigabit operator Quickline is connecting the rural East Riding around the town, and independent providers such as Open Fibre are building into Beverley streets and businesses. That mix keeps build crews, civils teams and a tail of subcontractors working FTTP through the Minster quarter, the market town centre and the residential estates spreading out toward the edge of the town.",
+      "The commercial side is just as active. The market-town shops, the professional offices around the Minster and Saturday Market, the schools and the industrial units on the edge of town all need structured cabling in Cat5e, Cat6 and fibre plus camera systems for retail, offices and yards. Business-fibre and data installers wire offices and multi-site firms across the town, and a layer of local security installers handle CCTV for shops, depots and private premises across Beverley and out toward Hull, Bridlington and Cottingham, covering everything from a single office to a full estate of cabling."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Beverley, a structured-cabling firm or a one-van broadband installer toward Hull"
+  },
+  "dover": {
+    "region": "Dover and Kent",
+    "nearby": ["Folkestone", "Deal", "Canterbury"],
+    "snapshot": "Dover is in the middle of a Kent full-fibre build, with Openreach extending FTTP and CityFibre delivering Project Gigabit across the harder-to-reach parts of the county. Fleet operators and cabling firms run trade accounts to kit crews and reorder branded polo and hi-vis in bulk, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run both routes side by side so every size of installer gets covered.",
+    "s1_head": "Kitting the field engineers of Kent",
+    "s1loc": [
+      "Dover sits in an active Kent build. Openreach engineering teams have full fibre live across a good share of the Dover exchange area and are pushing FTTP out to the majority of local homes and businesses, with active build noted around Archers Court and Whitfield. CityFibre is delivering Project Gigabit across the harder-to-reach parts of Kent on the back of a major government award, and mobile operators keep upgrading on top. That keeps build contractors, civils teams and subcontractors working the streets and cabinets from the seafront and Castle quarter up through Whitfield and the estates inland.",
+      "The commercial scene runs alongside the residential rollout. The Port of Dover, the ferry and freight operators, and the offices, warehouses and trade units on White Cliffs Business Park at Whitfield all need structured cabling in Cat5e, Cat6 and fibre plus camera systems for logistics, retail and offices. A tail of local data and security installers wire schools, port-related businesses and multi-site firms across the town, handling CCTV for depots, shops and private premises across Dover and out toward Folkestone, Deal and Canterbury."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Dover, a structured-cabling firm or a one-van broadband installer toward Folkestone"
+  },
+  "morecambe": {
+    "region": "Morecambe and Lancashire",
+    "nearby": ["Lancaster", "Preston", "Barrow-in-Furness"],
+    "snapshot": "Morecambe has had a major full-fibre upgrade, with Openreach reaching most of the bay and the wider Lancashire build continuing around it. Fleet operators and cabling firms run trade accounts to kit crews and reorder branded polo and hi-vis in bulk, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run both routes side by side so every size of installer gets covered.",
+    "s1_head": "Kitting the field engineers of Lancashire",
+    "s1loc": [
+      "Morecambe has seen a serious full-fibre push. Openreach has invested several million pounds to bring gigabit-capable broadband to around ninety per cent of premises across the bay, with build running through the seafront, Westgate, Heysham and the estates toward Torrisholme. Around the bay the wider Lancashire programme continues, and the community-led network B4RN keeps connecting premises across rural Lancashire, Cumbria and Yorkshire on its volunteer-built model. With plenty of homes and businesses still to switch and order a live service, there is steady work for build crews, civils teams and the subcontractors who follow them.",
+      "The commercial and cabling trade sits alongside it. White Lund Industrial Estate, Lancaster and Morecambe's main industrial area off the A683, plus the Heysham port and EDF power-station supply chain and the seafront leisure businesses, all need structured cabling in Cat5e, Cat6 and fibre plus camera systems for yards, offices and retail. Local data and security installers wire colleges, hospitality sites and multi-site firms across the bay, handling CCTV for depots, shops and private premises across Morecambe and out toward Lancaster, Preston and Barrow-in-Furness."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Morecambe, a structured-cabling firm or a one-van broadband installer toward Lancaster"
+  },
+  "trowbridge": {
+    "region": "Trowbridge and Wiltshire",
+    "nearby": ["Chippenham", "Melksham", "Frome"],
+    "snapshot": "Trowbridge is a genuinely multi-network Wiltshire town, with Openreach, Netomnia and YouFibre, Gigaclear and Truespeed all building. Fleet operators and cabling firms run trade accounts to kit crews and reorder branded polo and hi-vis in bulk, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run both routes side by side so every size of installer gets covered.",
+    "s1_head": "Kitting the field engineers of Wiltshire",
+    "s1loc": [
+      "Trowbridge is one of the more competitive fibre towns in Wiltshire. Openreach is building FTTP across the town, the alt-net Netomnia is building its full-fibre network with YouFibre live to its first Trowbridge customers, and Gigaclear and Truespeed have both extended into the area, with Wessex Internet serving the rural edges around the county town. That gives several operators digging and pulling fibre at once through the town centre, the estates toward Studley Green and Hilperton and the villages around, which keeps build contractors, civils teams and a tail of subcontractors busy across the area.",
+      "The commercial cabling and CCTV trade runs alongside it. White Horse Business Park just south of the town off the A363, the town-centre offices and the industrial units across Trowbridge all need structured cabling in Cat5e, Cat6 and fibre plus camera systems for offices, depots and retail. Local data and security installers wire schools, professional offices and multi-site firms across the county town, handling CCTV for shops, yards and private premises across Trowbridge and out toward Chippenham, Melksham and Frome, covering everything from a single office to a full estate of cameras and cabling."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Trowbridge, a structured-cabling firm or a one-van broadband installer toward Chippenham"
+  },
+  "barnstaple": {
+    "region": "Barnstaple and North Devon",
+    "nearby": ["Bideford", "Exeter", "Tiverton"],
+    "snapshot": "Barnstaple is a busy North Devon fibre town, with Openreach, Jurassic Fibre and the Connecting Devon and Somerset operator Airband all building. Fleet operators and cabling firms run trade accounts to kit crews and reorder branded polo and hi-vis in bulk, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run both routes side by side so every size of installer gets covered.",
+    "s1_head": "Kitting the field engineers of North Devon",
+    "s1loc": [
+      "Barnstaple is one of the busier full-fibre towns in North Devon. Jurassic Fibre has built its full-fibre network live across parts of the town, Airband is delivering FTTP in and around Barnstaple as part of the Connecting Devon and Somerset programme, and Openreach is extending its network to reach more local homes and businesses under Project Gigabit. With several operators building at once through the town centre, the riverside and the estates toward Roundswell and Sticklepath, there is steady work for build contractors, civils teams and the subcontractors who follow the rollout across the area.",
+      "The commercial and cabling scene is strong for a market town. Roundswell Business Park south of the A39 and Pottington Business Park on Riverside Road, along with the town-centre offices and the retail core, all need structured cabling in Cat5e, Cat6 and fibre plus camera systems for warehouses, offices and shops. Local data and security installers wire schools, professional offices and multi-site firms across northern Devon, handling CCTV for depots, yards and private premises across Barnstaple and out toward Bideford, Exeter and Tiverton, from a single office fit-out to a full estate of cabling."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Barnstaple, a structured-cabling firm or a one-van broadband installer toward Bideford"
+  }
+}

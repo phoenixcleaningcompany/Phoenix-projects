@@ -1,0 +1,86 @@
+{
+  "letchworth": {
+    "region": "Letchworth and Hertfordshire",
+    "nearby": ["Hitchin", "Stevenage", "Welwyn Garden City"],
+    "snapshot": "Letchworth is in the middle of a Hertfordshire full-fibre push, with the major fibre and mobile networks running new build through its streets and estates. The build contractors and structured-cabling firms field crews and buy through trade accounts, while ex-engineer sole traders and one-van broadband and CCTV installers order a few branded pieces direct online with no account. We run both routes side by side, kitting the fleet and the lone installer alike across the town.",
+    "s1_head": "Kitting the field engineers of Hertfordshire",
+    "s1loc": [
+      "Letchworth sits in a busy north Hertfordshire build, with Openreach pushing full fibre out across the town and Netomnia and its YouFibre service adding an alternative network alongside. Hyperoptic has connected pockets of homes, and DIGI UK has surfaced gigabit services here and in neighbouring Hitchin, with the wider footprint reaching toward Stevenage, Welwyn Garden City and Watford. CityFibre, having taken on Lit Fibre, is extending its Hertfordshire reach too. For engineers that means new ducting, poles and cabinets going in through Pixmore, Jackmans and the older garden-city streets toward Baldock.",
+      "Off the residential build sits a solid commercial scene. Letchworth has Woodside Industrial Park on Works Road, the Letchworth Trading Estate on Green Lane and the Shaftesbury Industrial Estate, plus the business park around the Nexus and Devonshire House serviced-office buildings. Structured-cabling and CCTV installers wire these units, the Pixmore enterprise cluster and a long line of trade-counter and warehouse occupiers in Cat5e, Cat6 and fibre. Schools, retail parks and multi-site firms across the town keep a steady run of office wiring, network points and camera work for local installers."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Letchworth, a structured-cabling firm or a one-van broadband installer toward Hitchin"
+  },
+  "haywards heath": {
+    "region": "Haywards Heath and West Sussex",
+    "nearby": ["Burgess Hill", "Crawley", "East Grinstead"],
+    "snapshot": "Haywards Heath is a competitive West Sussex full-fibre town, with the major fibre and mobile networks building new full fibre through its streets. The build contractors and cabling firms field engineer crews and buy through trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order a few branded pieces direct online with no account. We run both routes side by side, kitting the fleet and the lone installer alike right across the town.",
+    "s1_head": "Kitting the field engineers of West Sussex",
+    "s1loc": [
+      "Haywards Heath has unusually competitive full-fibre coverage, with Openreach, Virgin Media O2 and Swish Fibre all active and the alternative network Lightning Fibre expanding into the town on top of CityFibre infrastructure. CityFibre is also connecting key buildings here under the wider West Sussex Project Gigabit award alongside the county councils. That puts plenty of engineers on the ground, running ducting, poles and cabinets through the town centre, Bolnore Village, Lucastes and out toward Cuckfield, with new build continuing toward Burgess Hill and the surrounding villages.",
+      "Alongside the residential rollout sits a steady commercial scene centred on Bridge Road, an established business park of light-industrial units, warehouses, trade counters and offices with occupiers like Howdens, Jewson, Parker Building Supplies and Brewers. The town also has serviced offices around John de Mierre House and a working ambulance station. Structured-cabling and CCTV installers wire these units, professional offices and multi-site firms in Cat5e, Cat6 and fibre, while schools and the Brighton Main Line commuter businesses keep local network and camera work flowing across the town."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Haywards Heath, a structured-cabling firm or a one-van broadband installer toward Burgess Hill"
+  },
+  "uxbridge": {
+    "region": "Uxbridge and the London Borough of Hillingdon",
+    "nearby": ["Hayes", "Ruislip", "Slough"],
+    "snapshot": "Uxbridge is a strong full-fibre patch of Hillingdon, with the major fibre and mobile networks building full fibre across the borough. The build contractors and structured-cabling firms field engineer crews and buy through trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order a few branded pieces direct online with no account. We run both routes side by side, kitting the fleet and the lone installer alike right across the borough.",
+    "s1_head": "Kitting the field engineers of Hillingdon",
+    "s1loc": [
+      "Uxbridge sits in one of the best-covered London boroughs for full fibre, with Openreach uplifting exchanges and pushing fibre to the premises across Hillingdon. Community Fibre is laying its own network and helping fibre the borough's social housing, while Hyperoptic has connected around eleven thousand homes across Hillingdon. That gives engineers a steady run of duct, pole and cabinet work through Uxbridge town centre, Hillingdon, Cowley and out toward Hayes and Ruislip, with the major mobile operators upgrading sites on top of the fixed full-fibre build right across the borough.",
+      "The commercial scene here is heavyweight. Stockley Park is one of Europe's premier business parks, 150 acres near Heathrow home to global names, while Brunel University and Hillingdon Hospital sit on the doorstep and the town centre carries serviced offices and the Intu shopping centre. Structured-cabling and CCTV installers wire these multi-tenant campuses, university buildings and office blocks in Cat5e, Cat6 and fibre. With Heathrow logistics, data-heavy occupiers and multi-site corporates across the borough, network points, fibre runs and camera work keep local installers busy all year."
+    ],
+    "kit_loc": "across the borough's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Uxbridge, a structured-cabling firm or a one-van broadband installer toward Hayes"
+  },
+  "whitstable": {
+    "region": "Whitstable and Kent",
+    "nearby": ["Herne Bay", "Canterbury", "Faversham"],
+    "snapshot": "Whitstable is in line for a full-fibre upgrade, with the major fibre and mobile networks bringing new full fibre to the town's homes and businesses. The build contractors and cabling firms field engineer crews and buy through trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order a few branded pieces direct online with no account. We run both routes side by side, kitting the fleet and the lone installer alike right across the town.",
+    "s1_head": "Kitting the field engineers of Kent",
+    "s1loc": [
+      "Whitstable is among the Kent towns named in Openreach's full-fibre build, with fibre to the premises reaching across thousands of homes and businesses without taxpayer subsidy. That puts engineers on the streets running new ducting, poles and cabinets through the harbour town, Tankerton, Seasalter and Swalecliffe and out along the coast toward Herne Bay, with the major mobile operators upgrading their sites on top. As coverage deepens here and across the wider Canterbury district, there is a steady run of connection, repair and upgrade work for the network crews on the ground.",
+      "Off the residential build sits a working commercial scene. The St Augustine Business Park on Estuary Close, the older Tyler Way industrial estate and the John Wilson Business Park carry trade counters, light industry and offices, while the harbour hosts tarmac manufacturing and a maintenance port for an offshore wind farm. Structured-cabling and CCTV installers wire these units, retail parks and multi-site firms in Cat5e, Cat6 and fibre. Tourism, seafood businesses and offices around the town centre keep local network points and camera work flowing for installers toward Canterbury."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Whitstable, a structured-cabling firm or a one-van broadband installer toward Herne Bay"
+  },
+  "strood": {
+    "region": "Strood and Medway",
+    "nearby": ["Rochester", "Chatham", "Gravesend"],
+    "snapshot": "Strood is part of the Medway full-fibre build, with the major fibre and mobile networks pushing new full fibre across the town. The build contractors and structured-cabling firms field engineer crews and buy through trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order a few branded pieces direct online with no account. We run both routes side by side, kitting the fleet and the lone installer alike right across the town.",
+    "s1_head": "Kitting the field engineers of Medway",
+    "s1loc": [
+      "Strood sits inside the Medway full-fibre build, with Openreach running active fibre-to-the-premises work across parts of the town and CityFibre extending its forty million pound Medway investment from Rochester, Chatham, Gillingham and Rainham toward Strood and part of Hoo. CityFibre builds on a hybrid basis, sharing ducting and tracks to keep road works down. For engineers that means new poles, chambers and cabinets going in through Strood, Frindsbury, Wainscott and the riverside streets, with the major mobile operators upgrading on top and faster speeds promised across the town before the end of the year.",
+      "Strood's commercial backbone is the Medway City Estate on the Frindsbury Peninsula, around 106 hectares hosting roughly 600 businesses and over six thousand jobs across Neptune, Lakeside, Central, Victory and Henley business parks, plus the Knights Park Industrial Estate on Knight Road. Structured-cabling and CCTV installers wire these warehouses, distribution units and offices in Cat5e, Cat6 and fibre. With M2CityLink names like Selco and Argos and a heavy logistics and trade-counter base, network points, fibre runs and camera work keep local installers busy toward Rochester and Chatham."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Strood, a structured-cabling firm or a one-van broadband installer toward Rochester"
+  },
+  "glossop": {
+    "region": "Glossop and Derbyshire",
+    "nearby": ["Stockport", "Hyde", "Stalybridge"],
+    "snapshot": "Glossop has had a major full-fibre upgrade, with the major fibre and mobile networks bringing new full fibre to its homes and businesses. The build contractors and cabling firms field engineer crews and buy through trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order a few branded pieces direct online with no account. We run both routes side by side, kitting the fleet and the lone installer alike right across the town.",
+    "s1_head": "Kitting the field engineers of the High Peak",
+    "s1loc": [
+      "Glossop has had a major full-fibre upgrade, with Openreach making full fibre available to around fifteen thousand homes and businesses across Glossop and Hadfield through a multi-million-pound investment, taking coverage past ninety per cent of properties. The High Peak has been one of the first places in the UK to use a new Clean Fast trenching machine that cuts, clears, lays and seals the network in one pass. With the wider Derbyshire Peak District now folded into Openreach's Project Gigabit work, engineers stay busy on connections, poles and cabinets through Old Glossop, Simmondley, Whitfield and Hadfield.",
+      "Off the residential build sits a compact commercial scene. Glossop has the Dinting Lane Industrial Estate, Dinting Vale Business Park, the Brookfield Industrial Estate on Peakdale Road and the Wren Nest Retail Park on Glossop Brook Road, with the Waterside Industrial Estate and Graphite Way joinery units over in Hadfield. Structured-cabling and CCTV installers wire these mill-conversion units, trade counters and offices in Cat5e, Cat6 and fibre. Manufacturing, retail and multi-site firms across the town, plus the commuter businesses toward Stockport, keep local network points and camera work flowing for installers."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Glossop, a structured-cabling firm or a one-van broadband installer toward Stockport"
+  },
+  "stretford": {
+    "region": "Stretford and the Metropolitan Borough of Trafford",
+    "nearby": ["Urmston", "Altrincham", "Manchester"],
+    "snapshot": "Stretford is well into the Trafford full-fibre build, with the major fibre and mobile networks pushing full fibre across the borough. The build contractors and structured-cabling firms field engineer crews and buy through trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order a few branded pieces direct online with no account. We run both routes side by side, kitting the fleet and the lone installer alike right across the borough.",
+    "s1_head": "Kitting the field engineers of Trafford",
+    "s1loc": [
+      "Stretford sits in a well-covered part of Trafford, with Openreach and CityFibre both building deep full-fibre networks across the borough alongside the alternative networks active in Greater Manchester. That puts engineers on the streets running new ducting, poles and cabinets through Stretford, Old Trafford, Gorse Hill and Firswood and out toward Urmston and Sale, with the major mobile operators upgrading their sites on top. As gigabit coverage fills in across the borough, there is a steady run of connection, repair and upgrade work for the network crews on the ground.",
+      "Stretford's commercial pull is huge. Trafford Park, the world's first planned industrial estate, sits on the doorstep with electrical, engineering and logistics occupiers, while the Trafford Centre, Emirates Old Trafford cricket ground and the Lancastrian offices add offices, retail and stadium work. Structured-cabling and CCTV installers wire these warehouses, distribution sheds and office blocks in Cat5e, Cat6 and fibre. With data-heavy logistics, multi-site corporates and a dense small-business base across the borough, network points, fibre runs and camera work keep local installers busy toward Manchester."
+    ],
+    "kit_loc": "across the borough's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Stretford, a structured-cabling firm or a one-van broadband installer toward Urmston"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "amesbury": {
+    "region": "Amesbury and Wiltshire",
+    "nearby": ["Salisbury", "Andover", "Trowbridge"],
+    "snapshot": "Amesbury sits on the A303 in south Wiltshire, where a full-fibre build and a steady commercial scene keep telecoms crews busy. The bigger fleets and build contractors run on trade accounts and central procurement, kitting whole teams of engineers. The sole traders, ex-BT installers and one-van broadband and CCTV firms order direct online with no account. We serve both routes side by side so every installer in the town can get branded workwear.",
+    "s1_head": "Kitting the field engineers of Wiltshire",
+    "s1loc": [
+      "Amesbury is in the middle of a south Wiltshire full-fibre push. Openreach is building its Full Fibre network out across the town and surrounding villages, and the wider Project Gigabit programme is reaching the rural Wylye Valley and Salisbury Plain edge through an 18 million pound rural contract bringing gigabit-capable lines to thousands of hard-to-reach homes. On top of that the major mobile networks keep upgrading their masts. Around the residential build sits a steady tail of broadband, CCTV and structured-cabling installers working the streets, cabinets and customer premises through Ratfyn, West Amesbury and Boscombe Down.",
+      "The commercial side runs off the A303 corridor. Solstice Park, the big mixed business and logistics development at the Boscombe Down junction, plus the units around Amesbury Business Centre, give structured-cabling and fibre-optic firms a steady run of offices, warehouses and trade counters to wire in Cat5e, Cat6 and fibre. The MOD presence at Boscombe Down and the Stonehenge visitor economy add more sites needing data cabling and CCTV. It is work for commercial installers and the small subcontractors who pick up jobs across the town and out toward Salisbury and Andover."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Amesbury, a structured-cabling firm or a one-van broadband installer toward Salisbury"
+  },
+  "warwick": {
+    "region": "Warwick and Warwickshire",
+    "nearby": ["Leamington Spa", "Kenilworth", "Coventry"],
+    "snapshot": "Warwick is in the middle of a full-fibre build, with the big contractors fielding crews of engineers who buy through trade accounts and central procurement. Alongside them work a large layer of small subcontractors, ex-BT sole traders and independent broadband and CCTV installers who take on jobs across the town and order direct online with no account. We run both routes together so the fleets and the one-van installers can all get branded workwear here.",
+    "s1_head": "Kitting the field engineers of Warwickshire",
+    "s1loc": [
+      "Warwick has two full-fibre networks going in at once. Openreach has invested heavily in its Full Fibre build across Warwickshire, reaching well over half of local properties, while CityFibre is rolling out a 30 million pound network covering Warwick and neighbouring Leamington Spa, with construction already underway in the All Saints and Woodloes areas. Alt-net builder toob has joined the CityFibre platform locally too, and the major mobile networks keep upgrading on top. National delivery partners and civils contractors work the streets and cabinets through the town centre and out toward Heathcote and Woodloes.",
+      "The commercial scene clusters around Junction 15 of the M40. Tournament Fields Business Park, just south-west of the town, houses occupiers like Semcon, Geberit, Eagle Burgmann and the West Midlands Ambulance Service, with new industrial and logistics units still being built there. The Heathcote industrial area and the nearby University of Warwick campus add more offices, labs and warehouses needing structured cabling and CCTV. It gives commercial fibre-optic firms a steady run of Cat5e, Cat6 and fibre jobs, plus work for the small installers picking up tasks across the town and toward Coventry."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Warwick, a structured-cabling firm or a one-van broadband installer toward Leamington Spa"
+  },
+  "erith": {
+    "region": "Erith and the London Borough of Bexley",
+    "nearby": ["Dartford", "Sidcup", "Woolwich"],
+    "snapshot": "Erith sits on the Thames in the London Borough of Bexley, where gigabit networks and riverside industry keep telecoms crews busy. The bigger build contractors and fleets run on trade accounts and central procurement, kitting whole teams of engineers. The sole traders, ex-BT installers and one-van broadband and CCTV firms order direct online with no account. We run both routes side by side so every installer working the borough can get branded workwear.",
+    "s1_head": "Kitting the field engineers of south-east London",
+    "s1loc": [
+      "Erith is well served by gigabit networks. Openreach and Virgin Media have both pushed full fibre across most of the DA8 area, and London alt-nets including Community Fibre and Hyperoptic have extended into the borough, lifting average speeds across Bexley sharply in recent years. The major mobile operators keep upgrading their masts on top. Around the rollout sits a long tail of broadband, CCTV and structured-cabling installers working the streets, cabinets and customer premises through Erith, Belvedere and Slade Green, with the Erith Western Gateway regeneration bringing fresh riverside premises to wire.",
+      "The commercial side is heavily industrial. The riverside estates - Eastern Industrial Estate on Kencot Way, the Manford estate on Manor Road and the units around Freeland Way in Slade Green - give structured-cabling and fibre-optic firms a steady run of warehouses, depots and trade counters to wire in Cat5e, Cat6 and fibre. Newer flexible workspace like the Engine House on Veridion Way adds office fit-outs and CCTV jobs. It is work for commercial installers and the small subcontractors who take on tasks across the borough and out toward Dartford and Woolwich."
+    ],
+    "kit_loc": "across the borough's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Erith, a structured-cabling firm or a one-van broadband installer toward Dartford"
+  },
+  "billericay": {
+    "region": "Billericay and Essex",
+    "nearby": ["Basildon", "Wickford", "Brentwood"],
+    "snapshot": "Billericay sits in the Basildon district of Essex, where a full-fibre build and a busy commercial scene keep telecoms crews working. The bigger fleets and build contractors run on trade accounts and central procurement, kitting whole teams of engineers. The sole traders, ex-BT installers and one-van broadband and CCTV firms order direct online with no account. We serve both routes side by side so every installer in the town can get branded workwear.",
+    "s1_head": "Kitting the field engineers of Essex",
+    "s1loc": [
+      "Billericay already has full fibre in good supply, with tens of thousands more premises following across the wider Basildon district as Openreach engineers keep building. Openreach has spent around 66 million pound commercially and alongside Essex County Council's Superfast Essex and Project Gigabit programmes, with extra government funding extending the rollout to thousands more homes and businesses nearby. Other Essex commercial operators including CityFibre and County Broadband are active across the county, and the major mobile networks keep upgrading on top. The work runs through the streets, cabinets and customer premises across the town.",
+      "The commercial scene centres on the Radford Way estate beside the railway station. Radford Business Centre and the units along Radford Way and Radford Crescent give structured-cabling and fibre-optic firms a steady run of warehouses, offices and trade counters to wire in Cat5e, Cat6 and fibre, with local occupiers like Jewson and Kwik Fit among them. The A12 corridor toward Brentwood and the larger estates around Basildon add more distribution and office sites needing data cabling and CCTV. It is work for commercial installers and the small subcontractors picking up jobs across the town and toward Wickford."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Billericay, a structured-cabling firm or a one-van broadband installer toward Basildon"
+  },
+  "coalville": {
+    "region": "Coalville and Leicestershire",
+    "nearby": ["Loughborough", "Leicester", "Hinckley"],
+    "snapshot": "Coalville sits in north-west Leicestershire, where competing full-fibre networks and big logistics estates keep telecoms crews busy. The bigger build contractors and fleets run on trade accounts and central procurement, kitting whole teams of engineers. The sole traders, ex-BT installers and one-van broadband and CCTV firms order direct online with no account. We run both routes side by side so the fleets and the one-van installers can all get branded workwear here.",
+    "s1_head": "Kitting the field engineers of Leicestershire",
+    "s1loc": [
+      "Coalville has competing full-fibre networks going in. Openreach has invested around 5.1 million pound in its Full Fibre build across Coalville, Whitwick and Hugglescote, reaching the large majority of properties, and Virgin Media with nexfibre covers much of the town too. Carlisle-based alt-net Grain has begun expanding its Fibre-to-the-Premises lines across the town after a major funding boost, with smaller Hyperoptic and Glide deployments around as well. The major mobile networks keep upgrading on top. The build runs through the streets, cabinets and customer premises across Coalville, Whitwick, Greenhill and Thringstone.",
+      "The commercial side is dominated by logistics. Bardon Hill, less than two miles from Junction 22 of the M1, is one of the UK's fastest-growing distribution locations, with occupiers like Amazon, Eddie Stobart and DHL, plus Forest Business Park and large industrial estates including South Leicester and Stephenson. These big sheds, plus Whitwick Business Park and the Aldi distribution centre, give structured-cabling and fibre-optic firms a steady run of warehouses and offices to wire in Cat5e, Cat6 and fibre. It is work for commercial installers and the small subcontractors picking up jobs across the town and toward Loughborough and Leicester."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Coalville, a structured-cabling firm or a one-van broadband installer toward Loughborough"
+  },
+  "hitchin": {
+    "region": "Hitchin and Hertfordshire",
+    "nearby": ["Letchworth", "Stevenage", "Luton"],
+    "snapshot": "Hitchin sits in north Hertfordshire, where competing full-fibre networks and a busy commercial district keep telecoms crews working. The bigger build contractors and fleets run on trade accounts and central procurement, kitting whole teams of engineers. The sole traders, ex-BT installers and one-van broadband and CCTV firms order direct online with no account. We run both routes side by side so every installer in the town can get branded workwear.",
+    "s1_head": "Kitting the field engineers of Hertfordshire",
+    "s1loc": [
+      "Hitchin has several full-fibre networks building at once. Netomnia, backed by YouFibre, launched a 25.5 million pound project to deploy its 10Gbps-capable Fibre-to-the-Premises network across the town, using contractor GNS Communications and Openreach ducts and poles. WhyFibre has also been laying fresh fibre through Openreach's duct network locally, while Openreach and Virgin Media have already covered most of the town with their gigabit networks. The major mobile operators keep upgrading on top. The build runs through the streets, cabinets and customer premises across Hitchin and out toward Letchworth.",
+      "The commercial scene clusters around Wilbury Way. Wilbury Park and the Hitchin Industrial Estate along Wilbury Way, Hunting Gate and Hillgate form the town's main business district, a mile north of the station, with warehouses, light-industrial units and offices needing structured cabling and CCTV. With Junctions 8 and 9 of the A1(M) just to the west and fast trains to Kings Cross and Cambridge, the estate draws a steady run of office and warehouse fit-outs in Cat5e, Cat6 and fibre. It is work for commercial installers and the small subcontractors picking up jobs across the town and toward Stevenage."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Hitchin, a structured-cabling firm or a one-van broadband installer toward Letchworth"
+  },
+  "dunstable": {
+    "region": "Dunstable and Bedfordshire",
+    "nearby": ["Luton", "Hemel Hempstead", "Bedford"],
+    "snapshot": "Dunstable sits in south-west Bedfordshire, where a full-fibre build and big logistics estates keep telecoms crews busy. The bigger build contractors and fleets run on trade accounts and central procurement, kitting whole teams of engineers. The sole traders, ex-BT installers and one-van broadband and CCTV firms order direct online with no account. We run both routes side by side so every installer in the town can get branded workwear.",
+    "s1_head": "Kitting the field engineers of Bedfordshire",
+    "s1loc": [
+      "Dunstable has full fibre going in from more than one network. CityFibre is delivering a 45 million pound rollout reaching every home and business across Luton and Dunstable, while Openreach's Full Fibre network, in action at the Dunstable exchange, has helped pass more than 100,000 properties across Bedfordshire on a 30 million pound investment. Netomnia is building in the wider Bedfordshire area too, and the major mobile networks keep upgrading on top. The build runs through the streets, cabinets and customer premises across Dunstable and out toward Houghton Regis.",
+      "The commercial side runs off the M1. The Woodside industrial estate, linked to Junction 11a by the A5505 Woodside Link, hosts depots and operators like DPD, Evri, Centrebus and Premier Cables, while the neighbouring Houghton Hall Business Park is home to Whitbread's headquarters along with Renault Trucks and the NICEIC Group. These estates give structured-cabling and fibre-optic firms a steady run of warehouses, offices and depots to wire in Cat5e, Cat6 and fibre, plus CCTV. It is work for commercial installers and the small subcontractors picking up jobs across the town and toward Luton."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Dunstable, a structured-cabling firm or a one-van broadband installer toward Luton"
+  }
+}
