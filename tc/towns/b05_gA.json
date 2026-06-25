@@ -1,0 +1,86 @@
+{
+  "macclesfield": {
+    "region": "Macclesfield and east Cheshire",
+    "nearby": ["Wilmslow", "Congleton", "Stockport"],
+    "snapshot": "Macclesfield sits in a busy east Cheshire full-fibre build, and the trade splits two ways. Build contractors and structured-cabling firms field crews of engineers and buy branded kit through trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order a few pieces direct online with no account. A workwear supplier here has to serve the fleet and the single installer alike, which is why we run both routes side by side.",
+    "s1_head": "Kitting the field engineers of east Cheshire",
+    "s1loc": [
+      "Macclesfield is in the middle of a fast full-fibre rollout. Openreach is pushing FTTP out through the town and the surrounding east Cheshire villages, and the alternative network Netomnia is building alongside it, taking ultrafast fibre into thousands of homes across districts like Hurdsfield, Tytherington, Broken Cross and Weston. Virgin Media and the mobile operators keep upgrading on top, and behind the residential build sits the usual mix of civils crews, fibre jointers and overhead engineers working the streets, cabinets and customer premises day in and day out across the town.",
+      "The commercial side is just as active. The Hurdsfield Industrial Estate off Charter Way - home to the long-established AstraZeneca pharmaceutical site - along with the Tytherington Business Park and the offices around Macclesfield town centre keep structured-cabling and CCTV installers busy wiring Cat5e, Cat6 and fibre for businesses, schools and multi-site employers. Local cabling and network firms take on office fit-outs and IP camera work across east Cheshire, so the demand runs from large managed sites down to the small independent installer fitting a handful of points."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Macclesfield, a structured-cabling firm or a one-van broadband installer toward Wilmslow"
+  },
+  "cumbernauld": {
+    "region": "Cumbernauld and North Lanarkshire",
+    "nearby": ["Glasgow", "Falkirk", "Airdrie"],
+    "snapshot": "Cumbernauld is in the middle of a North Lanarkshire full-fibre build, and the trade orders two ways. Build contractors and cabling firms put crews of engineers on the street and buy branded kit through trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order a few pieces direct online. A workwear supplier here has to kit the fleet and the lone installer alike, which is why we run both routes together.",
+    "s1_head": "Kitting the field engineers of North Lanarkshire",
+    "s1loc": [
+      "Cumbernauld has reached a real full-fibre milestone. Openreach has invested several million pounds in a new FTTP network here, taking ultrafast fibre past more than thirteen thousand homes and businesses across the town, and the alternative network Netomnia is building alongside through the New Town districts of Kildrum, Seafar, Abronhill and Carbrain. Virgin Media and the mobile operators upgrade on top, and the wider North Lanarkshire rollout reaches towns like Wishaw and the villages around them, keeping civils crews, fibre jointers and overhead engineers working the streets and cabinets across the area.",
+      "The commercial scene runs alongside the homes. Cumbernauld grew up around its industrial estates - Wardpark, Blairlinn and the units off the A80 - where distribution, light manufacturing and office occupiers keep structured-cabling and CCTV installers busy wiring Cat5e, Cat6 and fibre across the town. The retail and office blocks of the Cumbernauld town centre add more work, so the demand spans large managed sites and multi-site employers right down to the small independent installer fitting a few network points and IP cameras."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Cumbernauld, a structured-cabling firm or a one-van broadband installer toward Glasgow"
+  },
+  "perth": {
+    "region": "Perth and Perth and Kinross",
+    "nearby": ["Dundee", "Kirkcaldy", "Glenrothes"],
+    "snapshot": "Perth is in the middle of a major full-fibre build, and the trade orders two ways. Build contractors and cabling firms field crews of engineers and buy branded kit through trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order a few pieces direct online with no account. A workwear supplier here has to serve the fleet and the single installer alike, which is why we run both routes side by side.",
+    "s1_head": "Kitting the field engineers of Perth and Kinross",
+    "s1loc": [
+      "Perth is a focus of the Scottish full-fibre upgrade. Openreach is taking FTTP past around nineteen thousand city homes and businesses, with build partner Morrison Telecom Services delivering much of the work across districts like Letham, Craigie, Tulloch and Bridgend. The alternative network GoFibre is building across the wider Perth and Kinross area under its Project Gigabit contract for the rural north east, reaching surrounding towns and villages. Virgin Media and the mobile operators upgrade on top, so civils crews, fibre jointers and overhead engineers are busy across the city's streets and cabinets.",
+      "The commercial side keeps pace. The Inveralmond Industrial Estate and St Catherines Retail Park on the city edge, the business units around Ruthvenfield and the offices of the city centre give structured-cabling and CCTV installers steady work wiring Cat5e, Cat6 and fibre for offices, schools and multi-site employers across Tayside. Insurance, whisky and distribution employers anchor a real business base, so the demand runs from large managed estates down to the small independent installer fitting a handful of network points and IP cameras."
+    ],
+    "kit_loc": "across the city's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Perth, a structured-cabling firm or a one-van broadband installer toward Dundee"
+  },
+  "cheshunt": {
+    "region": "Cheshunt and the Borough of Broxbourne",
+    "nearby": ["Enfield", "Hoddesdon", "Hertford"],
+    "snapshot": "Cheshunt sits in a busy Hertfordshire full-fibre build, and the trade splits two ways. Build contractors and structured-cabling firms put crews of engineers on the street and buy branded kit through trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order a few pieces direct online with no account. A workwear supplier here has to kit the fleet and the lone installer alike, which is why we run both routes together.",
+    "s1_head": "Kitting the field engineers of the Lea Valley",
+    "s1loc": [
+      "Cheshunt is well into a full-fibre rollout in the Lea Valley. Openreach is extending FTTP across the town and the wider Borough of Broxbourne, the alternative network Netomnia is building ultrafast fibre alongside, and Virgin Media keeps upgrading its own network across most premises. Community Fibre is active in the neighbouring London edge, so the area sits between several builds at once. The work runs through districts like Waltham Cross, Cheshunt town centre, Goffs Oak and Flamstead End, keeping civils crews, fibre jointers and overhead engineers busy across the streets and cabinets.",
+      "The commercial scene is strong along the Lea Valley corridor. The business units off Brookfield, the Delamare Road industrial area, the Park Plaza offices and the glasshouse and distribution sites toward the valley keep structured-cabling and CCTV installers wiring Cat5e, Cat6 and fibre for offices, warehouses and multi-site employers. With easy reach into north London and a dense band of light-industrial premises, the demand spans large managed estates and a long tail of small installers fitting a few network points and IP cameras across the borough."
+    ],
+    "kit_loc": "across the borough's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Cheshunt, a structured-cabling firm or a one-van broadband installer toward Enfield"
+  },
+  "wellingborough": {
+    "region": "Wellingborough and Northamptonshire",
+    "nearby": ["Kettering", "Rushden", "Northampton"],
+    "snapshot": "Wellingborough is a CityFibre full-fibre town, and the trade orders two ways. National build contractors and cabling firms field whole crews of engineers and buy branded kit through trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order a few pieces direct online with no account. A workwear supplier here has to serve the fleet and the single installer alike, which is why we run both routes side by side.",
+    "s1_head": "Kitting the field engineers of Northamptonshire",
+    "s1loc": [
+      "Wellingborough has had a full CityFibre build. CityFibre invested around fourteen million pounds laying over a hundred and thirty kilometres of fibre across the town, passing roughly twenty thousand homes through resellers like TalkTalk and Vodafone. Openreach is extending its own FTTP across Northamptonshire, where more than two hundred thousand premises can now order full fibre from Wellingborough to Kettering and Northampton, and Virgin Media covers most of the town. The build runs through districts like Queensway, Hemmingwell, Redwell and the town centre, keeping civils crews and fibre jointers busy across the streets and cabinets.",
+      "The commercial side is busy too. The Park Farm Industrial Estate, the Denington Industrial Estate and the large distribution sheds rising at the Stanton Cross development and along the A45 corridor keep structured-cabling and CCTV installers wiring Cat5e, Cat6 and fibre for warehouses, offices and multi-site employers. Logistics and light manufacturing anchor a real employment base, so the demand runs from large managed estates down to the small independent installer fitting a handful of network points and IP cameras across the town."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Wellingborough, a structured-cabling firm or a one-van broadband installer toward Kettering"
+  },
+  "kingston upon thames": {
+    "region": "Kingston upon Thames and south west London",
+    "nearby": ["Twickenham", "Sutton", "Epsom"],
+    "snapshot": "Kingston upon Thames sits in a dense south west London full-fibre build, and the trade orders two ways. Build contractors and structured-cabling firms put crews of engineers on the street and buy branded kit through trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order a few pieces direct online. A workwear supplier here has to kit the fleet and the lone installer alike, which is why we run both routes together.",
+    "s1_head": "Kitting the field engineers of south west London",
+    "s1loc": [
+      "Kingston is one of the best-connected boroughs in south west London. Openreach is extending FTTP across the Royal Borough, and the alternative networks Community Fibre and Hyperoptic have built across the borough's social housing and communal blocks, with CityFibre and Virgin Media also present. Fibre cabling has gone in through districts like Norbiton, Surbiton, New Malden, Tolworth and Chessington, so the area sits between several builds at once. Civils crews, fibre jointers and overhead engineers are busy across the borough's streets, cabinets and customer premises throughout the rollout.",
+      "The commercial scene is dense. The offices and retail of Kingston town centre, the business units around Tolworth and Chessington, the Kingston University campuses and the multi-site employers along the riverside keep structured-cabling and CCTV installers wiring Cat5e, Cat6 and fibre across the borough. With a busy mix of retail, education and professional offices, the demand spans large managed sites and a long tail of small independent installers fitting a few network points and IP cameras for businesses and homes across south west London."
+    ],
+    "kit_loc": "across the borough's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Kingston upon Thames, a structured-cabling firm or a one-van broadband installer toward Twickenham"
+  },
+  "andover": {
+    "region": "Andover and north west Hampshire",
+    "nearby": ["Basingstoke", "Winchester", "Salisbury"],
+    "snapshot": "Andover sits in a busy Hampshire full-fibre build, and the trade splits two ways. Build contractors and cabling firms field whole crews of engineers and buy branded kit through trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order a few pieces direct online with no account. A workwear supplier here has to serve the fleet and the single installer alike, which is why we run both routes side by side.",
+    "s1_head": "Kitting the field engineers of north west Hampshire",
+    "s1loc": [
+      "Andover is firmly on the Hampshire full-fibre map. CityFibre is building a full-fibre network across the town, with the Hampshire-based alternative network Toob carried over CityFibre's infrastructure as part of its expansion across the county. Openreach is extending its own FTTP alongside, and Virgin Media covers much of the town, so several builds run at once through districts like Charlton, Picket Twenty, Augusta Park and the town centre. Civils crews, fibre jointers and overhead engineers stay busy across the town's streets, cabinets and customer premises throughout the rollout.",
+      "The commercial side is substantial. The Walworth Business Park off the A303 - home to large distribution centres for the Co-op, Ocado and Twinings - along with the East Portway and West Portway business parks keep structured-cabling and CCTV installers wiring Cat5e, Cat6 and fibre for warehouses, offices and multi-site employers. Logistics and distribution anchor a real employment base, so the demand runs from large managed estates down to the small independent installer fitting a handful of network points and IP cameras across the town."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Andover, a structured-cabling firm or a one-van broadband installer toward Basingstoke"
+  }
+}

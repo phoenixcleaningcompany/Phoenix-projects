@@ -1,0 +1,86 @@
+{
+  "beckenham": {
+    "region": "Beckenham and the London Borough of Bromley",
+    "nearby": ["Bromley", "Croydon", "Orpington"],
+    "snapshot": "Beckenham sits in the London Borough of Bromley, and its telecoms trade splits two ways. Build contractors and structured-cabling firms running crews across the borough buy on trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run both routes side by side so the fleet and the single engineer are kitted the same week.",
+    "s1_head": "Kitting the field engineers of Bromley and south east London",
+    "s1loc": [
+      "Beckenham has seen a large full-fibre build land across the London Borough of Bromley. Openreach has pushed an ultrafast network through the area as part of a major programme reaching tens of thousands of homes and businesses, with delivery partners working the streets around Beckenham Junction, Elmers End, Penge and Clock House. Alongside that residential rollout, Community Fibre and Hyperoptic add full fibre across parts of the borough, and Virgin Media O2 keeps upgrading on top. It all puts a steady stream of engineers into the cabinets, poles and footways from West Wickham through to Bromley itself.",
+      "Beyond the residential build sits a busy commercial scene. The offices and retail blocks around Beckenham High Street and Beckenham Junction, the trading and industrial units near Elmers End and Kent House, and the schools and care premises across the borough all need structured cabling in Cat5e, Cat6 and fibre, plus CCTV and access control. Cabling and security installers wire these alongside the bigger projects in Bromley town centre and out toward Orpington, giving the area a long tail of small firms working offices, shops and homes day to day."
+    ],
+    "kit_loc": "across the borough's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Beckenham, a structured-cabling firm or a one-van broadband installer toward Bromley"
+  },
+  "sutton": {
+    "region": "Sutton and the London Borough of Sutton",
+    "nearby": ["Croydon", "Epsom", "Beckenham"],
+    "snapshot": "Sutton is a south London borough with strong full-fibre coverage, and its telecoms trade runs on two routes. Build contractors and commercial cabling firms working crews across the borough order on trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers buy direct online with no account. We keep both open so the fleet and the single-van engineer are both kitted quickly.",
+    "s1_head": "Kitting the field engineers of the Sutton borough",
+    "s1loc": [
+      "Sutton has some of the deeper full-fibre coverage in south London. Openreach has built its ultrafast network through Sutton town centre, Carshalton and Wallington, while Community Fibre and Hyperoptic add strong alternative-network coverage across the borough, well above the London average. Virgin Media O2 upgrades on top, and delivery partners keep working the cabinets, poles and footways from Cheam and Worcester Park through to Belmont and St Helier. The mix puts a steady flow of engineers onto the borough's streets as the residential rollout fills in.",
+      "The commercial side is just as active. The offices and trading units around Sutton town centre and the High Street, the industrial premises near Kimpton Park Way and Beddington, and the schools, surgeries and care homes across the borough all need structured cabling in Cat5e, Cat6 and fibre, plus CCTV and access control. Cabling and security installers wire these alongside the bigger fit-outs, and the work runs out toward Carshalton, Wallington and the Croydon edge, supporting a long tail of small firms working offices, shops and homes."
+    ],
+    "kit_loc": "across the borough's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Sutton, a structured-cabling firm or a one-van broadband installer toward Croydon"
+  },
+  "banbury": {
+    "region": "Banbury and north Oxfordshire",
+    "nearby": ["Bicester", "Leamington Spa", "Oxford"],
+    "snapshot": "Banbury is a growing north Oxfordshire town, and its telecoms trade splits two ways. Build contractors and structured-cabling firms running crews across the area buy on trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run both routes side by side so the fleet and the single engineer get the same kit without the wait.",
+    "s1_head": "Kitting the field engineers of north Oxfordshire",
+    "s1loc": [
+      "Banbury was named an Openreach Fibre First town and has had a multi-million-pound full-fibre build pushed through the exchange area, reaching a large share of homes and businesses across Grimsbury, Easington, Hardwick and Bretch Hill. Across the wider county, Gigaclear and Airband add full fibre under both commercial and Project Gigabit work, so engineers are busy in the cabinets, poles and footways. Delivery partners keep the rollout moving through the town and out toward the surrounding villages, with the major fibre and mobile networks upgrading on top.",
+      "The commercial scene is sizeable for the town's size. Banbury has a strong logistics and manufacturing base, with the Cherwell Business Village on Southam Road, Cherwell Valley Business Park and the industrial estates off the M40 all hosting offices, warehousing and trade units that need structured cabling in Cat5e, Cat6 and fibre, plus CCTV and access control. Cabling and security installers wire these alongside the schools and retail across town, and the work runs out toward Bicester, giving the area a steady base of small firms."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Banbury, a structured-cabling firm or a one-van broadband installer toward Bicester"
+  },
+  "winchester": {
+    "region": "Winchester and central Hampshire",
+    "nearby": ["Eastleigh", "Southampton", "Andover"],
+    "snapshot": "Winchester is a central Hampshire city, and its telecoms trade runs on two routes. Build contractors and structured-cabling firms working crews across the city buy on trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We keep both open so the fleet and the single-van engineer are kitted the same week.",
+    "s1_head": "Kitting the field engineers of central Hampshire",
+    "s1loc": [
+      "Winchester is seeing full fibre fill in across the city. Openreach has extended its network through large parts of the built-up area, and CityFibre is building a 10Gbps-capable full-fibre network into parts of the city under Project Gigabit, though some of its work has run into ecological and planning constraints. Toob is rolling out FTTP across parts of Hampshire too, and the major mobile networks keep upgrading on top. The combined build puts engineers into the cabinets, poles and footways through Stanmore, Weeke, Harestock and Winnall as the rollout continues.",
+      "The commercial side leans on the city's offices, public bodies and education. The Winnall and Winnall Valley Road industrial and trade estates, the business premises around the city centre, and the University of Winchester and the many schools and council and NHS buildings all need structured cabling in Cat5e, Cat6 and fibre, plus CCTV and access control. Cabling and security installers wire these alongside the retail and hospitality across the historic centre, with work running south toward Eastleigh and the wider Southampton corridor."
+    ],
+    "kit_loc": "across the city's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Winchester, a structured-cabling firm or a one-van broadband installer toward Eastleigh"
+  },
+  "beeston": {
+    "region": "Beeston and Nottinghamshire",
+    "nearby": ["Nottingham", "West Bridgford", "Carlton"],
+    "snapshot": "Beeston is a Nottingham suburb in the Borough of Broxtowe, and its telecoms trade splits two ways. Build contractors and commercial cabling firms running crews across the area buy on trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run both routes side by side so the fleet and the single engineer are kitted alike.",
+    "s1_head": "Kitting the field engineers of greater Nottingham",
+    "s1loc": [
+      "Beeston sits right on the edge of the Nottingham full-fibre build. Openreach has pushed its ultrafast network through the area, while CityFibre and Hyperoptic add alternative full fibre across greater Nottingham, with Hyperoptic targeting apartment blocks and newer developments in Beeston and nearby. Virgin Media O2 upgrades on top, and delivery partners keep working the cabinets, poles and footways through Beeston, Chilwell and Toton. The Nottingham Express Transit tram line that runs through Beeston has put more dense, mixed-use development in reach of the build, keeping a steady flow of engineers on the street.",
+      "The commercial scene here is strong for a suburb. Beeston Business Park and the Nottingham Science Park sit within the Nottingham Enterprise Zone alongside the Boots site to the east, and the University of Nottingham's University Park campus is on the doorstep, all needing structured cabling in Cat5e, Cat6 and fibre, plus CCTV and access control. Cabling and security installers wire these alongside the offices, schools and retail across Broxtowe, with work running into Nottingham city and out toward West Bridgford."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Beeston, a structured-cabling firm or a one-van broadband installer toward Nottingham"
+  },
+  "ayr": {
+    "region": "Ayr and South Ayrshire",
+    "nearby": ["Kilmarnock", "Irvine", "Glasgow"],
+    "snapshot": "Ayr is the main town of South Ayrshire, and its telecoms trade runs on two routes. Build contractors and structured-cabling firms working crews across the area buy on trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We keep both open so the fleet and the single-van engineer are both kitted quickly.",
+    "s1_head": "Kitting the field engineers of South Ayrshire",
+    "s1loc": [
+      "Ayr has had a substantial full-fibre build across the town. Openreach has extended its ultrafast network so a large majority of homes and businesses can now upgrade, part of a wider Ayrshire programme that has passed more than 100,000 premises across North, East and South Ayrshire. Delivery partners keep working the cabinets, poles and footways through the town centre, Prestwick Road, Heathfield and the seafront, with the major mobile networks upgrading on top. The build keeps a steady flow of engineers on the street as coverage fills in across the town.",
+      "The commercial side leans on the town's mix of business and public bodies. The Heathfield Retail and Industrial estate, the offices and trade units across the town centre, the harbour-side premises and the hospital, college and council buildings all need structured cabling in Cat5e, Cat6 and fibre, plus CCTV and access control. Cabling and security installers wire these alongside the retail and hospitality that serve the town and the coast, with work running north toward Prestwick and out toward Kilmarnock and the wider Ayrshire base."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Ayr, a structured-cabling firm or a one-van broadband installer toward Kilmarnock"
+  },
+  "kilmarnock": {
+    "region": "Kilmarnock and East Ayrshire",
+    "nearby": ["Ayr", "Irvine", "Glasgow"],
+    "snapshot": "Kilmarnock is the main town of East Ayrshire, and its telecoms trade splits two ways. Build contractors and structured-cabling firms running crews across the area buy on trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run both routes side by side so the fleet and the single engineer get the same kit without the wait.",
+    "s1_head": "Kitting the field engineers of East Ayrshire",
+    "s1loc": [
+      "Kilmarnock has had a major full-fibre build land across the town. Openreach has invested several million pounds in a network reaching more than 27,000 homes and businesses, around 85 per cent of premises, with delivery partners working the cabinets, poles and footways through the town centre, Riccarton, Shortlees and New Farm Loch. It is part of a wider Ayrshire programme that has passed more than 100,000 premises across North, East and South Ayrshire, with the major mobile networks upgrading on top and a steady flow of engineers on the street.",
+      "The commercial scene is solid for the town. The Moorfield and Bonnyton industrial estates, the offices and trade units around the town centre, and the college, hospital and council premises across East Ayrshire all need structured cabling in Cat5e, Cat6 and fibre, plus CCTV and access control. Cabling and security installers wire these alongside the retail and the manufacturing base the town is known for, with work running out toward Irvine and down toward Ayr across the wider Ayrshire patch."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Kilmarnock, a structured-cabling firm or a one-van broadband installer toward Ayr"
+  }
+}

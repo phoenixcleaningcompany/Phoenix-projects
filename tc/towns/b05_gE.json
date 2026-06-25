@@ -1,0 +1,86 @@
+{
+  "bridgwater": {
+    "region": "Bridgwater and Somerset",
+    "nearby": ["Taunton", "Weston-super-Mare", "Yeovil"],
+    "snapshot": "Bridgwater sits in the middle of a busy Somerset fibre build, and its telecoms trade splits two ways. The build contractors and structured-cabling firms running crews across the town tend to buy through trade accounts with branded kit for whole teams, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We serve both routes side by side, fleet and single installer alike.",
+    "s1_head": "Kitting the field engineers of Somerset",
+    "s1loc": [
+      "Bridgwater is deep into the full-fibre rollout. Openreach has named the town in its largest hard-to-reach full fibre build, pushing fibre to the premises out across the streets, and it is even running a dedicated link to the new Agratas battery site near Puriton. Jurassic Fibre was first to go live in Somerset here, with Bridgwater among its earliest live areas, and Virgin Media competes on full fibre on top. Crews work through Sydenham, Hamp, Eastover, Wembdon and Bower, keeping civils gangs, jointers and fibre engineers busy at the cabinets day in and day out.",
+      "Alongside the residential rollout sits a strong commercial and structured-cabling scene. Cabling and CCTV installers wire offices, schools and warehouses in Cat5e, Cat6 and fibre across Bridgwater Gateway at junction 24 of the M5, Express Park on Bristol Road, Blake Mill Business Park and the Wylds Road and Dunball industrial estates. The Hinkley Point C new-build and its supply chain, the Gravity smart campus at Puriton and Bridgwater and Taunton College all add data, security and connectivity work, keeping a steady layer of installers wiring premises right across the town."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Bridgwater, a structured-cabling firm or a one-van broadband installer toward Taunton"
+  },
+  "salisbury": {
+    "region": "Salisbury and Wiltshire",
+    "nearby": ["Andover", "Amesbury", "Winchester"],
+    "snapshot": "Salisbury was the UK's first full-fibre city, and its telecoms trade splits two ways. The build contractors and structured-cabling firms running crews across the city tend to buy through trade accounts with branded kit for whole teams, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run both routes side by side, fleet and single installer alike.",
+    "s1_head": "Kitting the field engineers of Wiltshire",
+    "s1loc": [
+      "Salisbury holds a unique place in the fibre story as the UK's first full-fibre city. Openreach completed a city-wide build to more than 20,000 premises and used Salisbury as its national pilot for retiring the old copper and analogue phone network, switching the analogue line off here in 2023. Out in the surrounding villages, Wessex Internet carries its gigabit build across South Wiltshire, the Wylye Valley and the edges of Salisbury Plain. Engineers work through Harnham, Bemerton, Bishopdown, Laverstock and Stratford-sub-Castle, keeping civils crews and fibre engineers busy across the city.",
+      "Alongside the residential network sits a strong commercial and structured-cabling scene. Cabling and CCTV installers wire offices, schools and multi-site businesses in Cat5e, Cat6 and fibre across Churchfields Industrial Estate, Old Sarum Park and Solstice Park out toward Amesbury. Salisbury District Hospital at Odstock, the Porton Down science campus, Wiltshire College and the military garrisons around the Plain all add heavy data, security and connectivity demand, keeping a steady population of installers wiring premises and pulling cable right across the city and its business parks."
+    ],
+    "kit_loc": "across the city's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Salisbury, a structured-cabling firm or a one-van broadband installer toward Amesbury"
+  },
+  "havant": {
+    "region": "Havant and Hampshire",
+    "nearby": ["Portsmouth", "Gosport", "Fareham"],
+    "snapshot": "Havant sits inside a heavy Hampshire fibre build, and its telecoms trade splits two ways. The build contractors and structured-cabling firms running crews across the town tend to buy through trade accounts with branded kit for whole teams, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We serve both routes side by side, fleet and single installer alike.",
+    "s1_head": "Kitting the field engineers of Hampshire",
+    "s1loc": [
+      "Havant has gone from one of the least-connected boroughs to one of the best-connected towns in just a few years. CityFibre completed a 17 million pound build past more than 22,000 premises across Havant, Emsworth, Southbourne and Westbourne, with Toob riding on that network alongside Vodafone, TalkTalk and Sky. Openreach full fibre and Virgin Media give a second gigabit route, and CityFibre is carrying Project Gigabit work out across rural Hampshire and Hayling Island. Engineers work through Leigh Park, Bedhampton, Waterlooville, Emsworth and Hayling Island, keeping civils gangs and fibre crews busy at the cabinets.",
+      "Alongside the residential rollout sits a strong commercial and structured-cabling scene. Cabling and CCTV installers wire offices, labs and multi-site businesses in Cat5e, Cat6 and fibre across Langstone Technology Park on the A27, the old IBM campus that now hosts Lockheed Martin and an Aptum data centre, plus the New Lane industrial estate and Solent Road retail park. The Solent connectivity, the data centre work and a long tail of warehouses and offices keep a steady layer of installers pulling cable and wiring premises right across the town."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Havant, a structured-cabling firm or a one-van broadband installer toward Portsmouth"
+  },
+  "hinckley": {
+    "region": "Hinckley and Leicestershire",
+    "nearby": ["Nuneaton", "Leicester", "Bedworth"],
+    "snapshot": "Hinckley sits in a busy Leicestershire fibre build, and its telecoms trade splits two ways. The build contractors and structured-cabling firms running crews across the town tend to buy through trade accounts with branded kit for whole teams, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We serve both routes side by side, fleet and single installer alike.",
+    "s1_head": "Kitting the field engineers of Leicestershire",
+    "s1loc": [
+      "Hinckley is deep into the full-fibre rollout, with several networks live at once. Openreach has pushed fibre to the premises across most of the town, CityFibre went live for ordering with its multi-gigabit network carrying ISPs like Vodafone, Zen and IDNet, and Virgin Media keeps upgrading its cable on top. CityFibre also holds a Project Gigabit contract reaching the harder-to-serve corners of Leicestershire and Warwickshire. Engineers work through Burbage, Barwell, Earl Shilton, Westfield and Sketchley, keeping civils gangs, jointers and fibre crews busy at the cabinets right across the town.",
+      "Alongside the residential rollout sits a strong commercial and structured-cabling scene. Cabling and CCTV installers wire offices, depots and warehouses in Cat5e, Cat6 and fibre across Hinckley Park at junction 1 of the M69, where DPD, Amazon and Octopus Energy sit, plus Tungsten Park, the Dodwells Bridge and Sketchley Meadows industrial estates and the MIRA Technology Park nearby. Triumph Motorcycles, Hammonds Furniture, The Crescent leisure scheme and North Warwickshire and South Leicestershire College all add data and security work right across the town."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Hinckley, a structured-cabling firm or a one-van broadband installer toward Nuneaton"
+  },
+  "middleton": {
+    "region": "Middleton and Greater Manchester",
+    "nearby": ["Rochdale", "Oldham", "Heywood"],
+    "snapshot": "Middleton sits inside the Greater Manchester full-fibre build, and its telecoms trade splits two ways. The build contractors and structured-cabling firms running crews across the town tend to buy through trade accounts with branded kit for whole teams, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We serve both routes side by side, fleet and single installer alike.",
+    "s1_head": "Kitting the field engineers of Greater Manchester",
+    "s1loc": [
+      "Middleton is in the middle of a heavy full-fibre build. Netomnia and its YouFibre brand are building a fibre-to-the-premises network to around 30,000 premises across Middleton and the surrounding area, with civils partner O'Connor Utilities trenching and pulling fibre, while Openreach pushes its own full fibre out as part of the wider Greater Manchester programme. The alt-net builder brsk has named Middleton in its Greater Manchester plans too. Engineers work through Alkrington, Langley, Rhodes, Hopwood and Boarshaw, keeping gangs and fibre crews busy at the cabinets right across the town.",
+      "Alongside the residential rollout sits a steady commercial and structured-cabling scene. Cabling and CCTV installers wire offices, units and warehouses in Cat5e, Cat6 and fibre across the Stakehill Industrial Estate south of the M62, where Booker, Footasylum, Fanatics, CEVA Logistics and Evri run large distribution sites. The Middleton Shopping Centre, Hopwood Hall College on Rochdale Road and the M60 and M62 logistics corridor all add data, security and connectivity work, keeping a steady layer of installers pulling cable and wiring premises right across the town."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Middleton, a structured-cabling firm or a one-van broadband installer toward Rochdale"
+  },
+  "ashton-under-lyne": {
+    "region": "Ashton-under-Lyne and Tameside",
+    "nearby": ["Stalybridge", "Oldham", "Hyde"],
+    "snapshot": "Ashton-under-Lyne sits at the heart of Tameside's fibre build, and its telecoms trade splits two ways. The build contractors and structured-cabling firms running crews across the town tend to buy through trade accounts with branded kit for whole teams, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We serve both routes side by side, fleet and single installer alike.",
+    "s1_head": "Kitting the field engineers of Tameside",
+    "s1loc": [
+      "Ashton-under-Lyne has an unusually deep fibre story for its size. Openreach has full fibre live across the Ashton exchange as part of its Greater Manchester programme, while Fibre Tameside, run by the Cooperative Network Infrastructure society on Beaufort Road, operates a 50km-plus shared full-fibre network on a co-operative model, interconnected with Manchester's metro fibre along the Metrolink lines and feeding a data centre inside the restored Ashton Old Baths. CityFibre and the other alt-nets are expanding across Greater Manchester alongside. Engineers work through Audenshaw, Droylsden, Dukinfield, Hurst and Waterloo, keeping civils crews busy at the cabinets.",
+      "Alongside the network build sits a strong commercial and structured-cabling scene. Cabling and CCTV installers wire offices, units and warehouses in Cat5e, Cat6 and fibre across Ashton Moss, the borough's largest employment site near the M60, plus the Snipe Retail Park, the IKEA store and the industrial clusters along the motorway corridor. The Tameside One council and college hub, the Ashton Old Baths digital workspace, Tameside College and the town-centre interchange all add data, security and connectivity work, keeping a steady layer of installers pulling cable and wiring premises right across the town."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Ashton-under-Lyne, a structured-cabling firm or a one-van broadband installer toward Stalybridge"
+  },
+  "sutton-in-ashfield": {
+    "region": "Sutton-in-Ashfield and Nottinghamshire",
+    "nearby": ["Mansfield", "Hucknall", "Worksop"],
+    "snapshot": "Sutton-in-Ashfield sits in a busy Nottinghamshire fibre build, and its telecoms trade splits two ways. The build contractors and structured-cabling firms running crews across the town tend to buy through trade accounts with branded kit for whole teams, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We serve both routes side by side, fleet and single installer alike.",
+    "s1_head": "Kitting the field engineers of Nottinghamshire",
+    "s1loc": [
+      "Sutton-in-Ashfield is well into the full-fibre rollout. Netomnia and its YouFibre brand started supplying full-fibre broadband in the town as part of their East Midlands build, pushing fibre to the premises across the streets, while Openreach carries its own full fibre out across the Ashfield area for a long list of resellers. CityFibre is delivering the wider Project Gigabit work across Nottinghamshire and rural Ashfield on top. Engineers work through Huthwaite, Skegby, Stanton Hill, Teversal and out toward Kirkby-in-Ashfield, keeping civils gangs and fibre crews busy at the cabinets right across the town.",
+      "Alongside the residential rollout sits a strong commercial and structured-cabling scene. Cabling and CCTV installers wire offices, depots and warehouses in Cat5e, Cat6 and fibre across Castlewood Business Park at junction 28 of the M1, where the Co-op and Parker Knoll sit, plus Summit Park with its Amazon fulfilment centre, Calladine Business Park and the Fulwood industrial estate. King's Mill Hospital and West Nottinghamshire College add data and security work, keeping a steady layer of installers pulling cable and wiring premises right across the town."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Sutton-in-Ashfield, a structured-cabling firm or a one-van broadband installer toward Mansfield"
+  }
+}

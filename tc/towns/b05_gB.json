@@ -1,0 +1,86 @@
+{
+ "llanelli": {
+  "region": "Llanelli and Carmarthenshire",
+  "nearby": ["Swansea", "Neath", "Port Talbot"],
+  "snapshot": "Llanelli sits in a busy South West Wales full-fibre build, with Openreach and the Welsh alt-net Ogi extending networks across the town and out into Carmarthenshire. We kit both routes the trade runs on: build contractors and structured-cabling firms that field whole crews on trade accounts, and the sole-trader broadband and CCTV installers who order direct online, with no account, and just need a few branded pieces.",
+  "s1_head": "Kitting the field engineers of Carmarthenshire",
+  "s1loc": [
+   "Llanelli is in the middle of a steady full-fibre build. Openreach is extending its Full Fibre network across the SA14 and SA15 areas and out through Carmarthenshire, while Ogi, the Welsh alternative network, is building its own fibre across the county and Virgin Media keeps upgrading on top. Crews work through Llwynhendy, Bynea, Felinfoel, Dafen, Pwll and Furnace, threading fibre through streets, chambers and cabinets, and a long tail of broadband, CCTV and structured-cabling installers takes on the connections street by street across the town.",
+   "Alongside the residential rollout runs a real commercial scene. The Tata Steel tinplate works at Trostre is the town's industrial anchor, and the Dafen and Trostre industrial estates, Llanelli Gate Business Park and the Parc Trostre and Pemberton retail parks all need structured cabling, fibre and CCTV. Coleg Sir Gar, the schools and the multi-site businesses across the town add data-cabling and access-control work in Cat5e, Cat6 and fibre. Local cabling and security installers wire those premises for businesses right across Llanelli and the wider Carmarthenshire coast."
+  ],
+  "kit_loc": "across the town's streets, cabinets and customer premises",
+  "s2_intro": "Whether you are a build contractor with crews across Llanelli, a structured-cabling firm or a one-van broadband installer toward Swansea"
+ },
+ "neath": {
+  "region": "Neath and Neath Port Talbot",
+  "nearby": ["Swansea", "Port Talbot", "Llanelli"],
+  "snapshot": "Neath sits in a busy South Wales full-fibre build, with the alt-net Netomnia and its YouFibre brand building alongside Openreach across the town and the wider Neath Port Talbot. We kit both routes the trade runs on: build contractors and structured-cabling firms that field whole crews on trade accounts, and the sole-trader broadband and CCTV installers who order direct online, with no account, and just need a few branded pieces.",
+  "s1_head": "Kitting the field engineers of Neath Port Talbot",
+  "s1loc": [
+   "Neath is in the thick of a full-fibre build. Netomnia and its YouFibre brand have rolled out an ultrafast network across Neath and neighbouring Morriston, building with civils partner G Force Telecomms, while Openreach extends its own Full Fibre across Neath Port Talbot and out to communities like Glynneath, Resolven and Pontardawe, with Virgin Media on top. Crews work through Briton Ferry, Cimla, Skewen, Neath Abbey, Cadoxton and Bryncoch, threading fibre through the terraced streets and cabinets, and a long tail of broadband and CCTV installers takes on the connections.",
+   "Alongside the residential rollout runs a strong commercial scene. The Neath Abbey Business Park and Milland Road Industrial Estate sit close to the town, with the larger Baglan Energy Park and its Bay Technology Centre out toward Port Talbot, and the Tata Steel works and its supply chain anchoring the area. Add the Neath College campuses and the Swansea University Bay Campus on Fabian Way just west, and structured-cabling and CCTV firms have steady Cat5e, Cat6 and fibre work across offices, factories and campuses right across Neath Port Talbot."
+  ],
+  "kit_loc": "across the town's streets, cabinets and customer premises",
+  "s2_intro": "Whether you are a build contractor with crews across Neath, a structured-cabling firm or a one-van broadband installer toward Port Talbot"
+ },
+ "bridgend": {
+  "region": "Bridgend and South Wales",
+  "nearby": ["Port Talbot", "Caerphilly", "Maesteg"],
+  "snapshot": "Bridgend sits in a busy South Wales full-fibre build, with Openreach and the Welsh alt-net Ogi extending networks across the county borough. We kit both routes the trade runs on: build contractors and structured-cabling firms that field whole crews on trade accounts, and the sole-trader broadband and CCTV installers who order direct online, with no account, and just need a few branded pieces.",
+  "s1_head": "Kitting the field engineers of Bridgend county",
+  "s1loc": [
+   "Bridgend is well into a full-fibre build. Openreach is extending its Full Fibre network across the CF31 and CF33 areas and out through the county borough, while Ogi, the Welsh alternative network, builds its own fibre across South Wales and Virgin Media covers much of the town on top. Crews work through Brackla, Oldcastle, Newcastle, Pen-y-fai, Coity, Litchard and Sarn, threading fibre through streets, chambers and cabinets, with a long tail of broadband, CCTV and structured-cabling installers taking on the connections across the area.",
+   "Alongside the residential rollout sits a strong industrial and commercial scene. The Bridgend Industrial Estate, Brackla Industrial Estate, Waterton Industrial Estate and Village Farm carry factories, warehouses and units, and the Sony UK Technology Centre at nearby Pencoed and the wider manufacturing base anchor the local economy. Add the town-centre offices, the retail parks and the schools and colleges, and structured-cabling and CCTV firms have steady Cat5e, Cat6 and fibre work across the county. Local cabling and security installers wire those premises for businesses right across Bridgend."
+  ],
+  "kit_loc": "across the town's streets, cabinets and customer premises",
+  "s2_intro": "Whether you are a build contractor with crews across Bridgend, a structured-cabling firm or a one-van broadband installer toward Port Talbot"
+ },
+ "cwmbran": {
+  "region": "Cwmbran and Torfaen",
+  "nearby": ["Newport", "Pontypool", "Caerphilly"],
+  "snapshot": "Cwmbran sits in a busy Gwent full-fibre build, with Openreach and the Welsh alt-net Ogi extending networks across Torfaen. We kit both routes the trade runs on: build contractors and structured-cabling firms that field whole crews on trade accounts, and the sole-trader broadband and CCTV installers who order direct online, with no account, and just need a few branded pieces.",
+  "s1_head": "Kitting the field engineers of Torfaen",
+  "s1loc": [
+   "Cwmbran is in the middle of a full-fibre build. Openreach is extending its Full Fibre network across the NP44 area and the wider Torfaen, while Ogi, the Welsh alternative network, builds its own fibre across the county through the Pontypool and Griffithstown side, and Virgin Media O2 covers much of the new town on top. Crews work through Coed Eva, Croesyceiliog, Fairwater, Greenmeadow, Llantarnam, Llanyravon, Pontnewydd, St Dials and Two Locks, threading fibre through streets and cabinets, with a long tail of broadband and CCTV installers taking on the connections.",
+   "Alongside the residential rollout sits a strong commercial scene. Llantarnam Park is one of the region's prime business locations, home to the Springboard Business Innovation Centre and the Safran Seats GB plant, with the Springvale and Avondale industrial estates and the Burton's Biscuits factory anchoring local employment. Add the Cwmbran Shopping Centre, the town-centre offices and the schools across the new town, and structured-cabling and CCTV firms have steady Cat5e, Cat6 and fibre work. Local cabling and security installers wire those premises for businesses right across Torfaen."
+  ],
+  "kit_loc": "across the town's streets, cabinets and customer premises",
+  "s2_intro": "Whether you are a build contractor with crews across Cwmbran, a structured-cabling firm or a one-van broadband installer toward Newport"
+ },
+ "christchurch": {
+  "region": "Christchurch and Dorset",
+  "nearby": ["Bournemouth", "Poole", "New Milton"],
+  "snapshot": "Christchurch sits inside the Bournemouth, Christchurch and Poole full-fibre build, where CityFibre and the alt-nets are pushing fibre across the conurbation. We kit both routes the trade runs on: build contractors and structured-cabling firms that field whole crews on trade accounts, and the sole-trader broadband and CCTV installers who order direct online, with no account, and just need a few branded pieces.",
+  "s1_head": "Kitting the field engineers of east Dorset",
+  "s1loc": [
+   "Christchurch is part of one of the south coast's biggest full-fibre builds. CityFibre has invested in the BCP conurbation under a build passing well over 100,000 premises, with areas like Highcliffe and Friars Cliff reached, and toob sells over the network on top, while Virgin Media covers much of the town. Crews work through Mudeford, Somerford, Stanpit, Purewell, Burton and Walkford, threading fibre through streets and cabinets, with a long tail of broadband and CCTV installers taking on the connections across the BH23 area.",
+   "Alongside the residential rollout sits a busy commercial scene. The Christchurch Business Park on Radar Way, the Silver Business Park and the Airfield Industrial Estate carry offices and units, and the Aviation Business Park at Bournemouth Airport, the largest employment site in the area, sits just to the north. Add Christchurch Hospital, employers like Reid Steel, BAE Systems and Honeywell, and the schools and retail across the town, and structured-cabling and CCTV firms have steady Cat5e, Cat6 and fibre work right across east Dorset."
+  ],
+  "kit_loc": "across the town's streets, cabinets and customer premises",
+  "s2_intro": "Whether you are a build contractor with crews across Christchurch, a structured-cabling firm or a one-van broadband installer toward Bournemouth"
+ },
+ "romford": {
+  "region": "Romford and east London",
+  "nearby": ["Hornchurch", "Ilford", "Upminster"],
+  "snapshot": "Romford sits in the middle of east London's full-fibre push, with Openreach building across the London Borough of Havering and Virgin Media O2 on top. We kit both routes the trade runs on: build contractors and structured-cabling firms that field whole crews on trade accounts, and the sole-trader broadband and CCTV installers who order direct online, with no account, and just need a few branded pieces.",
+  "s1_head": "Kitting the field engineers of east London",
+  "s1loc": [
+   "Romford is part of London's busy full-fibre rollout. Openreach is extending its Full Fibre network across the London Borough of Havering, adding thousands of fibre premises across the RM postcodes, while Virgin Media O2 covers much of the area with its cable network on top. Crews work through Gidea Park, Collier Row, Harold Wood, Harold Hill, Rush Green, Squirrels Heath and Chase Cross, threading fibre through streets, chambers and cabinets, with a long tail of broadband and CCTV installers taking on the connections across this corner of east London.",
+   "Alongside the residential rollout sits a strong commercial scene. Romford town centre carries The Brewery, The Liberty and The Mercury shopping centres, the historic Romford Market and the Rom Valley Retail Park, all needing structured cabling and CCTV. Add Queen's Hospital, the New City College Havering campus, the office space around the station and the trade and industrial units across the borough, and cabling and security firms have steady Cat5e, Cat6 and fibre work. Local installers wire those premises for businesses right across Havering."
+  ],
+  "kit_loc": "across the borough's streets, cabinets and customer premises",
+  "s2_intro": "Whether you are a build contractor with crews across Romford, a structured-cabling firm or a one-van broadband installer toward Hornchurch"
+ },
+ "barnet": {
+  "region": "Barnet and north London",
+  "nearby": ["Borehamwood", "Edgware", "Potters Bar"],
+  "snapshot": "Barnet sits in the middle of north London's full-fibre push, with Openreach, Community Fibre and Hyperoptic all building across the borough. We kit both routes the trade runs on: build contractors and structured-cabling firms that field whole crews on trade accounts, and the sole-trader broadband and CCTV installers who order direct online, with no account, and just need a few branded pieces.",
+  "s1_head": "Kitting the field engineers of north London",
+  "s1loc": [
+   "Barnet is part of London's busy full-fibre rollout. Openreach is extending its Full Fibre network across the borough and through High Barnet, while Community Fibre runs its London-only network under a council partnership and Hyperoptic has wired social housing and apartment blocks, with Virgin Media O2 covering much of the area on top. Crews work through Chipping Barnet, New Barnet, East Barnet, Friern Barnet, Whetstone, Totteridge and Underhill, threading fibre through streets, chambers and cabinets, with a long tail of broadband and CCTV installers taking on the connections.",
+   "Alongside the residential rollout sits a strong commercial scene. The Spires shopping centre anchors Barnet town centre, with Barnet Hospital and the Barnet and Southgate College campus nearby, and the larger business and industrial space at Brent Cross, Staples Corner and Colindale sitting in the south of the borough. Add the office space, schools and multi-site businesses across the area, and structured-cabling and CCTV firms have steady Cat5e, Cat6 and fibre work. Local cabling and security installers wire those premises for businesses right across north London."
+  ],
+  "kit_loc": "across the borough's streets, cabinets and customer premises",
+  "s2_intro": "Whether you are a build contractor with crews across Barnet, a structured-cabling firm or a one-van broadband installer toward Borehamwood"
+ }
+}
