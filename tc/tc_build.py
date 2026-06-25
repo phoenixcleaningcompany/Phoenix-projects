@@ -536,6 +536,26 @@ def _load_csv():
 def slugify(name):
     return re.sub(r'-+','-', re.sub(r"[^a-z0-9]+","-", name.lower().replace("&"," and "))).strip('-')
 
+_DISPLAY=None
+def _display_map():
+    """slug -> CSV display name, preserving real casing (Newcastle upon Tyne,
+    Stoke-on-Trent, Houghton le Spring) instead of naive word-capitalisation."""
+    global _DISPLAY
+    if _DISPLAY is None:
+        _DISPLAY = {slugify(t): t for (_r, t, _n) in _load_csv()}
+    return _DISPLAY
+
+def town_display(key):
+    return _display_map().get(slugify(key)) or ' '.join(w.capitalize() for w in key.split())
+
+def _entry(town):
+    """Look up a TOWNS entry by slug, tolerant of space/hyphen/case differences."""
+    s = slugify(town)
+    for k, v in TOWNS.items():
+        if slugify(k) == s:
+            return v
+    raise KeyError(f"{town} not in TOWNS")
+
 def require_nearby(town, T):
     nb = T.get("nearby")
     if not nb or len(nb) < 3:
@@ -600,7 +620,7 @@ def build_head(town, slug, faqs, nearby):
 
 # === ASSEMBLE ==============================================================
 def assemble(slug, town):
-    T = TOWNS[town.lower()]
+    T = _entry(town)
     region = T.get("region", town)
     nearby = require_nearby(town, T)
     faqs = faq_for(town, region)
@@ -662,13 +682,14 @@ def main():
     os.makedirs(outdir, exist_ok=True)
     if not args:
         args=[t for t in TOWNS if t!='london']
+    town_slugs={slugify(k) for k in TOWNS}
     for town_key in args:
-        tk=town_key.lower()
-        if tk=='london': continue
-        if tk not in TOWNS:
+        s=slugify(town_key)
+        if s=='london': continue
+        if s not in town_slugs:
             print(f"SKIP {town_key}: not in TOWNS (must be web-researched first)"); continue
-        town=' '.join(w.capitalize() for w in tk.split())
-        slug=f"tc-{slugify(town)}"
+        town=town_display(town_key)
+        slug=f"tc-{s}"
         html=assemble(slug, town)
         path=os.path.join(outdir, f"{slug}.html")
         open(path,'w',encoding='utf-8').write(html)
