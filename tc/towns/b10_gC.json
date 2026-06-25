@@ -1,0 +1,86 @@
+{
+  "ossett": {
+    "region": "Ossett and West Yorkshire",
+    "nearby": ["Dewsbury", "Batley", "Mirfield"],
+    "snapshot": "Ossett is a West Yorkshire town between Wakefield and Dewsbury where the full-fibre build runs alongside a busy industrial base. Build contractors and structured-cabling firms run fleets of engineers on trade accounts and buy their workwear centrally, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run both routes side by side so the crews and the single installer are kitted alike.",
+    "s1_head": "Kitting the field engineers of West Yorkshire",
+    "s1loc": [
+      "Ossett sits in the middle of a heavy West Yorkshire full-fibre push. Openreach has engineers running fibre out through the town and the surrounding Wakefield district, while Quickline is delivering its Project Gigabit build across the harder-to-reach edges of West Yorkshire toward Streethouse, New Sharlston and the rural fringe. The major build contractors and their civils crews work the streets, cabinets and joint boxes across districts like Gawthorpe, Healey and Horbury, with the mobile networks upgrading on top. It is a steady mix of national delivery partners and local subcontractors taking on the day-to-day fibre work.",
+      "Alongside the fibre rollout sits a solid commercial scene. Ossett has a strong industrial base at Sirdar Business Park, Longlands Industrial Estate on Milner Way and the Healey Road units, where structured-cabling firms wire offices, warehouses and multi-site businesses in Cat5e, Cat6 and fibre. CCTV installers and network engineers cover the units along Wakefield Road and the town centre, and the proximity to Wakefield and Dewsbury pulls in plenty of work for small cabling and security firms running data points, access control and camera systems for local employers."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Ossett, a structured-cabling firm or a one-van broadband installer toward Dewsbury"
+  },
+  "maltby": {
+    "region": "Maltby and South Yorkshire",
+    "nearby": ["Rotherham", "Sheffield", "Worksop"],
+    "snapshot": "Maltby is a South Yorkshire town near Rotherham caught in a fast full-fibre build. National build contractors field whole crews of engineers and buy their workwear on trade accounts, while ex-BT sole traders and independent broadband and CCTV installers order direct online with no account. We run trade accounts for the fleets and direct online ordering for everyone else, so the big crews and the one-van installer are both kitted properly.",
+    "s1_head": "Kitting the field engineers of South Yorkshire",
+    "s1loc": [
+      "Maltby is part of a busy South Yorkshire full-fibre programme. Openreach named Maltby among its full-fibre locations and has engineers running fibre out through the town and the wider Rotherham area, while Quickline is delivering its Project Gigabit build across the harder-to-reach edges toward Dinnington, Kiveton and Conisbrough. The national build contractors and their civils crews work the streets, cabinets and joint boxes, with Virgin Media and the mobile operators upgrading alongside. It is the usual South Yorkshire mix of big delivery partners and a long tail of local subcontractors taking on the everyday fibre work.",
+      "Alongside the residential rollout runs a steady commercial scene. Maltby grew on coal and its old colliery land and industrial units now host warehousing, light industry and trade premises, with structured-cabling firms wiring offices, depots and multi-site businesses in Cat5e, Cat6 and fibre. The proximity to Rotherham and the Sheffield city region pulls in work along the M18 and M1 corridors, where CCTV installers and network engineers fit cameras, access control and data points for local employers and the distribution units that line the area."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Maltby, a structured-cabling firm or a one-van broadband installer toward Rotherham"
+  },
+  "ripon": {
+    "region": "Ripon and North Yorkshire",
+    "nearby": ["Harrogate", "Knaresborough", "Northallerton"],
+    "snapshot": "Ripon is a North Yorkshire cathedral city where two wholesale networks are building full fibre head to head. Build contractors run fleets of engineers on trade accounts and buy centrally, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run trade accounts for the crews and direct online ordering, with no account, for everyone else, so the fleet and the single installer are kitted alike.",
+    "s1_head": "Kitting the field engineers of North Yorkshire",
+    "s1loc": [
+      "Ripon is a genuine two-network city. Openreach is running its full-fibre upgrade through Ripon and the surrounding communities, and CityFibre has built its own Fibre-to-the-Premises network across Harrogate, Ripon and Knaresborough, so the streets see rival build contractors and civils crews working the cabinets and joint boxes side by side. The mobile operators upgrade on top, and beneath the national delivery partners sits a layer of local subcontractors taking on the day-to-day fibre installation across the city centre, the Cathedral quarter and out toward the Boroughbridge Road approaches.",
+      "Alongside the rollout runs a commercial scene anchored on the trade estates north of the city. Ripon Business Park and the Melmerby Industrial Estate carry warehousing, distribution and light industry on the A1(M) corridor, where structured-cabling firms wire offices, depots and multi-site businesses in Cat5e, Cat6 and fibre. CCTV installers and network engineers cover the cathedral-city centre, the tourism and hospitality premises and the units toward Boroughbridge, fitting cameras, access control and data points for employers across this part of North Yorkshire."
+    ],
+    "kit_loc": "across the city's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Ripon, a structured-cabling firm or a one-van broadband installer toward Harrogate"
+  },
+  "guisborough": {
+    "region": "Guisborough and East Cleveland",
+    "nearby": ["Redcar", "Middlesbrough", "Stockton-on-Tees"],
+    "snapshot": "Guisborough is an East Cleveland market town on the edge of the Tees Valley where full fibre is now widely available. Build contractors field crews of engineers on trade accounts and buy centrally, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run trade accounts for the fleets and direct online ordering for everyone else, so the crews and the single installer are kitted alike.",
+    "s1_head": "Kitting the field engineers of the Tees Valley",
+    "s1loc": [
+      "Guisborough has seen a heavy full-fibre build, with gigabit-capable connections now reaching well over ninety per cent of the town. Openreach is running its FTTP upgrade across Guisborough and the wider Redcar and Cleveland district, while CityFibre is investing across Redcar and Hartlepool nearby, so the streets see build contractors and civils crews working the cabinets and joint boxes. The mobile operators upgrade on top, and the rural North York Moors fringe toward Loftus still draws extension work. It is the usual Tees Valley mix of national delivery partners and local subcontractors taking on the everyday fibre installs.",
+      "Alongside the residential rollout sits a steady commercial scene. The Cleveland Gate retail and business park carries trade, retail and office units, and structured-cabling firms wire offices, depots and multi-site businesses in Cat5e, Cat6 and fibre across the town and out toward Middlesbrough and Stockton-on-Tees. CCTV installers and network engineers cover the market-town centre, the Belmangate approaches and the industrial units of the wider Tees Valley, fitting cameras, access control and data points for local employers and the distribution sites that line the area."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Guisborough, a structured-cabling firm or a one-van broadband installer toward Redcar"
+  },
+  "saltash": {
+    "region": "Saltash and Cornwall",
+    "nearby": ["Plymouth", "Bodmin", "St Austell"],
+    "snapshot": "Saltash is a Cornish town on the Tamar where Openreach engineers are now rolling out full fibre across the streets. Build contractors run fleets of engineers on trade accounts and buy centrally, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run trade accounts for the crews and direct online ordering for everyone else, so the fleet and the single installer are kitted alike.",
+    "s1_head": "Kitting the field engineers of Cornwall",
+    "s1loc": [
+      "Saltash is in the middle of a full-fibre transformation. Openreach has engineers on the ground across the town installing the FTTP infrastructure, while Wildanet has been building its own full-fibre network through suburban Saltash and over the Tamar toward Torpoint as part of the wider Cornwall rollout. The mobile operators upgrade on top, and the closeness of Plymouth pulls in build contractors and civils crews working the streets, cabinets and joint boxes. It is a mix of national and regional network builders with a tail of local subcontractors taking on the day-to-day fibre installs across the town.",
+      "Alongside the rollout runs a steady commercial scene. Saltash sits on the gateway between Cornwall and Plymouth, with trade and light-industrial units around the Moor View and Carkeel approaches near the A38, where structured-cabling firms wire offices, workshops and multi-site businesses in Cat5e, Cat6 and fibre. CCTV installers and network engineers cover the waterside town centre, the Tamar bridge corridor and the retail and hospitality premises, fitting cameras, access control and data points for local employers across this corner of south-east Cornwall."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Saltash, a structured-cabling firm or a one-van broadband installer toward Plymouth"
+  },
+  "bideford": {
+    "region": "Bideford and North Devon",
+    "nearby": ["Barnstaple", "Exeter", "Tiverton"],
+    "snapshot": "Bideford is a North Devon port town where Openreach and regional alt-nets are building full fibre across the streets. Build contractors run fleets of engineers on trade accounts and buy centrally, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run trade accounts for the crews and direct online ordering for everyone else, so the fleet and the single installer are kitted alike.",
+    "s1_head": "Kitting the field engineers of North Devon",
+    "s1loc": [
+      "Bideford has been a focus for full-fibre building. Openreach included Bideford in its South West full-fibre upgrade and has engineers running FTTP across the town, while Airband deployed fibre and splicing joints here under the Connecting Devon and Somerset programme. Wildanet has also pushed into North Devon and opened a large warehouse hub in Bideford to support its regional FTTP expansion. The mobile operators upgrade on top, so the streets see a mix of national and regional build contractors and civils crews working the cabinets and joint boxes, with local subcontractors taking on the everyday installs.",
+      "Alongside the rollout runs a steady commercial scene. Bideford sits at the heart of the Torridge district with trade and light-industrial units around the Caddsdown Business Park and the Clovelly Road and East-the-Water approaches, where structured-cabling firms wire offices, workshops and multi-site businesses in Cat5e, Cat6 and fibre. CCTV installers and network engineers cover the quayside town centre, the port and the retail and hospitality premises, fitting cameras, access control and data points for local employers across this part of North Devon and out toward Barnstaple."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Bideford, a structured-cabling firm or a one-van broadband installer toward Barnstaple"
+  },
+  "penrith": {
+    "region": "Penrith and Cumbria",
+    "nearby": ["Carlisle", "Workington", "Kendal"],
+    "snapshot": "Penrith is a Cumbrian market town and a busy front for the regional full-fibre build. Build contractors run fleets of engineers on trade accounts and buy centrally, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run trade accounts for the crews and direct online ordering for everyone else, so the fleet and the single installer are kitted alike.",
+    "s1_head": "Kitting the field engineers of Cumbria",
+    "s1loc": [
+      "Penrith is a genuine alt-net town. Fibrus launched here as part of a major Cumbria investment and is laying full fibre across Penrith alongside its work in Kendal, Workington and Aspatria, even running an apprentice training facility at Newton Rigg just outside the town. Openreach is also bringing its full-fibre upgrade to Penrith and the surrounding area, so the streets see rival build contractors and civils crews working the cabinets and joint boxes, with the mobile operators upgrading on top and local subcontractors taking on the day-to-day fibre installs across the town.",
+      "Alongside the rollout runs a steady commercial scene. Penrith sits on the M6 and West Coast Main Line as a gateway to the Eden Valley and the Lake District, with trade and light-industrial units around the Gilwilly Industrial Estate and Penrith Industrial Estate, where structured-cabling firms wire offices, depots and multi-site businesses in Cat5e, Cat6 and fibre. CCTV installers and network engineers cover the market-town centre, the agricultural and auction-mart trade and the tourism and hospitality premises, fitting cameras, access control and data points for employers across this part of Cumbria."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Penrith, a structured-cabling firm or a one-van broadband installer toward Carlisle"
+  }
+}

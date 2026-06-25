@@ -1,0 +1,86 @@
+{
+  "ulverston": {
+    "region": "Ulverston and the Furness peninsula",
+    "nearby": ["Barrow-in-Furness", "Kendal", "Lancaster"],
+    "snapshot": "Ulverston is a market town on the Furness peninsula in Cumbria, with full fibre going in across the town and a steady run of commercial and CCTV cabling work. We kit the trade two ways here. Build contractors and established cabling firms run fleets of engineers on trade accounts with central invoicing, while sole-trader and ex-BT broadband installers order direct online with no account at all, getting the same branded polo, hi-vis and softshell either way.",
+    "s1_head": "Kitting the field engineers of the Furness peninsula",
+    "s1loc": [
+      "Ulverston sits inside a busy Cumbria full-fibre programme. Openreach has invested several million pounds bringing FTTP to thousands of premises in the town as part of its wider Cumbria build, with engineers working out from Ulverston across Barrow-in-Furness, Millom, Ambleside and the surrounding villages. Alongside Openreach, alt-net Fibrus is extending its own full-fibre network through Ulverston as part of a large investment across the county, and providers such as B4RN reach into the rural Furness and South Lakes communities nearby. That mix of national and challenger build keeps a steady stream of street, cabinet and premises work running through the town.",
+      "The commercial side is anchored by the North Lonsdale Road site, the long-standing pharmaceutical works recently acquired by BAE Systems, and by the engineering and defence supply chain feeding the Barrow-in-Furness shipyard a short drive south. Industrial units around Lightburn Road and the town's trading estates, plus offices, schools and the GlaxoSmithKline legacy facilities, all need structured cabling in Cat5e, Cat6 and fibre, plus CCTV and access control. Installers here wire everything from small Ulverston high-street firms to multi-site operations stretching toward Kendal and Lancaster."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Ulverston, a structured-cabling firm or a one-van broadband installer toward Barrow-in-Furness"
+  },
+  "prescot": {
+    "region": "Prescot and Knowsley",
+    "nearby": ["Liverpool", "St Helens", "Bootle"],
+    "snapshot": "Prescot is a town in Knowsley, Merseyside, sitting inside the Liverpool City Region full-fibre build with plenty of commercial and CCTV cabling alongside. We supply the trade two ways here. Build contractors and cabling firms run fleets of engineers on trade accounts with central procurement, while sole-trader and ex-BT broadband installers order direct online with no account, and both routes get the same branded polo, hi-vis and softshell.",
+    "s1_head": "Kitting the field engineers of Knowsley",
+    "s1loc": [
+      "Prescot sits within the Liverpool City Region full-fibre roll-out. Openreach has poured roughly a hundred million pounds into FTTP across the region, passing hundreds of thousands of premises through Knowsley, Huyton and out toward Liverpool, St Helens and Bootle. Challenger networks are building alongside, with Netomnia and YouFibre, Virgin Media and other alt-nets pushing full fibre through the Knowsley districts. The result is a constant flow of civils, cabinet and customer-premises work, with national delivery partners and local subcontractors both putting engineers onto the streets of Prescot and the wider borough.",
+      "On the commercial side, Prescot's regeneration around the Shakespeare North Playhouse and the town centre, plus the Cables Retail Park named for the town's old BICC cable-works heritage, sits next to the trading estates and logistics units of Knowsley Industrial Park and Kings Business Park. Offices, schools, retail and warehousing across the borough need structured cabling in Cat5e, Cat6 and fibre, plus CCTV and door entry. Installers here wire small Prescot firms and multi-site businesses reaching into Liverpool and St Helens alike."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Prescot, a structured-cabling firm or a one-van broadband installer toward Liverpool"
+  },
+  "newport (isle of wight)": {
+    "region": "Newport and the Isle of Wight",
+    "nearby": ["Ryde", "Cowes", "Shanklin"],
+    "snapshot": "Newport is the county town of the Isle of Wight, at the heart of an island-wide full-fibre network and a busy commercial cabling scene. We kit the trade two ways here. Build contractors and cabling firms run fleets of engineers on trade accounts with central invoicing, while sole-trader and ex-BT broadband installers order direct online with no account, and both routes get the same branded polo, hi-vis and softshell.",
+    "s1_head": "Kitting the field engineers of the Isle of Wight",
+    "s1loc": [
+      "Newport sits at the centre of the Isle of Wight's full-fibre build. WightFibre, the island's own network operator, has delivered FTTP to well over seventy thousand homes and businesses through its Gigabit Island Project, with Newport among the first areas live alongside Cowes, Ryde, Sandown and Shanklin. Openreach builds full fibre across the island too, so engineers work out from the county town through the central districts and into Wootton, Carisbrooke and Newtown. As the administrative capital, Newport carries a heavy share of the cabinet, duct and customer-premises work that keeps the island connected.",
+      "Commercially, Newport is the island's main trading hub. St Cross Business Park, set over nearly thirty acres and home to the Apex Centre and Wight Innovation Centre, houses technology, legal, health and manufacturing firms, while the Riverway Industrial Estate runs round the clock with logistics and distribution. County Hall, hospitals, schools and retail across the town all need structured cabling in Cat5e, Cat6 and fibre, plus CCTV and access control. Installers here wire small Newport firms and island-wide operations reaching toward Ryde, Cowes and Shanklin."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Newport (Isle of Wight), a structured-cabling firm or a one-van broadband installer toward Ryde"
+  },
+  "ryde": {
+    "region": "Ryde and the Isle of Wight",
+    "nearby": ["Newport (Isle of Wight)", "Cowes", "Sandown"],
+    "snapshot": "Ryde is the largest of the Isle of Wight's seaside towns, the gateway port served by an island-wide full-fibre network and a steady commercial cabling scene. We kit the trade two ways here. Build contractors and cabling firms run fleets of engineers on trade accounts with central invoicing, while sole-trader and ex-BT broadband installers order direct online with no account, and both get the same branded polo, hi-vis and softshell.",
+    "s1_head": "Kitting the field engineers of the Isle of Wight",
+    "s1loc": [
+      "Ryde sits within the Isle of Wight's full-fibre roll-out. WightFibre, the island's own operator, has run FTTP through Ryde, Seaview, Nettlestone and Binstead as part of its Gigabit Island Project, which has now passed well over seventy thousand premises island-wide. Openreach builds full fibre across the island too, so engineers work out from Ryde along the north-east coast and inland toward Newport, Wootton and Havenstreet. As the island's busiest arrival point, with its Victorian pier and esplanade, Ryde carries plenty of cabinet, duct and customer-premises work the year round.",
+      "Commercially, Ryde mixes a strong tourism economy with everyday island business. Hotels, guest houses and the Esplanade seafront sit alongside the High Street retail core, schools, medical centres and the harbour and hovercraft terminal. Trading units around Nicholson Road and the town's industrial pockets, plus offices and multi-site firms, all need structured cabling in Cat5e, Cat6 and fibre, plus CCTV and door entry. Installers here wire small Ryde businesses and operations spread across the island toward Newport, Cowes and Sandown."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Ryde, a structured-cabling firm or a one-van broadband installer toward Newport (Isle of Wight)"
+  },
+  "cowes": {
+    "region": "Cowes and the Isle of Wight",
+    "nearby": ["Newport (Isle of Wight)", "Ryde", "Shanklin"],
+    "snapshot": "Cowes is the Isle of Wight's marine and aerospace town, served by an island-wide full-fibre network with a strong engineering and commercial cabling scene. We kit the trade two ways here. Build contractors and cabling firms run fleets of engineers on trade accounts with central procurement, while sole-trader and ex-BT broadband installers order direct online with no account, and both get the same branded polo, hi-vis and softshell.",
+    "s1_head": "Kitting the field engineers of the Isle of Wight",
+    "s1loc": [
+      "Cowes sits inside the Isle of Wight's full-fibre build. WightFibre, the island's own network, was live early in both Cowes and East Cowes as part of its Gigabit Island Project, which has now reached well over seventy thousand premises across the island. Openreach builds full fibre here too, so engineers work the streets of Cowes, East Cowes and out toward Newport, Northwood and Gurnard. With the Medina estuary and the chain ferry splitting the town, plus a dense waterfront, Cowes carries a steady run of cabinet, duct and customer-premises work.",
+      "Commercially, Cowes is a serious engineering town. GKN Aerospace runs its Falcon Yard and Osborne sites in East Cowes, employing around a thousand people on advanced composite structures, and it anchors a wider marine, maritime and composites cluster. Boatbuilders, sailmakers and the yachting industry around the Cowes waterfront sit alongside offices, schools and the Whippingham industrial units. All of it needs structured cabling in Cat5e, Cat6 and fibre, plus CCTV and access control. Installers here wire small Cowes firms and engineering sites reaching toward Newport, Ryde and Shanklin."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Cowes, a structured-cabling firm or a one-van broadband installer toward Newport (Isle of Wight)"
+  },
+  "shanklin": {
+    "region": "Shanklin and the Isle of Wight",
+    "nearby": ["Sandown", "Ryde", "Newport (Isle of Wight)"],
+    "snapshot": "Shanklin is a seaside resort on Sandown Bay on the Isle of Wight, served by an island-wide full-fibre network and a steady tourism and commercial cabling scene. We kit the trade two ways here. Build contractors and cabling firms run fleets of engineers on trade accounts with central invoicing, while sole-trader and ex-BT broadband installers order direct online with no account, and both get the same branded polo, hi-vis and softshell.",
+    "s1_head": "Kitting the field engineers of the Isle of Wight",
+    "s1loc": [
+      "Shanklin sits within the Isle of Wight's full-fibre roll-out. WightFibre, the island's own operator, brought FTTP live in Shanklin, Lake and neighbouring Sandown as part of its Gigabit Island Project, which has now passed well over seventy thousand premises across the island. Openreach builds full fibre here too, so engineers work out from Shanklin along Sandown Bay and inland toward Newport and Godshill. With the Old Village, Shanklin Chine and the seafront esplanade packed in tight, the town carries a regular run of cabinet, duct and customer-premises work.",
+      "Commercially, Shanklin runs on tourism and everyday island trade. Hotels, guest houses and self-catering lets cluster around the Old Village and the esplanade, sitting alongside the High Street retail core, schools, medical centres and small business units. Offices and multi-site firms across the bay, plus the holiday and hospitality estate, all need structured cabling in Cat5e, Cat6 and fibre, plus CCTV and door entry. Installers here wire small Shanklin businesses and operations spread across the island toward Sandown, Ryde and Newport."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Shanklin, a structured-cabling firm or a one-van broadband installer toward Sandown"
+  },
+  "sandown": {
+    "region": "Sandown and the Isle of Wight",
+    "nearby": ["Shanklin", "Ryde", "Newport (Isle of Wight)"],
+    "snapshot": "Sandown is a seaside resort on Sandown Bay on the Isle of Wight, served by an island-wide full-fibre network and a busy tourism and commercial cabling scene. We kit the trade two ways here. Build contractors and cabling firms run fleets of engineers on trade accounts with central invoicing, while sole-trader and ex-BT broadband installers order direct online with no account, and both get the same branded polo, hi-vis and softshell.",
+    "s1_head": "Kitting the field engineers of the Isle of Wight",
+    "s1loc": [
+      "Sandown sits inside the Isle of Wight's full-fibre build. WightFibre, the island's own network, ran FTTP live through Sandown, Lake and neighbouring Shanklin as part of its Gigabit Island Project, which has now reached well over seventy thousand premises across the island. Openreach builds full fibre here too, so engineers work out from Sandown along the bay and inland toward Newport, Brading and Alverstone. With a long sandy seafront, Sandown Pier and a tight grid of streets behind the esplanade, the town carries a steady run of cabinet, duct and customer-premises work.",
+      "Commercially, Sandown runs on its resort economy and island business. Hotels, holiday lets and seafront amusements around the only amusement pier on the island sit alongside the High Street, schools, medical centres and small trading units. The Isle of Wight Zoo, Dinosaur Isle and the wider visitor estate, plus offices and multi-site firms, all need structured cabling in Cat5e, Cat6 and fibre, plus CCTV and access control. Installers here wire small Sandown businesses and operations spread across the island toward Shanklin, Ryde and Newport."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Sandown, a structured-cabling firm or a one-van broadband installer toward Shanklin"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "northallerton": {
+    "region": "Northallerton and North Yorkshire",
+    "nearby": ["Ripon", "Darlington", "Stockton-on-Tees"],
+    "snapshot": "Northallerton is the county town of North Yorkshire, and its fibre and network installers split into two ordering routes. Build contractors and structured-cabling firms running crews across the town and the wider district buy through trade accounts, while sole-trader broadband and CCTV engineers order direct online with no account. We run both side by side so the fleet and the one-van installer are kitted alike.",
+    "s1_head": "Kitting the field engineers of North Yorkshire",
+    "s1loc": [
+      "Northallerton sits in the middle of a fast-moving North Yorkshire full-fibre build. Openreach has thousands of engineers pushing its new network out through the county town and on toward Bedale, Romanby and Brompton, with the wider North Yorkshire programme reaching well over 175,000 premises. Quickline is building gigabit full fibre and fixed wireless across the rural fringes under the Project Gigabit and Superfast North Yorkshire partnership with NYnet and the council, and Virgin Media has completed its own full-fibre rollout to thousands of homes around the town. That mix puts contractor crews and cabinets across Northallerton's streets the whole year round.",
+      "Alongside the residential rollout runs a steady commercial cabling and CCTV scene. Northallerton is an administrative and market-town hub, with North Yorkshire Council offices, the Treadmills development on the old prison site, the high street retail core and the industrial units off Standard Way and Thurston Road all needing structured cabling. Local firms wire offices, schools and multi-site businesses in Cat5e, Cat6 and fibre, and fit access control and CCTV across the town. It is a broad base of work for cabling installers and ex-BT broadband engineers serving both homes and commercial premises right across the district."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Northallerton, a structured-cabling firm or a one-van broadband installer toward Ripon"
+  },
+  "featherstone": {
+    "region": "Featherstone and West Yorkshire",
+    "nearby": ["Pontefract", "Castleford", "Normanton"],
+    "snapshot": "Featherstone sits in the Wakefield district of West Yorkshire, and its network installers order in two ways. Build contractors and cabling firms working crews across the town and neighbouring Pontefract buy on trade accounts, while sole-trader broadband and CCTV engineers order direct online with no account. We run trade accounts and direct online ordering side by side so the fleet and the one-van installer are both kitted properly.",
+    "s1_head": "Kitting the field engineers of the Wakefield district",
+    "s1loc": [
+      "Featherstone is in the thick of the West Yorkshire full-fibre build. Openreach is pushing its network out across the Wakefield district and through nearby Pontefract, Castleford and Normanton, part of a programme upgrading tens of thousands of premises across Yorkshire and the Humber. The alternative networks are building alongside, and Virgin Media keeps upgrading on top, so contractor crews, civils gangs and cabinets are a regular sight along Station Lane and through Purston and Streethouse. That residential rollout keeps a steady flow of build and installation work moving across the town.",
+      "Featherstone also has a working commercial base that needs structured cabling and CCTV. The Junction 32 and Wakefield Europort logistics estates sit just along the M62 corridor, with warehousing, distribution sheds and trade units around Castleford and Normanton drawing in cabling work, and the town's own industrial units and retail along Station Lane add to it. Local installers wire offices, depots and multi-site businesses in Cat5e, Cat6 and fibre and fit CCTV and access control. It is steady work for cabling firms and ex-BT broadband engineers serving homes and businesses across the district."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Featherstone, a structured-cabling firm or a one-van broadband installer toward Pontefract"
+  },
+  "mexborough": {
+    "region": "Mexborough and South Yorkshire",
+    "nearby": ["Rotherham", "Barnsley", "Doncaster"],
+    "snapshot": "Mexborough sits in the Doncaster part of South Yorkshire, and its fibre and network installers order in two ways. Build contractors and structured-cabling firms with crews across the town and toward Rotherham buy through trade accounts, while sole-trader broadband and CCTV engineers order direct online with no account. We run trade accounts and direct online ordering side by side, so the fleet and the one-van installer are kitted alike.",
+    "s1_head": "Kitting the field engineers of South Yorkshire",
+    "s1loc": [
+      "Mexborough is well into the South Yorkshire full-fibre build. Openreach has invested several million pounds bringing its Full Fibre network to more than 14,000 homes and businesses across Mexborough and neighbouring Swinton, and Quickline is building gigabit full fibre and fixed wireless across the harder-to-reach fringes under its Project Gigabit contract, reaching communities like Conisbrough and Bramley nearby. The alternative networks are active alongside and the mobile operators keep upgrading on top. That mix keeps contractor crews and cabinets working through Mexborough's streets and out along the Dearne Valley.",
+      "Alongside the rollout runs a solid commercial cabling and CCTV scene. Mexborough sits in the Dearne Valley regeneration corridor, with industrial units and trade estates around Manvers, Swinton and the riverside, plus the town centre retail along the High Street and the wider logistics sheds toward Doncaster and Rotherham. Local installers wire offices, warehouses and multi-site businesses in Cat5e, Cat6 and fibre and fit CCTV and access control. It is broad, steady work for cabling firms and ex-BT broadband engineers serving homes and businesses across the district."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Mexborough, a structured-cabling firm or a one-van broadband installer toward Rotherham"
+  },
+  "bedlington": {
+    "region": "Bedlington and Northumberland",
+    "nearby": ["Blyth", "Ashington", "Cramlington"],
+    "snapshot": "Bedlington sits in south-east Northumberland, and its network installers order in two ways. Build contractors and cabling firms running crews across the town and toward Blyth buy on trade accounts, while sole-trader broadband and CCTV engineers order direct online with no account. We run trade accounts and direct online ordering side by side, so the build fleet and the one-van installer are both kitted properly across the town.",
+    "s1_head": "Kitting the field engineers of south-east Northumberland",
+    "s1loc": [
+      "Bedlington is in the middle of a major Northumberland full-fibre build. Openreach has started building its new network for the town, with more than 21,000 people across Bedlington, Belford, Embleton, Prudhoe and Seaton Delaval next in line for gigabit-capable full fibre, part of its large hard-to-reach programme reaching out toward Amble, Red Row and Rothbury. The alternative networks are building alongside and the mobile operators keep upgrading on top. That puts contractor crews, civils gangs and cabinets across Bedlington Station, Netherton and the streets toward Guide Post through the year.",
+      "Alongside the rollout runs a steady commercial cabling and CCTV base. Bedlington has industrial units around the Bedlington Station area and trade estates along the A189 spine road, with the wider south-east Northumberland employment sites toward Cramlington and Ashington drawing in structured-cabling work, plus the town's own retail and the Front Street core. Local installers wire offices, depots and multi-site businesses in Cat5e, Cat6 and fibre and fit CCTV and access control. It is broad work for cabling firms and ex-BT broadband engineers serving homes and businesses across the district."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Bedlington, a structured-cabling firm or a one-van broadband installer toward Blyth"
+  },
+  "morpeth": {
+    "region": "Morpeth and Northumberland",
+    "nearby": ["Ashington", "Blyth", "Cramlington"],
+    "snapshot": "Morpeth is a market town and the administrative centre of Northumberland, and its network installers order in two ways. Build contractors and cabling firms with crews across the town and toward Ashington buy on trade accounts, while sole-trader broadband and CCTV engineers order direct online with no account. We run trade accounts and direct online ordering side by side, so the fleet and the one-van installer are kitted alike.",
+    "s1_head": "Kitting the field engineers of Northumberland",
+    "s1loc": [
+      "Morpeth has been a focus of Openreach's Northumberland full-fibre build, with around 2.9 million pound invested to bring gigabit-capable Full Fibre to roughly 80 per cent of properties, reaching more than 9,700 homes and businesses through a Community Fibre Partnership. As one of the market towns in the county's largest hard-to-reach programme, it has seen contractor crews and cabinets working across Stobhill, Stannington and Loansdean, with the alternative networks building alongside and the mobile operators upgrading on top. That keeps a steady flow of build and installation work moving through the town.",
+      "Alongside the rollout runs an active commercial cabling and CCTV scene. Morpeth is the seat of Northumberland County Council, and the Coopies Lane Industrial Estate off the south-east edge of town houses building, plumbing and motor-trade firms, while the high-street retail core and the offices around the county hall all need structured cabling. Local installers wire offices, depots and multi-site businesses in Cat5e, Cat6 and fibre and fit CCTV and access control. It is broad, steady work for cabling firms and ex-BT broadband engineers serving homes and businesses across the district."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Morpeth, a structured-cabling firm or a one-van broadband installer toward Ashington"
+  },
+  "hessle": {
+    "region": "Hessle and East Yorkshire",
+    "nearby": ["Hull", "Beverley", "Cottingham"],
+    "snapshot": "Hessle sits beside the Humber Bridge on the western edge of Hull in East Yorkshire, and its network installers order in two ways. Build contractors and cabling firms with crews across the town and into Hull buy on trade accounts, while sole-trader broadband and CCTV engineers order direct online with no account. We run trade accounts and direct online ordering side by side, so the fleet and the one-van installer are kitted alike.",
+    "s1_head": "Kitting the field engineers of the Hull area",
+    "s1loc": [
+      "Hessle has the distinctive Hull-area fibre picture, where the incumbent is KCOM rather than Openreach. KCOM laid full fibre down every street to reach the wider Hull area years ahead of most of the country, and its network now spans hundreds of thousands of premises across the city and East Yorkshire. That dominance is being eroded fast by alternative networks, with MS3, Quickline, Grain and Connexin all building, so most premises around Hessle now have a choice of provider. Quickline keeps extending its gigabit full fibre into the East Yorkshire fringes, putting contractor crews and cabinets across the town's streets.",
+      "Alongside the rollout runs a busy commercial cabling and CCTV scene. Hessle sits at the north end of the Humber Bridge, with the riverside Hessle Foreshore, the retail and trade units along Hull Road and Boothferry Road, and the wider Hull employment sites toward the docks and Priory Park all drawing in structured-cabling work. Local installers wire offices, warehouses and multi-site businesses in Cat5e, Cat6 and fibre and fit CCTV and access control. It is broad work for cabling firms and ex-BT broadband engineers serving homes and businesses across the area."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Hessle, a structured-cabling firm or a one-van broadband installer toward Hull"
+  },
+  "selby": {
+    "region": "Selby and North Yorkshire",
+    "nearby": ["York", "Goole", "Pontefract"],
+    "snapshot": "Selby is a market town in the southern part of North Yorkshire, and its network installers order in two ways. Build contractors and structured-cabling firms with crews across the town and toward York buy on trade accounts, while sole-trader broadband and CCTV engineers order direct online with no account. We run trade accounts and direct online ordering side by side, so the fleet and the one-van installer are kitted alike.",
+    "s1_head": "Kitting the field engineers of North Yorkshire",
+    "s1loc": [
+      "Selby is well into the North Yorkshire full-fibre build. Openreach is building its network at pace across the district, reaching toward Barlby, Brayton and Thorpe Willoughby, while Quickline is delivering gigabit full fibre and fixed wireless to the surrounding villages like Osgodby, Hemingbrough and Cliffe under its Project Gigabit and Superfast North Yorkshire partnership with NYnet and the council. The alternative networks are active alongside and the mobile operators keep upgrading on top. That mix keeps contractor crews and cabinets working through Selby's streets and out across the rural fringes.",
+      "Alongside the rollout runs a strong commercial cabling and CCTV scene. Selby Business Park off Bawtry Road, the A19 Business Park and the large Sherburn Enterprise Park at Sherburn-in-Elmet host warehousing, logistics and trade firms, while the town-centre retail around the abbey and the riverside add to the mix. Local installers wire offices, distribution sheds and multi-site businesses in Cat5e, Cat6 and fibre and fit CCTV and access control. It is broad, steady work for cabling firms and ex-BT broadband engineers serving homes and businesses across the district."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Selby, a structured-cabling firm or a one-van broadband installer toward York"
+  }
+}

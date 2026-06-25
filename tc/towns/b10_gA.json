@@ -1,0 +1,86 @@
+{
+  "dumbarton": {
+    "region": "Dumbarton and West Dunbartonshire",
+    "nearby": ["Clydebank", "Glasgow", "Renfrew"],
+    "snapshot": "Dumbarton sits on the Clyde in West Dunbartonshire, where engineers are pushing full fibre out across the town and into Alexandria and Balloch. Build contractors run crews on trade accounts and order branded kit through procurement, while ex-BT sole traders and one-van broadband and CCTV installers order direct online, with no account. A workwear supplier here has to serve the fleet and the single installer alike, which is why we run both routes side by side.",
+    "s1_head": "Kitting the field engineers of West Dunbartonshire",
+    "s1loc": [
+      "Dumbarton is in the middle of a real full-fibre build. Openreach engineers have started work to take gigabit-capable Full Fibre across the town and on to Alexandria and Balloch, using the existing duct and pole network wherever they can and digging new routes where they must, with West Dunbartonshire seeing sharp growth in fibre premises across the year. Alternative networks and the mobile operators keep upgrading on top, so on any given week there are crews working the streets and cabinets through districts from the town centre out toward Renton and Bonhill, the kind of mixed civils and install work that keeps engineers in hi-vis and waterproofs all year.",
+      "Alongside the residential rollout sits a solid commercial scene. The Lomondgate development and the Vale of Leven Industrial Estate carry major employers like Aggreko and Chivas, with Strathleven House at the centre, while the BBC Dumbarton Studios and a spread of riverside units along the Leven all need structured cabling, fibre links and CCTV. Local cabling and security installers wire offices, schools and multi-site businesses in Cat5e, Cat6 and fibre across the area, and that steady run of commercial fit-out and maintenance work sits right next to the street-level broadband build."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Dumbarton, a structured-cabling firm or a one-van broadband installer toward Clydebank"
+  },
+  "alloa": {
+    "region": "Alloa and Clackmannanshire",
+    "nearby": ["Falkirk", "Dunfermline", "Glenrothes"],
+    "snapshot": "Alloa is the main town of Clackmannanshire, and full fibre is going in across it and out to Sauchie, Clackmannan, Menstrie and Alva. Build contractors put crews on the street and buy branded kit through trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online, with no account. A workwear supplier here has to kit the fleet and the single installer alike, which is why we run both routes side by side.",
+    "s1_head": "Kitting the field engineers of Clackmannanshire",
+    "s1loc": [
+      "Alloa was the first place in Clackmannanshire to get fibre, and the full-fibre build has carried that on. Openreach has taken gigabit-capable Full Fibre to thousands of homes and businesses across the town and out to Sauchie, Clackmannan, Menstrie and Alva, working the existing ducts and poles where it can and laying new routes where it must, with the mobile operators upgrading on top. That means crews on the streets and at the cabinets across the town and the wider Wee County, the kind of mixed civils and install work that keeps field engineers in hi-vis and waterproofs through the year.",
+      "The commercial side runs alongside it. Alloa Business Park on Whins Road carries the Alloa Business Centre and a spread of serviced offices and workshops, with Ceteris-run industrial units across Clackmannanshire and the older Kelliebank and riverside sites adding to the mix. Offices, schools and multi-site firms across the area need structured cabling, fibre links and CCTV, so local cabling and security installers wire premises in Cat5e, Cat6 and fibre while the broadband build runs through the streets outside, two strands of telecoms work side by side."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Alloa, a structured-cabling firm or a one-van broadband installer toward Falkirk"
+  },
+  "ripley": {
+    "region": "Ripley and Derbyshire",
+    "nearby": ["Belper", "Alfreton", "Derby"],
+    "snapshot": "Ripley sits in the Amber Valley district of Derbyshire, where full fibre is going in across the town and the wider county. Build contractors run crews on trade accounts and buy branded kit through procurement, while ex-BT sole traders and one-van broadband and CCTV installers order direct online, with no account. A workwear supplier here has to serve the fleet and the single installer alike, which is why we run both routes side by side.",
+    "s1_head": "Kitting the field engineers of Amber Valley",
+    "s1loc": [
+      "Ripley sits inside a busy Derbyshire full-fibre build. Openreach is taking gigabit-capable Full Fibre across the town and the Amber Valley district, and a range of alternative networks are active across the county, with Project Gigabit work and providers such as Gigaclear and Connect Fibre extending build into Derbyshire areas alongside the mobile operators upgrading on top. That mix puts crews on the streets and at the cabinets through the town centre and out toward Codnor and Marehay, the kind of civils and install work that keeps field engineers in hi-vis and waterproofs across the year.",
+      "The commercial scene runs alongside the rollout. Codnor Gate Industrial Estate just outside the town carries over 100,000 square feet of industrial and distribution units, with Bradley Park and a mix of manufacturing and warehouse occupiers, while independent shops and supermarkets fill the town centre. Offices, factories and multi-site firms across Amber Valley need structured cabling, fibre links and CCTV, so local cabling and security installers wire premises in Cat5e, Cat6 and fibre while the street-level broadband build carries on outside."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Ripley, a structured-cabling firm or a one-van broadband installer toward Belper"
+  },
+  "spennymoor": {
+    "region": "Spennymoor and County Durham",
+    "nearby": ["Newton Aycliffe", "Bishop Auckland", "Darlington"],
+    "snapshot": "Spennymoor sits in County Durham, where full fibre is going in across the town from both Openreach and alternative networks. Build contractors run crews on trade accounts and buy branded kit through procurement, while ex-BT sole traders and one-van broadband and CCTV installers order direct online, with no account. A workwear supplier here has to serve the fleet and the single installer alike, which is why we run both routes side by side.",
+    "s1_head": "Kitting the field engineers of County Durham",
+    "s1loc": [
+      "Spennymoor is firmly in the full-fibre build. Openreach is taking gigabit-capable Full Fibre across the town as part of a major County Durham upgrade, and alternative networks including Netomnia and its YouFibre brand have been extending FTTP into Durham and Spennymoor on top. Newer developments like Middlestone Meadows, Whitworth Chase and Cornish Park add cleaner install routes alongside the older streets. The result is crews on the roads and at the cabinets through the town and out toward Tudhoe and Croxdale, the kind of civils and install work that keeps field engineers in hi-vis and waterproofs all year.",
+      "The commercial side sits right beside it. Green Lane Industrial Estate and the Tudhoe Industrial Estate off the Durham road carry terraced workshops and larger industrial and distribution units, with the A167 and A688 linking south to Newton Aycliffe and the A1(M). Offices, factories and multi-site firms across the area need structured cabling, fibre links and CCTV, so local cabling and security installers wire premises in Cat5e, Cat6 and fibre while the street-level broadband build keeps running outside."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Spennymoor, a structured-cabling firm or a one-van broadband installer toward Newton Aycliffe"
+  },
+  "kempston": {
+    "region": "Kempston and Bedfordshire",
+    "nearby": ["Bedford", "Milton Keynes", "Wellingborough"],
+    "snapshot": "Kempston sits on the Great Ouse beside Bedford in Bedfordshire, where full fibre and cable networks are going in across the town. Build contractors run crews on trade accounts and buy branded kit through procurement, while ex-BT sole traders and one-van broadband and CCTV installers order direct online, with no account. A workwear supplier here has to serve the fleet and the single installer alike, which is why we run both routes side by side.",
+    "s1_head": "Kitting the field engineers of Bedfordshire",
+    "s1loc": [
+      "Kempston has a strong full-fibre picture. The Openreach network and Virgin Media cable both reach across the MK42 and MK41 postcodes, with CityFibre building in Bedfordshire under a Project Gigabit contract for the wider county, Northamptonshire and Milton Keynes, and the mobile operators upgrading on top. That mix puts crews on the streets and at the cabinets across the town and out toward Elstow and the Bedford boundary, the kind of civils and install work that keeps field engineers in hi-vis and waterproofs through the year as gigabit-capable connections reach more homes and businesses.",
+      "The commercial scene runs alongside the rollout. Marsh Leys Business Park on the Woburn Road carries the Asda, Argos and Sainsbury's distribution centres, while the Interchange Retail Park off Ampthill Road and the units near the A421 bypass add to the trade. Offices, depots and multi-site firms across the area need structured cabling, fibre links and CCTV, so local cabling and security installers wire premises in Cat5e, Cat6 and fibre while the street-level broadband build keeps running outside."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Kempston, a structured-cabling firm or a one-van broadband installer toward Bedford"
+  },
+  "lancing": {
+    "region": "Lancing and West Sussex",
+    "nearby": ["Worthing", "Shoreham-by-Sea", "Hove"],
+    "snapshot": "Lancing sits on the West Sussex coast between Worthing and Shoreham, where full fibre is going in across the village from several networks. Build contractors run crews on trade accounts and buy branded kit through procurement, while ex-BT sole traders and one-van broadband and CCTV installers order direct online, with no account. A workwear supplier here has to serve the fleet and the single installer alike, which is why we run both routes side by side.",
+    "s1_head": "Kitting the field engineers of West Sussex",
+    "s1loc": [
+      "Lancing has had a real full-fibre push. Openreach invested several million pounds to bring gigabit-capable Full Fibre to more than ten thousand homes and businesses across the area, reaching around 80 per cent of properties, while the local altnet Briant Broadband has built its own FTTP network around Worthing, Lancing and Sompting using duct access, and Hyperoptic adds coverage on top. That mix keeps crews working the streets and cabinets through North Lancing and out toward Sompting, the kind of civils and install work that keeps field engineers in hi-vis and waterproofs across the year.",
+      "The commercial side is anchored by Lancing Business Park, one of the larger trading estates on the south coast, with a long run of industrial, warehouse and workshop units alongside the airfield and the coastal road. Offices, depots and multi-site firms across the area need structured cabling, fibre links and CCTV, so local cabling and security installers wire premises in Cat5e, Cat6 and fibre while the street-level broadband build keeps running outside, two strands of telecoms work side by side."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Lancing, a structured-cabling firm or a one-van broadband installer toward Worthing"
+  },
+  "prestatyn": {
+    "region": "Prestatyn and Denbighshire",
+    "nearby": ["Rhyl", "Colwyn Bay", "Llandudno"],
+    "snapshot": "Prestatyn sits on the North Wales coast in Denbighshire, where full fibre is going in across the town and the wider county. Build contractors run crews on trade accounts and buy branded kit through procurement, while ex-BT sole traders and one-van broadband and CCTV installers order direct online, with no account. A workwear supplier here has to serve the fleet and the single installer alike, which is why we run both routes side by side.",
+    "s1_head": "Kitting the field engineers of Denbighshire",
+    "s1loc": [
+      "Prestatyn led the Denbighshire full-fibre build. Openreach invested many millions of pounds to take gigabit-capable Full Fibre across the town first, with Rhyl, Denbigh and a long list of communities including Dyserth, Rhuddlan, Kinmel Bay and Gronant following, reaching around 80 per cent of properties in the region. The Welsh altnet Ogi and other networks are extending build elsewhere in the country, and the mobile operators keep upgrading on top. That keeps crews on the streets and at the cabinets across the town and out toward Meliden and the coast, the kind of work that keeps field engineers in hi-vis and waterproofs all year.",
+      "The commercial scene runs alongside the rollout. The seafront and Nova centre, the High Street retail run and the trading and industrial units toward the A548 coast road all add to the local trade, while the holiday parks and caravan sites along the coast carry their own connectivity needs. Offices, shops and multi-site firms across the area need structured cabling, fibre links and CCTV, so local cabling and security installers wire premises in Cat5e, Cat6 and fibre while the street-level broadband build keeps running outside."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Prestatyn, a structured-cabling firm or a one-van broadband installer toward Rhyl"
+  }
+}

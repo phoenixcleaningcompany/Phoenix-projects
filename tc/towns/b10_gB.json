@@ -1,0 +1,86 @@
+{
+  "horsforth": {
+    "region": "Horsforth and West Yorkshire",
+    "nearby": ["Leeds", "Pudsey", "Guiseley"],
+    "snapshot": "Horsforth is a busy suburb on the north-west edge of Leeds where full-fibre crews and structured-cabling installers work side by side. National build contractors run fleets on procurement and trade accounts, while ex-BT sole traders and small CCTV and broadband installers take work street by street and order direct online with no account. We kit both the same way, which is why we run trade accounts and direct online ordering together.",
+    "s1_head": "Kitting the field engineers of West Yorkshire",
+    "s1loc": [
+      "Horsforth sits inside the wider Leeds full-fibre build, where Openreach FTTP is the broad baseline across the LS18 streets and the alternative networks are filling in alongside. CityFibre lights up much of Leeds as a Gigabit City, and altnets including Netomnia and YouFibre, brsk and Quickline are all active across West Yorkshire, with build contractors and civils partners working the cabinets and footways. Engineers move through residential roads off Town Street and New Road Side and the wider Leeds suburbs, pulling fibre to homes and businesses and upgrading the older copper as the rollout pushes north-west out of the city.",
+      "On the commercial side Horsforth has a genuine business district, much of it in the industrial area skirting Low Lane, plus the offices and serviced units around the town centre and the Leeds Trinity University campus on Brownberrie Lane. Structured-cabling and fibre-optic firms wire offices, schools and multi-site businesses here in Cat5e, Cat6 and fibre, and CCTV installers fit and maintain systems across retail and industrial premises. With Leeds, Pudsey and the Aireborough towns all close by, plenty of installers cover Horsforth as part of a wider patch around the north-western side of the city."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Horsforth, a structured-cabling firm or a one-van broadband installer toward Pudsey"
+  },
+  "goole": {
+    "region": "Goole and East Yorkshire",
+    "nearby": ["Scunthorpe", "Doncaster", "Selby"],
+    "snapshot": "Goole is an inland port town in East Yorkshire where full-fibre crews and cabling installers cover the streets, the docks and the enterprise zone. National build contractors field fleets on trade accounts and procurement, while sole-trader broadband and CCTV installers take work directly and order online with no account. A workwear supplier here has to kit the fleet and the one-van installer alike, which is why we run trade accounts and direct online ordering side by side.",
+    "s1_head": "Kitting the field engineers of East Yorkshire",
+    "s1loc": [
+      "Goole sits in the East Riding full-fibre programme, where Openreach has invested heavily to build FTTP across the town and Quickline is delivering gigabit broadband to the riverbank communities and rural addresses to the east under Project Gigabit. Engineers work the terraced streets off Boothferry Road and Pasture Road and out toward the surrounding villages, pulling fibre to homes and businesses and upgrading the older copper network. With the build still running and the alternative networks active alongside Openreach across the Humber side of Yorkshire, there is steady installation and repair work across the town and its outlying parishes.",
+      "Goole runs on its port and logistics economy, and that drives the commercial cabling and CCTV scene. Capitol Park and the Goole Rail Village, home to the Siemens Mobility train manufacturing campus and the RaisE business centre, sit beside the M62 enterprise zone, and the intermodal terminal ties rail, sea, road and inland waterway together. Structured-cabling firms wire warehouses, offices and manufacturing units in Cat5e, Cat6 and fibre across these sites, while CCTV installers cover the docks, industrial estates and retail premises through the town centre."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Goole, a structured-cabling firm or a one-van broadband installer toward Selby"
+  },
+  "oswestry": {
+    "region": "Oswestry and Shropshire",
+    "nearby": ["Shrewsbury", "Wrexham", "Telford"],
+    "snapshot": "Oswestry is a market town in north Shropshire near the Welsh border where full-fibre crews and cabling installers work the streets and trade estates. National build contractors run fleets on procurement and trade accounts, while ex-BT sole traders and small CCTV and broadband installers take work directly and order online with no account. We have to serve the fleet and the one-van installer alike, which is why we run trade accounts and direct online ordering side by side.",
+    "s1_head": "Kitting the field engineers of Shropshire",
+    "s1loc": [
+      "Oswestry sits in the Shropshire full-fibre rollout, where Openreach has built FTTP to the majority of homes and businesses across north Shropshire and is still extending into the villages around the town. Residents can choose Openreach, Virgin Media and BeFibre gigabit services, and across the wider county alternative networks including Airband and Gigaclear are active in the harder-to-reach rural areas. Engineers work the streets off Beatrice Street and Salop Road and out toward the border parishes, pulling fibre to premises and upgrading the older copper as the build pushes further into the countryside around the town.",
+      "On the commercial side Oswestry has a solid trade-estate base. Maes-y-Clawdd and the Maesbury Road Industrial Estate carry the Oswestry Trade Park and a run of trade-counter and light-industrial units, while Mile End Business Park on the southern edge and the planned Oswestry Innovation Park add more commercial space. Structured-cabling firms wire offices, workshops and warehouses in Cat5e, Cat6 and fibre across these estates, and CCTV installers fit and maintain systems for retail, agricultural and industrial premises through the town and its surrounding villages."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Oswestry, a structured-cabling firm or a one-van broadband installer toward Shrewsbury"
+  },
+  "sandbach": {
+    "region": "Sandbach and Cheshire",
+    "nearby": ["Crewe", "Congleton", "Macclesfield"],
+    "snapshot": "Sandbach is a Cheshire market town where full-fibre crews and structured-cabling installers cover the streets and the trade estates. National build contractors field fleets on procurement and trade accounts, while sole-trader broadband and CCTV installers take work directly and order online with no account. A workwear supplier here has to kit the fleet and the one-van installer alike, which is why we run trade accounts and direct online ordering side by side.",
+    "s1_head": "Kitting the field engineers of Cheshire",
+    "s1loc": [
+      "Sandbach has seen a major full-fibre build, with Openreach finishing a multi-million-pound FTTP project that reached around ninety per cent of properties in the town. The altnet Zzoomm has built its own gigabit network across Sandbach and the neighbouring Cheshire towns including Crewe, Congleton and Northwich, and FibreNest covers some of the new-build estates, so there is real network choice here. Engineers work the streets off Crewe Road and Middlewich Road and out through Wheelock and Elworth, pulling fibre to homes and businesses and keeping the competing networks running across the town.",
+      "On the commercial side Sandbach sits on the M6 with strong logistics and manufacturing links, and that drives the cabling and CCTV scene. Structured-cabling firms wire offices, warehouses and workshops in Cat5e, Cat6 and fibre across the trade units around Hassall Road and Wheelock and the wider Cheshire East estates, while CCTV installers fit and maintain systems for retail, industrial and distribution premises. With Crewe and Congleton close by, many installers cover Sandbach as part of a wider patch across this part of Cheshire."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Sandbach, a structured-cabling firm or a one-van broadband installer toward Crewe"
+  },
+  "normanton": {
+    "region": "Normanton and West Yorkshire",
+    "nearby": ["Castleford", "Pontefract", "Featherstone"],
+    "snapshot": "Normanton is a West Yorkshire town near Wakefield where full-fibre crews and cabling installers cover the streets and the logistics parks. National build contractors run fleets on procurement and trade accounts, while ex-BT sole traders and small CCTV and broadband installers take work directly and order online with no account. We have to kit the fleet and the one-van installer alike, which is why we run trade accounts and direct online ordering side by side.",
+    "s1_head": "Kitting the field engineers of West Yorkshire",
+    "s1loc": [
+      "Normanton sits in the West Yorkshire full-fibre build, where Openreach FTTP is the broad baseline across the town and Virgin Media adds gigabit-capable coverage on top. Altnet activity is lighter here than in central Leeds, but build contractors and civils partners keep working the cabinets and footways as the rollout fills in across the Wakefield district. Engineers move through the residential streets off High Street and Castleford Road and out toward Altofts and Whitwood, pulling fibre to homes and businesses and upgrading the older copper network across this corner of the Five Towns area between Wakefield and Castleford.",
+      "Normanton runs on logistics and distribution, and that shapes the commercial cabling and CCTV scene. Wakefield Europort, the Wakefield 41 Industrial Park off junction 41 of the M1, and the Normanton Industrial Estate near the M62 carry major occupiers including XPO, DHL and Howdens. Structured-cabling firms wire warehouses, offices and distribution units in Cat5e, Cat6 and fibre across these parks, while CCTV installers fit and maintain systems for the big sheds, yards and retail premises. With Castleford and Pontefract close by, installers cover Normanton as part of a wider patch."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Normanton, a structured-cabling firm or a one-van broadband installer toward Castleford"
+  },
+  "stanley": {
+    "region": "Stanley and County Durham",
+    "nearby": ["Chester-le-Street", "Consett", "Washington"],
+    "snapshot": "Stanley is a former colliery town in County Durham where full-fibre crews and cabling installers cover the streets and the trade estates. National build contractors field fleets on procurement and trade accounts, while sole-trader broadband and CCTV installers take work directly and order online with no account. A workwear supplier here has to kit the fleet and the one-van installer alike, which is why we run trade accounts and direct online ordering side by side.",
+    "s1_head": "Kitting the field engineers of County Durham",
+    "s1loc": [
+      "Stanley is part of the County Durham full-fibre push, where Openreach is building a new FTTP network across the town as part of its wider gigabit upgrade for the area, alongside major investment reaching Consett and Darlington. Altnets are active across the county too, with Netomnia and Quickline, GoFibre and Grain Connect building in parts of Durham. Engineers work the streets off Front Street and the surrounding estates and out toward Annfield Plain and Tanfield, pulling fibre to homes and businesses and upgrading the older copper as the build reaches this part of north-west Durham between Newcastle and Durham City.",
+      "On the commercial side Stanley has a long-established trade-estate base. The Tanfield Lea North and South Industrial Estates north of the town centre carry dozens of workshop and industrial units, with steel-framed sheds, roller-shutter loading and a steady mix of manufacturing and trade occupiers. Structured-cabling firms wire offices, workshops and units in Cat5e, Cat6 and fibre across these estates, while CCTV installers fit and maintain systems for industrial, retail and yard premises. With Chester-le-Street and Consett close by, installers cover Stanley as part of a wider patch across the county."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Stanley, a structured-cabling firm or a one-van broadband installer toward Consett"
+  },
+  "cottingham": {
+    "region": "Cottingham and East Yorkshire",
+    "nearby": ["Hull", "Beverley", "Hessle"],
+    "snapshot": "Cottingham is a large village on the edge of Hull in East Yorkshire where full-fibre crews and cabling installers cover the streets and the university fringe. National build contractors run fleets on procurement and trade accounts, while sole-trader broadband and CCTV installers take work directly and order online with no account. We have to kit the fleet and the one-van installer alike, which is why we run trade accounts and direct online ordering side by side.",
+    "s1_head": "Kitting the field engineers of East Yorkshire",
+    "s1loc": [
+      "Cottingham sits in the distinctive Hull-area full-fibre market, where the long-standing incumbent KCOM runs its Lightstream network into the village and the challenger MS3 Networks has built an extensive competing FTTP footprint across Hull and East Yorkshire. Quickline is also expanding in the rural East Riding under Project Gigabit, so households here have real network choice. Engineers work the streets off Hallgate and King Street and out toward the surrounding villages, pulling fibre to homes and businesses and keeping the rival networks running across this stretch between Hull and Beverley on the northern edge of the city.",
+      "On the commercial side Cottingham is shaped by the University of Hull, whose main campus sits on Cottingham Road with a strong student population and a cluster of offices and serviced premises nearby. Structured-cabling firms wire university buildings, schools, surgeries and offices in Cat5e, Cat6 and fibre, while CCTV installers fit and maintain systems across retail parades and residential developments. With Hull and Hessle close by and Bridgehead Business Park down at Hessle, many installers cover Cottingham as part of a wider patch around the western and northern side of the city."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Cottingham, a structured-cabling firm or a one-van broadband installer toward Beverley"
+  }
+}
