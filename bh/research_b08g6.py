@@ -1,0 +1,86 @@
+NEW = {
+ "congleton": {
+  "region":"Congleton and Cheshire",
+  "nearby":["Macclesfield","Biddulph","Sandbach"],
+  "snapshot":"iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Congleton, from the Swan Bank and West Street salons to the Biddulph Road parades, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head":"Kitting the salons, barbers and spas of east Cheshire",
+  "s1loc":[
+   "Congleton packs its salon trade into a compact market-town centre on the River Dane. Swan Bank is the densest cluster, with hair salons, barbers and beauty rooms along the bank, while West Street adds more hairdressers and barbershops near the car park, and Bridge Street, High Street and Mill Street carry further salons and beauty studios. Out along Biddulph Road towards Mossley and Hightown the parades by the railway station hold their own run of independent hairdressers and beauty rooms.",
+   "And the trade is overwhelmingly small and independent. The Swan Bank salons and barbers, the West Street hairdressers, the Mill Street and Lawton Street beauty rooms, the Biddulph Road salons in Mossley and the mobile beauticians working out to Astbury and Buglawton are nearly all sole traders or small teams rather than chains. Almost every one of them puts staff in front of clients in something branded, and how they look is part of the service.",
+  ],
+  "kit_loc":"across the town's salons, barber chairs and treatment rooms",
+  "s2_intro":"Whether you are a Swan Bank salon, a West Street barber, a mobile beautician or a nail studio across Congleton",
+ },
+ "bloxwich": {
+  "region":"Bloxwich and the Black Country",
+  "nearby":["Walsall","Willenhall","Cannock"],
+  "snapshot":"iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Bloxwich, from the High Street salons and barbers to the Park Road and Elmore Green parades, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head":"Outfitting the salons, barbers and spas of the Black Country",
+  "s1loc":[
+   "Bloxwich runs its salon trade straight down the High Street, the A34 spine through the town. Barbers, hair salons and beauty rooms line the street from the Market Square out, with Turkish barbers, hairdressers and nail bars sitting one after another along the parade. Away from the High Street the volume builds on Park Road and Elmore Green Road, while the wider north Walsall districts of Leamore, Blakenall, Birchills and Pelsall add their own barbershops and beauty salons on the local parades.",
+   "And it is overwhelmingly independent. The High Street barbers and hair salons, the Park Road hairdressers, the Elmore Green beauty rooms, the Leamore and Blakenall barbershops and the mobile beauticians working across north Walsall are nearly all sole traders or small teams rather than chains. Each one puts staff in front of clients, so a sharp, branded look is simply part of how the shop earns its name in the Black Country.",
+  ],
+  "kit_loc":"across the town's salons, barber chairs and treatment rooms",
+  "s2_intro":"Whether you are a High Street salon, a Market Square barber, a mobile beautician or a nail studio across Bloxwich",
+ },
+ "whitehaven": {
+  "region":"Whitehaven and west Cumbria",
+  "nearby":["Workington","Carlisle","Penrith"],
+  "snapshot":"iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Whitehaven, from the King Street and Lowther Street salons to the harbour-side treatment rooms, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head":"Kitting the salons, barbers and spas of the Cumbrian coast",
+  "s1loc":[
+   "Set on a Georgian harbour grid on the west Cumbrian coast, Whitehaven keeps its salon trade in a tight street pattern. King Street and Lowther Street carry the main run of hair salons and Turkish barbers, with more along Church Street, Queen Street, Tangier Street and Market Place, and beauty and spa rooms down by the marina. Out of the centre the Hensingham high street on Main Street and the inland towns of Cleator Moor, Egremont and Frizington add their own hairdressers and barbershops.",
+   "And the trade is overwhelmingly small and independent. The King Street and Lowther Street salons and barbers, the Church Street and Queen Street hairdressers, the Tangier Street beauty rooms, the Hensingham salons on Main Street and the mobile beauticians covering the coast and the inland villages are nearly all sole traders or small teams rather than chains. In a remote corner like this, looking the part in something branded is simply part of the job.",
+  ],
+  "kit_loc":"across the town's salons, barber chairs and treatment rooms",
+  "s2_intro":"Whether you are a King Street salon, a Lowther Street barber, a mobile beautician or a nail studio across Whitehaven",
+ },
+ "newton aycliffe": {
+  "region":"Newton Aycliffe and County Durham",
+  "nearby":["Darlington","Bishop Auckland","Spennymoor"],
+  "snapshot":"iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Newton Aycliffe, from the Beveridge Way town-centre salons to the estate parades, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head":"Outfitting the salons, barbers and spas of the Vale of Durham",
+  "s1loc":[
+   "A post-war new town in County Durham, Newton Aycliffe centres its salon trade on the pedestrianised town centre. Beveridge Way and Dalton Way carry the hair salons, nail studios and beauty rooms, the covered Beveridge Arcade holds a hairdresser or two, and Greenwell Road runs the barbers on its parade. Beyond the precinct the estate parades at Neville Parade, Simpasture Gate and St Cuthbert's Way add more salons and barbershops, with Heighington village holding its own hair studio.",
+   "And the trade is overwhelmingly small and independent. The Beveridge Way salons and nail studios, the Greenwell Road barbers, the Beveridge Arcade hairdressers, the Simpasture Gate and Neville Parade beauty rooms and the mobile beauticians working across Great Aycliffe and out to Heighington are nearly all sole traders or small teams rather than chains. Almost every one of them puts staff in front of clients in something branded, and how they look is part of the service.",
+  ],
+  "kit_loc":"across the town's salons, barber chairs and treatment rooms",
+  "s2_intro":"Whether you are a Beveridge Way salon, a Greenwell Road barber, a mobile beautician or a nail studio across Newton Aycliffe",
+ },
+ "upminster": {
+  "region":"Upminster and the London Borough of Havering",
+  "nearby":["Hornchurch","Romford","Brentwood"],
+  "snapshot":"iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Upminster, from the Corbets Tey Road salons to the Station Road barbers and St Marys Lane nail studios, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head":"Kitting the salons, barbers and spas of east London",
+  "s1loc":[
+   "Out on the east London and Essex border in Havering, Upminster keeps its salon trade on three shopping roads. Corbets Tey Road is the spine, with long-established hair salons running down it, while Station Road carries the barbers from the station along the parade, and St Marys Lane adds the nail bars and beauty studios. Next door the contiguous high streets of Hornchurch and Emerson Park, and the residential streets of Cranham, lean on the same cluster of independent salons and barbershops.",
+   "And the trade is overwhelmingly small and independent. The Corbets Tey Road hair salons, the Station Road barbers, the St Marys Lane nail bars and beauty rooms, the Emerson Park and Hornchurch barbershops and the mobile beauticians working across Cranham and the wider borough are nearly all sole traders or small teams rather than chains. Almost every one of them puts staff in front of clients in something branded, and looking the part is part of the service.",
+  ],
+  "kit_loc":"across the borough's salons, barber chairs and treatment rooms",
+  "s2_intro":"Whether you are a Corbets Tey Road salon, a Station Road barber, a mobile beautician or a nail studio across Upminster",
+ },
+ "oadby": {
+  "region":"Oadby and Leicestershire",
+  "nearby":["Leicester","Market Harborough","Hinckley"],
+  "snapshot":"iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Oadby, from the salons along The Parade to the London Road hairdressers and barbers, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head":"Kitting out the salons, barbers and beauty rooms of Oadby",
+  "s1loc":[
+   "An affluent suburb on the A6 just south-east of Leicester, Oadby runs its salon trade along a linear town centre. The Parade is the heart of it, packing in hair salons, barbers and beauty studios, while London Road adds another run of hairdressers and barbershops, and Leicester Road carries a hair and beauty clinic or two. The trade reaches across the Oadby and Wigston borough into Wigston and over the Stoneygate border, with more salons out towards Great Glen and Kibworth.",
+   "And the trade is overwhelmingly small and independent. The Parade salons and barbers, the London Road hairdressers and beauty rooms, the Leicester Road clinics, the Wigston high-street salons and the mobile beauticians working across the borough and the leafy Stoneygate streets are nearly all sole traders or small teams rather than chains. Almost every one of them puts staff in front of clients in something branded, and how they look is part of the service.",
+  ],
+  "kit_loc":"across the town's salons, barber chairs and treatment rooms",
+  "s2_intro":"Whether you are a Parade salon, a London Road barber, a mobile beautician or a nail studio across Oadby",
+ },
+ "whitefield": {
+  "region":"Whitefield and Greater Manchester",
+  "nearby":["Bury","Radcliffe","Middleton"],
+  "snapshot":"iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Whitefield, from the Bury New Road salons and barbers to the Elms Square beauty rooms, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head":"Kitting the salons, barbers and spas of the Bury borough",
+  "s1loc":[
+   "Whitefield strings its salon trade along Bury New Road rather than around one square. This is the spine in the Bury borough of Greater Manchester, carrying the densest run of barbers, hair salons and beauty rooms, with named barbershops and salons sitting one after another down the road. Elms Square at the northern end adds nail studios and a spa, while Park Lane, Moss Lane, Bury Old Road and Radcliffe New Road carry more salons through the neighbourhood hearts from Besses o' th' Barn up to Stand.",
+   "And the trade is overwhelmingly small and independent. The Bury New Road barbers and hair salons, the Elms Square nail studios and spa rooms, the Park Lane and Moss Lane beauty salons, the Unsworth and Prestwich barbershops just along the road and the mobile beauticians working across the borough are nearly all sole traders or small teams rather than chains. Each one puts staff in front of clients, so a sharp, branded look is simply part of how the shop earns its name.",
+  ],
+  "kit_loc":"across the town's salons, barber chairs and treatment rooms",
+  "s2_intro":"Whether you are a Bury New Road salon, an Elms Square barber, a mobile beautician or a nail studio across Whitefield",
+ },
+}
