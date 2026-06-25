@@ -140,7 +140,12 @@ def check_file(path, towns, seen_desc, seen_title):
             fails.append("9. delivery timescale claim found")
             break
 
-    hit = [term for term in BLEED if re.search(r"\b" + re.escape(term) + r"\b", txt, re.I)]
+    # A town legitimately named like a bleed term (e.g. Wellington, Somerset) is
+    # exempt on its own page - the term still fails on any other page.
+    town_l = (town or "").lower()
+    hit = [term for term in BLEED
+           if term.lower() != town_l
+           and re.search(r"\b" + re.escape(term) + r"\b", txt, re.I)]
     if hit:
         fails.append(f"10. banned/bleed term(s) found (incl. security/cleaning/sports/care bleed): {hit[:4]}")
 
