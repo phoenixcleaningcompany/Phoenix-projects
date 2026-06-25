@@ -1,0 +1,86 @@
+NEW = {
+    "hatfield": {
+        "region": "Hatfield and Hertfordshire",
+        "nearby": ["Welwyn Garden City", "St Albans", "Potters Bar"],
+        "snapshot": "iNeedWorkwear supplies branded scrubs, tunics, polos, fleeces, waterproofs and safety footwear to vet practices, veterinary nurses, kennels, catteries, dog groomers and equine yards across Hatfield, from the New Town surgeries to the rural fringe, embroidered in-house with the practice name. Veterinary and animal care is mostly small practices and sole traders, so the quickest route is to order direct online with no account, while a larger practice or group can set up a trade account.",
+        "s1_head": "Kitting the practices, kennels and yards of mid-Hertfordshire",
+        "s1loc": [
+            "Hatfield runs from the New Town estates of South Hatfield and Birchwood up to the old core around Hatfield House, and the animal-care trade tracks both. The Village Veterinary Surgery and the chain practices around Oldings Corner sit alongside grooming such as Hair of the Dog in the Stable Yard at Hatfield Park, with Lemsford Kennels and Cattery toward Welwyn Garden City and livery yards on the green-belt edge near Brookmans Park and Essendon.",
+            "Most of these are small, owner-run set-ups. The single-handed practice, the salon groomer off the parade, the family kennels out at Lemsford and the part-time livery yard are the norm here rather than big multi-site groups. They each meet anxious owners in the consulting room and then work hands-on in the kennels and the field, so the kit has to look clinically clean indoors and still cope with mud and weather outside.",
+        ],
+        "kit_loc": "across the town's consulting rooms, kennels and yards",
+        "s2_intro": "Whether you are an independent practice in Old Hatfield, a boarding kennels toward Lemsford, a mobile groomer or an equine yard across Hatfield",
+    },
+    "ilkeston": {
+        "region": "Ilkeston and Derbyshire",
+        "nearby": ["Long Eaton", "Beeston", "Derby"],
+        "snapshot": "iNeedWorkwear supplies branded scrubs, tunics, polos, fleeces, waterproofs and safety footwear to vet practices, veterinary nurses, kennels, catteries, dog groomers and equine yards across Ilkeston, from the town-centre surgeries to the Erewash valley edge, embroidered in-house with the practice name. Veterinary and animal care is mostly small practices and sole traders, so the quickest route is to order direct online with no account, while a larger practice or group can set up a trade account.",
+        "s1_head": "Kitting the practices, kennels and yards of the Erewash valley",
+        "s1loc": [
+            "Set in the Erewash valley between Derbyshire and Nottinghamshire, Ilkeston carries a busy animal-care trade for its size. Priory Veterinary Group on Nottingham Road, Ambivet, Morley Veterinary Practice and the Rutland Street chain practice cover the small-animal side, with grooming such as Mucky Pups at Kirk Hallam and Scruffalicious in the town, plus boarding, dog walkers around Cotmanhay and pony paddocks on the canal and field edge toward Stanton and West Hallam.",
+            "The pattern here is firmly independent and small-scale. A long-standing practice like Ambivet, the one-room groomer, the home boarder and the smallholding livery yard are run by small teams or single owners, not national brands. Each works clean and clinical with worried owners one minute and is up to its elbows in baths, kennels and muddy paddocks the next, so the workwear has to wash hot and still survive the hands-on side.",
+        ],
+        "kit_loc": "across the town's consulting rooms, kennels and yards",
+        "s2_intro": "Whether you are an independent practice on Nottingham Road, a boarding kennels toward West Hallam, a mobile groomer or an equine yard across Ilkeston",
+    },
+    "canvey island": {
+        "region": "Canvey Island and Essex",
+        "nearby": ["Basildon", "Rayleigh", "Wickford"],
+        "snapshot": "iNeedWorkwear supplies branded scrubs, tunics, polos, fleeces, waterproofs and safety footwear to vet practices, veterinary nurses, kennels, catteries, dog groomers and equine yards across Canvey Island, from the town surgeries to the marshland edge, embroidered in-house with the practice name. Veterinary and animal care is mostly small practices and sole traders, so the quickest route is to order direct online with no account, while a larger practice or group can set up a trade account.",
+        "s1_head": "Kitting the practices, kennels and yards of the Thames estuary",
+        "s1loc": [
+            "Out on the Thames estuary behind its sea wall, Canvey Island has a compact but steady animal-care trade. Riverside Veterinary Group on Long Road and Medivet handle the small-animal work, backed by salon and mobile dog groomers across the residential streets, home boarders and cat sitters, with grazing, smallholdings and a few horse paddocks out on the marshes and toward the mainland at Benfleet and Bowers Gifford.",
+            "Almost all of it is small and independent. The local practice, the one-van groomer working the estates, the family pet sitter and the marsh-edge paddock are run by sole traders and tiny teams rather than chains. They face owners across the consulting table and then work hands-on with wet, anxious and muddy animals, so the uniform has to read as clean and professional indoors and shrug off salt air, rain and grime outside.",
+        ],
+        "kit_loc": "across the island's consulting rooms, kennels and yards",
+        "s2_intro": "Whether you are an independent practice on Long Road, a boarding kennels toward Benfleet, a mobile groomer or an equine yard across Canvey Island",
+    },
+    "port talbot": {
+        "region": "Port Talbot and West Glamorgan",
+        "nearby": ["Neath", "Maesteg", "Bridgend"],
+        "snapshot": "iNeedWorkwear supplies branded scrubs, tunics, polos, fleeces, waterproofs and safety footwear to vet practices, veterinary nurses, kennels, catteries, dog groomers and equine yards across Port Talbot, from the town surgeries to the Afan valley, embroidered in-house with the practice name. Veterinary and animal care is mostly small practices and sole traders, so the quickest route is to order direct online with no account, while a larger practice or group can set up a trade account.",
+        "s1_head": "Kitting the practices, kennels and yards of the Afan valley",
+        "s1loc": [
+            "Strung between the steelworks, the sea and the Afan valley, Port Talbot carries a working mix of animal-care trades. Forest Vet Group and Shepherds the Vets on Forge Road cover the small-animal side, with Gower Vets reaching in from the west, salon and mobile groomers across Aberavon, Sandfields and Taibach, plus boarding kennels, and riding and livery at Cimla Equestrian Centre and Green Farm Riding Stables up in the Afan Argoed country park.",
+            "The trade leans heavily on small, independent operators. A branch practice, a one-room grooming salon, a family kennels and a valley riding school are usually run by a handful of people or a sole trader rather than a big group. Each switches between calming a worried owner in a clean consulting room and graft in the kennels, the salon and the hillside paddocks, so the kit must look smart indoors and stand up to Welsh weather outside.",
+        ],
+        "kit_loc": "across the town's consulting rooms, kennels and yards",
+        "s2_intro": "Whether you are an independent practice on Forge Road, a boarding kennels toward Cimla, a mobile groomer or an equine yard across Port Talbot",
+    },
+    "amesbury": {
+        "region": "Amesbury and Wiltshire",
+        "nearby": ["Salisbury", "Andover", "Trowbridge"],
+        "snapshot": "iNeedWorkwear supplies branded scrubs, tunics, polos, fleeces, waterproofs and safety footwear to vet practices, veterinary nurses, kennels, catteries, dog groomers and equine yards across Amesbury, from the town surgeries to Salisbury Plain, embroidered in-house with the practice name. Veterinary and animal care is mostly small practices and sole traders, so the quickest route is to order direct online with no account, while a larger practice or group can set up a trade account.",
+        "s1_head": "Kitting the practices, kennels and yards of Salisbury Plain",
+        "s1loc": [
+            "A market town on the Avon below Stonehenge and Salisbury Plain, Amesbury sits in strongly rural, horse-and-livestock country. Avon Lodge Veterinary Group and the Sandwell Place chain practice cover small animals, with equine work nearby from Plain Equine over at Shrewton and Endell Equine toward Salisbury, alongside salon and mobile groomers, boarding kennels and catteries, and a spread of livery yards, riding stables and farms across the Plain villages of Bulford, Durrington and Shrewton.",
+            "Out here the work splits between small practices and the land. The branch surgery, the village groomer, the family boarding kennels and the downland livery yard are typically sole traders or small teams, with equine and farm work a bigger part of the picture than in town. They move straight from a clean consulting room to mud, hooves and weather on the Plain, so the workwear has to stay hygienic indoors and rugged enough for the yard and field.",
+        ],
+        "kit_loc": "across the town's consulting rooms, kennels and yards",
+        "s2_intro": "Whether you are an independent practice on Sandwell Place, a boarding kennels toward Bulford, a mobile groomer or an equine yard across Amesbury",
+    },
+    "bridlington": {
+        "region": "Bridlington and East Yorkshire",
+        "nearby": ["Beverley", "Scarborough", "Cottingham"],
+        "snapshot": "iNeedWorkwear supplies branded scrubs, tunics, polos, fleeces, waterproofs and safety footwear to vet practices, veterinary nurses, kennels, catteries, dog groomers and equine yards across Bridlington, from the seafront surgeries to the Wolds edge, embroidered in-house with the practice name. Veterinary and animal care is mostly small practices and sole traders, so the quickest route is to order direct online with no account, while a larger practice or group can set up a trade account.",
+        "s1_head": "Kitting the practices, kennels and yards of the East Yorkshire coast",
+        "s1loc": [
+            "Beyond the harbour and the seafront, Bridlington serves a wide coastal and Wolds-edge patch of animal care. Aldgate Veterinary Practice, which also runs at Driffield, Priory Vets, The Pet Clinic on Wellington Road and the Bessingby Road chain practice cover small animals, joined by salon and mobile dog groomers across Old Town and the resort, boarding kennels and catteries, and livery yards, riding stables and farms out on the Wolds toward Driffield, Flamborough and Rudston.",
+            "Trade here is small, seasonal and independent. The seaside practice, the home groomer, the family kennels and the Wolds livery yard are run by sole traders and small teams that flex with the holiday season, not by national chains. Each meets owners in a clean consulting room and then works hands-on through kennels, grooming rooms and exposed clifftop fields, so the kit needs to look professional and still take a battering from coastal wind and rain.",
+        ],
+        "kit_loc": "across the town's consulting rooms, kennels and yards",
+        "s2_intro": "Whether you are an independent practice on Wellington Road, a boarding kennels toward Flamborough, a mobile groomer or an equine yard across Bridlington",
+    },
+    "billingham": {
+        "region": "Billingham and Teesside",
+        "nearby": ["Stockton-on-Tees", "Thornaby-on-Tees", "Middlesbrough"],
+        "snapshot": "iNeedWorkwear supplies branded scrubs, tunics, polos, fleeces, waterproofs and safety footwear to vet practices, veterinary nurses, kennels, catteries, dog groomers and equine yards across Billingham, from the town surgeries to the rural fringe, embroidered in-house with the practice name. Veterinary and animal care is mostly small practices and sole traders, so the quickest route is to order direct online with no account, while a larger practice or group can set up a trade account.",
+        "s1_head": "Kitting the practices, kennels and yards of north Teesside",
+        "s1loc": [
+            "Set on the north bank of the Tees above Stockton, Billingham mixes a planned town centre with a green edge toward Wolviston and Cowpen Bewley. Bridge Veterinary Centre and Clifton Lodge on Station Road handle the small-animal work, part of groups reaching across Stockton, Middlesbrough and Hartlepool, with salon and mobile dog groomers around the estates, boarding kennels and catteries, and livery yards and paddocks out toward the country park and the villages on the rural fringe.",
+            "Across the patch the operators are mostly small and independent. The branch surgery, the one-room groomer, the family kennels and the part-time livery yard are run by small teams and sole traders rather than large chains. Each works clean and clinical with worried owners and then turns to baths, kennels and muddy paddocks, so the uniform has to wash hot and stay smart for the consulting room while shrugging off the hands-on, outdoor end of the job.",
+        ],
+        "kit_loc": "across the town's consulting rooms, kennels and yards",
+        "s2_intro": "Whether you are an independent practice on Station Road, a boarding kennels toward Wolviston, a mobile groomer or an equine yard across Billingham",
+    },
+}
