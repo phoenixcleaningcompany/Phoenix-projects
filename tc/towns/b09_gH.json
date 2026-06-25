@@ -1,0 +1,86 @@
+{
+  "burnham-on-sea": {
+    "region": "Burnham-on-Sea and Somerset",
+    "nearby": ["Bridgwater", "Weston-super-Mare", "Taunton"],
+    "snapshot": "Burnham-on-Sea and neighbouring Highbridge sit on the Somerset coast where full fibre and structured cabling keep field engineers busy. Big build contractors run crews on trade accounts and buy kit centrally, while ex-BT sole traders and independent broadband and CCTV installers order direct online with no account. A workwear supplier here has to serve the fleet and the one-van installer alike, side by side.",
+    "s1_head": "Kitting the field engineers of Somerset",
+    "s1loc": [
+      "Burnham-on-Sea and Highbridge have seen a multi-million pound full fibre build land in recent years, with Openreach passing more than 11,000 homes and businesses across the two towns and the surrounding Sedgemoor villages. Virgin Media O2 has pushed its own ultrafast network out under Project Lightning on top, so the streets, cabinets and customer premises along Berrow Road, Worston and out toward Brent Knoll and East Brent now carry competing networks. The build runs through delivery partners and civils crews, with a steady tail of broadband and CCTV installers picking up the connect work behind them.",
+      "Alongside the residential rollout sits a real commercial scene anchored on the Isleport Business Park and Oaktree Business Park at Highbridge, where occupiers like Yeo Valley and Bakkavor Desserts run sizeable sites close to the M5 Junction 22. Structured-cabling and fibre-optic firms wire these warehouses, the distribution units on Pillmore Lane and the offices along Burnham high street in Cat5e, Cat6 and fibre, and CCTV installers cover retail, holiday parks and seafront premises across the town and out toward Bridgwater and Weston-super-Mare."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Burnham-on-Sea, a structured-cabling firm or a one-van broadband installer toward Bridgwater"
+  },
+  "northwich": {
+    "region": "Northwich and Cheshire",
+    "nearby": ["Crewe", "Runcorn", "Macclesfield"],
+    "snapshot": "Northwich is one of the most competitive full fibre towns in Cheshire, which keeps field engineers busy across its streets, cabinets and customer premises. The national build contractors field whole crews on trade accounts and buy through procurement, while ex-BT sole traders and independent broadband and CCTV installers order direct online with no account. A workwear supplier here has to kit the fleet and the one-van installer alike.",
+    "s1_head": "Kitting the field engineers of Cheshire",
+    "s1loc": [
+      "Northwich has some of the highest alt-net competition in the country, with full fibre reaching the vast majority of premises and well over a dozen providers live across nearly 49,000 homes and businesses. Openreach has built heavily here, even piloting new install methods on the Long Wood Park and Hill Top Farm developments, while Zzoomm has run an eighteen million pound build of its own network through the town. Crews work through Rudheath, Winnington, Castle and Leftwich, so the streets and cabinets carry competing fibre and a steady flow of connect and repair work.",
+      "The commercial side is anchored on Gadbrook Park, the hundred-hectare business park at Rudheath, alongside Winnington Business Park and the Wincham Industrial Estate north of the town near the M6. Structured-cabling and fibre-optic firms wire these offices, warehouses and the units off Witton Street in Cat5e, Cat6 and fibre, and CCTV installers cover retail, the chemical-industry sites and multi-site businesses across Northwich and out toward Crewe and Macclesfield. It is a deep commercial market sitting right on top of the residential build."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Northwich, a structured-cabling firm or a one-van broadband installer toward Crewe"
+  },
+  "bangor": {
+    "region": "Bangor and Gwynedd",
+    "nearby": ["Llandudno", "Colwyn Bay", "Rhyl"],
+    "snapshot": "Bangor in Gwynedd is one of the North Wales market towns getting a full fibre upgrade, which keeps field engineers busy across the city's streets, cabinets and customer premises. The big build contractors run crews on trade accounts and buy centrally, while ex-BT sole traders and independent broadband and CCTV installers order direct online with no account. A workwear supplier here has to kit the fleet and the one-van installer alike.",
+    "s1_head": "Kitting the field engineers of Gwynedd",
+    "s1loc": [
+      "Bangor is one of the North Wales market towns Openreach is upgrading to gigabit-capable full fibre, much of it built commercially without taxpayer subsidy, with further hard-to-reach premises covered through Welsh and UK Government partnerships. Ogi, the home-grown Welsh network, is expanding its own full fibre build across the region alongside Openreach, so the streets and cabinets through Upper Bangor, Hirael, Maesgeirchen and Glanadda now carry competing networks. Crews work through delivery partners and civils firms, with a tail of broadband and CCTV installers picking up the connect work across the city.",
+      "Bangor University is the anchor of the local commercial scene, a research university whose campuses, halls and labs need constant structured cabling and fibre. Alongside it sit the Parc Menai business park, where Coleg Menai has its campus, and the Llandygai industrial estate and Parc Bryn Cegin off the A5 on the edge of the city. Cabling and fibre-optic firms wire offices, the hospital and education sites in Cat5e, Cat6 and fibre, and CCTV installers cover retail, the harbour and multi-site businesses across Bangor and out toward Llandudno and Colwyn Bay."
+    ],
+    "kit_loc": "across the city's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Bangor, a structured-cabling firm or a one-van broadband installer toward Llandudno"
+  },
+  "maesteg": {
+    "region": "Maesteg and Bridgend county",
+    "nearby": ["Bridgend", "Port Talbot", "Pontypridd"],
+    "snapshot": "Maesteg sits in the Llynfi valley in Bridgend county, where full fibre and structured cabling keep field engineers busy across the town's streets, cabinets and customer premises. The big build contractors run crews on trade accounts and buy centrally, while ex-BT sole traders and independent broadband and CCTV installers order direct online with no account. A workwear supplier here has to kit the fleet and the one-van installer alike.",
+    "s1_head": "Kitting the field engineers of Bridgend county",
+    "s1loc": [
+      "Maesteg was one of the early valleys towns named in Ogi's full fibre programme, with the home-grown Welsh network powering up the town alongside nearby Porthcawl across the wider Bridgend county build. Openreach has driven Welsh full fibre coverage past eighty per cent through its own commercial work and Welsh and UK Government partnerships, so the streets and cabinets through Nantyffyllon, Caerau, Garth and Llangynwyd now carry competing networks. Crews work through delivery partners and civils firms up the Llynfi valley, with a tail of broadband and CCTV installers picking up the connect work behind them.",
+      "The commercial side runs off the industrial units and trading estates along the valley floor and the wider Bridgend county economy, from Brynmenyn and the Bridgend Industrial Estate down toward Port Talbot. Structured-cabling and fibre-optic firms wire the workshops, schools and offices around Maesteg in Cat5e, Cat6 and fibre, and CCTV installers cover the town centre shops, the leisure centre and multi-site businesses across the valley. It is a steady commercial market sitting on top of the residential rollout, feeding work to cabling and broadband engineers alike."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Maesteg, a structured-cabling firm or a one-van broadband installer toward Bridgend"
+  },
+  "buckley": {
+    "region": "Buckley and Flintshire",
+    "nearby": ["Wrexham", "Rhyl", "Prestatyn"],
+    "snapshot": "Buckley in Flintshire sits in the busy North Wales and Deeside corridor, where full fibre and structured cabling keep field engineers busy across the town's streets, cabinets and customer premises. The big build contractors run crews on trade accounts and buy centrally, while ex-BT sole traders and independent broadband and CCTV installers order direct online with no account. A workwear supplier here has to kit the fleet and the one-van installer alike.",
+    "s1_head": "Kitting the field engineers of Flintshire",
+    "s1loc": [
+      "Buckley sits inside Openreach's Flintshire full fibre programme, which is upgrading towns and villages across the county to gigabit-capable broadband, backed in the harder-to-reach areas by UK and Welsh Government contracts. Work has run strongly through neighbouring Wrexham and the Deeside corridor, with gigabit fibre now reaching most premises in Flintshire, so the streets and cabinets through Buckley, Mynydd Isa, Drury and Bistre carry competing networks. Crews work through delivery partners and civils firms, with a tail of broadband and CCTV installers picking up the connect work across the town.",
+      "Buckley has a strong industrial base of its own, with the Spencer Industrial Estate, Globe Way and the Pinfold estate sitting between the town and the A494, all within reach of the A55 Expressway. Just down the road the vast Deeside Industrial Park runs to hundreds of acres of manufacturing and distribution space. Structured-cabling and fibre-optic firms wire these warehouses, workshops and offices in Cat5e, Cat6 and fibre, and CCTV installers cover the estates, retail and multi-site businesses across Buckley and out toward Wrexham and Prestatyn."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Buckley, a structured-cabling firm or a one-van broadband installer toward Wrexham"
+  },
+  "hythe": {
+    "region": "Hythe and Hampshire",
+    "nearby": ["Southampton", "Totton", "Eastleigh"],
+    "snapshot": "Hythe sits on the Waterside across Southampton Water in Hampshire, where full fibre and structured cabling keep field engineers busy across the town's streets, cabinets and customer premises. The big build contractors run crews on trade accounts and buy centrally, while ex-BT sole traders and independent broadband and CCTV installers order direct online with no account. A workwear supplier here has to kit the fleet and the one-van installer alike.",
+    "s1_head": "Kitting the field engineers of the Hampshire Waterside",
+    "s1loc": [
+      "Hythe sits in a busy Hampshire fibre market, with Giganet running a full fibre build across the Waterside that takes in Hythe along with Fawley and Marchwood, while Openreach extends its own FTTP through the area and Toob and CityFibre push gigabit networks across the wider Southampton patch. So the streets and cabinets through Hythe, Dibden, Dibden Purlieu and Holbury now carry competing networks. Crews work through delivery partners and civils firms along the Waterside, with a tail of broadband and CCTV installers picking up the connect work behind them across the town.",
+      "The commercial scene here is shaped by Southampton Water, with the huge Fawley refinery, the largest in the country, driving demand for precision engineering, fabrication and maintenance from Hythe-based firms, and the Marchwood Industrial Park and military port nearby. Structured-cabling and fibre-optic firms wire the offices, the marina village businesses and these industrial sites in Cat5e, Cat6 and fibre, and CCTV installers cover retail, the waterfront and multi-site businesses across Hythe and over the water toward Southampton and Totton."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Hythe, a structured-cabling firm or a one-van broadband installer toward Southampton"
+  },
+  "berkhamsted": {
+    "region": "Berkhamsted and Hertfordshire",
+    "nearby": ["Hemel Hempstead", "Chesham", "Watford"],
+    "snapshot": "Berkhamsted is one of the Hertfordshire towns getting a full fibre upgrade, which keeps field engineers busy across the town's streets, cabinets and customer premises. The big build contractors run crews on trade accounts and buy centrally, while ex-BT sole traders and independent broadband and CCTV installers order direct online with no account. A workwear supplier here has to kit the fleet and the one-van installer alike, side by side.",
+    "s1_head": "Kitting the field engineers of Hertfordshire",
+    "s1loc": [
+      "Berkhamsted is part of Openreach's Hertfordshire full fibre rollout, with engineers building a new gigabit-capable network expected to reach the majority of local homes and businesses, alongside neighbouring Tring and a string of other local communities. The build supports Hertfordshire County Council's and the Hertfordshire Growth Board's connectivity mission, and Gigaclear has reached communities across the county too, so the streets and cabinets along the High Street, Northchurch, Castle and Sunnyside now carry full fibre. Crews work through delivery partners and civils firms, with a tail of broadband and CCTV installers picking up the connect work across the town.",
+      "Berkhamsted has a busy commercial centre strung along its historic High Street and the Grand Union Canal, with offices, professional firms and independent retailers all needing structured cabling, plus the larger employment sites and trading estates shared with nearby Hemel Hempstead down the A41. Cabling and fibre-optic firms wire these offices, schools and multi-site businesses in Cat5e, Cat6 and fibre, and CCTV installers cover the town centre, the station approaches and commercial premises across Berkhamsted and out toward Chesham and Watford. It is a steady commercial market sitting on top of the residential build."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Berkhamsted, a structured-cabling firm or a one-van broadband installer toward Hemel Hempstead"
+  }
+}

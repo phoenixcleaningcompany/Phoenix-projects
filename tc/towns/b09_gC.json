@@ -1,0 +1,86 @@
+{
+  "clevedon": {
+    "region": "Clevedon and North Somerset",
+    "nearby": ["Portishead", "Weston-super-Mare", "Bristol"],
+    "snapshot": "Clevedon sits in the North Somerset full-fibre build, and its telecoms trade runs two ways. The build contractors and cabling firms putting crews across the town tend to run trade accounts and kit whole teams in branded workwear, while the ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run both routes side by side, serving the fleet and the single installer alike across Clevedon and the wider coast.",
+    "s1_head": "Kitting the field engineers of Clevedon and North Somerset",
+    "s1loc": [
+      "Clevedon is well into its full-fibre build. Openreach has pushed fibre-to-the-premises across the town as part of a wider North Somerset programme, Bath-based alt-net Truespeed has added Clevedon to its fibre-to-the-premises plan, and Virgin Media is layered on top, with Project Gigabit work reaching the harder spots out toward Yatton and Kenn. Engineers from the major fibre and mobile networks work the streets and cabinets across districts like Old Church Road, Hill Road, East Clevedon, Walton and the seafront, with civils crews and delivery partners trenching and pulling fibre right across the town.",
+      "Alongside the residential rollout sits a steady commercial scene. Structured-cabling and CCTV installers wire offices, units and warehouses in Cat5e, Cat6 and fibre across the Hither Green Trading Estate and Kenn Road Business Park near Junction 20 of the M5, the Tweed Road industrial estate and the 5C Business Centre on Strode Road, with multi-site work running out toward Portishead. The trade runs from contractors cabling whole office blocks to one-van installers fitting a single shopfront camera, and all of them need hard-wearing branded workwear for work across the town's premises."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Clevedon, a structured-cabling firm or a one-van broadband installer toward Portishead"
+  },
+  "reigate": {
+    "region": "Reigate and Surrey",
+    "nearby": ["Redhill", "Horley", "Crawley"],
+    "snapshot": "Reigate sits in the Surrey full-fibre build, and its telecoms trade runs two ways. The build contractors and cabling firms putting crews across the town tend to run trade accounts and kit whole teams in branded workwear, while the ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run both routes side by side, serving the fleet and the single installer alike across Reigate and the wider borough.",
+    "s1_head": "Kitting the field engineers of Reigate and Surrey",
+    "s1loc": [
+      "Reigate is well into its full-fibre build. Openreach is installing fibre-to-the-premises across the town and the wider borough, alt-nets are building alongside through the Reigate and Redhill area, and Virgin Media is overlaying its network to full fibre on top. Engineers from the major fibre and mobile networks work the streets and cabinets across districts like Reigate town centre, Meadvale, Woodhatch, South Park and the Reigate Hill area, with civils crews and delivery partners trenching and pulling fibre right across this corner of Surrey.",
+      "Alongside the residential rollout sits a real commercial scene. Structured-cabling and CCTV installers wire offices, units and warehouses in Cat5e, Cat6 and fibre across the Albert Road North industrial estate in Reigate, the Holmethorpe and Perrywood estates and Reading Arch Road over in neighbouring Redhill, with multi-site work running out toward Horley. The trade runs from contractors cabling whole office blocks to one-van installers fitting a single shopfront camera, and all of them need durable branded workwear for work across the town's premises."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Reigate, a structured-cabling firm or a one-van broadband installer toward Redhill"
+  },
+  "horley": {
+    "region": "Horley and Surrey",
+    "nearby": ["Redhill", "Reigate", "Crawley"],
+    "snapshot": "Horley sits in the Surrey full-fibre build, and its telecoms trade runs two ways. The build contractors and cabling firms putting crews across the town tend to run trade accounts and kit whole teams in branded workwear, while the ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run both routes side by side, serving the fleet and the single installer alike across Horley and the Gatwick fringe.",
+    "s1_head": "Kitting the field engineers of Horley and Surrey",
+    "s1loc": [
+      "Horley is well into its full-fibre build. Openreach is installing fibre-to-the-premises across the town and the wider Reigate and Banstead borough, alt-nets are building alongside through the Horley and Salfords area, and Virgin Media is layered on top. Engineers from the major fibre and mobile networks work the streets and cabinets across districts like Horley town centre, Langshott, Meath Green, the Balcombe Road area and the Gatwick fringe, with civils crews and delivery partners trenching and pulling fibre right across this corner of Surrey.",
+      "Alongside the residential rollout sits a busy commercial scene. Structured-cabling and CCTV installers wire offices, units and warehouses in Cat5e, Cat6 and fibre across Gatwick Business Park on Reigate Road, the North Gatwick Gateway on Cross Oak Lane, and the Gatwick Metro Centre and Bridge Industrial Estate on Balcombe Road over toward Salfords, with multi-site work running out toward Crawley. The trade runs from contractors cabling whole office blocks to one-van installers fitting a single shopfront camera, and all of them need hard-wearing branded workwear for work across the town's premises."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Horley, a structured-cabling firm or a one-van broadband installer toward Redhill"
+  },
+  "godalming": {
+    "region": "Godalming and Surrey",
+    "nearby": ["Guildford", "Farnham", "Aldershot"],
+    "snapshot": "Godalming sits in the Surrey full-fibre build, and its telecoms trade runs two ways. The build contractors and cabling firms putting crews across the town tend to run trade accounts and kit whole teams in branded workwear, while the ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run both routes side by side, serving the fleet and the single installer alike across Godalming and the wider Waverley area.",
+    "s1_head": "Kitting the field engineers of Godalming and Surrey",
+    "s1loc": [
+      "Godalming is well into its full-fibre build. Openreach is upgrading the town to fibre-to-the-premises across the wider Surrey programme, nexfibre is installing full fibre into Farncombe and Godalming through its wholesale agreement with Virgin Media O2, and Virgin Media is layered on top. Engineers from the major fibre and mobile networks work the streets and cabinets across districts like Central and Ockford, Farncombe, Catteshall, Binscombe and Holloway Hill, with civils crews and delivery partners trenching and pulling fibre right across this corner of Surrey.",
+      "Alongside the residential rollout sits a strong commercial scene. Structured-cabling and CCTV installers wire offices, studios and units in Cat5e, Cat6 and fibre across the Catteshall commercial estate, where high-tech firms and the Surrey Data Park sit, the Tanshire Business Park nearby and the Ockford Mill office cluster, with multi-site work running out toward Guildford. The trade runs from contractors cabling whole office floors to one-van installers fitting a single shopfront camera, and all of them need durable branded workwear for work across the town's premises."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Godalming, a structured-cabling firm or a one-van broadband installer toward Guildford"
+  },
+  "sandhurst": {
+    "region": "Sandhurst and Berkshire",
+    "nearby": ["Camberley", "Bracknell", "Wokingham"],
+    "snapshot": "Sandhurst sits in the Berkshire full-fibre build, and its telecoms trade runs two ways. The build contractors and cabling firms putting crews across the town tend to run trade accounts and kit whole teams in branded workwear, while the ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run both routes side by side, serving the fleet and the single installer alike across Sandhurst and the wider Bracknell Forest area.",
+    "s1_head": "Kitting the field engineers of Sandhurst and Berkshire",
+    "s1loc": [
+      "Sandhurst is part of a busy Berkshire full-fibre build, with more than half the county now able to order full fibre after Openreach took the technology past around 215,000 premises. Openreach is installing fibre-to-the-premises across the town, alt-nets are building alongside through the wider Bracknell Forest area, and Virgin Media is layered on top. Engineers from the major fibre and mobile networks work the streets and cabinets across districts like Little Sandhurst, College Town, Owlsmoor and the Yorktown Road area, with civils crews and delivery partners trenching and pulling fibre right across the town and out toward Crowthorne.",
+      "Alongside the residential rollout sits a steady commercial scene. Structured-cabling and CCTV installers wire offices, units and warehouses in Cat5e, Cat6 and fibre across the Yorktown industrial area, the commercial units along the A321 and the trading estates that sit between Sandhurst and College Town, with multi-site work running out toward Camberley. The trade runs from contractors cabling whole office floors to one-van installers fitting a single shopfront camera, and all of them need hard-wearing branded workwear for work across the town's premises."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Sandhurst, a structured-cabling firm or a one-van broadband installer toward Camberley"
+  },
+  "woodley": {
+    "region": "Woodley and Berkshire",
+    "nearby": ["Reading", "Wokingham", "Bracknell"],
+    "snapshot": "Woodley sits in the Reading and Wokingham full-fibre build, and its telecoms trade runs two ways. The build contractors and cabling firms putting crews across the town tend to run trade accounts and kit whole teams in branded workwear, while the ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run both routes side by side, serving the fleet and the single installer alike across Woodley and the wider Wokingham area.",
+    "s1_head": "Kitting the field engineers of Woodley and Berkshire",
+    "s1loc": [
+      "Woodley is part of a heavy Reading and Wokingham full-fibre build. CityFibre has declared its primary full-fibre rollout complete across the Wokingham borough, which takes in Woodley, Openreach is installing fibre-to-the-premises across the town, and Virgin Media is layered on top. Engineers from the major fibre and mobile networks work the streets and cabinets across districts like Bulmershe, Loddon Bridge, Coronation, South Lake and the Headley Road area, with civils crews and delivery partners trenching and pulling fibre right across the town and out toward Earley.",
+      "Alongside the residential rollout sits a strong commercial scene. Structured-cabling and CCTV installers wire offices, units and warehouses in Cat5e, Cat6 and fibre across Suttons Business Park at Earley off the A329(M), the Hurricane Urban Hub and the industrial units on Headley Road East, with multi-site work running out toward Reading. The trade runs from contractors cabling whole office blocks to one-van installers fitting a single shopfront camera, and all of them need durable branded workwear for work across the town's premises."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Woodley, a structured-cabling firm or a one-van broadband installer toward Reading"
+  },
+  "crowborough": {
+    "region": "Crowborough and East Sussex",
+    "nearby": ["Tunbridge Wells", "East Grinstead", "Hailsham"],
+    "snapshot": "Crowborough sits in the East Sussex full-fibre build, and its telecoms trade runs two ways. The build contractors and cabling firms putting crews across the town tend to run trade accounts and kit whole teams in branded workwear, while the ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run both routes side by side, serving the fleet and the single installer alike across Crowborough and the wider Weald.",
+    "s1_head": "Kitting the field engineers of Crowborough and East Sussex",
+    "s1loc": [
+      "Crowborough is moving from fibre-to-the-cabinet onto a full-fibre build. Openreach is installing fibre-to-the-premises across the town, alt-net Trooli has extended its gigabit fibre-to-the-premises network into the area with Crowborough among the first communities to benefit, and Virgin Media is layered on top, with earlier eSussex programme work behind it. Engineers from the major fibre and mobile networks work the streets and cabinets across districts like Jarvis Brook, Poundfield, Whitehill, St Johns and Steel Cross, with civils crews and delivery partners trenching and pulling fibre right across this corner of the High Weald.",
+      "Alongside the residential rollout sits a working commercial scene. Structured-cabling and CCTV installers wire offices, units and warehouses in Cat5e, Cat6 and fibre across the Pine Grove Enterprise Centre, the Millbrook and Farningham Road industrial estates at Jarvis Brook and the Jarvis Brook goods yard units, with multi-site work running out toward Tunbridge Wells. The trade runs from contractors cabling whole office floors to one-van installers fitting a single shopfront camera, and all of them need hard-wearing branded workwear for work across the town's premises."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Crowborough, a structured-cabling firm or a one-van broadband installer toward Tunbridge Wells"
+  }
+}

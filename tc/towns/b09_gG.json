@@ -1,0 +1,86 @@
+{
+  "failsworth": {
+    "region": "Failsworth and Greater Manchester",
+    "nearby": ["Oldham", "Manchester", "Middleton"],
+    "snapshot": "Failsworth sits on the Manchester to Oldham corridor and the full-fibre build runs straight through it. Build contractors here run crews on trade accounts and buy their workwear through procurement, while a long tail of ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. A workwear supplier has to serve both, so we run trade accounts and direct online ordering side by side for the town.",
+    "s1_head": "Kitting the field engineers of Greater Manchester",
+    "s1loc": [
+      "Failsworth sits on the eastern edge of Greater Manchester between the city and Oldham, and the full-fibre build runs right through it. Openreach has crews pushing fibre across the district while alternative networks build alongside - brsk is rolling out across Greater Manchester through Failsworth, Newton Heath and into Middleton and Oldham, and Virgin Media O2 keeps upgrading on top. Engineers work through Daisy Nook, Hollinwood, Woodhouses and the Medlock Valley terraces, hauling cable across streets, jointing chambers and customer premises as the gigabit rollout pushes out from the city into the surrounding districts.",
+      "Alongside the residential rollout sits a steady commercial scene. Structured-cabling and fibre firms wire offices, warehouses and multi-site businesses along the Oldham Road corridor and around the industrial units off Ashton Road East in Cat5e, Cat6 and fibre, while CCTV installers fit and maintain systems across retail parades and the trading estates that ring the town. The mix runs from national build contractors fielding whole crews to independent telephone, broadband and CCTV engineers taking on work for homes and small businesses, all needing branded, hard-wearing kit for daily work on the network."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Failsworth, a structured-cabling firm or a one-van broadband installer toward Oldham"
+  },
+  "colne": {
+    "region": "Colne and Pendle",
+    "nearby": ["Nelson", "Burnley", "Accrington"],
+    "snapshot": "Colne is a Pendle market town on the M65 corridor and the full-fibre build is well underway. Build contractors run crews on trade accounts and buy centrally, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. A workwear supplier here has to kit the fleet and the one-person installer alike, which is why we run trade accounts for the crews and direct online ordering for everyone else across the town.",
+    "s1_head": "Kitting the field engineers of Pendle and East Lancashire",
+    "s1loc": [
+      "Colne sits at the top of the Pendle valley northeast of Nelson and Burnley, and full fibre is going in across the town. Openreach has been building its FTTP network through the terraced streets off Albert Road and Keighley Road, while the alternative networks build alongside - YouFibre and Netomnia have extended full fibre across East Lancashire, reaching Pendle towns through contractors as the gigabit rollout pushes up the M65 corridor. Engineers work through Waterside, Primet, Vivary and the town-centre streets, pulling cable across cobbled lanes, jointing chambers and connecting homes and businesses to gigabit-capable services.",
+      "Alongside the residential build sits a commercial scene rooted in the old mill economy. Structured-cabling and fibre firms wire offices, factory units and multi-site businesses around Vivary Way and the Boundary Mill commercial area, plus the industrial units along the M65 toward Nelson, working in Cat5e, Cat6 and fibre. CCTV installers fit and maintain systems across retail parks and trading estates, and the trade runs from larger build contractors fielding crews to independent broadband, telephone and CCTV engineers serving homes and small firms across Pendle, all needing durable branded workwear for the job."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Colne, a structured-cabling firm or a one-van broadband installer toward Nelson"
+  },
+  "bingley": {
+    "region": "Bingley and the City of Bradford",
+    "nearby": ["Bradford", "Keighley", "Shipley"],
+    "snapshot": "Bingley sits in the Aire Valley within the City of Bradford and the full-fibre build runs through the town. Build contractors run crews on trade accounts and buy through procurement, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. A workwear supplier here has to serve the fleet and the one-van installer alike, which is why we run trade accounts and direct online ordering side by side for the town.",
+    "s1_head": "Kitting the field engineers of the Aire Valley",
+    "s1loc": [
+      "Bingley sits in the Aire Valley between Shipley and Keighley within the City of Bradford, and full fibre is going in across the town. Openreach named Bingley among its Yorkshire build locations, with crews pushing FTTP through Crossflatts, Cottingley, Eldwick, Gilstead and Micklethwaite along the A650 corridor, while the alternative networks build alongside - Quickline has extended full fibre across West Yorkshire and CityFibre is active across the wider Bradford district. Engineers work the canal-side terraces and valley streets, hauling cable across the network, jointing chambers and connecting homes and businesses to gigabit-capable services.",
+      "Alongside the residential rollout sits a genuine commercial base. Bingley is home to large employers including Computershare, Damart and Emerald Publishing, and structured-cabling and fibre firms wire offices and multi-site businesses around Cottingley Business Park and the former mill sites in Cat5e, Cat6 and fibre. CCTV installers fit and maintain systems across the trading estates and the town centre, and the trade runs from build contractors fielding crews to independent broadband, telephone and CCTV engineers serving homes and businesses across the Aire Valley, all needing branded, hard-wearing workwear for daily work."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Bingley, a structured-cabling firm or a one-van broadband installer toward Bradford"
+  },
+  "mirfield": {
+    "region": "Mirfield and Kirklees",
+    "nearby": ["Dewsbury", "Batley", "Brighouse"],
+    "snapshot": "Mirfield is a Kirklees town on the Calder valley and the full-fibre build is well advanced. Build contractors run crews on trade accounts and buy centrally, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. A workwear supplier here has to kit the fleet and the one-person installer alike, which is why we run trade accounts for the crews and direct online ordering for everyone else across the town.",
+    "s1_head": "Kitting the field engineers of Kirklees",
+    "s1loc": [
+      "Mirfield sits on the River Calder between Dewsbury and Brighouse in Kirklees, and full fibre is well advanced here. Openreach has invested in a Full Fibre network reaching the great majority of the town, with crews working through the streets off Huddersfield Road and Newgate, while CityFibre has built across the town as part of its Kirklees rollout, with the gigabit network reaching almost every home and business. Engineers continue connecting homes and businesses, pulling cable across the network, jointing chambers and bringing gigabit-capable services to premises along the canal and the valley.",
+      "Alongside the residential build sits a steady commercial scene. Structured-cabling and fibre firms wire offices, workshops and multi-site businesses around the industrial units off Calder Road and the trading estates toward Dewsbury and Batley in Cat5e, Cat6 and fibre, while CCTV installers fit and maintain systems across retail parades and business premises. The trade runs from build contractors fielding crews of engineers to independent broadband, telephone and CCTV installers serving homes and small businesses across Kirklees, all needing durable branded workwear for everyday work on the network."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Mirfield, a structured-cabling firm or a one-van broadband installer toward Dewsbury"
+  },
+  "yeadon": {
+    "region": "Yeadon and the City of Leeds",
+    "nearby": ["Leeds", "Guiseley", "Bradford"],
+    "snapshot": "Yeadon sits beside Leeds Bradford Airport within the City of Leeds and the full-fibre build runs through the town. Build contractors run crews on trade accounts and buy through procurement, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. A workwear supplier here has to serve the fleet and the one-van installer alike, which is why we run trade accounts and direct online ordering side by side for the town.",
+    "s1_head": "Kitting the field engineers of Aireborough",
+    "s1loc": [
+      "Yeadon sits beside Leeds Bradford Airport in the old Aireborough district within the City of Leeds, alongside Guiseley and Rawdon, and full fibre is going in across the area. Openreach has crews pushing FTTP through the streets off the A658 Harrogate Road and the town centre, while CityFibre - whose Leeds programme is one of the strongest full-fibre footprints outside London - and Quickline build across West Yorkshire alongside the residential rollout. Engineers work the hillside terraces and valley lanes, hauling cable across the network, jointing chambers and connecting homes and businesses to gigabit-capable services.",
+      "Alongside the residential build sits a genuine commercial base. The Leeds Bradford Airport Industrial Estate fronts the Harrogate Road with occupiers from logistics to wholesale, and structured-cabling and fibre firms wire offices, warehouses and multi-site businesses there and around the airport in Cat5e, Cat6 and fibre. CCTV installers fit and maintain systems across the estate, the airport perimeter and local trading parks, and the trade runs from build contractors fielding crews to independent broadband, telephone and CCTV engineers serving homes and businesses across Aireborough, all needing branded, hard-wearing workwear."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Yeadon, a structured-cabling firm or a one-van broadband installer toward Leeds"
+  },
+  "peterlee": {
+    "region": "Peterlee and County Durham",
+    "nearby": ["Seaham", "Sunderland", "Hartlepool"],
+    "snapshot": "Peterlee is a County Durham new town near the coast and the full-fibre build runs through it. Build contractors run crews on trade accounts and buy centrally, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. A workwear supplier here has to kit the fleet and the one-person installer alike, which is why we run trade accounts for the crews and direct online ordering for everyone else across the town.",
+    "s1_head": "Kitting the field engineers of County Durham",
+    "s1loc": [
+      "Peterlee sits on the County Durham coast between Seaham and Hartlepool, and full fibre is going in across the town. Openreach has been building its FTTP network through the estates and town-centre streets as part of a major County Durham investment, while the alternative networks build alongside - Netomnia has extended full fibre across Peterlee, with crews pushing gigabit-capable connections out through the residential areas. Engineers work the new-town layout and surrounding villages, hauling cable across the network, jointing chambers and connecting homes and businesses to gigabit-capable broadband services.",
+      "Alongside the residential rollout sits a strong industrial base. Peterlee is ringed by the North East and North West Industrial Estates and Peterlee Business Park, home to manufacturers, logistics and engineering firms, and structured-cabling and fibre installers wire factory units, offices and multi-site businesses there in Cat5e, Cat6 and fibre. CCTV installers fit and maintain systems across the estates and town-centre premises, and the trade runs from build contractors fielding crews of engineers to independent broadband, telephone and CCTV installers serving homes and businesses across the area, all needing durable branded workwear."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Peterlee, a structured-cabling firm or a one-van broadband installer toward Seaham"
+  },
+  "faversham": {
+    "region": "Faversham and Kent",
+    "nearby": ["Sittingbourne", "Canterbury", "Whitstable"],
+    "snapshot": "Faversham is a Kent market town in the Swale district and the full-fibre build is underway. Build contractors run crews on trade accounts and buy through procurement, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. A workwear supplier here has to serve the fleet and the one-van installer alike, which is why we run trade accounts and direct online ordering side by side for the town.",
+    "s1_head": "Kitting the field engineers of Swale and east Kent",
+    "s1loc": [
+      "Faversham sits in the Swale district of Kent between Sittingbourne and Canterbury, near the north Kent coast, and full fibre is going in across the town. Openreach ranks Faversham among its top Kent locations for FTTP coverage, with crews building through the historic streets off Preston Street and West Street and out into the surrounding villages, though some streets with no underground ducting still await build. Engineers continue connecting homes and businesses, hauling cable across the network, jointing chambers and bringing gigabit-capable services to premises across the town and toward the coast.",
+      "Alongside the residential build sits a genuine commercial scene. Faversham is home to Shepherd Neame, Britain's oldest brewer, and a cluster of food, drink and engineering firms around the Creek and the industrial units off Western Link and the Oare Road area, where structured-cabling and fibre installers wire offices, production sites and multi-site businesses in Cat5e, Cat6 and fibre. CCTV installers fit and maintain systems across the town centre, the trading estates and waterside premises, and the trade runs from build contractors fielding crews to independent broadband, telephone and CCTV engineers serving homes and businesses across Swale, all needing branded, hard-wearing workwear."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Faversham, a structured-cabling firm or a one-van broadband installer toward Sittingbourne"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "horwich": {
+    "region": "Horwich and Greater Manchester",
+    "nearby": ["Bolton", "Chorley", "Wigan"],
+    "snapshot": "Horwich, on the north-western edge of Bolton, sits in the middle of a busy full-fibre build, and the trade that does the work splits two ways. National build contractors and structured-cabling firms run fleets of engineers and order through trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run both routes side by side so every crew and every single-hander gets kitted the same way.",
+    "s1_head": "Kitting the field engineers of Greater Manchester",
+    "s1loc": [
+      "Horwich is part of the wider Bolton full-fibre build, where more than thirty thousand homes and businesses across Bolton, Horwich and Westhoughton can already reach gigabit speeds. Openreach has pushed fibre out through Horwich, Blackrod, Lostock and Middlebrook, CityFibre is building across a large slice of the borough alongside its delivery partners, and Virgin Media keeps upgrading on top. Build contractors and civils crews are a regular sight working the streets, footways and cabinets from the town centre out toward Rivington and the M61 at junction six, splicing and pulling fibre into each new estate.",
+      "Alongside the residential rollout sits a solid commercial scene. Middlebrook, the huge retail, leisure and business park off De Havilland Way, plus the trade and industrial units around Chorley New Road and Lostock, give structured-cabling and CCTV firms a steady run of offices, warehouses and units to wire in Cat5e, Cat6 and fibre. Add the shops, gyms and the Bolton Wanderers stadium at Middlebrook, the schools across Horwich and a long tail of small businesses, and there is constant demand for network points, door entry and camera installs across the town."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Horwich, a structured-cabling firm or a one-van broadband installer toward Chorley"
+  },
+  "hailsham": {
+    "region": "Hailsham and East Sussex",
+    "nearby": ["Eastbourne", "Bexhill-on-Sea", "Crowborough"],
+    "snapshot": "Hailsham, the busy market town north of Eastbourne, is in the middle of a full-fibre build, and the installers doing it order two ways. Build contractors and cabling firms field fleets of engineers on trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers buy direct online with no account. We run trade accounts for the crews and direct online ordering for everyone else, so the fleet and the single-hander get the same branded kit.",
+    "s1_head": "Kitting the field engineers of East Sussex",
+    "s1loc": [
+      "Hailsham is a strong full-fibre town. Lightning Fibre, the locally based East Sussex network operator that also serves Eastbourne, Hastings and Heathfield, has built its own symmetric fibre across Hailsham rather than leaning only on shared ducts, and Openreach is extending fibre to more homes and businesses around the town on top. That mix of a local alt-net laying brand-new infrastructure and the national rollout means civils gangs and fibre engineers are working the streets, verges and cabinets across Hailsham, from the town centre out toward Hellingly, Polegate and the surrounding villages.",
+      "The commercial side keeps the cabling and CCTV trade busy too. Diplocks Industrial Estate and the units around Station Road and the Hailsham bypass house warehouses, trade counters and light-industrial firms that need structured cabling, network points and camera systems wired in Cat5e, Cat6 and fibre. Add the schools, the busy market and Quintins shopping centre, the leisure centre and a long tail of independent shops and offices along the High Street, and there is steady work for installers fitting data, door entry and CCTV across the town."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Hailsham, a structured-cabling firm or a one-van broadband installer toward Eastbourne"
+  },
+  "chesham": {
+    "region": "Chesham and Buckinghamshire",
+    "nearby": ["Hemel Hempstead", "Berkhamsted", "High Wycombe"],
+    "snapshot": "Chesham, in the Chiltern hills of Buckinghamshire, is seeing full fibre pushed out across the town, and the trade that installs it orders two ways. Build contractors and structured-cabling firms run fleets of engineers on trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers buy direct online with no account. We run both routes together so every crew and every single-hander gets kitted the same way.",
+    "s1_head": "Kitting the field engineers of Buckinghamshire",
+    "s1loc": [
+      "Chesham sits inside a real full-fibre push. Openreach has been building fibre to the premises across the town and the wider Chesham and Amersham area, while CityFibre is rolling out across Buckinghamshire, including its Project Gigabit work reaching harder-to-serve premises around the county. FW Networks has also brought full fibre to parts of Chesham. With several networks live at once, civils crews and fibre engineers are a regular sight working the streets, footways and cabinets from the town centre out toward Waterside, Newtown and the lanes climbing into the Chilterns.",
+      "The commercial scene gives the cabling and CCTV trade plenty to do. Industrial and trade units around Asheridge Road and Lycrome Road, plus the businesses along the Broadway and Germain Street, need structured cabling, network points and camera systems wired in Cat5e, Cat6 and fibre. Add the town's schools, the market and the long tail of independent shops, workshops and offices that fill Chesham's old town, and there is steady demand for data, door entry and CCTV installs across the town for the firms that cover this corner of the Chilterns."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Chesham, a structured-cabling firm or a one-van broadband installer toward Hemel Hempstead"
+  },
+  "gainsborough": {
+    "region": "Gainsborough and Lincolnshire",
+    "nearby": ["Retford", "Lincoln", "Scunthorpe"],
+    "snapshot": "Gainsborough, the riverside town on the Trent in West Lindsey, is getting full fibre across its streets, and the installers doing it order two ways. Build contractors and cabling firms field fleets of engineers on trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers buy direct online with no account. We run trade accounts for the crews and direct online ordering for everyone else, so the fleet and the single-hander get the same kit.",
+    "s1_head": "Kitting the field engineers of Lincolnshire",
+    "s1loc": [
+      "Gainsborough has several full-fibre networks at work. Grain is live in the town and adding more homes, building across the west side around Morton Road, Morton Terrace, North Street and Trinity Street, Openreach is extending fibre to more premises across Gainsborough, and Quickline is pushing gigabit full fibre into the rural West Lindsey villages around the town under Project Gigabit. With more than one network building at once, civils gangs and fibre engineers are working the streets, verges and cabinets from the town centre out toward Morton and the surrounding Trentside villages.",
+      "The commercial side keeps the cabling and CCTV trade busy. Gainsborough has a real industrial heritage, and the estates around Corringham Road, Heapham Road and the riverside, home to manufacturing, packaging and engineering firms, need structured cabling, network points and camera systems wired in Cat5e, Cat6 and fibre. Add the Marshall's Yard retail and office development on the old Marshall engineering site, the town's schools and the spread of shops and offices around Market Place, and there is steady work fitting data, door entry and CCTV across the town."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Gainsborough, a structured-cabling firm or a one-van broadband installer toward Retford"
+  },
+  "renfrew": {
+    "region": "Renfrew and Renfrewshire",
+    "nearby": ["Paisley", "Glasgow", "Clydebank"],
+    "snapshot": "Renfrew, on the Clyde beside Glasgow Airport, is in the middle of a major full-fibre build, and the trade that does the work orders two ways. Build contractors and structured-cabling firms run fleets of engineers on trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run trade accounts for the crews and direct online ordering for everyone else, so the fleet and the single-hander get the same branded kit.",
+    "s1_head": "Kitting the field engineers of Renfrewshire",
+    "s1loc": [
+      "Renfrew was among the first parts of west central Scotland to get full fibre. CityFibre, with construction by its delivery partner PMK, made Paisley and Renfrew its first live areas in the region, reaching the Arkleston area and pushing on across Renfrewshire toward Elderslie, Johnstone and Linwood. Openreach engineers have also delivered fibre to thousands more properties across Renfrew, Erskine and Paisley. With both networks building at once, civils gangs and fibre engineers are working the streets, footways and cabinets from the town centre out toward the riverside and the airport.",
+      "The commercial scene is heavyweight. Westway, beside Glasgow Airport off Porterfield Road, is one of Scotland's largest enclosed industrial estates and home to firms like Doosan Babcock, Star Refrigeration and the National Manufacturing Institute Scotland, while the wider Advanced Manufacturing Innovation District and the units toward Hillington give structured-cabling and CCTV firms warehouses, offices and factories to wire in Cat5e, Cat6 and fibre. Add the schools, retail and a long tail of small businesses, and there is constant demand for data, door entry and camera installs across the town."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Renfrew, a structured-cabling firm or a one-van broadband installer toward Paisley"
+  },
+  "bellshill": {
+    "region": "Bellshill and North Lanarkshire",
+    "nearby": ["Motherwell", "Hamilton", "Coatbridge"],
+    "snapshot": "Bellshill, the North Lanarkshire town between the M8 and M74, is seeing full fibre pushed across its streets, and the installers doing it order two ways. Build contractors and cabling firms field fleets of engineers on trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers buy direct online with no account. We run trade accounts for the crews and direct online ordering for everyone else, so the fleet and the single-hander get the same kit.",
+    "s1_head": "Kitting the field engineers of North Lanarkshire",
+    "s1loc": [
+      "Bellshill is part of the wider Lanarkshire full-fibre build. Openreach has been extending gigabit fibre to the premises across Bellshill, Mossend, Holytown and the neighbouring towns, with build also reaching nearby Blantyre, Bothwell and Hamilton, while Virgin Media keeps upgrading its network on top. With fibre going in across the area, civils gangs and fibre engineers are a regular sight working the streets, footways and cabinets from the town centre out toward Mossend and the motorway corridor that ties Bellshill into the Glasgow and Edinburgh routes.",
+      "The commercial side is a real strength. Strathclyde Business Park, the premier office and industrial location off the M8, plus Western Campus, Eurocentral and the trade and distribution units around Belgrave Street and Rosehall Road, home to occupiers like DHL, Scania and Screwfix, give structured-cabling and CCTV firms warehouses, depots and offices to wire in Cat5e, Cat6 and fibre. Add the schools, retail and a long tail of small businesses across Bellshill, and there is steady work fitting data, door entry and camera systems across the town."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Bellshill, a structured-cabling firm or a one-van broadband installer toward Motherwell"
+  },
+  "shoreham-by-sea": {
+    "region": "Shoreham-by-Sea and West Sussex",
+    "nearby": ["Worthing", "Hove", "Lancing"],
+    "snapshot": "Shoreham-by-Sea, the harbour town on the West Sussex coast, is seeing full fibre and gigabit networks reach across the town, and the trade that installs it orders two ways. Build contractors and cabling firms run fleets of engineers on trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run both routes side by side so every crew and every single-hander gets kitted the same way.",
+    "s1_head": "Kitting the field engineers of West Sussex",
+    "s1loc": [
+      "Shoreham-by-Sea sits in a busy build. Virgin Media owns and runs its own full-fibre network reaching large parts of the town at gigabit speeds, Openreach is extending fibre to the premises across Shoreham and the coastal strip, and Hyperoptic serves homes here too, while CityFibre is delivering the wider Sussex Project Gigabit rollout into harder-to-reach areas across West Sussex from 2026. With several networks live at once, civils gangs and fibre engineers are working the streets, footways and cabinets from the High Street out toward Shoreham Beach, Southwick and the harbour.",
+      "The commercial scene gives the cabling and CCTV trade plenty to do. Shoreham Airport and the businesses around it, the units along Brighton Road and the industrial estates toward Southwick and the port at Shoreham Harbour, plus the wharfside and aggregates operations on the Adur, need structured cabling, network points and camera systems wired in Cat5e, Cat6 and fibre. Add the schools, the shops and offices around East Street and the long tail of independent businesses across the town, and there is steady demand for data, door entry and CCTV installs."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Shoreham-by-Sea, a structured-cabling firm or a one-van broadband installer toward Worthing"
+  }
+}
