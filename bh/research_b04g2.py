@@ -1,0 +1,86 @@
+NEW = {
+ "newcastle-under-lyme": {
+  "region":"Newcastle-under-Lyme and Staffordshire",
+  "nearby":["Stoke-on-Trent","Kidsgrove","Crewe"],
+  "snapshot":"iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Newcastle-under-Lyme, from the High Street and Ironmarket salons to the suburban barber parades, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head":"Kitting the salons, barbers and spas of the Potteries",
+  "s1loc":[
+   "Newcastle-under-Lyme keeps its hair and beauty trade close to the pedestrianised core. The High Street and the Ironmarket, around the Guildhall and the indoor market, carry a run of independent salons, gents barbers and nail bars, with newer studios filling former retail units near the town hall. Beyond the centre the volume spreads out along the suburban high streets and parades towards Wolstanton, Cross Heath and Clayton, where local barber shops, beauty rooms and tanning studios sit among the everyday shops.",
+   "The operator mix here is almost entirely small and independent. The High Street salons, the Ironmarket barbers, the nail technicians and beauticians working from rooms in Wolstanton and Knutton, and the mobile stylists covering the surrounding villages are mostly sole traders or two and three-chair teams rather than chains. Each one puts staff in front of clients all day, and a clean branded tunic or polo is part of how a small Newcastle salon presents itself.",
+  ],
+  "kit_loc":"across the town's salons, barber chairs and treatment rooms",
+  "s2_intro":"Whether you are an Ironmarket salon, a High Street barber, a mobile beautician or a nail studio across Newcastle-under-Lyme",
+ },
+ "rugby": {
+  "region":"Rugby and Warwickshire",
+  "nearby":["Coventry","Nuneaton","Leamington Spa"],
+  "snapshot":"iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Rugby, from the town-centre salons around Sheep Street to the Clifton Road and Lawford Road parades, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head":"Kitting the salons, barbers and spas of Warwickshire",
+  "s1loc":[
+   "Set around its compact market core, Rugby keeps a tight cluster of hair and beauty businesses in the centre. Independent salons, barbers and beauty rooms sit along and just off Sheep Street, the High Street and Church Street, with treatment studios tucked into the lanes near the Clock Towers shopping centre. The suburban trade runs out along Clifton Road, Lawford Road and the Hillmorton and Bilton parades, where neighbourhood barber shops, nail bars and tanning studios serve the surrounding estates.",
+   "Rugby's salon trade is overwhelmingly independent and small-scale. The town-centre hairdressers, the Clifton Road barbers, the nail technicians and beauticians working from rooms in Bilton and Hillmorton, and the mobile stylists covering the outlying villages are nearly all sole traders or small teams. Most of them put staff on the floor in something branded every day, because in a town this size a tidy salon look is a large part of how regulars and word of mouth are won.",
+  ],
+  "kit_loc":"across the town's salons, barber chairs and treatment rooms",
+  "s2_intro":"Whether you are a Sheep Street salon, a Clifton Road barber, a mobile beautician or a nail studio across Rugby",
+ },
+ "wrexham": {
+  "region":"Wrexham and north Wales",
+  "nearby":["Ellesmere Port","Buckley","Oswestry"],
+  "snapshot":"iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Wrexham, from the town-centre salons off Grosvenor Road to the Hope Street and Regent Street studios, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head":"Kitting the salons, barbers and spas of north Wales",
+  "s1loc":[
+   "Wrexham concentrates its hair and beauty trade in and around the town centre. Independent salons, barbers and beauty studios sit along Hope Street, Regent Street and the lanes off Grosvenor Road, with more under the canopy at Eagles Meadow and near the Butchers Market. The neighbourhood trade spreads out along Ruabon Road and the high-street parades in Rhosllanerchrugog, Gwersyllt and Coedpoeth, where local barber shops, nail bars and tanning studios serve the villages ringing the town.",
+   "The make-up of the trade is small and independent throughout. The Hope Street and Regent Street salons, the town-centre and Ruabon Road barbers, the beauticians and nail technicians working from rooms across the outlying villages, and the mobile stylists covering the county border are mostly sole traders or small teams rather than chains. Nearly all of them keep staff client-facing through the day, and a branded tunic or polo is simply part of how a Wrexham salon looks after its name.",
+  ],
+  "kit_loc":"across the town's salons, barber chairs and treatment rooms",
+  "s2_intro":"Whether you are a Hope Street salon, a Ruabon Road barber, a mobile beautician or a nail studio across Wrexham",
+ },
+ "twickenham": {
+  "region":"Twickenham and south-west London",
+  "nearby":["Hounslow","Kingston upon Thames","Feltham"],
+  "snapshot":"iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Twickenham, from the Church Street and King Street salons to the St Margarets studios and Heath Road treatment rooms, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head":"Kitting the salons, barbers and spas of south-west London",
+  "s1loc":[
+   "Beyond the rugby crowds, Twickenham runs a busy and well-heeled hair and beauty scene. Boutique salons, barbers and beauty rooms line Church Street, King Street and Heath Road in the centre, while St Margarets and East Twickenham carry their own clusters of independent studios, nail bars and treatment rooms along the local parades. The riverside and Strawberry Hill streets add aesthetics clinics and day-spa rooms serving a steady, appointment-led clientele across the borough.",
+   "Across all of it the trade stays small and independent. The Church Street and St Margarets salons, the King Street and Heath Road barbers, the nail technicians and beauticians working from rooms off the parades, and the mobile stylists and aesthetics practitioners covering the riverside streets are largely sole traders or small teams. In a presentation-conscious patch like this, almost every chair puts staff in front of clients in something branded, and the salon look does real work.",
+  ],
+  "kit_loc":"across the area's salons, barber chairs and treatment rooms",
+  "s2_intro":"Whether you are a Church Street salon, a St Margarets barber, a mobile beautician or a nail studio across Twickenham",
+ },
+ "halesowen": {
+  "region":"Halesowen and the Black Country",
+  "nearby":["Dudley","Stourbridge","Oldbury"],
+  "snapshot":"iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Halesowen, from the High Street and Cornbow Centre salons to the Hagley Road and Windmill Hill parades, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head":"Kitting the salons, barbers and spas of the Black Country",
+  "s1loc":[
+   "A compact Black Country town, Halesowen keeps its hair and beauty trade tight to the centre. Independent salons, barbers and nail bars sit along the High Street and around the Cornbow Centre and Hagley Mall, with beauty rooms in the units off Hagley Street. The neighbourhood trade runs out along Hagley Road, Windmill Hill and the parades towards Hasbury, Cradley and Quinton, where local barber shops, tanning studios and beauticians serve the surrounding estates and the edge of Dudley.",
+   "The trade here is small and independent almost across the board. The High Street and Cornbow salons, the Hagley Road barbers, the nail technicians and beauticians working from rooms in Hasbury and Cradley, and the mobile stylists covering the lanes between the Black Country towns are mostly sole traders or small teams rather than chains. Each keeps staff on the floor with clients all day, and for a small Halesowen salon a branded tunic or apron is part of looking the part.",
+  ],
+  "kit_loc":"across the town's salons, barber chairs and treatment rooms",
+  "s2_intro":"Whether you are a High Street salon, a Hagley Road barber, a mobile beautician or a nail studio across Halesowen",
+ },
+ "washington": {
+  "region":"Washington and Tyne and Wear",
+  "nearby":["Sunderland","Gateshead","Chester-le-Street"],
+  "snapshot":"iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Washington, from the salons around The Galleries to the Concord and Sulgrave village parades, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head":"Kitting the salons, barbers and spas of Tyne and Wear",
+  "s1loc":[
+   "A new town built from villages, Washington spreads its hair and beauty trade across distinct local centres rather than one high street. The Galleries holds the main cluster of salons, barbers and beauty units, while Concord's Front Street carries its own run of independent shops and barber chairs. Out in the villages, Sulgrave, Fatfield, Albany and Donwell each keep neighbourhood salons, nail bars and tanning studios along their parades, serving the estates that ring the town.",
+   "The mix stays small and independent across every village. The Galleries and Concord salons, the Front Street barbers, the beauticians and nail technicians working from rooms in Fatfield and Sulgrave, and the mobile stylists covering the Washington estates and out towards Chester-le-Street are nearly all sole traders or small teams. They put staff in front of clients through the day, and a branded polo or tunic is a simple way for a village salon to look settled and trusted.",
+  ],
+  "kit_loc":"across the town's salons, barber chairs and treatment rooms",
+  "s2_intro":"Whether you are a Galleries salon, a Concord barber, a mobile beautician or a nail studio across Washington",
+ },
+ "weymouth": {
+  "region":"Weymouth and Dorset",
+  "nearby":["Poole","Dorchester","Christchurch"],
+  "snapshot":"iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Weymouth, from the St Mary Street and St Thomas Street salons to the harbour and Esplanade treatment rooms, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head":"Kitting the salons, barbers and spas of the Dorset coast",
+  "s1loc":[
+   "Set between the beach and the old harbour, Weymouth runs its hair and beauty trade through the pedestrianised town centre. Independent salons, barbers and nail bars sit along St Mary Street, St Thomas Street and Bond Street, with beauty and spa rooms near the Esplanade and around Spa Road. The harbourside and the parades out towards Westham, Radipole and Chickerell add neighbourhood barber shops, tanning studios and beauticians serving residents away from the seasonal seafront crowds.",
+   "The make-up of the trade is small and independent across the resort. The St Mary Street and St Thomas Street salons, the harbour-end barbers, the nail technicians and beauticians working from rooms in Westham and Radipole, and the mobile stylists covering the villages towards Portland are mostly sole traders or small teams rather than chains. With a clientele split between locals and visitors, nearly every one puts staff in front of clients in something branded, and the salon look is part of the welcome.",
+  ],
+  "kit_loc":"across the town's salons, barber chairs and treatment rooms",
+  "s2_intro":"Whether you are a St Mary Street salon, a harbour barber, a mobile beautician or a nail studio across Weymouth",
+ },
+}
