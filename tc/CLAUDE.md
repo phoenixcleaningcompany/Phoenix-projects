@@ -7,7 +7,8 @@ sessions, so the kit is recreated from these committed files.
 A generator (`tc_build.py`) that builds one HTML page per UK town from the
 hand-authored London flagship `tc-london.html` + md5-hashed prose pools + a lean
 per-town `TOWNS` dict. **Hybrid** posture (fleets on trade accounts + subbies direct
-online, equal weight). Lead polo / hi-vis / softshell. Output → `/mnt/user-data/outputs/`.
+online, equal weight). Lead polo / hi-vis / softshell. Output dir: `$TC_OUTDIR` if set,
+else `/mnt/user-data/outputs/` if it exists, else a local `outputs/` (auto-created).
 
 ## Files
 - `tc-london.html` — hand-authored flagship (the ONE general-knowledge page; names
