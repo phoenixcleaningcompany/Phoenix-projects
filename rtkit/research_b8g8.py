@@ -13,7 +13,7 @@ NEW = {
     },
     "didcot": {
         "region": "Didcot and Oxfordshire",
-        "nearby": ["Abingdon", "Wallingford", "Wantage"],
+        "nearby": ["Abingdon", "Oxford", "Thatcham"],
         "snapshot": "iNeedWorkwear supplies embroidered polos, tabards, fleeces, safety shoes, hi-vis and stockroom trousers to independent retailers, convenience stores, garden centres and farm shops across Didcot, from the Orchard Centre to the older Broadway shops, branded in-house with the shop name on a managed trade account, with artwork and sizes held on file so new starters and second stores are kitted in exactly the same uniform.",
         "s1_head": "Kitting Didcot's shops from Broadway to the Orchard Centre",
         "s1loc": [
