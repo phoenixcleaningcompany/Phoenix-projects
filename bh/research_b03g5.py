@@ -1,0 +1,86 @@
+NEW = {
+ "eastbourne": {
+  "region":"Eastbourne and East Sussex",
+  "nearby":["Bexhill-on-Sea","Hastings","Seaford"],
+  "snapshot":"iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Eastbourne, from the Terminus Road salons and seafront spas to the Old Town high street, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head":"Kitting the salons, barbers and spas of the Sussex coast",
+  "s1loc":[
+   "Eastbourne is a seaside town with a salon scene that splits between the centre and its villages. Hair salons, barbers and nail bars cluster along Terminus Road and around the Beacon centre, while Little Chelsea on South Street carries the boutique end with independent stylists and beauty rooms. Out in Old Town the high street runs its own parade of long-established hairdressers, and the seafront hotels and spas add a steady run of treatment rooms and aesthetics clinics serving residents and visitors alike.",
+   "The operator mix here is overwhelmingly independent. The Terminus Road salons, the Little Chelsea boutiques, the Old Town hairdressers and the barbers dotted along Seaside and Langney are nearly all sole traders or small teams rather than chains, joined by mobile beauticians who work the suburbs and the spa staff at the seafront hotels. Nearly every one of them puts staff in front of clients in something branded, because on this stretch of coast presentation is half the appointment.",
+  ],
+  "kit_loc":"across the town's salons, barber chairs and treatment rooms",
+  "s2_intro":"Whether you are a Little Chelsea salon, a Terminus Road barber, a mobile beautician or a nail studio across Eastbourne",
+ },
+ "wembley": {
+  "region":"Wembley and North West London",
+  "nearby":["Harrow","Edgware","Hounslow"],
+  "snapshot":"iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Wembley, from the Ealing Road beauty parlours to the High Road salons and the studios around the stadium, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head":"Kitting the salons, barbers and spas of North West London",
+  "s1loc":[
+   "Beyond the chains around the stadium, Wembley runs on a dense, independent salon trade. Ealing Road is the heart of it, a long parade of South Asian hair and beauty parlours, threading studios and bridal specialists, while the High Road through Wembley Central carries barbers, unisex salons and nail bars at street level. North Wembley and Alperton add neighbourhood salons and beauty rooms, and the regenerated streets near the arena have brought newer treatment studios and clinics into the mix.",
+   "The trade here is small and independent to its core. The Ealing Road bridal and beauty parlours, the High Road barbers, the threading and nail studios and the mobile beauticians working the surrounding estates are nearly all sole traders or small teams rather than chains. Almost every one of them puts staff in front of clients in something branded, and in a community this varied a tidy uniform is how a salon signals it takes the work seriously.",
+  ],
+  "kit_loc":"across the area's salons, barber chairs and treatment rooms",
+  "s2_intro":"Whether you are an Ealing Road salon, a High Road barber, a mobile beautician or a nail studio across Wembley",
+ },
+ "darlington": {
+  "region":"Darlington and County Durham",
+  "nearby":["Stockton-on-Tees","Newton Aycliffe","Bishop Auckland"],
+  "snapshot":"iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Darlington, from the Skinnergate salons to the Cornmill nail bars and the suburban high streets, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head":"Kitting the salons, barbers and spas of the Tees Valley",
+  "s1loc":[
+   "Set around its historic market square, Darlington keeps a compact but busy salon scene. The independent end gathers on Skinnergate and Duke Street, where established hairdressers and barbers sit alongside beauty rooms, while the Cornmill centre and the streets off High Row hold nail bars and unisex salons. Beyond the centre, the high streets of Cockerton, Hummersknott and the Denes carry neighbourhood salons and barbers, and a handful of day spas and aesthetics clinics serve the wider town.",
+   "The operator mix is small and overwhelmingly independent. The Skinnergate and Duke Street salons, the market-town barbers, the Cornmill nail bars and the suburban beauty rooms in Cockerton and Harrowgate Hill are nearly all sole traders or small teams rather than chains, alongside the mobile beauticians who cover the surrounding villages. Almost every one of them puts staff in front of clients in something branded, because in a town this close-knit a salon is judged partly on how it looks.",
+  ],
+  "kit_loc":"across the town's salons, barber chairs and treatment rooms",
+  "s2_intro":"Whether you are a Skinnergate salon, a Duke Street barber, a mobile beautician or a nail studio across Darlington",
+ },
+ "halifax": {
+  "region":"Halifax and West Yorkshire",
+  "nearby":["Brighouse","Huddersfield","Keighley"],
+  "snapshot":"iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Halifax, from the Borough Market beauty stalls to the Westgate Arcade salons and the valley high streets, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head":"Kitting the salons, barbers and spas of Calderdale",
+  "s1loc":[
+   "A Calderdale market town in the Pennine valleys, Halifax holds its salon trade tightly around the centre. Borough Market houses beauty and brow stalls and threading studios, while the Westgate Arcade and the streets off Commercial Street carry boutique hair salons and barbers. Up and down the valley the real volume sits on the high streets of Sowerby Bridge, Hebden Bridge, King Cross and Illingworth, where independent hairdressers, nail bars and beauty rooms line the parades that thread out along the Calder.",
+   "The trade here is small and independent through and through. The Borough Market beauty stalls, the Westgate Arcade salons, the Commercial Street barbers and the valley hairdressers in Sowerby Bridge and Hebden Bridge are nearly all sole traders or small teams rather than chains, joined by mobile beauticians working the hill villages above the town. Almost every one of them puts staff in front of clients in something branded, and in Calderdale that quiet professionalism counts for a lot.",
+  ],
+  "kit_loc":"across the town's salons, barber chairs and treatment rooms",
+  "s2_intro":"Whether you are a Westgate Arcade salon, a Commercial Street barber, a mobile beautician or a nail studio across Halifax",
+ },
+ "st albans": {
+  "region":"St Albans and Hertfordshire",
+  "nearby":["Hatfield","Harpenden","Hemel Hempstead"],
+  "snapshot":"iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across St Albans, from the St Peters Street salons to the French Row boutiques and the village high streets, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head":"Kitting the salons, barbers and spas of Hertfordshire",
+  "s1loc":[
+   "A cathedral city with an affluent, design-led trade, St Albans concentrates its salons along St Peters Street and the streets around the market. Independent hair salons, barbers and beauty rooms run the length of St Peters Street, while French Row and the lanes near the clock tower hold smaller boutique studios. London Colney, Marshalswick and the village high streets out towards Harpenden carry neighbourhood salons and nail bars, and a number of day spas and aesthetics clinics serve the wider district.",
+   "The operator mix is small, independent and presentation-conscious. The St Peters Street salons, the French Row boutiques, the market-square barbers and the beauty rooms in Marshalswick and London Colney are nearly all sole traders or small teams rather than chains, alongside the mobile beauticians who cover the surrounding Hertfordshire villages. Almost every one of them puts staff in front of clients in something branded, because in a city this style-aware the uniform is part of the brand.",
+  ],
+  "kit_loc":"across the city's salons, barber chairs and treatment rooms",
+  "s2_intro":"Whether you are a St Peters Street salon, a French Row barber, a mobile beautician or a nail studio across St Albans",
+ },
+ "woolwich": {
+  "region":"Woolwich and South East London",
+  "nearby":["Eltham","Lewisham","Erith"],
+  "snapshot":"iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Woolwich, from the Powis Street salons to the Plumstead Road barbers and the riverside studios, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head":"Kitting the salons, barbers and spas of South East London",
+  "s1loc":[
+   "Woolwich runs a dense, diverse salon trade across its town centre and riverside. Powis Street and the streets around General Gordon Square carry hair salons, barbers and threading studios, while Woolwich New Road and Plumstead Road hold a long run of barbers, unisex salons and nail bars. The regenerated Royal Arsenal riverside has brought newer treatment rooms and clinics, and Plumstead and Charlton high streets add neighbourhood salons serving the surrounding estates.",
+   "The trade here is small and overwhelmingly independent. The Powis Street salons, the Plumstead Road and Woolwich New Road barbers, the threading and nail studios and the mobile beauticians working the estates are nearly all sole traders or small teams rather than chains. Almost every one of them puts staff in front of clients in something branded, and across a community this mixed a clean, named uniform is how a small salon stands out.",
+  ],
+  "kit_loc":"across the area's salons, barber chairs and treatment rooms",
+  "s2_intro":"Whether you are a Powis Street salon, a Plumstead Road barber, a mobile beautician or a nail studio across Woolwich",
+ },
+ "carlisle": {
+  "region":"Carlisle and Cumbria",
+  "nearby":["Penrith","Workington","Whitehaven"],
+  "snapshot":"iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Carlisle, from the Lowther Street salons to the Botchergate barbers and the suburban high streets, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head":"Kitting the salons, barbers and spas of Cumbria",
+  "s1loc":[
+   "The border city of Carlisle anchors the salon trade for a wide rural stretch of Cumbria. The independent core sits on Lowther Street, where long-established hairdressers and barbers run alongside nail and beauty rooms, while English Street and the lanes off the city centre carry more salons and threading studios. Botchergate holds a busy run of barbers, and the suburbs of Stanwix, Botcherby and Currock add neighbourhood salons, with a handful of health clubs and day spas serving the district.",
+   "The operator mix is small and almost entirely independent. The Lowther Street salons, the Botchergate barbers, the city-centre nail studios and the beauty rooms out in Stanwix and Harraby are nearly all sole traders or small teams rather than chains, joined by mobile beauticians who travel the surrounding villages and market towns. Almost every one of them puts staff in front of clients in something branded, because as the region's main city Carlisle sets the standard others follow.",
+  ],
+  "kit_loc":"across the city's salons, barber chairs and treatment rooms",
+  "s2_intro":"Whether you are a Lowther Street salon, a Botchergate barber, a mobile beautician or a nail studio across Carlisle",
+ },
+}
