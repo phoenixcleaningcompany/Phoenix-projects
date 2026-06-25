@@ -1,0 +1,86 @@
+{
+  "kendal": {
+    "region": "Kendal and south Cumbria",
+    "nearby": ["Lancaster", "Barrow-in-Furness", "Penrith"],
+    "snapshot": "Kendal is a south Cumbrian market town where full fibre is going in alongside a long tail of broadband, CCTV and structured-cabling installers. Build contractors field whole crews and order through trade accounts and central procurement, while ex-BT sole traders and one-van installers across the town take just a few branded pieces and order direct online with no account. A workwear supplier here has to serve the fleet and the lone engineer alike.",
+    "s1_head": "Kitting the field engineers of south Cumbria",
+    "s1loc": [
+      "Kendal sits in the middle of a real Cumbrian full fibre push. Openreach has run FTTP out across much of the town under the Connecting Cumbria and Project Gigabit work, while alt-net Fibrus is building its own gigabit network through Kendal, aiming at thousands of homes and businesses, and is laying fibre across nearby Penrith, Workington and Aspatria too. The result is delivery partners and civils crews working through districts like Kirkland, Sandylands, Oxenholme and Burneside, pulling fibre to the cabinet and on to the premises across the town's streets.",
+      "Around the residential build sits Kendal's commercial scene. The Mintsfeet and Mintbridge industrial estates, the K Village and Lound Road areas and the town's business units host firms that need structured cabling and CCTV - offices, schools, the hospital and multi-site operators wired in Cat5e, Cat6 and fibre. With Kendal College, the auction mart and a steady flow of tourism and manufacturing premises across the Kent valley, local cabling and security installers take on a constant run of fit-outs, upgrades and maintenance jobs across south Cumbria."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Kendal, a structured-cabling firm or a one-van broadband installer toward Lancaster"
+  },
+  "ruislip": {
+    "region": "Ruislip and the London Borough of Hillingdon",
+    "nearby": ["Uxbridge", "Harrow", "Hayes"],
+    "snapshot": "Ruislip is a Hillingdon suburb where full fibre is going in fast and a long tail of broadband, CCTV and structured-cabling installers works alongside it. Build contractors field whole crews and order through trade accounts and central procurement, while ex-BT sole traders and one-van installers across the borough take just a few branded pieces and order direct online with no account. A workwear supplier here serves the fleet and the lone engineer alike.",
+    "s1_head": "Kitting the field engineers of Hillingdon",
+    "s1loc": [
+      "Ruislip sits in one of the top London boroughs for full fibre coverage. Openreach has FTTP across Hillingdon, while Community Fibre and Hyperoptic are both building in the borough - Hyperoptic taking on thousands of social homes across Hillingdon and Community Fibre extending its London network. That puts delivery partners and contractor crews through Ruislip Manor, Eastcote, South Ruislip, Ruislip Gardens and Northwood Hills, pulling fibre along the streets and into customer premises across the borough alongside the usual mobile-operator upgrades.",
+      "Beyond the residential rollout, Ruislip feeds a busy west London commercial scene. The borough runs out toward Uxbridge, the Stockley Park and Hayes business areas and a string of industrial estates along the A40 and around RAF Northolt, where offices, warehouses, schools and retail units need structured cabling and CCTV wired in Cat5e, Cat6 and fibre. Local cabling and security installers take on fit-outs, refurbishments and multi-site contracts across Hillingdon and the wider west London suburbs the whole year round."
+    ],
+    "kit_loc": "across the borough's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Ruislip, a structured-cabling firm or a one-van broadband installer toward Uxbridge"
+  },
+  "malvern": {
+    "region": "Malvern and Worcestershire",
+    "nearby": ["Worcester", "Hereford", "Bromsgrove"],
+    "snapshot": "Malvern is a Worcestershire town where full fibre is going in alongside a notable cyber and technology cluster. Build contractors field whole crews and order through trade accounts and central procurement, while ex-BT sole traders and one-van installers across the town take just a few branded pieces and order direct online with no account. A workwear supplier here has to serve the fleet and the lone engineer alike, side by side.",
+    "s1_head": "Kitting the field engineers of Worcestershire",
+    "s1loc": [
+      "Malvern is on Openreach's full fibre upgrade list, with FTTP being built out across the town, while alt-nets are active across Worcestershire - Airband running ultrafast fibre and fixed wireless into the Malvern Hills area and Gigaclear reaching selected premises around the town. Under the Superfast Worcestershire and Project Gigabit work, contractor and civils crews push fibre through Great Malvern, Barnards Green, Malvern Link, Poolbrook and West Malvern, pulling cable to the cabinet and on into homes and businesses across the foot of the hills.",
+      "Malvern also carries an unusually strong technology base. Malvern Hills Science Park sits in the so-called Cyber Valley next to QinetiQ, with the National Cyber Skills Centre and dozens of science and security firms, and the wider DSTL and defence presence pulls in a serious run of structured cabling, secure networking and CCTV work. Around that cluster, the Spring Lane and Enigma estates and the town's schools, hospital and offices keep local cabling and security installers busy with Cat6 and fibre fit-outs across Malvern and the county."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Malvern, a structured-cabling firm or a one-van broadband installer toward Worcester"
+  },
+  "bromsgrove": {
+    "region": "Bromsgrove and Worcestershire",
+    "nearby": ["Redditch", "Kidderminster", "Worcester"],
+    "snapshot": "Bromsgrove is a north Worcestershire town in the middle of a full fibre build, with a long tail of broadband, CCTV and structured-cabling installers working alongside it. Build contractors field whole crews and order through trade accounts and central procurement, while ex-BT sole traders and one-van installers across the town take just a few branded pieces and order direct online with no account. The fleet and the lone engineer both get served here.",
+    "s1_head": "Kitting the field engineers of north Worcestershire",
+    "s1loc": [
+      "Bromsgrove is well into its full fibre build. Openreach has work underway upgrading large parts of the town - around nineteen thousand premises plus the Hillside area - while alt-nets and Virgin Media O2 look at extending their networks around Bromsgrove and Evesham, and CityFibre builds across the wider county. Under the Superfast Worcestershire programme, contractor and civils crews push fibre through Aston Fields, Charford, Sidemoor, Catshill and Lickey End, pulling cable along the streets, into the cabinets and on to homes and businesses across the town.",
+      "Alongside the residential rollout, Bromsgrove has a solid commercial base. The Buntsford Park, Saxon Business Park and Harris Business Park estates and the Sugarbrook and Aston Fields industrial areas host warehouses, offices and multi-site firms that need structured cabling and CCTV wired in Cat5e, Cat6 and fibre. With strong motorway links by the M5 and M42, plus the town's schools, retail parks and the Bromsgrove School, local cabling and security installers take on a steady run of fit-outs and upgrades across north Worcestershire."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Bromsgrove, a structured-cabling firm or a one-van broadband installer toward Redditch"
+  },
+  "stratford-upon-avon": {
+    "region": "Stratford-upon-Avon and Warwickshire",
+    "nearby": ["Leamington Spa", "Warwick", "Redditch"],
+    "snapshot": "Stratford-upon-Avon is a Warwickshire town where full fibre is being built alongside a busy tourism and commercial economy. Build contractors field whole crews and order through trade accounts and central procurement, while ex-BT sole traders and one-van installers across the town take just a few branded pieces and order direct online with no account. A workwear supplier here has to kit the fleet and the one-van installer alike.",
+    "s1_head": "Kitting the field engineers of Warwickshire",
+    "s1loc": [
+      "Stratford-upon-Avon has full fibre going in from several directions. Openreach is building FTTP across the town without taxpayer subsidy, while CityFibre runs a major Project Gigabit rollout across Warwickshire covering Rugby, Warwick, Leamington Spa and Stratford-upon-Avon, with retail providers like toob riding the network. That puts delivery partners and civils crews through Tiddington, Shottery, Bishopton, Bridgetown and Old Town, pulling fibre along the streets, into the cabinets and on to homes and businesses across the town and its surrounding villages.",
+      "The commercial side is strong too, driven by tourism and a cluster of business parks. Stratford 46 Business Park, Grove Business Park at Atherstone on Stour, the Maybrook and Timothy's Bridge Road industrial estates and the Wellesbourne distribution sites host offices, warehouses, hotels and theatres that need structured cabling and CCTV in Cat5e, Cat6 and fibre. With the Royal Shakespeare theatres, busy visitor venues and multi-site retail, local cabling and security installers take on a constant run of fit-outs and upgrades across the district."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Stratford-upon-Avon, a structured-cabling firm or a one-van broadband installer toward Leamington Spa"
+  },
+  "spalding": {
+    "region": "Spalding and south Lincolnshire",
+    "nearby": ["Boston", "Grantham", "Stamford"],
+    "snapshot": "Spalding is a south Lincolnshire market town where full fibre has rolled out alongside a major food and logistics economy. Build contractors field whole crews and order through trade accounts and central procurement, while ex-BT sole traders and one-van installers across the town take just a few branded pieces and order direct online with no account. A workwear supplier here has to serve the fleet and the lone engineer alike, side by side.",
+    "s1_head": "Kitting the field engineers of south Lincolnshire",
+    "s1loc": [
+      "Spalding has been at the centre of the south Lincolnshire fibre story. Alt-net LightSpeed Broadband chose the town for its first full fibre build and ran its early headquarters from Fulney Hall in Spalding, pushing gigabit fibre across the town and out toward Holbeach, Long Sutton and Market Deeping. Openreach has FTTP across the town too, and Quickline is delivering Project Gigabit fibre to the surrounding rural villages. Contractor crews work through districts like Pinchbeck, Fulney, Wygate Park and Weston, pulling fibre along the streets and into premises.",
+      "Spalding runs on a huge food, flowers and logistics base, and that drives the commercial network work. The big distribution and food-processing sites around the Wardentree Lane and Spalding Common estates, plus the Springfields outlet and the town's offices, schools and the hospital, all need structured cabling and CCTV wired in Cat5e, Cat6 and fibre. With cold stores, packhouses and haulage yards across the fens, local cabling and security installers take on a steady run of fit-outs, upgrades and maintenance across south Lincolnshire."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Spalding, a structured-cabling firm or a one-van broadband installer toward Boston"
+  },
+  "newark": {
+    "region": "Newark and Nottinghamshire",
+    "nearby": ["Grantham", "Mansfield", "Lincoln"],
+    "snapshot": "Newark is a Nottinghamshire market town in the middle of a town-wide full fibre build, with a long tail of broadband, CCTV and structured-cabling installers alongside it. Build contractors field whole crews and order through trade accounts and central procurement, while ex-BT sole traders and one-van installers across the town take just a few branded pieces and order direct online with no account. The fleet and the lone engineer both get served here.",
+    "s1_head": "Kitting the field engineers of Nottinghamshire",
+    "s1loc": [
+      "Newark has had full fibre going in from two directions at once. Openreach has upgraded over twenty thousand homes and businesses across the town with FTTP, while CityFibre is delivering a town-wide network worth around ten million pound, built by Trust Utility Management and carrying providers like Vodafone, Zen and Giganet. That puts contractor and civils crews through Balderton, Hawtonville, Fernwood, Coddington and the town centre, pulling fibre along the streets, into the cabinets and on to homes and businesses across Newark and Sherwood.",
+      "The commercial scene is busy too. Newark sits on the A1 and the East Coast Main Line, and the Brunel Drive, Bowbridge Road and Northern Road industrial estates, the showground and the growing Fernwood Business Park host warehouses, offices and multi-site firms that need structured cabling and CCTV in Cat5e, Cat6 and fibre. With Newark College, busy retail parks and the auction and antiques trade, local cabling and security installers take on a constant run of fit-outs, refurbishments and maintenance jobs across the area."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Newark, a structured-cabling firm or a one-van broadband installer toward Grantham"
+  }
+}

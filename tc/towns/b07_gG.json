@@ -1,0 +1,86 @@
+{
+  "witney": {
+    "region": "Witney and West Oxfordshire",
+    "nearby": ["Oxford", "Abingdon", "Bicester"],
+    "snapshot": "Witney is a busy West Oxfordshire market town where the network build runs alongside a strong commercial base. Build contractors and structured-cabling firms run fleets of engineers on trade accounts and buy through procurement, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run both routes side by side so the crews and the independent installer are kitted alike.",
+    "s1_head": "Kitting the field engineers of West Oxfordshire",
+    "s1loc": [
+      "Witney sits in the middle of a long Oxfordshire full-fibre push. Openreach has modernised the local exchange and now reaches the large majority of homes and businesses in the town with gigabit-capable full fibre, working out from the centre through West Witney, Cogges and Madley Park. Across the wider West Oxfordshire district Gigaclear has completed a major rural fibre-to-the-premises build worth tens of millions of pounds, with Airband and other operators adding more, while Virgin Media and the mobile networks keep upgrading on top. That mix keeps build crews, civils gangs and jointing engineers busy across the town's streets and cabinets.",
+      "Alongside the residential rollout sits a solid commercial scene. Windrush Industrial Park on Burford Road is a large multi-let estate off the A40, home to firms like Smurfit Kappa, Oxford Innovation and Oxford Medical Products and to a long tail of offices and workshops, with Windrush Park, Avenue Two and the Range Road and Station Lane estates nearby. Structured-cabling and fibre-optic installers wire these units in Cat5e, Cat6 and fibre, and CCTV and access-control engineers fit and maintain systems across the schools, retail parks and business centres that ring Witney."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Witney, a structured-cabling firm or a one-van broadband installer toward Abingdon"
+  },
+  "willenhall": {
+    "region": "Willenhall and the West Midlands",
+    "nearby": ["Walsall", "Wolverhampton", "Wednesbury"],
+    "snapshot": "Willenhall sits in the thick of the West Midlands network build, between Walsall and Wolverhampton. National build contractors field whole crews of engineers and buy through procurement on trade accounts, while ex-BT sole traders and independent broadband and CCTV installers take on work across the town and order direct online with no account. We run trade accounts for the fleets and direct online ordering for everyone else, side by side.",
+    "s1_head": "Kitting the field engineers of the West Midlands",
+    "s1loc": [
+      "Willenhall is part of a huge West Midlands full-fibre build. Openreach has pushed gigabit-capable full fibre out across the Walsall and Wolverhampton area as part of a major regional programme, with engineers working through New Invention, Short Heath, Bentley and Coltham. Netomnia and its YouFibre brand are building hard across the Black Country, having passed tens of thousands of premises out of the nearby Wednesbury exchange, while Virgin Media and the mobile operators keep upgrading on top. The result is a steady run of civils, cabling and jointing work through the town's streets and cabinets.",
+      "Around the residential build sits the Black Country's dense commercial base. Willenhall has long been a centre of lock and hardware manufacturing, and its industrial estates - around Rose Hill, Neachells Lane and the Willenhall and Hilton Cross corridors toward the M6 - are full of workshops, warehouses and distribution units. Structured-cabling and fibre installers wire these in Cat5e, Cat6 and fibre, while CCTV and access-control engineers fit and maintain systems across the factories, trade counters and retail units that fill the town and run out toward Walsall and Wednesbury."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Willenhall, a structured-cabling firm or a one-van broadband installer toward Walsall"
+  },
+  "ashington": {
+    "region": "Ashington and south-east Northumberland",
+    "nearby": ["Blyth", "Bedlington", "Cramlington"],
+    "snapshot": "Ashington is the largest town in south-east Northumberland, and its network build keeps engineers busy. Build contractors run fleets of engineers on trade accounts and buy through procurement, while ex-BT sole traders and one-van broadband and CCTV installers take on local work and order direct online with no account. We run trade accounts for the crews and direct online ordering for everyone else, so the fleet and the lone installer are kitted alike.",
+    "s1_head": "Kitting the field engineers of south-east Northumberland",
+    "s1loc": [
+      "Ashington has seen Openreach start a full ultrafast build, bringing gigabit-capable full fibre to thousands of homes and businesses across the town and out through Hirst, North Seaton and Newbiggin. Openreach's wider Northumberland network now reaches well over forty thousand properties, and alt-net Fibrus has named Ashington among the towns in its North East commercial build. Virgin Media and the mobile operators keep upgrading on top. With the build running across the town's streets and cabinets, civils gangs, cable pullers and jointing engineers all have a steady run of work in and around Ashington.",
+      "The commercial side runs on the town's estates. Wansbeck Business Park off Rotary Parkway hosts firms such as Raytec, Avid Thermacore and Arian EMS, with the refurbished Wansbeck Workspace alongside, while North Seaton Industrial Estate by the River Wansbeck holds construction and engineering occupiers plus trade names like Screwfix and Toolstation. Structured-cabling and fibre installers wire these units in Cat5e, Cat6 and fibre, and CCTV and access-control engineers fit and maintain systems across the workshops, retail parks and offices that ring Ashington town centre."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Ashington, a structured-cabling firm or a one-van broadband installer toward Blyth"
+  },
+  "shipley": {
+    "region": "Shipley and West Yorkshire",
+    "nearby": ["Bradford", "Keighley", "Bingley"],
+    "snapshot": "Shipley sits in the Aire valley just north of Bradford, with the network build running across the town. Build contractors put crews of engineers on the street and buy centrally on trade accounts, while commercial cabling firms, CCTV installers and ex-BT sole-trader engineers take on local work and order direct online with no account. We run trade accounts for the fleets and direct online ordering for everyone else, side by side.",
+    "s1_head": "Kitting the field engineers of the Aire valley",
+    "s1loc": [
+      "Shipley is part of the busy West Yorkshire fibre build. Openreach has pushed gigabit-capable full fibre across the town and out through Saltaire, Windhill, Baildon and Wrose, while CityFibre is building hard across the wider Bradford district and Quickline is extending full fibre into the Yorkshire towns and rural fringes around it. Virgin Media and the mobile operators keep upgrading on top. With residential rollout running through the town's streets and cabinets, civils gangs, cable pullers and jointing engineers have a steady run of work across Shipley and the Aire valley.",
+      "The commercial scene centres on Salts Mill and the waterfront. The Grade II listed Salts Mill in the Saltaire World Heritage Site now houses technology, electronics and design firms and serviced offices off Salts Mill Road, while estates around Otley Road, Crag Road and the Tong Park area at Baildon hold workshops and warehouse units. Structured-cabling and fibre installers wire these in Cat5e, Cat6 and fibre, and CCTV and access-control engineers fit and maintain systems across the offices, mills and retail units that run from Shipley up toward Bingley and Keighley."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Shipley, a structured-cabling firm or a one-van broadband installer toward Bingley"
+  },
+  "frome": {
+    "region": "Frome and Somerset",
+    "nearby": ["Trowbridge", "Bath", "Melksham"],
+    "snapshot": "Frome is a thriving Somerset market town with strong full-fibre coverage. Build contractors and cabling firms run fleets of engineers on trade accounts and buy through procurement, while ex-BT sole traders and one-van broadband and CCTV installers take on local work and order direct online with no account. We run trade accounts for the crews and direct online ordering for everyone else, so the fleet and the lone installer are kitted alike.",
+    "s1_head": "Kitting the field engineers of east Somerset",
+    "s1loc": [
+      "Frome has some of the strongest full-fibre coverage in Somerset. Openreach has pushed gigabit-capable full fibre across the town and out through Keyford, Berkley and the estates toward Critchill, while Somerset alt-net Truespeed has built its own ultrafast fibre-to-the-premises network connecting customers in Frome and the surrounding villages. Virgin Media and the mobile operators keep upgrading on top, giving the town genuine rival-network choice. With build work running across the town's streets and cabinets, civils gangs, cable pullers and jointing engineers all have a steady run of work in and around Frome.",
+      "The commercial side runs on the town's trading estates. Estates around Marston Trading Estate and the Vallis and Garsdale areas hold workshops, light-industrial units and warehouse space, while the revived Saxonvale and town-centre quarter adds offices, studios and creative businesses. Structured-cabling and fibre installers wire these units in Cat5e, Cat6 and fibre, and CCTV and access-control engineers fit and maintain systems across the schools, retail parks and independent businesses that fill Frome and run out toward Trowbridge and the towns of west Wiltshire."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Frome, a structured-cabling firm or a one-van broadband installer toward Trowbridge"
+  },
+  "gosforth": {
+    "region": "Gosforth and Tyne and Wear",
+    "nearby": ["Newcastle upon Tyne", "Gateshead", "North Shields"],
+    "snapshot": "Gosforth is a busy suburb on the north side of Newcastle, with a strong network build and a lively high street. Build contractors run crews of engineers on trade accounts and buy through procurement, while ex-BT sole traders and one-van broadband and CCTV installers take on local work and order direct online with no account. We run trade accounts for the fleets and direct online ordering for everyone else, side by side.",
+    "s1_head": "Kitting the field engineers of north Newcastle",
+    "s1loc": [
+      "Gosforth sits in one of the most competitive fibre areas in the North East. CityFibre has built extensive full fibre across Gosforth, Fawdon, Kenton and the wider north of the city, while Openreach has pushed its own gigabit-capable full fibre out through Newcastle, so providers face genuine rival-network choice here. Virgin Media and the mobile operators keep upgrading on top. With two full-fibre networks running through the suburb's streets and cabinets, civils gangs, cable pullers and jointing engineers all have a steady run of work across Gosforth and the north of Newcastle.",
+      "The commercial side is busy too. Gosforth High Street is a long run of shops, banks, offices and restaurants, with Regent Centre and its office towers and the business space around Gosforth Park and Newcastle Great Park nearby. Structured-cabling and fibre installers wire these in Cat5e, Cat6 and fibre, while CCTV and access-control engineers fit and maintain systems across the offices, retail units and professional practices that fill the suburb and run south into Newcastle upon Tyne and east toward North Shields."
+    ],
+    "kit_loc": "across the suburb's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Gosforth, a structured-cabling firm or a one-van broadband installer toward Gateshead"
+  },
+  "pontypool": {
+    "region": "Pontypool and Torfaen",
+    "nearby": ["Cwmbran", "Newport", "Pontypridd"],
+    "snapshot": "Pontypool is a historic valleys town in Torfaen, and its network build keeps engineers busy. Build contractors run fleets of engineers on trade accounts and buy through procurement, while ex-BT sole traders and one-van broadband and CCTV installers take on local work and order direct online with no account. We run trade accounts for the crews and direct online ordering for everyone else, so the fleet and the lone installer are kitted alike.",
+    "s1_head": "Kitting the field engineers of Torfaen",
+    "s1loc": [
+      "Pontypool is part of a strong south Wales full-fibre push. Openreach has pushed gigabit-capable full fibre across the town and out through Griffithstown, New Inn, Pontnewynydd and Sebastopol, while Welsh home-grown alt-net Ogi is building its own ultrafast fibre-to-the-premises network right across Torfaen. Virgin Media and the mobile operators keep upgrading on top, giving the town genuine rival-network choice. With residential rollout running through the town's streets and cabinets, civils gangs, cable pullers and jointing engineers all have a steady run of work in and around Pontypool.",
+      "The commercial side runs on the valley's estates. Estates around Mamhilad Park, the old ICI office campus north of the town, plus the trading estates at Pontnewynydd and along the A4042 corridor toward Cwmbran, hold offices, workshops and warehouse units. Structured-cabling and fibre installers wire these in Cat5e, Cat6 and fibre, and CCTV and access-control engineers fit and maintain systems across the schools, retail parks and businesses that fill Pontypool and run south down the valley toward Cwmbran and Newport."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Pontypool, a structured-cabling firm or a one-van broadband installer toward Cwmbran"
+  }
+}

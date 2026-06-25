@@ -1,0 +1,86 @@
+{
+  "brentwood": {
+    "region": "Brentwood and Essex",
+    "nearby": ["Romford", "Billericay", "Basildon"],
+    "snapshot": "Brentwood is a busy Essex commuter town where full fibre is going in fast and structured cabling keeps its business parks wired. Build contractors and structured-cabling firms run fleets of engineers on trade accounts and buy branded kit through procurement, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run both routes side by side so the fleet and the lone installer are kitted alike.",
+    "s1_head": "Kitting the field engineers of Brentwood and Essex",
+    "s1loc": [
+      "Brentwood sits in the middle of a heavy Essex full-fibre build. Openreach has invested millions extending its Full Fibre network across the town and reaching the majority of properties, and Project Gigabit work is now targeting urban neighbourhoods and business parks around Brentwood, Chelmsford and Basildon that the early commercial build skipped. County Broadband has been pushing fibre through the wider rural Essex fringe, and the major build contractors field crews through Hutton, Shenfield, Warley and Pilgrims Hatch laying duct, blowing fibre and connecting cabinets and customer premises right across the district.",
+      "Alongside the residential rollout sits a solid commercial scene. Childerditch Industrial Park off the A127 near Little Warley runs to dozens of acres of logistics and industrial units, the Hutton Industrial Estate sits off the A12, and Brentwood Trade Park and the town-centre offices keep structured-cabling and CCTV firms busy in Cat5e, Cat6 and fibre. With the M25 at Junction 29 minutes away and warehousing serving London Gateway and the east-coast ports, installers wire distribution sheds, offices, schools and multi-site businesses across Brentwood the year round."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Brentwood, a structured-cabling firm or a one-van broadband installer toward Billericay"
+  },
+  "redhill": {
+    "region": "Redhill and Surrey",
+    "nearby": ["Reigate", "Horley", "Crawley"],
+    "snapshot": "Redhill is a Surrey commuter town with full fibre going in across the area and a dense layer of industrial estates to keep wired. Build contractors and structured-cabling firms run fleets of engineers on trade accounts and buy through procurement, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run trade accounts for the crews and direct ordering for everyone else, side by side.",
+    "s1_head": "Kitting the field engineers of Redhill and Surrey",
+    "s1loc": [
+      "Redhill is in the thick of the Surrey full-fibre rollout. Openreach is installing its Full Fibre network to homes and businesses right across the area, with FTTP coverage climbing month on month, while alternative networks including Fibre and Wireless Networks build their own gigabit fibre through the town. Crews from the major build contractors work the streets of Redhill, Earlswood, Merstham and out toward Reigate and Horley, hauling duct, blowing fibre and wiring cabinets and customer premises as the build pushes through one neighbourhood after another.",
+      "On the commercial side the borough is unusually rich in estates. Holmethorpe Industrial Estate, the borough's largest, plus Foxboro Park and the Redhill business parks off Holmethorpe Avenue, the IO Centre and Salfords Industrial Estate strung along the A23, and Reigate's Albert Road North estate all keep structured-cabling and CCTV firms busy in Cat5e, Cat6 and fibre. With the M25 at Junctions 6 and 8 close by, installers wire warehouses, offices, schools and multi-site businesses across Redhill and the surrounding district."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Redhill, a structured-cabling firm or a one-van broadband installer toward Reigate"
+  },
+  "bramhall": {
+    "region": "Bramhall and Greater Manchester",
+    "nearby": ["Stockport", "Macclesfield", "Wilmslow"],
+    "snapshot": "Bramhall is a prosperous Greater Manchester suburb where full fibre is already widely available and structured cabling keeps local businesses wired. Build contractors and structured-cabling firms run fleets of engineers on trade accounts and buy branded kit through procurement, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run both routes side by side, kitting the fleet and the lone installer alike.",
+    "s1_head": "Kitting the field engineers of Bramhall and Greater Manchester",
+    "s1loc": [
+      "Bramhall sits inside the busy Stockport full-fibre build. Openreach Full Fibre now covers tens of thousands of premises across the Stockport area including Bramhall, Heaton Moor, Marple and Woodley, CityFibre is building its own gigabit network across the borough where its footprint overlaps the Openreach build, and alt-net brsk - now folding into Netomnia - rolled out gigabit FTTP across Greater Manchester starting in Stockport. The major build contractors field crews through Bramhall, Bramhall Green and Woodford, laying duct, blowing fibre and connecting cabinets and customer premises street by street.",
+      "On the commercial side Bramhall feeds off the wider Stockport and east Cheshire economy. The village centre and professional offices, the schools and the business units toward Stockport, Cheadle and Hazel Grove all keep structured-cabling and CCTV firms busy in Cat5e, Cat6 and fibre, and the corridor toward Wilmslow and the Manchester Airport business cluster adds plenty of multi-site work. Installers wire offices, surgeries, retail units and schools across Bramhall and the surrounding suburbs, with airport and motorway links keeping commercial fit-out steady."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Bramhall, a structured-cabling firm or a one-van broadband installer toward Stockport"
+  },
+  "ashton-in-makerfield": {
+    "region": "Ashton-in-Makerfield and Greater Manchester",
+    "nearby": ["Wigan", "Leigh", "St Helens"],
+    "snapshot": "Ashton-in-Makerfield is a Wigan borough town in the middle of an active full-fibre build with industrial estates to keep wired. Build contractors and structured-cabling firms run fleets of engineers on trade accounts and buy through procurement, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run trade accounts for the crews and direct ordering for everyone else, side by side.",
+    "s1_head": "Kitting the field engineers of Ashton-in-Makerfield and Greater Manchester",
+    "s1loc": [
+      "Ashton-in-Makerfield is in active full-fibre build. Alt-net brsk - now merging into Netomnia - extended its FTTP rollout to take in tens of thousands of premises across St Helens and Ashton-in-Makerfield, its Greater Manchester network already stretching from Rochdale to Stockport and across to Ashton. Openreach is extending its own Full Fibre network through the town and the wider Wigan borough, with Virgin Media widely available on top. Build crews work through Ashton, Bryn, Haydock and Garswood, erecting poles, hauling duct, blowing fibre and connecting cabinets and customer premises.",
+      "On the commercial side the town leans on the industrial corridors between Wigan, Leigh and St Helens. Trading estates and warehousing along the A58 and toward the M6, the retail parks and the schools all keep structured-cabling and CCTV firms busy in Cat5e, Cat6 and fibre. With the East Lancashire Road and the motorway network on the doorstep, distribution and light-industrial units run thick through the area, and installers wire warehouses, offices, shops and schools across Ashton-in-Makerfield and the neighbouring towns the year round."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Ashton-in-Makerfield, a structured-cabling firm or a one-van broadband installer toward Wigan"
+  },
+  "heywood": {
+    "region": "Heywood and Greater Manchester",
+    "nearby": ["Rochdale", "Bury", "Middleton"],
+    "snapshot": "Heywood is a Rochdale borough town with full fibre arriving and one of the North West's biggest distribution parks to keep wired. Build contractors and structured-cabling firms run fleets of engineers on trade accounts and buy branded kit through procurement, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run both routes side by side, kitting the fleet and the lone installer alike.",
+    "s1_head": "Kitting the field engineers of Heywood and Greater Manchester",
+    "s1loc": [
+      "Heywood shares in the busy Rochdale full-fibre build. CityFibre is part way through a 30 million pound town-wide Full Fibre rollout across the Rochdale borough, delivered by its build partners, Openreach Full Fibre reaches across the area, and alt-net brsk has been laying gigabit FTTP through Rochdale-borough neighbourhoods alongside the Virgin Media network. The major build contractors work crews through Heywood, Hopwood, Darn Hill and Heap Bridge, erecting poles, hauling duct, blowing fibre and connecting cabinets and customer premises as the rollout pushes street by street.",
+      "On the commercial side Heywood is a North West logistics heartland. Heywood Distribution Park off Pilsworth Road near Junction 3 of the M66 is one of the best-known industrial estates in the region, running secure units from a few thousand to over a hundred thousand square feet for occupiers such as Footasylum, Iron Mountain and Macfarlane Packaging. With one in five Greater Manchester logistics firms based in the Rochdale borough, structured-cabling and CCTV installers wire warehouses, distribution sheds, offices and schools in Cat5e, Cat6 and fibre across Heywood and the surrounding district."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Heywood, a structured-cabling firm or a one-van broadband installer toward Rochdale"
+  },
+  "littlehampton": {
+    "region": "Littlehampton and West Sussex",
+    "nearby": ["Bognor Regis", "Worthing", "Lancing"],
+    "snapshot": "Littlehampton is a West Sussex coastal town where full fibre is rolling out and riverside industrial estates keep the trade wired. Build contractors and structured-cabling firms run fleets of engineers on trade accounts and buy through procurement, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run trade accounts for the crews and direct ordering for everyone else, side by side.",
+    "s1_head": "Kitting the field engineers of Littlehampton and West Sussex",
+    "s1loc": [
+      "Littlehampton is in the middle of a layered full-fibre build. nexfibre and Virgin Media have extended their symmetric full-fibre network to more than twenty thousand homes in the town, Openreach is among the West Sussex locations next in line for its own Full Fibre rollout, and CityFibre has been building gigabit fibre through the wider West Sussex project, with smaller FTTP deployments from the likes of Hyperoptic and OFNL on top. Build crews work through Littlehampton, Wick, Rustington and toward Climping, hauling duct, blowing fibre and connecting cabinets and customer premises.",
+      "On the commercial side the town leans on its riverside and bypass estates. Riverside Industrial Estate off Bridge Road by the A259, the Lineside Industrial Estate on the west side off the bypass, and the units and offices toward Wick and Rustington all keep structured-cabling and CCTV firms busy in Cat5e, Cat6 and fibre. Sitting midway between Bognor Regis and Worthing along the coast road, Littlehampton draws steady commercial fit-out, and installers wire warehouses, offices, shops and schools across the town the year round."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Littlehampton, a structured-cabling firm or a one-van broadband installer toward Bognor Regis"
+  },
+  "darwen": {
+    "region": "Darwen and Lancashire",
+    "nearby": ["Blackburn", "Accrington", "Burnley"],
+    "snapshot": "Darwen is a Lancashire mill town in active full-fibre build with the India Mill business centre and M65 estates to keep wired. Build contractors and structured-cabling firms run fleets of engineers on trade accounts and buy branded kit through procurement, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run both routes side by side, kitting the fleet and the lone installer alike.",
+    "s1_head": "Kitting the field engineers of Darwen and Lancashire",
+    "s1loc": [
+      "Darwen is in active full-fibre build. Alt-net brsk extended its Lancashire FTTP rollout into Darwen as part of a programme reaching well over a hundred thousand homes across the county, Openreach is pushing its own Full Fibre network through the town and the wider Blackburn with Darwen borough, and regional North West builder Freedom Fibre is laying gigabit fibre across Lancashire alongside the Virgin Media network. The major build contractors field crews through Darwen, Earcroft, Whitehall and Hoddlesden, erecting poles, hauling duct, blowing fibre and connecting cabinets and customer premises.",
+      "On the commercial side Darwen carries real industrial heritage put back to work. The Grade II listed India Mill Business Centre on Bolton Road, with its landmark campanile chimney, runs offices and storage for businesses of every size, and the trading estates and units along the M65 corridor toward Blackburn keep structured-cabling and CCTV firms busy in Cat5e, Cat6 and fibre. With the motorway close by, installers wire offices, mill conversions, warehouses and schools across Darwen and the surrounding Lancashire towns the year round."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Darwen, a structured-cabling firm or a one-van broadband installer toward Blackburn"
+  }
+}

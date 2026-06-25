@@ -1,0 +1,86 @@
+{
+  "bilston": {
+    "region": "Bilston and the West Midlands",
+    "nearby": ["Wolverhampton", "Walsall", "Wednesbury"],
+    "snapshot": "Bilston sits in the City of Wolverhampton, in the middle of a busy Black Country fibre build. Network build contractors run whole crews across the town and order through trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run both routes side by side, kitting the fleet engineer and the independent installer alike across this corner of the West Midlands.",
+    "s1_head": "Kitting the field engineers of the Black Country",
+    "s1loc": [
+      "Bilston is in the thick of the Black Country full-fibre push. CityFibre has effectively finished its Wolverhampton build, taking gigabit fibre past most homes across the city that Bilston belongs to, while Openreach keeps extending its own full-fibre footprint street by street. Just east, Netomnia and YouFibre have made tens of thousands of premises serviceable from the Wednesbury exchange, and contractor crews are out through Bradley, Ettingshall and Priestfield. With the major mobile networks upgrading on top, there is steady street, pole and cabinet work for build crews and the subcontractors who follow them through the town.",
+      "Alongside the residential rollout sits a solid commercial scene. Bradley Lane carries the Qualtronyc Business Park, and there are working industrial pockets around Spring Vale, Moxley and the canal corridor toward Wednesbury. Structured-cabling and fibre firms wire offices, warehouses and schools across the estates in Cat5e, Cat6 and fibre, and CCTV installers fit and service systems for the units, retail parades and yards. It is a proper mix of national build contractors and small local installers, and both need engineers turned out in clean, branded kit on site."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Bilston, a structured-cabling firm or a one-van broadband installer toward Wolverhampton"
+  },
+  "sedgley": {
+    "region": "Sedgley and the West Midlands",
+    "nearby": ["Dudley", "Wolverhampton", "Tipton"],
+    "snapshot": "Sedgley sits between Dudley and Wolverhampton in the Black Country, where a busy fibre build keeps engineers on the street. Build contractors field whole crews and order through trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run both routes side by side, kitting the fleet engineer and the independent installer alike across this part of the West Midlands.",
+    "s1_head": "Kitting the field engineers of the Black Country",
+    "s1loc": [
+      "Sedgley straddles the Dudley and Wolverhampton border, and both sides are in the middle of a full-fibre build. CityFibre has run a major gigabit build across Wolverhampton just to the north, Openreach keeps pushing its own full fibre out through Dudley, and contractor crews work the streets around Upper Gornal, Lower Gornal, Woodsetton and Cotwall End. With the major mobile networks upgrading masts on top of all that, there is steady civils, pole and cabinet work across the town for the build contractors and the subcontractors who follow them from cabinet to customer premises.",
+      "The commercial side runs alongside it. Sedgley sits close to the industrial estates of Dudley, Tipton and the Castle Hill corridor, with trading units, warehouses and offices that need structured cabling and CCTV. Cabling firms pull Cat5e, Cat6 and fibre into offices, schools and multi-site businesses around the area, while CCTV installers fit and maintain systems for the units, shops and yards along the high street and the surrounding estates. It is the usual Black Country mix of big build contractors and small independent installers, and every one of them wants engineers in tidy branded workwear."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Sedgley, a structured-cabling firm or a one-van broadband installer toward Dudley"
+  },
+  "tipton": {
+    "region": "Tipton and the West Midlands",
+    "nearby": ["Dudley", "West Bromwich", "Wednesbury"],
+    "snapshot": "Tipton sits in the Metropolitan Borough of Sandwell, in the heart of the Black Country fibre build. Build contractors run whole crews across the town and order through trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run both routes side by side, kitting the fleet engineer and the independent installer alike across this stretch of the West Midlands.",
+    "s1_head": "Kitting the field engineers of the Black Country",
+    "s1loc": [
+      "Tipton is right in the middle of the Black Country full-fibre rollout. Openreach keeps extending its full-fibre build through the town, and just to the east Netomnia and YouFibre have made tens of thousands of premises serviceable from the Wednesbury exchange, with contractor crews working through Great Bridge, Princes End, Ocker Hill and Tividale. The major mobile networks keep upgrading masts on top. The Black Country Spine Road links the build straight through to West Bromwich and Wednesbury, so there is constant street, duct and cabinet work for the build contractors and the subcontractors following them across the town.",
+      "The commercial scene is strong here. Great Bridge Industrial Estate and the trading units around the Spine Road and Bloomfield carry warehouses, workshops and offices, and Princes End runs straight up to the Bilston border. Structured-cabling firms wire these units in Cat5e, Cat6 and fibre, while CCTV installers fit and service systems for the yards, retail parades and logistics sheds. It is the classic Sandwell mix of national build contractors with crews on the street and small local cabling and CCTV installers, all of whom need engineers turned out in branded kit."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Tipton, a structured-cabling firm or a one-van broadband installer toward Dudley"
+  },
+  "hertford": {
+    "region": "Hertford and Hertfordshire",
+    "nearby": ["Hoddesdon", "Welwyn Garden City", "Stevenage"],
+    "snapshot": "Hertford is the county town of Hertfordshire, with a full-fibre build running through it and out into the surrounding villages. Build contractors field whole crews and order through trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run both routes side by side, kitting the fleet engineer and the independent installer alike across this part of Hertfordshire.",
+    "s1_head": "Kitting the field engineers of Hertfordshire",
+    "s1loc": [
+      "Hertford sits inside a county-wide full-fibre push. Openreach has taken its full-fibre network past more than 360,000 properties across Hertfordshire and keeps extending it through the town and into the surrounding villages, while CityFibre is delivering Project Gigabit work to harder-to-reach parts of the county. Contractor crews run the streets around Bengeo, Hertford Heath, Sele and the Mead Lane corridor, with the major mobile networks upgrading on top. With the town threaded between the River Lea and the railway to Liverpool Street, there is steady civils, duct and cabinet work for the build contractors and the subcontractors who follow them to the door.",
+      "The commercial side is busy too. Foxholes Business Park off John Tate Road and Watermark Way, the Mead Lane employment area with the Mead Business Centre and Lockhouse Industrial Estate, and the new Bircherley Green development all carry offices, light industry and retail. Structured-cabling firms wire these in Cat5e, Cat6 and fibre for offices, schools and multi-site businesses, and CCTV installers fit and maintain systems across the estates and the town centre. It is a mix of national build contractors and small independent cabling and CCTV installers, and all of them want engineers in clean branded workwear."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Hertford, a structured-cabling firm or a one-van broadband installer toward Hoddesdon"
+  },
+  "totton": {
+    "region": "Totton and Hampshire",
+    "nearby": ["Southampton", "Eastleigh", "Fareham"],
+    "snapshot": "Totton sits on the edge of the New Forest just west of Southampton, where a full-fibre build keeps engineers on the street. Build contractors field whole crews and order through trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run both routes side by side, kitting the fleet engineer and the independent installer alike across this corner of Hampshire.",
+    "s1_head": "Kitting the field engineers of Hampshire",
+    "s1loc": [
+      "Totton is in the middle of a Hampshire full-fibre build. Openreach keeps extending its full-fibre network through the town, and the Hampshire alt-net Toob has grown its own gigabit footprint across the area, partnering with CityFibre to reach further towns and cities around the south. Contractor crews work the streets through Calmore, Hounsdown, Testwood, Rushington and Eling, with the major mobile networks upgrading masts on top. Sitting between the New Forest and the River Test on the doorstep of Southampton, the town gives the build contractors and the subcontractors who follow them steady street, duct and cabinet work.",
+      "The commercial scene is anchored by the estates. Calmore Industrial Estate, the South Hampshire Industrial Park and the trading units along Brunel Road and Stephenson Road carry warehouses, logistics sheds and offices, with occupiers from national carriers to local manufacturers. Structured-cabling firms pull Cat5e, Cat6 and fibre into these units, offices and schools, while CCTV installers fit and service systems across the estates and the town centre. It is the usual mix of national build contractors with crews on the road and small local cabling and CCTV installers, all needing engineers in tidy branded kit."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Totton, a structured-cabling firm or a one-van broadband installer toward Southampton"
+  },
+  "burntwood": {
+    "region": "Burntwood and Staffordshire",
+    "nearby": ["Lichfield", "Cannock", "Walsall"],
+    "snapshot": "Burntwood sits in Staffordshire between Lichfield and Cannock, where a full-fibre build keeps engineers on the street. Build contractors field whole crews and order through trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run both routes side by side, kitting the fleet engineer and the independent installer alike across this part of Staffordshire.",
+    "s1_head": "Kitting the field engineers of Staffordshire",
+    "s1loc": [
+      "Burntwood has had a strong run of full-fibre build. The alt-net Netomnia, backed by YouFibre, named Burntwood as one of its early rollout locations and built a full-fibre network through the town, while Openreach has taken its own full fibre past hundreds of thousands of premises across Staffordshire and keeps extending it locally. Contractor crews work the streets around Chase Terrace, Chasetown, Boney Hay and Highfields, with the major mobile networks upgrading on top. Sitting on the edge of Cannock Chase between Lichfield and Cannock, the town keeps the build contractors and the subcontractors who follow them in steady street and cabinet work.",
+      "The commercial side runs alongside it. The trading estates and units around Zone 1 and the Burntwood Business Park area, plus the workshops and offices spread through the town, carry light industry, logistics and retail. Structured-cabling firms wire these in Cat5e, Cat6 and fibre for offices, schools and multi-site businesses across the area, while CCTV installers fit and maintain systems for the units, yards and parades. It is the familiar Staffordshire mix of national build contractors with crews on the road and small independent cabling and CCTV installers, and all of them want engineers in clean branded workwear."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Burntwood, a structured-cabling firm or a one-van broadband installer toward Lichfield"
+  },
+  "farnworth": {
+    "region": "Farnworth and Greater Manchester",
+    "nearby": ["Bolton", "Bury", "Salford"],
+    "snapshot": "Farnworth sits just south of Bolton in Greater Manchester, where a full-fibre build keeps engineers on the street. Build contractors field whole crews and order through trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run both routes side by side, kitting the fleet engineer and the independent installer alike across this corner of Greater Manchester.",
+    "s1_head": "Kitting the field engineers of Greater Manchester",
+    "s1loc": [
+      "Farnworth is part of a big Bolton full-fibre build. CityFibre's network is live across large parts of the area, with the Farnworth and Astley Bridge sections of the build completed through its build partner, taking gigabit fibre past tens of thousands of premises that were first targeted under the former FibreNation plan. Openreach keeps extending its own full fibre across the borough alongside it, and contractor crews work the streets through Kearsley, Moses Gate, Little Hulton and Highfield. With the major mobile networks upgrading on top, there is steady civils, duct and cabinet work for the build contractors and the subcontractors who follow them across the town.",
+      "The commercial scene is busy too. The trading units and industrial estates around Moses Gate, the A6 corridor and the older mill sites toward Bolton and Salford carry warehouses, workshops and offices. Structured-cabling firms pull Cat5e, Cat6 and fibre into these units, offices and schools, while CCTV installers fit and service systems for the yards, retail parades and town-centre shops. It is the usual Greater Manchester mix of national build contractors with crews on the street and small local cabling and CCTV installers, all of whom need engineers turned out in branded kit."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Farnworth, a structured-cabling firm or a one-van broadband installer toward Bolton"
+  }
+}

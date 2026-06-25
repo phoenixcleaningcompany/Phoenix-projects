@@ -1,0 +1,86 @@
+{
+  "pudsey": {
+    "region": "Pudsey and West Yorkshire",
+    "nearby": ["Leeds", "Bradford", "Horsforth"],
+    "snapshot": "Pudsey sits between Leeds and Bradford, and its broadband build runs on two ordering routes. Build contractors and structured-cabling fleets run trade accounts and buy branded kit through procurement for whole crews, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run both side by side so the fleet and the single engineer are kitted alike.",
+    "s1_head": "Kitting the field engineers of West Yorkshire",
+    "s1loc": [
+      "Pudsey sits inside the Leeds full-fibre build, a CityFibre Gigabit City, with the network reaching across the town and neighbouring Stanningley, Farsley and Bramley. Openreach delivery partners and civils firms push full fibre through the streets, while alt-nets including Netomnia and YouFibre, brsk and Virgin Media build alongside. Quickline is active across the wider Yorkshire and Humber footprint too. With Leeds and Bradford either side, engineers from several networks work the same cabinets and poles around Pudsey, Tyersal and Calverley day in, day out.",
+      "Alongside the residential rollout runs a steady commercial scene. Structured-cabling and CCTV firms wire offices, schools and warehouses in Cat5e, Cat6 and fibre across the Grangefield and Owlcotes industrial areas and along the Stanningley bypass corridor toward Leeds. Multi-site retailers around the Owlcotes Centre, light-industrial units in Farsley and business premises near the Leeds and Bradford boundary all need data cabling, networking and camera work. It is a mix of national contractors and independent installers serving homes and businesses across the town."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Pudsey, a structured-cabling firm or a one-van broadband installer toward Bradford"
+  },
+  "bedworth": {
+    "region": "Bedworth and Warwickshire",
+    "nearby": ["Nuneaton", "Coventry", "Hinckley"],
+    "snapshot": "Bedworth, between Nuneaton and Coventry, has its network work split across two ordering routes. Build contractors and cabling fleets run trade accounts and buy branded workwear centrally for whole crews, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run trade accounts and direct online ordering together so the fleet and the single engineer are both covered.",
+    "s1_head": "Kitting the field engineers of Warwickshire",
+    "s1loc": [
+      "Bedworth sits in the Nuneaton and Bedworth full-fibre build. Openreach is pushing full fibre across the town, and CityFibre holds the Project Gigabit contract for Leicestershire and Warwickshire that reaches premises beyond the commercial footprint. Netomnia is building in the wider area too, using existing ducts and poles, while Virgin Media keeps upgrading on top. With Coventry to the south and Nuneaton to the north, engineers from several networks work the cabinets and poles through Bedworth, Bulkington and the Exhall corridor toward the city.",
+      "Alongside the homes rollout sits a solid commercial scene. Structured-cabling and CCTV firms wire units across Bayton Road and Bermuda Park, the Centenary Business Park and the industrial estates strung along the A444 between Bedworth and Coventry. Long-standing local security installers have served the town for decades, fitting cameras and networking to warehouses, workshops and offices. Multi-site businesses, light-industrial premises and the logistics units near the M6 corridor all need Cat6 and fibre, networking and camera work across the borough."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Bedworth, a structured-cabling firm or a one-van broadband installer toward Nuneaton"
+  },
+  "rayleigh": {
+    "region": "Rayleigh and Essex",
+    "nearby": ["Basildon", "Wickford", "Southend-on-Sea"],
+    "snapshot": "Rayleigh, in the Rochford district of Essex, has its broadband work split across two ordering routes. Build contractors and cabling fleets run trade accounts and buy branded kit centrally for whole crews, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run trade accounts and direct online ordering side by side so the fleet and the single engineer alike are kitted.",
+    "s1_head": "Kitting the field engineers of Essex",
+    "s1loc": [
+      "Rayleigh sits firmly inside the Essex full-fibre build. Openreach has reached hundreds of thousands of Essex premises, with new fibre cabinets going live across the town through the Digital Essex programme. CityFibre named Rochford and Rayleigh for multi-million-pound full-fibre investment, Connect Fibre has built to thousands of premises around Rayleigh and Thundersley, and County Broadband and Netomnia are active across the county. With Basildon and Southend-on-Sea nearby, engineers from several networks work the cabinets and poles through Rayleigh, Hockley and Hullbridge.",
+      "Alongside the residential rollout runs a working commercial scene. Structured-cabling and CCTV firms wire offices, shops and warehouses in Cat5e, Cat6 and fibre across the Rawreth Industrial Estate and the units strung along the A1245 and London Road. Multi-site retailers around the town centre, light-industrial premises toward Wickford and business units near the railway all need data cabling, networking and camera work. It is a mix of national build contractors and independent installers serving homes and businesses across the town."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Rayleigh, a structured-cabling firm or a one-van broadband installer toward Basildon"
+  },
+  "loughton": {
+    "region": "Loughton and Essex",
+    "nearby": ["Ilford", "Romford", "Walthamstow"],
+    "snapshot": "Loughton, in the Epping Forest district of Essex, has its network work split across two ordering routes. Build contractors and cabling fleets run trade accounts and buy branded workwear centrally for whole crews, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run trade accounts and direct online ordering together so the fleet and the single engineer are both covered.",
+    "s1_head": "Kitting the field engineers of Essex",
+    "s1loc": [
+      "Loughton sits inside the Epping Forest full-fibre build on the edge of Greater London. Openreach has put new fibre cabinets live across the town through the Digital Essex programme, and Gigaclear holds a contract to deliver ultrafast broadband across the Epping Forest district. Netomnia builds in the wider area using existing ducts and poles, while Virgin Media keeps upgrading on top. With Ilford and Walthamstow close on the London side, engineers from several networks work the cabinets and poles through Loughton, Buckhurst Hill and Debden.",
+      "Alongside the residential rollout runs a steady commercial scene. Structured-cabling and CCTV firms wire offices, shops and warehouses in Cat5e, Cat6 and fibre across the Langston Road retail and industrial area and the units around Debden and the Central Line corridor. Multi-site retailers near Epping Forest Shopping Park, business premises along the High Road and light-industrial units toward Romford all need data cabling, networking and camera work. It is a mix of national contractors and independent installers serving homes and businesses across the town."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Loughton, a structured-cabling firm or a one-van broadband installer toward Ilford"
+  },
+  "rutherglen": {
+    "region": "Rutherglen and South Lanarkshire",
+    "nearby": ["Glasgow", "East Kilbride", "Hamilton"],
+    "snapshot": "Rutherglen, on the edge of Glasgow in South Lanarkshire, has its broadband work split across two ordering routes. Build contractors and cabling fleets run trade accounts and buy branded kit centrally for whole crews, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run trade accounts and direct online ordering side by side so the fleet and the single engineer alike are kitted.",
+    "s1_head": "Kitting the field engineers of South Lanarkshire",
+    "s1loc": [
+      "Rutherglen sits inside the Glasgow City Region full-fibre build. CityFibre is investing hundreds of millions deploying thousands of kilometres of fibre across the region, with its South Lanarkshire build reaching into Rutherglen and Cambuslang. Openreach pushes full fibre across the town and the wider area, while Virgin Media O2 and YouFibre also cover parts of South Lanarkshire toward East Kilbride and Hamilton. Engineers from several networks work the cabinets and poles through Rutherglen, Burnside, Cambuslang and the Glasgow boundary day in, day out.",
+      "Alongside the residential rollout runs a working commercial scene. Structured-cabling and CCTV firms wire offices, workshops and warehouses in Cat5e, Cat6 and fibre across the Clydesmill and Cambuslang Investment Park areas and the industrial units strung along the Glasgow Road corridor. Multi-site retailers around Main Street, business premises near the railway and light-industrial estates toward Glasgow all need data cabling, networking and camera work. It is a mix of national build contractors and independent installers serving homes and businesses across the town."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Rutherglen, a structured-cabling firm or a one-van broadband installer toward Glasgow"
+  },
+  "epsom": {
+    "region": "Epsom and Surrey",
+    "nearby": ["Sutton", "Croydon", "Kingston upon Thames"],
+    "snapshot": "Epsom, in the Epsom and Ewell area of Surrey, has its network work split across two ordering routes. Build contractors and cabling fleets run trade accounts and buy branded workwear centrally for whole crews, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run trade accounts and direct online ordering together so the fleet and the single engineer are both covered.",
+    "s1_head": "Kitting the field engineers of Surrey",
+    "s1loc": [
+      "Epsom sits inside the Surrey full-fibre build. Openreach is installing its open-access full-fibre network across the town and the wider county, letting many ISPs sell over it once a premises is reached. CityFibre is a major challenger building across the region, and Netomnia and YouFibre are expanding their footprint through Surrey too, with Virgin Media upgrading on top. With Sutton and Kingston upon Thames close on the London side, engineers from several networks work the cabinets and poles through Epsom, Ewell and Stoneleigh.",
+      "Alongside the residential rollout runs a strong commercial scene. Structured-cabling and CCTV firms wire offices, units and warehouses in Cat5e, Cat6 and fibre across the Longmead and Kiln Lane industrial estates, where hundreds of SMEs and car franchises sit off the A24. Epsom General Hospital, the town-centre offices and business premises near Epsom Downs Racecourse all need data cabling, networking and camera work. It is a mix of national contractors and independent installers serving homes and businesses across the town."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Epsom, a structured-cabling firm or a one-van broadband installer toward Sutton"
+  },
+  "staines": {
+    "region": "Staines and Surrey",
+    "nearby": ["Feltham", "Hounslow", "Twickenham"],
+    "snapshot": "Staines, on the Thames in the Spelthorne area of Surrey, has its broadband work split across two ordering routes. Build contractors and cabling fleets run trade accounts and buy branded kit centrally for whole crews, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run trade accounts and direct online ordering side by side so the fleet and the single engineer alike are kitted.",
+    "s1_head": "Kitting the field engineers of Surrey",
+    "s1loc": [
+      "Staines sits inside the Surrey full-fibre build. Openreach engineers are building new full fibre across the town and the surrounding area, including Egham and Englefield Green, much of it under the Project Gigabit programme. The Openreach network is open access, so many ISPs sell over it once a premises is reached, while CityFibre builds across the region and Netomnia and YouFibre expand their footprint nearby. With Feltham and Hounslow close by toward Heathrow, engineers from several networks work the cabinets and poles through Staines, Ashford and Stanwell.",
+      "Alongside the residential rollout runs a strong commercial scene, helped by the M25 and Heathrow on the doorstep. Structured-cabling and CCTV firms wire offices and data rooms in Cat5e, Cat6 and fibre across Waterman's Business Park on the Causeway, home to major corporate occupiers, and the Cisco campus at nearby Bedfont Lakes. The Two Rivers retail area, town-centre offices and logistics units near the motorway all need data cabling, networking and camera work. It is a mix of national contractors and independent installers serving homes and businesses across the town."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Staines, a structured-cabling firm or a one-van broadband installer toward Feltham"
+  }
+}

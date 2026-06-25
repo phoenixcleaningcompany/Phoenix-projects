@@ -1,0 +1,86 @@
+{
+  "chichester": {
+    "region": "Chichester and West Sussex",
+    "nearby": ["Bognor Regis", "Worthing", "Littlehampton"],
+    "snapshot": "Chichester is a CityFibre town in the middle of a full fibre build, with more than one network digging across the city and a busy commercial cabling scene around its business parks. We serve both ordering routes here: build contractors and structured-cabling firms running fleets of engineers buy on trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. Fleet and single installer get branded workwear the same way.",
+    "s1_head": "Kitting the field engineers of West Sussex",
+    "s1loc": [
+      "Chichester is a genuine full fibre city. CityFibre has built its own network past more than 12,000 premises across the city, while Openreach keeps pushing fibre straight to the premises through the West Sussex programme, so two networks have crews on the ground. Delivery partners run civils gangs, jointers and fibre engineers through Whyke, Summersdale, Parklands, Fishbourne and Tangmere alongside the rollout, while the major mobile networks keep upgrading on top. On any week you will find gangs working the city's footways, chambers and cabinets the year round.",
+      "Around the residential build sits a strong commercial scene. Chichester Business Park out at Tangmere and the Terminus Road industrial estate southwest of the centre host manufacturing, logistics and trade firms, while the University of Chichester campuses and the offices around the city centre add to the mix, and all of it needs structured cabling in Cat5e, Cat6 and fibre plus CCTV. Local cabling and security installers wire these premises, schools and multi-site businesses across West Sussex, working alongside the broadband crews and giving Chichester a steady blend of network build and commercial fit-out work."
+    ],
+    "kit_loc": "across the city's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Chichester, a structured-cabling firm or a one-van broadband installer toward Bognor Regis"
+  },
+  "deal": {
+    "region": "Deal and Kent",
+    "nearby": ["Dover", "Folkestone", "Canterbury"],
+    "snapshot": "Deal is part of the East Kent full fibre push, with the network building across the town and a steady commercial cabling and CCTV scene along the coast. We serve both ordering routes here: build contractors and cabling firms running fleets of engineers buy on trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. Fleet and single installer get the same branded workwear.",
+    "s1_head": "Kitting the field engineers of East Kent",
+    "s1loc": [
+      "Deal sits in Openreach's full fibre programme for East Kent, named among the coastal towns getting the network straight to the premises, while the CityFibre Project Gigabit contract for Kent and nexfibre activity around neighbouring Sandwich extend gigabit build across the area. Delivery partners run civils gangs, jointers and fibre engineers through the seafront, Mill Hill, Sholden, Great Mongeham and out toward Walmer, while the major mobile networks keep upgrading on top. With the build pushing across the Dover district there is a steady flow of street-level network work across the town.",
+      "Around the residential build sits a solid commercial scene. The High Street and seafront trade, the industrial units off the Dover road, the units toward Sandwich and the offices around the town centre host the businesses behind the Deal and Walmer Chamber, all needing structured cabling in Cat5e, Cat6 and fibre plus CCTV and access control. Local cabling and security installers wire these premises, schools and multi-site businesses across East Kent, working alongside the broadband crews. It gives Deal a dependable blend of network build and commercial fit-out work the year round."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Deal, a structured-cabling firm or a one-van broadband installer toward Dover"
+  },
+  "sevenoaks": {
+    "region": "Sevenoaks and Kent",
+    "nearby": ["Tonbridge", "Tunbridge Wells", "Gravesend"],
+    "snapshot": "Sevenoaks is well up the Kent full fibre rankings, with the network building across the town and a busy commercial cabling scene around its business parks. We serve both ordering routes here: build contractors and structured-cabling firms running fleets of engineers buy on trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. Fleet and single installer get branded workwear the same way.",
+    "s1_head": "Kitting the field engineers of west Kent",
+    "s1loc": [
+      "Sevenoaks is among the leading Kent towns for full fibre, ranking high in Openreach's county coverage as the network is built straight to the premises. Delivery partners run civils gangs, jointers and fibre engineers through Riverhead, Dunton Green, Kemsing, Otford and the districts toward Bat and Ball, while the major mobile networks keep upgrading on top and the alternative networks push gigabit build across the wider district. On any week you will find gangs working the town's footways, chambers and cabinets the year round.",
+      "Around the residential build sits a steady commercial scene. Connections Business Park and the adjoining Vestry Trading Estate off Otford Road host offices, trade and light-industrial firms, while the units around the station and the town centre offices add to the mix, and all of it needs structured cabling in Cat5e, Cat6 and fibre plus CCTV. Local cabling and security installers wire these premises, schools and multi-site businesses across west Kent, working alongside the broadband crews and giving Sevenoaks a steady blend of network build and commercial fit-out work across the town."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Sevenoaks, a structured-cabling firm or a one-van broadband installer toward Tonbridge"
+  },
+  "tonbridge": {
+    "region": "Tonbridge and Kent",
+    "nearby": ["Tunbridge Wells", "Sevenoaks", "Maidstone"],
+    "snapshot": "Tonbridge is part of the Kent full fibre push, with the network building across the town and a busy commercial cabling and CCTV scene around its trade parks. We serve both ordering routes here: build contractors and structured-cabling firms running fleets of engineers buy on trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. Fleet and single installer get branded workwear the same way.",
+    "s1_head": "Kitting the field engineers of west Kent",
+    "s1loc": [
+      "Tonbridge sits in Openreach's full fibre programme for Kent, with the network going straight to the premises across the town, while CityFibre and the alternative networks push gigabit build through the wider Tonbridge and Malling area. Delivery partners run civils gangs, jointers and fibre engineers through Higham Wood, Cage Green, Hadlow Road, Vauxhall and the districts off the A26, while the major mobile networks keep upgrading on top. With the build extending toward Hildenborough and the surrounding villages there is a steady flow of street-level network work across the town.",
+      "Around the residential build sits a strong commercial scene. Tonbridge Trade Park on Vale Road, the Vale Road industrial units and the business premises around the station and town centre host trade, warehouse and office firms that need structured cabling in Cat5e, Cat6 and fibre plus CCTV. Local cabling and security installers wire these premises, schools and multi-site businesses across the Tonbridge and Malling area, working alongside the broadband crews and giving Tonbridge a steady mix of network build and commercial fit-out work the year round."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Tonbridge, a structured-cabling firm or a one-van broadband installer toward Tunbridge Wells"
+  },
+  "rushden": {
+    "region": "Rushden and Northamptonshire",
+    "nearby": ["Wellingborough", "Kettering", "Corby"],
+    "snapshot": "Rushden is part of the Northamptonshire full fibre rollout, with the network building across the town and a steady commercial cabling scene around the Nene Valley. We serve both ordering routes here: build contractors and structured-cabling firms running fleets of engineers buy on trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. Fleet and single installer get branded workwear the same way.",
+    "s1_head": "Kitting the field engineers of Northamptonshire",
+    "s1loc": [
+      "Rushden sits in Openreach's Northamptonshire full fibre programme, where more than 200,000 homes and businesses across the county can already get ultrafast full fibre and more than half of premises are gigabit-capable, with the build going straight to the premises across the town. Delivery partners run civils gangs, jointers and fibre engineers through Higham Ferrers, Newton Road, the town centre and the districts toward the A45, while the alternative networks and the major mobile operators keep upgrading on top, giving a steady flow of street-level network work across the town the year round.",
+      "Around the residential build sits a solid commercial scene anchored by the Nene Valley. Rushden Lakes off the A45 draws retail and leisure trade, while Rushden Business Park and the industrial units toward Higham Ferrers and Wellingborough host distribution, manufacturing and trade firms that need structured cabling in Cat5e, Cat6 and fibre plus CCTV. Local cabling and security installers wire these premises, schools and multi-site businesses across Northamptonshire, working alongside the broadband crews and giving Rushden a dependable blend of network build and commercial fit-out work."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Rushden, a structured-cabling firm or a one-van broadband installer toward Wellingborough"
+  },
+  "pontefract": {
+    "region": "Pontefract and West Yorkshire",
+    "nearby": ["Castleford", "Normanton", "Featherstone"],
+    "snapshot": "Pontefract is in the middle of a major full fibre build, with more than one network digging across the town and a busy commercial cabling scene around its logistics estates. We serve both ordering routes here: build contractors and structured-cabling firms running fleets of engineers buy on trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. Fleet and single installer get branded workwear the same way.",
+    "s1_head": "Kitting the field engineers of the Five Towns",
+    "s1loc": [
+      "Pontefract is a busy full fibre town. Netomnia is building a full fibre network here, partnering with MAP Group to reach more than 48,000 premises across the town, sold through YouFibre, while Openreach keeps pushing fibre straight to the premises and Quickline extends its Project Gigabit build into the rural areas around West Yorkshire. So several networks have crews on the ground. Civils gangs, jointers and fibre engineers work the footways and cabinets through Carleton, Monkhill, Tanshelf, Chequerfield and the districts toward Knottingley alongside the delivery partners.",
+      "Around the residential build sits a solid commercial scene built on logistics. The industrial and distribution units off the M62, the trade estates toward Castleford and Knottingley and the offices around the market hall and town centre host warehouse, transport and trade firms that need structured cabling in Cat5e, Cat6 and fibre plus CCTV. Local cabling and security installers wire these premises, schools and multi-site businesses across the Five Towns, working alongside the broadband crews and giving Pontefract a steady mix of network build and commercial fit-out work the year round."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Pontefract, a structured-cabling firm or a one-van broadband installer toward Castleford"
+  },
+  "camberley": {
+    "region": "Camberley and Surrey",
+    "nearby": ["Farnborough", "Aldershot", "Sandhurst"],
+    "snapshot": "Camberley is in the middle of a full fibre build, with engineers digging across the town and a busy commercial cabling scene around its business parks. We serve both ordering routes here: build contractors and structured-cabling firms running fleets of engineers buy on trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. Fleet and single installer get branded workwear the same way.",
+    "s1_head": "Kitting the field engineers of Surrey",
+    "s1loc": [
+      "Camberley is well into its full fibre build. Openreach engineers have started work building a new network for the town as part of Project Gigabit, reaching the majority of local homes and businesses and extending out toward Frimley Green, Deepcut and the surrounding areas. Delivery partners run civils gangs, jointers and fibre engineers through Old Dean, Yorktown, Heatherside and the districts off the A30, while the alternative networks and the major mobile operators keep upgrading on top, giving a steady flow of street-level network work across the town the year round.",
+      "Around the residential build sits a strong commercial scene. Frimley Business Park by junction 4 of the M3 and the Albany Park industrial estate host logistics, warehouse and trade firms, while the office blocks around the town centre and the Surrey Heath business premises add to the mix, and all of it needs structured cabling in Cat5e, Cat6 and fibre plus CCTV. Local cabling and security installers wire these offices, units and multi-site businesses across Surrey, working alongside the broadband crews and giving Camberley a steady blend of network build and commercial fit-out work."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Camberley, a structured-cabling firm or a one-van broadband installer toward Farnborough"
+  }
+}
