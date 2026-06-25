@@ -1,0 +1,86 @@
+{
+  "stockton-on-tees": {
+    "region": "Stockton-on-Tees and Teesside",
+    "nearby": ["Middlesbrough", "Billingham", "Thornaby-on-Tees"],
+    "snapshot": "Stockton-on-Tees sits in the middle of a busy Teesside full-fibre build, with several networks digging across the town at once. Build contractors and cabling fleets run trade accounts and order branded polos, hi-vis and softshells in bulk for whole crews, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account, picking up just a few pieces as and when each job needs them.",
+    "s1_head": "Kitting the field engineers of Teesside",
+    "s1loc": [
+      "Stockton-on-Tees is one of the most heavily built towns on Teesside, with multiple full-fibre networks digging at the same time. Openreach is pushing its fibre programme out across the town, CityFibre is delivering a town-wide network through its civils partners, and Netomnia with YouFibre is building its own footprint alongside, while Virgin Media keeps upgrading on top. Crews work through Norton, Hardwick, Roseworth, Ragworth and Thornaby across the river, threading fibre through the streets, cabinets and customer premises. With this many networks live at once, the town has a steady population of build and civils engineers on the ground.",
+      "Alongside the residential rollout sits a solid commercial and structured-cabling scene. Cabling and CCTV installers wire offices and units around Teesside Industrial Estate, Preston Farm Business Park and the Wynyard Business Park, plus the retail and leisure sites around Teesside Park and the town centre regeneration. Teesside University across the river in Middlesbrough and the wider Tees Valley supply chain keep data-cabling, fibre-optic and security work flowing in Cat5e, Cat6 and fibre. It is a mix of structured-cabling firms wiring whole buildings and smaller security and network installers fitting out shops, schools and small businesses."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Stockton-on-Tees, a structured-cabling firm or a one-van broadband installer toward Middlesbrough"
+  },
+  "gosport": {
+    "region": "Gosport and South Hampshire",
+    "nearby": ["Portsmouth", "Fareham", "Havant"],
+    "snapshot": "Gosport sits on the western side of Portsmouth Harbour in the middle of a competitive South Hampshire fibre build. Build contractors and cabling fleets run trade accounts and order branded polos, hi-vis and softshells in bulk for whole crews, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account, taking just the few pieces each job needs without setting up an account first.",
+    "s1_head": "Kitting the field engineers of South Hampshire",
+    "s1loc": [
+      "Gosport sits across the harbour from Portsmouth and has several full-fibre networks competing for the same streets. Openreach is rolling its fibre programme out across the peninsula, Toob is building and connecting its own full-fibre network through Gosport, Fareham, Havant and Portsmouth, and CityFibre runs infrastructure across the wider Portsmouth and Fareham area, while Virgin Media keeps upgrading alongside. Engineers work through Bridgemary, Rowner, Lee-on-the-Solent, Elson and Alverstoke, pulling fibre through the streets, cabinets and customer premises. With this many networks live, there is steady work on the ground.",
+      "Alongside the home rollout sits a commercial and structured-cabling scene tied to the harbour and the marine trades. Cabling and CCTV installers wire offices, workshops and units around Fareham Reach and the Daedalus Waterfront and enterprise zone at Lee-on-the-Solent, plus the marine and defence supply chain around the harbour and Portsmouth Naval Base nearby. The Segensworth industrial estates toward Fareham and the town's retail and leisure parks keep data-cabling, fibre-optic and security work flowing in Cat5e, Cat6 and fibre. It runs on structured-cabling firms and smaller independent network and security installers alike."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Gosport, a structured-cabling firm or a one-van broadband installer toward Fareham"
+  },
+  "scunthorpe": {
+    "region": "Scunthorpe and North Lincolnshire",
+    "nearby": ["Grimsby", "Cleethorpes", "Goole"],
+    "snapshot": "Scunthorpe sits at the heart of North Lincolnshire with three gigabit networks already live and more building out. Build contractors and cabling fleets run trade accounts and order branded polos, hi-vis and softshells in bulk for whole crews, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account, picking up just a few pieces as and when each job calls for them.",
+    "s1_head": "Kitting the field engineers of North Lincolnshire",
+    "s1loc": [
+      "Scunthorpe already has three gigabit-capable networks live, with more building out across North Lincolnshire. Openreach is pushing full fibre across the town, MS3 has extended its own network to tens of thousands of premises here, and Quickline is rolling out across the wider North Lincolnshire and East Riding area under Project Gigabit, while Virgin Media and nexfibre keep upgrading on top. Engineers work through Ashby, Bottesford, Brumby, Crosby and Frodingham, threading fibre through the streets, cabinets and customer premises. With several networks chasing take-up, there is steady build and connection work on the ground.",
+      "Alongside the home rollout sits a strong commercial and structured-cabling scene tied to steel and logistics. Cabling and CCTV installers wire offices, warehouses and units around the Foxhills Industrial Estate, Sawcliffe and Skippingdale, plus the steelworks supply chain and the distribution sites along the M180 corridor toward the Humber ports. The town centre regeneration and retail parks keep data-cabling, fibre-optic and security work flowing in Cat5e, Cat6 and fibre. It runs on structured-cabling firms wiring whole buildings and smaller network and security installers fitting out shops and small businesses."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Scunthorpe, a structured-cabling firm or a one-van broadband installer toward Grimsby"
+  },
+  "chesterfield": {
+    "region": "Chesterfield and Derbyshire",
+    "nearby": ["Dronfield", "Sheffield", "Mansfield"],
+    "snapshot": "Chesterfield sits in north Derbyshire under the famous crooked spire, with full fibre now reaching most of the town. Build contractors and cabling fleets run trade accounts and order branded polos, hi-vis and softshells in bulk for whole crews, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account, taking just the few pieces each job needs without setting up an account first.",
+    "s1_head": "Kitting the field engineers of Derbyshire",
+    "s1loc": [
+      "Chesterfield has had a major full-fibre push, with Openreach investing heavily to reach most of the town and tens of thousands of homes and businesses now able to upgrade. Openreach is the main builder here, extending its fibre network through the town and out into north Derbyshire, with the wider Digital Derbyshire programme reaching surrounding communities, while Virgin Media keeps upgrading alongside. Engineers work through Brampton, Hasland, Whittington, Newbold and Walton, pulling fibre through the streets, cabinets and customer premises. Sitting close to Sheffield, it draws on a steady supply chain of build and connection engineers.",
+      "Alongside the home rollout sits a commercial and structured-cabling scene tied to the town's industrial heritage and new development. Cabling and CCTV installers wire offices, workshops and units around the Markham Vale enterprise zone off junction 29A, the Dunston Innovation Centre and Sheepbridge industrial area, plus the town centre and the Chesterfield Waterside regeneration. The Peak Resort and distribution sites along the M1 corridor keep data-cabling, fibre-optic and security work flowing in Cat5e, Cat6 and fibre. It runs on structured-cabling firms and smaller independent network and security installers alike."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Chesterfield, a structured-cabling firm or a one-van broadband installer toward Dronfield"
+  },
+  "ashford": {
+    "region": "Ashford and Kent",
+    "nearby": ["Folkestone", "Canterbury", "Maidstone"],
+    "snapshot": "Ashford sits at a major rail and motorway junction in Kent, with a big combined fibre build under way. Build contractors and cabling fleets run trade accounts and order branded polos, hi-vis and softshells in bulk for whole crews, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account, picking up just a few pieces as and when each job calls for them.",
+    "s1_head": "Kitting the field engineers of Kent",
+    "s1loc": [
+      "Ashford has one of the larger full-fibre builds in Kent, with Openreach and Netomnia together targeting tens of thousands of premises across the urban area. Openreach is rolling its fibre programme out across the town and surrounding villages, Netomnia with YouFibre has invested heavily across Ashford and Canterbury, and CityFibre is contracted for the wider Kent Project Gigabit rollout, while Virgin Media keeps upgrading on top. Engineers work through Kennington, Willesborough, Stanhope, Singleton and South Ashford, threading fibre through the streets, cabinets and customer premises. With multiple networks active, there is steady build and connection work.",
+      "Alongside the home rollout sits a strong commercial and structured-cabling scene built around the town's connectivity. Cabling and CCTV installers wire offices, warehouses and units around Eureka Park, the Orbital Park and Sevington distribution sites near junction 10A of the M20, plus the international rail link and the retail outlets at Ashford Designer Outlet. The business parks and town centre regeneration keep data-cabling, fibre-optic and security work flowing in Cat5e, Cat6 and fibre. It runs on structured-cabling firms wiring whole buildings and smaller network and security installers fitting out shops and small businesses."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Ashford, a structured-cabling firm or a one-van broadband installer toward Folkestone"
+  },
+  "guildford": {
+    "region": "Guildford and Surrey",
+    "nearby": ["Godalming", "Aldershot", "Farnham"],
+    "snapshot": "Guildford is a busy Surrey town with several full-fibre networks building across it at once. Build contractors and cabling fleets run trade accounts and order branded polos, hi-vis and softshells in bulk for whole crews, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account, taking just the few pieces each job needs without setting up an account first.",
+    "s1_head": "Kitting the field engineers of Surrey",
+    "s1loc": [
+      "Guildford has had a heavy alt-net push alongside the main builders. Netomnia with YouFibre has invested to extend its gigabit network across tens of thousands of premises in the town, working with local civils partners, Openreach is rolling its full fibre out across Guildford and the wider Surrey area, and CityFibre operates in parts of the town, while Virgin Media keeps upgrading on top. Engineers work through Stoughton, Burpham, Merrow, Onslow Village and Park Barn, pulling fibre through the streets, cabinets and customer premises. With several networks chasing the same streets, there is steady build and connection work on the ground.",
+      "Alongside the home rollout sits a strong commercial and structured-cabling scene tied to the town's office and research economy. Cabling and CCTV installers wire offices, labs and units around the Surrey Research Park, the University of Surrey campus and the Slyfield Industrial Estate, plus the business parks along the A3 corridor and the town centre. The gaming and tech firms clustered around the research park and the wider professional-services base keep data-cabling, fibre-optic and security work flowing in Cat5e, Cat6 and fibre. It runs on structured-cabling firms and smaller independent network and security installers alike."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Guildford, a structured-cabling firm or a one-van broadband installer toward Godalming"
+  },
+  "lewisham": {
+    "region": "Lewisham and South East London",
+    "nearby": ["Woolwich", "Eltham", "Bromley"],
+    "snapshot": "Lewisham is a dense South East London borough with several full-fibre networks competing street by street. Build contractors and cabling fleets run trade accounts and order branded polos, hi-vis and softshells in bulk for whole crews, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account, picking up just a few pieces as and when each job calls for them.",
+    "s1_head": "Kitting the field engineers of South East London",
+    "s1loc": [
+      "Lewisham is a busy London full-fibre borough with several networks live at once. Openreach has invested heavily to bring full fibre to tens of thousands of homes and businesses across the borough, Community Fibre is expanding rapidly through council-estate wayleaves and the borough's streets, and Hyperoptic wires flats and apartment blocks, while Virgin Media keeps upgrading on top. Engineers work through Catford, Deptford, New Cross, Sydenham and Forest Hill, pulling fibre through the borough's streets, cabinets and customer premises. With this many networks chasing the same premises, there is constant build and connection work across the area.",
+      "Alongside the residential rollout sits a dense commercial and structured-cabling scene. Cabling and CCTV installers wire offices, studios and units around the Lewisham town centre and Gateway regeneration, the Surrey Canal Road and Deptford creative quarters and the business space around New Cross and Goldsmiths, University of London. The area's schools, council buildings and small-business units keep data-cabling, fibre-optic and security work flowing in Cat5e, Cat6 and fibre. It runs on structured-cabling firms wiring whole buildings and smaller network and security installers fitting out shops and offices."
+    ],
+    "kit_loc": "across the borough's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Lewisham, a structured-cabling firm or a one-van broadband installer toward Woolwich"
+  }
+}

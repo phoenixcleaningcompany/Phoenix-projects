@@ -1,0 +1,86 @@
+{
+ "birkenhead": {
+  "region": "Birkenhead and the Wirral",
+  "nearby": ["Wallasey", "Bebington", "Liverpool"],
+  "snapshot": "iNeedWorkwear supplies branded polos, cargo trousers, hi-vis, softshells, fleeces, waterproofs and safety boots to telecoms contractors, network installers and field engineers across Birkenhead, embroidered in-house with the company name. The trade runs from build contractors with fleets of engineers to one-van subcontractors, so a larger firm can run a trade account for managed reordering, while a sole trader can order direct online with no account.",
+  "s1_head": "Kitting the field engineers of the Wirral",
+  "s1loc": [
+   "Birkenhead sits in the middle of a busy Wirral network build. Openreach is pushing full fibre across the peninsula and out through Tranmere, Oxton, Prenton and Rock Ferry, while the alternative networks build alongside: Netomnia and YouFibre have brought their gigabit fibre into the town, and Virgin Media O2 and nexfibre keep upgrading on top. Engineers run their work off the cabinets along Conway Street and the Borough Road corridor, with the cross-river links into Liverpool and the wider Merseyside rollout keeping crews busy on both sides of the Mersey.",
+   "And the commercial side runs just as deep. Structured-cabling and CCTV firms wire offices, schools and multi-site businesses in Cat5e, Cat6 and fibre across Woodside Business Park and the wider Wirral Waters regeneration on the dockside, with industrial units around Bromborough and the Wirral International Business Park generating their own network work. The build contractors put crews of engineers on the street and buy centrally, while local data-cabling firms, CCTV installers and ex-BT sole-trader broadband engineers take on work for homes and businesses from Wallasey to Bebington."
+  ],
+  "kit_loc": "across the town's streets, cabinets and customer premises",
+  "s2_intro": "Whether you are a build contractor with crews across Birkenhead, a structured-cabling firm or a one-van broadband installer toward Wallasey"
+ },
+ "bath": {
+  "region": "Bath and North East Somerset",
+  "nearby": ["Bristol", "Trowbridge", "Chippenham"],
+  "snapshot": "iNeedWorkwear supplies branded polos, cargo trousers, hi-vis, softshells, fleeces, waterproofs and safety boots to telecoms contractors, network installers and field engineers across Bath, embroidered in-house with the company name. The trade runs from build contractors with fleets of engineers to one-van subcontractors, so a larger firm can run a trade account for managed reordering, while a sole trader can order direct online with no account.",
+  "s1_head": "Kitting the field engineers of North East Somerset",
+  "s1loc": [
+   "Bath has a distinctive full fibre build shaped by its conservation streets and steep terraces. Openreach is running its own fibre programme across the city, while the South West alt-net Truespeed has made Bath a core part of its rollout, building through Bathwick, Widcombe and Combe Down, and Virgin Media O2 keeps upgrading on top. Gigaclear and the Connecting Devon and Somerset partners reach the harder premises out toward the North East Somerset villages, so engineers work the cabinets and customer premises around Walcot, Larkhall and Twerton as the network goes in.",
+   "And the commercial side runs just as deep. Structured-cabling and CCTV firms wire offices, schools and multi-site businesses in Cat5e, Cat6 and fibre across the Bath Spa University and University of Bath campuses, the SouthGate retail district and the office and lab space out at the Bath Riverside and Locksbrook quarters. The build contractors put crews of engineers on the street and buy centrally, while commercial cabling firms, CCTV installers and ex-BT sole-trader broadband engineers take on work for homes and businesses from the city centre out toward Bristol and Chippenham."
+  ],
+  "kit_loc": "across the city's streets, cabinets and customer premises",
+  "s2_intro": "Whether you are a build contractor with crews across Bath, a structured-cabling firm or a one-van broadband installer toward Bristol"
+ },
+ "stevenage": {
+  "region": "Stevenage and Hertfordshire",
+  "nearby": ["Hitchin", "Letchworth", "Welwyn Garden City"],
+  "snapshot": "iNeedWorkwear supplies branded polos, cargo trousers, hi-vis, softshells, fleeces, waterproofs and safety boots to telecoms contractors, network installers and field engineers across Stevenage, embroidered in-house with the company name. The trade runs from build contractors with fleets of engineers to one-van subcontractors, so a larger firm can run a trade account for managed reordering, while a sole trader can order direct online with no account.",
+  "s1_head": "Kitting the field engineers of Hertfordshire",
+  "s1loc": [
+   "Stevenage sits in a busy Hertfordshire fibre build. Openreach is pushing full fibre across the town and out through the Old Town, Pin Green, Bedwell and Shephall, CityFibre is building alongside under its Hertfordshire Project Gigabit programme, and Netomnia added the town to its full fibre rollout, with Virgin Media O2 upgrading on top. Engineers work the cabinets along the Lytton Way and St George's Way corridors as the network goes in, with the wider county build keeping crews busy from Hitchin across to Welwyn Garden City.",
+   "And the commercial side runs just as deep. Structured-cabling and CCTV firms wire offices, schools and multi-site businesses in Cat5e, Cat6 and fibre across the Gunnels Wood Road industrial area, the town's long-standing aerospace and engineering campus, and the Stevenage Bioscience Catalyst and business space at Pin Green and Caxton Way. The build contractors put crews of engineers on the street and buy centrally, while commercial cabling firms, CCTV installers and ex-BT sole-trader broadband engineers take on work for homes and businesses from Letchworth toward Hitchin."
+  ],
+  "kit_loc": "across the town's streets, cabinets and customer premises",
+  "s2_intro": "Whether you are a build contractor with crews across Stevenage, a structured-cabling firm or a one-van broadband installer toward Hitchin"
+ },
+ "grimsby": {
+  "region": "Grimsby and North East Lincolnshire",
+  "nearby": ["Cleethorpes", "Scunthorpe", "Hull"],
+  "snapshot": "iNeedWorkwear supplies branded polos, cargo trousers, hi-vis, softshells, fleeces, waterproofs and safety boots to telecoms contractors, network installers and field engineers across Grimsby, embroidered in-house with the company name. The trade runs from build contractors with fleets of engineers to one-van subcontractors, so a larger firm can run a trade account for managed reordering, while a sole trader can order direct online with no account.",
+  "s1_head": "Kitting the field engineers of North East Lincolnshire",
+  "s1loc": [
+   "Grimsby is in the middle of a major fibre build. Openreach has invested heavily across Lincolnshire and is pushing full fibre through Grimsby and Healing, with thousands of premises already able to upgrade, while the alt-net Grain is expanding its gigabit network westward from the town centre around streets like Haven Avenue. Quickline is running its rural full fibre programme across North East Lincolnshire, and Virgin Media O2 upgrades on top, so engineers work the cabinets and customer premises through Old Clee, Scartho and Nunsthorpe as the network goes in.",
+   "And the commercial side runs just as deep. Structured-cabling and CCTV firms wire offices, schools and multi-site businesses in Cat5e, Cat6 and fibre across the South Humber Bank and the food and seafood-processing parks at Europarc and Pyewipe, with the docks, the fish-market estate and the wider Humber industrial cluster generating their own network work. The build contractors put crews of engineers on the street and buy centrally, while commercial cabling firms, CCTV installers and ex-BT sole-trader broadband engineers take on work for homes and businesses from Cleethorpes toward Scunthorpe."
+  ],
+  "kit_loc": "across the town's streets, cabinets and customer premises",
+  "s2_intro": "Whether you are a build contractor with crews across Grimsby, a structured-cabling firm or a one-van broadband installer toward Cleethorpes"
+ },
+ "southport": {
+  "region": "Southport and Merseyside",
+  "nearby": ["Formby", "Ormskirk", "Bootle"],
+  "snapshot": "iNeedWorkwear supplies branded polos, cargo trousers, hi-vis, softshells, fleeces, waterproofs and safety boots to telecoms contractors, network installers and field engineers across Southport, embroidered in-house with the company name. The trade runs from build contractors with fleets of engineers to one-van subcontractors, so a larger firm can run a trade account for managed reordering, while a sole trader can order direct online with no account.",
+  "s1_head": "Kitting the field engineers of the Sefton coast",
+  "s1loc": [
+   "Southport sits on the edge of the busy Merseyside fibre build. Openreach is pushing full fibre across the town and out through Churchtown, Birkdale, Ainsdale and Meols Cop, while the alternative networks build alongside: Netomnia and YouFibre have extended their gigabit fibre into the Merseyside and Sefton footprint, and Virgin Media O2 keeps upgrading on top. Engineers work the cabinets along Lord Street and the Eastbank Street corridor as the network goes in, with the wider Sefton rollout keeping crews busy from the seafront down toward Formby and Bootle.",
+   "And the commercial side runs just as deep. Structured-cabling and CCTV firms wire offices, hotels, schools and multi-site businesses in Cat5e, Cat6 and fibre across the Lord Street conservation district, the Southport Business Park and the industrial units toward Kew and the Liverpool Road corridor, with the resort's hospitality and conference trade generating its own network work. The build contractors put crews of engineers on the street and buy centrally, while commercial cabling firms, CCTV installers and ex-BT sole-trader broadband engineers take on work for homes and businesses from Formby toward Ormskirk."
+  ],
+  "kit_loc": "across the town's streets, cabinets and customer premises",
+  "s2_intro": "Whether you are a build contractor with crews across Southport, a structured-cabling firm or a one-van broadband installer toward Formby"
+ },
+ "halifax": {
+  "region": "Halifax and Calderdale",
+  "nearby": ["Brighouse", "Huddersfield", "Bradford"],
+  "snapshot": "iNeedWorkwear supplies branded polos, cargo trousers, hi-vis, softshells, fleeces, waterproofs and safety boots to telecoms contractors, network installers and field engineers across Halifax, embroidered in-house with the company name. The trade runs from build contractors with fleets of engineers to one-van subcontractors, so a larger firm can run a trade account for managed reordering, while a sole trader can order direct online with no account.",
+  "s1_head": "Kitting the field engineers of Calderdale",
+  "s1loc": [
+   "Halifax is in the middle of a town-wide full fibre build. CityFibre has committed a 23 million pound network across Halifax, with build partner Network Plus starting in the Queens Road area and reaching toward nearly every home and business, while Openreach runs its own full fibre programme alongside. Quickline has put its full fibre live across the Calderdale district in Southowram, Clifton and Holywell Green, and Virgin Media O2 upgrades on top, so engineers work the cabinets and customer premises through Savile Park, King Cross and Ovenden as the network goes in.",
+   "And the commercial side runs just as deep. Structured-cabling and CCTV firms wire offices, schools and multi-site businesses in Cat5e, Cat6 and fibre across the Shay Lane and Pellon industrial areas, the Dean Clough business and creative complex in its restored mills, and the units out toward Elland and Brighouse. The build contractors put crews of engineers on the street and buy centrally, while commercial cabling firms, CCTV installers and ex-BT sole-trader broadband engineers take on work for homes and businesses from Brighouse toward Huddersfield."
+  ],
+  "kit_loc": "across the town's streets, cabinets and customer premises",
+  "s2_intro": "Whether you are a build contractor with crews across Halifax, a structured-cabling firm or a one-van broadband installer toward Brighouse"
+ },
+ "eltham": {
+  "region": "Eltham and the Royal Borough of Greenwich",
+  "nearby": ["Woolwich", "Lewisham", "Sidcup"],
+  "snapshot": "iNeedWorkwear supplies branded polos, cargo trousers, hi-vis, softshells, fleeces, waterproofs and safety boots to telecoms contractors, network installers and field engineers across Eltham, embroidered in-house with the company name. The trade runs from build contractors with fleets of engineers to one-van subcontractors, so a larger firm can run a trade account for managed reordering, while a sole trader can order direct online with no account.",
+  "s1_head": "Kitting the field engineers of south-east London",
+  "s1loc": [
+   "Eltham sits in a busy south-east London fibre build. Openreach put Eltham and Kidbrooke near the front of its ultrafast rollout, pushing full fibre across the area and out through Mottingham, New Eltham and Well Hall, while the London alt-nets build alongside: Community Fibre and Hyperoptic reach homes and apartment blocks, and the Digital Greenwich Connect network has expanded its ultrafast full fibre from Woolwich across toward Eltham. Virgin Media O2 upgrades on top, so engineers work the cabinets and customer premises along the Eltham High Street corridor as the network goes in.",
+   "And the commercial side runs just as deep. Structured-cabling and CCTV firms wire offices, schools and multi-site businesses in Cat5e, Cat6 and fibre across the Eltham High Street retail district, the business and light-industrial units toward Kidbrooke and the new Kidbrooke Village development, and the wider Greenwich commercial estates. The build contractors put crews of engineers on the street and buy centrally, while commercial cabling firms, CCTV installers and ex-BT sole-trader broadband engineers take on work for homes and businesses from Woolwich toward Lewisham."
+  ],
+  "kit_loc": "across the borough's streets, cabinets and customer premises",
+  "s2_intro": "Whether you are a build contractor with crews across Eltham, a structured-cabling firm or a one-van broadband installer toward Woolwich"
+ }
+}

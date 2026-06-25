@@ -1,0 +1,86 @@
+{
+  "rochdale": {
+    "region": "Rochdale and Greater Manchester",
+    "nearby": ["Oldham", "Bury", "Heywood"],
+    "snapshot": "Rochdale sits inside the Greater Manchester full-fibre build, and its telecoms trade splits two ways. The build contractors and structured-cabling firms running crews across the town tend to buy through trade accounts with branded kit for whole teams, while the ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We serve both routes side by side, fleet and single installer alike.",
+    "s1_head": "Kitting the field engineers of Rochdale and Greater Manchester",
+    "s1loc": [
+      "Rochdale is in the middle of a heavy full-fibre build. CityFibre is delivering a 30 million pound town-wide network through contractor Network Plus, Openreach has invested around 13 million pound and reached roughly 80 percent of properties, and alt-nets including Netomnia and YouFibre are pushing fibre-to-the-premises alongside, with Heywood and the surrounding townships drawn into the rollout too. Engineers from the major fibre and mobile networks work the streets and cabinets across districts like Castleton, Norden, Bamford, Spotland and Milnrow, with civils crews and delivery partners trenching and pulling fibre right across the borough.",
+      "Off the residential rollout sits a steady commercial scene. Structured-cabling and CCTV installers wire offices, schools and warehouses in Cat5e, Cat6 and fibre across Kingsway Business Park, Stakehill Industrial Estate and the town-centre Riverside development, while units around Queensway and the Rochdale Exchange keep local installers busy. The mix runs from multi-site contractors fitting whole business parks to one-van engineers handling a single shopfront camera system, and all of them need hard-wearing branded workwear for work across the borough's premises."
+    ],
+    "kit_loc": "across the borough's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Rochdale, a structured-cabling firm or a one-van broadband installer toward Oldham"
+  },
+  "hove": {
+    "region": "Hove and Brighton and Hove",
+    "nearby": ["Brighton", "Worthing", "Shoreham-by-Sea"],
+    "snapshot": "Hove sits in the Brighton and Hove gigabit build, and its telecoms trade runs on two routes. The build contractors and cabling firms putting crews across the city tend to run trade accounts and kit whole teams in branded workwear, while the ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run both side by side, fleet and single installer alike.",
+    "s1_head": "Kitting the field engineers of Hove and the Brighton coast",
+    "s1loc": [
+      "Hove is part of a busy full-fibre city. CityFibre is delivering an 80 million pound rollout across Brighton and Hove, Openreach has taken full fibre past 50,000 properties, and the city is unusually well served by alt-nets, with Brighton Fibre, Hyperoptic, Grain and Eastbourne-based Lightning Fibre all building, alongside Virgin Media on top. Engineers from the major fibre and mobile networks work the streets and cabinets across districts like Aldrington, Hangleton, Portslade, Hove Park and the seafront, with crews and delivery partners trenching and pulling fibre through the avenues right down to the coast.",
+      "Alongside the residential build sits a strong commercial scene. Structured-cabling and CCTV installers wire offices, studios and shops in Cat5e, Cat6 and fibre across Hove Business Centre, the Goldstone Retail Park area, Church Road and the New England House creative cluster nearby in Brighton, with multi-site work running out toward Shoreham. The trade runs from contractors cabling whole office blocks to one-van installers fitting a single camera at a shopfront, and all of them need durable branded workwear for work across the city's premises."
+    ],
+    "kit_loc": "across the city's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Hove, a structured-cabling firm or a one-van broadband installer toward Brighton"
+  },
+  "ilford": {
+    "region": "Ilford and the London Borough of Redbridge",
+    "nearby": ["Romford", "Hornchurch", "Walthamstow"],
+    "snapshot": "Ilford sits in the east London full-fibre build, and its telecoms trade runs two ways. The build contractors and cabling firms fielding crews across the borough tend to buy through trade accounts and kit whole teams in branded workwear, while the ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run both routes together, serving the fleet and the single installer alike across Ilford and the wider borough.",
+    "s1_head": "Kitting the field engineers of Ilford and Redbridge",
+    "s1loc": [
+      "Ilford has strong full-fibre coverage. Redbridge is among the top London boroughs for Openreach fibre-to-the-premises, with gigabit fibre past 90 percent of properties, and Community Fibre and other London networks are building alongside, with Virgin Media layered on top. Engineers from the major fibre and mobile networks work the streets and cabinets across the IG-postcode districts of Gants Hill, Seven Kings, Goodmayes, Barkingside and Newbury Park, with civils crews and delivery partners pulling fibre through the residential roads and the High Road right across this corner of east London.",
+      "Alongside the residential rollout sits a busy commercial scene. Structured-cabling and CCTV installers wire offices, shops and warehouses in Cat5e, Cat6 and fibre around The Exchange Ilford shopping centre, Ilford Hill, the High Road retail core and the Ilford Retail Park, with multi-site work running out toward Romford and Goodmayes. The trade runs from contractors cabling whole retail units to one-van installers fitting a single shopfront camera, and all of them need hard-wearing branded workwear for work across the borough's premises."
+    ],
+    "kit_loc": "across the borough's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Ilford, a structured-cabling firm or a one-van broadband installer toward Romford"
+  },
+  "barnsley": {
+    "region": "Barnsley and South Yorkshire",
+    "nearby": ["Rotherham", "Sheffield", "Mexborough"],
+    "snapshot": "Barnsley sits in a busy South Yorkshire full-fibre build, and its telecoms trade runs two ways. The build contractors and cabling firms putting crews across the town tend to run trade accounts and kit whole teams in branded workwear, while the ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run both routes side by side, fleet and single installer alike.",
+    "s1_head": "Kitting the field engineers of Barnsley and South Yorkshire",
+    "s1loc": [
+      "Barnsley has a bigger network line-up than most towns. CityFibre is delivering a 32 million pound town-wide build with construction across Redbrook, Mapplewell, Darton, Kexbrough and Monk Bretton, Openreach and Virgin Media cover large parts of the town, and alt-nets including brsk and Netomnia, BeFibre, toob, Hyperoptic and Zzoomm are all active in different postcodes. Engineers from the major fibre and mobile networks work the streets and cabinets across these districts and out into the Dearne Valley, with civils crews and delivery partners trenching and pulling fibre right across the borough.",
+      "Off the residential rollout sits a real commercial scene. Structured-cabling and CCTV installers wire offices, studios and warehouses in Cat5e, Cat6 and fibre across the Digital Media Centre and The Seam digital campus in the town centre, Capitol Park, Gateway 36 and the Dearne Valley business parks. The trade runs from contractors cabling whole office blocks to one-van installers fitting a single camera at a shopfront, and all of them need durable branded workwear for work across the town's premises."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Barnsley, a structured-cabling firm or a one-van broadband installer toward Rotherham"
+  },
+  "darlington": {
+    "region": "Darlington and County Durham",
+    "nearby": ["Stockton-on-Tees", "Newton Aycliffe", "Middlesbrough"],
+    "snapshot": "Darlington sits in a steady full-fibre build, and its telecoms trade splits two ways. The build contractors and cabling firms running crews across the town tend to buy through trade accounts and kit whole teams in branded workwear, while the ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We serve both routes together, fleet and single installer alike, across Darlington and the wider Tees Valley.",
+    "s1_head": "Kitting the field engineers of Darlington and County Durham",
+    "s1loc": [
+      "Darlington is well into its full-fibre build. Openreach has invested around 12 million pound and taken fibre past 40,000 homes and businesses, alt-nets Netomnia and YouFibre are building fibre-to-the-premises across the town, and Virgin Media is layered on top, with earlier Project Gigabit work delivered through Digital Durham. Engineers from the major fibre and mobile networks work the streets and cabinets across districts like Cockerton, Haughton, Eastbourne, Hummersknott and the town centre, with civils crews and delivery partners trenching and pulling fibre right across the borough.",
+      "Alongside the residential rollout sits a solid commercial scene. Structured-cabling and CCTV installers wire offices, studios and warehouses in Cat5e, Cat6 and fibre across Lingfield Point, the Faverdale industrial estate, Morton Park and the town-centre business cluster, with multi-site work running out toward Newton Aycliffe. The trade runs from contractors cabling whole office floors to one-van installers fitting a single shopfront camera, and all of them need hard-wearing branded workwear for work across the town's premises."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Darlington, a structured-cabling firm or a one-van broadband installer toward Stockton-on-Tees"
+  },
+  "hastings": {
+    "region": "Hastings and East Sussex",
+    "nearby": ["Bexhill-on-Sea", "Eastbourne", "Hailsham"],
+    "snapshot": "Hastings sits in a busy coastal full-fibre build, and its telecoms trade runs two ways. The build contractors and cabling firms fielding crews across the town tend to run trade accounts and kit whole teams in branded workwear, while the ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run both routes side by side, serving the fleet and the single installer alike across Hastings and St Leonards.",
+    "s1_head": "Kitting the field engineers of Hastings and East Sussex",
+    "s1loc": [
+      "Hastings is well into a heavy full-fibre build. CityFibre is delivering a 30 million pound rollout to around 60,000 premises across Hastings and St Leonards, Openreach has invested around 13 million pound and taken fibre past 25,000 homes and businesses, and Eastbourne-based Lightning Fibre is building on CityFibre's network alongside, with Virgin Media on top. Engineers from the major fibre and mobile networks work the streets and cabinets across the Old Town, Ore, Silverhill, Hollington and the St Leonards seafront, with civils crews and delivery partners pulling fibre right across the borough.",
+      "Off the residential rollout sits a working commercial scene. Structured-cabling and CCTV installers wire offices, shops and warehouses in Cat5e, Cat6 and fibre across the Ivyhouse Lane industrial estate, Castleham and Ponswood industrial estates, the town-centre Priory Quarter and Queensway, with multi-site work running out toward Bexhill. The trade runs from contractors cabling whole office blocks to one-van installers fitting a single camera at a shopfront, and all of them need durable branded workwear for work across the town's premises."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Hastings, a structured-cabling firm or a one-van broadband installer toward Bexhill-on-Sea"
+  },
+  "hartlepool": {
+    "region": "Hartlepool and County Durham",
+    "nearby": ["Stockton-on-Tees", "Billingham", "Peterlee"],
+    "snapshot": "Hartlepool sits in a completed full-town fibre build, and its telecoms trade runs two ways. The build contractors and cabling firms putting crews across the town tend to run trade accounts and kit whole teams in branded workwear, while the ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. We run both routes together, serving the fleet and the single installer alike across Hartlepool and the wider Tees Valley.",
+    "s1_head": "Kitting the field engineers of Hartlepool and County Durham",
+    "s1loc": [
+      "Hartlepool has had a thorough full-fibre build. CityFibre has delivered a 21 million pound full-town network through contractor Granemore, reaching around 80 percent of homes and most businesses with primary build now complete, Openreach is widely available, and Virgin Media and Grain are layered on top across the town. Engineers from the major fibre and mobile networks work the streets and cabinets across districts like Headland, Seaton Carew, Rift House, Owton Manor and the town centre, with civils crews and delivery partners trenching and pulling fibre right across the borough.",
+      "Alongside the residential build sits a steady commercial scene. Structured-cabling and CCTV installers wire offices, units and warehouses in Cat5e, Cat6 and fibre across the Queens Meadow Business Park, Hartlepool Marina and the Innovation and Skills Quarter near the college, with multi-site work running out toward Billingham. The trade runs from contractors cabling whole office floors to one-van installers fitting a single shopfront camera, and all of them need hard-wearing branded workwear for work across the town's premises."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Hartlepool, a structured-cabling firm or a one-van broadband installer toward Stockton-on-Tees"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "woolwich": {
+    "region": "Woolwich and the Royal Borough of Greenwich",
+    "nearby": ["Eltham", "Lewisham", "Erith"],
+    "snapshot": "Woolwich is a busy corner of south-east London where full fibre is going in fast. We kit the build contractors and structured-cabling firms that run trade accounts and put whole crews on the street, and we serve the ex-BT sole traders and one-van broadband and CCTV installers who order direct online with no account. Branded polos, hi-vis and softshells for the fleet and the single installer alike, across the borough.",
+    "s1_head": "Kitting the field engineers of south-east London",
+    "s1loc": [
+      "Woolwich sits inside one of London's most active fibre corridors. Openreach is pushing full fibre out through the Royal Borough of Greenwich, while Digital Greenwich Connect, the council-backed joint venture, has built ultrafast network across Woolwich, Plumstead and out to Eltham town centre, passing thousands of social homes and businesses. London alt-nets including Community Fibre and Hyperoptic are live across the area, and Virgin Media keeps upgrading on top. Build contractors and their subbies work the streets, cabinets and customer premises from Woolwich Arsenal through Charlton and toward Lewisham every week.",
+      "Alongside the residential build sits a strong commercial scene. The Royal Arsenal Riverside development, the Woolwich Exchange and the trading estates off the A206 all need structured cabling, fibre and CCTV, as do the schools, the University of Greenwich campuses nearby and the multi-site retail and logistics units toward Charlton and Erith. Local cabling and security installers wire offices, blocks and yards in Cat5e, Cat6 and fibre, and fit camera systems for industrial estates across the borough. It is steady work for firms that range from national contractors down to a single engineer with a van."
+    ],
+    "kit_loc": "across the borough's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Woolwich, a structured-cabling firm or a one-van broadband installer toward Eltham"
+  },
+  "weston-super-mare": {
+    "region": "Weston-super-Mare and North Somerset",
+    "nearby": ["Clevedon", "Portishead", "Bridgwater"],
+    "snapshot": "Weston-super-Mare is a CityFibre town with a busy full-fibre build underway. We kit the build contractors and structured-cabling firms that hold trade accounts and field whole crews of engineers, and we serve the sole traders and one-van broadband and CCTV installers who order direct online with no account. Branded polos, hi-vis and softshells for the fleet and the single installer alike, across the town's streets and premises.",
+    "s1_head": "Kitting the field engineers of North Somerset",
+    "s1loc": [
+      "Weston-super-Mare is the subject of a major full-fibre rollout. CityFibre committed a multi-million-pound build to wire the town for full fibre, Openreach is rolling out FTTP across North Somerset, and the rural alt-net Truespeed has built around the edges through Uphill, Banwell and out toward the villages south of Bristol. Virgin Media already has wide coverage, and Grain has been spotted building locally too. Contractors and their subbies work the streets, cabinets and premises from the seafront and Worle out toward Hutton and the M5 junctions every week.",
+      "The commercial side keeps the cabling and CCTV trade busy. Weston Business Park and Aisecome Way, the units around Winterstoke Road and the Locking Parklands development off the old airfield all need structured cabling, fibre and camera systems, as do the hotels along the front, the seafront retail and the schools and college. Local installers wire offices, holiday parks and industrial units in Cat5e, Cat6 and fibre, and fit CCTV for yards and commercial premises across the town. The work ranges from national contractors down to a single engineer with a van."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Weston-super-Mare, a structured-cabling firm or a one-van broadband installer toward Clevedon"
+  },
+  "west bromwich": {
+    "region": "West Bromwich and Sandwell",
+    "nearby": ["Walsall", "Smethwick", "Oldbury"],
+    "snapshot": "West Bromwich sits in the middle of the Black Country's full-fibre build. We kit the build contractors and structured-cabling firms that run trade accounts and put whole crews on the street, and we serve the ex-BT sole traders and one-van broadband and CCTV installers who order direct online with no account. Branded polos, hi-vis and softshells for the fleet and the single installer alike, across the town's streets and premises.",
+    "s1_head": "Kitting the field engineers of the Black Country",
+    "s1loc": [
+      "West Bromwich is deep in the Black Country network build. Openreach has engineers across Sandwell pushing full fibre out through West Bromwich, Wednesbury and toward Oldbury, the alt-net Netomnia, now merged with brsk, is building FTTP alongside, and CityFibre is extending across the wider West Midlands. Virgin Media already has wide coverage and keeps upgrading on top. Build contractors and their subbies work the streets, cabinets and customer premises from the town centre and the High Street out through Hateley Heath, Stone Cross and Charlemont every week as the rollout pushes on.",
+      "Around the residential build sits a strong commercial scene. Sandwell Business Park, the Kenrick Way and Hawthorns units and the industrial estates off the A41 and A4031 all need structured cabling, fibre and CCTV, as do the multi-site retail and logistics units, the schools and the warehousing across the borough. Local cabling and security firms such as West Bromwich Communications wire offices, yards and commercial premises in Cat5e, Cat6 and fibre, and fit camera systems for industrial estates across Sandwell. The work ranges from national contractors down to a single engineer with a van."
+    ],
+    "kit_loc": "across the borough's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across West Bromwich, a structured-cabling firm or a one-van broadband installer toward Walsall"
+  },
+  "edgware": {
+    "region": "Edgware and the London Borough of Barnet",
+    "nearby": ["Harrow", "Wembley", "Borehamwood"],
+    "snapshot": "Edgware is a north-west London suburb where full fibre is going in steadily. We kit the build contractors and structured-cabling firms that hold trade accounts and field whole crews of engineers, and we serve the sole traders and one-van broadband and CCTV installers who order direct online with no account. Branded polos, hi-vis and softshells for the fleet and the single installer alike, across the area's streets and premises.",
+    "s1_head": "Kitting the field engineers of north-west London",
+    "s1loc": [
+      "Edgware sits in an active corner of the north London build. Openreach has connected thousands of premises across Barnet and keeps pushing full fibre out through Edgware, Burnt Oak and Mill Hill, the London alt-nets Community Fibre and Hyperoptic are both live and growing across the area, and Virgin Media has wide coverage that it keeps upgrading. Build contractors and their subbies work the streets, cabinets and customer premises from the Broadwalk and the High Street out toward Stanmore, Edgwarebury and the Watford Way every week as gigabit coverage climbs across the area.",
+      "Alongside the residential rollout sits a busy commercial scene. The retail around the Broadwalk Centre and Station Road, the trading units off the A5 Edgware Road and the business premises toward Stanmore and Colindale all need structured cabling, fibre and CCTV, as do the schools, the medical centres and the multi-site retail across the area. Local cabling and security installers wire offices, blocks of flats and shops in Cat5e, Cat6 and fibre, and fit camera systems for commercial premises and yards. The work ranges from national contractors down to a single engineer with a van."
+    ],
+    "kit_loc": "across the area's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Edgware, a structured-cabling firm or a one-van broadband installer toward Harrow"
+  },
+  "bury": {
+    "region": "Bury and Greater Manchester",
+    "nearby": ["Bolton", "Rochdale", "Radcliffe"],
+    "snapshot": "Bury is part of the Greater Manchester full-fibre push, with several networks overbuilding the town. We kit the build contractors and structured-cabling firms that run trade accounts and put whole crews on the street, and we serve the ex-BT sole traders and one-van broadband and CCTV installers who order direct online with no account. Branded polos, hi-vis and softshells for the fleet and the single installer alike, across the town's streets and premises.",
+    "s1_head": "Kitting the field engineers of Greater Manchester",
+    "s1loc": [
+      "Bury sits inside the Greater Manchester fibre build, with kilometres of new cable going in from Bury to Bolton and Oldham to Rochdale. Openreach is pushing full fibre out across the town, the alt-net Netomnia has been spotted building down from the north toward the centre, and Grain has gone live with its own FTTP network locally too. Virgin Media, including nexfibre, already has wide gigabit coverage and keeps upgrading. Build contractors and their subbies work the streets, cabinets and customer premises from the town centre out through Walmersley, Unsworth and toward Radcliffe every week.",
+      "Around the residential build sits a strong commercial scene. The Bury Business and Trade Centres, the industrial units off Pilsworth Road and the Pilsworth estate, and the warehousing toward Heywood all need structured cabling, fibre and CCTV, as do the Rock retail district, the schools and the multi-site units across the borough. Local cabling and security installers wire offices, mills converted to units and yards in Cat5e, Cat6 and fibre, and fit camera systems for industrial estates across the town. The work ranges from national contractors down to a single engineer with a van."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Bury, a structured-cabling firm or a one-van broadband installer toward Bolton"
+  },
+  "tamworth": {
+    "region": "Tamworth and Staffordshire",
+    "nearby": ["Sutton Coldfield", "Lichfield", "Cannock"],
+    "snapshot": "Tamworth sits inside the wider Staffordshire full-fibre build. We kit the build contractors and structured-cabling firms that hold trade accounts and field whole crews of engineers, and we serve the sole traders and one-van broadband and CCTV installers who order direct online with no account. Branded polos, hi-vis and softshells for the fleet and the single installer alike, across the town's streets and premises.",
+    "s1_head": "Kitting the field engineers of Staffordshire",
+    "s1loc": [
+      "Tamworth is part of the Staffordshire network build, where Openreach full fibre now reaches hundreds of thousands of premises across the county and keeps extending through the towns. CityFibre activity has been spotted around Tamworth, and Openreach is pushing FTTP out across the town on top of the wider Project Gigabit work reaching rural Staffordshire. Virgin Media already has gigabit coverage and keeps upgrading. Build contractors and their subbies work the streets, cabinets and customer premises from the town centre out through Glascote, Amington, Wilnecote and toward Fazeley every week as coverage climbs.",
+      "Alongside the residential rollout sits a busy commercial scene. The Tamworth and Centurion business parks, the Relay Park and Bonehill Road units, and the industrial estates around the A5 and the M42 junctions all need structured cabling, fibre and CCTV, as do the Ventura Park retail district, the schools and the warehousing and logistics yards across the area. Local cabling and security installers wire offices, units and commercial premises in Cat5e, Cat6 and fibre, and fit camera systems for industrial estates around Amington and Fazeley. The work ranges from national contractors down to a single engineer with a van."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Tamworth, a structured-cabling firm or a one-van broadband installer toward Sutton Coldfield"
+  },
+  "chatham": {
+    "region": "Chatham and Medway",
+    "nearby": ["Rochester", "Maidstone", "Strood"],
+    "snapshot": "Chatham is a CityFibre town at the heart of the Medway full-fibre build. We kit the build contractors and structured-cabling firms that run trade accounts and put whole crews on the street, and we serve the ex-BT sole traders and one-van broadband and CCTV installers who order direct online with no account. Branded polos, hi-vis and softshells for the fleet and the single installer alike, across the town's streets and premises.",
+    "s1_head": "Kitting the field engineers of Medway",
+    "s1loc": [
+      "Chatham sits at the centre of the Medway full-fibre rollout. CityFibre committed a multi-million-pound build to wire Medway, with work underway across Rochester, Chatham, Gillingham and Rainham and pushing on toward Strood and Hoo. Openreach has deployed its full fibre network across hundreds of thousands of premises in Kent with active build in the Medway towns, and ISPs such as Vfast ride the CityFibre network locally. Virgin Media keeps upgrading on top. Build contractors and their subbies work the streets, cabinets and customer premises from the town centre out through Luton, Walderslade and toward Strood every week.",
+      "Around the residential build sits a strong commercial scene. The Chatham Maritime and Dockside development, the Gillingham Business Park nearby and the industrial units off the A2 and Medway City Estate at Strood all need structured cabling, fibre and CCTV, as do the University of Greenwich and Canterbury Christ Church campuses at Chatham Maritime, the retail at the Pentagon and the warehousing across the Medway towns. Local cabling and security installers wire offices, units and yards in Cat5e, Cat6 and fibre, and fit camera systems for commercial premises. The work ranges from national contractors down to a single engineer with a van."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Chatham, a structured-cabling firm or a one-van broadband installer toward Rochester"
+  }
+}

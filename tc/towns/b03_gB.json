@@ -1,0 +1,86 @@
+{
+  "worcester": {
+    "region": "Worcester and Worcestershire",
+    "nearby": ["Malvern", "Droitwich", "Kidderminster"],
+    "snapshot": "Worcester is a busy full-fibre city where build crews and one-van installers work side by side. National contractors put whole teams on the cabinets and buy through trade accounts, while ex-BT sole traders and independent broadband and CCTV installers take on work across the city and need only a few branded pieces. We run trade accounts and direct online ordering, with no account, alongside each other.",
+    "s1_head": "Kitting the field engineers of Worcestershire",
+    "s1loc": [
+      "Worcester is deep into a full-fibre build, with Openreach having invested heavily to pass more than 45,000 homes and businesses across over 80 per cent of the city, and engineers still working the streets to push connections out further. Alongside the Openreach programme, nexfibre and Virgin Media O2 have built past thousands of premises here, and a strong layer of alternative networks lifts combined full-fibre coverage above 90 per cent of properties. Crews work through districts like Warndon, St John's, Ronkswood, Dines Green and Blackpole, laying fibre to cabinets and customer premises right across Worcester.",
+      "Around the residential rollout sits a solid commercial and structured-cabling scene. Worcester Six Business Park off junction 6 of the M5 is a major employment site of well over a million square feet, while older estates at Blackpole and Shrub Hill keep manufacturers, logistics firms and offices wired. The growing University of Worcester, the county hospital and the cathedral-city centre all need Cat5e, Cat6 and fibre cabling plus CCTV. Local structured-cabling and network installers wire offices, schools and multi-site businesses across Worcester and the wider county, from small fit-outs to full building refreshes."
+    ],
+    "kit_loc": "across the city's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Worcester, a structured-cabling firm or a one-van broadband installer toward Malvern"
+  },
+  "salford": {
+    "region": "Salford and Greater Manchester",
+    "nearby": ["Manchester", "Bolton", "Bury"],
+    "snapshot": "Salford is one of the most connected cities in Greater Manchester, and the trade runs the full range of sizes. Build contractors field crews of engineers and buy centrally, while commercial cabling firms, CCTV installers and ex-BT sole-trader broadband engineers take on work across the city. We run trade accounts for the crews and direct online ordering, with no account, for everyone else.",
+    "s1_head": "Kitting the field engineers of Greater Manchester",
+    "s1loc": [
+      "Salford sits inside a major Greater Manchester full-fibre build. Openreach and CityFibre both have networks across the city, while Netomnia and its YouFibre brand build alongside, and Freedom Fibre has committed millions to expand full fibre into Walkden and beyond. Virgin Media O2 and the mobile operators keep upgrading on top. Crews work through Eccles, Swinton, Pendleton, Ordsall, Irlam and Worsley, laying fibre to cabinets and premises. With MediaCityUK and Salford Quays acting as a digital hub, the city carries some of the densest network activity in the North West.",
+      "Around the build sits a strong commercial and structured-cabling scene. MediaCityUK and Salford Quays house the BBC, ITV and over 250 creative and tech businesses, while Trafford Park, the University of Salford and Salford Royal all need Cat5e, Cat6 and fibre cabling plus CCTV. HOST, the Home of Skills and Technology, anchors a cluster of data, cybersecurity and immersive-tech firms. Local structured-cabling and network installers wire offices, studios, schools and multi-site businesses across the city, from single-floor fit-outs to whole-building refreshes in Cat6 and fibre."
+    ],
+    "kit_loc": "across the city's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Salford, a structured-cabling firm or a one-van broadband installer toward Manchester"
+  },
+  "st helens": {
+    "region": "St Helens and Merseyside",
+    "nearby": ["Wigan", "Warrington", "Liverpool"],
+    "snapshot": "St Helens is a strong full-fibre town, and the work spans every size of business. National build contractors put crews on the cabinets and buy through procurement, while small subcontractors, ex-BT sole traders and independent broadband and CCTV installers take on jobs across the town and need just a few branded pieces. We run trade accounts and direct online ordering side by side.",
+    "s1_head": "Kitting the field engineers of Merseyside",
+    "s1loc": [
+      "St Helens has seen a heavy full-fibre build, led by a multi-million-pound CityFibre programme passing tens of thousands of premises across the town. Openreach full fibre reaches the great majority of homes, alt-net coverage runs high, and Elevate has built a town-centre network connecting public-sector sites and businesses. Crews work through Thatto Heath, Sutton, Parr, Haydock, Rainhill and Newton-le-Willows, laying fibre to cabinets and customer premises. Sitting between Liverpool and Manchester, St Helens carries dense network activity and steady upgrade work right across its districts.",
+      "Around the residential rollout sits a busy commercial and structured-cabling scene. Haydock Industrial Estate is one of the North West's premier warehouse locations, and the vast Omega site straddling the St Helens and Warrington boundary has delivered millions of square feet of manufacturing and logistics space for occupiers from Amazon to Iceland. These sheds, plus town-centre offices, schools and the local college, all need Cat5e, Cat6 and fibre cabling plus CCTV. Local structured-cabling and network installers wire offices, warehouses and multi-site businesses across the town in Cat6 and fibre."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across St Helens, a structured-cabling firm or a one-van broadband installer toward Wigan"
+  },
+  "wembley": {
+    "region": "Wembley and the London Borough of Brent",
+    "nearby": ["Harrow", "Edgware", "Hounslow"],
+    "snapshot": "Wembley, in the London borough of Brent, is a busy full-fibre area where fleets and sole traders work alongside each other. Build contractors put crews on the streets and buy centrally, while ex-BT sole traders and independent broadband and CCTV installers take on work across the area and need only a few branded pieces. We run trade accounts and direct online ordering, with no account, side by side.",
+    "s1_head": "Kitting the field engineers of north-west London",
+    "s1loc": [
+      "Wembley sits inside Brent's full-fibre build. Openreach full fibre and Virgin Media O2 cable both reach across the borough, while Community Fibre and Hyperoptic have built independent gigabit networks, the latter strong in flats, apartments and business parks. Brent Council has worked with both alt-nets to bring full fibre to residential blocks, and Wembley Park and Wembley Central enjoy particularly good network choice. Crews work through Wembley Park, Alperton, Tokyngton, Sudbury and Preston, laying fibre to cabinets and customer premises across one of north-west London's densest growth areas.",
+      "Around the residential rollout sits a heavy commercial and structured-cabling scene. Wembley Park around the national stadium and the OVO Arena has grown into a major mixed-use district of offices, hotels, retail and thousands of new flats, while the older industrial estates along the North Circular and Wembley trading estates keep light-industrial and logistics units busy. Offices, hotels, schools and multi-occupancy blocks across Brent all need Cat5e, Cat6 and fibre cabling plus CCTV. Local structured-cabling and network installers wire fit-outs and whole buildings across the area in Cat6 and fibre."
+    ],
+    "kit_loc": "across the borough's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Wembley, a structured-cabling firm or a one-van broadband installer toward Harrow"
+  },
+  "hemel hempstead": {
+    "region": "Hemel Hempstead and Hertfordshire",
+    "nearby": ["Watford", "St Albans", "Berkhamsted"],
+    "snapshot": "Hemel Hempstead is a well-connected Hertfordshire town, and the trade runs the full range of sizes. Build contractors field crews of engineers and buy centrally, while commercial cabling firms, CCTV installers and ex-BT sole-trader broadband engineers take on work for homes and businesses across the town. We run trade accounts for the crews and direct online ordering, with no account, for everyone else.",
+    "s1_head": "Kitting the field engineers of Hertfordshire",
+    "s1loc": [
+      "Hemel Hempstead sits inside a strong Hertfordshire full-fibre build. Openreach has launched an ultrafast network across the town, Virgin Media O2 cable runs widely through the centre, and alt-nets including CityFibre and Hyperoptic add further full-fibre choice, with county-wide gigabit availability now very high. Crews work through Adeyfield, Bennetts End, Grovehill, Boxmoor, Leverstock Green and Apsley, laying fibre to cabinets and customer premises. The new town's grid of estates and the surrounding villages keep engineers busy on both residential connections and upgrade work across the area.",
+      "Around the residential rollout sits a heavy commercial and structured-cabling scene. Maylands Business Park is Hertfordshire's largest employment area, home to more than 650 businesses and around 20,000 employees, and now part of the Hertfordshire Innovation Quarter, with logistics, manufacturing and office occupiers all needing Cat5e, Cat6 and fibre cabling plus CCTV. Town-centre offices, schools and the surrounding trading estates add to the workload. Local structured-cabling and network installers wire fit-outs, warehouses and multi-site businesses across the town in Cat6 and fibre."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Hemel Hempstead, a structured-cabling firm or a one-van broadband installer toward Watford"
+  },
+  "watford": {
+    "region": "Watford and Hertfordshire",
+    "nearby": ["Hemel Hempstead", "St Albans", "Bushey"],
+    "snapshot": "Watford is one of Hertfordshire's most competitive full-fibre towns, and the work spans every size of business. National build contractors put crews on the cabinets and buy through procurement, while small subcontractors, ex-BT sole traders and independent broadband and CCTV installers take on jobs across the town and need just a few branded pieces. We run trade accounts and direct online ordering side by side.",
+    "s1_head": "Kitting the field engineers of Hertfordshire",
+    "s1loc": [
+      "Watford carries one of the busiest full-fibre builds in Hertfordshire. Openreach has invested heavily to pass more than 48,000 homes and businesses across around 80 per cent of the town, while CityFibre's network now reaches roughly 90 per cent, covering Garston, North Watford, the town centre, Holywell, Carpenders Park and South Oxhey. Virgin Media O2 cable adds to very high gigabit availability, and Community Fibre, Hyperoptic and Lit Fibre lift alt-net presence well above the UK average. Crews work these districts and around Croxley Green, laying fibre to cabinets and customer premises right across the town.",
+      "Around the residential rollout sits a strong commercial and structured-cabling scene. Croxley Park is a major business campus of offices and tech occupiers, while the town centre, the intu shopping district and the Watford Business Park and Greenhill Crescent estates keep offices, retail and light industry wired. Watford General Hospital, local schools and multi-site employers all need Cat5e, Cat6 and fibre cabling plus CCTV. Local structured-cabling and network installers wire offices, schools and multi-site businesses across the town, from single-floor fit-outs to whole-building refreshes in Cat6 and fibre."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Watford, a structured-cabling firm or a one-van broadband installer toward Hemel Hempstead"
+  },
+  "stockport": {
+    "region": "Stockport and Greater Manchester",
+    "nearby": ["Manchester", "Bramhall", "Hyde"],
+    "snapshot": "Stockport is a busy Greater Manchester full-fibre town in the middle of a major town-centre regeneration. Build contractors put crews on the cabinets and buy centrally, while ex-BT sole traders and independent broadband and CCTV installers take on work across the town and need only a few branded pieces. We run trade accounts and direct online ordering, with no account, side by side.",
+    "s1_head": "Kitting the field engineers of Greater Manchester",
+    "s1loc": [
+      "Stockport sits inside a major Greater Manchester full-fibre build. Openreach and CityFibre both have networks across the town, while Netomnia and its YouFibre brand build alongside and Virgin Media O2 keeps upgrading its cable, lifting gigabit choice across the borough. Crews work through Edgeley, Heaton Moor, Reddish, Cheadle Heath, Brinnington and Bredbury, laying fibre to cabinets and customer premises. With a billion-pound town-centre regeneration drawing new homes and offices into the centre, Stockport carries dense network activity and steady upgrade work right across its districts.",
+      "Around the residential rollout sits a strong commercial and structured-cabling scene. Stockport Exchange has become a busy business district beside the station, with the STOK and Redrock developments bringing fresh office space into the centre, while Cheadle Royal Business Park and the industrial estates at Bredbury and Hazel Grove keep offices, logistics and light industry wired. Stepping Hill Hospital, local colleges and multi-site employers all need Cat5e, Cat6 and fibre cabling plus CCTV. Local structured-cabling and network installers wire fit-outs and whole buildings across the town in Cat6 and fibre."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Stockport, a structured-cabling firm or a one-van broadband installer toward Manchester"
+  }
+}
