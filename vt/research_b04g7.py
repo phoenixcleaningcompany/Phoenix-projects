@@ -1,0 +1,86 @@
+NEW = {
+    "enfield": {
+        "region": "Enfield and North London",
+        "nearby": ["Cheshunt", "Barnet", "Walthamstow"],
+        "snapshot": "iNeedWorkwear supplies branded scrubs, tunics, polos, fleeces, waterproofs and safety footwear to vet practices, veterinary nurses, kennels, catteries, dog groomers and equine yards across Enfield, from the high-street clinics to the green-belt edge, embroidered in-house with the practice name. Veterinary and animal care is mostly small practices and sole traders, so the quickest route is to order direct online with no account, while a larger practice or group can set up a trade account.",
+        "s1_head": "Kitting the practices, kennels and yards of north London",
+        "s1loc": [
+            "Enfield runs a spread of veterinary practices from the town centre out to Enfield Town, Palmers Green, Winchmore Hill and Bush Hill Park, a mix of independents and group names such as Goddard and Medivet alongside the round-the-clock emergency cover. Around them sits the wider animal-care trade, with boarding kennels and catteries like Elmtree Pet Hotel and Avey Lane, dog daycare toward Trent Park, the garden-centre cluster at Crews Hill and livery on the green-belt fringe.",
+            "Most of these are small, owner-run outfits rather than chains. The Palmers Green clinics, the one-van mobile groomers working the suburbs, the family catteries off Hadley Road and the daycare teams around Oakwood are tiny businesses, often one or two people. Each faces an anxious owner in the consulting room and then works hands-on in the kennels and runs, so the kit has to look clean indoors and survive the wet, muddy outdoor side.",
+        ],
+        "kit_loc": "across the borough's consulting rooms, kennels and yards",
+        "s2_intro": "Whether you are an independent practice in Winchmore Hill, a boarding cattery off Hadley Road, a mobile groomer or a livery yard out toward Crews Hill",
+    },
+    "taunton": {
+        "region": "Taunton and Somerset",
+        "nearby": ["Bridgwater", "Wellington", "Yeovil"],
+        "snapshot": "iNeedWorkwear supplies branded scrubs, tunics, polos, fleeces, waterproofs and safety footwear to vet practices, veterinary nurses, kennels, catteries, dog groomers and equine yards across Taunton, from the town surgeries to the farms below the Quantocks, embroidered in-house with the practice name. Veterinary and animal care is mostly small practices and sole traders, so the quickest route is to order direct online with no account, while a larger practice or group can set up a trade account.",
+        "s1_head": "Kitting the practices, kennels and yards of Somerset",
+        "s1loc": [
+            "Set in the Vale of Taunton Deane below the Quantock and Blackdown Hills, Taunton mixes town small-animal surgeries with serious farm and equine work. Practices such as Priory Close, Kingfisher and Tone Veterinary Centre run alongside the bigger groups and the Bridgwater out-of-hours hospital, while large-animal and equine vets cover the dairy farms, riding schools and the Conquest Centre on the rural edge toward North Petherton and Bishops Lydeard.",
+            "The surrounding trade leans small and rural. DIY and full-livery yards like Manor Farm and Comeytrowe sit on the Quantock slopes, family boarding kennels and catteries dot the lanes, and salon and mobile groomers work the town and villages. These are mostly sole traders and small teams who handle clinical cases one minute and muck out a stable the next, so their workwear has to read as hygienic indoors and shrug off mud, rain and hair outside.",
+        ],
+        "kit_loc": "across the town's consulting rooms, kennels and yards",
+        "s2_intro": "Whether you are an independent practice in Bishops Lydeard, a boarding kennels toward the Quantocks, a mobile groomer or an equine yard across Taunton",
+    },
+    "stourbridge": {
+        "region": "Stourbridge and the Black Country",
+        "nearby": ["Halesowen", "Kingswinford", "Brierley Hill"],
+        "snapshot": "iNeedWorkwear supplies branded scrubs, tunics, polos, fleeces, waterproofs and safety footwear to vet practices, veterinary nurses, kennels, catteries, dog groomers and equine yards across Stourbridge, from the town surgeries to the yards on the Worcestershire edge, embroidered in-house with the practice name. Veterinary and animal care is mostly small practices and sole traders, so the quickest route is to order direct online with no account, while a larger practice or group can set up a trade account.",
+        "s1_head": "Kitting the practices, kennels and yards of the Black Country",
+        "s1loc": [
+            "Beyond the chains on the high street, Stourbridge carries a busy animal-care trade across Amblecote, Wollaston, Norton and Pedmore. Small-animal surgeries from Vets4Pets in Amblecote to St George's mobile service work the town, with the Halesowen and Oldbury clinics close by, and emergency cover shared across the wider Black Country. The picture broadens out toward Kingswinford, Hagley and the Clent Hills, where boarding kennels, catteries and livery yards sit on the greener Worcestershire fringe.",
+            "Behind the doors it is nearly all small and independent. The Wollaston groomers, the family kennels off the Bridgnorth Road, the mobile clippers covering Pedmore and the smallholding yards toward Clent are one and two-person businesses rather than national names. Each one reassures a nervous owner in a clean consulting room then turns to the runs, the bathing area and the muddy yard, so the uniform must work as both clinical wear and tough outdoor kit.",
+        ],
+        "kit_loc": "across the town's consulting rooms, kennels and yards",
+        "s2_intro": "Whether you are an independent practice in Amblecote, a boarding kennels toward Clent, a mobile groomer or an equine yard around Stourbridge",
+    },
+    "orpington": {
+        "region": "Orpington and south-east London",
+        "nearby": ["Bromley", "Beckenham", "Sidcup"],
+        "snapshot": "iNeedWorkwear supplies branded scrubs, tunics, polos, fleeces, waterproofs and safety footwear to vet practices, veterinary nurses, kennels, catteries, dog groomers and equine yards across Orpington, from the parade surgeries to the yards on the Kent fringe, embroidered in-house with the practice name. Veterinary and animal care is mostly small practices and sole traders, so the quickest route is to order direct online with no account, while a larger practice or group can set up a trade account.",
+        "s1_head": "Kitting the practices, kennels and yards of the Bromley fringe",
+        "s1loc": [
+            "A commuter town on the green edge of the Bromley borough, Orpington keeps a strong animal-care scene from Petts Wood and Chelsfield to St Mary Cray and Crofton. Independent practices such as Ollie and Florrie in Petts Wood sit alongside the wider Bromley group surgeries, and the trade fans out into boarding kennels like Birchwood Lodge, catteries and salon groomers such as Trimdogs as the streets give way to Kent farmland and the North Downs.",
+            "And nearly every one of them is a small, local concern. The Petts Wood single-site practice, the qualified one-woman groomer working from a Crofton salon, the mobile clippers covering Chelsfield and the family kennels and livery yards toward Cudham and Downe are tiny operations. They greet worried owners in a spotless consulting room and then graft in the kennels and paddocks, so the kit has to stay clinically smart and cope with mud, water and shedding coats.",
+        ],
+        "kit_loc": "across the town's consulting rooms, kennels and yards",
+        "s2_intro": "Whether you are an independent practice in Petts Wood, a boarding kennels toward Cudham, a mobile groomer or an equine yard around Orpington",
+    },
+    "dunfermline": {
+        "region": "Dunfermline and Fife",
+        "nearby": ["Kirkcaldy", "Glenrothes", "Alloa"],
+        "snapshot": "iNeedWorkwear supplies branded scrubs, tunics, polos, fleeces, waterproofs and safety footwear to vet practices, veterinary nurses, kennels, catteries, dog groomers and equine yards across Dunfermline, from the town clinics to the farms of west Fife, embroidered in-house with the practice name. Veterinary and animal care is mostly small practices and sole traders, so the quickest route is to order direct online with no account, while a larger practice or group can set up a trade account.",
+        "s1_head": "Kitting the practices, kennels and yards of west Fife",
+        "s1loc": [
+            "A former royal burgh and now Fife's newest city, Dunfermline supports a steady run of veterinary work from the town centre out to Halbeath, Crossford and Rosyth. Small-animal surgeries including Vets4Pets at the Halbeath retail park serve the housing, while mixed and farm vets cover the dairy and arable ground of west Fife. Kennels and catteries such as Mayfield Pet Hotel and Inzievar near Oakley sit out in the countryside, with grooming and daycare across the town.",
+            "The operators are overwhelmingly small and self-employed. The town surgeries, the four-acre Mayfield kennels, the Inzievar cattery and grooming room toward Oakley and the mobile clippers around Crossford run on tiny teams or a single pair of hands. Each one calms an anxious owner in a clean consult room then heads out to the runs, the wash bay and the muddy yard, so the workwear must read hygienic indoors and stay tough through cold, wet Fife weather.",
+        ],
+        "kit_loc": "across the town's consulting rooms, kennels and yards",
+        "s2_intro": "Whether you are an independent practice in Crossford, a boarding cattery toward Oakley, a mobile groomer or an equine yard across west Fife",
+    },
+    "kettering": {
+        "region": "Kettering and Northamptonshire",
+        "nearby": ["Corby", "Wellingborough", "Rushden"],
+        "snapshot": "iNeedWorkwear supplies branded scrubs, tunics, polos, fleeces, waterproofs and safety footwear to vet practices, veterinary nurses, kennels, catteries, dog groomers and equine yards across Kettering, from the town surgeries to the farms of north Northamptonshire, embroidered in-house with the practice name. Veterinary and animal care is mostly small practices and sole traders, so the quickest route is to order direct online with no account, while a larger practice or group can set up a trade account.",
+        "s1_head": "Kitting the practices, kennels and yards of north Northamptonshire",
+        "s1loc": [
+            "A market and former shoe town, Kettering carries a busy animal-care trade across the centre, Burton Latimer and Barton Seagrave. The Kettering Vets independent runs alongside group surgeries and Spinney from Northampton, while mixed and farm practices reach out across the rolling north Northamptonshire countryside. Boarding kennels such as Brigstock in ten acres near the village, catteries like Highlands and Woodside, and grooming rooms fill out a scene that stretches toward Corby and the rural lanes.",
+            "Underneath, it is a trade of small and family-run businesses. The independent town surgery, the Brigstock and Clopton kennels, the Woodside and Highlands catteries and the mobile groomers working Barton Seagrave are mostly sole traders or a handful of staff. Each one meets a worried owner in a clean consulting room and then works the runs, the bathing area and the farm yards, so the kit has to look spotless on the clinical side and take a beating outdoors.",
+        ],
+        "kit_loc": "across the town's consulting rooms, kennels and yards",
+        "s2_intro": "Whether you are an independent practice in Barton Seagrave, a boarding kennels toward Brigstock, a mobile groomer or an equine yard around Kettering",
+    },
+    "barry": {
+        "region": "Barry and the Vale of Glamorgan",
+        "nearby": ["Penarth", "Cardiff", "Bridgend"],
+        "snapshot": "iNeedWorkwear supplies branded scrubs, tunics, polos, fleeces, waterproofs and safety footwear to vet practices, veterinary nurses, kennels, catteries, dog groomers and equine yards across Barry, from the seaside clinics to the farms of the Vale, embroidered in-house with the practice name. Veterinary and animal care is mostly small practices and sole traders, so the quickest route is to order direct online with no account, while a larger practice or group can set up a trade account.",
+        "s1_head": "Kitting the practices, kennels and yards of the Vale of Glamorgan",
+        "s1loc": [
+            "A seaside and former dock town, Barry anchors the animal-care trade of the Vale of Glamorgan from the Buttrills and Cadoxton out to Rhoose and Boverton. Practices such as Vale Veterinary Centre, Barry Veterinary Centre and the Animal Health Centre with its Boverton branch serve the town, while mixed and farm vets cover the Vale's coastal farmland. Little Green Westra kennels near Dinas Powys boards dogs and cats and runs a weekly vet clinic, with groomers across Barry and Penarth.",
+            "Across the patch the businesses are small and independently run. The branch surgeries, the licensed Westra kennels with its on-site bathing, the Penarth and Cadoxton grooming rooms and the mobile clippers serving Rhoose are family outfits or sole traders rather than chains. Each greets an uneasy owner in a clean consulting room then works hands-on in the kennels, wash bay and Vale yards, so the workwear must look clinical indoors and survive sea air, mud and water.",
+        ],
+        "kit_loc": "across the town's consulting rooms, kennels and yards",
+        "s2_intro": "Whether you are an independent practice in Cadoxton, a boarding kennels toward Dinas Powys, a mobile groomer or an equine yard across the Vale of Glamorgan",
+    },
+}
