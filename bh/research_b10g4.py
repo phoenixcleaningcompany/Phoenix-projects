@@ -1,0 +1,86 @@
+NEW = {
+ "shoreham-by-sea": {
+  "region": "Shoreham-by-Sea and West Sussex",
+  "nearby": ["Worthing", "Hove", "Lancing"],
+  "snapshot": "iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Shoreham-by-Sea, from the East Street hair salons to the Brunswick Road barbers and beauty rooms, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head": "Kitting the salons, barbers and spas of the West Sussex coast",
+  "s1loc": [
+   "Set on the Adur estuary between Worthing and Hove, Shoreham-by-Sea keeps its salon trade close to the old town centre and the harbour arm. East Street is the spine, with the Shoreham Hair Lounge and East Street Barbers among the cuts, colour and beard work, while Brunswick Road over towards Southwick carries another tight cluster, where Brunswick Barbers, Marco's Barber Shop and Charlotte Liberty Hair and Beauty look after the streets running back from the river.",
+   "And the operator mix is overwhelmingly small and independent. The East Street hair salons, the Brunswick Road barbers and beauty rooms, and the mobile beauticians and nail techs working out across Shoreham Beach, Southwick and Lancing are nearly all sole traders or two and three-chair teams rather than chains. Almost every one of them puts staff in front of clients in something branded, and in a tight coastal town that look is a real part of how a chair gets recommended on.",
+  ],
+  "kit_loc": "across the town's salons, barber chairs and treatment rooms",
+  "s2_intro": "Whether you are an East Street salon, a Brunswick Road barber, a mobile beautician or a nail studio across Shoreham-by-Sea",
+ },
+ "alloa": {
+  "region": "Alloa and Clackmannanshire",
+  "nearby": ["Falkirk", "Dunfermline", "Cumbernauld"],
+  "snapshot": "iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Alloa, from the Mill Street hair salons to the Drysdale Street barbers and beauty rooms, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head": "Kitting the salons, barbers and spas of Clackmannanshire",
+  "s1loc": [
+   "As the county town of Clackmannanshire, Alloa pulls the Wee County's salon trade into a compact town centre above the Forth. Mill Street carries the densest run, with Brotherzz Barber and a string of hairdressers and beauty rooms along the parade, while Drysdale Street and Bank Street add more salons and the likes of Rhona McCallum Hair. Side streets and the units around the town centre fill in the nail and brow work, giving a small town a real concentration of chairs.",
+   "And the trade here is almost entirely small and local. The Mill Street hair salons and barbers, the Drysdale Street beauty and nail rooms, and the mobile beauticians driving out across Sauchie, Tullibody and the Hillfoots villages are nearly all sole traders or small teams rather than chains. Almost every one of them puts staff in front of clients in something branded, and in a close-knit Clackmannanshire town a neat, named uniform is part of how a salon keeps its regulars.",
+  ],
+  "kit_loc": "across the town's salons, barber chairs and treatment rooms",
+  "s2_intro": "Whether you are a Mill Street salon, a Drysdale Street barber, a mobile beautician or a nail studio across Alloa",
+ },
+ "horsforth": {
+  "region": "Horsforth and Leeds",
+  "nearby": ["Leeds", "Yeadon", "Guiseley"],
+  "snapshot": "iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Horsforth, from the Town Street hair salons to the New Road Side barbers and beauty rooms, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head": "Kitting the salons, barbers and spas of north Leeds",
+  "s1loc": [
+   "A prosperous Leeds suburb often called the largest village in England, Horsforth runs its salon trade right along Town Street. The long parade carries the bulk of it, with Auriole Hair and Beauty, AlannaEve Hair Salon and Horsforth Town Street Barbers among the cafes, bars and boutiques, and Squire For Men keeping a long-standing barbering name on Town Street and Station Road. New Road Side adds more, with Epiphany Hair Lounge a short walk from Hall Park.",
+   "And the trade here is overwhelmingly small and independent. The Town Street hair salons, the New Road Side barbers and beauty rooms, the nail and brow studios off the main parade, and the mobile beauticians working out towards Cookridge, Rawdon and Yeadon are nearly all sole traders or small teams rather than chains. Almost every one of them puts staff in front of clients in something branded, and on a high street this busy a sharp, named look is part of the pitch.",
+  ],
+  "kit_loc": "across the suburb's salons, barber chairs and treatment rooms",
+  "s2_intro": "Whether you are a Town Street salon, a New Road Side barber, a mobile beautician or a nail studio across Horsforth",
+ },
+ "cottingham": {
+  "region": "Cottingham and the East Riding",
+  "nearby": ["Hull", "Beverley", "Hessle"],
+  "snapshot": "iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Cottingham, from the Hallgate hair salons to the Market Green barbers and beauty rooms, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head": "Kitting the salons, barbers and spas of the East Riding",
+  "s1loc": [
+   "Set just north of Hull and often called one of England's largest villages, Cottingham keeps its salon trade around the green and the long run of Hallgate. The Hallgate parade carries the bulk of it, with Hays Salon, Nicole Hudson Hairdressing and Hallgate Barbers among the cuts, colour and beard work, while Market Green holds the likes of Unique. King Street and the side runs off the centre fill in the nail and beauty rooms serving the surrounding streets.",
+   "And the operator mix is overwhelmingly small and independent. The Hallgate hair salons, the Market Green barbers, the King Street beauty and nail rooms, and the mobile beauticians working out across Willerby, Kirk Ella and Cottingham's student streets near the university are nearly all sole traders or small teams rather than chains. Almost every one of them puts staff in front of clients in something branded, and in a busy commuter village a tidy, named uniform is part of the welcome.",
+  ],
+  "kit_loc": "across the village salons, barber chairs and treatment rooms",
+  "s2_intro": "Whether you are a Hallgate salon, a Market Green barber, a mobile beautician or a nail studio across Cottingham",
+ },
+ "bideford": {
+  "region": "Bideford and north Devon",
+  "nearby": ["Barnstaple", "Exmouth", "Tiverton"],
+  "snapshot": "iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Bideford, from the Mill Street hair salons to the Quay barbers and beauty rooms, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head": "Kitting the salons, barbers and spas of north Devon",
+  "s1loc": [
+   "A historic port on the Torridge, Bideford packs its salon trade into the old streets running back from the Quay. Mill Street is the spine, lined with independents like Kudos Hair and Beauty, Colorseum, Kevin's Barber Shop and J Barber's among the one-of-a-kind shops and cafes up towards Butchers Row. The High Street adds the likes of Beautyful Dreams for waxing, facials and nails, and the Quay and the lanes off it hold more cuts, colour and treatment rooms.",
+   "And the trade is almost wholly independent. The Mill Street hair and barber shops, the High Street beauty rooms, the nail and skin studios off the Quay, and the mobile beauticians working out across Northam, Westward Ho and Appledore are nearly all sole traders or small teams rather than chains. Almost every one of them puts staff in front of clients in something branded, and in a proudly independent north Devon town a clean, named look does a lot of the selling.",
+  ],
+  "kit_loc": "across the town's salons, barber chairs and treatment rooms",
+  "s2_intro": "Whether you are a Mill Street salon, a Quay barber, a mobile beautician or a nail studio across Bideford",
+ },
+ "morpeth": {
+  "region": "Morpeth and Northumberland",
+  "nearby": ["Ashington", "Bedlington", "Cramlington"],
+  "snapshot": "iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Morpeth, from the Bridge Street hair salons to the Newgate Street barbers and beauty rooms, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head": "Kitting the salons, barbers and spas of Northumberland",
+  "s1loc": [
+   "The county town of Northumberland, Morpeth wraps its salon trade around a tight centre on a loop of the Wansbeck. Bridge Street is the smart end, with Saks Hair and longer-standing salons along the run, while Newgate Street carries the everyday trade, where Dave's The Gentlemans Barbers and EC Beauty handle cuts, brows and treatments. The Sanderson Arcade and New Phoenix Yard add more salon and beauty units, giving the centre a real concentration of chairs.",
+   "And the operator mix is overwhelmingly small and local. The Bridge Street and Newgate Street hair salons, the town-centre barbers, the Sanderson Arcade beauty and nail rooms, and the mobile beauticians working out across Pegswood, Stannington and the Wansbeck villages are nearly all sole traders or small teams rather than chains. Almost every one of them puts staff in front of clients in something branded, and in a market town this trim a sharp uniform is part of how a salon presents itself.",
+  ],
+  "kit_loc": "across the town's salons, barber chairs and treatment rooms",
+  "s2_intro": "Whether you are a Bridge Street salon, a Newgate Street barber, a mobile beautician or a nail studio across Morpeth",
+ },
+ "bromborough": {
+  "region": "Bromborough and the Wirral",
+  "nearby": ["Bebington", "Birkenhead", "Ellesmere Port"],
+  "snapshot": "iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Bromborough, from the Allport Lane hair salons to the village barbers and beauty rooms, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head": "Kitting the salons, barbers and spas of the Wirral",
+  "s1loc": [
+   "Beyond the chains over in Birkenhead, Bromborough runs its salon trade around the old village core on Allport Lane. The parade carries the bulk of it, with Bromborough Barber Shop, VIP Barbers and The Secret Shed Hair and Aesthetics among the cuts, colour and skin work, sat beside the everyday shops and cafes. The lanes off the village green add the nail and beauty rooms, and the Croft retail park nearby keeps the area busy with passing trade and the Salons Direct superstore.",
+   "And the trade here is almost entirely small and independent. The Allport Lane hair salons, the village barbers and aesthetics rooms, the nail and brow studios off the green, and the mobile beauticians driving between Bromborough, Eastham, Brombrough Pool and Spital are nearly all sole traders or small teams rather than chains. Almost every one of them puts staff in front of clients in something branded, and on a Wirral village parade a neat, named uniform is part of how a salon holds its regulars.",
+  ],
+  "kit_loc": "across the village salons, barber chairs and treatment rooms",
+  "s2_intro": "Whether you are an Allport Lane salon, a village barber, a mobile beautician or a nail studio across Bromborough",
+ },
+}
