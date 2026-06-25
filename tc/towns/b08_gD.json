@@ -1,0 +1,86 @@
+{
+  "ormskirk": {
+    "region": "Ormskirk and West Lancashire",
+    "nearby": ["Skelmersdale", "Southport", "Formby"],
+    "snapshot": "Ormskirk is a market town in West Lancashire where two ordering routes run side by side. Build contractors and structured-cabling firms running crews across the town and Edge Hill campus hold trade accounts and buy branded kit through procurement, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. A workwear supplier here has to serve the fleet and the single installer alike across the wider borough.",
+    "s1_head": "Kitting the field engineers of West Lancashire",
+    "s1loc": [
+      "Ormskirk sits inside an active full-fibre build across West Lancashire. Openreach is pushing FTTP out through the town and the surrounding wards as part of its wider Project Gigabit programme, reaching the rural fringes around Aughton and Burscough as well as the town centre. The major fibre and mobile networks are upgrading on top, and alternative networks have been extending across the Lancashire postcodes too. Build contractors and civils crews field whole teams of engineers digging, blowing fibre and connecting cabinets and premises through districts from the town centre out toward Westhead and the lanes toward Skelmersdale.",
+      "Alongside the residential rollout sits a steady commercial and structured-cabling scene. Edge Hill University runs a 160-acre campus on the edge of town, with a new STEMM building and a constant need for Cat5e, Cat6 and fibre-optic cabling plus CCTV across teaching blocks and halls. Nearby the XL Business Park, White Moss Business Park and the Simonswood industrial area toward Skelmersdale give cabling firms, CCTV installers and network engineers offices, units and warehouses to wire for homes and multi-site businesses across the borough."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Ormskirk, a structured-cabling firm or a one-van broadband installer toward Skelmersdale"
+  },
+  "blackwood": {
+    "region": "Blackwood and Caerphilly county",
+    "nearby": ["Caerphilly", "Pontypool", "Cwmbran"],
+    "snapshot": "Blackwood is a Gwent valleys town in Caerphilly county where ordering splits two ways. Build contractors and cabling firms running crews across the valley floor hold trade accounts and buy branded workwear through procurement, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. A workwear supplier here has to kit the fleet and the single-van installer alike across the wider county borough.",
+    "s1_head": "Kitting the field engineers of the Gwent valleys",
+    "s1loc": [
+      "Blackwood sits in the middle of a busy full-fibre build through the Gwent valleys. Openreach is upgrading premises across the town and the wider Caerphilly county borough, and Ogi, the leading Welsh alternative network, has gone live with full fibre in Blackwood alongside Cefn Hengoed, Hengoed, Ystrad Mynach and Maesycwmmer. Ogi has backed its build with major financing to push further across the Cardiff Capital Region, so contractors are working the valley floor and the steep terraced streets connecting cabinets and premises, with the mobile networks upgrading on top through the town.",
+      "Alongside the residential rollout runs a working commercial and structured-cabling scene. The Oakdale Business Park on the former colliery site, the Pontllanfraith and Penmaen industrial estates and the units along the Sirhowy valley give cabling firms, CCTV installers and network engineers offices, factories and warehouses to wire in Cat5e, Cat6 and fibre across the county. Retail at the Blackwood Gate area and the town's high street add a steady flow of small-business cabling, alarm and CCTV jobs for installers working across the valleys."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Blackwood, a structured-cabling firm or a one-van broadband installer toward Caerphilly"
+  },
+  "fulwood": {
+    "region": "Fulwood and Preston, Lancashire",
+    "nearby": ["Preston", "Chorley", "Leyland"],
+    "snapshot": "Fulwood is a suburb of Preston in Lancashire where work arrives through two routes. Build contractors and structured-cabling firms running crews across the PR postcodes hold trade accounts and buy branded kit through procurement, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. A workwear supplier here has to serve the fleet and the single installer alike across Preston and the surrounding towns.",
+    "s1_head": "Kitting the field engineers of Preston and Lancashire",
+    "s1loc": [
+      "Fulwood sits inside one of Lancashire's busiest full-fibre builds. CityFibre has invested heavily in a Preston rollout reaching districts such as Ribbleton, Fishwick, Holme Slack, Deepdale and Grange, while Openreach pushes FTTP through Fulwood and the wider PR2 area and the major fibre and mobile networks upgrade on top with multi-gigabit packages. Alternative networks have extended across the Preston postcodes too, integrating earlier footprints street by street. Build contractors and civils crews field whole teams blowing fibre, jointing and connecting cabinets and premises through Fulwood and out toward Broughton and Cadley.",
+      "Alongside the residential rollout sits a strong commercial and structured-cabling scene. The Royal Preston Hospital sits in Fulwood with constant cabling and CCTV demand, and the University of Central Lancashire campus, the Fulwood and Moor Park districts and business units along the A6 give cabling firms offices, schools and multi-site premises to wire in Cat5e, Cat6 and fibre. Out toward Chorley and Leyland the industrial estates and logistics units add structured-cabling, network and CCTV work for installers serving homes and businesses across the area."
+    ],
+    "kit_loc": "across the suburb's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Fulwood, a structured-cabling firm or a one-van broadband installer toward Preston"
+  },
+  "st austell": {
+    "region": "St Austell and Cornwall",
+    "nearby": ["Newquay", "Truro", "Falmouth"],
+    "snapshot": "St Austell is one of Cornwall's larger towns where ordering runs two ways. Build contractors and cabling firms working crews across the bay and clay country hold trade accounts and buy branded workwear through procurement, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. A workwear supplier here has to kit the fleet and the single-van installer alike across mid Cornwall.",
+    "s1_head": "Kitting the field engineers of Cornwall",
+    "s1loc": [
+      "St Austell sits inside an active full-fibre build across mid Cornwall. Openreach has upgraded the town across wards from Mount Charles and Gover to St Mewan, Bethel and Penwithick, and Wildanet, the Cornish alternative network, is delivering Project Gigabit connections to thousands of harder-to-reach homes and businesses across south and mid Cornwall on contracts worth tens of millions of pounds. The major fibre and mobile networks upgrade on top, so contractors work the town's streets and the surrounding clay-country villages connecting cabinets and premises across the bay.",
+      "Alongside the residential rollout runs a steady commercial and structured-cabling scene. The St Austell Bay Business Park, the Holmbush and Carclaze trading estates and the units around the town centre give cabling firms, CCTV installers and network engineers offices, retail and industrial premises to wire in Cat5e, Cat6 and fibre. The china-clay operations on the surrounding moors and the harbour and tourism trade at Charlestown add a flow of small-business cabling, alarm and CCTV work for installers serving homes and businesses across mid Cornwall."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across St Austell, a structured-cabling firm or a one-van broadband installer toward Newquay"
+  },
+  "consett": {
+    "region": "Consett and County Durham",
+    "nearby": ["Stanley", "Chester-le-Street", "Bishop Auckland"],
+    "snapshot": "Consett is a County Durham town where work comes in by two routes. Build contractors and cabling firms running crews across Derwentside hold trade accounts and buy branded kit through procurement, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. A workwear supplier here has to serve the fleet and the single installer alike across the wider county.",
+    "s1_head": "Kitting the field engineers of County Durham",
+    "s1loc": [
+      "Consett sits inside a major full-fibre build across County Durham. Openreach has committed multi-million-pound investment to upgrade more than fifty thousand homes and businesses across the county, with the majority of people living and working in Consett able to move to full fibre as the work completes. Alternative networks including nexfibre are also extending FTTP across parts of Durham, and the major mobile networks upgrade on top. Build contractors and civils crews field whole teams jointing, blowing fibre and connecting cabinets and premises through the town's hilltop streets and out into the surrounding Derwentside villages.",
+      "Alongside the residential rollout sits a working commercial and structured-cabling scene built on the Project Genesis regeneration of the former steelworks site. The Number One Industrial Estate runs to more than a hundred factory and workshop units with occupiers such as Legrand, Gardner Aerospace, Howden Joinery and Screwfix, and the Werdohl Business Park and Hownsgill industrial units give cabling firms, CCTV installers and network engineers premises to wire in Cat5e, Cat6 and fibre across the area."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Consett, a structured-cabling firm or a one-van broadband installer toward Stanley"
+  },
+  "newton aycliffe": {
+    "region": "Newton Aycliffe and County Durham",
+    "nearby": ["Darlington", "Bishop Auckland", "Spennymoor"],
+    "snapshot": "Newton Aycliffe is a County Durham new town built around manufacturing, where ordering runs two ways. Build contractors and cabling firms working crews across the business park hold trade accounts and buy branded workwear through procurement, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. A workwear supplier here has to kit the fleet and the single-van installer alike across the wider county.",
+    "s1_head": "Kitting the field engineers of County Durham",
+    "s1loc": [
+      "Newton Aycliffe sits inside an active full-fibre build across County Durham. Openreach has started work on a new network for Aycliffe, and alternative networks including nexfibre are extending FTTP across Newton Aycliffe and the nearby villages of Chilton, Ferryhill and Cornforth. The major fibre and mobile networks upgrade on top with multi-gigabit packages reaching large parts of the town. Build contractors and civils crews field whole teams jointing, blowing fibre and connecting cabinets and premises across the new-town estates and the lanes toward Heighington and Middridge.",
+      "Alongside the residential rollout runs an unusually strong commercial and structured-cabling scene. Aycliffe Business Park is the biggest single employment area in the North East and one of the largest in the UK, home to more than five hundred companies and around ten thousand workers including Hitachi Rail, Gestamp, Husqvarna and 3M, with the Merchant Park development off junction 59 of the A1(M) adding more space. Those factories, warehouses and offices give cabling firms, CCTV installers and network engineers constant Cat5e, Cat6 and fibre work."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Newton Aycliffe, a structured-cabling firm or a one-van broadband installer toward Darlington"
+  },
+  "thornaby-on-tees": {
+    "region": "Thornaby-on-Tees and the Tees Valley",
+    "nearby": ["Stockton-on-Tees", "Middlesbrough", "Billingham"],
+    "snapshot": "Thornaby-on-Tees is a Tees Valley town in the Stockton borough where work arrives two ways. Build contractors and cabling firms running crews across Teesside hold trade accounts and buy branded kit through procurement, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. A workwear supplier here has to serve the fleet and the single installer alike across the wider Tees Valley.",
+    "s1_head": "Kitting the field engineers of the Tees Valley",
+    "s1loc": [
+      "Thornaby-on-Tees sits inside one of the busiest full-fibre builds on Teesside. CityFibre has invested across the Tees Valley, Openreach is extending FTTP through the TS17 streets, and nexfibre and the major fibre and mobile networks are pushing multi-gigabit packages to large parts of the town. Alternative networks have extended further across Teesside through recent years, so build contractors and civils crews field whole teams jointing, blowing fibre and connecting cabinets and premises through Thornaby and out toward Ingleby Barwick and the riverside districts toward Stockton-on-Tees.",
+      "Alongside the residential rollout runs a strong commercial and structured-cabling scene. Teesside Park, the huge retail and leisure destination beside the river, plus the Teesside Industrial Estate and the units along the A66 give cabling firms, CCTV installers and network engineers shops, warehouses and offices to wire in Cat5e, Cat6 and fibre. The Thornaby town centre, the aerodrome business units and the wider Tees Valley logistics and process sites add a steady flow of structured-cabling, network and CCTV work for installers across the area."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Thornaby-on-Tees, a structured-cabling firm or a one-van broadband installer toward Stockton-on-Tees"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "portishead": {
+    "region": "Portishead and North Somerset",
+    "nearby": ["Clevedon", "Bristol", "Weston-super-Mare"],
+    "snapshot": "Portishead is a fast-growing North Somerset town where the full-fibre build and a busy coastal commercial scene keep network and cabling crews working. We back both routes: build contractors and structured-cabling firms run trade accounts for whole crews of engineers, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. Polo shirts, hi-vis and softshells go out to fleets and single installers on the same terms.",
+    "s1_head": "Kitting the field engineers of North Somerset",
+    "s1loc": [
+      "Portishead sits inside a real North Somerset full-fibre push. Openreach is rolling FTTP through the town as part of its wider build out from Bristol, while Truespeed, the Bath-based ultrafast network, has named Portishead and neighbouring Clevedon among its premises targets, and Hyperoptic and OFNL add coverage on newer marina developments. That means delivery partners and civils crews are working through the streets around the Marina, Gordano and the older town centre, pulling fibre to cabinets and customer premises while the major mobile networks keep upgrading on top.",
+      "Alongside the residential rollout sits a commercial scene shaped by the M5 corridor and Royal Portbury Dock. Office schemes like Portishead Office Park, Gordano Gate and Portis Fields, plus the trading estates over toward Clevedon such as Hither Green and Tweed Road, give structured-cabling and fibre-optic firms offices, warehouses and dockside units to wire in Cat5e, Cat6 and fibre. CCTV and access-control installers cover the Marina, retail parks and industrial units, so the local trade runs from multi-site cabling contracts down to single-premises fit-outs."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Portishead, a structured-cabling firm or a one-van broadband installer toward Clevedon"
+  },
+  "ferndown": {
+    "region": "Ferndown and Dorset",
+    "nearby": ["Bournemouth", "Poole", "Christchurch"],
+    "snapshot": "Ferndown is a Dorset town with a major industrial estate and a live full-fibre rollout, which keeps network and cabling crews busy. We support both routes: build contractors and structured-cabling firms hold trade accounts to kit whole crews of engineers, while sole traders and one-van broadband and CCTV installers order direct online with no account. Polo shirts, hi-vis and softshells reach the fleet and the single installer on equal terms.",
+    "s1_head": "Kitting the field engineers of Dorset",
+    "s1loc": [
+      "Ferndown is in the middle of its full-fibre upgrade. Openreach has started building its FTTP network across the town, working through postcodes around Wimborne Road West, Longham, Hampreston and Fox Lane, while Giganet has named Ferndown alongside Wimborne and Ringwood in its build plans for the area. That puts Openreach delivery partners and alt-net civils crews on the streets pulling fibre to cabinets and premises, with the major mobile networks upgrading their masts on top, so there is steady work for engineers right across the town and its outskirts.",
+      "The commercial backbone here is the Ferndown and Uddens Industrial Estate, one of the largest in Dorset, running along Cobham Road and Vulcan Way with direct access to the A31. Occupiers from DPD and Travis Perkins to Screwfix, Howdens and a long tail of warehouse, software and manufacturing firms give structured-cabling installers offices, distribution units and factories to wire in Cat5e, Cat6 and fibre. CCTV and access-control engineers cover the estate and the town's retail and trade counters, so local work spans multi-site contracts and single-unit fit-outs."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Ferndown, a structured-cabling firm or a one-van broadband installer toward Bournemouth"
+  },
+  "broadstairs": {
+    "region": "Broadstairs and the Isle of Thanet",
+    "nearby": ["Ramsgate", "Margate", "Herne Bay"],
+    "snapshot": "Broadstairs is an Isle of Thanet town where the full-fibre upgrade and a busy retail and seaside trade keep network and cabling crews working. We back both routes: build contractors and structured-cabling firms run trade accounts for whole crews of engineers, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. Polo shirts, hi-vis and softshells go to the fleet and the single installer alike.",
+    "s1_head": "Kitting the field engineers of the Isle of Thanet",
+    "s1loc": [
+      "Broadstairs is being upgraded as part of Openreach's Thanet full-fibre build, with FTTP going in across Broadstairs, St Peters and neighbouring Ramsgate as the older exchanges are modernised. Netomnia has been extending its alt-net build through Kent, and the major mobile networks keep upgrading on top, so Openreach delivery partners and civils crews are working the streets across the town pulling fibre to cabinets and premises. The town moved largely from fibre-to-the-cabinet to full fibre to the door, which keeps engineers busy on both connections and faults.",
+      "The commercial side centres on Westwood, the retail and leisure hub circled by Broadstairs, Margate and Ramsgate, where Westwood Cross shopping centre and its surrounding retail and trade units give structured-cabling and fibre-optic installers shops, offices and warehouses to wire in Cat5e, Cat6 and fibre. Thanet District Council runs a town-centre CCTV system, and seafront hotels, schools and small businesses across Broadstairs need camera, network and access-control work, so the local trade runs from multi-site cabling jobs down to single-premises installs."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Broadstairs, a structured-cabling firm or a one-van broadband installer toward Ramsgate"
+  },
+  "hoddesdon": {
+    "region": "Hoddesdon and Hertfordshire",
+    "nearby": ["Cheshunt", "Hertford", "Harlow"],
+    "snapshot": "Hoddesdon is a Hertfordshire town with a large business park and a live full-fibre build, which keeps network and cabling crews busy. We support both routes: build contractors and structured-cabling firms hold trade accounts to kit whole crews of engineers, while sole traders and one-van broadband and CCTV installers order direct online with no account. Polo shirts, hi-vis and softshells reach the fleet and the single installer on equal terms.",
+    "s1_head": "Kitting the field engineers of Hertfordshire",
+    "s1loc": [
+      "Hoddesdon sits in a busy Hertfordshire full-fibre picture. Openreach has taken its FTTP network past hundreds of thousands of county premises, Netomnia is building its own full-fibre network directly across Hoddesdon, and CityFibre holds a Project Gigabit contract reaching harder-to-serve homes and businesses around the county. That puts Openreach delivery partners and alt-net civils crews on the streets around the town and out toward Cheshunt and Hertford, pulling fibre to cabinets and premises while the major mobile networks keep upgrading their masts on top.",
+      "The commercial anchor is Hoddesdon Business Park around Pindar Road, one of the larger employment areas in the region, home to roughly 200 businesses and thousands of workers across warehouse, distribution and office units, with the Trident and Rye Park industrial estates and a Sainsbury's depot alongside. That gives structured-cabling and fibre-optic firms distribution sheds, factories and offices to wire in Cat5e, Cat6 and fibre, while CCTV and access-control installers cover the estates and town-centre premises, so local work spans multi-site contracts and single-unit fit-outs."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Hoddesdon, a structured-cabling firm or a one-van broadband installer toward Cheshunt"
+  },
+  "wilmslow": {
+    "region": "Wilmslow and Cheshire",
+    "nearby": ["Macclesfield", "Stockport", "Bramhall"],
+    "snapshot": "Wilmslow is an affluent Cheshire town where the full-fibre build and a strong business-park scene keep network and cabling crews working. We back both routes: build contractors and structured-cabling firms run trade accounts for whole crews of engineers, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. Polo shirts, hi-vis and softshells go to the fleet and the single installer alike.",
+    "s1_head": "Kitting the field engineers of Cheshire",
+    "s1loc": [
+      "Wilmslow is part of a live North West full-fibre build. Openreach named Wilmslow among the Cheshire and Greater Manchester towns in a major ultrafast upgrade, while brsk has extended its full-fibre network out of Greater Manchester into Wilmslow, connecting thousands of homes across the town. That puts Openreach delivery partners and alt-net civils crews on the streets toward Handforth, Alderley Edge and out to Macclesfield, pulling fibre to cabinets and premises while the major mobile networks keep upgrading on top, so there is steady engineering work across the town and its surroundings.",
+      "The commercial scene is unusually strong for a town this size. Royal London has a major campus off Alderley Road, and business parks at Deanway in Handforth and Adlington toward Macclesfield, plus the office quarter around Wilmslow's Alderley Road and Water Lane, give structured-cabling and fibre-optic firms head offices, serviced suites and tech businesses to wire in Cat5e, Cat6 and fibre. CCTV and access-control installers cover those parks and the retail centre, so the local trade runs from multi-site cabling contracts down to single-office fit-outs."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Wilmslow, a structured-cabling firm or a one-van broadband installer toward Macclesfield"
+  },
+  "grays thurrock": {
+    "region": "Grays Thurrock and Essex",
+    "nearby": ["Upminster", "Dartford", "Basildon"],
+    "snapshot": "Grays Thurrock is an Essex town on the Thames where the full-fibre build and a huge logistics economy keep network and cabling crews busy. We support both routes: build contractors and structured-cabling firms hold trade accounts to kit whole crews of engineers, while sole traders and one-van broadband and CCTV installers order direct online with no account. Polo shirts, hi-vis and softshells reach the fleet and the single installer on equal terms.",
+    "s1_head": "Kitting the field engineers of Essex",
+    "s1loc": [
+      "Grays Thurrock sits in a fast-moving Essex full-fibre rollout. Openreach has invested tens of millions commercially and through Essex County Council's Digital Essex programme, taking gigabit full fibre past the large majority of premises in the town, while CityFibre and the alt-nets build along the A13 and A127 corridor through Grays, Basildon and Southend, and Hyperoptic covers Thurrock social-housing blocks. That keeps Openreach delivery partners and civils crews working the streets across Grays, West Thurrock and Chadwell, pulling fibre to cabinets and premises with the mobile networks upgrading on top.",
+      "The commercial backbone here is logistics and retail on a major scale. The Port of Tilbury, one of Britain's main container and bulk ports, sits alongside the Lakeside and West Thurrock retail and distribution parks and a long run of riverside warehousing, all of which give structured-cabling and fibre-optic firms ports, sheds, offices and shopping units to wire in Cat5e, Cat6 and fibre. CCTV and access-control installers cover the port estates, distribution parks and town centre, so the local trade runs from multi-site cabling contracts down to single-unit fit-outs."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Grays Thurrock, a structured-cabling firm or a one-van broadband installer toward Upminster"
+  },
+  "upminster": {
+    "region": "Upminster and the London Borough of Havering",
+    "nearby": ["Hornchurch", "Romford", "Grays Thurrock"],
+    "snapshot": "Upminster is a town in the London Borough of Havering where the full-fibre switchover and a busy high-street trade keep network and cabling crews working. We back both routes: build contractors and structured-cabling firms run trade accounts for whole crews of engineers, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. Polo shirts, hi-vis and softshells go to the fleet and the single installer alike.",
+    "s1_head": "Kitting the field engineers of the London Borough of Havering",
+    "s1loc": [
+      "Upminster is part of Havering's full-fibre switchover. Openreach has invested heavily in its FTTP network across the borough, taking full fibre past most homes and businesses, and Upminster is one of the exchanges moving to a Stop Sell where the old copper services end and customers shift onto fibre. Hyperoptic adds coverage in apartment and business blocks, and the major mobile networks keep upgrading on top, so Openreach delivery partners and civils crews are working the streets across Upminster, Cranham and toward Hornchurch, pulling fibre to cabinets and premises.",
+      "Commercially, Upminster and neighbouring Hornchurch are the borough's main retail centres outside Romford, with extensive high-street shopping along Station Road and St Marys Lane and office suites such as Essex House by the station. That gives structured-cabling and fibre-optic firms shops, surgeries and small offices to wire in Cat5e, Cat6 and fibre, while CCTV and access-control installers cover the high street, station area and the thousands of small businesses across Havering, so the local trade runs from multi-site cabling work down to single-premises installs."
+    ],
+    "kit_loc": "across the borough's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Upminster, a structured-cabling firm or a one-van broadband installer toward Hornchurch"
+  }
+}

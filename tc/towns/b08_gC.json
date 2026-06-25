@@ -1,0 +1,86 @@
+{
+  "rhyl": {
+    "region": "Rhyl and Denbighshire",
+    "nearby": ["Prestatyn", "Colwyn Bay", "Llandudno"],
+    "snapshot": "Rhyl sits on the Denbighshire coast where full fibre is going in fast and the telecoms trade splits two ways. Build contractors and structured-cabling firms run fleets of engineers and buy on trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. A workwear supplier here kits both, which is why we run trade accounts and direct online ordering side by side.",
+    "s1_head": "Kitting the field engineers of Denbighshire",
+    "s1loc": [
+      "Rhyl and the wider Denbighshire coast are deep in a full-fibre build. Openreach has reached roughly 95 per cent of properties across the town and pushed its network out through Kinmel Bay, Rhuddlan and along the coast toward Prestatyn, and the Welsh alt-net Ogi is building fibre across North Wales alongside it. The major mobile networks keep upgrading on top, and Project Gigabit work reaches the harder rural addresses inland. That mix means engineers and civils crews are working through the town's streets, cabinets and customer premises week in, week out, from the seafront estates to the newer developments behind the promenade.",
+      "Alongside the residential rollout sits a steady commercial scene. Structured-cabling and CCTV installers wire offices, schools and trade units across Tir Llwyd Industrial Estate at Kinmel Bay and the Colomendy Industrial Estate over toward Denbigh, running Cat5e, Cat6 and fibre for multi-site businesses along the A55 corridor. Hotels, holiday parks and retail along the Rhyl front need cabling, access control and camera systems too, so a long tail of independent broadband, network and CCTV firms takes on work across the town for homes and businesses alike."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Rhyl, a structured-cabling firm or a one-van broadband installer toward Prestatyn"
+  },
+  "thornton cleveleys": {
+    "region": "Thornton Cleveleys and the Fylde coast",
+    "nearby": ["Blackpool", "Fleetwood", "Poulton-le-Fylde"],
+    "snapshot": "Thornton Cleveleys sits on the Fylde coast where full fibre is rolling out and the telecoms trade runs two ways. Build contractors and cabling firms field fleets of engineers and buy on trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. A workwear supplier here has to serve the fleet and the one-van installer alike, which is why we run trade accounts and direct online ordering side by side.",
+    "s1_head": "Kitting the field engineers of the Fylde coast",
+    "s1loc": [
+      "Thornton Cleveleys is well into its full-fibre build. Openreach's network now reaches more than half a million properties across Lancashire and is pushing fibre through the town toward Fleetwood and Poulton-le-Fylde, while the alt-net BeFibre has been building fibre-to-the-premises here from early in its roadmap, taking in thousands of local properties. The major mobile networks keep upgrading on top, and Project Gigabit work reaches the rural addresses out toward the Wyre. That keeps civils crews and broadband engineers working across the town's streets, cabinets and customer premises right along the coast.",
+      "Alongside the residential rollout sits a working commercial scene. Structured-cabling and CCTV installers wire trade units and warehouses across the Hillhouse Industrial Estate and the workshops around Thornton, running Cat5e, Cat6 and fibre for multi-site businesses up the A585 corridor. The retail and leisure units around the Jubilee complex and the Cleveleys front need cabling, access control and camera systems too, so a long tail of independent broadband, network and CCTV firms takes on work across the town for homes and businesses alike."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Thornton Cleveleys, a structured-cabling firm or a one-van broadband installer toward Fleetwood"
+  },
+  "bognor regis": {
+    "region": "Bognor Regis and West Sussex",
+    "nearby": ["Littlehampton", "Chichester", "Worthing"],
+    "snapshot": "Bognor Regis is a full-fibre town on the West Sussex coast where the telecoms trade runs two ways. Build contractors and structured-cabling firms field fleets of engineers and buy on trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. A workwear supplier here has to serve the fleet and the one-van installer alike, which is why we run trade accounts and direct online ordering side by side.",
+    "s1_head": "Kitting the field engineers of West Sussex",
+    "s1loc": [
+      "Bognor Regis has had a serious full-fibre build for years. CityFibre has laid hundreds of kilometres of new fibre across the town, with Hotham, Berwick, Bersted and parts of Aldwick and Felpham already ready for service, while Openreach builds its own full fibre alongside and the alt-net toob retails on top. The major mobile networks keep upgrading too, so contractors and civils crews are working through the town's streets, cabinets and customer premises across the seafront estates and the newer developments inland toward Chichester.",
+      "Alongside the residential rollout sits a strong commercial scene. Structured-cabling and CCTV installers wire warehouses, offices and trade counters across the Enterprise Bognor Regis employment land at Oldlands Farm, Rowan Park and Salt Box Field on the northern edge of town, running Cat5e, Cat6 and fibre for distribution and retail occupiers along the A29 and A259. Holiday parks, schools and the retail along the seafront need cabling, access control and camera systems too, so a long tail of independent broadband, network and CCTV firms takes on work across the town for homes and businesses alike."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Bognor Regis, a structured-cabling firm or a one-van broadband installer toward Chichester"
+  },
+  "seaford": {
+    "region": "Seaford and East Sussex",
+    "nearby": ["Eastbourne", "Brighton", "Hove"],
+    "snapshot": "Seaford sits on the East Sussex coast where full fibre is going in and the telecoms trade runs two ways. Build contractors and structured-cabling firms field fleets of engineers and buy on trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. A workwear supplier here has to serve the fleet and the one-van installer alike, which is why we run trade accounts and direct online ordering side by side.",
+    "s1_head": "Kitting the field engineers of East Sussex",
+    "s1loc": [
+      "Seaford has full fibre going in from more than one network. Openreach has built fibre-to-the-premises across the town, and the local alt-nets Lightning Fibre and Trooli are building their own networks along the East Sussex coast, giving residents a choice of providers. The major mobile networks keep upgrading on top, and Project Gigabit work reaches the harder addresses around the Cuckmere valley and the Downs. That keeps civils crews and broadband engineers working across the town's streets, cabinets and customer premises, from the seafront down to the estates behind the station.",
+      "Alongside the residential rollout sits a steady commercial scene. Structured-cabling and CCTV installers wire offices, schools and trade units across the workshops around Seaford and out toward Newhaven's industrial estates and the port, running Cat5e, Cat6 and fibre for multi-site businesses along the A259 coast road. The retail along Broad Street, the marina trades and holiday lets need cabling, access control and camera systems too, so a long tail of independent broadband, network and CCTV firms takes on work across the town for homes and businesses alike."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Seaford, a structured-cabling firm or a one-van broadband installer toward Eastbourne"
+  },
+  "whitehaven": {
+    "region": "Whitehaven and west Cumbria",
+    "nearby": ["Workington", "Carlisle", "Penrith"],
+    "snapshot": "Whitehaven sits on the west Cumbrian coast where full fibre is rolling out and the telecoms trade runs two ways. Build contractors and structured-cabling firms field fleets of engineers and buy on trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. A workwear supplier here has to serve the fleet and the one-van installer alike, which is why we run trade accounts and direct online ordering side by side.",
+    "s1_head": "Kitting the field engineers of west Cumbria",
+    "s1loc": [
+      "Whitehaven is in the middle of a heavy full-fibre build. Openreach engineers are working across the town as part of a multi-million-pound Cumbria network, and the alt-net Fibrus is building fibre-to-the-premises here as part of its Project Gigabit programme for the county, with Netomnia and the community network B4RN active elsewhere across Cumbria. The major mobile networks keep upgrading too, so contractors and civils crews are working through the town's streets, cabinets and customer premises, from the harbour terraces up to the estates above the town.",
+      "Alongside the residential rollout sits a working commercial scene. Structured-cabling and CCTV installers wire trade units, offices and warehouses across the Sneckyeat Industrial Estate and the workshops off the A595, running Cat5e, Cat6 and fibre for multi-site businesses along the Cumbrian coast. The harbourside, the retail in the town centre and the energy-sector supply firms tied to the wider west Cumbria economy need cabling, access control and camera systems too, so a long tail of independent broadband, network and CCTV firms takes on work across the town for homes and businesses alike."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Whitehaven, a structured-cabling firm or a one-van broadband installer toward Workington"
+  },
+  "droitwich": {
+    "region": "Droitwich and Worcestershire",
+    "nearby": ["Worcester", "Bromsgrove", "Kidderminster"],
+    "snapshot": "Droitwich sits in Worcestershire where full fibre is going in and the telecoms trade runs two ways. Build contractors and structured-cabling firms field fleets of engineers and buy on trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. A workwear supplier here has to serve the fleet and the one-van installer alike, which is why we run trade accounts and direct online ordering side by side.",
+    "s1_head": "Kitting the field engineers of Worcestershire",
+    "s1loc": [
+      "Droitwich has full fibre going in from more than one network. The alt-net FullFibre lit its first cabinet in the town and is building gigabit fibre across the Midlands, Openreach is building its own full fibre here, and BeFibre is rolling out fibre-to-the-premises locally too, giving residents a choice of providers. The major mobile networks keep upgrading on top, and work reaches the older copper-served estates from the 1970s and 1980s that make the build harder. That keeps civils crews and broadband engineers working across the town's streets, cabinets and customer premises right across Droitwich.",
+      "Alongside the residential rollout sits a steady commercial scene. Structured-cabling and CCTV installers wire offices, schools and trade units across the industrial estates around the town and the workshops off the A38 toward Worcester, running Cat5e, Cat6 and fibre for multi-site businesses across the county. The town-centre retail, the canalside spa trades and the warehouses on the edge of town need cabling, access control and camera systems too, so a long tail of independent broadband, network and CCTV firms takes on work across the town for homes and businesses alike."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Droitwich, a structured-cabling firm or a one-van broadband installer toward Worcester"
+  },
+  "evesham": {
+    "region": "Evesham and the Vale of Evesham",
+    "nearby": ["Worcester", "Stratford-upon-Avon", "Cheltenham"],
+    "snapshot": "Evesham sits in the Vale of Evesham where full fibre is going in and the telecoms trade runs two ways. Build contractors and structured-cabling firms field fleets of engineers and buy on trade accounts, while ex-BT sole traders and one-van broadband and CCTV installers order direct online with no account. A workwear supplier here has to serve the fleet and the one-van installer alike, which is why we run trade accounts and direct online ordering side by side.",
+    "s1_head": "Kitting the field engineers of the Vale of Evesham",
+    "s1loc": [
+      "Evesham is well into its full-fibre build. Openreach has reached around 90 per cent of properties across the town as part of a large Worcestershire network, the alt-net Lit Fibre is building fibre-to-the-premises here, and Virgin Media has been looking at extending its network around the town. The major mobile networks keep upgrading on top, and work reaches the villages out across the Vale. That keeps contractors and civils crews working through the town's streets, cabinets and customer premises, from the riverside centre to the estates spreading out toward the bypass.",
+      "Alongside the residential rollout sits a strong commercial scene. Structured-cabling and CCTV installers wire warehouses, offices and trade units across Vale Park, the modern business estate off Enterprise Way and the A46 bypass, running Cat5e, Cat6 and fibre for distribution, food and growing-sector occupiers in the Vale. The market-town retail, the riverside trades and the packhouses tied to the horticulture economy need cabling, access control and camera systems too, so a long tail of independent broadband, network and CCTV firms takes on work across the town for homes and businesses alike."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Evesham, a structured-cabling firm or a one-van broadband installer toward Worcester"
+  }
+}

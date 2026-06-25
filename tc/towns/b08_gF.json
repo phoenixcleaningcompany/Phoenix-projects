@@ -1,0 +1,86 @@
+{
+  "new milton": {
+    "region": "New Milton and west Hampshire",
+    "nearby": ["Christchurch", "Bournemouth", "Ferndown"],
+    "snapshot": "New Milton sits between the New Forest and Christchurch Bay, and its broadband and cabling trade runs on two tracks. Build contractors and structured-cabling firms working the town hold trade accounts and kit whole crews through procurement, while the ex-BT sole traders and one-van broadband and CCTV installers around New Milton order direct online with no account. We run both routes side by side so the fleet and the single engineer are served alike.",
+    "s1_head": "Kitting the field engineers of west Hampshire",
+    "s1loc": [
+      "New Milton and the surrounding west Hampshire coast are deep into the full-fibre build. Openreach has engineers laying its new network through New Milton, Barton on Sea, Highcliffe and Milford on Sea, giving most local homes and businesses a gigabit-capable upgrade. The South Coast alt-net Toob builds its own full fibre across this part of Hampshire and Dorset, and CityFibre coverage extends along the coast toward Bournemouth and Christchurch, so contractors here juggle several network footprints at once. Around the residential rollout sit broadband, CCTV and aerial installers covering the town, the seafront and the villages reaching up into the New Forest fringe.",
+      "The commercial side keeps a steady stream of structured-cabling work. Firms wire offices and units on the Gore Road and Caird Avenue industrial areas, the town-centre shops and the holiday parks and hotels strung along Christchurch Bay toward Highcliffe and Barton on Sea. Engineers pull Cat5e, Cat6 and fibre into schools, care homes and the small business premises that fill New Milton, plus CCTV and access-control jobs across the retail core. It is a mix of national contractors on the big network build and a long tail of independent installers taking on cabling and security work right across the town."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across New Milton, a structured-cabling firm or a one-van broadband installer toward Christchurch"
+  },
+  "rothwell": {
+    "region": "Rothwell and West Yorkshire",
+    "nearby": ["Leeds", "Pudsey", "Castleford"],
+    "snapshot": "Rothwell sits in south-east Leeds between the city and Wakefield, and its telecoms trade splits two ways. The build contractors and cabling firms working the town hold trade accounts and buy centrally for whole crews, while the ex-BT sole traders and one-van broadband and CCTV installers around Rothwell order direct online with no account. We run trade accounts for the fleets and direct online ordering for everyone else, side by side.",
+    "s1_head": "Kitting the field engineers of West Yorkshire",
+    "s1loc": [
+      "Rothwell sits inside Leeds, a CityFibre Gigabit City, so the full-fibre build runs right through the area. Openreach has upgraded huge numbers of homes across West Yorkshire, while CityFibre and the alt-nets push gigabit fibre out through south-east Leeds and the neighbouring districts. Engineers and civils crews work Rothwell village, Oulton, Woodlesford, Carlton, Robin Hood and Lofthouse, feeding poles, ducts and cabinets into estate after estate. With the city build to the north and Wakefield to the south, build contractors here move between several network footprints, and a steady layer of broadband, aerial and CCTV installers covers the homes in between.",
+      "The commercial scene leans on the area's industrial heritage and its road links. Cabling firms wire the units around the Stourton and Hunslet industrial belt to the north, the business premises along Oulton and Woodlesford and the warehousing close to the M1 and M62 junctions that ring Rothwell. Engineers pull Cat5e, Cat6 and fibre into offices, schools and multi-site businesses across south Leeds, and CCTV and access-control work runs through the retail parades and trading estates. National contractors handle the big network jobs while independent structured-cabling and security installers take on work for homes and businesses around the town."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Rothwell, a structured-cabling firm or a one-van broadband installer toward Leeds"
+  },
+  "formby": {
+    "region": "Formby and Merseyside",
+    "nearby": ["Crosby", "Southport", "Ormskirk"],
+    "snapshot": "Formby sits on the Sefton coast between Crosby and Southport, and its broadband and cabling trade runs two ways. Build contractors and structured-cabling firms working the town hold trade accounts and kit whole crews through procurement, while the ex-BT sole traders and one-van broadband and CCTV installers around Formby order direct online with no account. We run trade accounts for the fleets and direct online ordering for everyone else, side by side.",
+    "s1_head": "Kitting the field engineers of Merseyside",
+    "s1loc": [
+      "Formby and the wider Sefton coast are well into the full-fibre build. Openreach is the broad baseline, upgrading homes across Formby, Freshfield and the surrounding lanes to gigabit-capable fibre, and the alt-nets are building alongside through Merseyside, with Netomnia and other operators pushing fibre out across the borough. Engineers and civils crews work the cabinets and poles through the residential streets between the railway and the coast, while broadband, aerial and CCTV installers cover the homes spread across the town and out toward Crosby and Southport. Contractors here move between several network footprints as the rollout fills in.",
+      "The commercial side keeps a steady cabling load. Firms wire the units on Formby Business Park along Stephenson Way and the Altcar Road industrial area, the offices and shops around the village centre and the schools, care homes and golf-club and hotel premises spread along the coast. Engineers pull Cat5e, Cat6 and fibre into business premises across the town, with CCTV and access-control work running through the retail core and the trading estates. National contractors handle the big network build while independent structured-cabling and security installers take on work for homes and businesses right across Formby and the wider Sefton area."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Formby, a structured-cabling firm or a one-van broadband installer toward Crosby"
+  },
+  "alfreton": {
+    "region": "Alfreton and Derbyshire",
+    "nearby": ["Ripley", "Belper", "Chesterfield"],
+    "snapshot": "Alfreton sits in the Amber Valley of Derbyshire, and its telecoms trade runs on two tracks. The build contractors and cabling firms working the town hold trade accounts and buy centrally for whole crews, while the ex-BT sole traders and one-van broadband and CCTV installers around Alfreton order direct online with no account. We run trade accounts for the fleets and direct online ordering for everyone else, equal weight, side by side.",
+    "s1_head": "Kitting the field engineers of Derbyshire",
+    "s1loc": [
+      "Alfreton has become a busy full-fibre battleground. Openreach has made the Alfreton exchange a priority for its full-fibre build, upgrading thousands of premises in and around the town, while Virgin Media and nexfibre have added many thousands more on their own gigabit network. Alt-nets crowd in around the edges too, with FullFibre and Netomnia building close to the town, so contractors here work several overlapping footprints. Engineers and civils crews run poles, ducts and cabinets through Alfreton, Somercotes, Riddings and Swanwick, and a steady layer of broadband, aerial and CCTV installers covers the homes spread across the Amber Valley.",
+      "The commercial side is busy thanks to the town's position on the A38 and near the M1. Cabling firms wire the units on Alfreton's trading and industrial estates, the warehousing and distribution sheds clustered around junction 28 and the offices and shops through the town centre. Engineers pull Cat5e, Cat6 and fibre into schools, care homes and multi-site businesses across the area, while CCTV and access-control work runs through the retail and industrial parks. National contractors handle the big network jobs while independent structured-cabling and security installers take on work for homes and businesses right across Alfreton and the surrounding Derbyshire towns."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Alfreton, a structured-cabling firm or a one-van broadband installer toward Ripley"
+  },
+  "arbroath": {
+    "region": "Arbroath and Angus",
+    "nearby": ["Dundee", "Perth", "Kirkcaldy"],
+    "snapshot": "Arbroath sits on the Angus coast north of Dundee, and its broadband and cabling trade runs two ways. Build contractors and structured-cabling firms working the town hold trade accounts and kit whole crews through procurement, while the ex-BT sole traders and one-van broadband and CCTV installers around Arbroath order direct online with no account. We run trade accounts for the fleets and direct online ordering for everyone else, side by side.",
+    "s1_head": "Kitting the field engineers of Angus",
+    "s1loc": [
+      "Arbroath is in the thick of its full-fibre build. Openreach has started work on a new ultrafast network for the town, with engineers building out to most local homes and businesses, part of a wider push across Dundee and Angus that has already passed tens of thousands of properties. The Scottish alt-net GoFibre is extending its footprint across Angus and the wider north east under Project Gigabit, reaching neighbouring towns and rural communities. Contractors and civils crews work the poles, ducts and cabinets through Arbroath, with broadband, aerial and CCTV installers covering the homes spread from the harbour out to the western edges of town.",
+      "The commercial side runs on the harbour economy and the town's industrial estates. Cabling firms wire the seafood and processing units around the Arbroath harbour and the fish trade, the workshops and offices on Elliot Industrial Estate and the shops and premises through the town centre. Engineers pull Cat5e, Cat6 and fibre into schools, care homes and multi-site businesses across Angus, while CCTV and access-control work runs through the retail core and the trading estates. National contractors handle the big network build while independent structured-cabling and security installers take on work for homes and businesses right across Arbroath and the Angus coast."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Arbroath, a structured-cabling firm or a one-van broadband installer toward Dundee"
+  },
+  "elgin": {
+    "region": "Elgin and Moray",
+    "nearby": ["Aberdeen", "Inverness", "Perth"],
+    "snapshot": "Elgin is the main town of Moray, set between Aberdeen and Inverness, and its telecoms trade runs on two tracks. The build contractors and cabling firms working the town hold trade accounts and buy centrally for whole crews, while the ex-BT sole traders and one-van broadband and CCTV installers around Elgin order direct online with no account. We run trade accounts for the fleets and direct online ordering for everyone else, side by side.",
+    "s1_head": "Kitting the field engineers of Moray",
+    "s1loc": [
+      "Elgin and the wider Moray region are working through a long full-fibre rollout across difficult, spread-out ground. Openreach has connected around half of all properties in the area to its full-fibre network through significant investment, upgrading Elgin and the surrounding towns. The Scottish alt-net GoFibre is building across Moray under a major Project Gigabit contract for north east Scotland, reaching Elgin, Forres, Buckie and the rural communities between. Engineers and civils crews run poles, ducts and cabinets through New Elgin, Bishopmill and the town's housing, while broadband, aerial and CCTV installers cover homes scattered across this remote part of the country.",
+      "The commercial scene centres on Elgin's role as Moray's main service and education town. Cabling firms wire the campus and digital-health facilities around UHI Moray and the Alexander Graham Bell Centre, the units on the town's business and industrial estates and the offices and shops through the High Street and retail core. Engineers pull Cat5e, Cat6 and fibre into schools, the local distilleries and food producers and multi-site businesses across the region, while CCTV and access-control work runs through the trading estates. National contractors handle the big network build while independent structured-cabling and security installers take on work for homes and businesses right across Elgin and Moray."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Elgin, a structured-cabling firm or a one-van broadband installer toward Aberdeen"
+  },
+  "rugeley": {
+    "region": "Rugeley and Staffordshire",
+    "nearby": ["Cannock", "Lichfield", "Stafford"],
+    "snapshot": "Rugeley sits on the edge of Cannock Chase in Staffordshire, and its broadband and cabling trade runs two ways. Build contractors and structured-cabling firms working the town hold trade accounts and kit whole crews through procurement, while the ex-BT sole traders and one-van broadband and CCTV installers around Rugeley order direct online with no account. We run trade accounts for the fleets and direct online ordering for everyone else, side by side.",
+    "s1_head": "Kitting the field engineers of Staffordshire",
+    "s1loc": [
+      "Rugeley is in the middle of an active full-fibre build. Openreach has pushed its network across Staffordshire, with work extending out from Rugeley toward Wolseley Bridge, Colton and the rural communities under the Project Gigabit programme, alongside the wider county rollout that has passed hundreds of thousands of premises. The Staffordshire-based alt-net YesFibre began its first FTTP build in Rugeley, and other operators build out across the area, so contractors here work more than one footprint. Engineers and civils crews run poles, ducts and cabinets through Rugeley, Brereton and Etchinghill, with broadband, aerial and CCTV installers covering the homes spread out toward Cannock Chase.",
+      "The commercial side is shaped by the regeneration of the former Rugeley power station site and the town's road links. Cabling firms wire the units on the Towers and Brereton industrial estates, the warehousing reaching toward the A51 and A460 and the offices and shops through the town centre. Engineers pull Cat5e, Cat6 and fibre into schools, care homes and multi-site businesses across the area, while CCTV and access-control work runs through the retail core and the trading estates. National contractors handle the big network build while independent structured-cabling and security installers take on work for homes and businesses right across Rugeley and the surrounding Staffordshire towns."
+    ],
+    "kit_loc": "across the town's streets, cabinets and customer premises",
+    "s2_intro": "Whether you are a build contractor with crews across Rugeley, a structured-cabling firm or a one-van broadband installer toward Cannock"
+  }
+}
