@@ -1,0 +1,86 @@
+NEW = {
+ "barrow-in-furness": {
+  "region": "Barrow-in-Furness and Cumbria",
+  "nearby": ["Ulverston", "Kendal", "Lancaster"],
+  "snapshot": "iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Barrow-in-Furness, from the Dalton Road and Cavendish Street salons to the Walney Island and Hawcoat parades, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head": "Kitting the salons, barbers and spas of the Furness coast",
+  "s1loc": [
+   "Out on the Furness peninsula, Barrow-in-Furness runs on independent salons rather than chains. The town-centre trade gathers along Dalton Road, the main shopping spine, which carries the heaviest run of hairdressers and barbers, while Cavendish Street alongside packs in more unisex salons and beauty rooms. Crellin Street and Allison Street add their own small clusters, and the Portland Walk centre off Forshaw Street holds the national retail rather than the salon work.",
+   "And the trade is overwhelmingly small and independent. The Dalton Road barbers, the Cavendish Street hairdressers, the neighbourhood salons and beauty rooms out at Hawcoat, Abbey Road and across Walney Island, and the mobile beauticians and nail technicians covering the peninsula are nearly all sole traders or small teams rather than chains. Almost every one of them puts staff in front of clients in something branded, and how they look is part of the service.",
+  ],
+  "kit_loc": "across the town's salons, barber chairs and treatment rooms",
+  "s2_intro": "Whether you are a Dalton Road salon, a Cavendish Street barber, a mobile beautician or a nail studio across Barrow-in-Furness",
+ },
+ "cheshunt": {
+  "region": "Cheshunt and the Lea Valley",
+  "nearby": ["Hoddesdon", "Enfield", "Hertford"],
+  "snapshot": "iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Cheshunt, from the Turners Hill and Crossbrook Street salons to the Goffs Oak and Flamstead End parades, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head": "Kitting the salons, barbers and spas of the Lea Valley",
+  "s1loc": [
+   "Set in the Lea Valley north of Enfield, Cheshunt runs a dense, mostly independent salon and barber trade. Turners Hill is the dominant strip, lined with hairdressers, barbers and nail bars, while Crossbrook Street alongside leans more to hair and beauty rooms. College Road and the Old Pond junction hold their own busy barber clusters, and the Brookfield Centre out by Turnford adds the retail-park salon and barber units to the mix.",
+   "And the trade is overwhelmingly small and independent. The Turners Hill barbers and salons, the Crossbrook Street hair and beauty rooms, the village parades through Goffs Oak and Flamstead End, and the mobile beauticians and nail technicians working across the Lea Valley are nearly all sole traders or small teams rather than chains. Almost every one of them puts staff in front of clients in something branded, and looking the part is part of the job.",
+  ],
+  "kit_loc": "across the town's salons, barber chairs and treatment rooms",
+  "s2_intro": "Whether you are a Turners Hill salon, a Crossbrook Street barber, a mobile beautician or a nail studio across Cheshunt",
+ },
+ "christchurch": {
+  "region": "Christchurch and Dorset",
+  "nearby": ["Bournemouth", "Poole", "New Milton"],
+  "snapshot": "iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Christchurch, from the High Street and Bargates salons to the Highcliffe and Mudeford parades, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head": "Kitting the salons, barbers and spas of the Dorset coast",
+  "s1loc": [
+   "A historic harbour town east of Bournemouth, Christchurch packs its salon trade into a handful of distinct streets. Christchurch High Street holds the densest run of hair salons, barbers and beauty rooms, with Saxon Square just off it, while Bargates down towards the station carries a real mix of nail bars and beauty clinics. Castle Street adds a smaller period cluster, and Purewell rounds it off with nail and aesthetics rooms.",
+   "And the trade is overwhelmingly small and independent. The High Street salons, the Bargates beauty and nail rooms, the long barber and hairdresser run along Lymington Road out in Highcliffe and Mudeford, and the mobile beauticians and nail technicians covering the harbour villages are nearly all sole traders or small teams rather than chains. Each one puts staff in front of clients in something branded, and how they look is part of the service.",
+  ],
+  "kit_loc": "across the town's salons, barber chairs and treatment rooms",
+  "s2_intro": "Whether you are a High Street salon, a Highcliffe barber, a mobile beautician or a nail studio across Christchurch",
+ },
+ "winchester": {
+  "region": "Winchester and Hampshire",
+  "nearby": ["Eastleigh", "Southampton", "Andover"],
+  "snapshot": "iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Winchester, from the Jewry Street and St George's Street salons to the Stockbridge Road and Stanmore parades, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head": "Kitting the salons, barbers and spas of Hampshire",
+  "s1loc": [
+   "A compact cathedral city, Winchester gathers its salon trade into the streets off the High Street. Jewry Street holds the standout central cluster of barbers and hair and beauty salons, while Parchment Street and St George's Street carry more independent hairdressers and studios, and St Peter Street brings the day-spa and skin-clinic tier. The Brooks Shopping Centre off St George's Street pulls in the rest of the independent-leaning beauty trade.",
+   "And the trade is overwhelmingly small and independent. The Jewry Street salons and barbers, the St George's Street and Parchment Street hairdressers, the St Peter Street day spas, the suburban barber and beauty parades out in Stockbridge Road, Stanmore and Weeke, and the mobile beauticians and nail technicians covering the city are nearly all sole traders or small teams rather than chains. Almost every one of them puts staff in front of clients in something branded, and how they look is part of the service.",
+  ],
+  "kit_loc": "across the city's salons, barber chairs and treatment rooms",
+  "s2_intro": "Whether you are a Jewry Street salon, a Stockbridge Road barber, a mobile beautician or a nail studio across Winchester",
+ },
+ "ashton-under-lyne": {
+  "region": "Ashton-under-Lyne and Greater Manchester",
+  "nearby": ["Stalybridge", "Denton", "Hyde"],
+  "snapshot": "iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Ashton-under-Lyne, from the Stamford Street and Old Street salons to the Mossley Road and Hurst parades, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head": "Kitting the salons, barbers and spas of Tameside",
+  "s1loc": [
+   "Beyond the chains in the centre, Ashton-under-Lyne runs a busy independent hair and beauty trade. Stamford Street is the dominant spine, lined with a long run of salons and barbers, while Old Street alongside carries more unisex hairdressers and the Ladysmith Centre frontage. Warrington Street holds the Arcades shopping centre beauty units, and the Ashton Market stalls along Market Avenue keep the cheap walk-in barber trade ticking over for the town.",
+   "And the trade is overwhelmingly small and independent. The Stamford Street salons and barbers, the Old Street hairdressers, the Warrington Street beauty rooms and the market-stall barbers, the neighbourhood parades out along Mossley Road towards Hurst and Waterloo, and the mobile beauticians and nail technicians working across Tameside are nearly all sole traders or small teams rather than chains. Each one puts staff in front of clients, and looking the part in something branded is simply part of the job.",
+  ],
+  "kit_loc": "across the town's salons, barber chairs and treatment rooms",
+  "s2_intro": "Whether you are a Stamford Street salon, a Market Avenue barber, a mobile beautician or a nail studio across Ashton-under-Lyne",
+ },
+ "bexhill-on-sea": {
+  "region": "Bexhill-on-Sea and East Sussex",
+  "nearby": ["Hastings", "Eastbourne", "Hailsham"],
+  "snapshot": "iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Bexhill-on-Sea, from the Devonshire Road and Western Road salons to the Little Common and Sidley parades, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head": "Kitting the salons, barbers and spas of the Sussex coast",
+  "s1loc": [
+   "A genteel seaside town between Hastings and Eastbourne, Bexhill-on-Sea runs its salon trade along a handful of linear high streets. Devonshire Road is the central salon street, thick with hairdressers and beauty rooms, while Western Road close by is the most barber-heavy run in town. St Leonards Road and Sackville Road carry their own mix of salons and barbers, and Sea Road and the Old Town High Street add a smaller boutique cluster.",
+   "And the trade is almost entirely independent. The Devonshire Road salons, the Western Road and Sackville Road barbers, the boutique hair and beauty rooms in the Old Town, the village parades out at Little Common, Sidley and Cooden, and the mobile beauticians and nail technicians covering the coast are nearly all sole traders or small teams rather than chains. Almost every one of them puts staff in front of clients in something branded, and how they look is part of the service.",
+  ],
+  "kit_loc": "across the town's salons, barber chairs and treatment rooms",
+  "s2_intro": "Whether you are a Devonshire Road salon, a Western Road barber, a mobile beautician or a nail studio across Bexhill-on-Sea",
+ },
+ "ramsgate": {
+  "region": "Ramsgate and Kent",
+  "nearby": ["Margate", "Broadstairs", "Herne Bay"],
+  "snapshot": "iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Ramsgate, from the Queen Street and King Street salons to the Harbour Street and Westcliff parades, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head": "Kitting the salons, barbers and spas of the Isle of Thanet",
+  "s1loc": [
+   "Set around its Royal Harbour on the Isle of Thanet, Ramsgate keeps its salon trade in the streets above the marina. Queen Street carries the busiest run, barber-heavy with salons mixed in, while King Street and the High Street lean more to hair and beauty. Harbour Street and Harbour Parade pick up the seaside footfall, Addington Street holds the indie and boutique salons, and the Westcliff Arcade adds a small clifftop cluster of beauty rooms.",
+   "And the trade is overwhelmingly small and independent. The Queen Street barbers, the King Street and Harbour Street salons and beauty rooms, the Addington Street boutiques, the Westcliff day-spa and aesthetics trade, and the mobile beauticians and nail technicians working across Thanet are nearly all sole traders or small teams rather than chains. Almost every one of them puts staff in front of clients in something branded, and how they look is part of the service.",
+  ],
+  "kit_loc": "across the town's salons, barber chairs and treatment rooms",
+  "s2_intro": "Whether you are a Queen Street salon, a Harbour Street barber, a mobile beautician or a nail studio across Ramsgate",
+ },
+}
