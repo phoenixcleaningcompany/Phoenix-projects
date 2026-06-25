@@ -1,0 +1,86 @@
+NEW = {
+    "ramsgate": {
+        "region": "Ramsgate and Kent",
+        "nearby": ["Margate", "Broadstairs", "Herne Bay"],
+        "snapshot": "iNeedWorkwear supplies embroidered polos, tabards, fleeces, safety shoes, hi-vis and stockroom trousers to independent retailers, convenience stores, garden centres and farm shops across Ramsgate, from the Royal Harbour and Harbour Street to the King Street and High Street independents, branded in-house with the shop name on a managed trade account, with artwork and sizes held on file so new starters and second stores are kitted in exactly the same uniform.",
+        "s1_head": "Outfitting the shops around Thanet's Royal Harbour",
+        "s1loc": [
+            "Set around the only Royal Harbour in the country, Ramsgate keeps its independent retail clustered along Harbour Street, King Street and the High Street, where second-hand bookshops, jewellers, fabric shops, art galleries and homeware stores trade alongside the cafes and bars of the waterfront. The Petticoat Lane Emporium, an indoor market of several hundred stalls set in an old warehouse, runs almost entirely on independent traders selling antiques, vintage and collectables, and the Westcliff Arcade adds a row of small specialist shops above the marina.",
+            "Away from the seafront the everyday trade sits in the neighbourhood parades and the streets running up from the harbour, where family-run convenience stores, hardware shops, grocers and gift shops serve Ramsgate and the wider Isle of Thanet out towards Broadstairs and the Westwood retail fringe. Garden centres and farm shops dot the lanes inland, and most of these businesses put a named member of staff on the shop floor in branded kit, the kind of small independent operations that never figure in a national chain tender.",
+        ],
+        "kit_loc": "across the town's harbourside, high streets, convenience stores and garden centres",
+        "s2_intro": "Whether you run a Harbour Street independent shop, a convenience store, a garden centre or a small group of sites across Ramsgate",
+    },
+    "fareham": {
+        "region": "Fareham and Hampshire",
+        "nearby": ["Gosport", "Portsmouth", "Havant"],
+        "snapshot": "iNeedWorkwear supplies embroidered polos, tabards, fleeces, safety shoes, hi-vis and stockroom trousers to independent retailers, convenience stores, garden centres and farm shops across Fareham, from the West Street speciality shops to the Monday street market, branded in-house with the shop name on a managed trade account, with artwork and sizes held on file so new starters and second stores are kitted in exactly the same uniform.",
+        "s1_head": "Kitting the speciality shops of West Street",
+        "s1loc": [
+            "A market town between Portsmouth and Southampton harbours, Fareham splits its retail between the covered Fareham Shopping Centre and the long pedestrianised run of West Street, where around seventy businesses from Westbury Manor Museum westwards are independently owned. The speciality offer there spans everything from cake decorating and carpets to fresh fish, fireplaces and bridalwear, and a street market of up to fifty stalls fills the precinct every Monday, with seasonal Gardeners' Markets bringing local growers into West Street in late spring.",
+            "Out from the centre the trade spreads to the older village high streets and parades at Portchester, Wallington and Titchfield, full of convenience stores, butchers, bakers and gift shops, while garden centres and nurseries such as Mud Island sit on the lanes towards Boarhunt and Wickham. Almost all of these are run by their owners and put staff straight in front of customers in something branded, independents and small local groups rather than the supermarket names that buy their uniforms centrally.",
+        ],
+        "kit_loc": "across the town's high streets, convenience stores and garden centres",
+        "s2_intro": "Whether you run a West Street speciality shop, a convenience store, a garden centre or a small group of sites across Fareham",
+    },
+    "blyth": {
+        "region": "Blyth and Northumberland",
+        "nearby": ["Cramlington", "Ashington", "Bedlington"],
+        "snapshot": "iNeedWorkwear supplies embroidered polos, tabards, fleeces, safety shoes, hi-vis and stockroom trousers to independent retailers, convenience stores, garden centres and farm shops across Blyth, from the Market Place to the Regent Street and Waterloo Road shops, branded in-house with the shop name on a managed trade account, with artwork and sizes held on file so new starters and second stores are kitted in exactly the same uniform.",
+        "s1_head": "Dressing the shops along the south-east Northumberland coast",
+        "s1loc": [
+            "A working port on the south-east Northumberland coast, Blyth runs its town-centre trade through the revamped Market Place and the shops along Regent Street and Waterloo Road, a mix of independent traders and small businesses that has held on as the old Keel Row Shopping Centre was cleared for the Energising Blyth regeneration. The market place itself, reopened after a multi-million pound refit, anchors the independent grocers, gift shops, bakers and hardware stores that give the centre its everyday character.",
+            "Beyond the centre the retail sits in the suburban parades of Newsham, Cowpen, Bebside and New Delaval, where convenience stores such as Newsham Farm Stores, butchers, off-licences and takeaways serve the surrounding estates, with a Range garden centre on Cowpen and nurseries and farm shops dotting the lanes towards Bedlington and Cramlington. These are the family-run shops and small local chains where staff work the floor in branded polos and fleeces, never the national supermarket names that procure through central tenders.",
+        ],
+        "kit_loc": "across the town's high streets, convenience stores and garden centres",
+        "s2_intro": "Whether you run a Regent Street high-street shop, a convenience store, a garden centre or a small group of sites across Blyth",
+    },
+    "chester-le-street": {
+        "region": "Chester-le-Street and County Durham",
+        "nearby": ["Houghton le Spring", "Washington", "Stanley"],
+        "snapshot": "iNeedWorkwear supplies embroidered polos, tabards, fleeces, safety shoes, hi-vis and stockroom trousers to independent retailers, convenience stores, garden centres and farm shops across Chester-le-Street, from the Front Street shops to the long-running street market, branded in-house with the shop name on a managed trade account, with artwork and sizes held on file so new starters and second stores are kitted in exactly the same uniform.",
+        "s1_head": "Outfitting the traders along Front Street",
+        "s1loc": [
+            "Beyond the chains in Chester-le-Street, this Vale of Durham market town centres almost all of its retail on Front Street, a long straight high street that carries independent gift shops, boutiques, jewellers and family businesses alongside the everyday names. One of the oldest markets in the North East runs along the street every Tuesday, Friday and Saturday, bringing fresh produce, local crafts and vintage stalls, and the Shop Chester-le-Street campaign keeps a spotlight on the independent traders that line the centre.",
+            "Off Front Street the trade thins into the surrounding pit villages and estates, with convenience stores, butchers and parade shops serving Pelton, Sacriston, Grange Villa and Bournmoor, and garden centres, nurseries and farm outlets working the lanes around the Wear towards Washington and Houghton le Spring. Run by the people who own them, these are the shops that put a named face on the floor in branded kit, the independents and small groups a national supermarket buying team never reaches.",
+        ],
+        "kit_loc": "across the town's high street, convenience stores and garden centres",
+        "s2_intro": "Whether you run a Front Street high-street shop, a convenience store, a garden centre or a small group of sites across Chester-le-Street",
+    },
+    "redcar": {
+        "region": "Redcar and the Tees Valley",
+        "nearby": ["Guisborough", "Middlesbrough", "Billingham"],
+        "snapshot": "iNeedWorkwear supplies embroidered polos, tabards, fleeces, safety shoes, hi-vis and stockroom trousers to independent retailers, convenience stores, garden centres and farm shops across Redcar, from the High Street shops to the seafront and open-air market, branded in-house with the shop name on a managed trade account, with artwork and sizes held on file so new starters and second stores are kitted in exactly the same uniform.",
+        "s1_head": "Kitting the shops along the Redcar seafront",
+        "s1loc": [
+            "A seaside and former steel town on the Tees Valley coast, Redcar runs its retail along the High Street and the streets behind the esplanade, where independents such as Bonds jewellers, Miss Lilys and The Clock Gallery trade beside the everyday names, and the Art Deco Regent cinema marks the seafront end. An open-air market sets up on the High Street every Wednesday and Friday, and the regenerated centre keeps a steady run of family-run shops, cafes and gift stores facing the sea.",
+            "Out from the centre the trade follows the coast and the suburbs into Coatham, Dormanstown and on to Marske, New Marske and Saltburn, where convenience stores on Coatham Road and Gurney Street, butchers, bakers and parade shops serve the estates, and garden centres and home-and-garden stores sit out towards Skelton and Upleatham. These are the owner-run shops and small local groups that put staff in front of customers in branded tabards and fleeces, not the supermarket chains that tender their uniforms nationally.",
+        ],
+        "kit_loc": "across the town's high streets, convenience stores and garden centres",
+        "s2_intro": "Whether you run a Coatham high-street shop, a convenience store, a garden centre or a small group of sites across Redcar",
+    },
+    "hitchin": {
+        "region": "Hitchin and Hertfordshire",
+        "nearby": ["Letchworth", "Stevenage", "Hatfield"],
+        "snapshot": "iNeedWorkwear supplies embroidered polos, tabards, fleeces, safety shoes, hi-vis and stockroom trousers to independent retailers, convenience stores, garden centres and farm shops across Hitchin, from the Market Place and Sun Street to the Bancroft independents, branded in-house with the shop name on a managed trade account, with artwork and sizes held on file so new starters and second stores are kitted in exactly the same uniform.",
+        "s1_head": "Dressing the independents of a Hertfordshire market town",
+        "s1loc": [
+            "Hitchin is a historic Hertfordshire market town with one of the deepest independent scenes in the county, its shops threaded through the Market Place, Sun Street, Bucklersbury and Bancroft and along the High Street, Brand Street and Hermitage Road. Quirky boutiques, artisan bakeries, an old-fashioned hardware shop in Brookers, jewellers, vintage clothing and a long-standing independent toy shop fill the centre, while Hitchin Market, dating back over nine hundred years, trades several days a week with produce, handmade goods and antiques and a regular craft and farmers' market.",
+            "Spreading out from the centre, the everyday trade sits in the parades of Walsworth and the surrounding villages, full of convenience stores, grocers, gift shops and refill stores, with garden centres, nurseries and farm shops scattered across the lanes towards Letchworth, Stevenage and the North Hertfordshire countryside. Nearly all of them put staff in front of customers in something branded, and nearly all are independents and small local groups rather than the national chains that handle uniforms through head office.",
+        ],
+        "kit_loc": "across the town's high streets, convenience stores and garden centres",
+        "s2_intro": "Whether you run a Sun Street boutique, a convenience store, a garden centre or a small group of sites across Hitchin",
+    },
+    "barnstaple": {
+        "region": "Barnstaple and North Devon",
+        "nearby": ["Bideford", "Tiverton", "Exmouth"],
+        "snapshot": "iNeedWorkwear supplies embroidered polos, tabards, fleeces, safety shoes, hi-vis and stockroom trousers to independent retailers, convenience stores, garden centres and farm shops across Barnstaple, from the Pannier Market and Butchers Row to the High Street, branded in-house with the shop name on a managed trade account, with artwork and sizes held on file so new starters and second stores are kitted in exactly the same uniform.",
+        "s1_head": "Outfitting North Devon's ancient market town",
+        "s1loc": [
+            "A major market centre for North Devon, Barnstaple keeps its independent retail around the historic Pannier Market and Butchers Row, where a long indoor market that has traded for over a thousand years sits beside a terrace of ten little shops under an iron roof selling bread, cakes, ales, meat and homeware. The High Street and the streets around it carry a mix of big-brand stores and traditional family businesses, giving the town a busy independent core that pulls shoppers in from across the surrounding countryside.",
+            "Beyond the centre the trade reaches the suburbs and the villages of the Taw estuary, with convenience stores, butchers, bakers and gift shops serving the estates and the lanes out towards Bideford and Braunton, and garden centres, nurseries and farm shops working the rural fringe. These are the owner-run shops and small local groups where staff meet customers face to face in branded polos and tabards, the independents that fall well outside the central uniform tenders of the supermarket chains.",
+        ],
+        "kit_loc": "across the town's high streets, convenience stores and garden centres",
+        "s2_intro": "Whether you run a Butchers Row independent shop, a convenience store, a garden centre or a small group of sites across Barnstaple",
+    },
+}
