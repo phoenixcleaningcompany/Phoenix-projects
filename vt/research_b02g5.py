@@ -18,7 +18,7 @@ NEW = {
     "s1_head": "Kitting the practices, kennels and yards of the city",
     "s1loc": [
       "Set across the city and its edges, Wolverhampton holds a steady run of veterinary practices, from the Connaught House hospital on Tettenhall Road to Carmel at Fallings Park and Penn Fields, White Cross in Compton and St Georges in the centre. Around them sit boarding kennels and catteries toward Codsall and Coven, salon and mobile groomers in Wednesfield and Bilston, cat rescues like the Ashmore, and riding yards out toward Pattingham and Seisdon.",
-      "Look at who runs it and the picture is small and independent. The neighbourhood surgeries, the mobile dog washes, the family kennels around Albrighton and the South Staffordshire livery yards at Trysull and Perton are mostly small teams and sole traders rather than chains. Every one of them reassures an owner in a clean consulting room and then graft outdoors in the kennels and stables, so the kit has to cover both jobs at once."
+      "Look at who runs it and the picture is small and independent. The neighbourhood surgeries, the mobile dog washes, the family kennels around Albrighton and the South Staffordshire livery yards at Trysull and Perton are mostly small teams and sole traders rather than chains. Every one of them reassures an owner in a clean consulting room and then grafts outdoors in the kennels and stables, so the kit has to cover both jobs at once."
     ],
     "kit_loc": "across the city's consulting rooms, kennels and yards",
     "s2_intro": "Whether you are an independent practice in Tettenhall, a boarding kennels toward Codsall, a mobile groomer or an equine yard across Wolverhampton"
