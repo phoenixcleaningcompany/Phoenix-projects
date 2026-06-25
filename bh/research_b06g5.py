@@ -1,0 +1,86 @@
+NEW = {
+ "fareham": {
+  "region": "Fareham and Hampshire",
+  "nearby": ["Gosport", "Havant", "Portsmouth"],
+  "snapshot": "iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Fareham, from the West Street and High Street salons to the Portchester and Stubbington parades, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head": "Kitting the salons, barbers and spas of south Hampshire",
+  "s1loc": [
+   "Set between Portsmouth and Southampton at the head of the harbour, Fareham runs its salon trade along a pair of central streets. The pedestrianised West Street is the dominant spine, carrying the heaviest run of hairdressers and beauty rooms with barbers mixed in, while the old Georgian High Street alongside leans more to traditional gents barbering and boutique salons. The Fareham Shopping Centre around Thackeray Square adds the threading, brow and nail units that round out the town-centre beauty trade.",
+   "And the trade is overwhelmingly small and independent. The West Street salons, the High Street barbers, the village parades out along West Street in Portchester and around Stubbington Green, the salon and barber units at Locks Heath and Park Gate, and the mobile beauticians and nail technicians covering the borough are nearly all sole traders or small teams rather than chains. Almost every one of them puts staff in front of clients in something branded, and how they look is part of the service.",
+  ],
+  "kit_loc": "across the town's salons, barber chairs and treatment rooms",
+  "s2_intro": "Whether you are a West Street salon, a High Street barber, a mobile beautician or a nail studio across Fareham",
+ },
+ "blyth": {
+  "region": "Blyth and Northumberland",
+  "nearby": ["Cramlington", "Bedlington", "Ashington"],
+  "snapshot": "iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Blyth, from the Waterloo Road and Bridge Street salons to the Cowpen and Newsham parades, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head": "Kitting the salons, barbers and spas of south-east Northumberland",
+  "s1loc": [
+   "A Northumberland port town on the coast north of the Tyne, Blyth keeps its salon trade in the streets around the centre. Waterloo Road carries a solid run of hair and beauty salons, while Bridge Street and Commercial Road are the barber-heavy strips, lined with traditional and Turkish barbershops. Havelock Street and Parsons Street add more hairdressers and beauty rooms, and the covered Keel Row Shopping Centre holds the rest of the town-centre nail and beauty units.",
+   "And the trade is overwhelmingly small and independent. The Waterloo Road salons, the Bridge Street and Commercial Road barbers, the neighbourhood parades out at Cowpen and along Plessey Avenue in Newsham, and the mobile beauticians and nail technicians working across the coast are nearly all sole traders or small teams rather than chains. Each one puts staff in front of clients, and looking the part in something branded is simply part of the job.",
+  ],
+  "kit_loc": "across the town's salons, barber chairs and treatment rooms",
+  "s2_intro": "Whether you are a Waterloo Road salon, a Bridge Street barber, a mobile beautician or a nail studio across Blyth",
+ },
+ "chester-le-street": {
+  "region": "Chester-le-Street and County Durham",
+  "nearby": ["Washington", "Houghton le Spring", "Stanley"],
+  "snapshot": "iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Chester-le-Street, from the Front Street salons and Market Hall units to the Birtley and Sacriston parades, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head": "Kitting the salons, barbers and spas of County Durham",
+  "s1loc": [
+   "Beyond the chains in the centre, Chester-le-Street runs its hair and beauty trade almost entirely along one street. The long, part-pedestrianised Front Street is the heart of it, carrying the full mix of established hair and beauty salons alongside a heavy run of traditional and Turkish barbers from end to end. The covered Market Hall off Front Street holds more of the town-centre beauty and nail trade, with the surrounding villages picking up the rest.",
+   "And the trade is overwhelmingly small and independent. The Front Street salons and barbers, the Market Hall beauty rooms, the barber-led cluster along Durham Road in Birtley, the village salons through Sacriston and Great Lumley, and the mobile beauticians and nail technicians covering the area are nearly all sole traders or small teams rather than chains. Almost every one of them puts staff in front of clients in something branded, and how they look is part of the service.",
+  ],
+  "kit_loc": "across the town's salons, barber chairs and treatment rooms",
+  "s2_intro": "Whether you are a Front Street salon, a Birtley barber, a mobile beautician or a nail studio across Chester-le-Street",
+ },
+ "redcar": {
+  "region": "Redcar and the Teesside coast",
+  "nearby": ["Middlesbrough", "Guisborough", "Billingham"],
+  "snapshot": "iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Redcar, from the High Street and Esplanade salons to the Marske and Coatham parades, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head": "Kitting the salons, barbers and spas of the Teesside coast",
+  "s1loc": [
+   "On the Teesside coast east of Middlesbrough, Redcar gathers its salon trade behind the seafront. The pedestrianised High Street is the main spine, carrying the heaviest run of barbers and hairdressers, while the Esplanade along the front adds more hair and beauty rooms and Lord Street holds its own barber cluster. The Regent Walk Shopping Centre anchors the central retail off the High Street, and West Dyke Road picks up the neighbourhood hair and beauty trade.",
+   "And the trade is overwhelmingly small and independent. The High Street barbers and salons, the Esplanade and Lord Street hairdressers, the strong village run along High Street in Marske-by-the-Sea, the beauty-led cluster out at Coatham, and the mobile beauticians and nail technicians covering the coast are nearly all sole traders or small teams rather than chains. Almost every one of them puts staff in front of clients in something branded, and how they look is part of the service.",
+  ],
+  "kit_loc": "across the town's salons, barber chairs and treatment rooms",
+  "s2_intro": "Whether you are a High Street salon, a Marske barber, a mobile beautician or a nail studio across Redcar",
+ },
+ "hitchin": {
+  "region": "Hitchin and north Hertfordshire",
+  "nearby": ["Letchworth", "Stevenage", "Dunstable"],
+  "snapshot": "iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Hitchin, from the Bancroft and Sun Street salons to the Hermitage Road and Walsworth parades, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head": "Kitting the salons, barbers and spas of north Hertfordshire",
+  "s1loc": [
+   "A historic market town with a busy independent centre, Hitchin spreads its salon trade across several distinct streets. Bancroft is the main upmarket hair and beauty run, while Sun Street and the Churchgate and Brand Street corner are the barber-heavy lanes, thick with traditional and gents barbering. Hermitage Road is the all-rounder strip, mixing barbers, nail bars and hairdressers, and the Churchgate Shopping Centre and the covered Arcade hold the day-spa and boutique beauty units.",
+   "And the trade is overwhelmingly small and independent. The Bancroft salons, the Sun Street and Churchgate barbers, the Hermitage Road nail and beauty rooms, the parades out along Walsworth Road and around Bearton Green, and the mobile beauticians and nail technicians working across the town are nearly all sole traders or small teams rather than chains. Almost every one of them puts staff in front of clients in something branded, and looking the part is part of the job.",
+  ],
+  "kit_loc": "across the town's salons, barber chairs and treatment rooms",
+  "s2_intro": "Whether you are a Bancroft salon, a Sun Street barber, a mobile beautician or a nail studio across Hitchin",
+ },
+ "barnstaple": {
+  "region": "Barnstaple and north Devon",
+  "nearby": ["Bideford", "Exmouth", "Tiverton"],
+  "snapshot": "iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Barnstaple, from the Joy Street and Boutport Street salons to the Pilton and Braunton parades, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head": "Kitting the salons, barbers and spas of north Devon",
+  "s1loc": [
+   "The main town of north Devon, Barnstaple keeps its salon trade in the side streets off the High Street. Joy Street is the ladies and unisex hairdressing cluster, while Bear Street and Boutport Street are the barber-heavy runs, with nail bars and beauty rooms mixed in along both. Butchers Row by the Pannier Market adds a traditional barber, and the Green Lanes Shopping Centre holds the covered health-and-beauty units in the heart of town.",
+   "And the trade is overwhelmingly small and independent. The Joy Street hairdressers, the Bear Street and Boutport Street barbers, the salons and beauty rooms out at Newport and Sticklepath, the village parade around Caen Street in Braunton, and the mobile beauticians and nail technicians covering the area are nearly all sole traders or small teams rather than chains. Each one puts staff in front of clients, and looking the part in something branded is simply part of the job.",
+  ],
+  "kit_loc": "across the town's salons, barber chairs and treatment rooms",
+  "s2_intro": "Whether you are a Joy Street salon, a Bear Street barber, a mobile beautician or a nail studio across Barnstaple",
+ },
+ "letchworth": {
+  "region": "Letchworth and north Hertfordshire",
+  "nearby": ["Hitchin", "Stevenage", "Dunstable"],
+  "snapshot": "iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Letchworth, from the Leys Avenue and Eastcheap salons to the Station Road and Norton parades, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head": "Kitting the salons, barbers and spas of the Garden City",
+  "s1loc": [
+   "The world's first garden city, Letchworth lays its salon trade out along three tree-lined shopping streets. Leys Avenue is the main men's grooming run, lined with barbers, while Eastcheap alongside carries more barbering and male grooming. Station Road and Station Parade lean to ladies and unisex hair salons, and The Wynd adds an independent, boutique mix of hair and beauty. The Garden Square Shopping Centre off the main run holds the multiples and the rest of the beauty trade.",
+   "And the trade is overwhelmingly small and independent. The Leys Avenue and Eastcheap barbers, the Station Road hair salons, the boutique hair and beauty rooms along The Wynd, the parades out towards Norton, and the mobile beauticians and nail technicians working across the Garden City are nearly all sole traders or small teams rather than chains. Almost every one of them puts staff in front of clients in something branded, and how they look is part of the service.",
+  ],
+  "kit_loc": "across the town's salons, barber chairs and treatment rooms",
+  "s2_intro": "Whether you are a Leys Avenue salon, an Eastcheap barber, a mobile beautician or a nail studio across Letchworth",
+ },
+}
