@@ -1,0 +1,554 @@
+#!/usr/bin/env python3
+# BH (Beauty, Hair & Spa) series builder v1.0
+# Read SPEC.md / CLAUDE.md first. SELF-CHECKOUT / Template B (small-biz buyer):
+# the trade is dominated by SOLE TRADERS and SMALL SALONS, so the page leads with
+# ORDER DIRECT ONLINE, NO ACCOUNT; a trade account is the secondary route for a
+# larger salon or group. Salon-uniform led (presentation + practical). Narrow
+# range. Lead = TUNIC + POLO + APRON. LOW workwear depth, LOW local variation
+# (the two generic shared paras live in PRESENT_POOL / NARROW_POOL, not in the
+# per-town s1loc - see s1_paras). Exactly 14 .com + 1 community link per page.
+# No JS, no HTML entities, no delivery-timescale claims. Nearby MUST be
+# geographically close, hand-authored, on BH_towns.csv (no rank fallback).
+import re, os, json, sys, csv
+
+import hashlib
+def pick(key, salt, n):
+    # md5 gives well-distributed bits; crc32 % n leaks correlated low bits,
+    # so all same-length town names collided on the same pool variant at once.
+    h = hashlib.md5((salt + '|' + str(key).lower()).encode()).digest()
+    return int.from_bytes(h[:4], 'big') % n
+
+def _find_base():
+    here = os.path.dirname(os.path.abspath(__file__))
+    for p in (os.path.join(here,'bh-london.html'),'bh-london.html',
+              '/mnt/user-data/outputs/bh-london.html','/home/claude/bhkit/bh-london.html'):
+        if os.path.exists(p): return p
+    sys.exit("ERROR: bh-london.html (base template) not found beside bh_build.py")
+
+BASE = open(_find_base(), encoding='utf-8').read()
+DOMAIN = 'https://www.ineedworkwear.uk'
+
+def between(start, end, src=BASE):
+    i = src.index(start); j = src.index(end, i+len(start)); return src[i:j]
+def aria_block(aria):
+    k = BASE.index(aria)
+    i = BASE.rfind('<div class="bh-wrap"><div class="bh-illust">', 0, k)
+    j = BASE.index('</div></div></div>', k) + len('</div></div></div>')
+    return BASE[i:j]
+
+CSS      = between('<style>', '</style>') + '</style>'
+HEADER   = between('<div class="bh-header">', '\n<div class="bh-hero">')
+STATS    = between('<div class="bh-stats">', '\n<div class="bh-cta-bar">')
+GARMENT  = between('<div class="bh-wrap"><div class="bh-illust"><div class="bh-garment-row">', '\n<div class="bh-section">')
+EMB      = aria_block('Embroidery machine stitching')
+SIGNPOST = aria_block('spa signpost')
+PREMISES = aria_block('serving salons and spas across')
+ORDER    = aria_block('Order hair, beauty and spa workwear online')
+CONTACT  = BASE[BASE.index('<div class="bh-contact-block">'):
+                BASE.index('</div></div></div>', BASE.index('<div class="bh-contact-block">'))+len('</div></div></div>')]
+FOOTER   = BASE[BASE.index('<footer class="bh-footer">'):BASE.index('</footer>')+len('</footer>')]
+
+def signpost_town(town):
+    n = len(town)
+    size = 22 if n <= 8 else 19 if n <= 11 else 16 if n <= 15 else 13 if n <= 20 else 11
+    tl = ' textLength="200" lengthAdjust="spacingAndGlyphs"' if n > 11 else ''
+    return (f'<text x="230" y="62" text-anchor="middle" font-family="Arial,sans-serif" '
+            f'font-weight="800" font-size="{size}" fill="#fff"{tl}>{town.upper()}</text>')
+
+# === PRODUCTS ==============================================================
+BH_PRODUCTS = ["Beauty and Spa Tunics","Salon and Barber Polo Shirts","Hairdressing and Barber Aprons",
+ "Clogs and Salon Footwear","Salon Trousers and Leggings","Sweatshirts and Hoodies",
+ "Headbands, Caps and Accessories","Embroidery, Names and ID Branding"]
+
+def _card(n,d): return f'<div class="bh-product-card"><div class="bh-product-name">{n}</div><div class="bh-product-detail">{d}</div></div>'
+# Each card detail is pooled (2 variants) and picked per-town, so the product
+# grid - the single biggest shared block on a narrow-range series - diverges
+# town-to-town instead of repeating verbatim. Keeps the worst-pair score down.
+CARD_DETAILS=[
+ ("Beauty and Spa Tunics",[
+   "Comfortable, washable tunics for beauty therapists, nail technicians and spa staff, smart on the salon floor and in the treatment room, branded with the salon name.",
+   "Smart, comfortable tunics for beauty therapists, nail technicians and spa staff, easy to wash and wear, the classic branded layer for treatment-room and salon work.",
+   "Easy-care tunics for therapists, nail techs and spa staff, comfortable for a full day and quick to wash, the everyday branded layer for the treatment room and salon floor."]),
+ ("Salon and Barber Polo Shirts",[
+   "Breathable, durable branded polos for barbers, stylists and salon staff, the dependable everyday layer that keeps a team looking sharp from open to close.",
+   "Branded polos for barbers, stylists and salon staff, breathable and hard-wearing, the everyday uniform that keeps a team looking tidy and professional through a full day of clients.",
+   "Hard-wearing, breathable polos for barbers, stylists and salon staff, the go-to branded layer that keeps a team neat and professional from the first client to the last."]),
+ ("Hairdressing and Barber Aprons",[
+   "Tough, wipe-clean aprons for hairdressing, colour and barber work, shrugging off product and water while keeping stylists and barbers smart at the chair.",
+   "Aprons built to take colour, water and product, wipe-clean and durable, protecting stylists and barbers while keeping them presentable at the chair.",
+   "Durable, wipe-clean aprons made for colour, water and product, keeping stylists and barbers protected and presentable through a full day at the chair."]),
+ ("Clogs and Salon Footwear",[
+   "Cushioned, washable clogs and salon footwear made for long days at the chair and treatment couch, supportive underfoot and easy to keep clean on the salon floor.",
+   "Comfortable, supportive clogs and salon footwear for long days on your feet at the chair or in the treatment room, easy to clean and practical on salon floors.",
+   "Supportive, easy-clean clogs and salon footwear for long days standing at the chair or treatment couch, comfortable and practical underfoot on a busy salon floor."]),
+ ("Salon Trousers and Leggings",[
+   "Flexible, smart trousers and leggings for stylists and therapists, easy to move in across a long shift and a natural match for a branded tunic or polo.",
+   "Smart, stretchy trousers and leggings for stylists and therapists, comfortable for a full shift and easy to pair with a branded tunic or polo.",
+   "Comfortable, stretchy trousers and leggings for stylists and therapists, smart enough for the floor and easy to pair with a branded tunic or polo through a full shift."]),
+ ("Sweatshirts and Hoodies",[
+   "Cosy branded sweatshirts and hoodies for cold mornings, juniors and the front desk, an informal layer embroidered to match the salon uniform.",
+   "Branded sweatshirts and hoodies for cooler salons, juniors and front-of-house, an easy casual layer embroidered to match the rest of the uniform.",
+   "Branded sweatshirts and hoodies for chillier salons, juniors and reception, a relaxed extra layer embroidered to sit alongside the tunics and polos."]),
+ ("Headbands, Caps and Accessories",[
+   "Branded headbands, caps and the small finishing touches, embroidered to match the tunics and polos and pull the whole salon look together.",
+   "Branded headbands, caps and accessories to finish the look, embroidered to match the tunics and polos across the salon team.",
+   "Branded headbands, caps and finishing accessories, embroidered to tie in with the tunics and polos and keep the whole salon team on-brand."]),
+ ("Embroidery, Names and ID Branding",[
+   "Logo, salon name and staff names embroidered in-house across tunics, polos and aprons, so a single chair or a small team always looks coordinated and professional.",
+   "In-house embroidery of your salon name, logo and staff names onto tunics, polos and aprons, so a sole trader or a small team looks consistent and professional.",
+   "In-house embroidery of your salon name, logo and staff names across tunics, polos and aprons, so a sole trader or a small team always looks consistent and put-together."]),
+]
+GRID_ORDER=[(0,1,2,3,4,5,6,7),(1,0,2,3,4,5,6,7),(0,1,2,4,3,5,6,7),(0,2,1,3,4,5,6,7)]
+def build_grid(town):
+    order = GRID_ORDER[pick(town,'gord',len(GRID_ORDER))]
+    cards=[]
+    for i in order:
+        name,variants = CARD_DETAILS[i]
+        cards.append(_card(name, variants[pick(town,f'g{i}',len(variants))]))
+    return '<div class="bh-product-grid">'+''.join(cards)+'</div>'
+
+# === PROSE POOLS ===========================================================
+TRUST_POOL=[
+ "Branded tunics, polos, aprons and clogs for salons, barbers and spas - order direct online across the UK",
+ "Branded tunics, polos, aprons and clogs for salons, barbers and spas - order direct online, no account needed, UK-wide",
+ "Trusted by salons, barbers and spas across the UK for branded tunics, polos and aprons, ordered direct online",
+ "Branded salon uniforms - tunics, polos, aprons and clogs - for salons, barbers and spas across the UK, ordered direct online",
+]
+S2INTRO_POOL=[
+ "Whether you are a one-chair barber, a mobile beautician, a nail studio or a small salon team in {t}, the range is built to kit you simply from one place: tunics, polos and aprons branded with the salon name, plus comfortable clogs and footwear.",
+ "One-chair barber, mobile beautician, nail studio or a small {t} salon team, the range kits you simply from one place: tunics, polos and aprons branded with the salon name, plus comfortable clogs and footwear.",
+ "For a {t} barber, beautician, nail studio or small salon, the range covers you from one place: tunics, polos and aprons branded with the salon name, plus comfortable clogs and footwear, in the sizes you need.",
+ "A {t} one-chair barber, mobile beautician, nail studio or small salon team is kitted simply from one place: tunics, polos and aprons branded with the salon name, with comfortable clogs and footwear alongside.",
+]
+EMB_P1_POOL=[
+ "In the beauty and hair trade, the way you look is part of the service. A client decides whether they trust a {t} salon, a barber or a therapist in the first few seconds, and a clean, branded uniform is a big part of that judgement. A branded tunic or polo turns a sole trader into a recognisable business and makes a small independent salon look as polished and professional as any big-name chain.",
+ "In the hair and beauty trade, how you look is part of the service. A client decides whether to trust a {t} salon, barber or therapist in the first few seconds, and a clean, branded uniform shapes that judgement. A branded tunic or polo turns a sole trader into a recognisable business and makes a small independent look as polished as any big-name chain.",
+ "How you look is part of the service in the beauty and hair trade. A {t} client forms a view of a salon, barber or therapist in seconds, and a clean, branded uniform is central to it. A branded tunic or polo makes a sole trader a recognisable business and a small independent salon look as professional as any chain.",
+ "In hair and beauty, the way you present is part of the service. A {t} client decides whether they trust a salon, barber or therapist in the first few seconds, so a clean, branded uniform matters. A branded tunic or polo turns a sole trader into a recognisable business and makes a small salon look as polished as any chain.",
+]
+EMB_P2_POOL=[
+ "We brand in-house, which means your salon name and logo are embroidered onto tunics, polos and aprons, finished to survive frequent washing and a hard salon day. Send your artwork once, we hold it on file, and every reorder, new junior and new chair matches the last, so whether it is one person or a small team, the {t} salon looks consistent and put-together.",
+ "Branding is done in-house onto tunics, polos and aprons - your salon name and logo embroidered and finished to survive frequent washing and a hard salon day. We hold your artwork on file, so every reorder, new junior and new chair matches, and whether it is one person or a small team, the {t} salon looks consistent.",
+ "Your salon name and logo are embroidered in-house onto tunics, polos and aprons, finished to take frequent washing and a hard salon day. Held on file, your artwork reproduces on every reorder, new junior and new chair, so a {t} salon looks consistent whether it is one person or a small team.",
+ "We badge in-house, embroidering your salon name and logo onto tunics, polos and aprons and finishing them to survive frequent washing and a hard salon day. Held on file, your branding matches on every reorder and new junior, so a {t} salon looks consistent whether it is one chair or a small team.",
+]
+EMB_P3_POOL=[
+ "For a growing salon, that consistency matters as the team changes. We hold your branding and sizes on file, so kitting a new stylist, taking on a junior or opening a second location reproduces the same branded uniform every time, without anyone having to re-supply artwork or guess at a match.",
+ "For a salon that is growing, consistency matters as the team changes. We hold your branding and sizes on file, so a new stylist, a junior or a second location comes back the same branded uniform every time, with no artwork to re-supply.",
+ "As a salon grows and the team changes, consistency matters. We keep your branding and sizes on file, so kitting a new stylist, taking on a junior or opening a second location reproduces the same branded uniform each time.",
+ "For a growing salon, that consistency is the value as the team changes. We hold branding and sizes on file, so a new stylist, a junior or a second location reproduces exactly the same branded uniform every time, with nothing to re-supply.",
+]
+# === IDENTITY / LOOK-THE-PART BLOCK ========================================
+CON_HEAD="Look the Part: A Branded Uniform for Salons, Barbers and Spas"
+CON_P1_POOL=[
+ "A salon uniform earns its place in two ways, and the right kit does both at once. The first is presentation. Beauty, hair and spa work is personal and close-up, and {t} clients read professionalism into every detail, so a clean, branded tunic or polo is reassurance made visible. It tells a client the salon is organised, hygienic and serious about its craft, and it turns a sole trader or a small team into a business with a recognisable identity.",
+ "A salon uniform earns its place two ways, and the right kit does both. First, presentation: beauty, hair and spa work is personal and close-up, and {t} clients read professionalism into every detail, so a clean, branded tunic or polo is reassurance made visible, telling a client the salon is organised, hygienic and serious, and turning a sole trader or small team into a recognisable business.",
+ "A salon uniform does two jobs, and good kit does both at once. The first is presentation: beauty, hair and spa work is personal and close-up, and {t} clients read professionalism into every detail, so a clean, branded tunic or polo is reassurance made visible, marking the salon as organised and hygienic and giving a sole trader a recognisable identity.",
+ "A salon uniform earns its keep in two ways, and the right kit covers both. The first is presentation: beauty, hair and spa work is close-up and personal, and {t} clients read professionalism into every detail, so a clean, branded tunic or polo is reassurance made visible, showing the salon is organised and serious and turning a sole trader into a recognisable business.",
+]
+CON_P2_POOL=[
+ "The second is practical. It is messy, physical, on-your-feet work: colour and product, water and washing, long shifts standing at the chair or in the treatment room. So the kit is built for it. Aprons take the colour and the splashes and wipe clean. Tunics and polos wash well and keep their shape. Clogs and salon footwear support a stylist or therapist through a full day without aching feet. The uniform protects the person wearing it as much as it presents them.",
+ "The second is practical. This is messy, physical, on-your-feet work: colour and product, water and washing, long shifts at the chair or in the treatment room. So the kit is built for it: aprons take the colour and splashes and wipe clean, tunics and polos wash well and keep their shape, and clogs support a stylist or therapist through a full day, protecting the wearer as much as presenting them.",
+ "The second job is practical. Salon work is messy, physical and on your feet: colour and product, water and washing, long shifts at the chair or in the treatment room. The kit is built for it, with aprons that take colour and splashes and wipe clean, tunics and polos that wash well and hold their shape, and clogs that support a stylist or therapist all day, protecting as much as presenting.",
+ "The second is the practical side. It is messy, physical, on-your-feet work: colour and product, water and washing, long shifts standing at the chair or treatment couch. So the kit is made for it: aprons take the colour and wipe clean, tunics and polos wash well and keep shape, and clogs support a stylist or therapist through a full day, protecting the wearer as much as presenting them.",
+]
+CON_P3_POOL=[  # 1 .com link each
+ 'And because this is a trade of sole traders and small salons, the whole thing is built to be simple. You order the few pieces you need direct online, branded in-house with your {t} salon name, with no account to set up and nothing complicated to manage. Browse the salon range at <a href="https://www.ineedworkwear.com">iNeedWorkwear.com</a>.',
+ 'And because it is a trade of sole traders and small salons, the whole thing is built to be simple. You order the few pieces you need direct online, branded in-house with your {t} salon name, with no account to set up and nothing to manage. Browse the salon range at <a href="https://www.ineedworkwear.com">iNeedWorkwear.com</a>.',
+ 'And since this is a trade of sole traders and small salons, ordering is built to be simple. You pick the few pieces you need direct online, branded in-house with your {t} salon name, with no account to set up and nothing complicated to run. Browse the salon range at <a href="https://www.ineedworkwear.com">iNeedWorkwear.com</a>.',
+ 'And because the trade is sole traders and small salons, the whole thing stays simple. You order the few pieces you need direct online, branded in-house with your {t} salon name, no account to set up and nothing to manage. Browse the salon range at <a href="https://www.ineedworkwear.com">iNeedWorkwear.com</a>.',
+]
+ACC_HEAD="How to Order: Direct, Online, No Account Needed"
+ACC_P1_POOL=[
+ "The beauty, hair and spa trade is mostly sole traders and small salons, so we have built ordering to suit exactly that. The quickest route, and the one most {t} salons use, is to order direct online with no account at all. Browse the range, pick your tunics, polos, aprons or clogs, choose your sizes, send your salon logo once and check out. There is no minimum, no setup and nothing to manage, and your kit is dispatched on standard lead times with embroidery added in-house first.",
+ "Beauty, hair and spa is mostly sole traders and small salons, so ordering is built for exactly that. The quickest route, and the one most {t} salons use, is direct online with no account: browse the range, pick your tunics, polos, aprons or clogs, choose your sizes, send your logo once and check out. No minimum, no setup, nothing to manage, and your kit ships on standard lead times with embroidery added in-house first.",
+ "Because the trade is mostly sole traders and small salons, ordering is built to match. The quickest route, used by most {t} salons, is to order direct online with no account: browse, pick your tunics, polos, aprons or clogs, choose sizes, send your logo once and check out. There is no minimum and no setup, and kit is dispatched on standard lead times with embroidery done in-house first.",
+ "The hair, beauty and spa trade is mostly sole traders and small salons, and ordering is built for that. The quickest route, and the one most {t} salons use, is direct online with no account at all: browse the range, pick your tunics, polos, aprons or clogs, choose sizes, send your logo once and check out, with no minimum and nothing to manage, dispatched on standard lead times.",
+]
+ACC_P2_POOL=[
+ "It suits the way a salon actually buys. A new barber kitting out a first chair, a mobile beautician wanting two branded tunics, or an established salon topping up aprons and replacing worn clogs can all order in a few minutes and get exactly what they need, no more and no less. We hold your logo on file once you have ordered, so the next order matches the last without you re-sending artwork.",
+ "It fits the way a salon really buys. A new barber kitting a first chair, a mobile beautician after two branded tunics, or an established salon topping up aprons and replacing clogs can all order in a few minutes and get exactly what they need. We hold your logo on file once you order, so the next order matches without re-sending artwork.",
+ "It matches how a salon actually buys. A barber kitting a first chair, a mobile beautician wanting a couple of tunics, or a salon topping up aprons and clogs can each order in minutes and get just what they need. We keep your logo on file after the first order, so the next one matches without re-sending artwork.",
+ "It suits how a salon buys in practice. A new barber on a first chair, a mobile beautician wanting two tunics, or a salon replacing worn aprons and clogs can all order in a few minutes and get exactly what they need. Your logo is held on file once you order, so the next order matches without re-sending artwork.",
+]
+ACC_P3_POOL=[
+ "For a larger salon, a spa or a small group, a trade account is there if you want it. It adds managed reordering, agreed pricing and a held kit list so new starters and second locations are kitted consistently, but it is an option rather than a requirement, and most independents in {t} never need one.",
+ "For a larger salon, a spa or a small group, a trade account is available if you want it: managed reordering, agreed pricing and a held kit list so new starters and second locations stay consistent. It is an option, not a requirement, and most {t} independents never need one.",
+ "A larger salon, a spa or a small group can set up a trade account if they want one, adding managed reordering, agreed pricing and a held kit list for new starters and second locations. It is optional rather than required, and most {t} independents never need it.",
+ "For a larger salon, a spa or a small group, a trade account is there if it helps: managed reordering, agreed pricing and a held kit list so new starters and second locations are kitted consistently. It is an option, not a requirement, and most {t} independents never use one.",
+]
+ACC_P4_POOL=[  # 2 .com links each
+ 'Order direct online with no account at <a href="https://www.ineedworkwear.com">iNeedWorkwear.com</a>, or set up a trade account for a larger salon or group at <a href="https://www.ineedworkwear.com">iNeedWorkwear</a>.',
+ 'Order direct online with no account at <a href="https://www.ineedworkwear.com">iNeedWorkwear.com</a>. For a larger salon or group, set up a trade account at <a href="https://www.ineedworkwear.com">iNeedWorkwear</a>.',
+ 'Browse and order direct online with no account at <a href="https://www.ineedworkwear.com">iNeedWorkwear.com</a>, or open a trade account for a larger salon or group at <a href="https://www.ineedworkwear.com">iNeedWorkwear</a>.',
+ 'Order direct with no account at <a href="https://www.ineedworkwear.com">iNeedWorkwear.com</a>, or for a larger salon or group set up a trade account at <a href="https://www.ineedworkwear.com">iNeedWorkwear</a>.',
+]
+WHY_P1_POOL=[
+ "A salon, barber or spa in {t} whose team turns out in clean, branded tunics, polos and aprons looks professional and trustworthy to every client who walks through the door, and iNeedWorkwear supplies that whole look from a single place, branded in-house and ordered direct online, so even a sole trader gets a polished, established identity without any fuss.",
+ "A {t} salon, barber or spa whose team wears clean, branded tunics, polos and aprons looks professional and trustworthy to every client, and iNeedWorkwear supplies that whole look from one place, branded in-house and ordered direct online, so even a sole trader gets a polished, established identity without fuss.",
+ "When a {t} salon, barber or spa turns its team out in clean, branded tunics, polos and aprons, it looks professional and trustworthy to every client who walks in, and we supply that whole look from a single place, branded in-house and ordered direct online, so even a sole trader gets a polished identity without any fuss.",
+ "A salon, barber or spa in {t} whose team wears clean, branded tunics, polos and aprons reads as professional and trustworthy to every client through the door, and we supply that whole look from one place, branded in-house and ordered direct online, so even a sole trader gets a polished, established identity without fuss.",
+ "A {t} salon, barber or spa whose team is turned out in clean, branded tunics, polos and aprons signals quality to every client through the door, and iNeedWorkwear supplies that entire look from one place, branded in-house and ordered direct online, so even a single chair carries a polished, established identity.",
+ "In {t}, a salon, barber or spa whose staff wear clean, branded tunics, polos and aprons looks established and professional from the first glance, and we supply that whole look from one place, branded in-house and ordered direct online, so a sole trader gets chain-grade polish without the overhead.",
+]
+WHY_P2_POOL=[
+ "The range is deliberately narrow and built around what salon work actually wears: tunics, polos, aprons and clogs, the everyday kit of the chair and the treatment room. There is nothing to wade through and nothing you will not use, which keeps choosing, ordering and reordering quick and simple for a busy independent.",
+ "The range is deliberately narrow, built around what salon work really wears: tunics, polos, aprons and clogs, the everyday kit of the chair and treatment room. There is nothing to wade through and nothing you will not use, so choosing, ordering and reordering stay quick and simple for a busy independent.",
+ "Everything in the range reflects what salon work genuinely wears: tunics, polos, aprons and clogs, the daily kit of the chair and treatment room. The range is deliberately narrow, so there is nothing to wade through and nothing wasted, keeping ordering and reordering quick for a busy independent.",
+ "The range is kept deliberately narrow around what salon work actually wears: tunics, polos, aprons and clogs, the everyday kit of the chair and the treatment room. Nothing to wade through, nothing you will not use, so choosing and reordering stay quick and simple for a busy independent.",
+ "Everything is built around what a salon really goes through: tunics, polos, aprons and clogs, the daily kit of the chair and the treatment couch. The range stays narrow on purpose, so there is nothing surplus to wade through and ordering or reordering takes a busy independent only a moment.",
+ "The range maps to what salon work actually wears out: tunics, polos, aprons and clogs, the everyday kit of the floor and the treatment room. Kept deliberately tight, it leaves nothing surplus to sort through, so a busy independent can choose, order and reorder in minutes.",
+]
+WHY_P3_POOL=[
+ "Everything is branded in-house, so your salon name and logo are embroidered under our control and held on file, ready for the next order, the next chair or a new junior, and every piece matches what you already have. A one-person business and a small team both end up looking consistent and considered.",
+ "All branding is done in-house, so your salon name and logo are embroidered under our control and held on file, ready for the next order, the next chair or a new junior, with every piece matching what you have. A sole trader and a small team both end up looking consistent and considered.",
+ "Branding is in-house throughout, so your salon name and logo are embroidered under our control and kept on file for the next order, the next chair or a new junior, and every piece matches what you already own. One person or a small team, the look stays consistent and considered.",
+ "Everything is branded in-house, so your salon name and logo are applied under our control and held on file, ready for the next order, the next chair or a new junior, with every piece matching the rest. A one-person business and a small team both look consistent and considered.",
+ "Every piece is branded in-house, your salon name and logo stitched under our roof and held on file for the next order, an extra chair or a new junior, so the kit always matches what you already run. One chair or a small team, the look stays coordinated.",
+ "Branding stays in-house from start to finish, your salon name and logo embroidered under our control and kept on file for the next order, the next chair or a new junior, so every piece lines up with the rest. A solo stylist or a small team both come out looking considered.",
+]
+WHY_P4_POOL=[
+ "And the ordering fits the trade: direct online with no account for the sole trader and small salon, and a trade account there for the larger salon or group that wants managed reordering. Either way, you only buy what you need, when you need it, and it arrives branded and ready to wear.",
+ "And how you order fits the trade: direct online with no account for the sole trader and small salon, with a trade account there for a larger salon or group wanting managed reordering. Either way you buy only what you need, when you need it, and it arrives branded and ready to wear.",
+ "And the ordering suits the trade: direct online with no account for the sole trader and small salon, and a trade account for the larger salon or group that wants managed reordering. Either way, you buy only what you need, and it arrives branded and ready to wear.",
+ "And ordering fits the trade: a no-account direct route online for the sole trader and small salon, and a trade account for a larger salon or group wanting managed reordering. Either way you only buy what you need, when you need it, branded and ready to wear.",
+ "And ordering is shaped to the trade: a no-account, direct-online route for the sole trader and small salon, with a trade account on hand for the larger salon or group that wants managed reordering. Either way you buy only what you need, when you need it, branded and ready to wear.",
+ "And the way you order matches the trade: order direct online with no account if you are a sole trader or small salon, or run a trade account if you are a larger salon or group after managed reordering. Either way, it is only ever what you need, branded and ready to wear.",
+]
+ORD_P1_POOL=[
+ "iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across {region}, all embroidered in-house with the salon name.",
+ "We supply branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across {region}, all embroidered in-house with the salon name.",
+ "Across {region}, iNeedWorkwear kits salons, barbers, beauticians, nail technicians and spas in branded tunics, polos, aprons and clogs, all embroidered in-house with the salon name.",
+ "From a single chair to a small salon across {region}, iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians and spas, all embroidered in-house.",
+]
+ORD_P2_POOL=[
+ "For a sole trader or a small salon, ordering direct online is quickest and needs no account: browse the range, pick your tunics, polos, aprons or clogs, add your sizes, send your salon logo once and check out. Your kit is dispatched on standard lead times with embroidery added in-house, and your logo is held on file so the next order matches.",
+ "For a sole trader or small salon, direct online is quickest and needs no account: browse, pick your tunics, polos, aprons or clogs, add sizes, send your salon logo once and check out. Your kit ships on standard lead times with embroidery added in-house, and your logo is held on file so the next order matches.",
+ "A sole trader or small salon orders quickest direct online, no account needed: browse the range, pick your tunics, polos, aprons or clogs, add sizes, send the logo once and check out. Kit is dispatched on standard lead times with in-house embroidery, and your logo is held on file for the next order.",
+ "For a sole trader or small salon, the quickest route is direct online with no account: browse the range, pick your tunics, polos, aprons or clogs, add your sizes, send your salon logo once and check out, dispatched on standard lead times with embroidery in-house and your logo held on file.",
+]
+ORD_P3_POOL=[
+ "For a larger salon, a spa or a small group, a trade account adds managed reordering and agreed pricing: send your headcount, your logo and your sizes and we will build a branded uniform list and hold it on file, so new starters and second locations are kitted consistently.",
+ "For a larger salon, a spa or a small group, a trade account brings managed reordering and agreed pricing: send your headcount, logo and sizes and we will build a branded uniform list and hold it on file, so new starters and second locations stay consistent.",
+ "A larger salon, a spa or a small group can use a trade account for managed reordering and agreed pricing: send your headcount, logo and sizes and we will build a branded uniform list and hold it on file for consistent new starters and second locations.",
+ "For a larger salon, a spa or a small group, a trade account adds managed reordering and agreed pricing: send your headcount, logo and sizes and we will build a branded uniform list and keep it on file, so new starters and second locations are kitted consistently.",
+]
+SELF_POOL=[  # 1 .com link each
+ 'Setting up a new chair or salon and need kit now? Browse the full range, add your sizes and order direct on self-service checkout at <a href="https://www.ineedworkwear.com">iNeedWorkwear.com</a>.',
+ 'Just opened a chair or salon? Browse the range, add sizes and order direct on self-service checkout at <a href="https://www.ineedworkwear.com">iNeedWorkwear.com</a>.',
+ 'Starting up a salon or barber chair and need kit today? Browse the full range, add your sizes and order direct on self-service checkout at <a href="https://www.ineedworkwear.com">iNeedWorkwear.com</a>.',
+ 'Need a salon uniform sorted now? Browse the range, add sizes and order direct on self-service checkout at <a href="https://www.ineedworkwear.com">iNeedWorkwear.com</a>.',
+]
+SORTED_POOL=[  # 1 .com link each
+ '<h3>Hair, Beauty and Spa Workwear, Sorted</h3><p>From beauty tunics and barber polos to aprons and clogs, get branded salon uniforms at fair prices - embroidered in-house with your salon name, ordered direct online with no account, or on a trade account for a larger salon.</p><p><a href="https://www.ineedworkwear.com">Browse hair, beauty and spa workwear at iNeedWorkwear</a></p>',
+ '<h3>Hair, Beauty and Spa Workwear, Sorted</h3><p>Beauty tunics, barber polos, aprons and clogs - branded salon uniforms at fair prices, embroidered in-house with your salon name, ordered direct online with no account or on a trade account for a larger salon.</p><p><a href="https://www.ineedworkwear.com">Browse hair, beauty and spa workwear at iNeedWorkwear</a></p>',
+ '<h3>Hair, Beauty and Spa Workwear, Sorted</h3><p>From beauty tunics and barber polos to aprons and clogs, kit one chair or a small salon out at fair prices, embroidered in-house and ordered direct online with no account or on a trade account.</p><p><a href="https://www.ineedworkwear.com">Browse hair, beauty and spa workwear at iNeedWorkwear</a></p>',
+ '<h3>Hair, Beauty and Spa Workwear, Sorted</h3><p>Beauty tunics, barber polos, aprons and clogs, the branded salon uniform at fair prices, embroidered in-house and ready to order direct online with no account or on a trade account for a larger salon.</p><p><a href="https://www.ineedworkwear.com">Browse hair, beauty and spa workwear at iNeedWorkwear</a></p>',
+]
+# === LOW-VARIATION SHARED PARAS (pooled, not in per-town s1loc) =============
+OWNER_POOL=[  # carries the "sole traders / order direct, no account" self-checkout note
+ "That shapes what a uniform supplier needs to do. A one-chair barber, a self-employed mobile beautician, a two-room nail studio or a small salon team does not have a procurement department or a buying account. They want to choose a few branded pieces, a tunic, a couple of polos, an apron and some clogs, and order them quickly and simply, without setting anything up.",
+ "This shapes what a uniform supplier has to do. A one-chair barber, a self-employed mobile beautician, a two-room nail studio or a small salon team has no procurement department and no buying account. They want to pick a few branded pieces, a tunic, a couple of polos, an apron and some clogs, and order them quickly and simply, with nothing to set up.",
+ "That shapes the job for a uniform supplier. A one-chair barber, a self-employed mobile beautician, a two-room nail studio or a small salon team does not have a buying department or a trade account. They want to choose a few branded pieces, a tunic, a couple of polos, an apron and some clogs, and order them quickly, without setting anything up.",
+ "It shapes what a supplier needs to do. A one-chair barber, a mobile beautician, a two-room nail studio or a small salon team has no procurement department and no buying account, so they want to pick a few branded pieces, a tunic, a couple of polos, an apron and some clogs, and order them quickly and simply, with nothing to set up.",
+ "That shapes how a uniform supplier should work. A one-chair barber, a self-employed mobile beautician, a small nail studio or a salon team has no buying department or trade account, and just wants to choose a few branded pieces, a tunic, a couple of polos, an apron and clogs, and order them quickly and simply, without setting anything up.",
+ "This shapes what the supplier has to get right. A one-chair barber, a mobile beautician, a two-room nail studio or a small salon team does not have a procurement department or a buying account, so they want to pick a few branded pieces, a tunic, a couple of polos, an apron and some clogs, and order them quickly, with nothing to set up.",
+]
+PRESENT_POOL=[  # "uniform does two jobs: presentation + practical" para, varied per town ({t})
+ "The uniform itself does two quiet jobs. The first is presentation: a salon, barber or spa sells a professional, cared-for experience, and a clean, branded tunic or polo tells a {t} client they are in capable, hygienic hands the moment they walk in. The second is practical: aprons take the colour, water and product, tunics and polos wipe clean and wash well, and clogs keep a stylist or therapist comfortable through long days on their feet.",
+ "The uniform does two quiet jobs. First, presentation: a salon, barber or spa sells a professional, cared-for experience, so a clean, branded tunic or polo tells a {t} client they are in capable, hygienic hands from the moment they arrive. Second, practical: aprons take the colour, water and product, tunics and polos wipe clean and wash well, and clogs keep a stylist or therapist comfortable through long days on their feet.",
+ "The uniform quietly does two jobs. The first is presentation: a salon, barber or spa sells a professional, cared-for experience, and a clean, branded tunic or polo signals to a {t} client that they are in capable, hygienic hands. The second is practical: aprons take colour, water and product, tunics and polos wipe clean and wash well, and clogs keep a stylist or therapist comfortable through long days on their feet.",
+ "The uniform itself works in two quiet ways. First, presentation: a salon, barber or spa sells a professional, cared-for experience, so a clean, branded tunic or polo tells a {t} client they are in capable, hygienic hands as soon as they walk in. Second, practical: aprons take the colour, water and product, tunics and polos wipe clean and wash well, and clogs keep a stylist or therapist comfortable through long days on their feet.",
+ "The uniform quietly earns its keep two ways. Presentation first: a salon, barber or spa is selling a professional, cared-for experience, and a clean, branded tunic or polo signals to a {t} client that they are in safe, hygienic hands. Practical second: aprons shrug off colour, water and product, tunics and polos wash well and wipe clean, and clogs carry a stylist or therapist through long days on their feet.",
+ "There are two quiet jobs the uniform does. The first is presentation: beauty, hair and spa work is close and personal, so a clean, branded tunic or polo reassures a {t} client they are in capable, hygienic hands from the off. The second is practical: aprons take colour, water and product, tunics and polos wash and wipe clean, and clogs keep a stylist or therapist comfortable through a long day on their feet.",
+]
+NARROW_POOL=[  # "narrow range, repeat-purchase, reorder, logo on file" para, varied per town ({t})
+ "And because it is a small, repeat-purchase trade, the range is deliberately narrow and easy to reorder. Tunics, polos, aprons and clogs, branded in-house with the salon name, are the whole kit, and we hold your logo on file so the next order, the next chair or the new junior matches what you already have without anyone in {t} starting again.",
+ "And because this is a small, repeat-purchase trade, the range is deliberately narrow and easy to reorder. Tunics, polos, aprons and clogs, branded in-house with the salon name, are the whole kit, and your logo is held on file so the next order, the next chair or a new junior matches what you already have without a {t} salon starting again.",
+ "And since it is a small, repeat-purchase trade, the range is kept deliberately narrow and easy to reorder. Tunics, polos, aprons and clogs, branded in-house with the salon name, are the whole kit, and we keep your logo on file so the next order, the next chair or the new junior matches what you already have without a {t} salon starting from scratch.",
+ "And because it is a small, repeat-purchase trade, the range stays deliberately narrow and easy to reorder. Tunics, polos, aprons and clogs, branded in-house with the salon name, are the whole kit, and your logo is held on file so the next order, the next chair or a new junior matches what you have without anyone in {t} starting again.",
+ "And as a small, repeat-purchase trade, the range is kept tight and quick to reorder. Tunics, polos, aprons and clogs, branded in-house with the salon name, are the whole kit, and we keep your logo on file so the next order, an extra chair or a new junior matches what a {t} salon already runs, with no need to start over.",
+ "And because the buying is small and repeats, the range stays narrow and simple to reorder. Tunics, polos, aprons and clogs, branded in-house with the salon name, are the whole kit, and your logo sits on file so the next order, the next chair or a new junior lines up with what a {t} salon already has, without starting again.",
+]
+KIT_POOL=[
+ "Tunics, polos, aprons and clogs, branded with the salon name, are the whole kit {loc}.",
+ "The whole kit is tunics, polos, aprons and clogs, branded with the salon name {loc}.",
+ "Tunics, polos, aprons and clogs do the job, branded with the salon name {loc}.",
+ "It comes down to tunics, polos, aprons and clogs, branded with the salon name {loc}.",
+ "Tunics, polos, aprons and clogs, all branded with the salon name, are the kit {loc}.",
+ "Branded tunics, polos, aprons and clogs make up the whole kit {loc}.",
+]
+S2TAIL_POOL=[
+ ", tunics, polos and aprons lead, with clogs and footwear alongside.",
+ ", the core is tunics, polos and aprons, with clogs and footwear to finish.",
+ ", expect tunics, polos and aprons first, then clogs and footwear.",
+ ", tunics, polos and aprons do the work, with clogs and footwear alongside.",
+ ", tunics, polos and aprons anchor the kit, with clogs and footwear completing it.",
+ ", it is tunics, polos and aprons, plus clogs and footwear.",
+]
+
+def s1_paras(town, T):
+    if 's1loc' in T:
+        present = PRESENT_POOL[pick(town,'pre',len(PRESENT_POOL))].format(t=town)
+        narrow = NARROW_POOL[pick(town,'nar',len(NARROW_POOL))].format(t=town)
+        own = OWNER_POOL[pick(town,'own',len(OWNER_POOL))]
+        kit = KIT_POOL[pick(town,'kit',len(KIT_POOL))].format(loc=T['kit_loc'])
+        p = list(T['s1loc']) + [own, present, narrow.rstrip()+' '+kit]
+        return p
+    return T['s1']
+
+def s2_local_text(town, T):
+    if 's2_intro' in T:
+        return T['s2_intro'].rstrip() + S2TAIL_POOL[pick(town,'s2t',len(S2TAIL_POOL))]
+    return T['s2_local']
+
+def faq_for(t, region):
+    P = lambda salt, opts: opts[pick(t, salt, len(opts))]
+    return [
+     (f"Do you supply branded uniforms to salons and barbers in {t}?", P('fq1',[
+      f"Yes. Salons, barbers, beauticians, nail technicians and spas across {region} get branded tunics, polos, aprons and clogs from us, embroidered in-house with the salon name. A sole trader or small salon can order direct online with no account, and a larger salon group can set up a trade account.",
+      f"Yes. Branded tunics, polos, aprons and clogs go to salons, barbers, beauticians, nail technicians and spas across {region}, embroidered in-house with the salon name. A sole trader or small salon orders direct online with no account, and a larger group can set up a trade account.",
+      f"Yes. From a one-chair barber to a small salon across {region}, we supply branded tunics, polos, aprons and clogs, embroidered in-house with the salon name, ordered direct online with no account or on a trade account for a larger salon.",
+      f"Yes. Salons, barbers, beauticians, nail technicians and spas across {region} get branded tunics, polos, aprons and clogs from us, embroidered in-house with the salon name, ordered direct online with no account or on a trade account."
+      f"Yes. Across {region} we kit salons, barbers, beauticians, nail technicians and spas in branded tunics, polos, aprons and clogs, embroidered in-house with the salon name, ordered direct online with no account or on a trade account for a larger salon.",
+      f"Yes. Hair, beauty and spa businesses across {region}, from a single chair to a small salon, get branded tunics, polos, aprons and clogs from us, embroidered in-house with the salon name, with no account needed to order.",])),
+     ("Can I order without setting up a trade account?", P('fq2',[
+      "Yes. The beauty, hair and spa trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account: browse the range, pick your tunics, polos, aprons or clogs, add your sizes, send your logo once and check out. A trade account is there for a larger salon or a group that wants managed reordering.",
+      "Yes. The trade is mostly sole traders and small salons, so the quickest route is direct online with no account: browse, pick your tunics, polos, aprons or clogs, add sizes, send your logo once and check out. A trade account is there for a larger salon or group that wants managed reordering.",
+      "Yes, no account needed. Most of the trade orders direct online: pick your tunics, polos, aprons or clogs, add sizes, send the logo once and check out, with a trade account available for a larger salon or group that wants managed reordering.",
+      "Yes. Most salons order direct online with no account: browse the range, pick your tunics, polos, aprons or clogs, add sizes and send your logo once. A trade account is there for a larger salon or group that wants managed reordering."
+      "Yes. Most of the trade is sole traders and small salons, so the fastest route is direct online with no account: choose your tunics, polos, aprons or clogs, add sizes, send the logo once and check out. A trade account is there only if a larger salon or group wants managed reordering.",
+      "Yes, no account is needed. Pick your tunics, polos, aprons or clogs online, add your sizes, send your logo once and check out, which is how most salons order. A trade account stays available for a larger salon or group wanting managed reordering.",])),
+     ("What uniform does a salon, barber or spa need?", P('fq3',[
+      "The core uniform is tunics for beauty therapists and spa staff, polo shirts for barbers and stylists, aprons for hairdressing, colour and barber work, and comfortable clogs or salon footwear for long days on your feet, all branded with the salon name. The range is deliberately narrow and built around what salon work actually wears.",
+      "The core kit is tunics for beauty therapists and spa staff, polos for barbers and stylists, aprons for hairdressing, colour and barber work, and comfortable clogs or salon footwear for long days on your feet, all branded with the salon name, a deliberately narrow range built around salon work.",
+      "At its core: tunics for beauty therapists and spa staff, polo shirts for barbers and stylists, aprons for hairdressing, colour and barber work, and comfortable clogs for long days on your feet, all branded with the salon name and kept deliberately narrow.",
+      "The core uniform is tunics for therapists and spa staff, polos for barbers and stylists, aprons for hairdressing and colour work, and comfortable clogs for long days on your feet, all branded with the salon name, in a deliberately narrow range built around what salon work wears."
+      "The essentials are tunics for therapists and spa staff, polos for barbers and stylists, aprons for hairdressing and colour work, and comfortable clogs for long days on your feet, all branded with the salon name in a deliberately narrow, salon-focused range.",
+      "It comes down to tunics for beauty and spa staff, polos for barbers and stylists, aprons for colour and barber work, and supportive clogs for long shifts on your feet, all branded with the salon name and kept to a tight, practical range.",])),
+     ("Can you embroider our salon name and logo?", P('fq4',[
+      "Yes. We embroider your salon name and logo in-house onto tunics, polos and aprons, finished to survive frequent washing. Send your artwork once, we hold it on file, and every reorder and new starter matches, so a one-chair barber or a small salon team looks consistent and professional.",
+      "Yes. Your salon name and logo are embroidered in-house onto tunics, polos and aprons, finished for frequent washing. Send artwork once and we hold it on file, so every reorder and new starter matches, and a one-chair barber or small team looks consistent.",
+      "Yes, all branding is done in-house onto tunics, polos and aprons, finished to survive frequent washing. We hold your artwork on file, so every reorder and new starter matches and a sole trader or small salon looks consistent and professional.",
+      "Yes. Send your artwork once and we embroider your salon name and logo in-house onto tunics, polos and aprons, holding it on file so every reorder and new starter matches, and a one-chair barber or small salon team looks consistent."
+      "Yes. Your salon name and logo are embroidered in-house onto tunics, polos and aprons and finished for frequent washing. We keep your artwork on file, so every reorder and new starter matches and a single chair or small team always looks coordinated.",
+      "Yes, embroidery is done in-house onto tunics, polos and aprons, finished to survive heavy washing. Send your logo once and we hold it on file, so reorders and new starters line up and the salon stays consistent.",])),
+     ("Do you supply aprons that protect from colour and water?", P('fq5',[
+      "Yes. We supply hairdressing, barber and beauty aprons built to take colour, water and product, wipe-clean and hard-wearing, alongside tunics and polos. They keep stylists and therapists protected and presentable through a full day of clients.",
+      "Yes. Hairdressing, barber and beauty aprons are built to take colour, water and product, wipe-clean and hard-wearing, alongside tunics and polos, keeping stylists and therapists protected and presentable through a full day of clients.",
+      "Yes, we supply aprons made for colour, water and product, wipe-clean and durable, for hairdressing, barber and beauty work, alongside tunics and polos, so stylists and therapists stay protected and presentable all day.",
+      "Yes. Our hairdressing, barber and beauty aprons take colour, water and product, wipe clean and wear hard, and sit alongside tunics and polos to keep stylists and therapists protected and presentable through a full day of clients."
+      "Yes. Our hairdressing, barber and beauty aprons are made for colour, water and product, wiping clean and wearing hard, and they sit alongside the tunics and polos to keep stylists and therapists protected and smart all day.",
+      "Yes, the aprons are built for the mess: colour, water and product wipe straight off, the fabric wears hard, and they pair with tunics and polos so stylists and barbers stay protected and presentable through a full day.",])),
+     ("Are the clogs comfortable for long days on your feet?", P('fq6',[
+      "Yes. Salon and spa clogs and footwear are chosen for comfort and support through long days standing at the chair or in the treatment room, easy to clean and practical on salon floors, completing the uniform alongside the tunics, polos and aprons.",
+      "Yes. Salon and spa clogs and footwear are chosen for comfort and support through long days at the chair or in the treatment room, easy to clean and practical on salon floors, finishing the uniform with the tunics, polos and aprons.",
+      "Yes, the clogs and salon footwear are picked for comfort and support through long days standing at the chair or treatment couch, easy to clean and practical underfoot, completing the uniform alongside tunics, polos and aprons.",
+      "Yes. Salon and spa clogs and footwear are chosen for comfort and support across long days at the chair or in the treatment room, easy to clean and practical on salon floors, rounding out the uniform with the tunics, polos and aprons."
+      "Yes. Salon and spa clogs and footwear are picked for all-day comfort and support at the chair or treatment couch, easy to clean and steady underfoot, rounding out the uniform with the tunics, polos and aprons.",
+      "Yes, the clogs and salon footwear are chosen for support across long standing shifts at the chair or in the treatment room, wipe-clean and practical on a busy floor, completing the kit alongside tunics, polos and aprons.",])),
+     ("How quickly can you supply salon and spa uniforms?", P('fq7',[
+      "Order direct online and your kit is dispatched on standard lead times, with embroidery added in-house before it ships. For a larger salon or group on a trade account, send your headcount, your logo and your sizes and we will build a branded uniform list and hold it on file for fast reordering on standard lead times.",
+      "Order direct online and your kit ships on standard lead times, with embroidery added in-house first. For a larger salon or group on a trade account, send your headcount, logo and sizes and we will build a branded uniform list and hold it on file for fast reordering on standard lead times.",
+      "Order direct online and we dispatch on standard lead times, embroidery added in-house before shipping. For a larger salon or group on a trade account, send your headcount, logo and sizes and we will build a branded uniform list and hold it on file for fast reordering.",
+      "Order direct online and your kit is dispatched on standard lead times with embroidery done in-house first. For a larger salon or group on a trade account, send your headcount, logo and sizes and we will build a branded uniform list and hold it on file for fast reordering on standard lead times."
+      "Order direct online and your kit ships on standard lead times, embroidered in-house first. For a larger salon or group on a trade account, send your headcount, logo and sizes and we will build a branded uniform list and keep it on file for quick reordering.",
+      "Order online and we dispatch on standard lead times with embroidery added in-house beforehand. A larger salon or group on a trade account can send headcount, logo and sizes for a branded uniform list held on file for fast reordering.",])),
+    ]
+
+# === PER-TOWN AUTHORED DATA (web-researched; geographic nearby; 2 local paras) ==
+TOWNS = {
+ "birmingham": {
+  "region":"Birmingham and the West Midlands",
+  "nearby":["Solihull","West Bromwich","Walsall"],
+  "snapshot":"iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Birmingham, from the suburban high streets to the Jewellery Quarter and city centre, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head":"Kitting the salons, barbers and spas of the West Midlands",
+  "s1loc":[
+   "Birmingham has one of the densest beauty and grooming scenes outside London. Hundreds of hair salons, barbershops, nail bars, brow and lash studios, aesthetics clinics and day spas line the high streets, with thriving independent clusters in Kings Heath, Moseley, Harborne and the Jewellery Quarter, a busy barber and creative scene around Digbeth and the Custard Factory, and the Asian beauty and nail trade along Ladypool Road in Balsall Heath.",
+   "And it is overwhelmingly independent. The award-winning salons of the Jewellery Quarter, the boutique barbers of Digbeth, the suburban hair and beauty rooms of Moseley and Bearwood and the mobile beauticians and nail technicians working across the city are nearly all sole traders or small teams, not chains. Almost every one of them puts staff in front of clients in something branded, and the way they look is part of the service they sell.",
+  ],
+  "kit_loc":"across the city's salons, barber chairs and treatment rooms",
+  "s2_intro":"Whether you are a Kings Heath barber, a Jewellery Quarter salon, a mobile beautician or a nail studio across Birmingham",
+ },
+ "leeds": {
+  "region":"Leeds and West Yorkshire",
+  "nearby":["Bradford","Pudsey","Dewsbury"],
+  "snapshot":"iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Leeds, from the city-centre salons and day spas to the suburban high streets, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head":"Kitting the salons, barbers and spas of Yorkshire",
+  "s1loc":[
+   "Leeds has a dense, mostly independent salon scene. City-centre hair salons, barbers and day spas cluster around Briggate, the Corn Exchange and Victoria Gate, while the suburbs carry the real volume: huge concentrations of salons, barbers, nail bars, tanning studios and aesthetics clinics along Otley Road and North Lane in Headingley and Hyde Park, and thriving independent high streets in Chapel Allerton, Roundhay, Horsforth and out towards Farsley.",
+   "And the trade is overwhelmingly small and independent. The Headingley and Chapel Allerton salons, the Briggate barbers, the suburban nail bars and beauty rooms in Roundhay and Bramley, and the mobile beauticians and aesthetics practitioners working across the city are nearly all sole traders or small teams rather than chains. Almost every one of them puts staff in front of clients in something branded, and how they look is part of the service.",
+  ],
+  "kit_loc":"across the city's salons, barber chairs and treatment rooms",
+  "s2_intro":"Whether you are a Headingley salon, a Briggate barber, a mobile beautician or a nail studio across Leeds",
+ },
+ "glasgow": {"region": "Glasgow and the west of Scotland", "nearby": ["Paisley", "Clydebank", "East Kilbride"], "snapshot": "iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Glasgow, from the city-centre salons and day spas to the West End and Southside high streets, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.", "s1_head": "Kitting the salons, barbers and spas of the west of Scotland", "s1loc": ["Glasgow has a busy, mostly independent salon scene. City-centre hair salons, barbers and day spas cluster around the Merchant City and the streets off Buchanan Street, while the West End carries the real volume: dense runs of salons, barbers, nail bars and beauty rooms along Byres Road, Great Western Road and through Partick and Finnieston. Cross the river and the Southside high streets in Shawlands and along Pollokshaws Road add another thick band of independent salons and aesthetics clinics.", "And the trade is overwhelmingly small and independent. The Byres Road salons, the Finnieston barbers, the Shawlands nail bars and beauty rooms, the Dennistoun high-street studios and the mobile beauticians and aesthetics practitioners working across the city are nearly all sole traders or small teams rather than chains. Almost every one of them puts staff in front of clients in something branded, and how they look is part of the service."], "kit_loc": "across the city's salons, barber chairs and treatment rooms", "s2_intro": "Whether you are a West End salon, a Finnieston barber, a mobile beautician or a nail studio across Glasgow"},
+ "edinburgh": {"region": "Edinburgh and the Lothians", "nearby": ["Musselburgh", "Livingston", "Dunfermline"], "snapshot": "iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Edinburgh, from the New Town salons and day spas to the Stockbridge and Bruntsfield high streets, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.", "s1_head": "Kitting the salons, barbers and spas of the Lothians", "s1loc": ["Edinburgh's salon trade runs from polished New Town addresses to busy neighbourhood high streets. Hair salons, barbers and day spas line George Street and Rose Street in the New Town, while Stockbridge around Raeburn Place packs in independent salons, beauty rooms and nail bars. South of the centre the Bruntsfield, Tollcross and Morningside high streets carry the suburban volume, and Leith Walk down towards the Shore adds a long parade of nail studios, barbers and aesthetics clinics.", "And the trade is overwhelmingly small and independent. The New Town salons, the Stockbridge beauty rooms, the Bruntsfield and Morningside hairdressers, the Leith Walk nail bars and the mobile beauticians and aesthetics practitioners working across the city are nearly all sole traders or small teams rather than chains. Almost every one of them puts staff in front of clients in something branded, and how they look is part of the service."], "kit_loc": "across the city's salons, barber chairs and treatment rooms", "s2_intro": "Whether you are a Stockbridge salon, a New Town barber, a mobile beautician or a nail studio across Edinburgh"},
+ "manchester": {"region": "Manchester and the North West", "nearby": ["Salford", "Stockport", "Oldham"], "snapshot": "iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Manchester, from the Northern Quarter barbers and city-centre day spas to the suburban high streets, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.", "s1_head": "Kitting the salons, barbers and spas of Greater Manchester", "s1loc": ["Manchester runs on a dense, mostly independent salon scene. City-centre barbers, hair salons and day spas cluster around Tib Street and Newton Street in the Northern Quarter, with nail bars, brow studios and aesthetics clinics dotted through Spinningfields, King Street and Deansgate. The suburbs carry the real volume, though, with packed independent high streets along Beech Road and Barlow Moor Road in Chorlton, plus Wilmslow Road through Withington and Didsbury and the busy parades of Ancoats and Prestwich.", "And the trade here is overwhelmingly small and independent. The Northern Quarter barbers, the Chorlton and Didsbury salons, the Withington beauty rooms and nail bars, and the mobile beauticians and aesthetics practitioners working across the city are nearly all sole traders or small teams rather than chains. Almost every one of them puts staff in front of clients in something branded, and a sharp, consistent look is treated as part of the service."], "kit_loc": "across the city's salons, barber chairs and treatment rooms", "s2_intro": "Whether you are a Northern Quarter barber, a Chorlton salon, a mobile beautician or a nail studio across Manchester"},
+ "liverpool": {"region": "Liverpool and Merseyside", "nearby": ["Bootle", "Birkenhead", "Crosby"], "snapshot": "iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Liverpool, from the Bold Street salons and city-centre day spas to the suburban high streets, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.", "s1_head": "Kitting out the salons, barbers and spas of Merseyside", "s1loc": ["Across Liverpool the salon scene is dense and largely independent. Bold Street is the city-centre hub for hair salons and barbers, with day spas, nail bars and aesthetics clinics spread through the Cavern Quarter, Castle Street and the Liverpool ONE district. The suburbs carry the real volume, with thriving independent high streets along Allerton Road and Smithdown Road, the quirky parade of Lark Lane, and busy clusters of salons, barbers and beauty rooms out in Woolton.", "And almost all of it is small and independent. The Bold Street salons and barbers, the Allerton Road and Smithdown Road high-street salons, the Lark Lane beauty rooms and nail bars, and the mobile beauticians and aesthetics practitioners working across Merseyside are nearly all sole traders or small teams rather than chains. Almost every one of them puts staff in front of clients in something branded, and looking the part is part of the job."], "kit_loc": "across the city's salons, barber chairs and treatment rooms", "s2_intro": "Whether you are a Bold Street salon, an Allerton Road barber, a mobile beautician or a nail studio across Liverpool"},
+ "sheffield": {"region": "Sheffield and South Yorkshire", "nearby": ["Rotherham", "Barnsley", "Chesterfield"], "snapshot": "iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Sheffield, from the Devonshire Quarter salons and city-centre day spas to the Ecclesall Road high street, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.", "s1_head": "Kitting out Sheffield's salons, barbers and spas in the steel city", "s1loc": ["Sheffield runs on independent salons, and Ecclesall Road is the spine of the trade, packed with hairdressers, barbers, nail bars and beauty rooms from the city-centre end out to Banner Cross. The Devonshire Quarter and Division Street carry the central cluster, with barbers and unisex salons along Devonshire Street, while the suburban high streets in Broomhill, Crookes and Hillsborough hold their own busy parades of salons, tanning studios and treatment rooms.", "And almost none of it is chain-owned. The Ecclesall Road salons, the Devonshire Street barbers, the nail bars and beauty rooms in Crookes, Broomhill and Hillsborough, and the mobile beauticians and aesthetics practitioners covering the city are nearly all sole traders or small teams. Every one of them puts staff in front of clients, so a sharp, branded look is part of how the shop earns its reputation across the steel city."], "kit_loc": "across the city's salons, barber chairs and treatment rooms", "s2_intro": "Whether you are an Ecclesall Road salon, a Devonshire Street barber, a mobile beautician or a nail studio across Sheffield"},
+ "bradford": {"region": "Bradford and West Yorkshire", "nearby": ["Keighley", "Shipley", "Halifax"], "snapshot": "iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Bradford, from the city-centre salons and Saltaire treatment rooms to the Great Horton Road parades, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.", "s1_head": "Outfitting the salons, barbers and spas of Bradford district", "s1loc": ["Bradford's salon trade spreads right across the district. The city centre holds barbers and salons around Market Street, while Manningham Lane and Toller Lane carry long runs of barbers, hair salons and nail bars. Out in the suburbs the volume builds along Great Horton Road, through Heaton and Idle, and across the historic streets of Saltaire and neighbouring Shipley, where independent hairdressers, beauty rooms and small spas sit alongside the village shops.", "And the trade here is overwhelmingly independent. The Great Horton Road barbers, the Saltaire and Shipley salons, the nail bars and beauty rooms along Manningham Lane and out in Heaton and Idle, and the mobile beauticians and aesthetics practitioners working across the district are nearly all sole traders or small teams rather than chains. Each one puts staff in front of clients, and looking the part in something branded is simply part of the job."], "kit_loc": "across the district's salons, barber chairs and treatment rooms", "s2_intro": "Whether you are a Saltaire salon, a Great Horton Road barber, a mobile beautician or a nail studio across Bradford"},
+ "bristol": {"region": "Bristol and the West", "nearby": ["Bath", "Weston-super-Mare", "Portishead"], "snapshot": "iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Bristol, from the Clifton day spas to the Gloucester Road and North Street independents, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.", "s1_head": "Kitting the salons, barbers and spas of the West Country", "s1loc": ["Bristol runs on independent high streets rather than chains. City-centre salons, barbers and day spas sit around Park Street, the Clifton Triangle and Whiteladies Road, but the suburbs carry the real volume: long runs of salons, barbers, nail bars and beauty rooms up Gloucester Road in Bishopston, along North Street in Bedminster, through Stokes Croft and Gloucester Road's lower end, and out across the independent parades of Clifton, Bishopston and Southville.", "And the trade here is overwhelmingly small and independent. The Gloucester Road colourists, the North Street barbers in Bedminster, the Clifton and Whiteladies Road beauty rooms, the Stokes Croft nail bars and the mobile beauticians and aesthetics practitioners working across the city are nearly all sole traders or small teams rather than chains. Almost every one of them puts staff in front of clients in something branded, and how they look is part of the service."], "kit_loc": "across the city's salons, barber chairs and treatment rooms", "s2_intro": "Whether you are a Clifton salon, a North Street barber, a mobile beautician or a nail studio across Bristol"},
+ "cardiff": {"region": "Cardiff and South Wales", "nearby": ["Barry", "Penarth", "Caerphilly"], "snapshot": "iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Cardiff, from the Victorian arcade salons to the Albany Road and Cowbridge Road independents, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.", "s1_head": "Kitting the salons, barbers and spas of South Wales", "s1loc": ["Cardiff has a dense, mostly independent salon scene. City-centre hair salons and barbers tuck into the Victorian arcades, with Lazarou in Duke Street Arcade and barbers in the Castle and High Street Arcades, while the suburbs carry the real volume: heavy clusters of salons, barbers, nail bars and beauty rooms along Albany Road and Wellfield Road in Roath, down Cowbridge Road East in Canton, and through the independent high streets of Pontcanna, Whitchurch and Cathedral Road.", "And the trade is overwhelmingly small and independent. The Wellfield Road salons in Roath, the Cowbridge Road barbers in Canton, the Pontcanna beauty rooms, the arcade nail bars and the mobile beauticians and aesthetics practitioners working across the city are nearly all sole traders or small teams rather than chains. Almost every one of them puts staff in front of clients in something branded, and how they look is part of the service."], "kit_loc": "across the city's salons, barber chairs and treatment rooms", "s2_intro": "Whether you are a Pontcanna salon, a Cowbridge Road barber, a mobile beautician or a nail studio across Cardiff"},
+ "leicester": {"region": "Leicester and the East Midlands", "nearby": ["Loughborough", "Hinckley", "Oadby"], "snapshot": "iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Leicester, from the Golden Mile bridal studios to the suburban Clarendon Park salons, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.", "s1_head": "Kitting out Leicester's salons, barbers and beauty studios", "s1loc": ["Leicester has a busy, mostly independent salon scene. City-centre hair salons, barbers and beauty rooms sit around St Martins, the Highcross and the Lanes, while the real volume is in the neighbourhoods. Queens Road and Clarendon Park carry a thick run of salons, barbers and nail bars, the Belgrave Road Golden Mile is packed with Asian bridal, mehndi and beauty parlours, and independent high streets thrive in Belgrave, Oadby and out towards Leicester Forest East.", "And the trade is overwhelmingly small and independent. The Clarendon Park salons and Queens Road barbers, the Golden Mile bridal and mehndi studios on Belgrave Road, the suburban nail bars and beauty rooms in Belgrave and Oadby, and the mobile beauticians and aesthetics practitioners working across the city are nearly all sole traders or small teams rather than chains. Almost every one of them puts staff in front of clients in something branded, and how they look is part of the service."], "kit_loc": "across the city's salons, barber chairs and bridal studios", "s2_intro": "Whether you are a Clarendon Park salon, a Queens Road barber, a mobile beautician or a nail studio across Leicester"},
+ "coventry": {"region": "Coventry and Warwickshire", "nearby": ["Nuneaton", "Bedworth", "Rugby"], "snapshot": "iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Coventry, from the Foleshill Road beauty parlours to the Earlsdon village salons, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.", "s1_head": "Workwear for the salons and barbers of Coventry", "s1loc": ["Coventry has a varied, mostly independent salon scene. City-centre and Far Gosford Street barbers and salons sit near the FarGo Village quarter, while the neighbourhoods carry the volume. Earlsdon Street is a dense village high street of hair salons, barbers and nail bars, Foleshill Road runs a long stretch of Asian beauty parlours, bridal makeup and henna studios, and independent salons and barbers spread through Cheylesmore, Coundon and Spon End.", "And the trade is overwhelmingly small and independent. The Earlsdon Street salons and Far Gosford Street barbers, the Foleshill Road beauty parlours and bridal studios, the suburban nail bars and beauty rooms in Cheylesmore and Coundon, and the mobile beauticians and aesthetics practitioners working across the city are nearly all sole traders or small teams rather than chains. Almost every one of them puts staff in front of clients in something branded, and how they look is part of the service."], "kit_loc": "across the city's salons, barber chairs and treatment rooms", "s2_intro": "Whether you are an Earlsdon salon, a Far Gosford Street barber, a mobile beautician or a nail studio across Coventry"},
+}
+
+# === CSV / nearby ==========================================================
+_CSV=None
+def _load_csv():
+    global _CSV
+    if _CSV is not None: return _CSV
+    here=os.path.dirname(os.path.abspath(__file__))
+    for p in (os.path.join(here,'BH_towns.csv'),'BH_towns.csv','/mnt/user-data/outputs/BH_towns.csv'):
+        if os.path.exists(p):
+            rows=[]
+            with open(p,newline='',encoding='utf-8-sig') as f:
+                for r in csv.DictReader(f): rows.append((int(r["Rank"]), r["Town"].strip(), (r.get("Nation") or "").strip()))
+            _CSV=rows; return _CSV
+    _CSV=[]; return _CSV
+
+def slugify(name):
+    return re.sub(r'-+','-', re.sub(r"[^a-z0-9]+","-", name.lower().replace("&"," and "))).strip('-')
+
+def require_nearby(town, T):
+    nb = T.get("nearby")
+    if not nb or len(nb) < 3:
+        raise ValueError(f"{town}: 'nearby' must list 3 geographically-close towns "
+                         f"(web-verified, all on BH_towns.csv). No rank/auto fallback.")
+    bad = [n for n in nb if not any(r[1].lower()==n.lower() for r in _load_csv())]
+    if bad:
+        raise ValueError(f"{town}: nearby town(s) not on BH_towns.csv: {bad}")
+    return nb[:3]
+
+# === title / meta ==========================================================
+def build_title(town):
+    for t in (f"{town} Hair, Beauty and Spa Workwear",
+              f"{town} Hair and Beauty Workwear", f"{town} Salon Workwear"):
+        if len(t) <= 60: return t
+    return f"{town} Salon Workwear"
+
+def build_meta(town):
+    for m in (f"Branded tunics, polos, aprons and clogs for {town} salons, barbers and spas - order direct online, in-house embroidery, no account needed.",
+              f"Branded tunics, polos, aprons and clogs for {town} salons and barbers - order direct online, in-house embroidery, no account needed.",
+              f"Branded tunics, polos and aprons for {town} salons, barbers and spas - order direct online with in-house embroidery, no account needed.",
+              f"Branded salon uniforms for {town} salons and barbers - tunics, polos, aprons, ordered direct online with in-house embroidery."):
+        if len(m) <= 160: return m
+    return f"Branded salon uniforms for {town} salons and barbers - tunics, polos, aprons, ordered online."
+
+# === SCHEMA / HEAD =========================================================
+def _extract_org():
+    blocks = re.findall(r'<script type="application/ld\+json">\s*(\{.*?\})\s*</script>', BASE, re.S)
+    for b in blocks:
+        if '"Organization"' in b: return b.strip()
+    raise RuntimeError("Organization block not found in base")
+ORG_BLOCK = _extract_org()
+
+def _ld(obj): return '<script type="application/ld+json">\n'+json.dumps(obj,ensure_ascii=False)+'</script>'
+
+def build_head(town, slug, faqs, nearby):
+    title = build_title(town); meta = build_meta(town)
+    canon = f"{DOMAIN}/{slug}.html"
+    faq = {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
+        {"@type":"Question","name":q,"acceptedAnswer":{"@type":"Answer","text":a}} for q,a in faqs]}
+    svc = {"@context":"https://schema.org","@type":"Service",
+        "name":f"Hair, Beauty and Spa Workwear Supply and Embroidery in {town}",
+        "serviceType":"Hair, beauty and spa uniform supply and embroidery",
+        "provider":{"@id":"https://www.ineedworkwear.com/#organization"},
+        "areaServed":[{"@type":"City","name":town}]+[{"@type":"City","name":n} for n in nearby],
+        "audience":{"@type":"BusinessAudience","name":"Salons, barbers, beauticians and spa therapists"},
+        "description":f"Branded tunics, polos, aprons and clogs supplied to salons, barbers, beauticians and spas in {town}, ordered direct online or on a trade account, with in-house embroidery.",
+        "hasOfferCatalog":{"@type":"OfferCatalog","name":"Hair, Beauty and Spa Workwear",
+            "itemListElement":[{"@type":"Offer","itemOffered":{"@type":"Product","name":p}} for p in BH_PRODUCTS]}}
+    crumb = {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+        {"@type":"ListItem","position":1,"name":"Home","item":DOMAIN},
+        {"@type":"ListItem","position":2,"name":"Hair, Beauty and Spa Workwear","item":f"{DOMAIN}/hair-beauty-spa-workwear"},
+        {"@type":"ListItem","position":3,"name":town,"item":canon}]}
+    return ('<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8">'
+        '<meta name="viewport" content="width=device-width, initial-scale=1.0">\n'
+        f'<link rel="canonical" href="{canon}">\n<title>{title}</title>\n'
+        f'<meta name="description" content="{meta}">\n'
+        f'<meta property="og:title" content="{title}">\n'
+        f'<meta property="og:description" content="{meta}">\n'
+        '<meta property="og:type" content="website">\n'
+        f'<meta property="og:url" content="{canon}">\n'
+        +_ld(faq)+'\n<script type="application/ld+json">\n'+ORG_BLOCK+'</script>\n'+_ld(svc)+'\n'+_ld(crumb)+'\n'+CSS+'</head><body id="top">\n')
+
+# === ASSEMBLE ==============================================================
+def assemble(slug, town):
+    T = TOWNS[town.lower()]
+    region = T.get("region", town)
+    nearby = require_nearby(town, T)
+    faqs = faq_for(town, region)
+    P = lambda pool, salt: pool[pick(town, salt, len(pool))]
+
+    trust   = T.get("trust", P(TRUST_POOL,'trust'))
+    snap    = T["snapshot"]
+    s1head  = T["s1_head"]
+    s1ps    = s1_paras(town, T)
+    s2intro = s2_local_text(town, T)
+    grid    = build_grid(town)
+    emb     = [P(EMB_P1_POOL,'e1').format(t=town), P(EMB_P2_POOL,'e2').format(t=town), P(EMB_P3_POOL,'e3')]
+    con     = [P(CON_P1_POOL,'c1').format(t=town), P(CON_P2_POOL,'c2'), P(CON_P3_POOL,'c3').format(t=town)]
+    acc     = [P(ACC_P1_POOL,'a1').format(t=town), P(ACC_P2_POOL,'a2'),
+               P(ACC_P3_POOL,'a3').format(t=town), P(ACC_P4_POOL,'a4')]
+    why     = [P(WHY_P1_POOL,'w1').format(t=town), P(WHY_P2_POOL,'w2'), P(WHY_P3_POOL,'w3'), P(WHY_P4_POOL,'w4')]
+    ordr    = [P(ORD_P1_POOL,'o1').format(region=region), P(ORD_P2_POOL,'o2'), P(ORD_P3_POOL,'o3')]
+    selfp   = P(SELF_POOL,'self'); sorted_ = P(SORTED_POOL,'sorted')
+
+    emb_svg   = EMB.replace('a London salon logo', f'a {town} salon logo')
+    sign_svg  = SIGNPOST.replace('London hair, beauty and spa signpost', f'{town} hair, beauty and spa signpost')
+    sign_svg  = re.sub(r'<text x="230" y="62".*?</text>', signpost_town(town), sign_svg, flags=re.S)
+    sign_svg  = sign_svg.replace('every kind of London salon', f'every kind of {town} salon')
+    prem_svg  = PREMISES.replace('serving salons and spas across London', f'serving salons and spas across {town}')
+
+    H=[build_head(town, slug, faqs, nearby), HEADER]
+    H.append(f'<div class="bh-hero"><div class="bh-wrap"><div class="bh-subtitle">Branded Uniforms for Salons, Barbers and Spas</div><h1>{town} Hair, Beauty and Spa Workwear</h1></div></div>')
+    H.append('<div class="bh-pulse"></div>')
+    H.append(f'<div class="bh-trust-strip"><p>{trust}</p></div>')
+    H.append(f'<div class="bh-wrap"><div class="bh-snapshot"><div class="bh-snapshot-label">Supplier Snapshot</div><p>{snap}</p></div></div>')
+    H.append(STATS)
+    H.append('<div class="bh-cta-bar"><a href="https://www.ineedworkwear.com" class="bh-cta-btn">Browse Salon and Spa Uniforms</a></div>')
+    H.append('<div class="bh-jump-links"><a href="#range">Workwear Range</a><a href="#contract">Salon Uniform</a><a href="#accounts">Ordering and Accounts</a><a href="#order">How to Order</a></div>')
+    H.append(GARMENT)
+    H.append(f'<div class="bh-section"><div class="bh-wrap"><h2>{s1head}</h2>'+''.join(f'<p>{p}</p>' for p in s1ps)+'</div></div>')
+    H.append(f'<div class="bh-section" id="range"><div class="bh-wrap"><h2>Hair, Beauty and Spa Workwear Range</h2><p>{s2intro} <a href="https://www.ineedworkwear.com">Browse the full range at iNeedWorkwear.com</a>.</p><p class="bh-btn-center"><a href="https://www.ineedworkwear.com" class="bh-section-btn">Browse The Range</a></p>{grid}</div></div>')
+    H.append(f'<div class="bh-section"><div class="bh-wrap"><h2>Branding for a One-Chair Barber or a Small Salon Team</h2>'+''.join(f'<p>{p}</p>' for p in emb)+'</div></div>')
+    H.append(emb_svg)
+    H.append(f'<div class="bh-wrap"><div class="bh-contract" id="contract"><h3>{CON_HEAD}</h3>'+''.join(f'<p>{p}</p>' for p in con)+'</div></div>')
+    H.append(sign_svg)
+    H.append(f'<div class="bh-section" id="accounts"><div class="bh-wrap"><h2>{ACC_HEAD}</h2>'+''.join(f'<p>{p}</p>' for p in acc)+'</div></div>')
+    H.append(prem_svg)
+    H.append(f'<div class="bh-section"><div class="bh-wrap"><h2>Why Salons, Barbers and Spas Choose iNeedWorkwear</h2>'+''.join(f'<p>{p}</p>' for p in why)+'</div></div>')
+    H.append(ORDER)
+    H.append(f'<div class="bh-section" id="order"><div class="bh-wrap"><h2>How to Order Salon and Spa Uniforms</h2><p>{ordr[0]}</p><p>{ordr[1]}</p><p>{ordr[2]}</p><p class="bh-btn-center"><a href="https://www.ineedworkwear.com" class="bh-section-btn">Browse And Order Online</a></p><p>{selfp}</p>'+CONTACT+'</div></div>')
+    faq_html=''.join(f'<div class="bh-faq-item"><div class="bh-faq-q">{q}</div><div class="bh-faq-a">{a}</div></div>' for q,a in faqs)
+    H.append(f'<div class="bh-faq"><div class="bh-wrap"><h2>Hair, Beauty and Spa Workwear FAQ</h2>{faq_html}</div></div>')
+    H.append(f'<div class="bh-wrap"><div class="bh-workwear">{sorted_}</div></div>')
+    nb_links=''.join(f'<a href="bh-{slugify(n)}.html">Salon and spa workwear in {n}</a>\n' for n in nearby)
+    H.append(f'<div class="bh-nearby"><div class="bh-wrap"><h3>Hair, Beauty and Spa Workwear in Nearby Towns</h3><div class="bh-nearby-links">{nb_links}</div></div></div>')
+    H.append(FOOTER+'\n</body></html>')
+    return '\n'.join(H)
+
+def main():
+    args=[a for a in sys.argv[1:]]
+    outdir = os.environ.get('BH_OUTDIR') or ('/mnt/user-data/outputs'
+             if os.path.isdir('/mnt/user-data/outputs') else 'outputs')
+    os.makedirs(outdir, exist_ok=True)
+    disp = {r[1].lower(): r[1] for r in _load_csv()}   # exact CSV spelling
+    if not args:
+        args=[t for t in TOWNS if t!='london']
+    for town_key in args:
+        tk=town_key.lower()
+        if tk=='london': continue
+        if tk not in TOWNS:
+            print(f"SKIP {town_key}: not in TOWNS (must be web-researched first)"); continue
+        town=disp.get(tk, ' '.join(w.capitalize() for w in tk.split()))
+        slug=f"bh-{slugify(town)}"
+        html=assemble(slug, town)
+        path=os.path.join(outdir, f"{slug}.html")
+        open(path,'w',encoding='utf-8').write(html)
+        print(f"WROTE {path}  ({len(html.split())} words approx)")
+
+if __name__=='__main__':
+    main()
