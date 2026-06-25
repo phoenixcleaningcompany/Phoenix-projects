@@ -1,0 +1,86 @@
+NEW = {
+ "sunderland": {
+  "region":"Sunderland and Tyne and Wear",
+  "nearby":["Gateshead","South Shields","Washington"],
+  "snapshot":"iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Sunderland, from the city-centre salons and barbers to the suburban high streets, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head":"Kitting the salons, barbers and spas of Wearside",
+  "s1loc":[
+   "Sunderland keeps its hair and beauty trade close to the city centre and the seafront suburbs. The barbers and salons of Sunniside and High Street West sit beside the City Campus chairs, while busy parades along Borough Road carry the everyday hair, nail and beauty rooms. Out from the middle, the coast road through Roker and Seaburn and the high streets of Houghton and Washington hold their own clusters of salons, barbershops and treatment rooms serving steady local custom.",
+   "The trade here is small and rooted in its neighbourhoods. The Sunniside barbers, the Borough Road salons, the seafront nail bars and beauty rooms around Roker, and the mobile beauticians and lash and brow technicians working across the estates are nearly all sole traders or small teams rather than chains. Almost every one of them puts staff in front of clients in something branded, and on Wearside how a salon looks is treated as part of the welcome.",
+  ],
+  "kit_loc":"across the city's salons, barber chairs and treatment rooms",
+  "s2_intro":"Whether you are a Sunniside salon, a Borough Road barber, a mobile beautician or a nail studio across Sunderland",
+ },
+ "swansea": {
+  "region":"Swansea and South Wales",
+  "nearby":["Neath","Llanelli","Port Talbot"],
+  "snapshot":"iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Swansea, from the Uplands salons and Mumbles spas to the city-centre barbers, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head":"Kitting the salons, barbers and spas of South Wales",
+  "s1loc":[
+   "Set between the city and the bay, Swansea spreads its hair and beauty trade across several distinct quarters. The Uplands carries a dense run of independent salons, barbers and beauty rooms along Uplands Crescent and Gower Road, while Mumbles and Newton Road hold the smarter salons and day spas looking over the bay. In the centre, the barbers and salons cluster around Wind Street and the city-centre arcades, and Sketty and Killay add their own busy suburban parades.",
+   "The Swansea trade is overwhelmingly independent and local. The Uplands salons, the Mumbles spas and beauty rooms, the Wind Street barbers and the Sketty nail bars are nearly all sole traders or small teams rather than chains, joined by mobile beauticians and aesthetics practitioners covering the bay and the Gower villages. Almost every one of them puts staff in front of clients in something branded, and looking the part is part of how a Swansea salon sells itself.",
+  ],
+  "kit_loc":"across the city's salons, barber chairs and treatment rooms",
+  "s2_intro":"Whether you are an Uplands salon, a Wind Street barber, a mobile beautician or a nail studio across Swansea",
+ },
+ "bolton": {
+  "region":"Bolton and Greater Manchester",
+  "nearby":["Bury","Wigan","Salford"],
+  "snapshot":"iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Bolton, from the town-centre salons to the suburban high streets, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head":"Kitting the salons, barbers and spas of the North West",
+  "s1loc":[
+   "Beyond the chains in the centre, Bolton runs a busy independent hair and beauty trade. The town-centre salons and barbers gather around Bradshawgate and Deansgate, while Chorley Old Road is a real cluster in its own right, lined with hair studios, beauty lounges and barbershops. Out from the middle, the high streets of Horwich, Farnworth and Bradshaw and the parades through Astley Bridge and Westhoughton carry the everyday salons, nail bars and beauty rooms that keep the trade ticking over.",
+   "It is a trade built on small, owner-run businesses. The Chorley Old Road salons, the Bradshawgate and Deansgate barbers, the suburban nail bars and beauty rooms around Horwich and Bradshaw, and the mobile beauticians and lash technicians working across the borough are nearly all sole traders or small teams, not chains. Almost every one of them puts staff in front of clients in something branded, because in Bolton a tidy uniform is how a new salon earns trust.",
+  ],
+  "kit_loc":"across the town's salons, barber chairs and treatment rooms",
+  "s2_intro":"Whether you are a Chorley Old Road salon, a Bradshawgate barber, a mobile beautician or a nail studio across Bolton",
+ },
+ "warrington": {
+  "region":"Warrington and Cheshire",
+  "nearby":["St Helens","Widnes","Runcorn"],
+  "snapshot":"iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Warrington, from the town-centre salons to the suburban high streets, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head":"Kitting the salons, barbers and spas of Cheshire",
+  "s1loc":[
+   "A busy Cheshire centre, Warrington splits its hair and beauty trade between the town and its smarter villages. The town-centre salons and barbers gather around Bridge Street, Sankey Street and the Golden Square, while Stockton Heath carries a dense run of independent salons, barbers and beauty rooms along London Road. South and east, Lymm and Grappenhall hold the boutique salons and day spas, and the high streets of Latchford and Padgate add their own everyday hair, nail and beauty rooms.",
+   "The trade across Warrington is largely independent and small. The Stockton Heath salons, the Bridge Street barbers, the Lymm boutique salons and beauty rooms, and the suburban nail bars around Latchford and Padgate are nearly all sole traders or small teams rather than chains, joined by mobile beauticians and aesthetics practitioners covering the villages. Almost every one of them puts staff in front of clients in something branded, and a sharp uniform is part of how a Warrington salon presents itself.",
+  ],
+  "kit_loc":"across the town's salons, barber chairs and treatment rooms",
+  "s2_intro":"Whether you are a Stockton Heath salon, a Bridge Street barber, a mobile beautician or a nail studio across Warrington",
+ },
+ "cambridge": {
+  "region":"Cambridge and Cambridgeshire",
+  "nearby":["Peterborough","Bishop's Stortford","Bedford"],
+  "snapshot":"iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Cambridge, from the city-centre salons to the suburban high streets, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head":"Kitting the salons, barbers and spas of Cambridgeshire",
+  "s1loc":[
+   "Cambridge packs a surprising amount of hair and beauty trade into a compact city. Mill Road is the standout, a long parade carrying salons, barbershops, nail bars and beauty rooms through Petersfield and Romsey, while the historic centre keeps its smarter salons around Rose Crescent, Green Street and King Street. Out from the middle, Cherry Hinton Road and the Grafton area hold busy suburban salons and beauty rooms, and the Grand Arcade carries the city-centre names.",
+   "For all its size, the trade is overwhelmingly independent. The Mill Road salons and barbers, the Rose Crescent and Green Street city-centre salons, the Cherry Hinton hair and beauty rooms, and the mobile beauticians and lash and brow technicians working across the colleges and suburbs are nearly all sole traders or small teams rather than chains. Almost every one of them puts staff in front of clients in something branded, and in Cambridge how a salon looks is part of the service it sells.",
+  ],
+  "kit_loc":"across the city's salons, barber chairs and treatment rooms",
+  "s2_intro":"Whether you are a Mill Road salon, a Rose Crescent barber, a mobile beautician or a nail studio across Cambridge",
+ },
+ "colchester": {
+  "region":"Colchester and Essex",
+  "nearby":["Ipswich","Chelmsford","Harlow"],
+  "snapshot":"iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Colchester, from the city-centre salons to the suburban high streets, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head":"Kitting the salons, barbers and spas of Essex",
+  "s1loc":[
+   "Colchester gathers its hair and beauty trade around the old town and its main shopping streets. Crouch Street is the real hub, a tight run of independent salons, barbers and beauty rooms, while the High Street and St Johns Street carry their own salons and barbershops beside the city-centre names. Out from the middle, Mile End Road and the parades through Lexden, Highwoods and Greenstead hold the everyday hair, nail and beauty rooms serving the surrounding estates and villages.",
+   "The trade here leans heavily on small, owner-run businesses. The Crouch Street salons and barbers, the High Street and St Johns Street hairdressers, the suburban nail bars and beauty rooms around Lexden and Highwoods, and the mobile beauticians and aesthetics practitioners covering the city and the garrison are nearly all sole traders or small teams, not chains. Almost every one of them puts staff in front of clients in something branded, and a smart uniform helps a Colchester salon stand out.",
+  ],
+  "kit_loc":"across the city's salons, barber chairs and treatment rooms",
+  "s2_intro":"Whether you are a Crouch Street salon, a High Street barber, a mobile beautician or a nail studio across Colchester",
+ },
+ "chelmsford": {
+  "region":"Chelmsford and Essex",
+  "nearby":["Brentwood","Basildon","Colchester"],
+  "snapshot":"iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Chelmsford, from the city-centre salons to the suburban high streets, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head":"Kitting the salons, barbers and spas of mid-Essex",
+  "s1loc":[
+   "Chelmsford spreads its hair and beauty trade between the shopping core and its older streets. Bond Street and the High Street carry the smarter city-centre salons beside the retail names, while Moulsham Street is a real independent run of salons, barbers and beauty rooms. East of the centre, Baddow Road and Great Baddow hold their own hair and nail rooms, and the parades through Springfield, Broomfield and Chelmer Village serve the surrounding suburbs with everyday salons and barbershops.",
+   "The trade across Chelmsford is largely small and independent. The Moulsham Street salons and barbers, the Bond Street city-centre salons, the Baddow Road hair and beauty rooms, and the mobile beauticians and lash and brow technicians working across Springfield and Chelmer Village are nearly all sole traders or small teams rather than chains. Almost every one of them puts staff in front of clients in something branded, and in Chelmsford a polished uniform is part of how a salon wins regulars.",
+  ],
+  "kit_loc":"across the city's salons, barber chairs and treatment rooms",
+  "s2_intro":"Whether you are a Moulsham Street salon, a Bond Street barber, a mobile beautician or a nail studio across Chelmsford",
+ },
+}

@@ -1,0 +1,86 @@
+NEW = {
+ "newcastle upon tyne": {
+  "region": "Newcastle upon Tyne and the North East",
+  "nearby": ["Gateshead", "Sunderland", "Cramlington"],
+  "snapshot": "iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Newcastle upon Tyne, from the Grainger Town city-centre salons to the Gosforth and Jesmond high streets, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head": "Kitting the salons, barbers and spas of Tyneside",
+  "s1loc": [
+   "Newcastle upon Tyne carries a dense, mostly independent salon scene. City-centre barbers, hair salons and day spas cluster through Grainger Town around Grainger Street and Grey Street, with more along Westgate Road and down towards the Quayside. The suburbs carry the real volume, though, with long parades of salons, barbers, nail bars and beauty rooms up Gosforth High Street, along Acorn Road and Osborne Road in Jesmond, and through the busy independent stretches of Heaton, Byker and Ouseburn out east.",
+   "And the trade here is overwhelmingly small and independent. The Grainger Street barbers, the Gosforth High Street salons, the Jesmond beauty rooms and nail bars around Acorn Road, the Ouseburn and Byker studios and the mobile beauticians and aesthetics practitioners working across Tyneside are nearly all sole traders or small teams rather than chains. Almost every one of them puts staff in front of clients in something branded, and how they look is part of the service.",
+  ],
+  "kit_loc": "across the city's salons, barber chairs and treatment rooms",
+  "s2_intro": "Whether you are a Jesmond salon, a Gosforth High Street barber, a mobile beautician or a nail studio across Newcastle upon Tyne",
+ },
+ "wolverhampton": {
+  "region": "Wolverhampton and the West Midlands",
+  "nearby": ["Dudley", "Walsall", "Bilston"],
+  "snapshot": "iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Wolverhampton, from the city-centre salons to the Tettenhall and Penn high streets, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head": "Outfitting the salons, barbers and spas of the Black Country",
+  "s1loc": [
+   "Set across the heart of the Black Country, Wolverhampton runs on independent salons rather than chains. City-centre barbers, hair salons and beauty rooms sit around School Street and Queen Square, with the Mander and Wulfrun centres pulling in nail bars and brow studios. The suburbs hold the real volume, with a dense village stretch of salons and barbers through Tettenhall, busy parades along Penn Road and out to Wednesfield, and long runs of Asian beauty parlours and bridal studios through Whitmore Reans.",
+   "And the trade is overwhelmingly small and independent. The Tettenhall village salons, the School Street and Queen Square barbers, the Whitmore Reans bridal and beauty parlours, the Penn and Wednesfield nail bars and the mobile beauticians and aesthetics practitioners working across the city are nearly all sole traders or small teams rather than chains. Each one puts staff in front of clients, and looking the part in something branded is simply part of the job.",
+  ],
+  "kit_loc": "across the city's salons, barber chairs and treatment rooms",
+  "s2_intro": "Whether you are a Tettenhall salon, a School Street barber, a mobile beautician or a nail studio across Wolverhampton",
+ },
+ "peterborough": {
+  "region": "Peterborough and Cambridgeshire",
+  "nearby": ["Spalding", "Stamford", "Corby"],
+  "snapshot": "iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Peterborough, from the Cathedral Square city-centre salons to the Werrington and Orton high streets, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head": "Workwear for the salons and barbers of Peterborough",
+  "s1loc": [
+   "Peterborough has a busy, mostly independent salon scene. City-centre hair salons, barbers and beauty rooms sit around Cathedral Square, Bridge Street and the Queensgate centre, while Lincoln Road in New England runs a long stretch of barbers, nail bars and bridal and beauty parlours. The suburbs carry the real volume, with thriving parades of salons, barbers and treatment rooms through Werrington village, out across the Ortons and Bretton, and along the high streets of Stanground and Paston to the north.",
+   "And the trade is overwhelmingly small and independent. The Cathedral Square salons, the Lincoln Road barbers and beauty parlours in New England, the Werrington village hairdressers, the Orton and Bretton nail bars and the mobile beauticians and aesthetics practitioners working across the city are nearly all sole traders or small teams rather than chains. Almost every one of them puts staff in front of clients in something branded, and how they look is part of the service.",
+  ],
+  "kit_loc": "across the city's salons, barber chairs and treatment rooms",
+  "s2_intro": "Whether you are a Werrington salon, a Lincoln Road barber, a mobile beautician or a nail studio across Peterborough",
+ },
+ "walsall": {
+  "region": "Walsall and the West Midlands",
+  "nearby": ["Wolverhampton", "West Bromwich", "Bloxwich"],
+  "snapshot": "iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Walsall, from the Park Street town-centre salons to the Bloxwich and Aldridge high streets, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head": "Kitting the salons, barbers and spas of the Black Country",
+  "s1loc": [
+   "Beyond the chains in the centre, Walsall runs on independent salons. Town-centre barbers, hair salons and beauty rooms sit around Park Street and Station Street, with nail bars and brow studios tucked into the Old Square and Saddlers shopping centre. The suburbs carry the real volume, with a long run of salons and barbers up Bloxwich High Street, busy independent parades through Aldridge and out to Brownhills, and a thick band of Asian beauty parlours, bridal studios and nail bars around Caldmore Green and Palfrey.",
+   "And the trade is overwhelmingly small and independent. The Park Street salons, the Bloxwich High Street barbers, the Caldmore Green and Palfrey bridal and beauty parlours, the Aldridge nail bars and the mobile beauticians and aesthetics practitioners working across the borough are nearly all sole traders or small teams rather than chains. Each one puts staff in front of clients, and looking the part in something branded is simply part of the job.",
+  ],
+  "kit_loc": "across the borough's salons, barber chairs and treatment rooms",
+  "s2_intro": "Whether you are a Bloxwich salon, a Park Street barber, a mobile beautician or a nail studio across Walsall",
+ },
+ "dundee": {
+  "region": "Dundee and the east of Scotland",
+  "nearby": ["Perth", "Arbroath", "Glenrothes"],
+  "snapshot": "iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Dundee, from the city-centre salons and day spas to the West End and Broughty Ferry high streets, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head": "Kitting the salons, barbers and spas of the east of Scotland",
+  "s1loc": [
+   "A major waterfront city, Dundee has a busy, mostly independent salon scene. City-centre hair salons, barbers and beauty rooms cluster around the Murraygate, the Wellgate and Reform Street, while the West End carries the volume up Perth Road, with salons and barbers running out through the university quarter. Down the coast Broughty Ferry packs a smart high street with hairdressers, beauty rooms, nail bars and small spas, and the suburban parades of Lochee and Hilltown add another band of independents.",
+   "And the trade is overwhelmingly small and independent. The Perth Road salons in the West End, the Murraygate and Reform Street barbers, the Broughty Ferry hairdressers and beauty rooms, the Lochee and Hilltown nail bars and the mobile beauticians and aesthetics practitioners working across the city are nearly all sole traders or small teams rather than chains. Almost every one of them puts staff in front of clients in something branded, and how they look is part of the service.",
+  ],
+  "kit_loc": "across the city's salons, barber chairs and treatment rooms",
+  "s2_intro": "Whether you are a Broughty Ferry salon, a Perth Road barber, a mobile beautician or a nail studio across Dundee",
+ },
+ "solihull": {
+  "region": "Solihull and the West Midlands",
+  "nearby": ["Birmingham", "Sutton Coldfield", "Redditch"],
+  "snapshot": "iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Solihull, from the Mell Square town-centre salons to the Knowle and Dorridge high streets, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head": "Workwear for the salons, barbers and spas of Solihull",
+  "s1loc": [
+   "Solihull runs on smart independent high streets rather than chains. Town-centre hair salons, barbers and day spas sit around Mell Square, Mill Lane and the Touchwood centre, with nail bars and aesthetics clinics threading through Drury Lane and the Poplar Road quarter. The villages carry the rest, with polished salons, beauty rooms and barbers through Knowle High Street and Station Road, busy parades along Stratford Road in Shirley, and independent hairdressers and treatment rooms out in Dorridge, Solihull Lodge and Dickens Heath.",
+   "And the trade is overwhelmingly small and independent. The Mell Square salons, the Knowle High Street hairdressers, the Shirley and Stratford Road barbers, the Dorridge and Dickens Heath beauty rooms and nail bars and the mobile beauticians and aesthetics practitioners working across the borough are nearly all sole traders or small teams rather than chains. Almost every one of them puts staff in front of clients in something branded, and how they look is part of the service.",
+  ],
+  "kit_loc": "across the borough's salons, barber chairs and treatment rooms",
+  "s2_intro": "Whether you are a Knowle salon, a Mell Square barber, a mobile beautician or a nail studio across Solihull",
+ },
+ "crawley": {
+  "region": "Crawley and West Sussex",
+  "nearby": ["Horsham", "Horley", "Redhill"],
+  "snapshot": "iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Crawley, from the Queens Square town-centre salons to the Three Bridges and Ifield high streets, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head": "Kitting out the salons, barbers and spas of West Sussex",
+  "s1loc": [
+   "Crawley has a busy, mostly independent salon scene spread across its neighbourhoods. Town-centre hair salons, barbers and beauty rooms sit around Queens Square, The Boulevard and the County Mall, while the surrounding neighbourhoods carry the volume. Three Bridges runs a tidy parade of salons, barbers and nail bars near the station, Northgate and West Green hold their own clusters of hairdressers and treatment rooms, and independent salons and beauty rooms thrive out through Ifield, Gossops Green and Pound Hill.",
+   "And the trade is overwhelmingly small and independent. The Queens Square salons, the Three Bridges barbers, the Northgate and West Green beauty rooms, the Ifield and Gossops Green nail bars and the mobile beauticians and aesthetics practitioners working across the town are nearly all sole traders or small teams rather than chains. Almost every one of them puts staff in front of clients in something branded, and how they look is part of the service.",
+  ],
+  "kit_loc": "across the town's salons, barber chairs and treatment rooms",
+  "s2_intro": "Whether you are a Three Bridges salon, a Queens Square barber, a mobile beautician or a nail studio across Crawley",
+ },
+}
