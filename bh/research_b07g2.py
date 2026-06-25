@@ -1,0 +1,86 @@
+NEW = {
+ "glossop": {
+  "region":"Glossop and the High Peak",
+  "nearby":["Hyde","Stalybridge","Buxton"],
+  "snapshot":"iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Glossop, from the Norfolk Square salons and High Street West treatment rooms to the Hadfield barbers and Old Glossop parades, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head":"Kitting the salons, barbers and spas of the High Peak",
+  "s1loc":[
+   "Glossop is a Victorian mill town on the Derbyshire edge of Greater Manchester, and its salon trade keeps to a compact centre around Norfolk Square and the High Street. Hair salons, barbers and beauty rooms line High Street West and High Street East, Norfolk Street and Henry Street, with treatment rooms tucked into the renovated mills and the Town Hall arcade. Beyond the centre the volume sits out in Hadfield along Station Road, in Padfield and Simmondley, and in the older streets around Old Glossop.",
+   "The operator mix here is small and owner-run. The High Street West and Norfolk Street hairdressers, the town-centre barbers and threading studios, the nail bars and beauty rooms scattered through Hadfield and Simmondley, and the mobile beauticians covering the Glossopdale valleys are overwhelmingly sole traders or two-chair teams rather than chains. Almost every one of them puts staff in front of clients in something branded, and a tidy tunic or polo is part of how a Peak-edge salon presents itself.",
+  ],
+  "kit_loc":"across the town's salons, barber chairs and treatment rooms",
+  "s2_intro":"Whether you are a Norfolk Square salon, a Hadfield barber, a mobile beautician or a nail studio across Glossop",
+ },
+ "windsor": {
+  "region":"Windsor and Berkshire",
+  "nearby":["Maidenhead","Slough","Bracknell"],
+  "snapshot":"iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Windsor, from the Peascod Street salons and town-centre day spas to the Dedworth barbers and Eton parades, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head":"Kitting the salons, barbers and spas of royal Berkshire",
+  "s1loc":[
+   "Set beneath the castle on the Thames, Windsor carries a busy, presentation-led salon scene in a tight town centre. Hair salons, barbers and beauty rooms cluster along Peascod Street, Victoria Street and the lanes off the High Street, with aesthetics clinics, nail studios and waxing rooms sharing space inside the larger Peascod Street salons. The pattern carries over the bridge into Eton High Street and out west towards Dedworth Road and Clewer, where neighbourhood parades hold their own chairs and treatment rooms.",
+   "The trade here is small, polished and independent. The Peascod Street and Victoria Street hairdressers, the Dedworth Road and Eton barbers, the nail bars and aesthetics rooms tucked through the centre and out in Clewer, and the mobile beauticians covering Windsor and Old Windsor are nearly all sole traders or small teams rather than chains. Almost every one puts staff in front of clients in something branded, and a smart tunic or polo is part of the welcome a Windsor salon trades on.",
+  ],
+  "kit_loc":"across the town's salons, barber chairs and treatment rooms",
+  "s2_intro":"Whether you are a Peascod Street salon, a Dedworth barber, a mobile beautician or a nail studio across Windsor",
+ },
+ "chichester": {
+  "region":"Chichester and West Sussex",
+  "nearby":["Bognor Regis","Worthing","Havant"],
+  "snapshot":"iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Chichester, from the North Street salons and city-centre day spas to the East Street barbers and West Street parades, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head":"Kitting the salons, barbers and spas of West Sussex",
+  "s1loc":[
+   "A Roman cathedral city, Chichester runs its salon trade along the four cross streets that meet at the Market Cross. Hair salons, barbers and beauty rooms line North Street, South Street, East Street and West Street, with multi-floor hairdressing-and-beauty houses in the Georgian townhouses and treatment rooms tucked into the Little London and the Crooked Lane side alleys. The pattern spreads out to the parades in Whyke, Summersdale and Fishbourne, and along the Bognor Road towards the harbour villages.",
+   "The trade here is mostly small and independent. The North Street and West Street salons, the East Street and South Street barbers, the nail bars and beauty rooms scattered through the side lanes and the Whyke and Summersdale parades, and the mobile beauticians working across Chichester and the Manhood peninsula are nearly all sole traders or small teams rather than chains. Each of them faces clients every day, and a clean branded tunic or polo is part of how a cathedral-city salon looks the part.",
+  ],
+  "kit_loc":"across the city's salons, barber chairs and treatment rooms",
+  "s2_intro":"Whether you are a North Street salon, an East Street barber, a mobile beautician or a nail studio across Chichester",
+ },
+ "ruislip": {
+  "region":"Ruislip and the London Borough of Hillingdon",
+  "nearby":["Uxbridge","Hayes","Harrow"],
+  "snapshot":"iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Ruislip, from the High Street salons and Field End Road treatment rooms to the Ruislip Manor barbers and Eastcote parades, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head":"Kitting the salons, barbers and spas of west London",
+  "s1loc":[
+   "Beyond the chains, Ruislip is a comfortable Hillingdon suburb whose salon trade strings along several Metro-land parades rather than one centre. Hair salons, barbers and beauty rooms gather on Ruislip High Street near the village, along Victoria Road in West Ruislip, and down Field End Road in Eastcote, with a dense run of chairs around Ruislip Manor station. Nail bars, waxing rooms and aesthetics clinics share these parades, and the pattern carries on towards Northwood Hills and Ickenham.",
+   "The operator mix is small, local and independent. The High Street and Field End Road hairdressers, the Ruislip Manor and Eastcote barbers, the nail bars and beauty rooms dotted along Victoria Road and the surrounding parades, and the mobile beauticians and aesthetics practitioners covering Ruislip and the wider Hillingdon estates are nearly all sole traders or small teams rather than chains. Almost every one puts staff in front of clients in something branded, and how the team looks is part of the service.",
+  ],
+  "kit_loc":"across the town's salons, barber chairs and treatment rooms",
+  "s2_intro":"Whether you are a High Street salon, a Ruislip Manor barber, a mobile beautician or a nail studio across Ruislip",
+ },
+ "bramhall": {
+  "region":"Bramhall and Greater Manchester",
+  "nearby":["Stockport","Wilmslow","Macclesfield"],
+  "snapshot":"iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Bramhall, from the Bramhall Lane South salons and village-centre treatment rooms to the Ack Lane barbers and Woodford parades, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head":"Kitting the salons, barbers and spas of Stockport",
+  "s1loc":[
+   "Bramhall is a prosperous village in the Stockport borough of Greater Manchester, and its salon trade gathers around a compact, affluent centre. Hair salons, barbers and beauty rooms line Bramhall Lane South and Ack Lane East near the precinct, with more chairs and treatment rooms along Moss Lane and around the village square. The pattern carries on towards Bramhall North and Woodford, and out to the neighbouring parades in Cheadle Hulme and Hazel Grove, where nail bars and aesthetics rooms sit among the shopfronts.",
+   "The operator mix here is small and owner-run. The Bramhall Lane South and Ack Lane hairdressers, the village barbers and grooming rooms, the nail bars and beauty studios tucked through the precinct and out in Cheadle Hulme and Woodford, and the mobile beauticians covering the Bramhall and Poynton estates are overwhelmingly sole traders or small teams rather than chains. Almost every one of them puts staff in front of clients in something branded, and a tidy tunic or polo is part of how a village salon presents itself.",
+  ],
+  "kit_loc":"across the village's salons, barber chairs and treatment rooms",
+  "s2_intro":"Whether you are a Bramhall Lane South salon, an Ack Lane barber, a mobile beautician or a nail studio across Bramhall",
+ },
+ "wishaw": {
+  "region":"Wishaw and North Lanarkshire",
+  "nearby":["Motherwell","Hamilton","Bellshill"],
+  "snapshot":"iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Wishaw, from the Main Street salons and town-centre treatment rooms to the Kirk Road barbers and surrounding parades, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head":"Kitting the salons, barbers and spas of North Lanarkshire",
+  "s1loc":[
+   "A busy North Lanarkshire town, Wishaw packs much of its salon trade into a long town-centre spine. Hair salons, barbers and beauty rooms concentrate along Main Street and Kirk Road, with more chairs around the Belhaven and Stewarton Street junctions and out by the Caledonian Road shops. The pattern runs into the adjoining streets and out towards the Gowkthrapple, Craigneuk and Coltness estates, where neighbourhood parades carry their own barbers, nail bars and treatment rooms close to the Motherwell boundary.",
+   "Nearly all of it is small and owner-run. The Main Street and Kirk Road hairdressers, the town-centre barbers and Turkish grooming rooms, the nail bars and beauty rooms tucked through the centre and the surrounding estates, and the mobile beauticians covering Wishaw and the wider Lanarkshire valleys are overwhelmingly sole traders or small teams rather than chains. Each of them faces clients every day, and a clean branded tunic or polo is part of how a Lanarkshire salon looks the part.",
+  ],
+  "kit_loc":"across the town's salons, barber chairs and treatment rooms",
+  "s2_intro":"Whether you are a Main Street salon, a Kirk Road barber, a mobile beautician or a nail studio across Wishaw",
+ },
+ "frome": {
+  "region":"Frome and Somerset",
+  "nearby":["Trowbridge","Melksham","Bath"],
+  "snapshot":"iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Frome, from the Catherine Hill salons and Cheap Street treatment rooms to the Stony Street barbers and Bath Street parades, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head":"Kitting the salons, barbers and spas of Somerset",
+  "s1loc":[
+   "Frome is an independent-minded Somerset market town, and its salon trade clusters across a network of historic, mostly cobbled streets. Hair salons, barbers and beauty rooms sit along Catherine Hill, Cheap Street, Stony Street and Bath Street, with treatment rooms and nail studios tucked among the independent shopfronts of the artisan quarter and King Street. Beyond the old town the volume spreads to the parades around the Market Place and out to the Keyford, Berkley and Vallis estates.",
+   "The trade here is overwhelmingly small and independent. The Catherine Hill and Cheap Street hairdressers, the Stony Street and Bath Street barbers, the nail bars and beauty rooms scattered through the artisan streets and the wider town, and the mobile beauticians and aesthetics practitioners covering Frome and the surrounding Somerset villages are nearly all sole traders or small teams rather than chains. Almost every one puts staff in front of clients in something branded, and how the team looks is part of the welcome.",
+  ],
+  "kit_loc":"across the town's salons, barber chairs and treatment rooms",
+  "s2_intro":"Whether you are a Catherine Hill salon, a Stony Street barber, a mobile beautician or a nail studio across Frome",
+ },
+}
