@@ -1,0 +1,86 @@
+NEW = {
+    "sedgley": {
+        "region": "Sedgley and the Black Country",
+        "nearby": ["Dudley", "Tipton", "Bilston"],
+        "snapshot": "iNeedWorkwear supplies branded scrubs, tunics, polos, fleeces, waterproofs and safety footwear to vet practices, veterinary nurses, kennels, catteries, dog groomers and equine yards across Sedgley, from the high-street surgeries to the boarding kennels on the rural edge, embroidered in-house with the practice name. Veterinary and animal care is mostly small practices and sole traders, so the quickest route is to order direct online with no account, while a larger practice or group can set up a trade account.",
+        "s1_head": "Kitting the practices, kennels and yards of the Black Country",
+        "s1loc": [
+            "Sedgley sits on the ridge between Dudley and Wolverhampton, and its animal-care trade is busier than the small town centre suggests. Blacks Vets has run a Dudley Road practice here for decades, with St George's Vets covering the wider patch, while Woodfarm Kennels and Cattery boards cats and dogs out toward the green edge. Around them work salon and mobile dog groomers serving Sedgley, Coseley and the Gornals, plus small rescues and pet-care rounds across the hilltop suburbs.",
+            "What ties it together is scale. The branch surgeries, the one-van groomers covering Upper Gornal and Gornal Wood, the family-run kennels and the smallholding owners on the Sedgley fringe are nearly all small teams or sole traders, not chains. Each one greets a worried owner in the consulting room one minute and is hosing down a kennel run or loading a van the next, so the kit has to wash hot and clean and still hold up to the hands-on outdoor side.",
+        ],
+        "kit_loc": "across the town's consulting rooms, kennels and yards",
+        "s2_intro": "Whether you are an independent practice on Dudley Road, a boarding kennels toward the Gornals, a mobile groomer or a smallholding owner around Sedgley",
+    },
+    "congleton": {
+        "region": "Congleton and east Cheshire",
+        "nearby": ["Biddulph", "Kidsgrove", "Sandbach"],
+        "snapshot": "iNeedWorkwear supplies branded scrubs, tunics, polos, fleeces, waterproofs and safety footwear to vet practices, veterinary nurses, kennels, catteries, dog groomers and equine yards across Congleton, from the town-centre clinics to the farm and equine work on the Cheshire edge, embroidered in-house with the practice name. Veterinary and animal care is mostly small practices and sole traders, so the quickest route is to order direct online with no account, while a larger practice or group can set up a trade account.",
+        "s1_head": "Kitting the practices, kennels and yards of east Cheshire",
+        "s1loc": [
+            "Set between the Cheshire plain and the moorland edge, Congleton carries a notably mixed animal-care scene. Congleton Vets works from West Heath Retail Park, with Congleton Veterinary Centre and Charter Veterinary Surgeons in town, while Wright and Morten and Tom Walters cover equine and farm work out across the surrounding country. Boarding kennels and catteries sit on the rural fringe toward Biddulph Moor and Astbury, with salon and mobile groomers and small rescues across the wider district.",
+            "The operators here split clinical and outdoor work in equal measure. A small-animal clinic on the retail park, a mobile groomer covering the villages, a farm-and-equine vet on call across the dairy country and a livery yard up toward the moor are mostly compact teams and sole traders. One job is spotless consulting-room work facing an anxious owner, the next is a muddy stable visit or a wet morning in the kennels, so the uniform has to do both without complaint.",
+        ],
+        "kit_loc": "across the town's consulting rooms, kennels and yards",
+        "s2_intro": "Whether you are an independent practice at West Heath, a boarding kennels toward Astbury, a mobile groomer or an equine yard across Congleton",
+    },
+    "bloxwich": {
+        "region": "Bloxwich and the Walsall area",
+        "nearby": ["Walsall", "Willenhall", "Cannock"],
+        "snapshot": "iNeedWorkwear supplies branded scrubs, tunics, polos, fleeces, waterproofs and safety footwear to vet practices, veterinary nurses, kennels, catteries, dog groomers and equine yards across Bloxwich, from the local surgeries to the boarding kennels on the northern edge, embroidered in-house with the practice name. Veterinary and animal care is mostly small practices and sole traders, so the quickest route is to order direct online with no account, while a larger practice or group can set up a trade account.",
+        "s1_head": "Kitting the practices, kennels and yards of the Walsall area",
+        "s1loc": [
+            "Beyond the chains on the High Street, Bloxwich has a steady run of animal-care work north of Walsall. Bloxwich Veterinary Centre on Wallington Heath has long served the area alongside White Cross Vets, both handling routine and emergency care for the surrounding estates. Around them work salon and mobile dog groomers, small rescues and pet-care rounds, with boarding kennels and catteries and a scatter of paddocks and pony yards out toward the canal country and the Cannock fringe.",
+            "Independence is the rule rather than the exception here. The branch surgeries, the single-chair grooming rooms, the family kennels and the small yards around Bloxwich, Pelsall and Brownhills are mostly run by small teams or sole traders. They move between reassuring an owner in a clean consulting room and working hands-on in the runs, vans and paddocks, so the workwear has to look right under the clinic lights and still cope with a cold, wet outdoor shift.",
+        ],
+        "kit_loc": "across the town's consulting rooms, kennels and yards",
+        "s2_intro": "Whether you are an independent practice on Wallington Heath, a boarding kennels toward Pelsall, a mobile groomer or a pony yard around Bloxwich",
+    },
+    "whitehaven": {
+        "region": "Whitehaven and west Cumbria",
+        "nearby": ["Workington", "Carlisle", "Penrith"],
+        "snapshot": "iNeedWorkwear supplies branded scrubs, tunics, polos, fleeces, waterproofs and safety footwear to vet practices, veterinary nurses, kennels, catteries, dog groomers and equine yards across Whitehaven, from the harbour-town surgeries to the hill farms on the fellside, embroidered in-house with the practice name. Veterinary and animal care is mostly small practices and sole traders, so the quickest route is to order direct online with no account, while a larger practice or group can set up a trade account.",
+        "s1_head": "Kitting the practices, kennels and yards of west Cumbria",
+        "s1loc": [
+            "A harbour town on the west Cumbrian coast, Whitehaven sits well away from any city, so it leans on its own animal-care network. West Lakeland Veterinary Group runs a long-established mixed practice here, covering small animals, equine and farm work and training nurses, with The Vet Whitehaven independent at Hensingham. Boarding kennels and catteries gather on the fellside toward Cleator and Egremont, the Whitehouse and Tutehill among them, and groomers and rescues serve the town and the villages around it.",
+            "Out here the outdoor side carries real weight. The town clinic, the lone groomer, the kennels at Cleator and the hill farms and livery yards running up toward Dent Fell and the Lakeland edge are almost all small teams and sole traders working a wide rural patch. A consult facing an anxious owner can be followed by a lambing call or a wet stable round, so the kit has to be clinically clean indoors and genuinely weatherproof on the fells.",
+        ],
+        "kit_loc": "across the town's consulting rooms, kennels and yards",
+        "s2_intro": "Whether you are an independent practice in Hensingham, a boarding kennels toward Cleator, a mobile groomer or a hill farm around Whitehaven",
+    },
+    "newton aycliffe": {
+        "region": "Newton Aycliffe and County Durham",
+        "nearby": ["Bishop Auckland", "Darlington", "Spennymoor"],
+        "snapshot": "iNeedWorkwear supplies branded scrubs, tunics, polos, fleeces, waterproofs and safety footwear to vet practices, veterinary nurses, kennels, catteries, dog groomers and equine yards across Newton Aycliffe, from the town clinics to the farm and equine work on the County Durham edge, embroidered in-house with the practice name. Veterinary and animal care is mostly small practices and sole traders, so the quickest route is to order direct online with no account, while a larger practice or group can set up a trade account.",
+        "s1_head": "Kitting the practices, kennels and yards of County Durham",
+        "s1loc": [
+            "A post-war new town between Darlington and Bishop Auckland, Newton Aycliffe backs straight onto open County Durham farmland. Wilson Veterinary Group runs a busy practice on Greenwell Road with its own climate-controlled boarding kennels and grooming, while Sore Paws is a family-run independent clinic in the town. Around them sit salon and mobile groomers, small rescues and pet-care rounds, with farms, smallholdings and livery yards spread across the country toward Heighington and Shildon.",
+            "The animal-care trade here runs mostly on small, local operators. The town surgery, the one-van groomer, the family kennels and the farms and pony yards on the surrounding fields are largely small teams and sole traders rather than chains. Each moves between reassuring an owner in a spotless consulting room and hands-on work in the kennels, vans and stables, so the uniform has to wash hot and stay smart while standing up to a cold and muddy outdoor shift.",
+        ],
+        "kit_loc": "across the town's consulting rooms, kennels and yards",
+        "s2_intro": "Whether you are an independent practice on Greenwell Road, a boarding kennels toward Heighington, a mobile groomer or an equine yard around Newton Aycliffe",
+    },
+    "upminster": {
+        "region": "Upminster and the London Borough of Havering",
+        "nearby": ["Hornchurch", "Romford", "Grays Thurrock"],
+        "snapshot": "iNeedWorkwear supplies branded scrubs, tunics, polos, fleeces, waterproofs and safety footwear to vet practices, veterinary nurses, kennels, catteries, dog groomers and equine yards across Upminster, from the suburban clinics to the livery yards on the green-belt edge, embroidered in-house with the practice name. Veterinary and animal care is mostly small practices and sole traders, so the quickest route is to order direct online with no account, while a larger practice or group can set up a trade account.",
+        "s1_head": "Kitting the practices, kennels and yards of Havering",
+        "s1loc": [
+            "On the eastern rim of London where Havering meets the Essex green belt, Upminster pairs a busy suburb with real open country. Ivy Lodge Vets and Ace Vets Cranham serve the town, with the Wylie Veterinary Centre running a 24-hour RCVS-accredited hospital nearby. Out past the houses sit working livery yards such as Hacton Park Corner Farm and Upminster Lodge Farm, while salon and mobile dog groomers cover Cranham, Emerson Park and the streets toward Hornchurch.",
+            "For all the London postcode, the operators stay small and local. The independent clinics, the single-van groomers, the family kennels and the DIY and grass livery yards on the M25 fringe are mostly compact teams and sole traders. One part of the day is calm, clean consulting-room work in front of an anxious owner, the next is mucking out a stable block or a wet round in the kennels, so the workwear has to look sharp indoors and shrug off the outdoor side.",
+        ],
+        "kit_loc": "across the town's consulting rooms, kennels and yards",
+        "s2_intro": "Whether you are an independent practice in Cranham, a boarding kennels toward Hornchurch, a mobile groomer or a livery yard at Hacton around Upminster",
+    },
+    "oadby": {
+        "region": "Oadby and Leicestershire",
+        "nearby": ["Leicester", "Market Harborough", "Hinckley"],
+        "snapshot": "iNeedWorkwear supplies branded scrubs, tunics, polos, fleeces, waterproofs and safety footwear to vet practices, veterinary nurses, kennels, catteries, dog groomers and equine yards across Oadby, from the suburban surgeries to the farm and equine work on the Leicestershire edge, embroidered in-house with the practice name. Veterinary and animal care is mostly small practices and sole traders, so the quickest route is to order direct online with no account, while a larger practice or group can set up a trade account.",
+        "s1_head": "Kitting the practices, kennels and yards of Leicestershire",
+        "s1loc": [
+            "Just southeast of Leicester on the A6, Oadby is a leafy suburb that quickly gives way to open Leicestershire country. Vets4Pets on Oadby Road and Medivet on Stoughton Road handle the town's small-animal work, with custom kennels and nurse clinics between them, and bigger Leicester practices a short hop away. Around them work salon and mobile dog groomers, small rescues and pet-care rounds, with farms, smallholdings and pony and livery yards out toward Great Glen and the Gartree villages.",
+            "Scale here favours the small operator. The suburban surgeries, the one-chair grooming rooms, the family kennels and the livery and smallholding owners on the rural edge are mostly small teams or sole traders, not national names. Their day swings between reassuring an owner in a clean consulting room and hands-on work in the runs, vans and stables, so the kit has to keep its clinical look indoors and take a cold, muddy outdoor shift in its stride.",
+        ],
+        "kit_loc": "across the town's consulting rooms, kennels and yards",
+        "s2_intro": "Whether you are an independent practice on Stoughton Road, a boarding kennels toward Great Glen, a mobile groomer or an equine yard around Oadby",
+    },
+}
