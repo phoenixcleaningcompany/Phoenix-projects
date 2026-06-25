@@ -1,0 +1,86 @@
+NEW = {
+ "falmouth": {
+  "region":"Falmouth and Cornwall",
+  "nearby":["Truro","Camborne","Newquay"],
+  "snapshot":"iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Falmouth, from the town-centre salons and harbour-hotel spas to the Penryn high-street parades, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head":"Kitting the salons, barbers and spas of the Cornish coast",
+  "s1loc":[
+   "A busy harbour town, Falmouth threads its salon trade along one long curving main street. Hair salons, barbers and beauty rooms sit through Church Street, Market Street and Arwenack Street, with more hairdressers and barbershops up Killigrew Street and along the High Street towards The Moor. Beauty salons, nail bars and tanning studios fill the side lanes off the centre, while the harbour and seafront hotels carry the day-spa tier looking over the water and out to Pendennis.",
+   "And the trade is overwhelmingly small and independent. The Church Street and Market Street salons, the Killigrew Street barbers, the High Street beauty rooms and nail bars, the hotel spas along the waterfront and the home-based beauticians and lash technicians working out through Penryn and the Penwith villages are nearly all sole traders or small teams rather than chains. Almost every one of them puts staff in front of clients in something branded, and looking the part is part of the service.",
+  ],
+  "kit_loc":"across the town's salons, barber chairs and treatment rooms",
+  "s2_intro":"Whether you are a Church Street salon, a Killigrew Street barber, a mobile beautician or a nail studio across Falmouth",
+ },
+ "rawtenstall": {
+  "region":"Rawtenstall and Rossendale",
+  "nearby":["Accrington","Bury","Burnley"],
+  "snapshot":"iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Rawtenstall, from the Bank Street town-centre salons to the Bacup Road parades in Waterfoot, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head":"Kitting the salons, barbers and spas of the Rossendale Valley",
+  "s1loc":[
+   "Set in the Rossendale Valley, Rawtenstall runs its salon trade through a compact stone-built centre. Bank Street is the spine, with hair salons, barbers and beauty rooms along the run, while Bacup Road carries more salons and barbershops out towards Waterfoot, and Kay Street, Newchurch Road and the streets around the bus station hold further hairdressers and nail bars. The valley villages of Waterfoot, Crawshawbooth and Haslingden each add their own small clusters of independent salons and treatment rooms.",
+   "It is a trade built on small, owner-run businesses. The Bank Street salons and barbers, the Bacup Road hairdressers in Waterfoot, the Newchurch Road and Kay Street beauty rooms and nail bars, the Haslingden and Crawshawbooth high-street salons and the mobile beauticians and lash technicians covering the valley are nearly all sole traders or small teams rather than chains. Almost every one of them puts staff in front of clients in something branded, and in Rossendale a tidy uniform is how a salon earns trust.",
+  ],
+  "kit_loc":"across the town's salons, barber chairs and treatment rooms",
+  "s2_intro":"Whether you are a Bank Street salon, a Bacup Road barber, a mobile beautician or a nail studio across Rawtenstall",
+ },
+ "crowborough": {
+  "region":"Crowborough and East Sussex",
+  "nearby":["Tunbridge Wells","East Grinstead","Haywards Heath"],
+  "snapshot":"iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Crowborough, from the Croft Road town-centre salons to The Broadway and Beacon Road parades, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head":"Workwear for the salons, barbers and spas of the High Weald",
+  "s1loc":[
+   "High on the edge of Ashdown Forest, Crowborough gathers its salon trade around a tidy town centre. Croft Road holds a real cluster of barbers and hair salons near the crossroads, while The Broadway and the High Street parades carry more hairdressers, beauty rooms and nail bars, and Beacon Road adds further salons towards the station. The surrounding Weald villages of Jarvis Brook, Rotherfield and Mark Cross each keep their own small runs of independent hairdressers and treatment rooms.",
+   "The trade here is small and rooted in its neighbourhoods. The Croft Road salons and barbers, the Broadway hairdressers, the High Street beauty rooms and nail bars, the Beacon Road studios and the home-based beauticians and aesthetics practitioners working across the forest villages are nearly all sole traders or small teams rather than chains. Almost every one of them puts staff in front of clients in something branded, and how a Crowborough salon looks is treated as part of the welcome.",
+  ],
+  "kit_loc":"across the town's salons, barber chairs and treatment rooms",
+  "s2_intro":"Whether you are a Croft Road salon, a Broadway barber, a mobile beautician or a nail studio across Crowborough",
+ },
+ "horwich": {
+  "region":"Horwich and Greater Manchester",
+  "nearby":["Bolton","Chorley","Wigan"],
+  "snapshot":"iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Horwich, from the Winter Hey Lane salons to the Lee Lane parades, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head":"Kitting the salons, barbers and spas of the West Pennine moors",
+  "s1loc":[
+   "Beyond the chains, Horwich runs a busy independent hair and beauty trade through two long shopping streets. Winter Hey Lane is the heart of it, with hair salons, barbers and beauty rooms packed along the pedestrianised run, while Lee Lane carries another dense stretch of hairdressers, barbershops and nail bars up towards the centre. Chorley New Road and the parades out towards Blackrod and Middlebrook add further salons and treatment rooms below the West Pennine moors.",
+   "It is a trade built on small, owner-run businesses. The Winter Hey Lane salons and beauty rooms, the Lee Lane barbers and hairdressers, the Chorley New Road studios, the Blackrod high-street salons and the mobile beauticians and lash technicians working across the moor-edge estates are nearly all sole traders or small teams rather than chains. Almost every one of them puts staff in front of clients in something branded, because a tidy uniform is how a Horwich salon earns trust.",
+  ],
+  "kit_loc":"across the town's salons, barber chairs and treatment rooms",
+  "s2_intro":"Whether you are a Winter Hey Lane salon, a Lee Lane barber, a mobile beautician or a nail studio across Horwich",
+ },
+ "poulton-le-fylde": {
+  "region":"Poulton-le-Fylde and the Fylde coast",
+  "nearby":["Thornton Cleveleys","Blackpool","Fleetwood"],
+  "snapshot":"iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Poulton-le-Fylde, from the Market Place town-centre salons to the Breck Road and Tithebarn Street parades, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head":"Kitting the salons, barbers and spas of the Fylde",
+  "s1loc":[
+   "A smart market town on the Fylde, Poulton-le-Fylde keeps its salon trade close to a compact historic centre. Market Place and the streets around it hold barbers and hair salons, while Tithebarn Street and Chapel Street carry more hairdressers, beauty rooms and nail bars, and Breck Road runs a parade of salons and barbershops out towards the station. The surrounding districts of Carleton, Hardhorn and Singleton add their own small clusters of independent hairdressers and treatment rooms.",
+   "And the trade is overwhelmingly small and independent. The Market Place barbers and salons, the Tithebarn Street and Chapel Street beauty rooms, the Breck Road hairdressers and nail bars, the long-running family barbershops in the town centre and the mobile beauticians and lash technicians covering the Fylde villages are nearly all sole traders or small teams rather than chains. Almost every one of them puts staff in front of clients in something branded, and looking the part is part of the service.",
+  ],
+  "kit_loc":"across the town's salons, barber chairs and treatment rooms",
+  "s2_intro":"Whether you are a Market Place salon, a Breck Road barber, a mobile beautician or a nail studio across Poulton-le-Fylde",
+ },
+ "bingley": {
+  "region":"Bingley and West Yorkshire",
+  "nearby":["Shipley","Keighley","Bradford"],
+  "snapshot":"iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Bingley, from the Main Street town-centre salons to the Cottingley and Gilstead parades, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head":"Outfitting the salons, barbers and spas of the Aire Valley",
+  "s1loc":[
+   "Set in the Aire Valley, Bingley runs its salon trade along a busy main spine. Main Street carries the densest run of hair salons, barbers and beauty rooms through the centre, with more hairdressers and nail bars around Myrtle Walk, Chapel Lane and Park Road. The surrounding villages each hold their own clusters, with barbers and salons through Cottingley and Crossflatts, and independent hairdressers and treatment rooms out in Gilstead, Eldwick and Harden above the valley floor.",
+   "And the trade is overwhelmingly small and independent. The Main Street salons and barbers, the Park Road and Chapel Lane beauty rooms and nail bars, the Cottingley and Crossflatts hairdressers, the Gilstead and Eldwick village salons and the mobile beauticians and aesthetics practitioners covering the Aire Valley are nearly all sole traders or small teams rather than chains. Each one puts staff in front of clients, and looking the part in something branded is simply part of the job.",
+  ],
+  "kit_loc":"across the town's salons, barber chairs and treatment rooms",
+  "s2_intro":"Whether you are a Main Street salon, a Park Road barber, a mobile beautician or a nail studio across Bingley",
+ },
+ "maesteg": {
+  "region":"Maesteg and South Wales",
+  "nearby":["Bridgend","Port Talbot","Neath"],
+  "snapshot":"iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Maesteg, from the Talbot Street town-centre salons to the Commercial Street parades, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head":"Kitting the salons, barbers and spas of the Llynfi Valley",
+  "s1loc":[
+   "A market town at the head of the Llynfi Valley, Maesteg packs its salon trade into a compact centre. Talbot Street holds hair salons and beauty rooms, while Commercial Street carries the densest run of barbers, hairdressers and nail studios through the town centre, with more salons and treatment rooms around Castle Street and the market. The valley villages of Nantyffyllon, Caerau, Garth and Llangynwyd each add their own small clusters of independent hairdressers and beauty rooms up the valley.",
+   "And the trade is overwhelmingly small and independent. The Talbot Street salons and beauty rooms, the Commercial Street barbers and nail studios, the Castle Street hairdressers, the Caerau and Nantyffyllon village salons and the mobile beauticians and lash technicians working up the Llynfi Valley are nearly all sole traders or small teams rather than chains. Each one puts staff in front of clients, and a sharp, branded look is simply part of how a Maesteg salon earns its name.",
+  ],
+  "kit_loc":"across the town's salons, barber chairs and treatment rooms",
+  "s2_intro":"Whether you are a Talbot Street salon, a Commercial Street barber, a mobile beautician or a nail studio across Maesteg",
+ },
+}

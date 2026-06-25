@@ -1,0 +1,86 @@
+NEW = {
+ "heswall": {
+  "region": "Heswall and the Wirral",
+  "nearby": ["Bebington", "Bromborough", "Birkenhead"],
+  "snapshot": "iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Heswall, from the Telegraph Road hair salons to the Pensby Road barbers and beauty rooms, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head": "Kitting the salons, barbers and spas of the Wirral",
+  "s1loc": [
+   "Heswall is a smart Wirral commuter town whose salon scene runs along two spines. The Telegraph Road stretch through the lower village carries hair salons, aesthetics clinics and beauty rooms, with names like Ahead Hairdressing, Victoria Hair Salon and Dew Skin Aesthetics sitting among the cafes and boutiques. The longer Pensby Road climb holds the everyday trade, where Mode Beauty and Hair, Crown Barbers and the Dads and Lads barbershop look after the surrounding estates and the streets above the Dee.",
+   "And the trade here is almost entirely small and independent. The Telegraph Road hair salons and aesthetics rooms, the Pensby Road barbers and nail studios, and the mobile beauticians driving between Gayton, Pensby and Thingwall are nearly all sole traders or two and three-chair teams rather than chains. Almost every one of them puts staff in front of clients in something branded, and on a high street this well-heeled, how the team looks is part of the pitch.",
+  ],
+  "kit_loc": "across the village salons, barber chairs and treatment rooms",
+  "s2_intro": "Whether you are a Telegraph Road salon, a Pensby Road barber, a mobile beautician or a nail studio across Heswall",
+ },
+ "prudhoe": {
+  "region": "Prudhoe and Northumberland",
+  "nearby": ["Newcastle upon Tyne", "Cramlington", "Blyth"],
+  "snapshot": "iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Prudhoe, from the Front Street hair salons to the town-centre barbers and beauty rooms, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head": "Kitting the salons, barbers and spas of the Tyne Valley",
+  "s1loc": [
+   "Set above the Tyne in south Northumberland, Prudhoe packs its salon trade into a compact Front Street spine. The run through the centre carries hair and beauty side by side, with Sophistikaty's, Walnut Hair and Beauty and Fab Face and Body handling cuts, colour, nails and brows, while King's Barber, Front Street Barbers and Prudhoe Fresh Cut keep the barbering steady. A few units and home studios off the main parade fill in around the railway station and the estates climbing the hill.",
+   "And the operator mix is overwhelmingly small and local. The Front Street hair and beauty salons, the town-centre barbers, and the mobile beauticians and nail techs working out across Mickley, Ovingham and Stocksfield are nearly all sole traders or small teams rather than groups. Almost every one of them puts staff in front of clients in something branded, and in a tight Tyne Valley town that look is a big part of how a chair gets recommended on.",
+  ],
+  "kit_loc": "across the town's salons, barber chairs and treatment rooms",
+  "s2_intro": "Whether you are a Front Street salon, a town-centre barber, a mobile beautician or a nail studio across Prudhoe",
+ },
+ "ulverston": {
+  "region": "Ulverston and Cumbria",
+  "nearby": ["Barrow-in-Furness", "Kendal", "Lancaster"],
+  "snapshot": "iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Ulverston, from the Market Street hair salons to the King Street beauty rooms, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head": "Kitting the salons, barbers and spas of Furness",
+  "s1loc": [
+   "A historic market town on the edge of the Lake District, Ulverston keeps its salon scene tight around the cobbled centre. Market Street carries the bulk of it, with Soul Hairdressing and Barbering and a L'Oreal Professionnel salon among the independents, while King Street holds The Salon and The Hair Studio and Beauty Salon. Side runs like Fountain Street and Central Drive add the likes of Kellie Sharp Hair and Headlines, giving a small town an unusually dense cluster of chairs.",
+   "And the trade is almost wholly independent. The Market Street and King Street hair salons, the beauty and nail rooms tucked off Fountain Street, and the mobile beauticians serving the villages out towards Swarthmoor, Dalton and the Furness coast are nearly all sole traders or small teams rather than chains. Almost every one of them puts staff in front of clients in something branded, and in a town this proudly independent a tidy uniform is part of the welcome.",
+  ],
+  "kit_loc": "across the town's salons, barber chairs and treatment rooms",
+  "s2_intro": "Whether you are a Market Street salon, a King Street barber, a mobile beautician or a nail studio across Ulverston",
+ },
+ "prescot": {
+  "region": "Prescot and Merseyside",
+  "nearby": ["St Helens", "Bootle", "Birkenhead"],
+  "snapshot": "iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Prescot, from the Eccleston Street hair salons to the town-centre barbers and beauty rooms, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head": "Kitting the salons, barbers and spas of Knowsley",
+  "s1loc": [
+   "Beyond the chains over in Liverpool, Prescot runs a busy local salon trade around its old town centre. Eccleston Street is the spine, with Girls on Top and other long-standing hair salons sitting along the parade, while High Street adds beauty and nail rooms like Make Me Pretty. Chapel Street barbers such as Rogues and Rascals, and salons like Be You Be Beautiful and Aphrodite, fill out a compact centre that has grown busier since the Shakespeare North Playhouse opened.",
+   "And the operator mix is overwhelmingly small and independent. The Eccleston Street hair salons, the High Street beauty and nail rooms, the Chapel Street barbers, and the mobile beauticians working across Whiston, Huyton and Eccleston Park are nearly all sole traders or small teams rather than chains. Almost every one of them puts staff in front of clients in something branded, and a neat, named uniform is part of how a Knowsley salon holds its regulars.",
+  ],
+  "kit_loc": "across the town's salons, barber chairs and treatment rooms",
+  "s2_intro": "Whether you are an Eccleston Street salon, a Chapel Street barber, a mobile beautician or a nail studio across Prescot",
+ },
+ "newport (isle of wight)": {
+  "region": "Newport and the Isle of Wight",
+  "nearby": ["Ryde", "Cowes", "Shanklin"],
+  "snapshot": "iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Newport, from the St James Street hair salons to the High Street and Pyle Street beauty rooms, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head": "Kitting the salons, barbers and spas of the Island's capital",
+  "s1loc": [
+   "As the Isle of Wight's county town, Newport pulls the Island's salon trade into its pedestrianised centre. St James Street carries the barbering, with Adam's Barbers, Efe's Barber and others along the run, while the High Street holds Jaks Hair and Beauty and longer-standing salons. Pyle Street and Holyrood Street add the beauty and nail side, with The Beauty Spot and the Nail and Beauty Clinic, giving the centre a deeper concentration of chairs than anywhere else on the Island.",
+   "And the trade is almost entirely independent. The High Street and St James Street hair salons, the Pyle Street beauty and nail rooms, and the mobile beauticians driving out to Carisbrooke, Wootton and the villages of the centre of the Island are nearly all sole traders or small teams rather than chains. Almost every one of them puts staff in front of clients in something branded, and in the Island's main shopping town a clean, named look does a lot of the selling.",
+  ],
+  "kit_loc": "across the town's salons, barber chairs and treatment rooms",
+  "s2_intro": "Whether you are a High Street salon, a St James Street barber, a mobile beautician or a nail studio across Newport",
+ },
+ "ryde": {
+  "region": "Ryde and the Isle of Wight",
+  "nearby": ["Newport (Isle of Wight)", "Cowes", "Sandown"],
+  "snapshot": "iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Ryde, from the Union Street hair salons to the High Street barbers and beauty rooms, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head": "Kitting the salons, barbers and spas of the Island's seafront",
+  "s1loc": [
+   "Ryde climbs from its long pier and sands up a Victorian grid, and its salon scene follows Union Street and the streets around it. Union Street is the heart, with Union Jack Hair, Anthony Lin Hart, Jaks Hair and Beauty and the Hair Architect salon and academy all on the rise from the front. The High Street carries the barbering, including Ryde Barbers Shop, while beauty and nail rooms like Level Hair and Beauty fill in around the centre and the lanes off it.",
+   "And the operator mix is overwhelmingly small and local. The Union Street hair salons and the training academy, the High Street barbers, and the mobile beauticians working across Binstead, Haylands and out towards Seaview are nearly all sole traders or small teams rather than chains. Almost every one of them puts staff in front of clients in something branded, and in a busy seaside town the way a team looks is a real part of the trade.",
+  ],
+  "kit_loc": "across the town's salons, barber chairs and treatment rooms",
+  "s2_intro": "Whether you are a Union Street salon, a High Street barber, a mobile beautician or a nail studio across Ryde",
+ },
+ "cowes": {
+  "region": "Cowes and the Isle of Wight",
+  "nearby": ["Newport (Isle of Wight)", "Ryde", "Shanklin"],
+  "snapshot": "iNeedWorkwear supplies branded tunics, polos, aprons and clogs to salons, barbers, beauticians, nail technicians and spas across Cowes, from the High Street hair salons to the town-centre barbers and beauty rooms, embroidered in-house with the salon name. The trade is mostly sole traders and small salons, so the quickest route is to order direct online with no account, while a larger salon or group can set up a trade account.",
+  "s1_head": "Kitting the salons, barbers and spas of the Island's sailing town",
+  "s1loc": [
+   "Famous for its yachting, Cowes runs a compact salon trade along the narrow High Street that threads down to the Solent. K and H Hair and Beauty sits in the heart of the run as a long-established Island name, while McGregors Gentlemen's Barbers handles the barbering a short walk away. Cross Street and the lanes off the High Street add smaller rooms, and just out at Northwood the likes of Elenti Hair and Beauty serve the edge of the town and East Cowes across the Medina.",
+   "And the trade is almost wholly independent. The High Street hair and beauty salons, the town-centre barbers, and the mobile beauticians working between Cowes, Northwood, Gurnard and East Cowes are nearly all sole traders or small teams rather than chains. Almost every one of them puts staff in front of clients in something branded, and in a town this busy with regatta and visitor trade a sharp, named uniform earns its keep all season.",
+  ],
+  "kit_loc": "across the town's salons, barber chairs and treatment rooms",
+  "s2_intro": "Whether you are a High Street salon, a Cross Street barber, a mobile beautician or a nail studio across Cowes",
+ },
+}
