@@ -1,7 +1,11 @@
 {
   "dover": {
     "region": "Dover and Kent",
-    "nearby": ["Folkestone", "Deal", "Canterbury"],
+    "nearby": [
+      "Folkestone",
+      "Deal",
+      "Canterbury"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Dover, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of the Dover coast",
     "s1loc": [
@@ -14,7 +18,11 @@
   },
   "morecambe": {
     "region": "Morecambe and Lancashire",
-    "nearby": ["Lancaster", "Preston", "Kendal"],
+    "nearby": [
+      "Lancaster",
+      "Preston",
+      "Kendal"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Morecambe, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of the Lancashire bay",
     "s1loc": [
@@ -27,7 +35,11 @@
   },
   "trowbridge": {
     "region": "Trowbridge and Wiltshire",
-    "nearby": ["Chippenham", "Bath", "Frome"],
+    "nearby": [
+      "Chippenham",
+      "Bath",
+      "Frome"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Trowbridge, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of west Wiltshire",
     "s1loc": [
@@ -40,7 +52,11 @@
   },
   "barnstaple": {
     "region": "Barnstaple and North Devon",
-    "nearby": ["Bideford", "Exeter", "Newton Abbot"],
+    "nearby": [
+      "Bideford",
+      "Exeter",
+      "Newton Abbot"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Barnstaple, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of North Devon",
     "s1loc": [
@@ -53,20 +69,29 @@
   },
   "sidcup": {
     "region": "Sidcup and the London Borough of Bexley",
-    "nearby": ["Eltham", "Orpington", "Erith"],
+    "nearby": [
+      "Eltham",
+      "Orpington",
+      "Erith"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Sidcup, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Bexley",
     "s1loc": [
       "Sidcup sits in south-east London's Bexley events scene. Sidcup Musical Productions stages shows at the Bob Hope Theatre over in nearby Eltham, the Sidcup Symphony Orchestra plays the town's halls, and the Rob Knox Film Festival has become a fixture in memory of a local young actor. Out across the borough the parks carry the big crowds, with Park Rock at Danson Park in Bexleyheath and the Lesnes Abbey festival drawing event crews from Sidcup and the wider Bexley area.",
       "The trade runs at two sizes here. The borough's festival operators, park-event organisers and production companies field large seasonal crews and buy through procurement for stewards, riggers and front-of-house teams, while independent promoters, am-dram societies and small crews want only a few branded pieces. A workwear supplier in Bexley has to clothe the Danson Park festival and the single Sidcup crew alike, which is why we run trade accounts and direct online ordering side by side.",
-      "Sidcup's strength is its community-rooted events. Orchestras, musical societies and a film festival built around local memory run largely on dedicated helpers and small organising teams, who still want to look the part on a busy event night. Branded polos, caps and fleeces embroidered with the production or festival name mark out helpers, stewards and stage crews clearly, whether in a town-centre hall or out on the grass at one of the borough's bigger park events."
+      "Sidcup's strength is its community-rooted events. Orchestras, musical societies and a film festival built around local memory run largely on dedicated helpers and small organising teams, who still want to look the part on a busy event night. Branded polos, caps and fleeces embroidered with the production or festival name mark out helpers, stewards and stage crews clearly, whether in a town-centre hall or out on the grass at one of the borough's bigger park events. Foots Cray Meadows, Lamorbey Park and the Hall Place estate nearby host outdoor and heritage events, the Bexley calendar runs from Sidcup through Bexleyheath to Welling, and the borough's parks keep crews and front-of-house teams busy through the summer season.",
+      "Sidcup's high street and Station Road venues and local halls run regular nights, the Queen Mary's grounds host community days, and the catchment from Blackfen and Foots Cray across to Chislehurst keeps crews and front-of-house teams busy through the year."
     ],
     "kit_loc": "across the town's venues, festivals and events",
     "s2_intro": "Whether you are a major Sidcup venue or festival, a production company or a small independent event crew in Bexley"
   },
   "hyde": {
     "region": "Hyde and Tameside",
-    "nearby": ["Denton", "Stalybridge", "Ashton-under-Lyne"],
+    "nearby": [
+      "Denton",
+      "Stalybridge",
+      "Ashton-under-Lyne"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Hyde, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Tameside",
     "s1loc": [
@@ -79,7 +104,11 @@
   },
   "billingham": {
     "region": "Billingham and Teesside",
-    "nearby": ["Stockton-on-Tees", "Middlesbrough", "Hartlepool"],
+    "nearby": [
+      "Stockton-on-Tees",
+      "Middlesbrough",
+      "Hartlepool"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Billingham, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Teesside",
     "s1loc": [

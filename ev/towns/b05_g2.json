@@ -1,7 +1,11 @@
 {
   "leyland": {
     "region": "Leyland and Lancashire",
-    "nearby": ["Preston", "Chorley", "Fulwood"],
+    "nearby": [
+      "Preston",
+      "Chorley",
+      "Fulwood"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Leyland, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of central Lancashire",
     "s1loc": [
@@ -14,7 +18,11 @@
   },
   "skelmersdale": {
     "region": "Skelmersdale and West Lancashire",
-    "nearby": ["Wigan", "Ormskirk", "St Helens"],
+    "nearby": [
+      "Wigan",
+      "Ormskirk",
+      "St Helens"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Skelmersdale, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of West Lancashire",
     "s1loc": [
@@ -27,7 +35,11 @@
   },
   "canvey island": {
     "region": "Canvey Island and Essex",
-    "nearby": ["Basildon", "Southend-on-Sea", "Wickford"],
+    "nearby": [
+      "Basildon",
+      "Southend-on-Sea",
+      "Wickford"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Canvey Island, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of south Essex",
     "s1loc": [
@@ -40,7 +52,11 @@
   },
   "long eaton": {
     "region": "Long Eaton and Derbyshire",
-    "nearby": ["Beeston", "Ilkeston", "Nottingham"],
+    "nearby": [
+      "Beeston",
+      "Ilkeston",
+      "Nottingham"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Long Eaton, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Erewash",
     "s1loc": [
@@ -53,20 +69,29 @@
   },
   "abingdon": {
     "region": "Abingdon and Oxfordshire",
-    "nearby": ["Oxford", "Didcot", "Witney"],
+    "nearby": [
+      "Oxford",
+      "Didcot",
+      "Witney"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Abingdon, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of the Vale",
     "s1loc": [
       "Abingdon-on-Thames carries a real rock pedigree as the town where Radiohead formed, and its events still cluster on the river. The Abbey Gardens, set in the medieval ruins of Abingdon Abbey, host Fun and Music in the Park each summer, with daytime activities followed by a ticketed evening of bands and fireworks. The nearby Unicorn theatre, built within the old Abbey buildings, runs plays and films, all of it needing stage crews and stewards on the ground.",
       "The trade here runs at two clear sizes. The operators and production companies behind the Abbey Grounds events and the larger town shows run sizeable seasonal teams and order planned intakes through a managed account, while independent crews, DJs and promoters working the riverside pubs and function rooms want only a few branded pieces. A supplier across the Vale of White Horse fits out the big park festival and the single freelance crew alike, so trade accounts and direct online ordering sit together.",
-      "Beyond the Abbey Gardens, the Abingdon Air and Country Show is the town's biggest annual draw, staged at the former RAF Abingdon airfield with a flying display and a country fair on the ground. Riverside Abbey Meadow adds open-air dates through the warmer months, and the wider Oxford, Didcot and Witney catchment keeps demand steady. Crews setting up these stages and marquees in changeable weather rely on embroidered polos, fleeces, waterproofs and hi-vis to stay visible and warm."
+      "Beyond the Abbey Gardens, the Abingdon Air and Country Show is the town's biggest annual draw, staged at the former RAF Abingdon airfield with a flying display and a country fair on the ground. Riverside Abbey Meadow adds open-air dates through the warmer months, and the wider Oxford, Didcot and Witney catchment keeps demand steady. Crews setting up these stages and marquees in changeable weather rely on embroidered polos, fleeces, waterproofs and hi-vis to stay visible and warm. The Abingdon-on-Thames riverside, the Michaelmas Fair that fills the streets each autumn and the town's bun-throwing civic traditions draw big crowds, and the catchment from Didcot and Wantage up to Oxford keeps production and front-of-house crews busy across the season.",
+      "The Abingdon County Hall Museum, the Unicorn Theatre in the old Abbey buildings and the riverside meadows host heritage and outdoor events, the town's air-and-country shows fill the calendar, and the catchment across the Vale of White Horse keeps crews and front-of-house teams busy through the season."
     ],
     "kit_loc": "across the town's venues, festivals and events",
     "s2_intro": "Whether you are a major Abingdon festival operator, a production company or a small independent event crew working the Abbey Grounds"
   },
   "north shields": {
     "region": "North Shields and Tyneside",
-    "nearby": ["Tynemouth", "Whitley Bay", "South Shields"],
+    "nearby": [
+      "Tynemouth",
+      "Whitley Bay",
+      "South Shields"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across North Shields, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of North Tyneside",
     "s1loc": [
@@ -79,7 +104,11 @@
   },
   "falkirk": {
     "region": "Falkirk and central Scotland",
-    "nearby": ["Cumbernauld", "Livingston", "Bathgate"],
+    "nearby": [
+      "Cumbernauld",
+      "Livingston",
+      "Bathgate"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Falkirk, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of the Forth Valley",
     "s1loc": [

@@ -1,7 +1,11 @@
 {
   "dudley": {
     "region": "Dudley and the West Midlands",
-    "nearby": ["Stourbridge", "Halesowen", "Wolverhampton"],
+    "nearby": [
+      "Stourbridge",
+      "Halesowen",
+      "Wolverhampton"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Dudley, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of the Black Country",
     "s1loc": [
@@ -13,7 +17,11 @@
   },
   "norwich": {
     "region": "Norwich and Norfolk",
-    "nearby": ["Ipswich", "Peterborough", "Cambridge"],
+    "nearby": [
+      "Ipswich",
+      "Peterborough",
+      "Cambridge"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Norwich, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Norfolk's capital",
     "s1loc": [
@@ -25,7 +33,11 @@
   },
   "swindon": {
     "region": "Swindon and Wiltshire",
-    "nearby": ["Chippenham", "Cheltenham", "Oxford"],
+    "nearby": [
+      "Chippenham",
+      "Cheltenham",
+      "Oxford"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Swindon, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Wiltshire's biggest town",
     "s1loc": [
@@ -37,7 +49,11 @@
   },
   "croydon": {
     "region": "Croydon and south London",
-    "nearby": ["Sutton", "Bromley", "Beckenham"],
+    "nearby": [
+      "Sutton",
+      "Bromley",
+      "Beckenham"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Croydon, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of south London",
     "s1loc": [
@@ -49,19 +65,28 @@
   },
   "bournemouth": {
     "region": "Bournemouth and Dorset",
-    "nearby": ["Poole", "Christchurch", "Ferndown"],
+    "nearby": [
+      "Poole",
+      "Christchurch",
+      "Ferndown"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Bournemouth, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of the Dorset coast",
     "s1loc": [
       "Bournemouth has the biggest live capacity in Dorset. The Bournemouth International Centre, the BIC, takes the major concerts and arena tours, the Art Deco Pavilion Theatre runs musicals, ballet and opera year-round, and the O2 Academy anchors the rock, pop and indie gigs, while the Old Fire Station keeps a grassroots room going on the Bournemouth University campus. Outdoors, the Bournemouth Air Festival is the highlight of August and the Shake and Stir Vintage Festival fills Southbourne with vintage-themed live entertainment each June.",
-      "And the trade runs at every size. The BIC, the Pavilion, festival operators and production companies field large seasonal crews and buy through procurement, while independent event crews, promoters and entertainers around the town and Southbourne need just a few branded pieces. A workwear supplier here has to serve the three-day air festival and the single crew alike, which is why we run trade accounts for managed reordering and direct online ordering side by side across Dorset."
+      "And the trade runs at every size. The BIC, the Pavilion, festival operators and production companies field large seasonal crews and buy through procurement, while independent event crews, promoters and entertainers around the town and Southbourne need just a few branded pieces. A workwear supplier here has to serve the three-day air festival and the single crew alike, which is why we run trade accounts for managed reordering and direct online ordering side by side across Dorset.",
+      "Bournemouth runs much of its programme along the gardens and the front. The Lower, Central and Upper Gardens host the Bournemouth Air Festival and the Christmas events, the Pier Approach stages live music, and the town's parks and the Bournemouth University scene add to the calendar, so production and front-of-house crews stay busy across the Dorset coast through the year. The Bournemouth Symphony Orchestra, the O2 Academy and the Pavilion Theatre anchor the indoor calendar, with the Bournemouth 7s and the summer sand-sculpture events adding to the season."
     ],
     "kit_loc": "across the city's venues, festivals and events",
     "s2_intro": "Whether you are a major Bournemouth venue or festival, a production company or a small independent event crew in Dorset"
   },
   "southend-on-sea": {
     "region": "Southend-on-Sea and Essex",
-    "nearby": ["Basildon", "Wickford", "Rayleigh"],
+    "nearby": [
+      "Basildon",
+      "Wickford",
+      "Rayleigh"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Southend-on-Sea, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of south Essex",
     "s1loc": [
@@ -73,7 +98,11 @@
   },
   "walsall": {
     "region": "Walsall and the West Midlands",
-    "nearby": ["Wolverhampton", "West Bromwich", "Bloxwich"],
+    "nearby": [
+      "Wolverhampton",
+      "West Bromwich",
+      "Bloxwich"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Walsall, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of the Black Country",
     "s1loc": [

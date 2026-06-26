@@ -1,7 +1,11 @@
 {
   "castleford": {
     "region": "Castleford and West Yorkshire",
-    "nearby": ["Pontefract", "Normanton", "Featherstone"],
+    "nearby": [
+      "Pontefract",
+      "Normanton",
+      "Featherstone"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Castleford, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of the Five Towns",
     "s1loc": [
@@ -14,7 +18,11 @@
   },
   "ilkeston": {
     "region": "Ilkeston and Derbyshire",
-    "nearby": ["Long Eaton", "Derby", "Beeston"],
+    "nearby": [
+      "Long Eaton",
+      "Derby",
+      "Beeston"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Ilkeston, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of the Erewash valley",
     "s1loc": [
@@ -27,7 +35,11 @@
   },
   "cramlington": {
     "region": "Cramlington and Northumberland",
-    "nearby": ["Blyth", "Ashington", "Morpeth"],
+    "nearby": [
+      "Blyth",
+      "Ashington",
+      "Morpeth"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Cramlington, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of south-east Northumberland",
     "s1loc": [
@@ -40,20 +52,29 @@
   },
   "glenrothes": {
     "region": "Glenrothes and Fife",
-    "nearby": ["Kirkcaldy", "Dunfermline", "Perth"],
+    "nearby": [
+      "Kirkcaldy",
+      "Dunfermline",
+      "Perth"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Glenrothes, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of central Fife",
     "s1loc": [
       "Glenrothes is a hub for central Fife's events trade. Rothes Halls in the Kingdom Centre is the town's main cultural venue, staging theatre, comedy, concerts and large site-specific productions, and it also hosts the Glenrothes Comic Con. The Glenrothes Town Festival fills Riverside Park with live music and stalls each summer, while the grounds of Balbirnie Park on the eastern edge of town carry galas, fairs and open-air gatherings.",
       "And the trade runs at every size. The bigger venues, festival operators and production companies across central Fife field large seasonal crews and buy through procurement, while independent event crews, promoters and entertainers around Glenrothes and Markinch need just a few branded pieces. A workwear supplier here has to serve the whole town festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side.",
-      "The wider catchment reaches across the Kingdom of Fife and beyond. Kirkcaldy runs its historic Links Market and the Adam Smith Theatre, Dunfermline's Alhambra Theatre and parks draw touring shows and festivals, and Perth's concert hall and parks sit within easy reach to the north. From a town-centre theatre to a riverside festival or a country-house gala, the same crews need branded, weatherproof kit right across the season."
+      "The wider catchment reaches across the Kingdom of Fife and beyond. Kirkcaldy runs its historic Links Market and the Adam Smith Theatre, Dunfermline's Alhambra Theatre and parks draw touring shows and festivals, and Perth's concert hall and parks sit within easy reach to the north. From a town-centre theatre to a riverside festival or a country-house gala, the same crews need branded, weatherproof kit right across the season. Riverside Park and the town's noted public-art trail add outdoor events, the Fife Show and the Lomond Hills bring country and rural gatherings, and the catchment from Kirkcaldy and Leslie across central Fife keeps crews and front-of-house teams busy through the season.",
+      "The town's indoor Fife Institute and the Michael Woods sports arena host larger events, the Kingdom Centre and the central squares take seasonal celebrations, and the wider catchment from Markinch and Thornton keeps crews and front-of-house teams busy through the season."
     ],
     "kit_loc": "across the area's venues, festivals and events",
     "s2_intro": "Whether you are a major Glenrothes venue or festival, a production company or a small independent event crew around central Fife"
   },
   "herne bay": {
     "region": "Herne Bay and Kent",
-    "nearby": ["Whitstable", "Canterbury", "Margate"],
+    "nearby": [
+      "Whitstable",
+      "Canterbury",
+      "Margate"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Herne Bay, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of the north Kent coast",
     "s1loc": [
@@ -66,7 +87,11 @@
   },
   "arnold": {
     "region": "Arnold and Nottinghamshire",
-    "nearby": ["Nottingham", "Carlton", "Hucknall"],
+    "nearby": [
+      "Nottingham",
+      "Carlton",
+      "Hucknall"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Arnold, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of the Gedling borough",
     "s1loc": [
@@ -79,7 +104,11 @@
   },
   "blyth": {
     "region": "Blyth and Northumberland",
-    "nearby": ["Cramlington", "Ashington", "Whitley Bay"],
+    "nearby": [
+      "Cramlington",
+      "Ashington",
+      "Whitley Bay"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Blyth, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of south-east Northumberland",
     "s1loc": [
