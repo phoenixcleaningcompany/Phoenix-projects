@@ -1,19 +1,29 @@
 {
   "cheshunt": {
     "region": "Cheshunt and the Borough of Broxbourne, Hertfordshire",
-    "nearby": ["Hoddesdon", "Enfield", "Harlow"],
+    "nearby": [
+      "Hoddesdon",
+      "Enfield",
+      "Harlow"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Cheshunt, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of the Lea Valley",
     "s1loc": [
       "Cheshunt sits in the Lea Valley events corridor in the Borough of Broxbourne. Cheshunt Park and Cedars Park host open-air shows and seasonal events, the Lee Valley White Water Centre at Waltham Cross runs a summer beer festival with live music, and Broxbourne Riverside on Nazeing Road works as a natural amphitheatre for outdoor cinema and staged productions. Hoddesdon Carnival fills the streets each summer, and the Cheshunt Christmas Market lights the town centre in December.",
-      "And the trade runs at every size in the Lea Valley. Major venues, festival operators and production companies field big crews and large seasonal teams and buy through procurement, while independent event crews, promoters and entertainers around Broxbourne and Waltham Cross need just a few branded pieces. A workwear supplier here has to serve the big festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side."
+      "And the trade runs at every size in the Lea Valley. Major venues, festival operators and production companies field big crews and large seasonal teams and buy through procurement, while independent event crews, promoters and entertainers around Broxbourne and Waltham Cross need just a few branded pieces. A workwear supplier here has to serve the big festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side.",
+      "Sitting in Broxbourne, the patch leans on the green corridor of the Lee Valley Regional Park. Broxbourne Riverside offers a natural amphitheatre for outdoor staging, the River Lee Country Park hosts open-air events along the water, and nearby Hoddesdon adds carnival and town-centre dates to the calendar. With the wider valley running north from London and neighbouring Waltham Cross and Enfield close by, a single events base covers a broad spread of sites, keeping production crews, stewards and front-of-house staff steadily worked. The Lee Valley White Water Centre on the town's edge, Cedars Park and the New River path add outdoor and watersports events, and the Broxbourne catchment from Hoddesdon to Waltham Cross keeps production crews busy across the season.",
+      "Cheshunt and the Broxbourne borough run much of their programme through the Lea Valley. Paradise Wildlife Park, Cheshunt Park and the Lee Valley trails host outdoor and family events, and the catchment from Waltham Cross and Hoddesdon up to Broxbourne keeps crews and front-of-house teams busy across the season."
     ],
     "kit_loc": "across the area's venues, festivals and events",
     "s2_intro": "Whether you are a major Cheshunt venue or festival, a production company or a small independent event crew in the Lea Valley"
   },
   "wellingborough": {
     "region": "Wellingborough and Northamptonshire",
-    "nearby": ["Kettering", "Northampton", "Rushden"],
+    "nearby": [
+      "Kettering",
+      "Northampton",
+      "Rushden"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Wellingborough, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Wellingborough",
     "s1loc": [
@@ -25,7 +35,11 @@
   },
   "kingston upon thames": {
     "region": "Kingston upon Thames and south west London",
-    "nearby": ["Twickenham", "Sutton", "Esher"],
+    "nearby": [
+      "Twickenham",
+      "Sutton",
+      "Esher"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Kingston upon Thames, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Kingston upon Thames",
     "s1loc": [
@@ -37,31 +51,46 @@
   },
   "andover": {
     "region": "Andover and Hampshire",
-    "nearby": ["Basingstoke", "Winchester", "Newbury"],
+    "nearby": [
+      "Basingstoke",
+      "Winchester",
+      "Newbury"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Andover, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Andover",
     "s1loc": [
       "Andover's live scene centres on the Lights, the town's professional arts and entertainment venue beside the River Anton, which runs a 249-seat raked auditorium plus a larger arena hall and a year-round programme of music, theatre, comedy and dance. As the hub for north west Hampshire, it draws acts and crews from across the area, while outdoor events and seasonal markets fill the town centre and the surrounding countryside through the summer.",
-      "And the trade runs at every size across north west Hampshire. Major venues, festival operators and production companies field big crews and large seasonal teams and buy through procurement, while independent event crews, promoters and entertainers around Andover need just a few branded pieces. A workwear supplier here has to serve the big show and the single crew alike, which is why we run trade accounts and direct online ordering side by side."
+      "And the trade runs at every size across north west Hampshire. Major venues, festival operators and production companies field big crews and large seasonal teams and buy through procurement, while independent event crews, promoters and entertainers around Andover need just a few branded pieces. A workwear supplier here has to serve the big show and the single crew alike, which is why we run trade accounts and direct online ordering side by side.",
+      "Andover anchors the Test Valley events scene around The Lights on the River Anton, but the wider patch carries it further. Charlton Lakes and the town's parks frame open-air staging and community gatherings, and neighbouring Romsey and Whitchurch add their own halls and seasonal festival dates. With the Test Valley catchment running between Winchester and Salisbury, a crew based here works a spread of indoor rooms and outdoor sites rather than one venue, keeping production teams, stewards and front-of-house staff busy through the season. Andover's events also lean on its Hampshire setting, with the Hawk Conservancy, Finkley Down and the Test Valley villages hosting country fairs and outdoor days, and the catchment toward Stockbridge and Whitchurch keeping crews working through the season.",
+      "Andover anchors a wide Test Valley catchment. The Andover Carnival and the town's mela fill the streets, Charlton Lakes and Rooksbury Mead host outdoor days, and the surrounding villages from Stockbridge to Ludgershall bring country fairs and shows, so production and front-of-house crews stay busy across north-west Hampshire through the year."
     ],
     "kit_loc": "across the town's venues, festivals and events",
     "s2_intro": "Whether you are a major Andover venue or festival, a production company or a small independent event crew in north west Hampshire"
   },
   "llanelli": {
     "region": "Llanelli and Carmarthenshire",
-    "nearby": ["Swansea", "Neath", "Port Talbot"],
+    "nearby": [
+      "Swansea",
+      "Neath",
+      "Port Talbot"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Llanelli, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Llanelli",
     "s1loc": [
       "Llanelli's live scene runs through the Ffwrnes, Theatrau Sir Gar's flagship in the town centre with a 504-seat main house and a 100-seat studio that hosts comedy, musicals, live music and Welsh-language events. Parc y Scarlets, home of the Scarlets, doubles as a concert and festival site and a Christmas market venue, and the summer brings the Llanelli Big Weekend, the Llanelli Food and Drink Festival and the Vintage Festival into the town and its parks.",
-      "And the trade runs at every size across Carmarthenshire. Major venues, festival operators and production companies field big crews and large seasonal teams and buy through procurement, while independent event crews, promoters and entertainers around Llanelli need just a few branded pieces. A workwear supplier here has to serve the big festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side."
+      "And the trade runs at every size across Carmarthenshire. Major venues, festival operators and production companies field big crews and large seasonal teams and buy through procurement, while independent event crews, promoters and entertainers around Llanelli need just a few branded pieces. A workwear supplier here has to serve the big festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side.",
+      "Llanelli's events spread well beyond the Ffwrnes on Park Street. The Selwyn Samuel Centre near Park Crescent turns over to concerts, exhibitions and craft markets through the summer recess, while Parc Howard's parkland hosts annual family fun days north of the centre, and the 15,000-seat Parc y Scarlets at Pemberton handles stadium-scale events. The wider Carmarthenshire catchment ties in with Carmarthen's Lyric and Ammanford's Miners' under Theatrau Sir Gar. Across these venues and parks, local production and front-of-house crews stay busy."
     ],
     "kit_loc": "across the town's venues, festivals and events",
     "s2_intro": "Whether you are a major Llanelli venue or festival, a production company or a small independent event crew in Carmarthenshire"
   },
   "neath": {
     "region": "Neath and Neath Port Talbot, south Wales",
-    "nearby": ["Swansea", "Port Talbot", "Llanelli"],
+    "nearby": [
+      "Swansea",
+      "Port Talbot",
+      "Llanelli"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Neath, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Neath",
     "s1loc": [
@@ -73,12 +102,18 @@
   },
   "bridgend": {
     "region": "Bridgend and Bridgend County Borough, south Wales",
-    "nearby": ["Port Talbot", "Barry", "Maesteg"],
+    "nearby": [
+      "Port Talbot",
+      "Barry",
+      "Maesteg"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Bridgend, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Bridgend",
     "s1loc": [
       "Bridgend's live scene runs across the Grand Pavilion in nearby Porthcawl, a 1930s landmark that hosts tribute shows, pantomimes and concerts, and Bridgend Recreation Centre, which stages concerts and the Collision Course festival. The Porthcawl Elvis Festival fills the town with tens of thousands of fans and 150 tribute artists across pubs and venues each September, while Bryngarw Country Park at the mouth of the Garw Valley hosts open-air events through the summer.",
-      "And the trade runs at every size across the county borough. Major venues, festival operators and production companies field big crews and large seasonal teams and buy through procurement, while independent event crews, promoters and entertainers around Bridgend and Porthcawl need just a few branded pieces. A workwear supplier here has to serve the big festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side."
+      "And the trade runs at every size across the county borough. Major venues, festival operators and production companies field big crews and large seasonal teams and buy through procurement, while independent event crews, promoters and entertainers around Bridgend and Porthcawl need just a few branded pieces. A workwear supplier here has to serve the big festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side.",
+      "The trade reaches well past the town centre into Bridgend County Borough. Bryngarw Country Park near Brynmenyn frames open-air events and seasonal gatherings across its woodland and meadows, while Awen-managed venues run a programme of music, theatre and community staging through the year. The valleys catchment and neighbouring Porthcawl and Maesteg pull in their own outdoor events and hall dates, so a crew based here works a spread of sites rather than one room. Production teams, stewards and front-of-house staff stay busy across the season. Bryngarw Country Park and the Heritage Coast at Porthcawl and Ogmore frame the town's outdoor events, and the wider catchment from Maesteg up the Llynfi and Garw valleys keeps crews moving through the season.",
+      "Bridgend sits at the centre of a busy county calendar. Coity Castle aside, the town's recreation grounds and Newbridge Fields host fairs and community days, and the coast at Rest Bay and the Merthyr Mawr dunes draws outdoor events, so crews and front-of-house teams stay busy across Bridgend county through the year. The Porthcawl Elvis Festival and the town's Heritage Coast events pull big crowds each year, adding to the run of dates crews work across the county."
     ],
     "kit_loc": "across the area's venues, festivals and events",
     "s2_intro": "Whether you are a major Bridgend venue or festival, a production company or a small independent event crew in the county borough"

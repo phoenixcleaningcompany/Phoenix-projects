@@ -1,43 +1,64 @@
 {
   "lytham st annes": {
     "region": "Lytham St Annes and the Fylde Coast, Lancashire",
-    "nearby": ["Blackpool", "Preston", "Fleetwood"],
+    "nearby": [
+      "Blackpool",
+      "Preston",
+      "Fleetwood"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Lytham St Annes, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of the Fylde Coast",
     "s1loc": [
       "Lytham St Annes runs one of Lancashire's biggest open-air concert series. Lytham Festival fills the green by Lytham Windmill each July, drawing huge crowds and headline acts to a temporary arena beside the Ribble estuary, while the refurbished Lowther Pavilion stages shows, drama and live music year-round in its parkland setting. The Waterloo Music Bar carries the grassroots rock and metal scene, and seasonal markets and outdoor events fill the town through the summer.",
-      "And the trade runs at every size across the Fylde Coast. Major venues, festival operators and production companies field big crews and large seasonal teams and buy through procurement, while independent event crews, promoters and entertainers around Lytham and St Annes need just a few branded pieces. A workwear supplier here has to serve the big festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side."
+      "And the trade runs at every size across the Fylde Coast. Major venues, festival operators and production companies field big crews and large seasonal teams and buy through procurement, while independent event crews, promoters and entertainers around Lytham and St Annes need just a few branded pieces. A workwear supplier here has to serve the big festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side.",
+      "Lytham Festival is the headline, filling Lytham Green beside the windmill, a strip between the coastal road and the Ribble estuary, with several nights of major bills and a traditional promenade-style classical finale run by Cuffe and Taylor. Beyond it, the Lowther Pavilion and its gardens carry a year-round programme of shows on the Fylde Coast, and Lytham Hall hosts events in its grounds. The wider catchment ties in St Annes, Blackpool and Kirkham. Across green, pavilion and hall, production and front-of-house crews stay busy."
     ],
     "kit_loc": "across the town's venues, festivals and events",
     "s2_intro": "Whether you are a major Lytham St Annes venue or festival, a production company or a small independent event crew on the Fylde Coast"
   },
   "worksop": {
     "region": "Worksop and Nottinghamshire",
-    "nearby": ["Mansfield", "Retford", "Sutton-in-Ashfield"],
+    "nearby": [
+      "Mansfield",
+      "Retford",
+      "Sutton-in-Ashfield"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Worksop, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Worksop",
     "s1loc": [
       "Worksop's live scene centres on the Acorn Theatre on Queen Street, a 200-seat town-centre house that runs drama, comedy, children's shows, dance and live music through the year. Just outside town, the National Trust's Clumber Park stages outdoor theatre on the Parsonage Lawn and hosts open-air events and concerts across its grounds each summer, while seasonal markets and street events fill the centre of this north Nottinghamshire town through the calendar.",
-      "And the trade runs at every size across Nottinghamshire. Major venues, festival operators and production companies field big crews and large seasonal teams and buy through procurement, while independent event crews, promoters and entertainers around Worksop and Retford need just a few branded pieces. A workwear supplier here has to serve the big festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side."
+      "And the trade runs at every size across Nottinghamshire. Major venues, festival operators and production companies field big crews and large seasonal teams and buy through procurement, while independent event crews, promoters and entertainers around Worksop and Retford need just a few branded pieces. A workwear supplier here has to serve the big festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side.",
+      "Beyond the town's own rooms, the wider Bassetlaw catchment shapes the events calendar. Clumber Park spreads its open-air concerts and seasonal fairs across National Trust parkland, grassroots nights run at venues like Dukeries Live, and the surrounding Sherwood Forest country sites host outdoor staging through the warmer months. Neighbouring Retford and Mansfield add their own halls and community festivals to the rota, widening the patch a single production base can cover. It all keeps crews, production teams and front-of-house staff steadily booked.",
+      "The Dukeries estates of Clumber Park, Welbeck and Thoresby ring the town with country-house grounds that host shows, country fairs and outdoor concerts, while the Chesterfield Canal and Worksop Priory anchor heritage days, and the Bassetlaw calendar runs from Retford across to the Sherwood Forest edge, so production and front-of-house crews stay busy through north Nottinghamshire across the year.",
+      "Worksop's calendar also fills its own parks and waterways. The Canch beside the Chesterfield Canal hosts community days and bandstand events, Sandhill Lake and Manton bring local fairs, and the town's market and the Sherwood Forest gateway draw seasonal crowds, so crews and front-of-house teams work across Bassetlaw from the canal to the forest through the year. Clumber Park's run of country fairs and outdoor concerts through the summer rounds out a calendar that keeps stage, production and front-of-house crews working across the year."
     ],
     "kit_loc": "across the town's venues, festivals and events",
     "s2_intro": "Whether you are a major Worksop venue or festival, a production company or a small independent event crew in north Nottinghamshire"
   },
   "leigh": {
     "region": "Leigh and Greater Manchester",
-    "nearby": ["Wigan", "Bolton", "Atherton"],
+    "nearby": [
+      "Wigan",
+      "Bolton",
+      "Atherton"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Leigh, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Leigh",
     "s1loc": [
       "Leigh's live scene runs through Leigh Spinners Mill, the restored Grade II-listed cotton mill off Park Lane that now houses heritage, arts and music spaces and stages gigs and events across its floors. The Turnpike, on the first floor of the modernist Leigh Library in Civic Square, programmes contemporary art exhibitions, while Pennington Flash country park hosts open-air events and seasonal activity around its lake on the edge of town.",
-      "And the trade runs at every size across Greater Manchester. Major venues, festival operators and production companies field big crews and large seasonal teams and buy through procurement, while independent event crews, promoters and entertainers around Leigh and Atherton need just a few branded pieces. A workwear supplier here has to serve the big festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side."
+      "And the trade runs at every size across Greater Manchester. Major venues, festival operators and production companies field big crews and large seasonal teams and buy through procurement, while independent event crews, promoters and entertainers around Leigh and Atherton need just a few branded pieces. A workwear supplier here has to serve the big festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side.",
+      "The patch leans on Leigh Sports Village, whose stadium takes on big open-air concerts, and on Pennington Flash Country Park, whose lakeside parkland frames outdoor events and seasonal gatherings within the Flashes nature reserve. Neighbouring Wigan, Atherton and Tyldesley add their own halls and festival dates, and with Greater Manchester's wider scene close by, a crew based here works stadium staging and parkland events alike. It keeps production teams, stewards and front-of-house staff steadily booked through the warmer months. The Leigh Sports Village, Lilford Park and the Bridgewater Canal add outdoor and sporting events, and the catchment from Atherton and Tyldesley across to Golborne keeps crews and front-of-house teams busy through the season."
     ],
     "kit_loc": "across the town's venues, festivals and events",
     "s2_intro": "Whether you are a major Leigh venue or festival, a production company or a small independent event crew in Greater Manchester"
   },
   "bexhill-on-sea": {
     "region": "Bexhill-on-Sea and East Sussex",
-    "nearby": ["Hastings", "Eastbourne", "Hailsham"],
+    "nearby": [
+      "Hastings",
+      "Eastbourne",
+      "Hailsham"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Bexhill-on-Sea, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Bexhill-on-Sea",
     "s1loc": [
@@ -49,7 +70,11 @@
   },
   "altrincham": {
     "region": "Altrincham and Trafford, Greater Manchester",
-    "nearby": ["Stretford", "Urmston", "Wilmslow"],
+    "nearby": [
+      "Stretford",
+      "Urmston",
+      "Wilmslow"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Altrincham, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Altrincham",
     "s1loc": [
@@ -61,7 +86,11 @@
   },
   "urmston": {
     "region": "Urmston and Trafford, Greater Manchester",
-    "nearby": ["Stretford", "Altrincham", "Manchester"],
+    "nearby": [
+      "Stretford",
+      "Altrincham",
+      "Manchester"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Urmston, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Urmston",
     "s1loc": [
@@ -73,7 +102,11 @@
   },
   "grantham": {
     "region": "Grantham and Lincolnshire",
-    "nearby": ["Newark", "Stamford", "Boston"],
+    "nearby": [
+      "Newark",
+      "Stamford",
+      "Boston"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Grantham, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Grantham",
     "s1loc": [

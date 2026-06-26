@@ -14,7 +14,7 @@ Needs EV_towns.csv beside it. Imports BLEED + slug from verify_ev.
 import csv, glob, json, os, re, sys
 import verify_ev as V
 
-PARA_MIN, PARA_MAX = 2, 4          # s1loc: 2 local paras baseline, 3-4 when enriched for sticky pairs
+PARA_MIN, PARA_MAX = 2, 5          # s1loc: 2 local paras baseline, 3-4 when enriched for sticky pairs
 WORD_LO, WORD_HI   = 28, 140        # per local paragraph
 REQUIRED = ["region", "nearby", "snapshot", "s1_head", "s1loc", "kit_loc", "s2_intro"]
 ENTITY = re.compile(r"&(?:#\d+|#x[0-9a-fA-F]+|[a-zA-Z][a-zA-Z0-9]{1,30});")

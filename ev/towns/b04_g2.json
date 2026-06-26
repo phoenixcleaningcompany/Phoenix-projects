@@ -1,19 +1,28 @@
 {
   "cwmbran": {
     "region": "Cwmbran and Torfaen",
-    "nearby": ["Newport", "Pontypool", "Cardiff"],
+    "nearby": [
+      "Newport",
+      "Pontypool",
+      "Cardiff"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Cwmbran, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Torfaen",
     "s1loc": [
       "Cwmbran punches above its weight for live events. The Congress Theatre on Gwent Square runs touring music, tribute acts, pantomime and comedy through the year, while Cwmbran Stadium carries athletics meets and larger gatherings on its track and 3G pitch. Each summer the Cwmbran Big Event takes over the Boating Lake with live music and dance acts, and the Cwmbran Music Festival follows with a long afternoon of stages, keeping local crews and production teams busy across Torfaen.",
-      "The events trade here works at both ends. The venue operators, festival organisers and production companies behind the Congress Theatre, the Big Event and the Cwmbran Music Festival field large seasonal crews and buy through procurement, while independent stewards, sound engineers and promoters around Cwmbran and out toward Pontypool want just a few branded pieces. A workwear supplier has to serve the lakeside festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side."
+      "The events trade here works at both ends. The venue operators, festival organisers and production companies behind the Congress Theatre, the Big Event and the Cwmbran Music Festival field large seasonal crews and buy through procurement, while independent stewards, sound engineers and promoters around Cwmbran and out toward Pontypool want just a few branded pieces. A workwear supplier has to serve the lakeside festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side.",
+      "Cwmbran's events life runs through the Congress Theatre in the town centre and out to the Boating Lake, where a popular June community day brings a raft race, food and craft stalls and a full bill of music and dance, alongside the local Crow Fest. Neighbouring Pontypool adds its own big day in Pontypool Park, and the wider Torfaen catchment ties in Cwmbran, Pontypool and Blaenavon. Across theatre, lakeside and park events, local production and front-of-house crews stay busy through the season."
     ],
     "kit_loc": "across the city's venues, festivals and events",
     "s2_intro": "Whether you are a major Cwmbran venue or festival, a production company or a small independent event crew across Torfaen"
   },
   "christchurch": {
     "region": "Christchurch and Dorset",
-    "nearby": ["Bournemouth", "Poole", "New Milton"],
+    "nearby": [
+      "Bournemouth",
+      "Poole",
+      "New Milton"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Christchurch, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Christchurch",
     "s1loc": [
@@ -25,7 +34,11 @@
   },
   "romford": {
     "region": "Romford and the London Borough of Havering",
-    "nearby": ["Hornchurch", "Ilford", "Upminster"],
+    "nearby": [
+      "Hornchurch",
+      "Ilford",
+      "Upminster"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Romford, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Havering",
     "s1loc": [
@@ -37,7 +50,11 @@
   },
   "barnet": {
     "region": "Chipping Barnet and north London",
-    "nearby": ["Borehamwood", "Edgware", "Enfield"],
+    "nearby": [
+      "Borehamwood",
+      "Edgware",
+      "Enfield"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Barnet, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Chipping Barnet",
     "s1loc": [
@@ -49,7 +66,11 @@
   },
   "paignton": {
     "region": "Paignton and Devon",
-    "nearby": ["Torquay", "Newton Abbot", "Exeter"],
+    "nearby": [
+      "Torquay",
+      "Newton Abbot",
+      "Exeter"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Paignton, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of the English Riviera",
     "s1loc": [
@@ -61,19 +82,28 @@
   },
   "kirkcaldy": {
     "region": "Kirkcaldy and Fife",
-    "nearby": ["Glenrothes", "Dunfermline", "Dundee"],
+    "nearby": [
+      "Glenrothes",
+      "Dunfermline",
+      "Dundee"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Kirkcaldy, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Fife",
     "s1loc": [
       "Kirkcaldy is the events hub of central Fife. The Adam Smith Theatre, restored and reopened in 2023 above the Memorial Gardens, runs the main programme of touring music, comedy, drama and screenings, while the Adam Smith Festival of Ideas draws speakers to the town. Each Easter the Esplanade becomes the Links Market, one of Europe's longest street fairs, stretching almost a mile of rides and stalls and pulling in showmen, production teams and stewards from across the region.",
-      "The events trade here runs at every size. The theatre operators, fair organisers and production companies behind the Adam Smith Theatre and the Links Market field large seasonal crews and buy through procurement, while independent stewards, sound crews and promoters around Kirkcaldy and out toward Glenrothes want just a few branded pieces. A workwear supplier has to serve the mile-long street fair and the single crew alike, which is why we run trade accounts and direct online ordering side by side."
+      "The events trade here runs at every size. The theatre operators, fair organisers and production companies behind the Adam Smith Theatre and the Links Market field large seasonal crews and buy through procurement, while independent stewards, sound crews and promoters around Kirkcaldy and out toward Glenrothes want just a few branded pieces. A workwear supplier has to serve the mile-long street fair and the single crew alike, which is why we run trade accounts and direct online ordering side by side.",
+      "Kirkcaldy's events centre on the Adam Smith Theatre on Bennochy Road, the 475-seat heart of the local arts scene since 1899, refurbished in 2023 with the Beveridge Suite, the Exchange and the Spinning Top Cafe and Bar adding event spaces, and a Langtoun Jazz strand among its music bills. Beveridge Park gives the town its big open-air ground, and the wider Fife catchment draws in Glenrothes, Burntisland and Leven. Across theatre and park events, local production and front-of-house crews stay busy through the year."
     ],
     "kit_loc": "across the city's venues, festivals and events",
     "s2_intro": "Whether you are a major Kirkcaldy venue or festival, a production company or a small independent event crew along the Esplanade"
   },
   "batley": {
     "region": "Batley and West Yorkshire",
-    "nearby": ["Dewsbury", "Mirfield", "Bradford"],
+    "nearby": [
+      "Dewsbury",
+      "Mirfield",
+      "Bradford"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Batley, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Batley",
     "s1loc": [
