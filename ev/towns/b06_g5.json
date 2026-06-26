@@ -1,20 +1,28 @@
 {
   "ashton-in-makerfield": {
     "region": "Ashton-in-Makerfield and Greater Manchester",
-    "nearby": ["Wigan", "St Helens", "Leigh"],
+    "nearby": [
+      "Wigan",
+      "St Helens",
+      "Leigh"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Ashton-in-Makerfield, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade around Ashton-in-Makerfield",
     "s1loc": [
       "Ashton-in-Makerfield sits in a busy events corner of the Makerfield district. Just up the road, Haydock Park Racecourse runs its Haydock Park Nights concert series with Jockey Club Live, drawing big headline crews to the parkland between Haydock and Newton-le-Willows, while The Edge in nearby Wigan handles tribute and gig nights and open-air bills like the Reminisce Festival and the Wigan Diggers' Festival fill the wider borough's summer calendar with stage, crew and rigging work.",
       "And the trade here runs at every size. The racecourse concert promoters, festival operators and production companies bring in big seasonal teams and front-of-house stewards and buy through procurement, while independent event crews, promoters and entertainers around Ashton, Bryn and Stubshaw Cross need only a few branded pieces. A workwear supplier across the Makerfield towns has to serve the big concert night and the single crew alike, which is why we run trade accounts and direct online ordering side by side.",
-      "There is a strong production and staging thread running through this stretch of Greater Manchester too. Marquee and staging firms, sound and lighting crews and bar operators move between Haydock, the Three Sisters circuit and venues across Wigan all summer, and they want kit that reads as one team on site. Embroidered polos, hi-vis and waterproofs in the operator name keep a crew sharp from a racecourse infield to a town-centre stage, whatever the weather throws at them."
+      "There is a strong production and staging thread running through this stretch of Greater Manchester too. Marquee and staging firms, sound and lighting crews and bar operators move between Haydock, the Three Sisters circuit and venues across Wigan all summer, and they want kit that reads as one team on site. Embroidered polos, hi-vis and waterproofs in the operator name keep a crew sharp from a racecourse infield to a town-centre stage, whatever the weather throws at them. Haydock Park Racecourse nearby hosts big race-day concerts, the town's parks and Garswood take community days, and the catchment from Wigan and St Helens across to Golborne keeps crews and front-of-house teams busy through the season."
     ],
     "kit_loc": "across the town's venues, festivals and events",
     "s2_intro": "Whether you are a major Ashton-in-Makerfield venue or festival, a production company or a small independent event crew around the Makerfield towns"
   },
   "heywood": {
     "region": "Heywood and Greater Manchester",
-    "nearby": ["Rochdale", "Bury", "Middleton"],
+    "nearby": [
+      "Rochdale",
+      "Bury",
+      "Middleton"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Heywood, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Heywood",
     "s1loc": [
@@ -27,7 +35,11 @@
   },
   "littlehampton": {
     "region": "Littlehampton and West Sussex",
-    "nearby": ["Worthing", "Bognor Regis", "Chichester"],
+    "nearby": [
+      "Worthing",
+      "Bognor Regis",
+      "Chichester"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Littlehampton, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Littlehampton",
     "s1loc": [
@@ -40,7 +52,11 @@
   },
   "darwen": {
     "region": "Darwen and Lancashire",
-    "nearby": ["Blackburn", "Bolton", "Accrington"],
+    "nearby": [
+      "Blackburn",
+      "Bolton",
+      "Accrington"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Darwen, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Darwen",
     "s1loc": [
@@ -53,7 +69,11 @@
   },
   "colwyn bay": {
     "region": "Colwyn Bay and north Wales",
-    "nearby": ["Llandudno", "Rhyl", "Bangor"],
+    "nearby": [
+      "Llandudno",
+      "Rhyl",
+      "Bangor"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Colwyn Bay, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Colwyn Bay",
     "s1loc": [
@@ -66,7 +86,11 @@
   },
   "pontypridd": {
     "region": "Pontypridd and south Wales",
-    "nearby": ["Aberdare", "Merthyr Tydfil", "Caerphilly"],
+    "nearby": [
+      "Aberdare",
+      "Merthyr Tydfil",
+      "Caerphilly"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Pontypridd, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Pontypridd",
     "s1loc": [
@@ -79,7 +103,11 @@
   },
   "harpenden": {
     "region": "Harpenden and Hertfordshire",
-    "nearby": ["St Albans", "Luton", "Hemel Hempstead"],
+    "nearby": [
+      "St Albans",
+      "Luton",
+      "Hemel Hempstead"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Harpenden, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Harpenden",
     "s1loc": [
