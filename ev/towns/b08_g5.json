@@ -1,7 +1,11 @@
 {
   "gainsborough": {
     "region": "Gainsborough and West Lindsey, Lincolnshire",
-    "nearby": ["Retford", "Lincoln", "Scunthorpe"],
+    "nearby": [
+      "Retford",
+      "Lincoln",
+      "Scunthorpe"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Gainsborough, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of West Lindsey",
     "s1loc": [
@@ -14,20 +18,28 @@
   },
   "renfrew": {
     "region": "Renfrew and Renfrewshire, Scotland",
-    "nearby": ["Paisley", "Glasgow", "Clydebank"],
+    "nearby": [
+      "Paisley",
+      "Glasgow",
+      "Clydebank"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Renfrew, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Renfrewshire",
     "s1loc": [
       "Renfrew sits on the Clyde at the heart of Renfrewshire's events scene. The Renfrew Riverside regeneration has reshaped the waterfront, the nearby Braehead Arena handles big concerts and shows for thousands beside the river, and Robertson Park hosts the Renfrew Food and Drink Festival each summer. Just along the road the Paisley Arts Centre and the new-built Beacon Arts Centre in Greenock anchor the touring circuit, while Paisley Town Hall stages headline gigs.",
       "The trade here runs at every size. The arena, festival operators and production companies that serve the wider Glasgow conurbation move large seasonal crews and steward teams and buy through procurement, while independent Renfrewshire promoters, DJs and small event crews need just a few branded pieces. A supplier on this stretch of the Clyde has to kit the big riverside festival and the single crew alike, which is why trade accounts and direct online ordering sit side by side.",
-      "Outdoor work drives much of the gear. Robertson Park days and Riverside events mean wind and rain off the Clyde, so marshals want hi-vis, gate and rigging crews want waterproofs and warm fleeces, and front-of-house staff want crisp embroidered polos. Whether it is a town gala, a food festival load-in or an arena get-out, the staging and crew roles each call for the right garment, named for the operator and stocked for the next seasonal intake."
+      "Outdoor work drives much of the gear. Robertson Park days and Riverside events mean wind and rain off the Clyde, so marshals want hi-vis, gate and rigging crews want waterproofs and warm fleeces, and front-of-house staff want crisp embroidered polos. Whether it is a town gala, a food festival load-in or an arena get-out, the staging and crew roles each call for the right garment, named for the operator and stocked for the next seasonal intake. Renfrew's Robertson Park, the new Renfrew Riverside and the Town Hall host community days, the Braehead arena and retail park nearby pull bigger crowds, and the catchment from Paisley and Glasgow across the Clyde keeps crews and front-of-house teams busy through the season."
     ],
     "kit_loc": "across the town's venues, festivals and events",
     "s2_intro": "Whether you are a major Renfrew venue or festival, a production company or a small independent event crew on the Clyde"
   },
   "bellshill": {
     "region": "Bellshill and North Lanarkshire",
-    "nearby": ["Motherwell", "Coatbridge", "Hamilton"],
+    "nearby": [
+      "Motherwell",
+      "Coatbridge",
+      "Hamilton"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Bellshill, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of North Lanarkshire",
     "s1loc": [
@@ -40,7 +52,11 @@
   },
   "shoreham-by-sea": {
     "region": "Shoreham-by-Sea and West Sussex",
-    "nearby": ["Worthing", "Hove", "Brighton"],
+    "nearby": [
+      "Worthing",
+      "Hove",
+      "Brighton"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Shoreham-by-Sea, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of the Adur",
     "s1loc": [
@@ -53,7 +69,11 @@
   },
   "llandudno": {
     "region": "Llandudno and Conwy, north Wales",
-    "nearby": ["Colwyn Bay", "Rhyl", "Bangor"],
+    "nearby": [
+      "Colwyn Bay",
+      "Rhyl",
+      "Bangor"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Llandudno, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of north Wales",
     "s1loc": [
@@ -66,7 +86,11 @@
   },
   "poulton-le-fylde": {
     "region": "Poulton-le-Fylde and Wyre, Lancashire",
-    "nearby": ["Blackpool", "Thornton Cleveleys", "Fleetwood"],
+    "nearby": [
+      "Blackpool",
+      "Thornton Cleveleys",
+      "Fleetwood"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Poulton-le-Fylde, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of the Fylde",
     "s1loc": [
@@ -79,7 +103,11 @@
   },
   "stourport-on-severn": {
     "region": "Stourport-on-Severn and Worcestershire",
-    "nearby": ["Kidderminster", "Worcester", "Droitwich"],
+    "nearby": [
+      "Kidderminster",
+      "Worcester",
+      "Droitwich"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Stourport-on-Severn, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of the Severn",
     "s1loc": [
