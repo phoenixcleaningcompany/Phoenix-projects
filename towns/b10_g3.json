@@ -1,0 +1,86 @@
+{
+  "sandbach": {
+    "region": "Sandbach, Cheshire",
+    "nearby": ["Crewe", "Congleton", "Northwich"],
+    "s1_head": "Charity and volunteer kit in Sandbach",
+    "s1loc": [
+      "Sandbach Food Bank, run from Sandbach Baptist Church, packs parcels for local families and works alongside The Families Centre, Cheshire East CAB and the Benefits Emergencies team. Surplus food reaches the town through FareShare Greater Manchester, whose volunteer-driven depot covers Cheshire East as well as the ten Greater Manchester boroughs. Between them they keep tinned and dried goods moving from supermarket shelves to the people in Sandbach who need a hand most.",
+      "The sector here runs at every size. National and regional charities such as St Luke's Hospice Cheshire and East Cheshire Hospice run busy shops on Congleton Road and across the wider area, buying kit centrally for paid teams and volunteers alike. Alongside them sit small community groups, the church-run foodbank and volunteer-led projects working on a shoestring across Sandbach, Wheelock and Elworth. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Beyond the foodbank, Sandbach has a strong charity-shop presence, with St Luke's Hospice trading in the heart of the market town and selling donated clothing, books and bric-a-brac to fund palliative care. Community life centres on the cobbles and the weekly market, where mutual-aid groups, uniformed youth sections and friendship clubs raise funds and gather donations. Volunteers from Wheelock, Elworth and Ettiley Heath staff stalls, sort stock and run collections that keep these small projects ticking over week to week."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Sandbach, a FareShare-supplied community group or a small volunteer-run foodbank in Crewe"
+  },
+  "normanton": {
+    "region": "Normanton, West Yorkshire",
+    "nearby": ["Castleford", "Pontefract", "Featherstone"],
+    "s1_head": "Charity and volunteer kit in Normanton",
+    "s1loc": [
+      "Normanton Foodbank, part of the Trussell network, gives out food and toiletries on Tuesdays and Fridays and leans heavily on local volunteers and donations. The Well Project, a community charity based in the town, runs its own food bank alongside youth clubs, lunch clubs, health walks and friendship groups. Both sit within the Wakefield and District Food Aid Network, which now brings together more than thirty foodbanks and food aid providers across the area.",
+      "The sector here runs at every size. National and regional charities run shops along the high street and buy kit centrally for staff and volunteers, while small community groups, pantries and volunteer-run projects work on a shoestring across Normanton, Altofts and Snydale. All Saints Normanton Community Project and the wider Wakefield Street Kitchen add meals, clothing and outreach. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Wakefield Street Kitchen, a charitable organisation staffed by dedicated volunteers, runs a food bank and a meals-on-wheels round reaching people across the district. The Nova Wakefield directory lists scores of small voluntary and community groups, and All Saints Normanton Community Project anchors faith-based outreach in the town. Volunteers from Normanton, Altofts and Featherstone staff coffee mornings, sort donations and run collections, keeping these shoestring projects going through quiet practical effort week after week."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Normanton, a FareShare-supplied community group or a small volunteer-run foodbank in Castleford"
+  },
+  "stanley": {
+    "region": "Stanley, County Durham",
+    "nearby": ["Chester-le-Street", "Consett", "Gateshead"],
+    "s1_head": "Charity and volunteer kit in Stanley",
+    "s1loc": [
+      "Stanley has its own food support through County Durham Foodbank, with a fuel and food point at The Venue Stanley Day Centre on Wear Road. The foodbank is managed by Durham Christian Partnership, formed in 1995, which runs the County Durham network and a foodstore in nearby Chester-le-Street. Volunteers meet and greet clients, pack parcels and signpost people to further help, with County Durham Volunteering listing roles for newcomers across the town.",
+      "The sector here runs at every size. Willow Burn Hospice runs its charity shop on Front Street, near Asda and the Louisa Centre, buying kit centrally for staff and volunteers, while small community groups, pantries and volunteer-run projects work on a shoestring across Stanley, Annfield Plain and South Moor. The Stanley Area Action Partnership ties many of these together. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Willow Burn Hospice raises well over two hundred thousand pounds a year through its shops in Stanley, Consett and Lanchester, funding palliative care nurses for local families. Front Street carries charity shops and collection points, and the Stanley Area Action Partnership coordinates community activity and small grants across the patch. Volunteers from Annfield Plain, Craghead and South Moor staff till counters, sort donations and run mutual-aid and friendship groups, keeping these modest projects alive through steady, unpaid local effort."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Stanley, a FareShare-supplied community group or a small volunteer-run foodbank in Consett"
+  },
+  "cottingham": {
+    "region": "Cottingham, East Riding of Yorkshire",
+    "nearby": ["Hull", "Beverley", "Hessle"],
+    "s1_head": "Charity and volunteer kit in Cottingham",
+    "s1loc": [
+      "Cottingham sits within the reach of East Yorkshire Foodbank and the food redistribution run by FareShare Hull and Humber, part of the Goodwin Development Trust. FareShare saves surplus from waste and sends it to charities and community groups supporting people facing food poverty, delivering the equivalent of more than two and a half million meals in a single year. Its volunteers drive vans, sort stock and staff a community pantry, keeping food moving across Hull and the East Riding.",
+      "The sector here runs at every size. Dove House Hospice runs its charity shop on King Street and around thirty-six shops in total, buying kit centrally for staff and volunteers, while small community groups, pantries and volunteer-run projects work on a shoestring across Cottingham, Willerby and Kirk Ella. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Dove House Hospice cares for people across Hull and the East Riding with life-limiting illnesses, funded in part by its King Street shop and a wide network of retail and gardening volunteers. Time2Volunteer lists openings with FareShare and other groups across Hull and East Riding. Volunteers from Cottingham, Willerby and Anlaby staff tills, steam and price donations, sort surplus food and run small community projects, giving a few hours regularly or occasionally to keep these shoestring efforts running."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Cottingham, a FareShare-supplied community group or a small volunteer-run foodbank in Hull"
+  },
+  "ossett": {
+    "region": "Ossett, West Yorkshire",
+    "nearby": ["Dewsbury", "Batley", "Mirfield"],
+    "s1_head": "Charity and volunteer kit in Ossett",
+    "s1loc": [
+      "The Resource food bank, a purely voluntary group based at Christchurch South Ossett Parish Centre on Vicarage Lane, collects tinned and dried produce, toiletries and cleaning products and makes them into parcels for people in hardship across Horbury, Ossett and Gawthorpe. The parish centre also hosts Centrepoint for adults with learning difficulties and the Shared Craft friendship group. FareShare Yorkshire supplies surplus food to many such groups across the wider region.",
+      "The sector here runs at every size. National and regional charities run shops and buy kit centrally for staff and volunteers, while small community groups, pantries and volunteer-run projects work on a shoestring across Ossett, Horbury and Gawthorpe. Nearby Dewsbury adds the Fusion Food Bank at Empire House and the Welcome Centre, part of a busy Kirklees network. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "The Ossett and Horbury Round Table Charitable Trust fundraises locally and makes grants to children's and adults' groups around the town, while Forget Me Not Children's Hospice supports West Yorkshire families through its shops and services. Across the border in Kirklees, the Welcome Centre and Kirklees Citizens Advice and Law Centre add further support. Volunteers from Horbury, Gawthorpe and South Ossett staff stalls, sort donations and run friendship and craft groups, keeping these small projects ticking over week to week."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Ossett, a FareShare-supplied community group or a small volunteer-run foodbank in Dewsbury"
+  },
+  "maltby": {
+    "region": "Maltby, South Yorkshire",
+    "nearby": ["Rotherham", "Doncaster", "Worksop"],
+    "s1_head": "Charity and volunteer kit in Maltby",
+    "s1loc": [
+      "Maltby Foodbank, run by St Mary Magdalene RC Church from the Coleman Centre beside Tesco, is part of the Trussell network and depends on local donations, volunteers and finances. It works closely with Maltby Town Council, Aldi in Maltby, Morrisons in Bramley, Food Aware and FareShare, all part of the South Yorkshire Foodbank Network. Maltby and Rother Valley Lions and other community groups chip in with food and fundraising to keep parcels going out.",
+      "The sector here runs at every size. National and regional charities run shops and buy kit centrally for staff and volunteers, while small community groups, pantries and volunteer-run projects work on a shoestring across Maltby, Dinnington and Bramley. Full Life Church Maltby and the Dinnington Salvation Army add further outreach and food support nearby. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Food Aware, a community interest company, coordinates the South Yorkshire Foodbank Network and channels surplus food to groups across the borough. The Dinnington Salvation Army thanks local supporters for steady food bank donations, and Full Life Church Maltby runs its own community projects. Volunteers from Maltby, Dinnington and Bramley sort donations, pack parcels at the Coleman Centre and run collections in the supermarkets, keeping these shoestring efforts going through patient, unpaid week-to-week work."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Maltby, a FareShare-supplied community group or a small volunteer-run foodbank in Rotherham"
+  },
+  "ripon": {
+    "region": "Ripon, North Yorkshire",
+    "nearby": ["Harrogate", "Knaresborough", "Northallerton"],
+    "s1_head": "Charity and volunteer kit in Ripon",
+    "s1loc": [
+      "Ripon Community House Food Support provides emergency food parcels for people in crisis in Ripon, Boroughbridge and the surrounding villages, staffed largely by volunteers and accepting tinned goods, dried food and long-life milk. The wider Harrogate District Foodbank, a registered charity, runs distribution points with around seventy volunteers giving their time. Harrogate and District Community Action lists volunteering roles with charitable groups right across the district, including befriending support in the Ripon area.",
+      "The sector here runs at every size. National and regional charities such as Yorkshire Cancer Research, the British Heart Foundation and the Salvation Army run shops in Ripon and buy kit centrally for staff and volunteers, while small community groups, pantries and volunteer-run projects work on a shoestring across Ripon, Boroughbridge and the surrounding villages. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Ripon Together brings individuals and bodies together to support the community, economic and environmental life of the city, while charity shops along North Street and the city centre raise funds for Yorkshire Cancer Research, the British Heart Foundation and the Salvation Army. Mind in Harrogate District seeks volunteer befrienders for people in the Ripon area. Volunteers from Ripon, Boroughbridge and the outlying villages staff tills, sort donations and pack food parcels, keeping these small projects running through steady, unpaid local effort."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Ripon, a FareShare-supplied community group or a small volunteer-run foodbank in Harrogate"
+  }
+}

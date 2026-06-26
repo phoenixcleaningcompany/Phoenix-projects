@@ -1,0 +1,74 @@
+{
+  "bromborough": {
+    "region": "Bromborough, Wirral, Merseyside",
+    "nearby": ["Bebington", "Birkenhead", "Ellesmere Port"],
+    "s1_head": "Bromborough charities and community projects",
+    "s1loc": [
+      "Bromborough sits inside the Wirral Foodbank network, the independent Trussell Trust charity that has handed out well over 160,000 emergency parcels since 2011. The Allport Pantry runs from Bromborough Methodist Church on Allport Lane, and F R Kirk and Son on Allport Lane Precinct serves as a local food donation point. St Barnabas Bromborough offers emergency food for families, while the Meadowcroft Community Wellbeing Hub on Spital Road hosts arts, crafts and social activities for residents who need company as much as a hot meal.",
+      "The sector here runs at every size. National and regional charities keep shops on the high street with central buying behind them, like Wirral Hospice St John's, which opened a Bromborough store to fund its specialist nursing care. Alongside them sit small community groups, pantries and volunteer-run foodbanks working on a shoestring across Allport, Spital, Eastham and New Ferry, where the Phabulous community hub rebuilt after the gas explosion. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Look wider and the volunteer roots run deep. Co-op Bromborough and Eastham, Bebington Central Library and Eastham Library all act as Wirral Foodbank donation points, knitting ordinary shopping trips into the support network. I Am Phab in nearby Bebington runs accessible hobby workshops from guitar to baby signing, and Claire House Children's Hospice and Wirral Hospice draw on long-serving retail volunteers across the peninsula. Add the mutual-aid groups that quietly organise around Bromborough, Eastham and Spital, and it is a town where giving time is simply part of the week."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Bromborough, a Wirral Foodbank-supplied community group or a small volunteer-run foodbank in Bebington"
+  },
+  "bodmin": {
+    "region": "Bodmin, Cornwall",
+    "nearby": ["Newquay", "St Austell", "Truro"],
+    "s1_head": "Bodmin charities and food support",
+    "s1loc": [
+      "Bodmin leans on a genuine mix of food projects. The Bodmin Community Larder, run by Bodmin Way in the Parish Centre opposite St Petroc's Church, is stocked twice weekly by FareShare, the UK's largest food-redistribution charity, fighting food waste with affordable groceries. The Bodmin Foodbank, part of Wadebridge Foodbank, hands out emergency parcels from Immanuel Church on Berrycombe Road, adding toiletries, pet food and help with debt and money management. The Rotary Club of Bodmin has backed the larder, tying service clubs into the wider effort.",
+      "The sector here runs at every size. National and regional charities hold shops with central buying behind them, including the Cornwall Air Ambulance superstore on Fore Street, the charity's biggest, and the Cornwall Hospice Care Bargain Outlet on Normandy Way. Alongside them work small community groups, pantries and volunteer-run foodbanks on a shoestring across the town centre, Berrycombe and St Petroc's parish. We are happy to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Beyond the larder and the foodbank, Bodmin's giving spreads through its shops and clubs. Cornwall Air Ambulance fills two floors on Fore Street with clothing, homeware and furniture sorted by volunteers, and Cornwall Hospice Care keeps a dedicated donation point in town to feed its outlet. Churches Together in Cornwall coordinates much of the parish-level support, while Cornwall Community Foundation channels grants to grassroots groups. The result is a steady volunteer base, from the Monday and Tuesday larder shifts to the foodbank teams, holding the town's safety net together."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Bodmin, a FareShare-supplied community group or a small volunteer-run foodbank in St Austell"
+  },
+  "heswall": {
+    "region": "Heswall, Wirral, Merseyside",
+    "nearby": ["Birkenhead", "Bebington", "Neston"],
+    "s1_head": "Heswall charities and volunteer life",
+    "s1loc": [
+      "Heswall's charity presence is anchored on Telegraph Road, where Wirral Hospice St John's runs a shop opposite Tesco staffed by volunteers, some of whom have given more than ten years to fund the hospice's specialist nursing care. Claire House Children's Hospice keeps a shop further along Telegraph Road, and Barnardo's trades in the town too. The Wirral Foodbank, an independent Trussell Trust charity, covers Heswall as part of its borough-wide network, with the Heswall Hall Community Trust providing a hub for local groups and gatherings.",
+      "The sector here runs at every size. National and regional charities such as Barnardo's, Claire House and Age UK Wirral keep shops with central buying behind them, raising funds for services well beyond the town. Alongside them sit small community groups, pantries and volunteer-run foodbanks working on a shoestring across Gayton, Pensby and Lower Heswall. We are pleased to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "The volunteer network reaches into every corner. Age UK Wirral, Liverpool and Sefton offers befriending, advice and carer support, drawing helpers from Heswall, Gayton and Pensby, while Heswall Round Table and the Heswall Hall Community Trust organise events that quietly raise money for local causes. Gayton Primary and Heswall Centre parent groups fundraise on the doorstep, and the Heswall and Pensby surgeries signpost older residents to community resources. Between the hospice shops and these neighbourhood groups, the town keeps a dependable pool of regular volunteers."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Heswall, a Wirral Foodbank-supplied community group or a small volunteer-run foodbank in Bebington"
+  },
+  "prudhoe": {
+    "region": "Prudhoe, Northumberland",
+    "nearby": ["Newcastle upon Tyne", "Consett", "Gateshead"],
+    "s1_head": "Prudhoe charities and food support",
+    "s1loc": [
+      "Prudhoe is served by the West Northumberland Food Bank, the Hexham-based charity that makes year-round doorstep deliveries across 44 towns and villages including Prudhoe, paired with benefits and debt support. The Co-op on the high street acts as a donation point, and during the pandemic the town rallied behind the food bank. The Miners Lamb Community Cafe and Hub in Prudhoe supports vulnerable individuals and families with emergency care packages, giving the town its own grassroots project alongside the wider network.",
+      "The sector here runs at every size. National and regional charities keep shops with central buying behind them, led by Tynedale Hospice at Home, which has a Prudhoe shop and a new donations and distribution centre at Princess Court feeding its retail estate. Alongside them work small community groups, pantries and volunteer-run projects on a shoestring across Mickley, Stocksfield, Ovington, Ovingham and Wylam. We are glad to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Volunteering is organised through the Prudhoe Community Partnership, which backs groups and individual helpers across Prudhoe, Mickley, Stocksfield, Ovington, Ovingham and Wylam. Tynedale Hospice at Home, whose retail raises more than a third of its annual running costs, recruits behind-the-scenes volunteers for warehousing and sorting at its Prudhoe centre. The West Northumberland Food Bank leans on a volunteer helpline team, logistics crews and supermarket-collection drivers, so much of the town's care for its neighbours is delivered entirely by people giving their time."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Prudhoe, a West Northumberland Food Bank-supplied community group or a small volunteer-run foodbank in Gateshead"
+  },
+  "ulverston": {
+    "region": "Ulverston, Cumbria",
+    "nearby": ["Barrow-in-Furness", "Kendal", "Lancaster"],
+    "s1_head": "Ulverston charities and community care",
+    "s1loc": [
+      "Ulverston's giving centres on St Mary's Hospice on Ford Park Crescent, which provides palliative care across the Furness Peninsula and South Lakes and runs the Orangery Cafe shop seven days a week plus a flagship store on Market Street. The Barrow Foodbank covers Ulverston and was honoured with the Queen's Award for Voluntary Service, now helping clients top up gas and electricity meters too. The Ford Park Community Group manages the park and, with the Ulverston Self-Isolation Group, has cooked and distributed ready meals to vulnerable residents.",
+      "The sector here runs at every size. National and regional charities keep shops with central buying behind them, including St Mary's Hospice with its seven shops across South Cumbria and a furniture warehouse in Barrow. Alongside them sit small community groups, pantries and volunteer-run foodbanks working on a shoestring across the town centre, Ford Park and the surrounding villages. We are happy to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "The volunteer side is well coordinated. Cumbria CVS runs an opportunities directory and has staged an Ulverston Volunteer Fair with the Town Council and Community Solutions, letting residents meet local groups face to face. The Ford Park Community Group offers training and volunteering for disadvantaged and disabled people while running food-growing education on its grounds. St Mary's Hospice depends on its shop and care volunteers, and Cumbria Community Foundation channels grants to grassroots causes, keeping the town's voluntary effort funded and busy."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Ulverston, a FareShare-supplied community group or a small volunteer-run foodbank in Barrow-in-Furness"
+  },
+  "prescot": {
+    "region": "Prescot, Knowsley, Merseyside",
+    "nearby": ["St Helens", "Liverpool", "Bootle"],
+    "s1_head": "Prescot charities and food support",
+    "s1loc": [
+      "Prescot is covered by the Knowsley Foodbank, part of the Trussell Trust network, which gives three days of emergency food to people referred in crisis. The Prescot and Whiston Community Advice Centre, above the museum and library in the One Stop Shop, holds foodbank vouchers, and the Salvation Army runs the PFC Foodbank on Warrington Road each Wednesday lunchtime. FareShare Merseyside opened a Coronation Food Hub in Knowsley in 2024, backed by the Steve Morgan Foundation, boosting surplus-food redistribution across the borough.",
+      "The sector here runs at every size. National and regional charities keep shops with central buying behind them, led by Willowbrook Hospice, the only hospice covering St Helens and Knowsley, whose superstore in Prescot Shopping Central spreads over two floors. Alongside them work small community groups, pantries and volunteer-run foodbanks on a shoestring across Prescot, Whiston and Stockbridge Village. We are glad to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Volunteering in Prescot is broad and busy. Willowbrook Hospice has more than 540 registered volunteers and a chain of shops reaching from Prescot to Huyton, Kirkby, Stockbridge Village, Rainhill and beyond, all raising income towards its yearly running costs. Aid to All provides borough-wide foodbank help with same-day support, and the Knowsley Foodbank teams sort and distribute donations entirely on goodwill. Between the advice centre, the Salvation Army shifts and the hospice retail volunteers, the town keeps a steady network of people quietly looking after their neighbours."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Prescot, a FareShare-supplied community group or a small volunteer-run foodbank in St Helens"
+  }
+}

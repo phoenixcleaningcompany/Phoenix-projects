@@ -1,0 +1,62 @@
+{
+  "newport (isle of wight)": {
+    "region": "Newport and the Isle of Wight",
+    "nearby": ["Ryde", "Cowes", "Sandown"],
+    "s1_head": "Charity and volunteer kit across Newport",
+    "s1loc": [
+      "Mountbatten Isle of Wight, the Island's only hospice, runs from Newport and provides end of life and bereavement care across the whole Isle of Wight, funded largely by community giving and a chain of charity shops. The Isle of Wight Foodbank, part of the Trussell network, hands out three-day emergency parcels at St John's Church Hall on St John's Road, while Community Action Isle of Wight works from The Riverside Centre on the quay. The Footprint Trust, the Island energy charity, supports households in fuel poverty from its Newport base.",
+      "The sector here runs at every size. National and regional charities such as Mountbatten and Age UK Isle of Wight keep busy shops with central buying and uniform standards behind them, while small community groups, the Pyle Street pantry, faith-run foodbank sessions and volunteer-led projects get by on a shoestring across Newport, Pan and Carisbrooke. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts for the big names and direct online ordering with no minimum for the smallest group.",
+      "Community Action Isle of Wight runs the Isle of Wight Volunteer Centre from The Riverside Centre, placing hundreds of volunteers and supporting projects such as a volunteer car service and the Bay Youth Project. The Footprint Trust set up a volunteer-run conservation scheme, the best attended of its kind in the country, looking after green spaces across the Island. Charity shops along Newport high street and St James Street, the Pyle Street community pantry and church-run warm-welcome sessions knit the town's effort together out towards Pan and Carisbrooke."
+    ],
+    "kit_loc": "across the island's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Newport, an Isle of Wight Foodbank-supplied community group or a small volunteer-run foodbank in Ryde"
+  },
+  "ryde": {
+    "region": "Ryde and the Isle of Wight",
+    "nearby": ["Newport (Isle of Wight)", "Cowes", "Sandown"],
+    "s1_head": "Charity and volunteer kit across Ryde",
+    "s1loc": [
+      "Aspire Ryde is a thriving community hub housed in the former Holy Trinity church, running food pantries, a community cafe, wellbeing and youth work and the Living Well and Early Help service alongside thousands of hours of volunteering each year. The Ryde Foodbank, part of the Isle of Wight Foodbank in the Trussell network, distributes emergency parcels from Grace Church on Tuesday and Thursday mornings. Mountbatten Isle of Wight and Age UK Isle of Wight both keep charity shops in the town, raising funds for Island-wide hospice and older-people services.",
+      "The sector here runs at every size. National and regional charities such as Mountbatten, Age UK Isle of Wight and the British Heart Foundation run busy high-street shops with central buying behind them, while small community groups, the Oakfield community pantry, Grace Church foodbank sessions and volunteer-led projects get by on a shoestring across Ryde, Oakfield and Binstead. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts for the big names and direct online ordering with no minimum for the smallest group.",
+      "A Ryde community pantry runs from Oakfield CE Primary School, offering members a basket of fresh, frozen and cupboard food for a small weekly payment. Aspire Ryde has converted upper floors of its building into flats for Island people at risk of homelessness, including veterans, and recruits volunteers across its many projects. Charity shops line Union Street and the high street, and church halls around Oakfield and Binstead host the foodbank sessions, drop-ins and seasonal fundraising that keep the network alive across the north-east of the Island."
+    ],
+    "kit_loc": "across the island's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Ryde, an Isle of Wight Foodbank-supplied community group or a small volunteer-run foodbank in Sandown"
+  },
+  "cowes": {
+    "region": "Cowes and the Isle of Wight",
+    "nearby": ["Newport (Isle of Wight)", "Ryde", "Sandown"],
+    "s1_head": "Charity and volunteer kit across Cowes",
+    "s1loc": [
+      "The Isle of Wight Foodbank has its main distribution centre and office at Love Lane in Cowes, the hub for the Trussell-network parcels handed out across the Island. The NSPCC charity shop on Shooters Hill has served Cowes since 1982 and is one of only just two NSPCC shops in the whole UK. Cowes Sailability gives disabled Islanders the chance to get out on the water, run almost entirely by volunteers, while Age UK Isle of Wight keeps a shop on York Avenue in neighbouring East Cowes.",
+      "The sector here runs at every size. National and regional charities such as the NSPCC, Age UK Isle of Wight and Mountbatten keep busy shops with central buying behind them, while small community groups, the Community Spirited pantry on Vectis Road and volunteer-led projects get by on a shoestring across Cowes, East Cowes and Northwood. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts for the big names and direct online ordering with no minimum for the smallest group.",
+      "Community Spirited runs a community pantry from Vectis Road in East Cowes, opening several days a week so members can pick fresh, frozen and cupboard essentials for a small payment. The Cowes foodbank base on Love Lane takes food donations that feed parcels right across the Island, and charity shops along the high street and York Avenue rely on volunteer sorters and till staff. Cowes Sailability draws sponsors and volunteers from the sailing town, and church halls around Northwood and East Cowes host warm-welcome sessions and collections."
+    ],
+    "kit_loc": "across the island's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Cowes, an Isle of Wight Foodbank-supplied community group or a small volunteer-run foodbank in Newport (Isle of Wight)"
+  },
+  "shanklin": {
+    "region": "Shanklin and the Isle of Wight",
+    "nearby": ["Sandown", "Ryde", "Newport (Isle of Wight)"],
+    "s1_head": "Charity and volunteer kit across Shanklin",
+    "s1loc": [
+      "Shanklin sits in the Bay, served by the Isle of Wight Foodbank in the Trussell network and a run of charity shops along Regent Street. The British Heart Foundation shop at 43-45 Regent Street sells second-hand clothes, books and homewares and recruits local volunteers, while the Salvation Army runs its own shop in the town and Ability Dogs 4 Young People keeps a charity shop on Regent Street as well. Mountbatten Isle of Wight, the Island's only hospice, draws fundraising and shop support from across the Bay towns.",
+      "The sector here runs at every size. National and regional charities such as the British Heart Foundation, the Salvation Army and Mountbatten keep busy shops with central buying and uniform standards behind them, while small community groups, the Bay-area foodbank sessions, church-run pantries and volunteer-led projects get by on a shoestring across Shanklin, Lake and Sandown. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts for the big names and direct online ordering with no minimum for the smallest group.",
+      "The Bay Business Association, a volunteer-led group covering Shanklin, Lake, Sandown, Yaverland and Lucombe, promotes local causes and builds links between community leaders. Free Food Sandown, which started with the Sandown and Shanklin Co-ops, redistributes surplus food and moved its base to nearby Lake. Charity shops along Regent Street and the Old Village rely on volunteer sorters and till staff, and church halls across the Bay host the foodbank sessions, pantries and seasonal fundraising that keep the network running towards Lake and Sandown."
+    ],
+    "kit_loc": "across the island's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Shanklin, an Isle of Wight Foodbank-supplied community group or a small volunteer-run foodbank in Sandown"
+  },
+  "sandown": {
+    "region": "Sandown and the Isle of Wight",
+    "nearby": ["Shanklin", "Ryde", "Newport (Isle of Wight)"],
+    "s1_head": "Charity and volunteer kit across Sandown",
+    "s1loc": [
+      "Sandown is served by the Isle of Wight Foodbank in the Trussell network, with a community pantry and CAMEO running on Wednesdays and Fridays from Sandown Elim Pentecostal Church, where members get around fifteen pound of food for a five pound payment. Free Food Sandown, set up with the Sandown and Shanklin Co-ops, redistributes surplus food and now bases itself in neighbouring Lake. Mountbatten Isle of Wight, the Island's only hospice in Newport, and Age UK Isle of Wight both draw fundraising and shop volunteers from the Bay.",
+      "The sector here runs at every size. National and regional charities such as Mountbatten and Age UK Isle of Wight keep busy shops with central buying behind them, while small community groups, the Elim church pantry, Free Food Sandown and volunteer-led projects get by on a shoestring across Sandown, Lake and Yaverland. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts for the big names and direct online ordering with no minimum for the smallest group.",
+      "The Bay Business Association, a volunteer-led group covering Sandown, Lake, Shanklin, Yaverland and Lucombe, promotes local causes and links community leaders across the Bay. Community Action Isle of Wight and the Isle of Wight Volunteer Centre place volunteers into Sandown's pantries, charity shops and church projects from their Newport base. Charity shops along the high street rely on volunteer sorters and till staff, and church halls around Lake and Yaverland host the foodbank sessions, the Elim community pantry and the seasonal fundraising that keep the Bay network alive."
+    ],
+    "kit_loc": "across the island's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Sandown, an Isle of Wight Foodbank-supplied community group or a small volunteer-run foodbank in Shanklin"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "bedlington": {
+    "region": "Bedlington, Northumberland",
+    "nearby": ["Blyth", "Cramlington", "Ashington"],
+    "s1_head": "Charity and volunteer kit in Bedlington",
+    "s1loc": [
+      "Bedlington Foodbank is a voluntary-run project supplying emergency parcels across Bedlingtonshire, from Bedlington Station and Nedderton Village to Guide Post, Stakeford, Cambois and East and West Sleekburn, with referrals through Citizens Advice Northumberland, the Red Cross and Family Gateway. The Salvation Army runs its own collection, and The Mathew Project serves families across Bedlington and the wider area. Freemasons from Bedlington Masonic Hall gather donations, while Northumberland CVA and Thriving Together Northumberland knit the smaller groups together.",
+      "The sector here runs at every size. National charities keep shops and central buying behind them and order kit on trade accounts, while small community groups, the one-room foodbank and volunteer-run pantries get by on a shoestring across the Front Street, Hartford and Netherton Lane neighbourhoods. FareShare North East feeds surplus into many of these projects, and the Wansbeck and Mathew Project networks cover the pit-village rows. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online, no minimum.",
+      "Beyond the food parcels, Bedlington has a real spread of volunteer effort. St Oswald's Hospice draws fundraisers and shop helpers from the town, charity shops along Front Street raise income for hospice and welfare causes, and mutual-aid groups grew out of the lockdown years around Bedlington Station and West Lea. Community Action Northumberland supports village halls and befriending schemes in the outlying hamlets, and Bedlingtonshire's churches host warm spaces and toddler groups, every one of them run on donated time and counting every pound saved on workwear."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Bedlington, a FareShare North East-supplied community group or a small volunteer-run foodbank in Ashington"
+  },
+  "morpeth": {
+    "region": "Morpeth, Northumberland",
+    "nearby": ["Ashington", "Cramlington", "Blyth"],
+    "s1_head": "Charity and volunteer kit in Morpeth",
+    "s1loc": [
+      "Morpeth's charity scene clusters along Bridge Street and Newgate Street, where St Oswald's Hospice runs a refreshed shop staffed by long-serving volunteers, alongside British Red Cross, British Heart Foundation, Cancer Research UK and a Salvation Army store. The Wansbeck Valley Food Bank covers Morpeth, Pegswood, Stannington, Mitford and Longhorsley, and The Mathew Project reaches the town too. Community Action Northumberland coordinates village-hall and befriending schemes across the surrounding rural parishes from its Morpeth base.",
+      "The sector runs at every size here. Big national charities lean on shops across the county and central buying and order kit on trade accounts, while small community groups, the parish foodbank and volunteer-run pantries scrape by on a shoestring across Stobhill, Loansdean and the Kirkhill neighbourhoods. FareShare North East redistributes surplus to many of these projects, and St Oswald's huge volunteer team spans ages and roles. We aim to serve the national charity and the one-room foodbank alike, with trade accounts and direct online, no minimum.",
+      "Morpeth's voluntary life goes well past the high street. The town hosts mental-health and contact groups, mutual-aid networks that formed in recent years, and the long-running Morpeth Lions and Rotary fundraising. Carlisle Park events, the Northumberland gathering and church-run warm spaces all draw on donated hours, and hospices including St Oswald's and the children's services at the Newcastle end recruit shop and fundraising volunteers here. From the Mitford lanes to Stobhill, these are shoestring outfits keeping every pound on the cause rather than the kit."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Morpeth, a FareShare North East-supplied community group or a small volunteer-run foodbank in Ashington"
+  },
+  "hessle": {
+    "region": "Hessle, East Riding of Yorkshire",
+    "nearby": ["Hull", "Cottingham", "Beverley"],
+    "s1_head": "Charity and volunteer kit in Hessle",
+    "s1loc": [
+      "Hessle and Anlaby Food Bank is a volunteer-led project that grew out of the pandemic and now supports well over a hundred households, delivering parcels every Monday and Thursday and running the Hessle and Anlaby Community Pantry, where members buy food and household goods at discounted prices. Dove House Hospice anchors the charity-shop trade with its Hessle Square store, and the wider East Yorkshire Foodbank and Hull Foodbank networks feed crisis support into the town and its East Riding villages.",
+      "The sector here runs at every size. National and regional charities back their shops with central buying and order kit on trade accounts, while small community groups, the one-room foodbank and volunteer-run pantries get by on a shoestring across Hessle Square, the Foreshore and the Anlaby Road approaches. Dove House shop income covers roughly half the hospice's running costs, and surplus-food networks supply the smaller pantries. We are built to serve the national charity and the one-room foodbank alike, with trade accounts and direct online, no minimum.",
+      "Beyond the foodbank, Hessle has a dense layer of volunteer-run causes. The Hessle Epilepsy charity shop is a friendly local fixture, Dove House runs further stores out into Cottingham, Anlaby and Brough, and the Beverley Community Lift shop sits nearby. Mutual-aid and community-cafe groups meet around the Town Hall and Southfield, the Humber foreshore hosts fundraising walks under the bridge, and church halls run toddler groups and warm spaces. Every one of these outfits is staffed by donated time and watches every pound spent on workwear."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Hessle, an East Yorkshire Foodbank-supplied community group or a small volunteer-run foodbank in Hull"
+  },
+  "selby": {
+    "region": "Selby, North Yorkshire",
+    "nearby": ["York", "Goole", "Pontefract"],
+    "s1_head": "Charity and volunteer kit in Selby",
+    "s1loc": [
+      "Selby Hands of Hope, founded in 2009 by Wendy Singh, is a grassroots charity run by local people that relieves hardship across the Selby District and runs shops around Market Cross and Market Lane. Selby and District Foodbank works on a voucher-referral basis and leans on local food donations and volunteers. St Leonard's Hospice supports the town with a shop on Gowthorpe, and the children's hospice Martin House also draws fundraisers and shop helpers from the Selby area.",
+      "The sector here runs at every size. Selby's market town is known for its dense run of charity shops, with around a dozen second-hand stores backing national and regional charities that carry central buying and order kit on trade accounts, while small community groups, the one-room foodbank and volunteer-run pantries get by on a shoestring across Gowthorpe, the Abbey quarter and Flaxley Road. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online, no minimum.",
+      "Selby's voluntary effort reaches well beyond the shop fronts. Our Zero Selby champions the charity-shop trade as part of a sustainability drive, Selby Hands of Hope runs training and back-to-work volunteering alongside its furniture and clothing stores, and the foodbank's referral partners span Citizens Advice and the district council. Mutual-aid groups, church-hall warm spaces and community cafes operate around the Abbey, Brayton and Barlby, every one of them keeping costs low so that the maximum stays with the cause rather than the kit."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Selby, a St Leonard's Hospice-supplied community group or a small volunteer-run foodbank in York"
+  },
+  "knaresborough": {
+    "region": "Knaresborough, North Yorkshire",
+    "nearby": ["Harrogate", "Ripon", "York"],
+    "s1_head": "Charity and volunteer kit in Knaresborough",
+    "s1loc": [
+      "Resurrected Bites, the food-redistribution charity set up by Michelle Hayes in 2018, runs a community grocery at Gracious Street Methodist Church in Knaresborough, turning surplus food into affordable shops for people who are struggling. Harrogate District Foodbank distributes from Holy Trinity Church on Knaresborough's Fridays, part of a network reaching Mowbray Community Church in Harrogate and Life Destiny Church in Starbeck. Better Connect, a Knaresborough-based non-profit, works to help people thrive in life and work.",
+      "The sector here runs at every size. National and regional charities stand behind their shops with central buying and order kit on trade accounts, while small community groups, the one-room foodbank and volunteer-run pantries get by on a shoestring across the Market Place, Bond End and High Bridge neighbourhoods. Charity shops in the town raise essential income for Martin House children's hospice, and surplus-food networks supply the community groceries. We are built to serve the national charity and the one-room foodbank alike, with trade accounts and direct online, no minimum.",
+      "Knaresborough's volunteer life is coordinated in good part by Harrogate and District Community Action, which lists community-cafe, grocery and befriending roles across the town. The riverside Bebra Gardens and the Waterside host fundraising events, charity shops cluster along the High Street, and church-hall warm spaces and toddler groups run on donated hours. Resurrected Bites recruits volunteers to sort and serve surplus, and mutual-aid groups around Aspin and Scriven keep the smaller efforts going, every one of them counting every pound off the cause."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Knaresborough, a Resurrected Bites-supplied community group or a small volunteer-run foodbank in Harrogate"
+  },
+  "clitheroe": {
+    "region": "Clitheroe, Ribble Valley, Lancashire",
+    "nearby": ["Burnley", "Blackburn", "Accrington"],
+    "s1_head": "Charity and volunteer kit in Clitheroe",
+    "s1loc": [
+      "Ribble Valley Foodbank, run by the Ribble Valley Gateway Trust, opens on Fridays at Trinity Methodist Church and Community Hub on Parson Lane in Clitheroe, with the Olive Branch Advice Hub offering free, confidential support alongside the food parcels. The Gateway Trust also runs counselling and Ribble Valley Art for All for people with special needs. The CVS umbrella body supports the voluntary sector across Hyndburn and the Ribble Valley, where roughly 280 groups operate over a wide rural radius.",
+      "The sector here runs at every size. National and regional charities lean on their shops and central buying and order kit on trade accounts, while small community groups, the one-room foodbank and volunteer-run pantries scrape by on a shoestring across Castle Street, Lowergate and the Henthorn estate. Thousands of volunteers across the Trussell network keep emergency food moving, and surplus-food schemes feed the smaller projects. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online, no minimum.",
+      "Clitheroe's voluntary effort spreads across the market town and the surrounding Ribble Valley villages. Charity shops cluster along Castle Street and Moor Lane raising funds for hospice and welfare causes, the Olive Branch advice service helps people through the door, and church-hall warm spaces and community lunches run on donated time. Mutual-aid groups formed in recent years around Low Moor and Salthill, and the Castle grounds host fundraising events, every group keeping costs lean so the maximum reaches the cause rather than the kit."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Clitheroe, a Ribble Valley Foodbank-supplied community group or a small volunteer-run foodbank in Burnley"
+  },
+  "neston": {
+    "region": "Neston, Cheshire West and Chester",
+    "nearby": ["Ellesmere Port", "Bromborough", "Heswall"],
+    "s1_head": "Charity and volunteer kit in Neston",
+    "s1loc": [
+      "West Cheshire Foodbank, part of the Trussell network, runs a distribution point at Neston Community and Youth Centre on Burton Road every Thursday, with Neston Methodist Church and Community Centre serving as a collection point. The same charity covers Ellesmere Port from Westminster Community Centre and the Trinity Centre, relying on teams of more than eighty volunteers. Claire House Children's Hospice, which cares for families across Cheshire, Merseyside and North Wales, runs a shop in Neston and recruits volunteers from the town.",
+      "The sector here runs at every size. National and regional charities back their shops with central buying and order kit on trade accounts, while small community groups, the one-room foodbank and volunteer-run pantries get by on a shoestring across the High Street, Little Neston and Parkgate. Neston Community Youth Centre hosts services and groups, and surplus-food schemes feed the smaller projects. We are built to serve the national charity and the one-room foodbank alike, with trade accounts and direct online, no minimum.",
+      "Neston's volunteer life reaches well beyond the foodbank. Claire House draws shop and fundraising helpers from across the town, the Whitby Park conservation group plants trees and builds wildlife ponds with volunteers each week, and the Neston Female Society and ladies' walking-day tradition keep an old charitable custom alive. Mutual-aid groups and church-hall warm spaces meet around Little Neston and Parkgate's marshes, and the youth centre runs toddler and youth sessions, every one of them on donated time and watching every pound spent on kit."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Neston, a West Cheshire Foodbank-supplied community group or a small volunteer-run foodbank in Ellesmere Port"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "guisborough": {
+    "region": "Guisborough, Redcar and Cleveland",
+    "nearby": ["Redcar", "Middlesbrough", "Stockton-on-Tees"],
+    "s1_head": "Charity and volunteer kit in Guisborough",
+    "s1loc": [
+      "Guisborough Bridge runs the town's food stop and community grocery shop from Tuesday and Thursday mornings, handing out fresh fruit and vegetables alongside non-perishable parcels. Redcar Area Foodbank backs the wider network, while RCVDA, the Redcar and Cleveland Voluntary Development Agency, supports the many volunteer-run groups across the borough. East Cleveland Good Neighbours covers the rural villages, and the big food-redistribution and foodbank networks keep emergency parcels stocked for families hit by the rising cost of living.",
+      "The sector here runs at every size. National and regional charities with shops along Westgate and the high street lean on trade accounts and central buying, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Belmangate, Park Lane and the surrounding East Cleveland villages. Teesside Hospice raises funds through its Chaloner Street shop. We serve the national charity and the one-room foodbank alike, with trade accounts AND direct online ordering, no minimum.",
+      "Teesside Hospice supports over three thousand local people each year and runs charity shops in Guisborough and nearby Saltburn, the latter on Station Street. Footprints in the Community delivers a string of volunteer-led projects across the area, and Saltburn Solidarity gathers residents to help neighbours struggling to feed their children. Men's groups, mutual-aid collections and church-led warm spaces all need plain, hard-wearing kit, drawing in volunteers from Pinchinthorpe and Hutton village as well as the town centre itself."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Guisborough, a Redcar Area Foodbank-supplied community group or a small volunteer-run foodbank in Middlesbrough"
+  },
+  "saltash": {
+    "region": "Saltash, Cornwall",
+    "nearby": ["Plymouth", "Bodmin", "Truro"],
+    "s1_head": "Charity and volunteer kit in Saltash",
+    "s1loc": [
+      "Saltash Foodbank, founded by local churches and community groups, runs with more than fifty volunteers and no paid staff from its drop-in on Belle Vue Road, part of the nationwide Trussell network. In a recent year it supported over six hundred household referrals, more than thirteen hundred people. Volunteer drivers collect from supermarket points across Saltash and Plymouth, and the project ties into Churches Together in Cornwall and the wider Volunteer Cornwall network coordinating help across the county.",
+      "The sector here runs at every size. National and regional charities with shops along Fore Street rely on trade accounts and central buying, while small community groups, foodbanks, pantries and volunteer-run projects scrape by on a shoestring across Burraton, Latchbrook and St Stephens. Community Enterprises PL12 and the local Wesley Church warm space round out the picture. We serve the national charity and the one-room foodbank alike, with trade accounts AND direct online ordering, no minimum.",
+      "Beyond the foodbank, Saltash supports a thick weave of volunteer-run life: school breakfast and afterschool clubs supplied with food, the Wesley Church warm space serving lunches, and Community Enterprises PL12 backing local projects. Mutual-aid groups and church teams gather donations through the year, and Volunteer Cornwall lists roles right across the Tamar valley. Charity shops on the high street and community fundraisers all draw in helpers from Pillmere, Carkeel and the riverside neighbourhoods near the Tamar bridges."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Saltash, a Trussell-supplied community group or a small volunteer-run foodbank in Plymouth"
+  },
+  "bideford": {
+    "region": "Bideford, Devon",
+    "nearby": ["Barnstaple", "Tiverton", "Exmouth"],
+    "s1_head": "Charity and volunteer kit in Bideford",
+    "s1loc": [
+      "Northern Devon Foodbank runs a Bideford centre serving around a hundred households a week, distributing thousands of pounds of food across North Devon and Torridge. The Storehouse in Bideford gathers volunteers to support the wider Torridge community, while Torridge CVS leads voluntary activity across the district with governance and funding support. Encompass Southwest offers free confidential advice, and the big food-redistribution and foodbank networks keep parcels flowing to families through the harder months.",
+      "The sector here runs at every size. National and regional charities with shops along Mill Street and the quay rely on trade accounts and central buying, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across East-the-Water, Northam and Westward Ho. Alabare supports homeless adults, and Men's Shed Bideford meets on Friday mornings. We serve the national charity and the one-room foodbank alike, with trade accounts AND direct online ordering, no minimum.",
+      "Children's Hospice South West runs its Bideford shop on the high street, raising funds for Little Bridge House at nearby Fremington, which supports up to two hundred families with life-limited children. The One Atlantic community forum pulls together public and voluntary groups across Bideford, Appledore, Northam and Westward Ho to back local health and wellbeing. Charity shops, Men's Shed sessions and church-led collections draw helpers from Appledore quay through to the Torridge riverside estates."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Bideford, a Northern Devon Foodbank-supplied community group or a small volunteer-run foodbank in Barnstaple"
+  },
+  "penrith": {
+    "region": "Penrith, Cumbria",
+    "nearby": ["Carlisle", "Workington", "Kendal"],
+    "s1_head": "Charity and volunteer kit in Penrith",
+    "s1loc": [
+      "Penrith sits at the heart of Eden's voluntary scene, with the Salvation Army food bank serving people in need and the church-led Upper Eden Food Bank feeding the rural fringes. Eden Valley Hospice cares for adults across north Cumbria, while its sister project Jigsaw is Cumbria's children's hospice. Cumbria CVS supports community and not-for-profit groups with training and funding advice, and the big food-redistribution and foodbank networks keep emergency parcels moving across the district.",
+      "The sector here runs at every size. National and regional charities with shops along Devonshire Street and King Street rely on trade accounts and central buying, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Carleton, Stainton and the Alston fells. Hospice at Home and Carers Support Carlisle and Eden round out the picture. We serve the national charity and the one-room foodbank alike, with trade accounts AND direct online ordering, no minimum.",
+      "Eden Valley Hospice and Jigsaw run charity shops on Devonshire Street, and Hospice at Home keeps shops in Penrith, Brampton, Keswick and Carlisle stocked with pre-loved and new goods. Upper Eden Linking Lives and Hospice at Home Carlisle and North Lakeland support isolated residents, while monthly repair cafes in Penrith and occasional ones at Appleby and Alston gather volunteers. The Eden Volunteering and Community Fair and well-being directory tie together helpers from Plumpton, Langwathby and the Alston moor villages."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Penrith, an Upper Eden Food Bank-supplied community group or a small volunteer-run foodbank in Carlisle"
+  },
+  "northallerton": {
+    "region": "Northallerton, North Yorkshire",
+    "nearby": ["Ripon", "Darlington", "Stockton-on-Tees"],
+    "s1_head": "Charity and volunteer kit in Northallerton",
+    "s1loc": [
+      "Hambleton Foodshare, a volunteer-led foodbank registered since 2014, runs from the Old Registry Office behind County Hall on Racecourse Lane, open Monday to Friday. Hambleton Community Action, a registered charity, supports voluntary and community groups across the district and promotes volunteering, while Mind in Hambleton and Richmondshire delivers mental health recovery services. The big food-redistribution and foodbank networks keep parcels stocked, and Community Support North Yorkshire backs the area's community anchor organisations.",
+      "The sector here runs at every size. National and regional charities with shops along the High Street and Zetland Street rely on trade accounts and central buying, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Romanby, Brompton and the surrounding Hambleton villages. Herriot Hospice Homecare leans on its volunteer network. We serve the national charity and the one-room foodbank alike, with trade accounts AND direct online ordering, no minimum.",
+      "Herriot Hospice Homecare, based at the Friarage Hospital, cares for people with terminal illness across Hambleton and Richmondshire, running community shops in Northallerton, Thirsk, Stokesley, Bedale and beyond, with its Just 'B' teams supporting emotional wellbeing. More than a quarter of its HOME service patients live in Northallerton itself. Charity shops, church-led collections and the volunteer-backed Hambleton Community Action draw helpers from Romanby, Brompton and the Wensleydale-edge villages, with volunteers described as the backbone of the work."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Northallerton, a Hambleton Foodshare-supplied community group or a small volunteer-run foodbank in Darlington"
+  },
+  "featherstone": {
+    "region": "Featherstone, West Yorkshire",
+    "nearby": ["Pontefract", "Castleford", "Normanton"],
+    "s1_head": "Charity and volunteer kit in Featherstone",
+    "s1loc": [
+      "Pontefract and Knottingley Foodbank, a registered charity run by volunteers on a referral and voucher system, serves Featherstone households alongside a foodbank session at the Gospel Hall on Station Road each Wednesday evening. Knottingley Foodbank distributes donated food to clients in food poverty nearby. The Wakefield and District Food Aid Network brings food banks and partners together, and the big food-redistribution and foodbank networks keep parcels stocked across the Five Towns.",
+      "The sector here runs at every size. National and regional charities with shops along Station Lane rely on trade accounts and central buying, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Purston, Streethouse, Ackton and Old Snydale. Nova Wakefield District supports the wider voluntary sector. We serve the national charity and the one-room foodbank alike, with trade accounts AND direct online ordering, no minimum.",
+      "Featherstone Community Hub coordinates volunteer-led help from telephone befriending to shopping and medicine deliveries, drawing on the Featherstone Community Centre as a base for the town and the villages of Streethouse, Purston, Ackton and Old Snydale. The 5 Towns Veterans Support Hub runs drop-ins in Featherstone and Castleford, while Wakefield Food Pantry and church-led groups gather helpers. Charity shops along Station Lane and community fundraisers pull in volunteers from across the Pontefract and Normanton border."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Featherstone, a Pontefract and Knottingley Foodbank-supplied community group or a small volunteer-run foodbank in Pontefract"
+  },
+  "mexborough": {
+    "region": "Mexborough, South Yorkshire",
+    "nearby": ["Rotherham", "Doncaster", "Barnsley"],
+    "s1_head": "Charity and volunteer kit in Mexborough",
+    "s1loc": [
+      "Mexborough, Denaby and Conisbrough Foodbank, launched in 2014, relies on a small group of volunteers and its community partner Food Aware CIC to hand out fifteen to twenty parcels a week, delivering to families' homes after referrals from Citizens Advice Doncaster and the Mexborough Family Hub. Food Aware CIC, based partly at the Dearne Valley Personal Development Centre, supports over a hundred community organisations feeding thousands each week across the Dearne. The big food-redistribution and foodbank networks back the lot.",
+      "The sector here runs at every size. National and regional charities with shops along the High Street rely on trade accounts and central buying, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Denaby Main, Swinton and Conisbrough. Mexborough Stronger Together and the Wath Foodbank round out the picture. We serve the national charity and the one-room foodbank alike, with trade accounts AND direct online ordering, no minimum.",
+      "Bluebell Wood Children's Hospice, based at North Anston, runs charity shops across the local area and supports families with life-limited children throughout South Yorkshire and the Dearne. The Salvation Army Foodbank at Goldthorpe and the Wath Foodbank in Rotherham work alongside Mexborough's volunteers, while the Mexborough Family Hub and Your Life Doncaster coordinate referrals. Charity shops, church collections and Food Aware's redistribution rounds draw helpers from Denaby Main, Conisbrough and the Swinton and Wath estates."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Mexborough, a Food Aware CIC-supplied community group or a small volunteer-run foodbank in Doncaster"
+  }
+}

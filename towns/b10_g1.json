@@ -1,0 +1,86 @@
+{
+  "maesteg": {
+    "region": "Maesteg, Bridgend County Borough, Wales",
+    "nearby": ["Bridgend", "Port Talbot", "Pontypridd"],
+    "s1_head": "Charity and volunteer kit in Maesteg",
+    "s1loc": [
+      "Maesteg sits at the head of the Llynfi Valley, and its charity and food-aid life runs through Bridgend Foodbank, which operates a distribution point at the Health and Wellbeing Centre in Hartshorn House on Neath Road. Citizens Advice Bridgend backs that network with vouchers and crisis support across Maesteg and Pontycymmer, while Peniel Church runs its own foodbank. Cwm Taf Morgannwg health partners list local pantries and cost-of-living help that keep shelves stocked for families across the valley.",
+      "The sector here runs at every size. National charities hold shops along Commercial Street and buy embroidered polos and fleeces centrally through trade accounts, while small community groups, the church-run foodbanks and volunteer-led warm spaces work on a shoestring across Caerau, Nantyffyllon and Garth. We serve the national charity coordinating shops and the one-room foodbank alike, with trade accounts for the big buyers and direct online ordering with no minimum for the tiny groups.",
+      "Bridgend Association of Voluntary Organisations runs its head office from Commercial Street in Maesteg, acting as the County Voluntary Council that supports community groups, social enterprises and not-for-profits across the borough. The Llynfi Valley 11 to 25 Youth Project gives younger residents a welcoming warm space, and the Llynfi Valley 20 partnership tackles the health gap through co-produced community work. Add the charity shops, mutual-aid pages and BAVO-listed warm spaces and you have a dense, locally-rooted voluntary scene."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Maesteg, a Bridgend Foodbank-supplied community group or a small volunteer-run foodbank in Bridgend"
+  },
+  "buckley": {
+    "region": "Buckley, Flintshire, Wales",
+    "nearby": ["Wrexham", "Ellesmere Port", "Oswestry"],
+    "s1_head": "Charity and volunteer kit in Buckley",
+    "s1loc": [
+      "Buckley's food-aid hub is the foodbank at Buckley Cross Methodist Church Centre, open on Wednesday afternoons and run by a mostly retired team of volunteers who hand out food parcels to single people, couples and families. The same building hosts Citizens Advice, Flintshire Council's welfare team, the mental health charity Mind and a Warm Hub for company and a cuppa. Flintshire Foodbank, based at The Old Chapel on Wrexham Street in Mold, anchors the wider county network feeding into Buckley.",
+      "The sector here runs at every size. National charities keep shops and central buying through trade accounts, while small community groups, the Methodist-hall foodbank and volunteer-run warm spaces operate on a shoestring across Mill Lane, Bistre and Drury. We serve the national charity with its coordinated shop estate and the one-room foodbank alike, offering trade accounts for the bulk buyers and direct online ordering with no minimum for the tiny volunteer-led projects nearby.",
+      "Just down the road, Wrexham Foodbank sits on the Wrexham Food Poverty Forum alongside the local authority and many voluntary groups, showing how the cross-border charity scene joins up. Flintshire Wellbeing lists Buckley's foodbank among its community events, and Flintshire County Voluntary Council supports volunteering across the area. Charity shops along Brunswick Road, church-led community projects and local mutual-aid groups round out a busy small-town voluntary sector that leans heavily on retired and local volunteers."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Buckley, a Flintshire Foodbank-supplied community group or a small volunteer-run foodbank in Wrexham"
+  },
+  "hythe": {
+    "region": "Hythe, Folkestone and Hythe district, Kent",
+    "nearby": ["Folkestone", "Ashford", "Dover"],
+    "s1_head": "Charity and volunteer kit in Hythe",
+    "s1loc": [
+      "Hythe sits in the Folkestone and Hythe district, where the Rainbow Centre in Folkestone runs Shepway Foodbank, providing nutritionally balanced emergency food to referred residents across both towns with the help of volunteers. The Hythe Pantry lets members buy a weekly shop worth around 25 pound for 5 pound, fresh produce, meat and dairy included, open to anyone in the district struggling to make ends meet. The district food network and council community hubs tie these projects together.",
+      "The sector here runs at every size. National charities run shops along the High Street and buy polos, hi-vis and fleeces centrally through trade accounts, while small community groups, the pantry and volunteer-run projects work on a shoestring across Seabrook, Sandgate and Saltwood. We serve the national charity with shops across the district and the one-room foodbank alike, offering trade accounts for the big buyers and direct online ordering with no minimum for the smallest volunteer-led groups.",
+      "The 101 Open Door Project is a Hythe community facility offering advice, support and meeting space, with the Royal British Legion, Rotary Club, Dementia Forum, South Kent Mind and Tynwald all running regular sessions there. Pilgrims Hospices serves the wider area and benefits from local fundraising, while Kent Coast Volunteering covers Folkestone and Hythe to match volunteers with organisations. Charity shops, the Roger De Haan Charitable Trust and assorted mutual-aid groups add further depth to a varied coastal voluntary scene."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Hythe, a Rainbow Centre-supplied community group or a small volunteer-run foodbank in Folkestone"
+  },
+  "berkhamsted": {
+    "region": "Berkhamsted, Dacorum, Hertfordshire",
+    "nearby": ["Hemel Hempstead", "Chesham", "Watford"],
+    "s1_head": "Charity and volunteer kit in Berkhamsted",
+    "s1loc": [
+      "Berkhamsted's food-aid lifeline is DENS, the independent Dacorum charity whose foodbank, run from Hemel Hempstead with collection points across the district, supports people in Berkhamsted, Tring, Kings Langley and the surrounding villages with up to three food parcels. Donation points sit at Berkhamsted's Tesco and Waitrose, and the Kings Langley, Apsley and Bennetts End community foodbank at All Saints Church recruits volunteers locally, showing how the wider Dacorum network feeds into the town.",
+      "The sector here runs at every size. National and regional charities hold shops along the High Street and buy embroidered polos and fleeces centrally through trade accounts, while small community groups, the DENS-linked collection points and volunteer-run projects work on a shoestring across Northchurch, Bourne End and the surrounding villages. We serve the larger charity with its coordinated shops and the one-room foodbank alike, with trade accounts for the bulk buyers and direct online ordering with no minimum for the tiny groups.",
+      "The Hospice of St Francis is based in Berkhamsted, caring for people with terminal illness across north-west Herts and the Chilterns, and runs charity shops in Berkhamsted, Bovingdon, Abbots Langley and Highfield in Hemel Hempstead, all needing shop volunteers. Sunnyside Rural Trust supports adults with learning disabilities through horticulture at sites in Berkhamsted and Northchurch, running market stalls and cafes staffed by volunteers. Together with the High Street charity shops and church-led groups, they make Berkhamsted's voluntary sector unusually rich."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Berkhamsted, a DENS-supplied community group or a small volunteer-run foodbank in Hemel Hempstead"
+  },
+  "dumbarton": {
+    "region": "Dumbarton, West Dunbartonshire, Scotland",
+    "nearby": ["Clydebank", "Glasgow", "Renfrew"],
+    "s1_head": "Charity and volunteer kit in Dumbarton",
+    "s1loc": [
+      "Dumbarton is home to West Dunbartonshire Community Foodshare, the area's first emergency food aid charity, founded in 2013, which delivers parcels of fresh, frozen, ambient and bakery food plus toiletries, baby items and pet food to anyone in need across the county. Food for Thought is a registered charity offering emergency food, support and information to ease the circumstances driving poverty, and the Ben View Warm and Toasty Breakfast Club in Dumbarton adds a warm-space welcome alongside these projects.",
+      "The sector here runs at every size. National charities keep shops on the High Street and buy polos and fleeces centrally through trade accounts, while small community groups, the volunteer-led food parcel projects and warm spaces work on a shoestring across Bellsmyre, Castlehill and Dalreoch. We serve the national charity with its coordinated shop estate and the one-room foodbank alike, offering trade accounts for the big buyers and direct online ordering with no minimum for the smallest volunteer-run groups across the area.",
+      "Old Kilpatrick Food Parcels is a registered charity running a community pantry open to all with no referral, while in nearby Clydebank Cosy Afternoons at Centre 81 and Dalmuir Barclay Church run drop-ins and warm spaces. West Dunbartonshire CVS supports, promotes and develops volunteering and third-sector activity right across the area, and Tullochan runs a community social hub. Charity shops, church-led projects and mutual-aid groups complete a strong, locally-rooted voluntary scene on the banks of the Clyde."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Dumbarton, a West Dunbartonshire Community Foodshare-supplied community group or a small volunteer-run foodbank in Clydebank"
+  },
+  "alloa": {
+    "region": "Alloa, Clackmannanshire, Scotland",
+    "nearby": ["Falkirk", "Dunfermline", "Bathgate"],
+    "s1_head": "Charity and volunteer kit in Alloa",
+    "s1loc": [
+      "Alloa's food-aid heart is The Gate, a registered charity set up in 2011 by members of the Ludgate Church and based in the former North Church building in the centre of town. The Gate Larder provides fresh and non-perishable food via an online referral system, and the charity is governed entirely by a board of local volunteers. It works in partnership with many external services to support people right across Clackmannanshire, acting as an information hub as well as a larder.",
+      "The sector here runs at every size. National charities hold shops along Mill Street and buy embroidered polos and fleeces centrally through trade accounts, while small community groups, The Gate's volunteer team and shoestring projects work across Sauchie, Tullibody and Clackmannan. We serve the national charity with its coordinated shops and the one-room foodbank alike, with trade accounts for the bulk buyers and direct online ordering with no minimum for the tiny volunteer-led groups across the wee county.",
+      "Clackmannanshire Third Sector Interface is the single-door access point for charities, voluntary groups, volunteering and social enterprise across the county, helping people start and run community projects. Alloa First supports town-centre community life, and just over the boundary Falkirk Foodbank runs vans delivering parcels to homes across the district on a voucher system with volunteer drivers. Charity shops, NHS Forth Valley food-access partners and local mutual-aid groups add further layers to Alloa's compact but active voluntary sector."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Alloa, a Gate-supplied community group or a small volunteer-run foodbank in Falkirk"
+  },
+  "ripley": {
+    "region": "Ripley, Amber Valley, Derbyshire",
+    "nearby": ["Belper", "Alfreton", "Ilkeston"],
+    "s1_head": "Charity and volunteer kit in Ripley",
+    "s1loc": [
+      "Ripley is the base for Amber Valley CVS, the umbrella body for the district's voluntary sector and main support for over 200 local community groups, running a dedicated Volunteer Centre from its Ripley office that signposts residents to food banks and pantries. The Salvation Army in Ripley runs its own foodbank, and Rural Action Derbyshire lists the affordable-food projects and food banks that keep the wider Amber Valley network supplied for families facing crisis.",
+      "The sector here runs at every size. National charities keep shops on Oxford Street, including the RSPCA, and buy polos, hi-vis and fleeces centrally through trade accounts, while small community groups, the Salvation Army foodbank and volunteer-run projects work on a shoestring across Marehay, Codnor and Waingroves. We serve the national charity with its coordinated shop estate and the one-room foodbank alike, offering trade accounts for the big buyers and direct online ordering with no minimum for the smallest volunteer-led groups.",
+      "Just down the road in Belper, the Hope for Belper charity runs a Food and Community Hub from the Baptist Chapel on Bridge Street, serving free meals and warm welcomes twice a week. Amber Valley CVS coordinates volunteering through Volife Amber Valley, matching local people to roles in food sorting, befriending and fundraising. RSPCA charity shops in both Ripley and Belper, church-led projects and local mutual-aid groups across the district give Ripley a busy, well-connected voluntary scene."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Ripley, an Amber Valley CVS-supported community group or a small volunteer-run foodbank in Belper"
+  }
+}

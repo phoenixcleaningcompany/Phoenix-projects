@@ -1,0 +1,86 @@
+{
+  "spennymoor": {
+    "region": "Spennymoor, County Durham",
+    "nearby": ["Bishop Auckland", "Newton Aycliffe", "Darlington"],
+    "s1_head": "Spennymoor charity and volunteer life",
+    "s1loc": [
+      "In Spennymoor the County Durham Foodbank runs a distribution point at Trinity Methodist Church on Rosa Street, part of the wider Trussell network across the county. Moors in the Community, the charity arm of Spennymoor Town FC, partners with Trinity and the foodbank on its annual Christmas appeal, gathering essential items for families in crisis. County Durham Volunteering helps match local people to packing, front-of-house and admin roles, keeping the big food-redistribution and foodbank networks staffed week to week.",
+      "The sector here runs at every size. National and regional charities keep shops on High Street and feed in surplus through the big food-redistribution and foodbank networks, ordering kit on trade accounts and through central buying. Alongside them sit small community groups, church-run pantries and volunteer-led projects working on a shoestring across the town centre, Tudhoe and Middlestone Moor. We are glad to serve the national charity and the one-room foodbank alike, with trade accounts for the larger names and direct online ordering with no minimum for the smallest groups.",
+      "St Cuthbert's Hospice, whose care is funded across County Durham, runs a busy charity shop at 22 High Street that takes furniture and larger donations straight from the Town Hall car park, one of seven shops raising over half a million pound a year for patient care. Add the parish and Methodist pantries, the town's mutual-aid volunteers and the County Durham Volunteering hub linking residents to roles, and Spennymoor has a charitable backbone stretching from Tudhoe through Middlestone Moor that keeps emergency food and support moving."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Spennymoor, a County Durham Foodbank-supplied community group or a small volunteer-run foodbank in Bishop Auckland"
+  },
+  "kempston": {
+    "region": "Kempston, Bedfordshire",
+    "nearby": ["Bedford", "Milton Keynes", "Luton"],
+    "s1_head": "Kempston charity and volunteer life",
+    "s1loc": [
+      "Kempston sits inside the Bedford Foodbank network, part of the Trussell Trust, which runs distribution centres across Bedford and Kempston and a project at 229 Bedford Road. Donation points stand at Kempston Pool and Fitness and the John Bunyan Sports and Fitness centre, with the warehouse on Manton Lane feeding seven centres. CVS Bedfordshire maps the food providers across Bedford Borough and helps groups find grants, while volunteers handle packing, signposting and the all-important tea and chat with people in crisis.",
+      "The sector here runs at every size. National and regional charities such as Sue Ryder keep shops on Ampthill Road and Harpur Street and order kit on trade accounts and central buying, while NOAH Enterprise runs community shops and a welfare centre. Alongside them sit small community groups, pantries and volunteer projects on a shoestring across Kempston, Kempston Rural and the Bedford estates. We serve the national charity and the one-room foodbank alike, with trade accounts for the larger names and direct online ordering, no minimum, for the smallest groups.",
+      "Beyond the foodbank, Kempston and Kempston Rural have their own grant pots for residents in need, and NOAH's donors and volunteers provide tens of thousands of meals, support sessions, GP and dental appointments and haircuts each year for people sleeping rough. Sue Ryder's Ampthill Road superstore and town-centre boutique raise funds for hospice care, and CVS Bedfordshire links residents from Box End through to Bedford town centre with volunteer roles, keeping the charitable network across the borough well staffed and supplied."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Kempston, a Bedford Foodbank-supplied community group or a small volunteer-run foodbank in Bedford"
+  },
+  "lancing": {
+    "region": "Lancing, West Sussex",
+    "nearby": ["Worthing", "Shoreham-by-Sea", "Brighton"],
+    "s1_head": "Lancing charity and volunteer life",
+    "s1loc": [
+      "In Lancing the Lancing and Sompting Churches Food Bank serves people in need from the Adur West Family Hub on North Road and the Harriet Johnson Centre on Loose Lane in Sompting, linked with the Fuel Foundation for help with fuel poverty. Nearby in Worthing, the Trussell-affiliated Worthing Foodbank run by Redeemer, the Worthing Food Foundation and SHOUT WSK deliver parcels from Lancing to Littlehampton, drawing on the big food-redistribution and foodbank networks and UKHarvest's community food hub.",
+      "The sector here runs at every size. National and regional charities such as St Barnabas House keep shops in the Lancing parade and along the coast, ordering kit on trade accounts and through central buying. Alongside them sit small community groups, church-run pantries and volunteer-led projects working on a shoestring across Lancing, Sompting and the wider Adur district. We are glad to serve the national charity and the one-room foodbank alike, with trade accounts for the larger names and direct online ordering with no minimum for the smallest groups.",
+      "St Barnabas House hospice cares for people across Worthing, Lancing, Shoreham and beyond, funded in part by its Lancing shop and retail distribution centre that rely on volunteers. The friendly Lancing and Sompting Lions Club charity shop sells clothes, books, cakes and plants, and Adur Voluntary Action coordinates volunteering across the district. From the Adur West Family Hub to the Sompting centre and the soup-kitchen collection rounds, Lancing's mix of hospice shops, Lions volunteers and church food banks keeps support flowing to those who need it."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Lancing, a UKHarvest-supplied community group or a small volunteer-run foodbank in Worthing"
+  },
+  "prestatyn": {
+    "region": "Prestatyn, Denbighshire",
+    "nearby": ["Rhyl", "Colwyn Bay", "Llandudno"],
+    "s1_head": "Prestatyn charity and volunteer life",
+    "s1loc": [
+      "In Prestatyn the Prestatyn and Meliden Foodbank, part of the Trussell network, runs from Festival Church and hands out emergency food to people referred by schools, churches and other charities. It draws surplus through the FareShare scheme backed by local supermarkets, runs a community cafe two days a week, a December toy bank and a Community Money Advice centre. Denbighshire Voluntary Services Council, the DVSC, leads on volunteering across the county and helps match local people to the packing and front-of-house roles the foodbank depends on.",
+      "The sector here runs at every size. National and regional charities such as St Kentigern Hospice keep shops on Prestatyn High Street and order kit on trade accounts and through central buying. Alongside them sit small community groups, the Festival Church foodbank team and volunteer-led projects working on a shoestring across Prestatyn, Meliden and along the coast to Rhyl. We are glad to serve the national charity and the one-room foodbank alike, with trade accounts for the larger names and direct online ordering with no minimum for the smallest groups.",
+      "St Kentigern Hospice runs a charity shop and discount store on Prestatyn High Street plus a preloved warehouse and furniture store over in Rhyl, all raising funds for hospice care. The DVSC, based at the Naylor Leyland Centre in Ruthin, registers volunteers through Volunteering Wales and supports third-sector groups countywide. From the Festival Church food bank and community cafe to the hospice shops and the toy bank each December, Prestatyn and Meliden keep a steady charitable network running on local goodwill."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Prestatyn, a FareShare-supplied community group or a small volunteer-run foodbank in Rhyl"
+  },
+  "horsforth": {
+    "region": "Horsforth, West Yorkshire",
+    "nearby": ["Leeds", "Pudsey", "Guiseley"],
+    "s1_head": "Horsforth charity and volunteer life",
+    "s1loc": [
+      "In Horsforth, Lister Hill Baptist Church runs a foodbank on Wednesday and Saturday, and the Horsforth Community Pantry operates from St James Woodside Church on Low Lane each Tuesday. Both sit within the Leeds North and West Foodbank network, a Trussell partnership that has grown to seven centres since 2013, and draw surplus from FareShare Yorkshire, which supplies almost 400 charities and community groups with enough food for millions of meals a year from its volunteer-driven Leeds and Barnsley sites.",
+      "The sector here runs at every size. National and regional charities such as Sue Ryder keep shops across Leeds and order kit on trade accounts and through central buying. Alongside them sit small community groups, parish pantries and volunteer-led projects working on a shoestring across Horsforth, Newlay, Rawdon and the wider North West Leeds estates. We are glad to serve the national charity and the one-room foodbank alike, with trade accounts for the larger names and direct online ordering with no minimum for the smallest groups.",
+      "Sue Ryder's Wheatfields Hospice in nearby Headingley provides palliative care to people from Horsforth and across the city, funded by its on-site shop and outlets such as the new Bramley store. The Leeds Food Aid Network ties together parish pantries across the district, and the West Yorkshire Food Poverty Network links food aid providers, council workers, volunteers and church initiatives from Leeds through to Bradford. From Lister Hill to the Woodside pantry, Horsforth's church-run projects and hospice shops keep emergency food and support reaching local households."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Horsforth, a FareShare Yorkshire-supplied community group or a small volunteer-run foodbank in Leeds"
+  },
+  "goole": {
+    "region": "Goole, East Riding of Yorkshire",
+    "nearby": ["Selby", "Scunthorpe", "Doncaster"],
+    "s1_head": "Goole charity and volunteer life",
+    "s1loc": [
+      "In Goole the Two Rivers Community Pantry on Stanhope Street runs a food bank and community supermarket for people in poverty, working alongside the East Yorkshire Foodbank, a Trussell charity, and Mission Trinity. It belongs to the East Riding Food Poverty Alliance, a partnership of food charities and voluntary groups whose network spans thirteen foodbanks from Goole to Bridlington. Local employers such as Siemens Mobility back the pantry, and volunteers weigh, sort and store donations and sit with clients over tea to signpost further help.",
+      "The sector here runs at every size. National and regional charities keep shops on the town's high street and order kit on trade accounts and through central buying, drawing surplus from the big food-redistribution networks. Alongside them sit small community groups, church-run pantries and volunteer-led projects on a shoestring across Goole town centre, Old Goole and the surrounding estates. We are glad to serve the national charity and the one-room foodbank alike, with trade accounts for the larger names and direct online ordering with no minimum for the smallest groups.",
+      "The East Riding Food Poverty Alliance, coordinated through East Riding Voluntary Action Services, brings members together to share supply and support residents in food crisis, while East Riding 4 Community lists funding and information for local groups. The Two Rivers pantry adds learning opportunities and referrals to other agencies alongside its supermarket, and the council's helping-communities scheme channels donations each Christmas. From Old Goole to the town centre, Goole's pantry, foodbank and alliance partners keep a volunteer-run safety net in place."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Goole, a Two Rivers Community Pantry-supplied community group or a small volunteer-run foodbank in Selby"
+  },
+  "oswestry": {
+    "region": "Oswestry, Shropshire",
+    "nearby": ["Shrewsbury", "Wrexham", "Telford"],
+    "s1_head": "Oswestry charity and volunteer life",
+    "s1loc": [
+      "In Oswestry the Oswestry and Borders Foodbank on Beatrice Street, part of the Trussell network and running since 2010, prepares emergency parcels with a team of around 35 volunteers from community donations. As a Foodbank Plus it now hosts walk-in support including the Samaritans, West Mercia Women's Aid and mental health practitioners. The Shropshire Larder directory points people to the town's food banks, and Qube, also known as Oswestry Community Action, runs a volunteer centre matching residents to roles across North Shropshire.",
+      "The sector here runs at every size. National and regional charities such as Severn Hospice and Hope House Children's Hospices keep shops on English Walls and Smithfield Street and order kit on trade accounts and central buying. Alongside them sit small community groups, church-run pantries and volunteer-led projects on a shoestring across Oswestry and the surrounding border villages. We are glad to serve the national charity and the one-room foodbank alike, with trade accounts for the larger names and direct online ordering with no minimum for the smallest groups.",
+      "Hope House Children's Hospices funds nursing care for life-limited children through its Oswestry shop and runs a Calmer Cafe peer-support space in the town, while Severn Hospice supports families with incurable illness from its English Walls store. Qube delivers community transport, Shopmobility and arts alongside its volunteer centre from Oswald Road, and high-street charity shops including the British Red Cross, Age UK and the Salvation Army add to the mix. From Beatrice Street to Cabin Lane, Oswestry's hospices, foodbank and Qube volunteers keep local support strong."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Oswestry, an Oswestry and Borders Foodbank-supplied community group or a small volunteer-run foodbank in Shrewsbury"
+  }
+}
