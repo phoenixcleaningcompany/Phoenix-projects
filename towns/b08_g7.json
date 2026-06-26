@@ -1,0 +1,86 @@
+{
+  "alfreton": {
+    "region": "Alfreton, Derbyshire",
+    "nearby": ["Ripley", "Belper", "Sutton-in-Ashfield"],
+    "s1_head": "Charity and volunteer work across Alfreton",
+    "s1loc": [
+      "Alfreton sits in the Amber Valley, where charity work runs from the High Street outward. Ashgate Hospice has a shop at 75 High Street and a British Heart Foundation store sits nearby, both raising funds and donated stock. The South Normanton Area Foodbank, part of the Trussell network just up the road, gives three days of emergency food to people referred in crisis. Surplus food reaches local groups through the big food-redistribution networks that cover Derbyshire, while the Alfreton Welfare Trust supports residents in genuine hardship across the town.",
+      "The sector here runs at every size. National and regional charities like Ashgate Hospice and the British Heart Foundation hold shops on the High Street and buy stock and uniforms centrally, while tiny community groups, the foodbanks, pantries and volunteer-run projects work on a shoestring across Alfreton, Somercotes, Riddings and Swanwick. Amber Valley hosts a directory of local charities serving Alfreton, Heanor and Ripley. We serve the national charity and the one-room foodbank alike, on trade accounts and direct online, with no minimum.",
+      "Beyond the foodbanks, Alfreton supports a spread of small projects that lean on volunteers. The Alfreton Youngster's Umbrella Provision and other community groups run youth and family support, and charity shops cluster on King Street and the High Street giving steady donated-goods income. Mutual-aid and church-hall efforts in Somercotes, Riddings and the South Normanton estates collect and hand out food and clothing, while volunteer drivers carry parcels out to people who cannot travel. The mix of national names and shoestring local projects defines how charity is done here."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Alfreton, a FareShare-supplied community group or a small volunteer-run foodbank in Ripley"
+  },
+  "arbroath": {
+    "region": "Arbroath, Angus",
+    "nearby": ["Dundee", "Perth", "Kirkcaldy"],
+    "s1_head": "Charity and volunteer work across Arbroath",
+    "s1loc": [
+      "Arbroath, on the Angus coast, leans on a strong voluntary base. The Dundee and Angus Foodbank runs an Arbroath distribution centre at 11 Gravesend, part of the Trussell network, handing out three days of emergency food to people referred in crisis. FareShare food reaches the area through Transform Community in Dundee, which redistributes over 200 tonnes a year across Dundee, Perth and Arbroath. Charity shops including the Salvation Army, British Heart Foundation and Chest Heart and Stroke Scotland line the streets, raising funds and recycling donated stock.",
+      "The sector runs at every size. National and Scottish charities such as the British Heart Foundation and the Salvation Army hold shops in Arbroath and buy stock and uniforms centrally, while tiny community groups, the foodbanks, pantries and volunteer-run projects scrape by on a shoestring across Westway, Hospitalfield and the harbour districts. Befriend a Child also runs a local shop. We serve the national charity and the one-room foodbank alike, on trade accounts and direct online, with no minimum.",
+      "Arbroath adds its own civic charities to the mix. The Arbroath RNLI lifeboat station, one of the oldest in Scotland and crewed entirely by volunteers, runs an RNLI shop in the town raising funds for sea rescue. Hospitalfield House to the west houses an educational arts charity. Volunteer-run church-hall foodbank sessions and community pantries serve people who cannot reach Dundee, and volunteer drivers carry parcels out to outlying parts of Angus. National names and shoestring local projects sit side by side across the town."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Arbroath, a FareShare-supplied community group or a small volunteer-run foodbank in Dundee"
+  },
+  "elgin": {
+    "region": "Elgin, Moray",
+    "nearby": ["Inverness", "Aberdeen", "Perth"],
+    "s1_head": "Charity and volunteer work across Elgin",
+    "s1loc": [
+      "Elgin is the hub of charity work across the whole of Moray. Moray Food Plus, based at 203 High Street, is the county's main food-poverty charity, running crisis food support, food pantries, rural outreach, community cooking and money advice. It receives FareShare food through CFINE, the Grampian distributor in Aberdeen, but still buys extra because need is so high. Its Bosie family centre at 85 High Street opened in 2022. The Big Blue Mobile Pantry reaches rural Moray where some people live over an hour from Elgin.",
+      "The sector runs at every size. National and Scottish charities like Quarriers and Aberlour hold premises along Elgin High Street, with Quarriers Carer Support at 232 High Street and Aberlour Youthpoint Moray supporting young people, and they buy stock and uniforms centrally. Smaller community groups, the foodbanks, pantries and volunteer-run projects work on a shoestring across Bishopmill, New Elgin and the Moray villages. We serve the national charity and the one-room foodbank alike, on trade accounts and direct online, with no minimum.",
+      "Elgin carries a wide voluntary network beyond food aid. Embrace Elgin runs community services in the town, and charity shops line the High Street raising donated-goods income for national and local causes. Moray Food Plus delivers parcels direct to homes, drop-off points and partner agencies across the very large rural county, leaning heavily on volunteer drivers and packers. Mutual-aid and church efforts in Lossiemouth, Forres and the smaller Moray settlements feed into the same effort. National names and shoestring local projects work hand in hand here."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Elgin, a FareShare-supplied community group or a small volunteer-run foodbank in Inverness"
+  },
+  "rugeley": {
+    "region": "Rugeley, Staffordshire",
+    "nearby": ["Cannock", "Lichfield", "Stafford"],
+    "s1_head": "Charity and volunteer work across Rugeley",
+    "s1loc": [
+      "Rugeley, on the edge of Cannock Chase, runs a wholly volunteer-led charity scene. Rugeley Foodbank, part of the Trussell network, operates from Rugeley Community Centre on Burnthill Lane every Tuesday and Friday, run entirely by local volunteers and stocked largely by public donations. Over 90 percent of foodbank stock comes from the public. St Giles Hospice has a shop at 4 Upper Brook Street and Katharine House Hospice runs one at 28 Brook Square, both raising funds and recycling donated goods across the town.",
+      "The sector runs at every size. National and regional charities like St Giles Hospice and Katharine House Hospice hold shops in Rugeley and buy stock and uniforms centrally, while tiny community groups, the foodbank, pantries and volunteer-run projects work on a shoestring across Brereton, Hagley and the town centre. The big food-redistribution networks supply surplus into the area. We serve the national charity and the one-room foodbank alike, on trade accounts and direct online, with no minimum.",
+      "Rugeley adds further community projects beyond the foodbank. Donation points sit at Brereton and Sandy Lane, feeding the hospice shops and local collections, and Lichfield District Council signposts a cluster of Rugeley and Cannock Chase foodbanks and charities. Church-hall and community-centre groups run clothing banks, warm spaces and family support through the colder months, leaning on volunteers throughout. Voucher-referral partners across Cannock Chase point people in crisis to the right help. National names and shoestring local projects together carry the load here."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Rugeley, a FareShare-supplied community group or a small volunteer-run foodbank in Cannock"
+  },
+  "oadby": {
+    "region": "Oadby, Leicestershire",
+    "nearby": ["Leicester", "Market Harborough", "Hinckley"],
+    "s1_head": "Charity and volunteer work across Oadby",
+    "s1loc": [
+      "Oadby, in the borough of Oadby and Wigston, holds a busy local charity scene. Oadby Food Bank operates from Oadby Trinity Methodist Church on Harborough Road, handing out food every fortnight on Fridays. The Pantry Nook at Elliott Hall in South Wigston offers a week of food for five pound and a hygiene bank, and won South Wigston community organisation of the year. The Oadby and Wigston Lions have run the Wigston foodbank since 2013, while the big food-redistribution networks supply surplus into the borough.",
+      "The sector runs at every size. National and regional charities, with LOROS the Leicestershire hospice running shops in Oadby and on Pullman Road in Wigston, hold shops and buy stock and uniforms centrally, while tiny community groups, the foodbanks, pantries and volunteer-run projects work on a shoestring across South Wigston, Glen Parva and the Oadby parades. Leicester South Foodbank at the Kings Centre serves the wider area. We serve the national charity and the one-room foodbank alike, on trade accounts and direct online, with no minimum.",
+      "Beyond the foodbanks, Oadby and Wigston carry a spread of small support projects. The Helping Hands advice service works across Wigston and Oadby, and LOROS donation warehouses on Pullman Road and at Glenfield take in stock for the hospice shops. The Pantry Nook adds a hot drink, a chat and signposting alongside its low-cost food. Church-hall foodbank sessions and volunteer-led collections in South Wigston and Glen Parva fill the gaps, leaning on local volunteers throughout. National names and shoestring projects sit side by side here."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Oadby, a FareShare-supplied community group or a small volunteer-run foodbank in Leicester"
+  },
+  "kidsgrove": {
+    "region": "Kidsgrove, Staffordshire",
+    "nearby": ["Stoke-on-Trent", "Newcastle-under-Lyme", "Congleton"],
+    "s1_head": "Charity and volunteer work across Kidsgrove",
+    "s1loc": [
+      "Kidsgrove, in the north of the Newcastle-under-Lyme borough, runs its charity work through churches and community groups. St Thomas' Church hosts one of six Newcastle-Staffs Foodbank centres, part of the Trussell network, open Friday afternoons in the church hall and handing out three days of emergency food. The other centres sit in Chesterton, Clayton, Madeley, Newcastle town centre and Silverdale. Dougie Mac, the Douglas Macmillan Hospice, runs a charity shop in Kidsgrove, one of more than twenty across North Staffordshire raising funds for its care.",
+      "The sector runs at every size. National and regional charities such as the Douglas Macmillan Hospice hold shops in Kidsgrove and across the borough and buy stock and uniforms centrally, while tiny community groups, the foodbank centres, pantries and volunteer-run projects work on a shoestring across Talke, Butt Lane and Newchapel. The big food-redistribution networks supply surplus into the area. We serve the national charity and the one-room foodbank alike, on trade accounts and direct online, with no minimum.",
+      "Kidsgrove backs its food aid with wider community effort. Dougie Mac retail brings in over six million pound a year for the hospice across its North Staffordshire shops, and the Donna Louise children's hospice care it now runs supports families locally. Kidsgrove Town Council promotes the foodbank and community projects, and church-hall and community-centre groups run warm spaces and family support through winter, all leaning on volunteers. Voucher-referral partners across the borough point people in crisis to help. National names and shoestring local projects carry the work together here."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Kidsgrove, a FareShare-supplied community group or a small volunteer-run foodbank in Newcastle-under-Lyme"
+  },
+  "bishop auckland": {
+    "region": "Bishop Auckland, County Durham",
+    "nearby": ["Newton Aycliffe", "Spennymoor", "Darlington"],
+    "s1_head": "Charity and volunteer work across Bishop Auckland",
+    "s1loc": [
+      "Bishop Auckland, in south-west County Durham, runs a busy community charity scene. The Woodhouse Close Church and Community Centre foodbank is an extremely busy operation, open Monday to Friday and recently extended with Durham County Council crisis funding to create a dedicated food bank space. It sits within the County Durham Foodbank network, supported by the Trussell Trust and stocked by local donations. Butterwick Hospice runs a shop and a superstore at Bishop Auckland Retail Park, raising funds across Teesside and County Durham for forty years.",
+      "The sector runs at every size. National and regional charities like Butterwick Hospice hold shops and a superstore in the town and buy stock and uniforms centrally, while tiny community groups, the foodbanks, pantries and volunteer-run projects work on a shoestring across the Woodhouse Close estate, Cockton Hill and the market place. FareShare and the big food-redistribution networks supply surplus into the area. We serve the national charity and the one-room foodbank alike, on trade accounts and direct online, with no minimum.",
+      "Bishop Auckland layers further volunteer effort over its food aid. The town council recently launched a mobile can-crushing station whose proceeds go to the Woodhouse Close foodbank, and the StoreHouse project run by Influence Church serves Bishop Auckland and the wider area. Butterwick rebuilds a volunteer gardening team at its Bishop Auckland site, and the Auckland Youth and Community Centre on the Woodhouse Close estate runs local support. County Durham volunteering listings carry hospice and pantry roles. National names and shoestring projects work side by side here."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Bishop Auckland, a FareShare-supplied community group or a small volunteer-run foodbank in Spennymoor"
+  }
+}

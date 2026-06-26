@@ -1,0 +1,86 @@
+{
+  "hoddesdon": {
+    "region": "Hoddesdon, Borough of Broxbourne, Hertfordshire",
+    "nearby": ["Cheshunt", "Hertford", "Harlow"],
+    "s1_head": "Hoddesdon's charity and volunteer sector",
+    "s1loc": [
+      "Hoddesdon sits in the Borough of Broxbourne, where Broxbourne Foodbank runs as part of the national Trussell network, taking referrals through a voucher system and leaning on local volunteers for sorting, packing and distribution. Isabel Hospice has a strong retail presence on the high street, with a Hoddesdon shop and a clearance shop selling fashion, homeware and accessories. The Love Hoddesdon partnership pulls together businesses and charities, while the big food-redistribution and foodbank networks keep the town stocked.",
+      "The sector runs at every size. National and regional charities such as Isabel Hospice and the Trussell-backed Broxbourne Foodbank operate shops and central buying, while small community groups, church-run pantries and volunteer-led projects work on a shoestring across Rye Park, Hoddesdon town centre and the Borough of Broxbourne. We serve the national charity with shops across Hoddesdon and the one-room foodbank in equal measure, with trade accounts for the larger names and direct online ordering with no minimum for the smallest groups.",
+      "Beyond the foodbank, Isabel Hospice draws hundreds of volunteers across its Hertfordshire shop network, and dedicated retail teams keep the Hoddesdon and clearance stores trading. Hertford and District Foodbank serves households just up the road, and church and community projects around Rye Park and the Lea valley run informal larders and mutual-aid collections. The Salvation Army and parish groups add coffee mornings, clothing banks and befriending rounds, so the volunteer effort spreads well past the single high street into the surrounding Broxbourne neighbourhoods."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Hoddesdon, a Trussell-supplied community group or a small volunteer-run foodbank in Cheshunt"
+  },
+  "wilmslow": {
+    "region": "Wilmslow, Cheshire East, Cheshire",
+    "nearby": ["Macclesfield", "Stockport", "Bramhall"],
+    "s1_head": "Wilmslow's charity and volunteer scene",
+    "s1loc": [
+      "Wilmslow's food support starts with FoodFriend, the parish food bank run from St Bartholomew's Church for residents in genuine need, launched by Wilmslow Parish and backed by Wilmslow Town Council. Hope Central, a charity covering north east Cheshire, pairs a foodbank with a Debt Centre and Job Club under its relieving-poverty banner. East Cheshire Hospice cares for the wider area, supported by the Wilmslow and District group covering Wilmslow, Handforth and Alderley Edge, while CVS Cheshire East coordinates volunteering across the borough.",
+      "The sector runs at every size. National and regional charities such as East Cheshire Hospice, British Heart Foundation and Cancer Research run high-street shops and central buying, while small community groups, parish pantries and volunteer-led projects work on a shoestring across Wilmslow town centre, Handforth, Colshaw and Alderley Edge. We serve the national charity with shops across Wilmslow and the one-room foodbank alike, offering trade accounts for the larger names and direct online ordering with no minimum for the smallest groups.",
+      "There is a deep seam of volunteer-run activity here too. Wilmslow Guild promotes the benefit of residents across Wilmslow, Handforth and the parishes of Alderley Edge, Chorley and Mottram St Andrew. The Wilmslow and District Rotary supports local and international causes, Wilmslow Knit and Natter and Wilmslow Girls Crafts for Charity raise funds for The Christie and East Cheshire Hospice, and Wilmslow In Bloom draws together voluntary groups. The East Cheshire Hospice shop in Handforth adds another retail outlet staffed by local volunteers."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Wilmslow, a Hope Central-supplied community group or a small volunteer-run foodbank in Bramhall"
+  },
+  "grays thurrock": {
+    "region": "Grays, Borough of Thurrock, Essex",
+    "nearby": ["Basildon", "Dartford", "Upminster"],
+    "s1_head": "Grays Thurrock charity and volunteer life",
+    "s1loc": [
+      "Grays is the civic heart of Thurrock, where Thurrock Foodbank runs on the Trussell voucher model and depends on local volunteers, who it calls the life blood of the operation. Thurrock CVS supports the wider voluntary, community and faith sector and runs Volunteer Centre Thurrock from The Beehive Resource Centre on West Street, Grays. A food and hygiene bank works from the same Beehive hub several evenings a week, while the Salvation Army in Grays runs a community kitchen for people facing homelessness and hardship.",
+      "The sector runs at every size. National and regional charities such as St Luke's Hospice run shops and central buying across Thurrock, while small community groups, church pantries and volunteer-led projects work on a shoestring across Grays town centre, Chadwell St Mary, Tilbury and the West Street area. We serve the national charity with shops across Grays Thurrock and the one-room foodbank in equal measure, with trade accounts for the larger names and direct online ordering with no minimum for the smallest volunteer groups.",
+      "The volunteer base reaches well beyond the foodbank. St Luke's Hospice is opening shops in stages across Thurrock, including Tilbury and Chadwell St Mary, each staffed by local volunteers. Grays Baptist Church runs community activities and groups, and SNAP and other family charities operate from the borough. Volunteer Centre Thurrock at The Beehive places people into formal and informal roles across Grays, from the community kitchen and food bank to befriending and cost-of-living support run by Thurrock Council and partner groups."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Grays Thurrock, a Thurrock CVS-supplied community group or a small volunteer-run foodbank in Dartford"
+  },
+  "upminster": {
+    "region": "Upminster, London Borough of Havering",
+    "nearby": ["Hornchurch", "Romford", "Grays Thurrock"],
+    "s1_head": "Upminster's charity and volunteer network",
+    "s1loc": [
+      "Upminster sits in the London Borough of Havering, served by Saint Francis Hospice, which supports people across Havering, Barking and Dagenham, Redbridge and parts of west Essex and runs charity shops in Upminster, Hornchurch and Romford. The borough's Trussell foodbanks at Collier Row and Romford, Harold Hill and Rainham are partnered by Havering Volunteer Centre, which recruits and places volunteers. The Romford foodbank alone fields around thirty regular rota volunteers plus many more sorting and moving food.",
+      "The sector runs at every size. National and regional charities such as Saint Francis Hospice operate shop networks and central buying, while small community groups, church distribution centres and volunteer-led projects work on a shoestring across Upminster, Cranham, Hornchurch and Harold Hill. We serve the national charity with shops across Upminster and the one-room foodbank alike, offering trade accounts for the larger names and direct online ordering with no minimum for the smallest volunteer-run groups and pantries.",
+      "Havering Volunteer Centre threads the whole borough together, partnering all three Trussell foodbanks and dozens of other causes. Saint Francis Hospice keeps fourteen-plus fundraising outlets trading across its catchment, including the newer Hornchurch store, all reliant on volunteer retail teams. Local church projects such as those at the Ascension, Romford Baptist and St Edward's run distribution points, and community cafes, befriending schemes and mutual-aid groups across Upminster, Cranham and Rainham give volunteers plenty of room beyond the shop counter."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Upminster, a Saint Francis Hospice-supplied community group or a small volunteer-run foodbank in Hornchurch"
+  },
+  "new milton": {
+    "region": "New Milton, New Forest, Hampshire",
+    "nearby": ["Christchurch", "Bournemouth", "Ferndown"],
+    "s1_head": "New Milton charity and volunteer effort",
+    "s1loc": [
+      "New Milton sits on the edge of the New Forest, where the New Forest Basics Bank provides food and essentials parcels to households in crisis across the district. It runs four weekly community larders, in New Milton, Pennington, Ashley and Bransgore, in partnership with FareShare and local volunteers, with the New Milton and Pennington larders seeing the greatest need. Oakhaven Hospice cares for patients across the New Forest and Waterside and runs a charity shop in New Milton itself.",
+      "The sector runs at every size. National and regional charities such as Oakhaven Hospice operate high-street shops and central buying, while small community groups, church larders and volunteer-led projects work on a shoestring across New Milton, Ashley, Barton on Sea and the wider New Forest. We serve the national charity with shops across New Milton and the one-room foodbank in equal measure, with trade accounts for the larger names and direct online ordering with no minimum for the smallest volunteer-run larders and pantries.",
+      "The volunteer effort here is striking. New Forest Basics Bank is staffed by close to three hundred unpaid volunteers, with volunteer drivers delivering around four in five parcels across a rural area with thin public transport. Oakhaven, an independent local charity raising the bulk of its multi-million-pound running costs from the community, keeps high-street shops in New Milton, Highcliffe, Lymington, Hythe and Totton, all needing volunteers in every department. Community larders and mutual-aid groups around Barton on Sea and Ashley add further shoestring support."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across New Milton, a New Forest Basics Bank-supplied community group or a small volunteer-run foodbank in Christchurch"
+  },
+  "rothwell": {
+    "region": "Rothwell, City of Leeds, West Yorkshire",
+    "nearby": ["Leeds", "Castleford", "Pudsey"],
+    "s1_head": "Rothwell charity and volunteer activity",
+    "s1loc": [
+      "Rothwell sits in the LS26 postcode south east of Leeds, where the LS26 Community Foodbank is run by local volunteers serving LS26 and WF3 households. Leeds South and East Foodbank, part of the Trussell network, operates a distribution centre on Carlton Lane in Rothwell, taking referral vouchers and handing out emergency parcels. FareShare Yorkshire redistributes surplus food into community projects across the region, and the Leeds Food Aid Network ties the city's foodbanks and larders together for people in crisis.",
+      "The sector runs at every size. National and regional charities such as Wakefield Hospice and the big cancer and heart charities run high-street shops and central buying, while small community groups, church pantries and volunteer-led projects work on a shoestring across Rothwell, Carlton, Oulton and Woodlesford. We serve the national charity with shops across Rothwell and the one-room foodbank alike, offering trade accounts for the larger names and direct online ordering with no minimum for the smallest volunteer-run foodbanks and groups.",
+      "Beyond the foodbanks, charity shops along Commercial Street and Rothwell town centre raise funds for hospice and health causes, with Wakefield Hospice running a wider store network just to the south. Volunteer Centre Leeds and the Doing Good Leeds network place people into community roles across the south east of the city, while parish and community-centre groups around Oulton, Woodlesford and Carlton run coffee mornings, clothing collections and mutual-aid rounds that keep the volunteer effort spread across the LS26 villages, not just Rothwell itself."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Rothwell, a FareShare-supplied community group or a small volunteer-run foodbank in Leeds"
+  },
+  "formby": {
+    "region": "Formby, Metropolitan Borough of Sefton, Merseyside",
+    "nearby": ["Crosby", "Southport", "Bootle"],
+    "s1_head": "Formby charity and volunteer sector",
+    "s1loc": [
+      "Formby sits in Sefton, where Queenscourt Hospice delivers care across West Lancashire, Southport and Formby and runs five charity shops spread across Formby, Southport and West Lancashire selling clothing, bric-a-brac and toys. FareShare Merseyside redistributes surplus food to more than two hundred charities and community groups across Merseyside and the Wirral, feeding local pantries and projects. Home-Start Southport and Formby supports families in the area, and community appeals regularly rally help for Southport Foodbank when demand spikes.",
+      "The sector runs at every size. National and regional charities such as Queenscourt Hospice run shop networks and central buying, while small community groups, church larders and volunteer-led projects work on a shoestring across Formby village, Freshfield, Crosby and Southport. We serve the national charity with shops across Formby and the one-room foodbank in equal measure, with trade accounts for the larger names and direct online ordering with no minimum for the smallest volunteer-run pantries and groups.",
+      "The wider volunteer effort runs deep across Sefton. Queenscourt welcomes volunteers throughout the hospice and its shops, while FareShare Merseyside relies on warehouse and driver volunteers to keep surplus food moving to community kitchens and pantries. Home-Start Southport and Formby trains volunteers to support young families at home, and church-run larders, lunch clubs and mutual-aid groups around Freshfield, Crosby and Bootle add shoestring support, giving local people plenty of routes to help beyond the charity-shop counter."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Formby, a FareShare Merseyside-supplied community group or a small volunteer-run foodbank in Crosby"
+  }
+}

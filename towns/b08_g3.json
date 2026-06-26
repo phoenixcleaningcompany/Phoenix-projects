@@ -1,0 +1,86 @@
+{
+  "bloxwich": {
+    "region": "Bloxwich, Walsall, West Midlands",
+    "nearby": ["Walsall", "Cannock", "Willenhall"],
+    "s1_head": "Bloxwich charities and community projects",
+    "s1loc": [
+      "Bloxwich is anchored by Bloxwich and Blakenall Foodbank, a Trussell project founded by local churches and community groups that hands out three-day emergency parcels from the Blakenall Village Centre on Thames Road. It runs on a voucher referral system and depends on volunteers to sort, pack and welcome people in crisis. Walsall North Foodbank also covers the area, and the big food-redistribution and foodbank networks keep the donation chain moving. Bloxwich Community Partnership and Making Connections Walsall add further reach across north Walsall.",
+      "The sector here runs at every size. National and regional charities keep shops along Bloxwich High Street on central buying and trade accounts, while small community groups, church pantries and volunteer-run projects work on a shoestring across Blakenall Heath, Leamore, Mossley and Beechdale. The Palace Play Shop Eat centre on Blakenall Row and the Love Blakenall Community Hub on Thames Road combine a charity shop with meeting space. We are glad to serve the national charity and the one-room foodbank alike, on trade accounts and direct online, with no minimum.",
+      "Beyond the foodbank, Sister Maureen and the Bloxwich Parish sisters deliver food and shopping to elderly and disabled neighbours, while charity shops along the high street raise funds for hospice, heart and cancer causes. Bloxwich Community Partnership rebuilt its Palace centre with a training kitchen and youth space, and mutual-aid groups that formed around Mossley, Leamore and Beechdale keep watch over isolated residents. Volunteers staff every link, from the supermarket donation points and the Bloxwich Academy collection to the parcels handed out at the village centre."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Bloxwich, a Bloxwich and Blakenall Foodbank-supplied community group or a small volunteer-run foodbank in Walsall"
+  },
+  "fleetwood": {
+    "region": "Fleetwood, Wyre, Lancashire",
+    "nearby": ["Blackpool", "Thornton Cleveleys", "Poulton-le-Fylde"],
+    "s1_head": "Fleetwood charities and volunteer groups",
+    "s1loc": [
+      "Fleetwood sits within the reach of FareShare Lancashire and Cumbria, which redistributed 1,200 tonnes of surplus food last year to more than 150 grassroots charities, food banks, breakfast clubs and shelters across the North West, supported by a team of over fifty volunteers. Fleetwood Food Bank, run through the St Vincent de Paul Society and St Wulstan and St Edmund's Church, hands out emergency parcels to neighbours in crisis. The big food-redistribution and foodbank networks keep the town's donation chain moving week to week.",
+      "The local sector runs at every size. Trinity Hospice keeps charity shops on Lord Street and a furniture shop on Dock Street, raising funds for Brian House Children's Hospice on central buying and trade accounts, while small community groups, church pantries and volunteer-run projects work on a shoestring across Mount, Pharos and the docks. We are glad to serve the national charity and the one-room foodbank alike, on trade accounts and direct online, with no minimum.",
+      "Across the Fylde coast, Trinity Hospice draws fundraising from high-street shops in Fleetwood, Thornton and Cleveleys, while charity shops along Lord Street and Poulton Road raise money for hospice and health causes. Community larders and church halls run warm spaces and signposting through the colder months, and mutual-aid groups that grew up around the Mount and Pharos neighbourhoods keep an eye on older and isolated residents. Volunteer drivers ferry FareShare collections and food parcels out across the peninsula, knitting the port town together through unpaid hands."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Fleetwood, a FareShare-supplied community group or a small volunteer-run foodbank in Thornton Cleveleys"
+  },
+  "bushey": {
+    "region": "Bushey, Hertsmere, Hertfordshire",
+    "nearby": ["Watford", "Borehamwood", "Harrow"],
+    "s1_head": "Bushey charities and community groups",
+    "s1loc": [
+      "Bushey is served by Red Trust Bushey, which runs a community foodbank and recruits volunteers to help neighbours in hardship, with donation drop-offs at St Peter's Church on Bushey High Road, Benjamin Stevens on the High Road in Bushey Heath and shops along the High Street. Watford Foodbank, an independent Trussell charity working with churches, New Hope and Watford Citizens Advice, covers the wider area, drawing on the big food-redistribution and foodbank networks. GoVolHerts connects local people to volunteering roles across the borough.",
+      "The local sector runs at every size. Rennie Grove Peace Hospice Care keeps a community-hub charity shop on the High Road in Bushey Heath and further shops on Bushey Mill Lane and across Watford on central buying and trade accounts, while small community groups, church pantries and volunteer-run projects work on a shoestring across Bushey Heath, Oxhey and Little Bushey. We are glad to serve the national charity and the one-room foodbank alike, on trade accounts and direct online, with no minimum.",
+      "Beyond the foodbank, Rennie Grove Peace runs a quieter shopping hour every Tuesday and channels every purchase into hospice care across Bucks and Herts, while charity shops raise money for hospice and health causes around the High Street. Community Action Hertsmere supports voluntary groups and steers volunteers across the borough, and mutual-aid networks that formed around Oxhey and Bushey Heath keep watch over isolated residents. Church halls run warm spaces and collections, and unpaid hands staff every link, from the drop-off points to the parcels and the shop floors."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Bushey, a Watford Foodbank-supplied community group or a small volunteer-run foodbank in Watford"
+  },
+  "newton abbot": {
+    "region": "Newton Abbot, Teignbridge, Devon",
+    "nearby": ["Torquay", "Paignton", "Exeter"],
+    "s1_head": "Newton Abbot charities and community projects",
+    "s1loc": [
+      "Newton Abbot is supported by HITS, a charity based in Kingsteignton that gives families in crisis emergency food and comfort bags and recruits volunteers to sort and check donated goods. The Newton Abbot Community Fridge stands outside the Courtenay Centre on Kingsteignton Road, open day and night, with volunteers collecting surplus from local supermarkets to stop good food going to waste. Rowcroft Hospice runs a distribution centre in the town, and the South Devon Food Alliance links these projects with the big food-redistribution and foodbank networks.",
+      "The local sector runs at every size. Rowcroft Hospice and the British Heart Foundation keep shops around the town centre on central buying and trade accounts, while small community groups, the community fridge and volunteer-run larders work on a shoestring across Kingsteignton, Buckland and Highweek. The Courtenay Centre and Newton Abbot Community Centres host much of this grassroots work. We are glad to serve the national charity and the one-room foodbank alike, on trade accounts and direct online, with no minimum.",
+      "Further out, Rowcroft welcomes volunteers from age fourteen up at its Newton Abbot distribution centre, shops and cafes, raising funds for hospice care across South Devon, while the St Paul's Exminster Community Food Larder and other parish larders feed families nearby. Charity shops along Queen Street and Courtenay Street raise money for national causes, and mutual-aid groups around Buckland and Highweek keep an eye on older residents. Volunteer drivers move surplus food between the supermarkets, the community fridge and the centres that hand it out."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Newton Abbot, a FareShare-supplied community group or a small volunteer-run foodbank in Torquay"
+  },
+  "rhyl": {
+    "region": "Rhyl, Denbighshire",
+    "nearby": ["Prestatyn", "Colwyn Bay", "Llandudno"],
+    "s1_head": "Rhyl charities and volunteer groups",
+    "s1loc": [
+      "Rhyl Foodbank, a Trussell charity serving two of the most deprived wards in Wales, provides short-term emergency parcels of cereal, milk, soup, pasta, meat, fish and vegetables for families in crisis, and set up a FareShare service to widen its reach. FareShare Cymru, founded in 2010, redistributes surplus food from its Cardiff base to community groups across Wales, with volunteers rescuing food that would otherwise go to waste. Tesco and the big food-redistribution and foodbank networks help keep the town's parcels stocked.",
+      "The local sector runs at every size. St Kentigern Hospice keeps charity shops on Rhyl High Street and a Preloved Warehouse near the town centre, raising funds on central buying and trade accounts, while small community groups, church pantries and volunteer-run projects work on a shoestring across West Rhyl, the town centre and the seafront. We are glad to serve the national charity and the one-room foodbank alike, on trade accounts and direct online, with no minimum.",
+      "Beyond the foodbank, St Kentigern Hospice draws fundraising from shops right across North Wales, with its Preloved Warehouse testing and rehoming donated furniture and electricals, while charity shops along the High Street raise money for hospice and health causes. Community larders and church halls run warm spaces and signposting, and mutual-aid groups that grew up around West Rhyl and the seafront keep watch over isolated residents. Volunteers staff every link, from the FareShare collections to the parcels handed out across the town."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Rhyl, a FareShare Cymru-supplied community group or a small volunteer-run foodbank in Prestatyn"
+  },
+  "thornton cleveleys": {
+    "region": "Thornton-Cleveleys, Wyre, Lancashire",
+    "nearby": ["Blackpool", "Fleetwood", "Poulton-le-Fylde"],
+    "s1_head": "Thornton Cleveleys charities and community groups",
+    "s1loc": [
+      "Thornton Cleveleys runs The Meadows Food Pantry from Christ Church Thornton on Meadows Avenue, open weekday mornings with no appointment needed, while Christian Care and Share distributes food from the Cumberland Chapel on Cumberland Avenue. These projects lean on the big food-redistribution and foodbank networks and on volunteers to sort, pack and welcome neighbours in hardship. Citizens Advice Lancashire West signposts people in crisis, and the wider Fylde coast foodbank network keeps parcels moving across the town.",
+      "The local sector runs at every size. Trinity Hospice keeps a charity shop on Fleetwood Road North and raises funds for Brian House Children's Hospice on central buying and trade accounts, while Oxfam and small community groups, church pantries and volunteer-run projects work on a shoestring across Thornton, Cleveleys and the surrounding estates. We are glad to serve the national charity and the one-room foodbank alike, on trade accounts and direct online, with no minimum.",
+      "Across Wyre, the Thornton Cleveleys Round Table charitable trust and local Rotary and scout groups raise money and run grassroots projects, while charity shops along Victoria Road raise funds for hospice and health causes. Trinity Hospice draws fundraising from high-street shops in Thornton, Cleveleys and Fleetwood, and the Oxfam shop recruits volunteers to support vulnerable communities. Community larders and church halls run warm spaces through the colder months, and mutual-aid groups across Cleveleys keep an eye on isolated residents, with unpaid hands staffing every link."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Thornton Cleveleys, a FareShare-supplied community group or a small volunteer-run foodbank in Fleetwood"
+  },
+  "bognor regis": {
+    "region": "Bognor Regis, Arun, West Sussex",
+    "nearby": ["Chichester", "Littlehampton", "Worthing"],
+    "s1_head": "Bognor Regis charities and community projects",
+    "s1loc": [
+      "Bognor Regis Foodbank works to relieve poverty across the town and surrounding villages, handing out three days of nutritionally balanced emergency food to people referred in crisis, and in autumn 2025 moved to a purpose-built Hope Centre on Ellasdale Road alongside St Wilfrid's Church, offering food with dignity, a cuppa and confidential financial advice. Volunteers from Bognor Regis Methodist Church sort and carry items to the foodbank every week, with the big food-redistribution and foodbank networks keeping the parcels stocked.",
+      "The local sector runs at every size. St Wilfrid's Hospice keeps a charity shop on Queensway and other shops on central buying and trade accounts, raising funds for end-of-life care, while small community groups, church pantries and volunteer-run projects work on a shoestring across the town centre, Bersted and Felpham. We are glad to serve the national charity and the one-room foodbank alike, on trade accounts and direct online, with no minimum.",
+      "Beyond the foodbank, St Wilfrid's Hospice trains volunteers who gain new skills while funding tailored care for people with terminal illness in the community, while charity shops along London Road and the High Street raise money for hospice and health causes. The Hope Centre pairs food parcels with practical and emotional support from trained volunteers, and mutual-aid groups around Bersted and Felpham keep watch over isolated residents. Church halls run warm spaces and signposting, and unpaid hands staff every link, from the donation points to the parcels themselves."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Bognor Regis, a FareShare-supplied community group or a small volunteer-run foodbank in Chichester"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "seaford": {
+    "region": "Seaford, East Sussex (the Seahaven coast)",
+    "nearby": ["Eastbourne", "Bexhill-on-Sea", "Brighton"],
+    "s1_head": "Charity and volunteer kit in Seaford",
+    "s1loc": [
+      "Seaford sits on the Seahaven coast, and its charity life runs from the high street outward. Seaford Community Church runs a referral foodbank for the Seahaven area, while St Wilfrid's Hospice keeps a shop on Broad Street staffed by local volunteers. Chestnut Tree House, the children's hospice charity, and a Relate shop add to the Broad Street charity-shop cluster, all leaning on donated stock and gift-aided giving to fund care and counselling across the town.",
+      "The sector here runs at every size. National and regional names like St Wilfrid's Hospice, Cancer Research UK and Chestnut Tree House hold shops on Broad Street with central buying behind them, while small community groups, the church-run foodbank and the volunteer-led St James' Trust community centre work on a shoestring across the town centre, Bishopstone and the seafront. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Beyond the high street, Seaford leans on its volunteer-run hubs. The St James' Trust runs a community centre and charitable activity for residents, and the Seahaven food-support links tie in with East Sussex 1Space and Sussex Housing and Care signposting. Collection points, charity-shop sorting rooms and church-hall sessions across the town centre and toward Bishopstone all rely on rotas of volunteers, and on hospice fundraising teams in Eastbourne whose work reaches back along the coast to Seaford."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Seaford, a St Wilfrid's Hospice-supplied community group or a small volunteer-run foodbank in Eastbourne"
+  },
+  "whitehaven": {
+    "region": "Whitehaven, west Cumbria (Cumberland)",
+    "nearby": ["Workington", "Carlisle", "Penrith"],
+    "s1_head": "Charity and volunteer kit in Whitehaven",
+    "s1loc": [
+      "Whitehaven sits on the west Cumbrian coast, and food support here ties into the wider network. FareShare Lancashire and Cumbria redistributes surplus food to grassroots groups across the North West, and New Life Church on Irish Street offers groceries and meals through the week. Hospice at Home West Cumbria, the only adult hospice provider in the area, runs charity shops and a team of volunteers, while Citizens Advice Copeland signposts people toward emergency food and winter help.",
+      "The sector runs at every size. National and regional charities such as Hospice at Home West Cumbria, Age UK West Cumbria and the RSPCA Cumbria West hold shops with central buying, while small community groups, the New Life Church food project and volunteer-run pantries work on a shoestring across Whitehaven, Cleator Moor and the Kells and Mirehouse estates. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Beyond the food projects, west Cumbria leans on a deep bench of volunteers. Hospice at Home West Cumbria draws on around eighty-six volunteers across its shops, collection boxes and Bereavement Cafe, with a presence reaching Cleator Moor and Cockermouth. The 'From Me To Moor' shop in Cleator Moor and Age UK's Vintage Whitehaven shop add to the mix, and a Celebration of Kindness gathering of forty community food projects across Cumbria and Lancashire shows how many tiny groups keep the area fed."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Whitehaven, a FareShare-supplied community group or a small volunteer-run foodbank in Workington"
+  },
+  "droitwich": {
+    "region": "Droitwich Spa, Worcestershire (Wychavon district)",
+    "nearby": ["Worcester", "Bromsgrove", "Kidderminster"],
+    "s1_head": "Charity and volunteer kit in Droitwich",
+    "s1loc": [
+      "Droitwich Spa, a historic salt town on the River Salwarpe in the Wychavon district, has a busy charity sector. Droitwich Spa Foodbank, which grew out of the Methodist Church celebrations, gives emergency food, toiletries and household items on a referral basis and recently marked its tenth anniversary. St Richard's Hospice runs a two-floor shop in the town, complete with a book department of three thousand titles, and was a beneficiary of a hundred-thousand-pound cross-county foodbank Christmas campaign.",
+      "The sector runs at every size. National and regional names like St Richard's Hospice, the Salvation Army, Cancer Research UK and Blue Cross hold shops with central buying behind them, while small community groups, the church-rooted foodbank and volunteer-led projects work on a shoestring across the town centre, Westwood and the Lido Park area. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Beyond the foodbank, Droitwich has its own infrastructure of volunteers. Droitwich Spa CVS is an independent charity that supports and develops community and voluntary action across the area, and the Moving Forward Community Fridge lets residents and businesses share surplus food that would otherwise be wasted. Charity shops cluster in the High Street and Victoria Square, and a large proportion of foodbank volunteers come through the Methodist Church and the town's other congregations across the Salwarpe districts."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Droitwich, a FareShare-supplied community group or a small volunteer-run foodbank in Worcester"
+  },
+  "evesham": {
+    "region": "Evesham, Worcestershire (the Vale of Evesham)",
+    "nearby": ["Worcester", "Cheltenham", "Redditch"],
+    "s1_head": "Charity and volunteer kit in Evesham",
+    "s1loc": [
+      "In the Vale of Evesham, Caring Hands in the Vale anchors the charity sector. Based at The Lighthouse on Vine Street, it has run a foodbank, baby bank, homeless bank and household bank since 2003, plus a Diner serving free hot meals twice a week, and more than five thousand local residents have used its support. It networks with nearly a hundred organisations including Rooftop Housing, John Martin's Charitable Trust, St Richard's Hospice and Citizens Advice.",
+      "The sector runs at every size. National and regional charities such as St Richard's Hospice hold shops with central buying behind them, while small community groups, Caring Hands, the Rotary Club of Evesham foodbank effort and volunteer-led projects work on a shoestring across the town centre, Bengeworth and the Vale villages. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Evesham's voluntary life reaches well beyond food parcels. Evesham Vale Welcomes Refugees, the Lighthouse and a cluster of local churches partner with Caring Hands, while Cranstoun, CCP homeless outreach and probation and NHS teams plug into the same referral network. Charity shops line Bridge Street and the High Street, and rotas of volunteers staff the Caring Hands Diner, the baby-bank sorting room and the Vale's church-hall collection points across Bengeworth and the surrounding market-garden villages."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Evesham, a Caring Hands-supplied community group or a small volunteer-run foodbank in Worcester"
+  },
+  "ormskirk": {
+    "region": "Ormskirk, West Lancashire",
+    "nearby": ["Skelmersdale", "Southport", "Formby"],
+    "s1_head": "Charity and volunteer kit in Ormskirk",
+    "s1loc": [
+      "Ormskirk, the West Lancashire market town, has a well-organised charity sector. Ormskirk Foodbank, founded in 2013 by local churches and part of the Trussell network, weighs, sorts and parcels donated food for referred clients, with Morrisons its largest single donor. It shares Tesco collections with Skelmersdale and District Foodbank and sits on the borough's Food Insecurity Forum. Queenscourt Hospice runs charity shops across the town and wider district to fund care for people with life-limiting illnesses.",
+      "The sector runs at every size. National and regional names like Queenscourt Hospice hold shops with central buying behind them, while small community groups, Ormskirk Foodbank, the Skelmersdale and Burscough food projects and volunteer-led pantries work on a shoestring across the town centre, Aughton and Burscough. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "The wider district stitches several food projects together. Skelmersdale and District Foodbank and Burscough Food Bank, which distributes from Burscough Methodist Church on Orrell Lane and Trinity Church, share surplus with Ormskirk, and West Lancs CVS coordinates volunteering through its Buzz directory. Queenscourt Hospice runs five shops reaching from Burscough toward Southport and Formby, and church-hall rotas, collection points and charity-shop sorting rooms across Aughton and Burscough rely entirely on volunteers."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Ormskirk, a FareShare-supplied community group or a small volunteer-run foodbank in Skelmersdale"
+  },
+  "blackwood": {
+    "region": "Blackwood, Caerphilly county borough (the Gwent valleys)",
+    "nearby": ["Caerphilly", "Pontypool", "Cwmbran"],
+    "s1_head": "Charity and volunteer kit in Blackwood",
+    "s1loc": [
+      "Blackwood sits in the Gwent valleys within Caerphilly county borough, and its charity sector leans on the Welsh networks. Blackwood and District Foodbank is part of the Trussell network and depends on a team of volunteers to give emergency food. FareShare Cymru, founded in 2010, rescues surplus food and supplies more than a hundred and seventy organisations across South Wales, while St David's Hospice Care runs charity shops across South East Wales to fund palliative and bereavement support.",
+      "The sector runs at every size. National and regional charities such as St David's Hospice Care, Sue Ryder and the British Heart Foundation hold shops with central buying behind them, while small community groups, Blackwood and District Foodbank and volunteer-led projects work on a shoestring across the town centre, Cefn Fforest and Pengam. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Blackwood's community life is rooted in its valley wards. The Cefn Fforest Community Centre Management Committee is a registered charity running its own hall on the western fringe of the town, and mutual-aid and chapel-based groups stretch up the Sirhowy valley. St David's Hospice Care and City Hospice run shops across the borough, and FareShare Cymru and the nearby Caerphilly foodbank, which fed more than two thousand people in a year, tie tiny volunteer-run pantries across Cefn Fforest and Pengam into the wider redistribution network."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Blackwood, a FareShare Cymru-supplied community group or a small volunteer-run foodbank in Caerphilly"
+  },
+  "fulwood": {
+    "region": "Fulwood, a suburb of Preston, Lancashire",
+    "nearby": ["Preston", "Leyland", "Chorley"],
+    "s1_head": "Charity and volunteer kit in Fulwood",
+    "s1loc": [
+      "Fulwood, a large suburb on the north side of Preston, sits within a strong Lancashire charity sector. St Catherine's Hospice runs a Fulwood charity shop stocking menswear, womenswear, children's wear and bric-a-brac, part of a network funding care for patients across Chorley, Preston and South Ribble. The hospice draws on more than six hundred volunteers who help at the hospice, in shops, at The Mill cafe and out in the community, while Christ Church Fulwood hosts craft and cafe sessions.",
+      "The sector runs at every size. National and regional names like St Catherine's Hospice hold shops with central buying behind them, while small community groups, Christ Church Fulwood projects and volunteer-led foodbanks work on a shoestring across Fulwood, Sharoe Green, Cadley and Ribbleton. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Fulwood's voluntary life threads through its churches and community halls. Christ Church Fulwood runs a weekly craft session and a monthly Cake and Company Cafe, and St Catherine's Hospice volunteers staff its shops, grounds and outreach across the suburb. Preston's wider charity directory ties Fulwood groups into citywide food support and hospice fundraising, with collection points, charity-shop sorting rooms and church-hall rotas across Sharoe Green, Cadley and Ribbleton all relying on local volunteers."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Fulwood, a FareShare-supplied community group or a small volunteer-run foodbank in Preston"
+  }
+}

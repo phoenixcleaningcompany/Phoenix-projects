@@ -1,0 +1,86 @@
+{
+  "hertford": {
+    "region": "Hertford, the county town of Hertfordshire",
+    "nearby": ["Hoddesdon", "Welwyn Garden City", "Stevenage"],
+    "s1_head": "Charity and volunteer kit across Hertford",
+    "s1loc": [
+      "Hertford and District Foodbank is run entirely by local volunteers, working through a voucher referral system and running a free food pantry at lunchtime in the town. It draws on the big food-redistribution and foodbank networks, while Isabel Hospice provides palliative care across eastern Hertfordshire and runs a Hertford charity shop supported by a warehouse on Bridge Road East in Welwyn Garden City. The Trussell network and FareShare keep parcels and surplus food flowing to people in crisis.",
+      "The sector here runs at every size. National and regional charities keep shops on Hertford streets and buy kit centrally, while small community groups, the foodbank pantry and volunteer-run projects work on a shoestring across districts like Bengeo, Sele Farm and Hertford Heath. Isabel Hospice shops sit alongside tiny mutual-aid efforts. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Beyond the foodbank, Hertford has dozens of clubs, societies and charities, most run by volunteers, from local branches of national charities to special-interest and sports groups. Isabel Hospice retail joins Willow Foundation work in the wider borough, and the Volunteer Centre Welwyn Hatfield recruits helpers for organisations across the district. Charity shops cluster around the Old Cross and Maidenhead Street, and community centres in Bengeo and Sele Farm host the small, neighbourly projects that quietly hold the town together."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Hertford, a FareShare-supplied community group or a small volunteer-run foodbank in Hoddesdon"
+  },
+  "totton": {
+    "region": "Totton, on the edge of the New Forest in Hampshire",
+    "nearby": ["Southampton", "Eastleigh", "Fareham"],
+    "s1_head": "Charity and volunteer kit across Totton",
+    "s1loc": [
+      "Waterside Foodbank provides emergency food boxes for people in Totton with no money to buy food, while Totton Foodbank, run through Youth and Families Matter, signposts and supports the homeless alongside its parcels. A FareShare food larder runs at Testwood Baptist Church on Wednesday mornings, drawing surplus from FareShare Southern Central, which supplies around 150 charities across Hampshire and the Isle of Wight. The New Forest Basics Bank, active since 2004 with about 250 volunteers, covers households in crisis nearby.",
+      "The sector here runs at every size. National and regional charities run shops on Commercial Road and buy kit centrally, while small community groups, the food larder and volunteer-run projects work on a shoestring across Calmore, Testwood and Eling. Step Up Safe Space and social prescribers attend the community hubs. Oakhaven Hospice retail sits beside tiny mutual-aid efforts. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Oakhaven Hospice runs its Totton charity shop at Commercial Road, part of a chain that funds specialist palliative care, and works in partnership with the Countess Mountbatten Hospice charity. Age Concern keeps a shop on Commercial Road and Headway Totton supports people with brain injury further along the same street. FareShare-supplied larders, the Testwood Baptist Church hub and volunteer-run projects across Calmore and Eling form a tight web of small, neighbourly support around the edge of the New Forest."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Totton, a FareShare-supplied community group or a small volunteer-run foodbank in Southampton"
+  },
+  "burntwood": {
+    "region": "Burntwood, in the Lichfield district of Staffordshire",
+    "nearby": ["Cannock", "Lichfield", "Walsall"],
+    "s1_head": "Charity and volunteer kit across Burntwood",
+    "s1loc": [
+      "Burntwood is served by Cannock and District Foodbank, which opened a new foodbank location in the town in 2025, where volunteers offer not just food but dignity and support to families in need. Lichfield Foodbank, run entirely by local volunteers, provides three-day emergency parcels through partner referrals. Spark Burntwood is a charity delivering support from a baby bank through to community activities, and the big food-redistribution networks keep surplus and donated stock moving across the district.",
+      "The sector here runs at every size. National and regional charities run shops in the town and buy kit centrally, while small community groups, the new foodbank location and volunteer-run projects work on a shoestring across Chase Terrace, Chasetown and Boney Hay. Citizens Advice South East Staffordshire serves Burntwood residents, and the We Love Lichfield endowment fund backs tiny voluntary groups. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Spark Burntwood anchors much of the grassroots work, from its baby bank to family activities, while the We Love Lichfield Fund channels grants to community and voluntary organisations across Burntwood and its surrounding villages. Lichfield Foodbank volunteers cover telephone support, warehouse roles and driving, and charity shops dot Chase Terrace and Chasetown. Support Staffordshire helps coordinate the small, volunteer-run projects and befriending schemes that keep neighbourly help flowing across the former coalfield communities of the Lichfield district."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Burntwood, a FareShare-supplied community group or a small volunteer-run foodbank in Cannock"
+  },
+  "farnworth": {
+    "region": "Farnworth, in the borough of Bolton, Greater Manchester",
+    "nearby": ["Bolton", "Bury", "Radcliffe"],
+    "s1_head": "Charity and volunteer kit across Farnworth",
+    "s1loc": [
+      "Farnworth and Kearsley Foodbank operates from The Well on Trafford Street, relying on the local community for donations, volunteering and funds, and working through a voucher referral system. Across the borough, Storehouse Foodbank, run by Urban Outreach Bolton for over 15 years, supports residents through weekly parcels with hundreds of trained referrers. Bolton NICE runs an emergency food bank staffed entirely by unpaid community volunteers, and the big food-redistribution networks keep surplus stock flowing into Farnworth.",
+      "The sector here runs at every size. National and regional charities keep shops on Market Street and buy kit centrally, while small community groups, The Well foodbank and volunteer-run projects work on a shoestring across Kearsley, Moses Gate and Highfield. Bolton CVS lists groups like Crescent Food Bank, and the Bolton Guild of Help backs local causes. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Urban Outreach Bolton coordinates much of the food work, training over 500 professionals to place referrals and rallying volunteers to pack parcels across the borough. Bolton CVS supports community groups and mutual-aid efforts, the Bolton Guild of Help manages a portfolio of local charities, and charity shops line Market Street in Farnworth. Volunteer-run projects across Kearsley, Moses Gate and Highfield, from foodbanks to befriending, form the everyday backbone of neighbourly support in this part of Greater Manchester."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Farnworth, a FareShare-supplied community group or a small volunteer-run foodbank in Bolton"
+  },
+  "jarrow": {
+    "region": "Jarrow, in South Tyneside, Tyne and Wear",
+    "nearby": ["South Shields", "Gateshead", "Sunderland"],
+    "s1_head": "Charity and volunteer kit across Jarrow",
+    "s1loc": [
+      "A volunteer-run foodbank serving South Tyneside operates from the former Primrose Library on the Scotch Estate in Jarrow. Hospitality and Hope, a South Tyneside charity run entirely by unpaid volunteers, provides community shops, food banks, free family activities and homelessness support across the area. St Clare's Hospice, an independent charity giving specialist palliative care to adults living south of the Tyne, runs both a charity shop and a furniture shop in Jarrow, supported by the big food and donation networks.",
+      "The sector here runs at every size. National and regional charities keep shops in the Viking Centre and buy kit centrally, while small community groups, the Primrose Estate foodbank and volunteer-run projects work on a shoestring across Bede Burn, Monkton and Hebburn. Jarrow Community Association hosts arts, fitness and wellbeing activities. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Emmaus North East opened Lucie's Legacy, a charity shop in the Viking Centre, with all funds supporting its residential community for people moving on from homelessness in South Shields. The Salvation Army runs a Jarrow charity shop, and St Clare's Hospice retail sits alongside it. Jarrow Community Association provides educational, cultural and recreational facilities for residents, and volunteer-run projects across Bede Burn, Monkton and Primrose keep a steady network of neighbourly support across this corner of South Tyneside."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Jarrow, a FareShare-supplied community group or a small volunteer-run foodbank in South Shields"
+  },
+  "penarth": {
+    "region": "Penarth, in the Vale of Glamorgan, Wales",
+    "nearby": ["Cardiff", "Barry", "Caerphilly"],
+    "s1_head": "Charity and volunteer kit across Penarth",
+    "s1loc": [
+      "FareShare Cymru is based in Penarth and, founded in 2010, last year saved 511 tonnes of surplus food from waste, enough for almost 950,000 meals, diverted to 136 organisations including homeless shelters, school breakfast clubs and community centres. Cardiff and Vale Action for Mental Health works from Glebe Street with third-sector groups, while Vale Foodbank serves households in crisis across the Vale of Glamorgan, drawing on the big food-redistribution and foodbank networks throughout the area.",
+      "The sector here runs at every size. National and regional charities keep shops on Windsor Road and buy kit centrally, while small community groups, the foodbank and volunteer-run projects work on a shoestring across Cogan, Penarth Heights and Llandough. Glamorgan Voluntary Services supports volunteers and voluntary organisations across the Vale. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Windsor Road is lined with charity shops, including Tenovus Cancer Care, Marie Curie, City Hospice and Cancer Research UK, while George Thomas Hospice has a base on Stanwell Road. Glamorgan Voluntary Services, an independent charity with a wide membership of voluntary and community organisations, helps coordinate volunteering across the Vale of Glamorgan. FareShare Cymru welcomes new volunteers, and small mutual-aid and community projects across Cogan and Llandough round out a busy local third sector around Penarth."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Penarth, a FareShare Cymru-supplied community group or a small volunteer-run foodbank in Barry"
+  },
+  "congleton": {
+    "region": "Congleton, in Cheshire East, Cheshire",
+    "nearby": ["Macclesfield", "Crewe", "Sandbach"],
+    "s1_head": "Charity and volunteer kit across Congleton",
+    "s1loc": [
+      "Congleton sits within the reach of the big Cheshire foodbank networks, with the Trussell network and FareShare keeping parcels and surplus food moving to people in crisis. East Cheshire Hospice serves Congleton alongside Macclesfield, Knutsford and the High Peak, offering volunteer opportunities and running charity retail, including a new shop at West Heath Retail Park. The League of Friends charity shop on Lawton Street raises funds for local health causes, drawing on a steady base of volunteers across the town.",
+      "The sector here runs at every size. National and regional charities keep shops on Lawton Street and buy kit centrally, while small community groups, foodbanks and volunteer-run projects work on a shoestring across Mossley, Buglawton and West Heath. Barnardo's, Oxfam and Cancer Research UK shops sit beside the local League of Friends store. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "The League of Friends runs its own charity shop on Lawton Street, putting funds straight back into local health services, while East Cheshire Hospice retail expands with its West Heath Retail Park unit. Barnardo's, Oxfam and Cancer Research UK keep town-centre shops, and food banks listed for the Congleton area are stocked by donations and the wider redistribution networks. Volunteer-run projects and community groups across Mossley, Buglawton and West Heath provide the small-scale, neighbourly support that underpins the town."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Congleton, a FareShare-supplied community group or a small volunteer-run foodbank in Macclesfield"
+  }
+}
