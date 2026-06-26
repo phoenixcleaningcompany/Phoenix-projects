@@ -1,0 +1,93 @@
+{
+  "Boston": {
+    "region": "Boston and the Lincolnshire Fens",
+    "nearby": ["Spalding", "Grantham", "Skegness"],
+    "s1_head": "Kitting the visitor economy of the Lincolnshire Fens",
+    "s1loc": [
+      "Boston draws visitors to one of England's great medieval ports, crowned by St Botolph's Church, the Boston Stump, whose 272-foot tower is among the tallest of any English parish church and visible for miles across the flat Fens. The Tower Experience climbs 209 steps to sweeping views over the Witham and the surrounding farmland, while the historic Market Place and the town's link to the Pilgrim emigrants who founded Boston, Massachusetts give the place a story that reaches across the Atlantic.",
+      "The leisure and activity layer runs out along the waterways and farmland of the wider Fens, anchored by the Maud Foster Windmill, the tallest working windmill in Britain, a seven-storey 1819 tower still milling flour and open to climb. RSPB Frampton Marsh, four miles south where the Witham and Welland reach the Wash, offers reed beds, wet grassland and salt marsh alive with avocets, redshanks and skylarks, drawing birdwatchers and walking parties through the warmer season.",
+      "Heritage and culture run deep here. The 14th-century Boston Guildhall, once at the heart of the town's medieval trade, preserves the cells where the Pilgrim Fathers were held in 1607 and now serves as the town's museum. The Georgian frontages around the Market Place, the bustling open-air market days and the events calendar built around the Stump and the riverside give the town a layered character beyond its trading past.",
+      "Underpinning it all is a hotel and inn trade led by historic houses such as the White Hart Hotel beside the river, alongside a guide and tour scene built around the Stump and the Pilgrim story. Boston station on the Poacher Line links the town to Grantham, Lincoln and Skegness, and the A16 and A52 carry day-trippers in, so operators handle stopover trade as well as visitors heading for the Wash, the Fens and the Lincolnshire coast nearby."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Boston attraction or hotel group, a heritage site or a small independent activity centre in Spalding"
+  },
+  "Newbury": {
+    "region": "Newbury and West Berkshire",
+    "nearby": ["Thatcham", "Reading", "Basingstoke"],
+    "s1_head": "Kitting the visitor economy of West Berkshire",
+    "s1loc": [
+      "Newbury runs a strong visitor economy built around Newbury Racecourse, one of the UK's premier sporting venues, staging 31 racedays a year including the Group 1 Lockinge Stakes and the Coral Gold Cup, and now a year-round destination for summer music nights and family events. A short drive away, the world-famous Highclere Castle, filming home of Downton Abbey, opens its 5,000-acre estate, grand interiors and Egyptian Exhibition to tours across the year.",
+      "The leisure and activity layer reaches across the West Berkshire countryside, from the open heath and Grade II control tower visitor centre at Greenham and Crookham Common to the woodland walks of Snelsmore Common. The Kennet and Avon Canal threads through the town past Newbury Wharf and Victoria Park, giving boaters, walkers and cyclists a busy towpath offer, while the surrounding downland trails keep activity operators trading through the warmer months.",
+      "Heritage and culture run deep here. The West Berkshire Museum, set in the Grade I listed 17th-century Cloth Hall and the Granary on Wharf Street, tells the story of the Battles of Newbury, the cloth and corn trades and the Greenham Common peace camp. The Corn Exchange stages theatre, comedy and music, the Watermill Theatre at Bagnor produces up to ten new plays a season, and the Newbury Spring Festival fills two weeks each May.",
+      "Underpinning it all is a hotel and country-house trade serving racegoers, Highclere visitors and business travellers, with a guide and tour scene built around the racecourse and the Downton connection. Newbury station on the line from London Paddington to the West Country and the A34 and M4 link the town to Reading, Basingstoke and Oxford, so operators handle raceday surges and stopover trade alongside day-trippers heading into the Berkshire downs."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Newbury attraction or hotel group, a heritage site or a small independent activity centre in Thatcham"
+  },
+  "Cleethorpes": {
+    "region": "Cleethorpes and the North East Lincolnshire coast",
+    "nearby": ["Grimsby", "Scunthorpe", "Hull"],
+    "s1_head": "Kitting the visitor economy of the Cleethorpes coast",
+    "s1loc": [
+      "Cleethorpes draws up to a million visitors a year to a classic Lincolnshire seaside resort on the mouth of the Humber, where the Victorian pier, opened in 1873 and now home to Papa's, anchors a long sandy seafront. Miles of safe beach, the views across the estuary to the shipping bound for Grimsby and Immingham, and the resort's old-world promenade charm make it a marquee day-out destination for the wider North East Lincolnshire coast.",
+      "The leisure and activity layer is busy through the season. The Cleethorpes Coast Light Railway runs two miles of 15-inch gauge track along the seafront, calling at three stations and home to the Signal Box Inn, reputedly the world's smallest pub. The Boating Lake rents pedal boats and rowing boats as it has for over a century, while the beach, the model-boat north lake and the promenade keep families and activity operators trading all summer.",
+      "Heritage and culture centre on the Cleethorpes Discovery Centre on the shore of the Boating Lake, with its community and exhibition galleries tracing the town's history alongside its lakeside cafe and the nearby Humber Observatory. The Edwardian seafront architecture, the resort's long tradition as a Yorkshire and Lincolnshire holiday town and the calendar of events along the promenade give Cleethorpes a character that reaches well beyond high summer.",
+      "Underpinning it all is a hotel, guest-house and holiday-park trade serving the resort and the wider coast, with a guide and day-trip scene built around the seafront, the railway and the estuary birdlife. Cleethorpes station puts the town at the end of the line, with TransPennine Express running hourly trains to Doncaster, Sheffield, Manchester Piccadilly and Liverpool Lime Street, so operators handle holiday crowds and day-trippers arriving from across the north."
+    ],
+    "kit_loc": "across the coast's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Cleethorpes attraction or hotel group, a heritage site or a small independent activity centre in Grimsby"
+  },
+  "Bicester": {
+    "region": "Bicester and north Oxfordshire",
+    "nearby": ["Oxford", "Banbury", "Aylesbury"],
+    "s1_head": "Kitting the visitor economy of north Oxfordshire",
+    "s1loc": [
+      "Bicester runs one of the country's biggest retail-tourism economies, anchored by Bicester Village, a luxury designer outlet of more than 150 boutiques that draws over three million customers a year from around the world and ranks as a major international visitor attraction. The village pulls overseas shoppers and day-trippers in vast numbers, making the town a marquee destination on the edge of the Oxfordshire countryside and a fixture on coach and tour itineraries.",
+      "The leisure and activity layer reaches across the town and the surrounding district. Bicester Heritage, the UK's first dedicated centre for the restoration and display of vintage cars, motorcycles and aeroplanes, occupies a former RAF bomber station and hosts motoring events and drive days. Garth Park's gardens, summer music programme and play area, and the circular walks of the Island Pond Wood nature reserve give families and activity operators a busy outdoor offer through the season.",
+      "Heritage and culture centre on the medieval church of St Edburg's, the earliest surviving building in the town, and the historic Market Square at the heart of the town trail. Nearby Rousham House with its 18th-century William Kent gardens along the River Cherwell, and the UNESCO World Heritage site of Blenheim Palace a short trip across the M40, give the area a deep cultural draw that anchors the events and visitor calendar across the year.",
+      "Underpinning it all is a growing hotel and serviced-stay trade serving Bicester Village shoppers, business travellers and tourists touring Oxfordshire, with a strong guide and coach-tour scene built around the outlet and the palaces. Bicester Village and Bicester North stations link the town directly to London Marylebone and Oxford, and the M40 carries day-trippers in, so operators handle international shopping crowds as well as visitors heading for Oxford and the Cotswolds nearby."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Bicester attraction or hotel group, a heritage site or a small independent activity centre in Oxford"
+  },
+  "Ramsgate": {
+    "region": "Ramsgate and the Isle of Thanet",
+    "nearby": ["Margate", "Broadstairs", "Deal"],
+    "s1_head": "Kitting the visitor economy of the Isle of Thanet",
+    "s1loc": [
+      "Ramsgate draws visitors to the only Royal Harbour in the country, a title bestowed by King George IV 200 years ago and now a designated Heritage Harbour, ringed by a Regency seafront of stylish bars, cafes and restaurants overlooking the marina. The bustling Royal Harbour and Marina, the sandy main sands and the cliff-top crescents give Ramsgate a marquee seafront identity at the southern point of the Isle of Thanet.",
+      "The leisure and activity layer runs along the harbour and the coast. Boat trips head out from the Royal Harbour to watch the seals and fish offshore, while the Ramsgate Tunnels offer guided tours of a wartime air-raid shelter complex begun in a 150-year-old Victorian railway tunnel. The chalk cliffs, shingle, saltmarsh and birdlife of the Pegwell Bay nature reserve southwest of town give walkers and activity operators a strong outdoor offer through the warmer season.",
+      "Heritage and culture run deep here. The Ramsgate Maritime Museum in the Clock House on the harbour traces the town's fishing, shipbuilding and lifeboat past across four galleries, with the Dunkirk little ship Sundowner berthed nearby, while the town's Meridian Line and blue plaques marking stays by Vincent van Gogh, Charles Darwin and Wilkie Collins thread its streets. The Micro Museum and the seafront events calendar round out a rich cultural draw.",
+      "Underpinning it all is a guest-house, hotel and Bed and Breakfast trade serving the harbour and the wider Thanet coast, with a guide and boat-tour scene built around the Royal Harbour and the tunnels. Ramsgate station puts the town on the high-speed line to London St Pancras, and the A299 Thanet Way carries day-trippers in, so operators handle summer crowds as well as visitors touring Margate, Broadstairs and the Kent coast nearby."
+    ],
+    "kit_loc": "across the coast's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Ramsgate attraction or hotel group, a heritage site or a small independent activity centre in Margate"
+  },
+  "Margate": {
+    "region": "Margate and the Isle of Thanet",
+    "nearby": ["Ramsgate", "Broadstairs", "Herne Bay"],
+    "s1_head": "Kitting the visitor economy of the Thanet seaside",
+    "s1loc": [
+      "Margate runs a busy seaside visitor economy on the Isle of Thanet, anchored by Dreamland, one of the oldest surviving amusement parks in the UK, whose Grade II* listed Scenic Railway is the country's oldest wooden rollercoaster, set among vintage rides, live music and events. The Blue Flag sweep of Margate Main Sands beside it, and the wide sandy bays that gave the town its name as the original British seaside resort, draw families through the season.",
+      "The leisure and activity layer spreads along the seafront and harbour. Dreamland's roller-skating, rides and outdoor stage, the tidal pool and the sands draw families, while the Harbour Arm offers a curved breakwater of bars, studios and pop-up events out over the water. The wide beaches, the watersports off the bay and the seafront promenade keep families and activity operators trading through the warmer season along the Thanet coast.",
+      "Heritage and culture have made Margate a national draw. The Turner Contemporary, one of the UK's leading contemporary art galleries with free entry and a striking seafront building, sits at one end of the front, while the Shell Grotto, an underground passage lined with 4.6 million shells discovered in 1835, hides inland. The regenerated Old Town, packed with galleries, vintage shops and cafes, anchors a cultural scene that has reshaped the town's reputation.",
+      "Underpinning it all is a hotel, guest-house and Bed and Breakfast trade that has grown with the town's cultural revival, alongside a guide and tour scene built around Dreamland, Turner Contemporary and the Old Town. Margate station puts the town on the high-speed line to London St Pancras, and the A299 Thanet Way carries day-trippers in, so operators handle summer crowds as well as visitors touring Ramsgate, Broadstairs and the wider Kent coast nearby."
+    ],
+    "kit_loc": "across the coast's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Margate attraction or hotel group, a heritage site or a small independent activity centre in Ramsgate"
+  },
+  "Sittingbourne": {
+    "region": "Sittingbourne and the Swale",
+    "nearby": ["Faversham", "Chatham", "Maidstone"],
+    "s1_head": "Kitting the visitor economy of the Swale",
+    "s1loc": [
+      "Sittingbourne carries a visitor economy rooted in its Thames barge and papermaking past on the edge of the Swale, anchored by the Sittingbourne and Kemsley Light Railway, an award-winning preserved 2ft 6in steam line that runs two miles from a century-old concrete viaduct out through the marshes to Kemsley Down. The town's creekside setting and its history as a brickmaking and barge-building centre along Milton Creek give it a distinctive industrial-heritage draw on the north Kent coast.",
+      "The leisure and activity layer centres on Milton Creek Country Park, the town's largest green space at 128 acres of reclaimed land beside the tidal creek, with a large natural play area, events space and wildlife habitat opening out to the Swale estuary. The walking and cycling trails through the park, the creekside paths and the skatepark at Lloyd's Wharf give families and activity operators a busy outdoor offer through the warmer season.",
+      "Heritage and culture centre on the Dolphin Sailing Barge Museum at Dolphin Yard on Milton Creek, devoted to the Thames sailing barges that once worked the estuary, with the restored barge Raybel berthed at Lloyd's Wharf nearby. The historic high street, the medieval coaching-inn heritage of a town on the old Roman Watling Street, and the events around the creek and the railway give Sittingbourne a character beyond its modern centre.",
+      "Underpinning it all is a hotel and inn trade serving business travellers, creek visitors and tourists touring north Kent, with a guide and day-trip scene built around the steam railway and the barge heritage. Sittingbourne station on the line from London Victoria and St Pancras to the Kent coast and the A2 and M2 link the town to Faversham, Chatham and Maidstone, so operators handle stopover trade as well as day-trippers heading for the Swale and the Isle of Sheppey nearby."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Sittingbourne attraction or hotel group, a heritage site or a small independent activity centre in Faversham"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "Cwmbran": {
+    "region": "Cwmbran and the Gwent valleys",
+    "nearby": ["Pontypool", "Newport", "Caerphilly"],
+    "s1_head": "Kitting the visitor economy of Cwmbran and Torfaen",
+    "s1loc": [
+      "Cwmbran anchors the visitor appeal of Torfaen, with Greenmeadow Community Farm spread over 150 acres of paddocks, indoor and outdoor play barns, milking demonstrations and tractor-and-trailer rides drawing families across the year. The Llantarnam Grange Arts Centre shows contemporary work from Cymru and beyond, and the Cistercian Llantarnam Abbey, founded in 1179 by Hywel of Caerleon, gives the new town a deep historic anchor beneath its modern core.",
+      "The leisure and activity layer centres on Cwmbran Boating Lake, where paddle boats, a large play area and a skate park sit beside the lakeside cafe. A few miles east, Llandegfedd Lake on the Monmouthshire border is a watersports hotspot, its dedicated Activity Centre hiring out kit for sailing, kayaking, stand-up paddleboarding, windsurfing and powerboating, giving outdoor operators a steady seasonal draw close to town.",
+      "Heritage and culture run up the Llwyd valley to neighbouring Pontypool Park, the 150-acre former Hanbury estate on the edge of the Brecon Beacons, with its museum, dry ski slope and the celebrated Shell Grotto perched on the ridge. The Monmouthshire and Brecon Canal towpath threads woodland and farmland for walkers and cyclists, while Blaenavon's Big Pit National Coal Museum draws visitors into the wider World Heritage story.",
+      "The visitor trade rests on hotels and inns around the 650,000 square-foot pedestrianised town centre, one of South Wales's busiest shopping draws, with guides working the canal and the valley heritage. Cwmbran railway station carries day-trippers south to Newport and Cardiff and north to Pontypool and Abergavenny, and the surrounding draws of Pontypool, Newport and Caerphilly feed a steady seasonal flow into Torfaen."
+    ],
+    "kit_loc": "across the valley's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Cwmbran attraction or hotel group, a heritage site or a small independent activity centre in Pontypool"
+  },
+  "Christchurch": {
+    "region": "Christchurch and the Dorset coast",
+    "nearby": ["Bournemouth", "New Milton", "Ferndown"],
+    "s1_head": "Kitting the visitor economy of coastal Christchurch",
+    "s1loc": [
+      "Christchurch builds its visitor appeal around Christchurch Priory, a twelfth-century church reputed to be the longest in England and larger than several cathedrals, rising above the medieval town between the Avon and Stour rivers. Highcliffe Castle, the Grade I listed 1830s mansion that was once the retreat of Selfridges founder Harry Gordon Selfridge, stands on the cliff top with sweeping coastal views as the area's marquee heritage draw.",
+      "The leisure and activity layer gathers on Christchurch Harbour, where Mudeford Quay is a magnet for crabbing, boat trips, kayaking, paddleboarding and fishing. The Mudeford Sandspit reaches out in pale sand lined with Britain's most expensive beach huts, while Hengistbury Head closes the harbour with cliff walks, sandy beaches and one of the finest two-hour coastal walks in Dorset for activity and outdoor operators.",
+      "Heritage and culture run through the Priory quarter, the Red House Museum and Gardens in its Georgian workhouse, and the town quay where the Avon and Stour meet beside the old Place Mill. Hengistbury Head was a major Iron Age trading port two thousand years ago, landing Italian wine and figs, and a calendar of regattas and seafront events fills the warmer months along the waterfront.",
+      "The visitor trade draws on hotels, inns and guest houses across the town and out towards Highcliffe and Mudeford, with guides and ferrymen running harbour and headland trips. Christchurch railway station on the South Western main line links to Bournemouth and Waterloo, and the surrounding draws of Bournemouth, New Milton and Ferndown, with the New Forest close at hand, feed a strong seasonal flow into the town."
+    ],
+    "kit_loc": "across the coast's attractions, harbour and visitor sites",
+    "s2_intro": "Whether you are a major Christchurch attraction or hotel group, a heritage site or a small independent activity centre in Bournemouth"
+  },
+  "Romford": {
+    "region": "Romford and the London Borough of Havering",
+    "nearby": ["Hornchurch", "Ilford", "Upminster"],
+    "s1_head": "Kitting the visitor economy of Romford and Havering",
+    "s1loc": [
+      "Romford anchors the visitor scene of the London Borough of Havering, with the Havering Museum set on the ground floor of the old Romford Brewery and opened in 2010 to tell the borough's story. The historic Romford Market, chartered in 1247 and trading every Wednesday, Friday and Saturday with over 150 stalls, remains the town's marquee draw, alongside the cinema and leisure block at The Brewery shopping centre.",
+      "The leisure and activity layer is led by the 44-acre Raphael Park, a lakeside flagship green space with ornamental gardens, sports pitches, tennis courts and a play area beside its ornamental lake. The Sapphire Ice and Leisure Centre keeps its full-size rink busy as home of the Romford Raiders, and Havering Country Park's redwood avenue gives families and activity operators a varied draw across the year.",
+      "Heritage and culture run through the Brookside Theatre, a much-loved Romford venue staging plays, musicals, comedy and live music, and the timber-framed Golden Lion coaching inn on the Market Place. The Queen's Theatre over in neighbouring Hornchurch, the Liberty of Havering's royal history and a busy programme of market-square and seasonal events give guides and cultural operators a distinct local narrative.",
+      "The visitor trade rests on town-centre hotels and a lively night-time economy around South Street, with guides working the market and the country parks. Romford station puts the West End and the City within easy reach on the Elizabeth line and Greater Anglia services, and the surrounding draws of Hornchurch, Ilford and Upminster feed a steady flow of visitors into Havering."
+    ],
+    "kit_loc": "across the borough's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Romford attraction or hotel group, a heritage site or a small independent activity centre in Hornchurch"
+  },
+  "Barnet": {
+    "region": "Barnet and north London",
+    "nearby": ["Borehamwood", "Potters Bar", "Edgware"],
+    "s1_head": "Kitting the visitor economy of Barnet and north London",
+    "s1loc": [
+      "Barnet anchors its visitor appeal on the Royal Air Force Museum London at the former Hendon Aerodrome, where free admission opens five hangars and over 100 aircraft, from the Avro Lancaster S-Sugar to the only complete Hawker Typhoon. In Chipping Barnet, the locally run Barnet Museum tells the district's story from the Bronze Age to the present, including the 1471 Battle of Barnet fought on the heights north of the town.",
+      "The leisure and activity layer spreads across open countryside on London's northern edge, from the heath and ponds of Hadley Common and the woodland of Monken Hadley to the lakes and parkland of Trent Park towards Cockfosters. The wide green sweep of Barnet Playing Fields, riverside walks and seasonal funfairs at the historic Barnet Fair give family and activity operators a varied seasonal draw across the year.",
+      "Heritage and culture centre on the Bull Theatre, the eighteenth-century coaching inn on the High Street that became the Old Bull Arts Centre in 1975, with its intimate 150-seat auditorium and dance studios. The medieval streets of Chipping Barnet, the spire of St John the Baptist church, the chartered Barnet Fair dating from 1199 and a busy events calendar give guides plenty of local material.",
+      "The visitor trade draws on hotels and guest houses across the borough, with the film heritage of nearby Elstree and Borehamwood drawing studio visitors close by. High Barnet is the northern terminus of the Northern line, putting central London within easy reach, and the surrounding draws of Borehamwood, Potters Bar and Edgware feed a steady flow of day-trippers into north London."
+    ],
+    "kit_loc": "across the borough's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Barnet attraction or hotel group, a heritage site or a small independent activity centre in Borehamwood"
+  },
+  "Paignton": {
+    "region": "Paignton and the English Riviera",
+    "nearby": ["Torquay", "Newton Abbot", "Exeter"],
+    "s1_head": "Kitting the visitor economy of the English Riviera",
+    "s1loc": [
+      "Paignton sits at the heart of the English Riviera, its visitor appeal led by Paignton Zoo, home to thousands of animals across 80 acres of gardens with gorillas, orangutans, giraffes, tigers and rhinos in habitats from savannah to tropical forest. The 780-foot Paignton Pier, opened in 1879, and the long golden sweep of Paignton Sands with its Geopark playground anchor a classic seaside resort between Torquay and Brixham.",
+      "The leisure and activity layer runs south to Goodrington Sands, a Blue Flag beach backed by the UK's largest waterpark at Quaywest, go-karting and crazy golf. Tor Bay itself offers swimming, kayaking and paddleboarding through the warmer months, while the wide promenade, beach huts and amusements keep family and activity operators busy across a long seasonal calendar on the South Devon coast.",
+      "Heritage and culture centre on Oldway Mansion and its 17-acre Grade II gardens, built for Singer sewing-machine heir Paris Singer in the style of a mini Versailles, the jewel in Torbay's crown. The English Riviera's UNESCO Global Geopark status, one of just a handful in the UK and Ireland, the historic harbour and a calendar of seafront events give guides and cultural operators a distinct local story.",
+      "The visitor trade rests on a deep base of seafront hotels, guest houses and holiday parks, with the heritage Paignton and Dartmouth Steam Railway running seven miles along the coast to Kingswear with a connecting ferry to Dartmouth. Paignton railway station links the resort to Exeter and the national network, and the surrounding draws of Torquay, Newton Abbot and Exeter feed a strong seasonal flow into the bay."
+    ],
+    "kit_loc": "across the coast's attractions, beaches and visitor sites",
+    "s2_intro": "Whether you are a major Paignton attraction or hotel group, a heritage site or a small independent activity centre in Torquay"
+  },
+  "Kirkcaldy": {
+    "region": "Kirkcaldy and the Fife coast",
+    "nearby": ["Glenrothes", "Dunfermline", "Perth"],
+    "s1_head": "Kitting the visitor economy of the Fife coast",
+    "s1loc": [
+      "Kirkcaldy stretches along the Firth of Forth, its visitor appeal led by the free Kirkcaldy Galleries, whose strong collection of Scottish art includes works by the Glasgow Boys and S.J. Peploe alongside library, museum and local-history rooms under one roof. To the east, the dramatic fifteenth-century Ravenscraig Castle, the first in Britain designed for defence by and against cannon, overlooks the Forth from its coastal park as a marquee heritage draw.",
+      "The leisure and activity layer centres on the Victorian Beveridge Park, with its boating pond, flower gardens, sports pitches and woodland trails, and on Ravenscraig Park's gardens and sea views. The long Esplanade promenade runs above the pebble and sand beaches for walking and cycling, and the wider Fife Coastal Path gives outdoor and activity operators a varied seasonal draw along the waterfront.",
+      "Heritage and culture run through the Adam Smith Theatre, named for the town's most famous son and a busy venue for drama, comedy, live music and film. The Links Market each April, established in 1304 and billed as Europe's longest street fair, draws around half a million people to the Esplanade over six days, anchoring an events calendar in the oldest market town on the Fife coast.",
+      "The visitor trade rests on hotels and guest houses across the town, with guides working the castle, the galleries and the coast. ScotRail trains run frequently from the central station, reaching Edinburgh in about 45 minutes and Dundee in around 40, and the surrounding draws of Glenrothes, Dunfermline and Perth feed a steady seasonal flow into the Lang Toun."
+    ],
+    "kit_loc": "across the coast's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Kirkcaldy attraction or hotel group, a heritage site or a small independent activity centre in Glenrothes"
+  },
+  "Batley": {
+    "region": "Batley and the Heavy Woollen district",
+    "nearby": ["Dewsbury", "Mirfield", "Ossett"],
+    "s1_head": "Kitting the visitor economy of Batley and the Heavy Woollen district",
+    "s1loc": [
+      "Batley anchors its visitor appeal on the Bagshaw Museum, a Gothic Victorian house of 1875 set in award-winning Wilton Park, opened as a museum in 1911 and named for its first curator Walter Bagshaw, with local and natural-history collections and free entry. The town's mill-shop trade, born of a textile past that made Batley the world capital of shoddy and wool recycling, still draws shoppers into the heart of the Heavy Woollen district.",
+      "The leisure and activity layer gathers in Wilton Park itself, with its boating lake, miniature railway, animal sanctuary, woodland and lakeside walks and a play area and cafe. Nearby Oakwell Hall Country Park surrounds an Elizabethan manor with formal gardens and trails, while the Spen Valley Greenway threads the old shoddy-mill landscape for walkers and cyclists, giving family and activity operators a steady seasonal draw.",
+      "Heritage and culture carry the memory of the Batley Variety Club, the 1960s venue dubbed the Las Vegas of Yorkshire that hosted the Beatles' first Yorkshire show and a roll-call of stars. Rugby league at Mount Pleasant, home of the Batley Bulldogs since 1880 and one of the sport's oldest clubs, fills the fixtures calendar, and the remnants of the shoddy mills tell the industrial story.",
+      "The visitor trade rests on hotels, inns and guest houses across the town and out towards Dewsbury, with guides working the museum, the parks and the textile heritage. Batley railway station on the Huddersfield line links the town across West Yorkshire, with easy reach of the M62 and M1 carrying day-trippers in, and the surrounding draws of Dewsbury, Mirfield and Ossett feed a steady seasonal flow into the district."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Batley attraction or hotel group, a heritage site or a small independent activity centre in Dewsbury"
+  }
+}

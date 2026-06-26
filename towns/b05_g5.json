@@ -1,0 +1,93 @@
+{
+  "Hinckley": {
+    "region": "Hinckley and west Leicestershire",
+    "nearby": ["Nuneaton", "Leicester", "Coalville"],
+    "s1_head": "Kitting the visitor economy of west Leicestershire",
+    "s1loc": [
+      "Hinckley anchors a steady visitor economy on the Leicestershire and Warwickshire border, built around its standing as the home of Triumph Motorcycles. The Triumph Factory Visitor Experience draws enthusiasts with its free gallery of iconic machines, including bikes seen in films from The Great Escape to Mission Impossible, alongside paid behind-the-scenes factory tours. The earthwork remains of the town's medieval motte-and-bailey castle and the timber-framed Hinckley and District Museum on Bond Street add older layers to the draw.",
+      "The leisure and activity layer reaches out across open countryside on the town's edge. Burbage Common and Woods, one of the largest green spaces in Leicestershire, offers miles of footpaths through grassland and ancient woodland for walkers and birdwatchers, while Argents Mead provides a parkland heart beside the centre. The Mallory Park racing circuit at nearby Kirkby Mallory adds a motorsport draw, keeping families and activity operators busy through the warmer season.",
+      "Heritage and culture centre on the Concordia Theatre on Stockwell Head, a thriving community venue staging drama and performance in the heart of town. The town's hosiery and shoe-making past shapes its streets and its market traditions, while the Bosworth Battlefield Heritage Centre a short drive away marks the 1485 clash where Richard III fell and the Tudor era began, anchoring an events calendar with re-enactments and heritage days across the year.",
+      "Underpinning it all is a hotel and inn trade serving visitors, business travellers and motorsport crowds, with a guide and tour scene built around the Triumph factory and the Bosworth story. Hinckley station on the line between Leicester and Birmingham, and the M69 linking the M1 and M6, carry day-trippers in, so operators handle stopover trade as well as visitors heading for the battlefield, Mallory Park and the surrounding Leicestershire countryside."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Hinckley attraction or hotel group, a heritage site or a small independent activity centre in Nuneaton"
+  },
+  "Middleton": {
+    "region": "Middleton and the Rochdale borough",
+    "nearby": ["Rochdale", "Oldham", "Heywood"],
+    "s1_head": "Kitting the visitor economy of the Rochdale borough",
+    "s1loc": [
+      "Middleton carries a distinctive visitor economy in the Rochdale borough of Greater Manchester, built on its Golden Cluster of Arts and Crafts heritage. The town was the home of architect Edgar Wood, a pioneer of the movement whose Grade II-star Long Street Methodist Church and Schools and the 1889 Jubilee Library, one of the first libraries built by the Arts and Crafts Movement, draw architecture visitors, alongside his unusual triangular houses on Manchester Old Road.",
+      "The leisure and activity layer reaches into green space on the town's edge. Alkrington Woods Nature Reserve offers a network of footpaths through woodland and around lakes for walkers and nature lovers, while the wider parks and trails of the borough give families a strong outdoor offer. Nearby Heaton Park, one of the largest municipal parks in Europe, adds boating, a tramway and open parkland just beyond the town through the warmer season.",
+      "Heritage and culture run deep here. Alkrington Hall, designed by Giacomo Leoni as one of the first Palladian mansions in England, and the Alkrington Garden Village, an early garden village exhibited at the 1910 International Town Planning Conference, give the town a planned-landscape identity. The ancient parish church of St Leonard, the conservation areas and the events calendar around the heritage trail fill the diary across the year.",
+      "Underpinning it all is a guest-house and inn trade serving visitors to the borough and to Manchester, with a guide and tour scene built around the Edgar Wood heritage trail. Mills Hill station on the Calder Valley line links the town toward Manchester and Leeds, the bus station and the No. 17 corridor along Long Street carry visitors in, and a planned Metrolink extension promises to bring the town closer to the city centre attractions nearby."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Middleton attraction or hotel group, a heritage site or a small independent activity centre in Rochdale"
+  },
+  "Ashton-under-Lyne": {
+    "region": "Ashton-under-Lyne and Tameside",
+    "nearby": ["Oldham", "Stalybridge", "Hyde"],
+    "s1_head": "Kitting the visitor economy of Tameside",
+    "s1loc": [
+      "Ashton-under-Lyne anchors a steady visitor economy at the heart of Tameside, drawing visitors to Portland Basin Museum, housed in the restored 1834 Ashton Canal Warehouse at the junction of three canals. The museum recreates a 1920s period street with shops, room displays and a transport gallery tracing the borough's industrial rise, with canal boats and barges outside and chargeable boat trips from the basin. Free entry and a canalside setting make it a marquee day-out venue.",
+      "The leisure and activity layer reaches across parks and waterways on the town's edge. Stamford Park, a beautifully maintained Victorian park straddling the border with Stalybridge, offers gardens, a boating lake, a playground and a small animal enclosure, while walking and cycling routes start from Portland Basin and stretch into Manchester or out across open countryside. The towpaths of the Ashton, Peak Forest and Huddersfield Narrow canals keep activity operators busy through the warmer season.",
+      "Heritage and culture centre on the Tameside Hippodrome on Oldham Road, the town's only Grade II-listed purpose-built theatre, an Art Deco auditorium that opened in 1904 as a music hall. The Ashton Market Hall, rebuilt after a 2004 fire while keeping its traditional character, anchors one of the region's busiest markets, and the parish church of St Michael and the events calendar around the market and the canals fill the diary across the year.",
+      "Underpinning it all is a hotel and guest-house trade serving visitors, business travellers and Manchester day-trippers, with a guide and tour scene built around the canals and the museum. Ashton-under-Lyne station on the Huddersfield line and the Metrolink tram terminus link the town directly into Manchester city centre, while the M60 carries visitors in, so operators handle stopover trade as well as day-trippers heading for the Peak District nearby."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Ashton-under-Lyne attraction or hotel group, a heritage site or a small independent activity centre in Oldham"
+  },
+  "Sutton-in-Ashfield": {
+    "region": "Sutton-in-Ashfield and the Ashfield district",
+    "nearby": ["Mansfield", "Hucknall", "Alfreton"],
+    "s1_head": "Kitting the visitor economy of the Ashfield district",
+    "s1loc": [
+      "Sutton-in-Ashfield runs a green visitor economy at the heart of the Ashfield district of Nottinghamshire, anchored by King's Mill Reservoir, a water that has hosted the local sailing club since 1959 and now doubles as a nature reserve with its Mill Adventure Base for watersports. The reservoir takes its name from a mill once owned by John Cockle, who legend says gave Henry II a night's lodging, and a new waterside restaurant has joined the lakeside draw.",
+      "The leisure and activity layer reaches west to Brierley Forest Park, 250 acres of nature reserve and parkland reclaimed from the former Sutton Colliery and holder of the Green Flag Award since it opened in 1999. The Teversal Trails, running along disused railway lines between Pleasley Vale and King's Mill Reservoir, and the woodland walks at Silverhill on the old colliery site give walkers and cyclists a strong outdoor offer through the warmer season.",
+      "Heritage and culture run through the town's coal-mining and framework-knitting past, with the Idlewells Shopping Centre and the surrounding market streets at the heart of town life. Portland Square at the town centre, the parish church of St Mary Magdalene and the events calendar around the reservoir and the trails fill the diary, while the wider Ashfield district's mining heritage and the Robin Hood Line story give the area a distinct cultural identity across the year.",
+      "Underpinning it all is a guest-house and inn trade serving visitors and travellers across the Mansfield urban area, with a guide and day-trip scene built around the reservoir, Brierley Forest Park and the Teversal Trails. Sutton Parkway station on the Robin Hood Line links the town toward Nottingham and Mansfield, and the A38 and M1 carry day-trippers in, so operators handle stopover trade as well as visitors heading for the Derbyshire countryside nearby."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Sutton-in-Ashfield attraction or hotel group, a heritage site or a small independent activity centre in Mansfield"
+  },
+  "Chippenham": {
+    "region": "Chippenham and north Wiltshire",
+    "nearby": ["Trowbridge", "Melksham", "Bath"],
+    "s1_head": "Kitting the visitor economy of north Wiltshire",
+    "s1loc": [
+      "Chippenham runs a steady visitor economy in north Wiltshire, anchored by the historic Yelde Hall, a fifteenth-century timber-framed building in the old market heart of town with its lock-up and council chamber, free to visit. The Chippenham Museum, housed in the 18th-century former magistrates' court, explains how river, rail and road links shaped the town and reveals its ties to Isambard Kingdom Brunel and Alfred the Great, anchoring the town-centre heritage draw across the year.",
+      "The leisure and activity layer centres on the parks and waterways beside the centre. Monkton Park, set in a loop of the River Avon, offers riverside walking, the Olympiad sports and pool centre and open green space, while Stanley Park and the John Coles Park give families more parkland on the town's edge. The wider Wiltshire countryside, the river and the surrounding trails keep walkers, cyclists and activity operators busy through the warmer season.",
+      "Heritage and culture run deep across the surrounding area. The Chippenham Folk Festival fills the town each spring with camping at Monkton Park and music across multiple venues, while the picture-postcard National Trust villages of Lacock, with its abbey seen in two Harry Potter films, and Castle Combe draw film and history visitors. Maud Heath's Causeway, the medieval raised walkway, and the events calendar around the festival fill the diary across the year.",
+      "Underpinning it all is a hotel and guest-house trade serving visitors, business travellers and Cotswolds day-trippers, with a guide and tour scene built around Lacock, Castle Combe and the folk festival. Chippenham station on the Great Western Main Line runs at least twice-hourly trains from London and Bristol, and Junction 17 of the M4 carries day-trippers in, so operators handle stopover trade as well as visitors heading for Bath and the Cotswolds nearby."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Chippenham attraction or hotel group, a heritage site or a small independent activity centre in Trowbridge"
+  },
+  "Caerphilly": {
+    "region": "Caerphilly and the South Wales valleys",
+    "nearby": ["Cardiff", "Pontypridd", "Newport"],
+    "s1_head": "Kitting the visitor economy of the South Wales valleys",
+    "s1loc": [
+      "Caerphilly runs a strong visitor economy around Caerphilly Castle, one of the largest medieval fortresses in Britain and the second largest in the country after Windsor, famed for its concentric design, its artificial lakes and a tower that leans at a greater angle than the one in Pisa. The thirteenth-century stronghold, with its restored great hall and water defences, dominates the town centre and anchors a year-round draw for history visitors across the valleys.",
+      "The leisure and activity layer reaches into the hills and forests around the town. Cwmcarn Forest, on the border with Newport and Blaenau Gwent and a highlight of the Valleys Regional Park, draws mountain bikers to its red and black-graded trails, with a cafe, play area and glamping pods. Caerphilly Mountain, a 271-metre viewpoint over Cardiff and Caerphilly, and Morgan Jones Park in the town centre give walkers and families a strong outdoor offer through the warmer season.",
+      "Heritage and culture run deep here. Caerphilly is famed for its cheese, celebrated at two food festivals each year, while the Aber Valley Heritage Museum in the former mining town of Senghenydd and the Welsh National Mining Memorial Garden honour the colliery disasters that killed hundreds at the Universal Colliery. The events calendar around the castle, the cheese festivals and the valley's mining story fill the diary across the year.",
+      "Underpinning it all is a hotel and guest-house trade serving visitors, valley day-trippers and Cardiff overspill, with a guide and tour scene built around the castle and the mining heritage. Caerphilly station on the Rhymney Line of the Valleys network links the town directly into Cardiff, and the A468 and A469 carry day-trippers in, so operators handle stopover trade as well as visitors heading for Cwmcarn, the Aber Valley and the wider South Wales valleys nearby."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Caerphilly attraction or hotel group, a heritage site or a small independent activity centre in Cardiff"
+  },
+  "Coatbridge": {
+    "region": "Coatbridge and North Lanarkshire",
+    "nearby": ["Airdrie", "Motherwell", "Cumbernauld"],
+    "s1_head": "Kitting the visitor economy of North Lanarkshire",
+    "s1loc": [
+      "Coatbridge runs a heritage-led visitor economy in North Lanarkshire, anchored by Summerlee Museum of Scottish Industrial Life, a 22-acre free attraction on the site of the Victorian Summerlee Iron Works. The museum runs Scotland's only operational heritage tramway and a recreated mine reached by a sloping track, with guided underground tours, restored miners' cottages telling the domestic story from the 1840s to the 1980s, and preserved locomotives and carriages drawing families year-round.",
+      "The leisure and activity layer centres on the Time Capsule, Scotland's combined ice rink and waterpark just off the Monkland Canal, with a prehistoric-themed adventure pool and water rides including the Storm Chasers, Tornado Tantrum and Tipping Bucket. Drumpellier Country Park, set around Lochend Loch with its extensive woodlands, visitor centre and butterfly house, and the Monkland Canal towpath give walkers and activity operators a strong outdoor offer through the warmer season.",
+      "Heritage and culture run through the town's iron-and-coal past, with the Monkland Canal, built from 1770 to carry coal into Glasgow, threading through Drumpellier and the wider Seven Lochs Wetland Park. The Summerlee tramway, the recreated Miners Row and the events calendar around the museum and the country park fill the diary, while the town's standing as a cradle of Scotland's industrial revolution gives it a distinct identity across the year.",
+      "Underpinning it all is a hotel and guest-house trade serving visitors, business travellers and travellers between Glasgow and Edinburgh, with a guide and day-trip scene built around Summerlee and Drumpellier. Coatbridge Central and Coatbridge Sunnyside stations link the town into Glasgow by rail, and the A8, M8 and M73 carry day-trippers in, so operators handle stopover trade as well as visitors heading for the Seven Lochs park and the wider central belt nearby."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Coatbridge attraction or hotel group, a heritage site or a small independent activity centre in Airdrie"
+  }
+}
