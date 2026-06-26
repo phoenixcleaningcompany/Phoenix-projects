@@ -12,11 +12,12 @@ For EACH town, produce a JSON object **keyed by the EXACT town name given**, wit
 - `"region"`: a natural region phrase that reads after the word "across", e.g. "Hull and East Yorkshire", "Swansea and South West Wales".
 - `"nearby"`: the **LOCKED triple given to you, VERBATIM, in that order**. Never change, reorder, or substitute it.
 - `"s1_head"`: a short section heading like "Kitting the visitor economy of <county/region>" (vary wording slightly per town).
-- `"s1loc"`: **EXACTLY 3 paragraphs** (a JSON list of 3 strings), each **55–90 words**, ALL proper-noun-rich and genuinely local, on three DISTINCT angles:
+- `"s1loc"`: **EXACTLY 4 paragraphs** (a JSON list of 4 strings), each **55–90 words**, ALL proper-noun-rich and genuinely local, on four DISTINCT angles:
     1. the town's marquee visitor attractions and the scale of its visitor economy (named museums, landmarks, cathedrals, piers, seafronts, castles, stadiums as tour venues, waterfronts);
-    2. the leisure and activity layer (named parks, activity/watersports centres, family attractions, arenas and theatres, festivals/events, shopping and leisure quarters);
-    3. heritage plus the hotel and tour-operator trade plus airport/transport plus named neighbourhoods/quarters.
-  Use REAL named places you can verify by research. Do NOT use the generic "the trade runs at every size / we serve the big and the small alike" framing — that is added elsewhere on the page. All three paragraphs must be about real local places. **Depth matters: a downstream gate rejects any town whose paragraphs are short or lack named places (needs 3 paras, ≥50 words each, ≥175 words total, ≥30 proper nouns). Aim comfortably above that.**
+    2. the leisure and activity layer (named parks, activity/watersports centres, family attractions, theme/holiday parks, indoor activity venues);
+    3. heritage and culture (historic quarters, heritage sites, galleries, theatres, arenas, festivals and the events calendar, named neighbourhoods);
+    4. the visitor trade itself — the hotel base, tour-operator and guide scene, airport/rail/transport links and the day-trip and seasonal draw of the surrounding area.
+  Use REAL named places you can verify by research, and make the four paragraphs genuinely distinct (do not repeat the same venue across paragraphs). Do NOT use the generic "the trade runs at every size / we serve the big and the small alike" framing — that is added elsewhere on the page. All four paragraphs must be about real local places. **Depth matters: a downstream gate rejects any town whose paragraphs are short or lack named places (needs 4 paras, ≥50 words each, ≥235 words total, ≥40 proper nouns). Aim comfortably above that.**
 - `"kit_loc"`: a short phrase completing "...are the whole kit {loc}.", e.g. "across the city's attractions, parks and visitor sites" or "across the coast's attractions and activity sites". Generic-local, no named places.
 - `"s2_intro"`: a single clause with **NO terminal punctuation** that names ONE of the nearby towns, in the style: "Whether you are a major <Town> attraction or hotel group, a heritage site or a small independent activity centre in <NearbyTown>". End on the nearby town name, no full stop.
 
@@ -36,8 +37,9 @@ For EACH town, produce a JSON object **keyed by the EXACT town name given**, wit
     "s1_head": "Kitting the visitor economy of the West Midlands",
     "s1loc": [
       "Birmingham runs one of the country's biggest visitor economies, drawing over 145 million visits a year. The marquee draws include Cadbury World, the National SEA LIFE Centre, the LEGOLAND Discovery Centre and the Thinktank science museum at Millennium Point, with the open-air Black Country Living Museum and Bournville just outside the core.",
-      "The leisure and activity layer is just as busy. Cannon Hill Park, the canals and bars at Brindleyplace and Gas Street Basin, Resorts World and the Utilita Arena, the Bullring shopping quarter and venues like the Hippodrome keep family attractions, activity operators and event teams working across the year.",
-      "Heritage and hospitality round it out, from the Jewellery Quarter and Birmingham Museum and Art Gallery to Aston Hall and Sarehole Mill, supported by a deep city-centre hotel trade and a wide tour-operator and guide scene, with Birmingham Airport and the NEC drawing visitors from the doorstep."
+      "The leisure and activity layer is just as busy, from Cannon Hill Park and the Lickey Hills to the canals and bars of Brindleyplace and Gas Street Basin, with family attractions, watersports on Edgbaston Reservoir and indoor activity venues keeping operators working across the year.",
+      "Heritage and culture run deep too, from the Jewellery Quarter and Birmingham Museum and Art Gallery to Aston Hall, Sarehole Mill and the Library of Birmingham, alongside the Hippodrome, Symphony Hall and a lively festival calendar in Victoria Square and Centenary Square.",
+      "Underpinning it all is a deep hotel trade across the city centre and a wide tour-operator and guide scene, with the NEC, Utilita Arena and Resorts World drawing event crowds and Birmingham Airport, New Street and Grand Central bringing visitors in from across the country."
     ],
     "kit_loc": "across the city's attractions, parks and visitor sites",
     "s2_intro": "Whether you are a major Birmingham attraction or hotel group, a heritage site or a small independent activity centre in Solihull"

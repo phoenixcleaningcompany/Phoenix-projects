@@ -32,10 +32,10 @@ REQ = ["region", "nearby", "s1_head", "s1loc", "s2_intro"]  # snapshot + kit_loc
 # Local-content DEPTH gate (anti-thin-content). Calibrated below the approved
 # b01 floor (59 words/para, 189 total, 45 proper-nouns) so approved-level depth
 # always passes while genuinely thin/generic towns are rejected before build.
-S1LOC_PARAS = 3
+S1LOC_PARAS = 4
 PARA_MIN_WORDS = 50
-TOTAL_MIN_WORDS = 175
-PROPER_NOUN_MIN = 30
+TOTAL_MIN_WORDS = 235
+PROPER_NOUN_MIN = 40
 
 
 def proper_nouns(paras):
