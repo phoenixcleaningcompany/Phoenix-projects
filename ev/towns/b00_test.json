@@ -1,0 +1,183 @@
+{
+  "glasgow": {
+    "region": "Glasgow and the west of Scotland",
+    "nearby": ["Paisley", "East Kilbride", "Clydebank"],
+    "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Glasgow, embroidered in-house with the operator name. The trade runs from big arenas and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
+    "s1_head": "Kitting Scotland's biggest events city",
+    "s1loc": [
+      "Glasgow is a UNESCO City of Music and Scotland's busiest events city. The OVO Hydro on the Scottish Event Campus is one of the world's busiest arenas, with the Armadillo and SEC halls alongside it, the Royal Concert Hall and Theatre Royal cover the seated shows, and grassroots rooms like King Tut's Wah Wah Hut and the Barrowland Ballroom are institutions, while TRNSMT and the World Pipe Band Championships take over Glasgow Green and Celtic Connections fills January.",
+      "And the trade runs at every size across the city. Major venues, the SEC campus, festival operators and production companies field big crews and large seasonal teams and buy through procurement, while independent event crews, promoters and entertainers from the Barras to the West End want just a few branded pieces. A workwear supplier here has to serve the big festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side."
+    ],
+    "kit_loc": "across the city's venues, festivals and events",
+    "s2_intro": "Whether you are a major Glasgow arena or festival, a production company or a small independent event crew on Glasgow Green"
+  },
+  "sheffield": {
+    "region": "Sheffield and South Yorkshire",
+    "nearby": ["Rotherham", "Barnsley", "Chesterfield"],
+    "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Sheffield, embroidered in-house with the operator name. The trade runs from big arenas and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
+    "s1_head": "Kitting the events trade of South Yorkshire",
+    "s1loc": [
+      "Sheffield packs a serious live scene into a compact city. The Utilita Arena handles the big touring shows, the City Hall and its Oval Hall cover the grand concerts, the Crucible and Lyceum anchor the theatre quarter, and The Leadmill and O2 Academy keep the gig calendar full, while Tramlines takes over Hillsborough Park every July after years as a free city-centre festival running across dozens of rooms from the Cathedral outward.",
+      "And the trade runs at every size here. The arena, the City Hall, festival operators and production companies run big crews and large seasonal teams and buy centrally, while independent event crews, promoters and entertainers around Kelham Island and the city centre need just a few branded pieces. A supplier in Sheffield has to kit the big festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side."
+    ],
+    "kit_loc": "across the city's venues, festivals and events",
+    "s2_intro": "Whether you are a major Sheffield arena or festival, a production company or a small independent event crew around Kelham Island"
+  },
+  "manchester": {
+    "region": "Manchester and Greater Manchester",
+    "nearby": ["Salford", "Stockport", "Oldham"],
+    "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Manchester, embroidered in-house with the operator name. The trade runs from big arenas and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
+    "s1_head": "Kitting one of Europe's busiest live cities",
+    "s1loc": [
+      "Manchester is one of Europe's busiest live cities. Co-op Live and the AO Arena give it two of the UK's largest indoor venues, the Bridgewater Hall holds the Halle, Aviva Studios runs Factory International year-round, and rooms like Band on the Wall and the Manchester Academy carry the grassroots scene, while Parklife fills Heaton Park each June, the Warehouse Project runs at Depot Mayfield and Manchester International Festival takes over the city.",
+      "And the trade runs at every size across Greater Manchester. The arenas, Factory International, festival operators and production companies field big crews and large seasonal teams and buy through procurement, while independent event crews, promoters and entertainers from the Northern Quarter outward want just a few branded pieces. A supplier here has to serve the big festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side."
+    ],
+    "kit_loc": "across the city's venues, festivals and events",
+    "s2_intro": "Whether you are a major Manchester arena or festival, a production company or a small independent event crew in the Northern Quarter"
+  },
+  "edinburgh": {
+    "region": "Edinburgh and the Lothians",
+    "nearby": ["Musselburgh", "Livingston", "Dunfermline"],
+    "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Edinburgh, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
+    "s1_head": "Kitting the world's biggest festival city",
+    "s1loc": [
+      "Edinburgh is the world's festival capital. Every August the Festival Fringe and the Edinburgh International Festival turn the city into one giant venue, with hubs at the Assembly, the Pleasance, Underbelly and Gilded Balloon, the Usher Hall and Festival Theatre running year-round, the Playhouse standing as the UK's largest theatre, and grassroots rooms like Sneaky Pete's and the Voodoo Rooms in between, before Hogmanay closes the year on Princes Street.",
+      "And no city leans on seasonal crews like this one. The festival operators, venue teams and production companies that build August run on a huge temporary-venue and staging economy and buy through procurement, while independent crews, promoters and entertainers across the city want just a few branded pieces. A supplier here has to serve the giant festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side."
+    ],
+    "kit_loc": "across the city's venues, festivals and events",
+    "s2_intro": "Whether you are a major Edinburgh festival venue, a production company or a small independent event crew working the Fringe"
+  },
+  "liverpool": {
+    "region": "Liverpool and Merseyside",
+    "nearby": ["Bootle", "Birkenhead", "Crosby"],
+    "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Liverpool, embroidered in-house with the operator name. The trade runs from big arenas and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
+    "s1_head": "Kitting a UNESCO City of Music",
+    "s1loc": [
+      "Liverpool is a UNESCO City of Music with events in its bones. The M and S Bank Arena anchors the ACC Liverpool waterfront campus, the Philharmonic Hall holds the Royal Liverpool Philharmonic, the Empire and the Eventim Olympia cover the touring shows, and the Cavern Club and O2 Academy keep the gig scene going, while the Liverpool International Music Festival fills Sefton Park and Sound City works the Baltic Triangle.",
+      "And the trade runs at every size across Merseyside. The waterfront arena, festival operators and production companies field big crews and large seasonal teams and buy through procurement, while independent event crews, promoters and entertainers around the Baltic Triangle want just a few branded pieces. A supplier here has to serve the big festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side."
+    ],
+    "kit_loc": "across the city's venues, festivals and events",
+    "s2_intro": "Whether you are a major Liverpool arena or festival, a production company or a small independent event crew in the Baltic Triangle"
+  },
+  "bristol": {
+    "region": "Bristol and the West of England",
+    "nearby": ["Bath", "Weston-super-Mare", "Portishead"],
+    "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Bristol, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
+    "s1_head": "Kitting the West of England's events trade",
+    "s1loc": [
+      "Bristol runs on a deep music and events culture. The Bristol Beacon reopened as the city's flagship concert hall, the Hippodrome and Bristol Old Vic cover the theatre, the Marble Factory and Motion warehouse complex carry a nationally known electronic scene, and rooms like Thekla, The Fleece and The Louisiana fill the gig diary, while the Harbour Festival takes over the Floating Harbour and St Pauls Carnival fills its streets each summer.",
+      "And the trade runs at every size across the West of England. Big venues, festival operators and production companies field large seasonal crews and buy through procurement, while independent event crews, promoters and entertainers from Stokes Croft outward want just a few branded pieces. A supplier here has to serve the big festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side.",
+      "Beyond the Beacon, the events trade spreads right across Bristol. St George's draws acoustic and classical bills, the Tobacco Factory Theatres anchor Southville, Strange Brew and the Trinity Centre run independent nights, and festivals such as Simple Things, the Encounters Film Festival and the Slapstick silent-comedy weekend move between rooms, so production crews, stage teams and front-of-house staff travel with them from the harbourside out to Bedminster and Stokes Croft, week in and week out across the season."
+    ],
+    "kit_loc": "across the city's venues, festivals and events",
+    "s2_intro": "Whether you are a major Bristol venue or festival, a production company or a small independent event crew around Stokes Croft"
+  },
+  "cardiff": {
+    "region": "Cardiff and South Wales",
+    "nearby": ["Penarth", "Barry", "Caerphilly"],
+    "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Cardiff, embroidered in-house with the operator name. The trade runs from big arenas and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
+    "s1_head": "Kitting Wales's Music City",
+    "s1loc": [
+      "Cardiff bills itself as a Music City and has the venues to match. The Principality Stadium hosts the biggest stadium concerts under its retractable roof, the Utilita Arena covers the arena tours, the Wales Millennium Centre and St David's Hall anchor the Bay and the city, and Clwb Ifor Bach leads a protected grassroots quarter on Womanby Street, while Tafwyl fills Cardiff Castle and the Music City Festival runs across venues each autumn.",
+      "And the trade runs at every size across South Wales. The stadium, the arena, festival operators and production companies field big crews and large seasonal teams and buy through procurement, while independent event crews, promoters and entertainers around Womanby Street want just a few branded pieces. A supplier here has to serve the big festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side."
+    ],
+    "kit_loc": "across the city's venues, festivals and events",
+    "s2_intro": "Whether you are a major Cardiff arena or festival, a production company or a small independent event crew on Womanby Street"
+  },
+  "leicester": {
+    "region": "Leicester and Leicestershire",
+    "nearby": ["Loughborough", "Hinckley", "Oadby"],
+    "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Leicester, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
+    "s1_head": "Kitting a city of festivals",
+    "s1loc": [
+      "Leicester runs one of the fullest event calendars outside London. De Montfort Hall leads the live music with a park amphitheatre beside it, the Curve and Haymarket anchor the Cultural Quarter, the O2 Academy sits on the university campus, and rooms like The Cookie and The Musician keep the gigs coming, while the Caribbean Carnival, the Riverside Festival and one of the largest Diwali celebrations outside India fill Victoria Park and the Golden Mile.",
+      "And the trade runs at every size across Leicestershire. Big venues, festival operators and production companies field large seasonal crews and buy through procurement, while independent event crews, promoters and entertainers around the Cultural Quarter want just a few branded pieces. A supplier here has to serve the big festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side."
+    ],
+    "kit_loc": "across the city's venues, festivals and events",
+    "s2_intro": "Whether you are a major Leicester venue or festival, a production company or a small independent event crew in the Cultural Quarter"
+  },
+  "bradford": {
+    "region": "Bradford and West Yorkshire",
+    "nearby": ["Halifax", "Keighley", "Shipley"],
+    "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Bradford, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
+    "s1_head": "Kitting the UK City of Culture",
+    "s1loc": [
+      "Bradford carries its turn as UK City of Culture 2025 on a strong venue base. The Alhambra Theatre leads the programme with touring shows, St George's Hall stands as one of Britain's oldest concert halls, The Studio and the city's grassroots room The Underground cover the smaller stages, and City Park hosts the Bradford Festival and Mela, while the Literature Festival and a year of outdoor spectaculars fill the calendar.",
+      "And the trade runs at every size across the district. The City of Culture programme, big venues, festival operators and production companies field large seasonal crews and buy through procurement, while independent event crews, promoters and entertainers across Bradford want just a few branded pieces. A supplier here has to serve the big festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side."
+    ],
+    "kit_loc": "across the city's venues, festivals and events",
+    "s2_intro": "Whether you are a major Bradford venue or festival, a production company or a small independent event crew across the district"
+  },
+  "coventry": {
+    "region": "Coventry and Warwickshire",
+    "nearby": ["Nuneaton", "Bedworth", "Leamington Spa"],
+    "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Coventry, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
+    "s1_head": "Kitting a UK City of Culture's events trade",
+    "s1loc": [
+      "Coventry built a lasting events trade on its turn as UK City of Culture. The Belgrade Theatre, Britain's first post-war civic theatre, anchors the city, Warwick Arts Centre runs one of the UK's largest multi-arts programmes with Butterworth Hall for live music, the hmv Empire pulls in touring artists, and The Tin at the Canal Basin nurtures emerging acts, while the free Godiva Festival fills the War Memorial Park each summer.",
+      "And the trade runs at every size across Warwickshire. Big venues, festival operators and production companies field large seasonal crews and buy through procurement, while independent event crews, promoters and entertainers, in a city that gave the world 2 Tone, want just a few branded pieces. A supplier here has to serve the big festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side."
+    ],
+    "kit_loc": "across the city's venues, festivals and events",
+    "s2_intro": "Whether you are a major Coventry venue or festival, a production company or a small independent event crew at the Canal Basin"
+  },
+  "nottingham": {
+    "region": "Nottingham and the East Midlands",
+    "nearby": ["Arnold", "Beeston", "West Bridgford"],
+    "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Nottingham, embroidered in-house with the operator name. The trade runs from big arenas and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
+    "s1_head": "Kitting the events trade of the East Midlands",
+    "s1loc": [
+      "Nottingham has long punched above its weight for live music. The Motorpoint Arena handles the big touring shows, the Theatre Royal and Royal Concert Hall cover the grand nights, and Rock City stands as one of the most famous gig venues in the country, with Rescue Rooms and The Bodega alongside it, while Splendour has filled Wollaton Park as the city's flagship summer festival in the grounds of Wollaton Hall.",
+      "And the trade runs at every size across the East Midlands. The arena, festival operators and production companies field big crews and large seasonal teams and buy through procurement, while independent event crews, promoters and entertainers around Hockley and the Lace Market want just a few branded pieces. A supplier here has to serve the big festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side."
+    ],
+    "kit_loc": "across the city's venues, festivals and events",
+    "s2_intro": "Whether you are a major Nottingham arena or festival, a production company or a small independent event crew around the Lace Market"
+  },
+  "newcastle upon tyne": {
+    "region": "Newcastle upon Tyne and Tyneside",
+    "nearby": ["Gateshead", "Tynemouth", "Whitley Bay"],
+    "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Newcastle upon Tyne, embroidered in-house with the operator name. The trade runs from big arenas and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
+    "s1_head": "Kitting the events trade of Tyneside",
+    "s1loc": [
+      "Newcastle anchors a busy Tyneside events scene. The Utilita Arena handles the big touring shows, the Glasshouse International Centre for Music runs three halls on the Gateshead quayside, the Theatre Royal and O2 City Hall cover the seated nights, and the Cluny and Boiler Shop lead a grassroots cluster in the Ouseburn Valley, while Newcastle Pride and the after-hours Late Shows fill the city and quayside through the year.",
+      "And the trade runs at every size across Tyneside. The arena, the quayside venues, festival operators and production companies field big crews and large seasonal teams and buy through procurement, while independent event crews, promoters and entertainers around the Ouseburn want just a few branded pieces. A supplier here has to serve the big event and the single crew alike, which is why we run trade accounts and direct online ordering side by side."
+    ],
+    "kit_loc": "across the city's venues, festivals and events",
+    "s2_intro": "Whether you are a major Newcastle arena or quayside venue, a production company or a small independent event crew in the Ouseburn"
+  },
+  "sunderland": {
+    "region": "Sunderland and Wearside",
+    "nearby": ["Washington", "Houghton le Spring", "South Shields"],
+    "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Sunderland, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
+    "s1_head": "Kitting Wearside's events trade",
+    "s1loc": [
+      "Sunderland has grown a real events offer around a handful of strong venues. The Stadium of Light has become the North East's go-to stadium-concert venue, drawing record crowds for its summer shows, the Sunderland Empire stands as the region's largest theatre, and the Fire Station Auditorium next door runs hundreds of events a year as the city's mid-scale music room, while Herrington Country Park hosts the area's big outdoor festival weekends.",
+      "And the trade runs at every size across Wearside. The stadium, the Empire, festival operators and production companies field big crews and large seasonal teams and buy through procurement, while independent event crews, promoters and entertainers across the city want just a few branded pieces. A supplier here has to serve the big event and the single crew alike, which is why we run trade accounts and direct online ordering side by side."
+    ],
+    "kit_loc": "across the city's venues, festivals and events",
+    "s2_intro": "Whether you are a major Sunderland venue or stadium event, a production company or a small independent event crew across Wearside"
+  },
+  "brighton": {
+    "region": "Brighton and the Sussex coast",
+    "nearby": ["Hove", "Worthing", "Shoreham-by-Sea"],
+    "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Brighton, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
+    "s1_head": "Kitting one of the UK's great festival cities",
+    "s1loc": [
+      "Brighton is one of the UK's great festival cities. The Brighton Centre on the front handles the arena tours, the Brighton Dome runs the grand concerts, the Theatre Royal and Komedia cover everything from West End tours to cabaret, and Concorde 2 and the Green Door Store lead the grassroots gigs, while every May the Brighton Festival, Brighton Fringe and The Great Escape turn dozens of venues across the city into one new-music event.",
+      "And the trade runs at every size along the Sussex coast. Big venues, festival operators and production companies field large seasonal crews and buy through procurement, while independent event crews, promoters and entertainers from the North Laine outward want just a few branded pieces. A supplier here has to serve the big festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side."
+    ],
+    "kit_loc": "across the city's venues, festivals and events",
+    "s2_intro": "Whether you are a major Brighton venue or festival, a production company or a small independent event crew around the North Laine"
+  },
+  "plymouth": {
+    "region": "Plymouth and south-west Devon",
+    "nearby": ["Saltash", "Newton Abbot", "Torquay"],
+    "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Plymouth, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
+    "s1_head": "Kitting the events trade of the South West",
+    "s1loc": [
+      "Plymouth runs its events around a striking waterfront and a few key venues. Plymouth Pavilions handles the arena tours, comedy and indoor shows, the Theatre Royal Plymouth stages large West End tours across its Lyric, Drum and Lab spaces, and Plymouth Hoe and the Sound give the city a natural outdoor arena, where the British Firework Championships light up the water every August as the calendar's enduring flagship event.",
+      "And the trade runs at every size across the far South West. The Pavilions, the Theatre Royal, festival operators and production companies field big crews and seasonal teams and buy through procurement, while independent event crews, promoters and entertainers around the Barbican and the Hoe want just a few branded pieces. A supplier here has to serve the big event and the single crew alike, which is why we run trade accounts and direct online ordering side by side."
+    ],
+    "kit_loc": "across the city's venues, festivals and events",
+    "s2_intro": "Whether you are a major Plymouth venue or waterfront event, a production company or a small independent event crew around the Barbican"
+  }
+}
