@@ -558,6 +558,21 @@ TOWNS = {
 },
 }
 
+def _load_extra_towns():
+    # merge per-batch towns/*.json into TOWNS (inline seed/test entries win on dup)
+    here=os.path.dirname(os.path.abspath(__file__))
+    d=os.path.join(here,'towns')
+    if not os.path.isdir(d): return
+    for fn in sorted(os.listdir(d)):
+        if not fn.endswith('.json'): continue
+        try:
+            data=json.load(open(os.path.join(d,fn),encoding='utf-8'))
+        except Exception as e:
+            print(f"WARN: could not load towns/{fn}: {e}"); continue
+        for k,v in data.items():
+            TOWNS.setdefault(k.lower(), v)
+_load_extra_towns()
+
 _CSV=None
 def _load_csv():
     global _CSV
@@ -573,6 +588,26 @@ def _load_csv():
 
 def slugify(name):
     return re.sub(r'-+','-', re.sub(r"[^a-z0-9]+","-", name.lower().replace("&"," and "))).strip('-')
+
+def town_display(key):
+    # canonical CSV spelling for a TOWNS key/arg (handles 'Newcastle upon Tyne',
+    # 'Stoke-on-Trent', 'Weston-super-Mare', 'Newport (Isle of Wight)' etc).
+    sk = slugify(key)
+    for _r, name, _n in _load_csv():
+        if slugify(name) == sk:
+            return name
+    return ' '.join(w.capitalize() for w in str(key).split())
+
+def _entry(town):
+    # slug-robust TOWNS lookup so any key spelling resolves.
+    key = town.lower()
+    if key in TOWNS:
+        return TOWNS[key]
+    sk = slugify(town)
+    for k, v in TOWNS.items():
+        if slugify(k) == sk:
+            return v
+    raise KeyError(f"{town}: no TOWNS entry")
 
 def require_nearby(town, T):
     nb = T.get("nearby")
@@ -638,7 +673,7 @@ def build_head(town, slug, faqs, nearby):
 
 # === ASSEMBLE ==============================================================
 def assemble(slug, town):
-    T = TOWNS[town.lower()]
+    T = _entry(town)
     region = T.get("region", town)
     nearby = require_nearby(town, T)
     faqs = faq_for(town, region)
@@ -704,9 +739,11 @@ def main():
     for town_key in args:
         tk=town_key.lower()
         if tk=='london': continue
-        if tk not in TOWNS:
+        try:
+            _entry(tk)
+        except KeyError:
             print(f"SKIP {town_key}: not in TOWNS (must be web-researched first)"); continue
-        town=' '.join(w.capitalize() for w in tk.split())
+        town=town_display(tk)
         slug=f"cp-{slugify(town)}"
         html=assemble(slug, town)
         path=os.path.join(outdir, f"{slug}.html")

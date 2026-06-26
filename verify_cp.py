@@ -145,6 +145,10 @@ def check_file(path, towns, seen_desc, seen_title):
             break
 
     hit = [term for term in BLEED if re.search(r"\b" + re.escape(term) + r"\b", txt, re.I)]
+    # own-town exemption: a page may legitimately contain its OWN town name even if
+    # that name equals a bleed term (e.g. Wellington). Exempts the page's town only.
+    if town:
+        hit = [t for t in hit if t.lower() != town.lower()]
     if hit:
         fails.append(f"10. banned/bleed term(s) found (incl. security/cleaning/sports/care bleed): {hit[:4]}")
 
