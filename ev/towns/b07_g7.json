@@ -1,7 +1,11 @@
 {
   "chapeltown": {
     "region": "Chapeltown and South Yorkshire",
-    "nearby": ["Sheffield", "Rotherham", "Barnsley"],
+    "nearby": [
+      "Sheffield",
+      "Rotherham",
+      "Barnsley"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Chapeltown, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Chapeltown and north Sheffield",
     "s1loc": [
@@ -14,20 +18,29 @@
   },
   "stalybridge": {
     "region": "Stalybridge and Tameside",
-    "nearby": ["Ashton-under-Lyne", "Hyde", "Denton"],
+    "nearby": [
+      "Ashton-under-Lyne",
+      "Hyde",
+      "Denton"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Stalybridge, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Stalybridge and Tameside",
     "s1loc": [
       "Stalybridge centres its events life on the Civic Hall, now the Victoria Market Hall, which runs live music, candlelit concerts, artisan markets and daytime discos through the year and hosts the Royal Exchange Stalybridge Festival of art and culture each August. StalyFest, Tameside's biggest music festival, takes over Bower Fold at Stalybridge Celtic for a day of stages, while the Huddersfield Narrow Canal and its waterside pubs give the town a busy spine for outdoor events.",
       "And the trade runs at every size across Tameside. The Civic Hall team and the StalyFest operators field large seasonal crews and buy through procurement, while independent promoters, lighting techs and small event crews around Stalybridge and toward Ashton-under-Lyne want just a few branded pieces. A supplier here has to kit the festival-day operation and the single freelance crew alike, which is why we run trade accounts and direct online ordering side by side for the local trade.",
-      "The Pennine weather makes the seasonal split real. Summer dates at Bower Fold and along the canal mean polos, caps and hi-vis for stewards and front-of-house teams working in the open, while wetter months and the candlelit concerts at the Victoria Market Hall call for fleeces and waterproofs for the build, load-in and rigging crews. We embroider each operator's name in-house so a Stalybridge promoter, a stage team or a touring production reads clearly on every piece."
+      "The Pennine weather makes the seasonal split real. Summer dates at Bower Fold and along the canal mean polos, caps and hi-vis for stewards and front-of-house teams working in the open, while wetter months and the candlelit concerts at the Victoria Market Hall call for fleeces and waterproofs for the build, load-in and rigging crews. We embroider each operator's name in-house so a Stalybridge promoter, a stage team or a touring production reads clearly on every piece. Stamford Park, the Huddersfield Narrow Canal and the Tameside trails host outdoor and heritage events, the Stalybridge Carnival fills the centre, and the catchment from Mossley and Dukinfield across to the Saddleworth edge keeps crews and front-of-house teams busy through the season.",
+      "Stalybridge sits at the eastern edge of Greater Manchester where the Pennines begin. The town's railway-station buffet bar is a real-ale landmark on the Trans-Pennine route, Cheetham Park and the reservoir trails host outdoor days, and the wider Tameside calendar keeps stage, production and front-of-house crews working from the canal up onto the moors through the year."
     ],
     "kit_loc": "across the city's venues, festivals and events",
     "s2_intro": "Whether you are a major Stalybridge venue or festival, a production company or a small independent event crew across Tameside"
   },
   "workington": {
     "region": "Workington and Cumbria",
-    "nearby": ["Whitehaven", "Carlisle", "Penrith"],
+    "nearby": [
+      "Whitehaven",
+      "Carlisle",
+      "Penrith"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Workington, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Workington and west Cumbria",
     "s1loc": [
@@ -40,7 +53,11 @@
   },
   "walton-on-thames": {
     "region": "Walton-on-Thames and Surrey",
-    "nearby": ["Esher", "Staines", "Kingston upon Thames"],
+    "nearby": [
+      "Esher",
+      "Staines",
+      "Kingston upon Thames"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Walton-on-Thames, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Walton-on-Thames and Elmbridge",
     "s1loc": [
@@ -53,7 +70,11 @@
   },
   "esher": {
     "region": "Esher and Surrey",
-    "nearby": ["Walton-on-Thames", "Kingston upon Thames", "Epsom"],
+    "nearby": [
+      "Walton-on-Thames",
+      "Kingston upon Thames",
+      "Epsom"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Esher, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Esher and Surrey",
     "s1loc": [
@@ -66,7 +87,11 @@
   },
   "whitefield": {
     "region": "Whitefield and the Bury borough",
-    "nearby": ["Bury", "Radcliffe", "Middleton"],
+    "nearby": [
+      "Bury",
+      "Radcliffe",
+      "Middleton"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Whitefield, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Whitefield and Bury",
     "s1loc": [
@@ -79,7 +104,11 @@
   },
   "potters bar": {
     "region": "Potters Bar and Hertfordshire",
-    "nearby": ["Barnet", "Borehamwood", "Enfield"],
+    "nearby": [
+      "Barnet",
+      "Borehamwood",
+      "Enfield"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Potters Bar, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Potters Bar and Hertsmere",
     "s1loc": [

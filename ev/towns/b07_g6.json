@@ -1,7 +1,11 @@
 {
   "alfreton": {
     "region": "Alfreton and Derbyshire",
-    "nearby": ["Ripley", "Sutton-in-Ashfield", "Belper"],
+    "nearby": [
+      "Ripley",
+      "Sutton-in-Ashfield",
+      "Belper"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Alfreton, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of the Amber Valley",
     "s1loc": [
@@ -14,7 +18,11 @@
   },
   "arbroath": {
     "region": "Arbroath and Angus",
-    "nearby": ["Dundee", "Perth", "Kirkcaldy"],
+    "nearby": [
+      "Dundee",
+      "Perth",
+      "Kirkcaldy"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Arbroath, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of the Angus coast",
     "s1loc": [
@@ -27,7 +35,11 @@
   },
   "elgin": {
     "region": "Elgin and Moray",
-    "nearby": ["Aberdeen", "Inverness", "Perth"],
+    "nearby": [
+      "Aberdeen",
+      "Inverness",
+      "Perth"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Elgin, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Moray Speyside",
     "s1loc": [
@@ -40,7 +52,11 @@
   },
   "rugeley": {
     "region": "Rugeley and Staffordshire",
-    "nearby": ["Cannock", "Lichfield", "Stafford"],
+    "nearby": [
+      "Cannock",
+      "Lichfield",
+      "Stafford"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Rugeley, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade around Cannock Chase",
     "s1loc": [
@@ -53,7 +69,11 @@
   },
   "oadby": {
     "region": "Oadby and Leicestershire",
-    "nearby": ["Leicester", "Hinckley", "Loughborough"],
+    "nearby": [
+      "Leicester",
+      "Hinckley",
+      "Loughborough"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Oadby, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade south of Leicester",
     "s1loc": [
@@ -66,24 +86,33 @@
   },
   "kidsgrove": {
     "region": "Kidsgrove and Staffordshire",
-    "nearby": ["Stoke-on-Trent", "Newcastle-under-Lyme", "Congleton"],
+    "nearby": [
+      "Stoke-on-Trent",
+      "Newcastle-under-Lyme",
+      "Congleton"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Kidsgrove, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of the north Potteries",
     "s1loc": [
       "Kidsgrove sits at the northern tip of the Potteries, and its own calendar centres on the Kidsgrove Carnival, a lively summer parade with music and entertainment stalls. The bigger rooms are a short run away in Stoke-on-Trent, where the Victoria Hall is a 1,400-plus-seat concert hall in the Cultural Quarter and the Sugarmill and Eleven host touring and local bands, while the New Vic in Newcastle-under-Lyme runs theatre in the round, so local crews work across the whole north Staffordshire scene.",
       "And the trade runs at two scales here. The Stoke venues, the festival operators and the production companies staffing the Potteries' big shows field large seasonal crews and reorder through a managed account, while independent promoters, carnival organisers and small crews around Kidsgrove and Talke want only a few branded pieces. A supplier on this patch has to dress the city concert hall and the single crew alike, so we run trade accounts and direct online ordering side by side with no account needed.",
-      "The kit list follows the season. From the summer carnival and outdoor stages through to the indoor concert and pantomime run, Kidsgrove crews move between hi-vis and waterproofs for street and field work and clean embroidered polos for venue front-of-house. We stitch the operator name in-house so a stewarding line, a stage crew and a box-office team all read as one outfit, whether the job is a Kidsgrove parade, a Victoria Hall concert or an event over toward Congleton."
+      "The kit list follows the season. From the summer carnival and outdoor stages through to the indoor concert and pantomime run, Kidsgrove crews move between hi-vis and waterproofs for street and field work and clean embroidered polos for venue front-of-house. We stitch the operator name in-house so a stewarding line, a stage crew and a box-office team all read as one outfit, whether the job is a Kidsgrove parade, a Victoria Hall concert or an event over toward Congleton. Kidsgrove's Bathpool Park, the Trent and Mersey Canal and the town's sports centre host community and outdoor events, and the catchment from Stoke-on-Trent and Newcastle-under-Lyme across to Congleton keeps crews and front-of-house teams busy through the season.",
+      "Kidsgrove's setting on the Cheshire and Staffordshire border, where the Trent and Mersey meets the Macclesfield Canal at Hardings Wood, frames its outdoor calendar, and the Mow Cop and Bathpool events plus the wider Potteries catchment keep crews and front-of-house teams busy through the season."
     ],
     "kit_loc": "across the area's venues, festivals and events",
     "s2_intro": "Whether you are a major Stoke-area venue or festival, a production company or a small independent event crew around Kidsgrove"
   },
   "bishop auckland": {
     "region": "Bishop Auckland and County Durham",
-    "nearby": ["Newton Aycliffe", "Spennymoor", "Darlington"],
+    "nearby": [
+      "Newton Aycliffe",
+      "Spennymoor",
+      "Darlington"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Bishop Auckland, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of south-west Durham",
     "s1loc": [
-      "Bishop Auckland runs one of the biggest live shows in the country. Kynren, the open-air night spectacular telling 2,000 years of English history, plays out on a 7.5-acre set against Auckland Castle from an 8,000-seat tribune through the summer, staged by a huge volunteer cast and crew. In the market place, Bishop Auckland Town Hall stages theatre, live music, comedy and film year-round and anchors town events like the Bishop Auckland Food Festival.",
+      "Bishop Auckland runs one of the biggest live shows in the country. Kynren, the open-air night spectacular telling 2,000 years of English history, plays out on a 7.5-acre set against Auckland Castle from an 8,000-seat tribune through the summer, staged by a huge community cast and crew. In the market place, Bishop Auckland Town Hall stages theatre, live music, comedy and film year-round and anchors town events like the Bishop Auckland Food Festival.",
       "And the events trade here runs at two sizes. The Kynren production, the Town Hall and the festival operators field large seasonal crews and reorder through a managed account, while independent promoters, market-event organisers and small crews around Bishop Auckland and West Auckland want only a few branded pieces. A workwear supplier in south-west Durham has to dress the Olympic-scale night show and the single crew alike, so we run trade accounts and direct online ordering together with no account needed.",
       "The summer build sets the spec. Kynren and the outdoor season mean stewards, marshals and rigging crews working a vast set after dark in hi-vis, waterproofs and warm fleeces, then a clean embroidered polo for the Town Hall front-of-house. We embroider the operator name in-house so a stewarding line, a stage crew and a box-office team all match, whether the work is the castle show, a food-festival day or an event over toward Newton Aycliffe, Spennymoor or Darlington."
     ],
