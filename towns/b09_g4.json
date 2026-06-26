@@ -1,0 +1,74 @@
+{
+  "bedlington": {
+    "region": "Bedlington and Northumberland",
+    "nearby": ["Blyth", "Ashington", "Cramlington"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Bedlington, embroidered in-house to brand guidelines. Sitting in the south-east Northumberland manufacturing-services belt, the town blends industrial employers with the professional firms that support them, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Bedlington business parks and supporting firms",
+    "s1loc": [
+      "Bedlington sits within south-east Northumberland's manufacturing-services corridor, where TT Electronics runs its Welwyn Electronics Park site producing power solutions and specialist components. The Barrington Industrial Estate on Gooch Avenue, Cambois Industrial Estate at West Sleekburn and the wider Northumberland Business Park host engineering, fabrication and chemical employers. Around these industrial anchors cluster the accountancies, consultancies and legal advisers that handle payroll, contracts and finance for a busy production economy, with Invest Northumberland promoting the area to incoming manufacturers and service firms.",
+      "The professional workforce here is practical and closely tied to local industry, drawing on talent from across Blyth, Ashington and the Tyne corridor. Accountants, advisers and engineering-services teams who spend their days in offices and on plant tours still step into branded kit for client visits, supplier away days, exhibitions and new-starter welcome packs. Office and procurement managers order embroidered polos, softshells and fleeces that carry the firm's exact logo and colours, so the team looks consistent whether on a Barrington site visit or at a regional trade event."
+    ],
+    "kit_loc": "across the town's business parks and industrial estates",
+    "s2_intro": "Whether you are a Bedlington accountancy, an engineering-services consultancy, a manufacturer's commercial team or a technology company"
+  },
+  "morpeth": {
+    "region": "Morpeth and Northumberland",
+    "nearby": ["Ashington", "Bedlington", "Cramlington"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Morpeth, embroidered in-house to brand guidelines. As Northumberland's county town and the home of County Hall, Morpeth carries a dense layer of professional and public-sector firms, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Morpeth, the county town and its professional core",
+    "s1loc": [
+      "Morpeth is Northumberland's county town and the seat of Northumberland County Council, whose County Hall headquarters anchors a substantial public-sector and professional-services base. Bridge Street and the town centre house long-established accountancies and advisers including Nickalls Accountants, Thompson Chartered Accountant, Wellway Accountants and P A Brown and Company, alongside Northumberland Accountants and Tax Advisers nearby at Longhorsley. Solicitors, financial advisers, surveyors and consultancies serving the wider county cluster around this administrative centre, giving the town a concentration of professional firms well beyond its size.",
+      "The professional community in Morpeth is well-qualified and county-facing, supporting clients across Ashington, Bedlington, Cramlington and rural Northumberland. Accountants, solicitors and advisers who work in suits day to day still reach for branded kit at conferences, away days, exhibitions, client and site visits and sponsored community events. Practice and office managers order embroidered polos, softshells and fleeces that match the firm's logo and colours precisely, so partners and staff present a consistent identity whether at County Hall meetings or regional professional gatherings."
+    ],
+    "kit_loc": "across the county town and its professional district",
+    "s2_intro": "Whether you are a Morpeth accountancy, a solicitors practice, a county-facing consultancy or a technology company"
+  },
+  "hessle": {
+    "region": "Hessle and East Yorkshire",
+    "nearby": ["Hull", "Cottingham", "Beverley"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Hessle, embroidered in-house to brand guidelines. Positioned on the Humber corridor beside Hull, Hessle is a professional and engineering-services base built around modern business parks, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Hessle, the Humber-corridor business base",
+    "s1loc": [
+      "Hessle anchors part of the Humber professional corridor, with Bridgehead Business Park hosting Humber Civils and a cluster of engineering consultancies, surveyors and design practices. Waterside Business Park on Livingstone Road, Priory Tec Park on Saxon Way and the ERGO Centre on Meadow Road add further office and technology accommodation. Engineering and infrastructure firms such as M B Roche and Sons and Paddick Engineering serve the wider Hull and East Yorkshire region from here, supported by the accountancies, advisers and consultancies that handle their finance, contracts and project work.",
+      "The professional workforce here is engineering-led and closely connected to Hull, Cottingham and Beverley, drawing on University of Hull graduates and the Humber's design and infrastructure talent. Consultants, surveyors and advisers who work from desks and project sites still step into branded kit for client visits, conferences, exhibitions, away days and new-starter packs. Office and procurement managers order embroidered polos, softshells and fleeces in the firm's exact logo and colours, so teams look consistent whether presenting at Bridgehead or meeting clients along the Humber bank."
+    ],
+    "kit_loc": "across the Humber-corridor business parks",
+    "s2_intro": "Whether you are a Hessle engineering consultancy, an accountancy, a surveying practice or a technology company"
+  },
+  "selby": {
+    "region": "Selby and North Yorkshire",
+    "nearby": ["Castleford", "York", "Goole"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Selby, embroidered in-house to brand guidelines. With major energy and manufacturing employers on its doorstep, Selby supports a layer of professional firms serving an industrial economy, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Selby, energy and manufacturing anchors",
+    "s1loc": [
+      "Selby's economy is shaped by major industrial employers, with Drax Power Station nearby running the UK's largest power station and one of Europe's biggest decarbonisation projects, employing around a thousand people directly and supporting thousands more regionally. In the town itself the long-running BOCM Pauls animal-feed mill at Olympia Mills on Barlby Road, alongside Greencore's ambient grocery facility, anchors a working manufacturing base. Around these operations sit the accountancies, consultancies, insurers and legal firms that manage finance, contracts, energy and logistics for an industrial economy.",
+      "The professional community in Selby is practical and industry-facing, linked closely to York, Castleford and Goole and the wider North Yorkshire business network. Accountants, advisers and consultancy teams who work from offices and on plant visits still reach for branded kit at conferences, away days, exhibitions, client and site visits and sponsored community events. Office and procurement managers order embroidered polos, softshells and fleeces carrying the firm's precise logo and colours, so staff look consistent whether at a Barlby Road site meeting or a regional trade exhibition."
+    ],
+    "kit_loc": "across the town and its industrial sites",
+    "s2_intro": "Whether you are a Selby accountancy, a consultancy serving the energy sector, a manufacturer's commercial team or a technology company"
+  },
+  "knaresborough": {
+    "region": "Knaresborough and North Yorkshire",
+    "nearby": ["Harrogate", "Ripon", "York"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Knaresborough, embroidered in-house to brand guidelines. Sitting on the Harrogate professional corridor, Knaresborough hosts a dense base of small and owner-managed firms, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Knaresborough on the Harrogate professional corridor",
+    "s1loc": [
+      "Knaresborough sits on the professional corridor running from Harrogate, and carries its own concentration of small accountancies and advisers including Bramall Nixon Accountants, Smith McBride, DJN Accountants, CPY Business Solutions and 1st Accountancy Solutions. A short distance away in Harrogate, firms such as Bulmer and Co, Bushells Accountants and Berwins Solicitors serve the same client base across the district. This corridor blends accountancy, legal, financial-advice and consultancy practices that look after businesses and individuals throughout Knaresborough, Ripon and the surrounding North Yorkshire towns.",
+      "The professional community here is largely owner-managed and small-business focused, supporting clients across Harrogate, Ripon and York and drawing on the affluent commuter economy of the corridor. Accountants, advisers and consultants who work from offices day to day still step into branded kit for client visits, conferences, exhibitions, away days and new-starter welcome packs. Practice and office managers order embroidered polos, softshells and fleeces in the firm's exact logo and colours, so partners and staff present a consistent identity whether meeting local clients or attending regional professional events."
+    ],
+    "kit_loc": "across the town and the Harrogate corridor",
+    "s2_intro": "Whether you are a Knaresborough accountancy, a solicitors practice, a financial-advice firm or a technology company"
+  },
+  "clitheroe": {
+    "region": "Clitheroe and Lancashire",
+    "nearby": ["Burnley", "Accrington", "Blackburn"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Clitheroe, embroidered in-house to brand guidelines. As the commercial centre of the Ribble Valley with major manufacturers on its edge, Clitheroe supports professional firms serving an industrial economy, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Clitheroe, Ribble Valley manufacturing and firms",
+    "s1loc": [
+      "Clitheroe is the commercial heart of the Ribble Valley in Lancashire, with major manufacturers on its edge including the Ribblesdale cement works run by Heidelberg Materials and known locally as Castle Cement, one of the town's largest employers, plus the long-established Johnson Matthey chemical plant, Tarmac and Dugdale Nutrition. Business parks at Salthill Industrial Estate, Hawthorne Business Park and Link 59 host engineering, production and service firms. Around these industrial anchors cluster the accountancies, consultancies, insurers and legal advisers handling finance, contracts and compliance for the valley's economy.",
+      "The professional workforce here is closely tied to manufacturing and a strong owner-managed business base, connected to Burnley, Accrington and Blackburn across east Lancashire. Accountants, advisers and consultancy teams who work from offices and on plant tours still reach for branded kit at conferences, away days, exhibitions, client and site visits and sponsored community events. Office and procurement managers order embroidered polos, softshells and fleeces in the firm's precise logo and colours, so teams look consistent whether at a Salthill site meeting or a regional trade exhibition."
+    ],
+    "kit_loc": "across the town and the Ribble Valley business parks",
+    "s2_intro": "Whether you are a Clitheroe accountancy, an engineering-services consultancy, a manufacturer's commercial team or a technology company"
+  }
+}

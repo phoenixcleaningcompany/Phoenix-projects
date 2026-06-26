@@ -1,0 +1,74 @@
+{
+  "neston": {
+    "region": "Neston and Cheshire",
+    "nearby": ["Heswall", "Ellesmere Port", "Bebington"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Neston, embroidered in-house to brand guidelines. It is a compact Cheshire market town on the Wirral peninsula whose professional base is built on small firms, sole practitioners and commuters who work in Chester and Liverpool, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Neston professional services on the Wirral",
+    "s1loc": [
+      "Neston sits in the Cheshire West and Chester part of the Wirral peninsula, a market town where professional life runs through accountancies, solicitors, surveyors and independent advisers rather than tower-block headquarters. Firms such as APH Accountants serve the area, and shared workspace at Connect at 13 The Cross gives hot desks and meeting rooms to consultants and start-ups. The A540 links Neston to Heswall and West Kirby, while the M53 and M56 carry its business owners toward Chester, Ellesmere Port and the wider north west.",
+      "Much of Neston's professional workforce commutes outward, with the Borderlands Line and frequent buses feeding Chester, Birkenhead and Liverpool city centre offices in finance, law and technology. Around the town and at Little Neston and Parkgate, accountants, planners, estate agents and IT advisers keep books, contracts and projects moving for local trades and residents. These are people who work in suits but step into branded polos and softshells for client visits, away days, exhibitions and sponsored events, ordered by owners and office managers who want kit matching the brand exactly."
+    ],
+    "kit_loc": "across the town and out to Little Neston and Parkgate",
+    "s2_intro": "Whether you are a Neston accountancy, a firm of solicitors, a surveying practice, a financial adviser or a technology company"
+  },
+  "bromborough": {
+    "region": "Bromborough and the Wirral",
+    "nearby": ["Bebington", "Birkenhead", "Ellesmere Port"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Bromborough, embroidered in-house to brand guidelines. It is a Wirral manufacturing and business-park town anchored by Croft Business Park, the Wirral International Business Park and the Unilever site at neighbouring Port Sunlight, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Bromborough business parks and the Wirral economy",
+    "s1loc": [
+      "Bromborough is one of the Wirral's industrial engines, built around Croft Business Park and the Wirral International Business Park off the A41 near the M53. Occupiers include ProCook, Overclockers UK and the natural-extracts manufacturer PlantEx, while neighbouring Port Sunlight remains a major Unilever research, development and manufacturing site dating from the Lever Brothers era. Around these estates sit the accountancies, engineering consultancies, logistics planners and professional-services firms that support a dense base of manufacturers, distributors and trade counters.",
+      "The town's professional workforce blends manufacturing-services managers, finance and HR teams, surveyors and technology suppliers serving employers across the peninsula at Bromborough, Bebington and Eastham. Wirral Chamber and the business parks knit these firms together, drawing staff from across Birkenhead and Ellesmere Port. Many wear ordinary office dress day to day but reach for branded polos, softshells and fleeces at supplier exhibitions, client site visits, away days and sponsored events, with procurement and office managers placing orders that have to match the corporate brand precisely."
+    ],
+    "kit_loc": "across Croft Business Park and the Wirral International Business Park",
+    "s2_intro": "Whether you are a Bromborough manufacturer, an engineering consultancy, an accountancy, a logistics firm or a technology company"
+  },
+  "bodmin": {
+    "region": "Bodmin and Cornwall",
+    "nearby": ["St Austell", "Saltash", "Truro"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Bodmin, embroidered in-house to brand guidelines. It is the principal town of mid Cornwall and a major location for manufacturing, distribution and professional firms around Bodmin Business Park, Walker Lines and Callywith Gate, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Bodmin business parks at the heart of Cornwall",
+    "s1loc": [
+      "Bodmin sits centrally in Cornwall and is one of the county's main locations for industrial, distribution and professional firms, clustered at Bodmin Business Park on Launceston Road, the Walker Lines estate and Callywith Gate. West Pharmaceutical Services runs a growing precision-machining operation at Bodmin making medical-device components, while Callywith Gate occupiers include Parcelforce, the bank Handelsbanken, RGB Building Supplies and Fish For Thought. Around these estates work accountancies, solicitors, surveyors and IT consultancies serving the wider mid-Cornwall economy.",
+      "As the gateway town for much of Cornwall, Bodmin draws a professional workforce from across Saltash, St Austell and Truro into finance, law, engineering and technology roles. The Bodmin Chamber and Cornwall Chamber connect these firms, and ambitions such as a food-and-drink centre point to further growth. Office staff here dress conventionally but pull on branded polos, softshells and fleeces for client visits, trade exhibitions, away days and sponsored community events, with managers and procurement leads ordering kit that has to carry the brand exactly right."
+    ],
+    "kit_loc": "across Bodmin Business Park, Walker Lines and Callywith Gate",
+    "s2_intro": "Whether you are a Bodmin manufacturer, an accountancy, a firm of solicitors, an engineering consultancy or a technology company"
+  },
+  "heswall": {
+    "region": "Heswall and the Wirral",
+    "nearby": ["Neston", "Bebington", "Birkenhead"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Heswall, embroidered in-house to brand guidelines. It is one of the Wirral's most affluent commuter towns, with a professional base weighted toward finance, law and senior managerial roles serving Liverpool and Chester, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Heswall, the Wirral's affluent professional base",
+    "s1loc": [
+      "Heswall is among the most affluent parts of the Wirral, long settled by merchants and professionals who wanted easy reach of Liverpool while living on the peninsula. Its local professional economy runs through accountancies such as APH Accountants, conveyancing and property solicitors, planning consultants, financial advisers and IT firms serving residents and businesses across West Kirby, Hoylake and Heswall. The town centre and surrounding villages support an independent business community of advisers, agents and consultancies rather than large corporate headquarters.",
+      "Managerial and professional occupations make up around a quarter of Heswall's workforce, far above the regional average, and many commute outward to finance, law and technology offices in Liverpool and Chester. The A540 and the M53 keep that flow moving toward Neston, Birkenhead and beyond. These are people who work in suits but step into branded polos, softshells and fleeces for conferences, away days, client visits and sponsored events, with office and brand managers ordering kit that has to match the firm's identity exactly."
+    ],
+    "kit_loc": "across the town centre and the wider west Wirral",
+    "s2_intro": "Whether you are a Heswall accountancy, a firm of solicitors, a financial adviser, a planning consultancy or a technology company"
+  },
+  "prudhoe": {
+    "region": "Prudhoe and Northumberland",
+    "nearby": ["Consett", "Newcastle upon Tyne", "Gateshead"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Prudhoe, embroidered in-house to brand guidelines. It is a Tyne Valley town anchored by the Essity Prudhoe Mill, one of Northumberland's largest employers, with professional firms and a commuter workforce feeding Newcastle, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Prudhoe manufacturing and the Tyne Valley",
+    "s1loc": [
+      "Prudhoe sits on the south bank of the Tyne about twelve miles west of Newcastle, anchored by the Essity Prudhoe Mill, formerly SCA, which makes Velvet, Tork and Cushelle tissue and employs more than four hundred people across its paper machines, converting lines and distribution centre. A 30-million-pound recycled-paper facility opened on the site in 2026. The Prudhoe Industrial Estate is also home to Thompsons of Prudhoe, alongside accountancies, engineering consultancies and professional firms serving the wider Tyne Valley.",
+      "Beyond the mill, Prudhoe has become a commuter town for Newcastle, with frequent rail services from Prudhoe station feeding professional and administrative roles in finance, law and technology across Tyneside, Gateshead and out toward Consett. Local firms keep books, contracts and engineering projects moving for manufacturers and trades along the valley. Their staff work in office dress most days but pull on branded polos, softshells and fleeces for site visits, supplier exhibitions, away days and sponsored community events, ordered by managers who want the brand reproduced exactly."
+    ],
+    "kit_loc": "across the mill, the industrial estate and the wider Tyne Valley",
+    "s2_intro": "Whether you are a Prudhoe manufacturer, an engineering consultancy, an accountancy, a firm of solicitors or a technology company"
+  },
+  "ulverston": {
+    "region": "Ulverston and Cumbria",
+    "nearby": ["Barrow-in-Furness", "Kendal", "Lancaster"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Ulverston, embroidered in-house to brand guidelines. It is a Furness market town with a long manufacturing heritage and professional firms serving the wider south Cumbria economy alongside Barrow, Kendal and Lancaster, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Ulverston manufacturing and south Cumbria firms",
+    "s1loc": [
+      "Ulverston is a Furness market town with a deep manufacturing history: Glaxo, later GlaxoSmithKline, built a pharmaceutical plant at Canal Foot after the war on a former iron works, employing around two thousand people at its peak before the site closed in 2025. That legacy of precision manufacturing, engineering and process skills still shapes the local economy, supported by accountancies, solicitors, surveyors and technology consultancies that serve manufacturers and trades across the town and the Furness peninsula.",
+      "Ulverston's professional workforce works alongside the heavy engineering and defence base centred on neighbouring Barrow-in-Furness, with finance, law and technology firms also drawing on Kendal and Lancaster. Local advisers keep accounts, contracts and projects moving for a mix of manufacturers, distributors and independent businesses. These are people who wear conventional office dress but step into branded polos, softshells and fleeces for client visits, trade exhibitions, away days and sponsored community events, with office and procurement managers ordering kit that has to match the brand exactly."
+    ],
+    "kit_loc": "across the town and the wider Furness peninsula",
+    "s2_intro": "Whether you are an Ulverston manufacturer, an accountancy, a firm of solicitors, an engineering consultancy or a technology company"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "prescot": {
+    "region": "Prescot and Merseyside",
+    "nearby": ["St Helens", "Liverpool", "Bootle"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Prescot, embroidered in-house to brand guidelines. From its long cable-making heritage to the modern manufacturing-services firms on Knowsley Business Park, the town keeps a working professional base, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Prescot business from cables to Knowsley Park",
+    "s1loc": [
+      "Prescot built its name on British Insulated Callender's Cables (BICC), once the town's primary employer with thousands of manufacturing staff, and that industrial DNA still shapes the area. Today the firms sit around Knowsley Business Park, one of Merseyside's larger employment sites, alongside the wider Knowsley borough where international names such as Jaguar Land Rover, QVC and Matalan operate. The Cables Retail Park now stands on the old BICC ground, a marker of how the local economy has reshaped itself.",
+      "Around that manufacturing core sits a layer of professional firms: the accountancies, solicitors, surveyors and engineering-services companies that keep Knowsley's businesses running, plus the operations teams arriving with the Shakespeare North Playhouse and the town-centre regeneration. These are suited people who step into branded polos, softshells and fleeces for client visits, supplier audits, away days and exhibitions. Office and brand managers order the kit, and they care that the logo and colours match the brand pack exactly every time."
+    ],
+    "kit_loc": "across Prescot town centre and Knowsley Business Park",
+    "s2_intro": "Whether you are a Prescot accountancy, an engineering-services firm on Knowsley Business Park, a town-centre solicitor or a technology company"
+  },
+  "newport (isle of wight)": {
+    "region": "Newport and the Isle of Wight",
+    "nearby": ["Ryde", "Cowes", "Sandown"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Newport, embroidered in-house to brand guidelines. As the Isle of Wight's commercial and administrative capital, home to the council, the island's professional firms and major manufacturers, Newport anchors the local economy, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Newport, the island's commercial capital",
+    "s1loc": [
+      "Newport is the Isle of Wight's commercial and administrative centre, home to the Isle of Wight Council and the bulk of the island's professional services. Chartered accountancies including Garbetts, Moore South and Xeinadin are based here, alongside solicitors such as Biscoes and a spread of surveyors, financial advisers and consultancies. Manufacturing weight comes from Vestas, the wind-turbine maker at its Stag Lane site, one of the island's largest employers, giving the town a genuine professional and industrial mix.",
+      "As the island's economic hub, Newport draws workers from across the Isle of Wight into its offices, council departments and business parks. The accountants, solicitors and consultants here wear suits day to day, then step into branded polos, softshells and fleeces for client meetings, conferences, exhibitions and sponsored community events. Office and brand managers handle the ordering, and they want the embroidery, logo placement and colours to match their brand guidelines precisely across every member of the team."
+    ],
+    "kit_loc": "across Newport and the island's business parks",
+    "s2_intro": "Whether you are a Newport accountancy, an island law firm, a council-facing consultancy or a technology company"
+  },
+  "ryde": {
+    "region": "Ryde and the Isle of Wight",
+    "nearby": ["Newport (Isle of Wight)", "Sandown", "Cowes"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Ryde, embroidered in-house to brand guidelines. As one of the largest towns on the Isle of Wight, Ryde carries a busy professional and small-business base, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Ryde's professional and small-business base",
+    "s1loc": [
+      "Ryde is one of the Isle of Wight's largest towns and a working professional centre, with accountancies, solicitors, architects, IT-support firms and financial advisers serving residents and businesses across the island's eastern side. Its position as a main arrival point from the mainland keeps a steady flow of commercial activity through the town, and its firms connect closely with Newport's larger professional cluster and the island-wide network listed across the Isle of Wight Chamber of Commerce and local business directories.",
+      "Behind that mix sits a dense layer of owner-managed firms and small consultancies typical of a busy island town. These accountants, advisers and technology operators dress smartly for client work, then pull on branded polos, softshells and fleeces for away days, supplier visits, exhibitions and sponsored community events. The people placing orders are office and brand managers who expect the logo, colours and embroidery to stay consistent across every team member, season after season, with no drift from the brand pack."
+    ],
+    "kit_loc": "across Ryde and the island's eastern towns",
+    "s2_intro": "Whether you are a Ryde accountancy, an island solicitor, an owner-managed consultancy or a technology company"
+  },
+  "cowes": {
+    "region": "Cowes and the Isle of Wight",
+    "nearby": ["Newport (Isle of Wight)", "Ryde", "Shanklin"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Cowes, embroidered in-house to brand guidelines. Home to GKN Aerospace and a deep marine and composites engineering base, Cowes is one of the island's most industrial towns, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Cowes, aerospace and composites engineering",
+    "s1loc": [
+      "Cowes is the engineering heart of the Isle of Wight. GKN Aerospace runs its Falcon Yard and Osborne sites in East Cowes, a plant established in 1901 employing around 800 people, designing and building composite structures and major assemblies for Airbus, Boeing, Lockheed Martin, BAE Systems and Leonardo. The site's Composite Research Centre is being developed into a Technology Insertion Centre. Alongside GKN sits a long-standing marine and composites cluster that gives the town a serious manufacturing and design economy.",
+      "Supporting that engineering base is a network of consultancies, accountancies, design houses and technology firms that feed the aerospace and composites supply chain. Their staff work in technical and professional roles, then step into branded polos, softshells and fleeces for supplier audits, conferences, exhibitions, client visits and away days. Procurement and brand managers place the orders, and on a precision-engineering island they expect the embroidery, logo and colours to match the brand pack exactly across every office and team."
+    ],
+    "kit_loc": "across Cowes and East Cowes engineering sites",
+    "s2_intro": "Whether you are a Cowes engineering consultancy, an aerospace supplier, an island accountancy or a technology company"
+  },
+  "shanklin": {
+    "region": "Shanklin and the Isle of Wight",
+    "nearby": ["Sandown", "Newport (Isle of Wight)", "Ryde"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Shanklin, embroidered in-house to brand guidelines. With a steady professional and small-business base on the island's south-east coast, Shanklin keeps a working local economy, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Shanklin's professional and small-business base",
+    "s1loc": [
+      "Shanklin anchors the south-east of the Isle of Wight and carries its own working professional base. Accountancy practices such as Undercliff Accounting on the Esplanade, mortgage and financial advisers, web-design and digital-marketing firms including Wight Hat, and a range of consultancies and small practices operate from the town and along the High Street. These firms tie into Newport's larger professional cluster and the island-wide network of accountants, advisers and technology companies across the Isle of Wight.",
+      "The town's economy runs on owner-managed firms and small professional practices serving residents and businesses across the island's south-east. Their accountants, advisers and digital specialists dress smartly for client work, then move into branded polos, softshells and fleeces for away days, supplier meetings, exhibitions and sponsored community events. Orders come through office and brand managers who want the logo placement, colours and embroidery to stay consistent with the brand pack across every team member and every reorder."
+    ],
+    "kit_loc": "across Shanklin and the island's south-east",
+    "s2_intro": "Whether you are a Shanklin accountancy, an island financial adviser, a small consultancy or a technology company"
+  },
+  "sandown": {
+    "region": "Sandown and the Isle of Wight",
+    "nearby": ["Shanklin", "Ryde", "Newport (Isle of Wight)"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Sandown, embroidered in-house to brand guidelines. With a professional and small-business base and a thread of light engineering on the island's south-east coast, Sandown keeps a working local economy, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Sandown, light engineering and small firms",
+    "s1loc": [
+      "Sandown carries a professional and small-business base with a thread of light engineering. The Spithead Business Centre on Newport Road hosts structural-engineering and architectural firms, while web-design and technology companies such as Isle of Wight Design Solutions on the High Street operate from the town. Communications and installation businesses add to the mix, and the firms here connect with the wider Isle of Wight economy, where major employers such as Vestas and GKN Aerospace anchor the island's manufacturing weight.",
+      "Around that engineering and small-firm base sits the usual island layer of accountancies, advisers, surveyors and consultancies serving local businesses. Their technical and professional staff dress smartly for client work, then step into branded polos, softshells and fleeces for site visits, supplier audits, exhibitions, conferences and away days. Office and brand managers place the orders, and they expect the logo, colours and embroidery to match the brand pack exactly across every team and every reorder."
+    ],
+    "kit_loc": "across Sandown and the Spithead Business Centre",
+    "s2_intro": "Whether you are a Sandown engineering firm, an island accountancy, a small consultancy or a technology company"
+  }
+}
