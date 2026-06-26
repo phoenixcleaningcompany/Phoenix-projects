@@ -1,0 +1,98 @@
+{
+ "glasgow": {
+  "region": "Glasgow and the west of Scotland",
+  "nearby": ["Paisley", "East Kilbride", "Coatbridge"],
+  "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and aprons to charities, charity shops, foodbanks and volunteer groups across Glasgow, embroidered in-house with the charity name. The sector runs from national charities with shops and branches to tiny local groups on a shoestring, so a larger charity can run a trade account for managed reordering, while a small group can order direct online with no account and no minimum.",
+  "s1_head": "Kitting Glasgow's charities and volunteers",
+  "s1loc": [
+   "Glasgow's food-redistribution effort runs through FareShare Glasgow and the West of Scotland, run by the Move On charity from its Scotstoun warehouse, supplying surplus food to community groups across the region. Trussell foodbanks cover the city as Glasgow NW, NE, SE and SW, with distribution points in Possilpark and Shettleston. Subsidised pantries like the Govan Pantry, run by Govan HELP, and Govan Community Project add low-cost shops and food support alongside the wider community pantry network.",
+   "The sector runs at every size. National and regional charities keep shops and central buying across Glasgow, while the Prince and Princess of Wales Hospice in Bellahouston Park and St Margaret of Scotland Hospice in Clydebank fundraise hard, and small foodbanks, pantries and volunteer-run projects work on a shoestring in Govan, Possilpark, Scotstoun and Shettleston. We supply the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum order."
+  ],
+  "kit_loc": "across the city's shops, foodbanks and community events",
+  "s2_intro": "Whether you are a national charity with shops across Glasgow, a FareShare-supplied community group or a small volunteer-run foodbank in Paisley"
+ },
+ "sheffield": {
+  "region": "Sheffield and South Yorkshire",
+  "nearby": ["Rotherham", "Barnsley", "Chesterfield"],
+  "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and aprons to charities, charity shops, foodbanks and volunteer groups across Sheffield, embroidered in-house with the charity name. The sector runs from national charities with shops and branches to tiny local groups on a shoestring, so a larger charity can run a trade account for managed reordering, while a small group can order direct online with no account and no minimum.",
+  "s1_head": "Kitting the volunteers of South Yorkshire",
+  "s1loc": [
+   "Sheffield's food-aid network runs deep. FareShare Yorkshire redistributes surplus food to community groups, while Trussell Trust foodbanks like Sheffield S6 Foodbank and Burngreave Food Bank hand out emergency parcels across the city. The ShefFood partnership ties together pantries and food access points, and South Yorkshire's Community Foundation channels grants to grass-roots groups. Hospices such as St Luke's, plus the Cathedral Archer Project and youth charity Roundabout, lean on volunteers coordinated through Voluntary Action Sheffield.",
+   "The sector runs at every size. Regional names like St Luke's and Roundabout keep charity shops and central buying across Sheffield, while tiny outfits scrape by on a shoestring - the Parson Cross Community Pantry, the Burngreave and Darnall foodbank centres, S6 sessions in church halls, and mutual-aid crews in S5 and beyond. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online, no minimum."
+  ],
+  "kit_loc": "across the city's shops, foodbanks and community events",
+  "s2_intro": "Whether you are a national charity with shops across Sheffield, a FareShare Yorkshire-supplied community group or a small volunteer-run foodbank in Rotherham"
+ },
+ "manchester": {
+  "region": "Manchester and Greater Manchester",
+  "nearby": ["Salford", "Stockport", "Oldham"],
+  "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and aprons to charities, charity shops, foodbanks and volunteer groups across Manchester, embroidered in-house with the charity name. The sector runs from national charities with shops and branches to tiny local groups on a shoestring, so a larger charity can run a trade account for managed reordering, while a small group can order direct online with no account and no minimum.",
+  "s1_head": "Kitting the volunteers of Greater Manchester",
+  "s1loc": [
+   "Manchester's food sector runs through FareShare Greater Manchester, run by EMERGE 3Rs, which redistributes surplus food to more than 280 charities and community groups across the city-region. Manchester Central Foodbank, part of the Trussell network, runs sessions in Openshaw, Harpurhey and Ardwick, while The Bread and Butter Thing operates affordable food clubs in neighbourhoods across the north. Forever Manchester, the area's community foundation since 1989, funds hundreds of grassroots projects, and Wood Street Mission supports families in poverty.",
+   "The sector runs at every size. National and regional charities, plus hospices like Francis House in Didsbury and St Ann's, hold central buying accounts and run shops, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Moss Side, Hulme, Cheetham Hill, Wythenshawe and Salford. We supply the national charity with shops citywide and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum order."
+  ],
+  "kit_loc": "across the city's shops, foodbanks and community events",
+  "s2_intro": "Whether you are a national charity with shops across Manchester, a FareShare Greater Manchester-supplied community group or a small volunteer-run foodbank in Salford"
+ },
+ "edinburgh": {
+  "region": "Edinburgh and the Lothians",
+  "nearby": ["Musselburgh", "Livingston", "Dunfermline"],
+  "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and aprons to charities, charity shops, foodbanks and volunteer groups across Edinburgh, embroidered in-house with the charity name. The sector runs from national charities with shops and branches to tiny local groups on a shoestring, so a larger charity can run a trade account for managed reordering, while a small group can order direct online with no account and no minimum.",
+  "s1_head": "Kitting the volunteers of the Lothians",
+  "s1loc": [
+   "Edinburgh's food-redistribution backbone runs through Cyrenians, whose FareShare depot in Leith moves surplus from supermarkets and manufacturers out to community groups across south-east Scotland. Empty Kitchens Full Hearts cooks donated surplus into free meals from its Granton base, while Trussell-network foodbanks like Edinburgh North East Foodbank in EH6 and EH7 and the Edinburgh Food Project, with sites around Broomhouse and Wester Hailes, hand out emergency parcels to households in crisis.",
+   "The sector runs at every size. EVOC and Volunteer Edinburgh coordinate the citywide effort, St Columba's Hospice Care runs charity shops with central buying across the Lothians, and Bethany Christian Trust trades from Morningside and Stockbridge. Beneath them, small mutual-aid groups, community pantries and volunteer-run foodbanks scrape by on a shoestring from Pilton to Portobello. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online, no minimum."
+  ],
+  "kit_loc": "across the city's shops, foodbanks and community events",
+  "s2_intro": "Whether you are a national charity with shops across Edinburgh, a Cyrenians FareShare-supplied community group or a small volunteer-run foodbank in Musselburgh"
+ },
+ "liverpool": {
+  "region": "Liverpool and Merseyside",
+  "nearby": ["Bootle", "Birkenhead", "St Helens"],
+  "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and aprons to charities, charity shops, foodbanks and volunteer groups across Liverpool, embroidered in-house with the charity name. The sector runs from national charities with shops and branches to tiny local groups on a shoestring, so a larger charity can run a trade account for managed reordering, while a small group can order direct online with no account and no minimum.",
+  "s1_head": "Kitting the volunteers of Merseyside",
+  "s1loc": [
+   "Liverpool's food-aid network runs deep. FareShare Merseyside redistributes surplus food from its Coronation Food Hub to hundreds of community groups across the region, while North Liverpool Foodbank and South Liverpool Foodbank, both in the Trussell network, keep a centre open most days. Fans Supporting Foodbanks, born from Liverpool and Everton supporters, runs collections at Anfield and mobile pantries in Toxteth, and Feeding Liverpool and Micah Liverpool coordinate pantries and community markets citywide.",
+   "The sector runs at every size. National and regional charities with shops along the high streets and central buying sit beside Liverpool Charity and Voluntary Services and the Community Foundation for Lancashire and Merseyside funding hundreds of tiny outfits. Pantries and volunteer-run projects work on a shoestring in Kensington, Norris Green, Granby and Anfield, from Everton in the Community's Blue Family parcels to one-room churches. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online, no minimum."
+  ],
+  "kit_loc": "across the city's shops, foodbanks and community events",
+  "s2_intro": "Whether you are a national charity with shops across Liverpool, a FareShare Merseyside-supplied community group or a small volunteer-run foodbank in Bootle"
+ },
+ "bristol": {
+  "region": "Bristol and the West of England",
+  "nearby": ["Weston-super-Mare", "Portishead", "Clevedon"],
+  "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and aprons to charities, charity shops, foodbanks and volunteer groups across Bristol, embroidered in-house with the charity name. The sector runs from national charities with shops and branches to tiny local groups on a shoestring, so a larger charity can run a trade account for managed reordering, while a small group can order direct online with no account and no minimum.",
+  "s1_head": "Kitting the volunteers of the West",
+  "s1loc": [
+   "Bristol's food sector runs deep. FareShare South West, the region's largest food-redistribution charity, rescues surplus from its city warehouse to more than 150 local charities and groups, while Trussell foodbanks like North Bristol and South Glos and South and East Bristol hand out emergency parcels, and Bristol NW Foodbank covers Avonmouth, Henbury and Lawrence Weston. FoodCycle Bristol cooks free community meals from rescued food, and Quartet Community Foundation and Voscur back the wider voluntary sector.",
+   "The sector runs at every size. National and regional charities like St Peter's Hospice line the high street with shops and central buying, while small community groups, pantries and volunteer-run foodbanks operate on a shoestring across Easton, Hartcliffe, Knowle West and Lawrence Weston. We supply the national charity and the one-room foodbank alike, with trade accounts for the big buyers and direct online ordering for the small group, no minimum, so every pound stays with the cause."
+  ],
+  "kit_loc": "across the city's shops, foodbanks and community events",
+  "s2_intro": "Whether you are a national charity with shops across Bristol, a FareShare South West-supplied community group or a small volunteer-run foodbank in Weston-super-Mare"
+ },
+ "cardiff": {
+  "region": "Cardiff and South Wales",
+  "nearby": ["Newport", "Barry", "Penarth"],
+  "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and aprons to charities, charity shops, foodbanks and volunteer groups across Cardiff, embroidered in-house with the charity name. The sector runs from national charities with shops and branches to tiny local groups on a shoestring, so a larger charity can run a trade account for managed reordering, while a small group can order direct online with no account and no minimum.",
+  "s1_head": "Kitting the volunteers of South Wales",
+  "s1loc": [
+   "Cardiff Foodbank, part of the Trussell network, runs centres in Cathays, Ely, Grangetown, Splott, Llanedeyrn, St Mellons and Tongwynlais, while FareShare Cymru redistributes surplus food from its Cardiff base to hundreds of community organisations across Wales. Big Bocs Bwyd food hubs, Action for Ely and Caerau and the South Riverside Community Development Centre run pantries district by district, with City Hospice, Tenovus Cancer Care, C3SC and Community Foundation Wales anchoring the wider sector.",
+   "The sector runs at every size. National and regional charities like City Hospice and Tenovus Cancer Care keep shops across the city and buy kit centrally, while small community groups, the Grange Pavilion in Grangetown, Big Bocs Bwyd hubs, pantries and volunteer-run foodbanks work on a shoestring across Ely, Splott, Butetown and Grangetown. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, and no minimum order."
+  ],
+  "kit_loc": "across the city's shops, foodbanks and community events",
+  "s2_intro": "Whether you are a national charity with shops across Cardiff, a FareShare Cymru-supplied community group or a small volunteer-run foodbank in Barry"
+ },
+ "leicester": {
+  "region": "Leicester and Leicestershire",
+  "nearby": ["Loughborough", "Hinckley", "Oadby"],
+  "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and aprons to charities, charity shops, foodbanks and volunteer groups across Leicester, embroidered in-house with the charity name. The sector runs from national charities with shops and branches to tiny local groups on a shoestring, so a larger charity can run a trade account for managed reordering, while a small group can order direct online with no account and no minimum.",
+  "s1_head": "Kitting Leicester's charities and volunteers",
+  "s1loc": [
+   "Leicester's food network runs deep. FareShare Midlands, formed here in 2008 from a Diocese of Leicester project, redistributes surplus food to hundreds of community groups, while Leicester South Foodbank works within the Trussell network. Independent projects fill the gaps - the Manor House Foodbank run by King's Church serves Braunstone and Rowley Fields, FoodCycle cooks community meals in Highfields, and new pantries at All Saints' Church in Belgrave and Wesley Hall let members choose their own groceries.",
+   "The sector runs at every size. Regional names like LOROS hospice, with around 1,300 volunteers and 32 charity shops, and Voluntary Action LeicesterShire (VAL) buy centrally, while the Leicestershire and Rutland Community Foundation funds tiny volunteer-led groups in St Matthews, New Parks and Saffron Lane. We kit them all the same way, from the national charity to the one-room foodbank, with trade accounts and direct online ordering, no minimum order, so every pound stays with the cause."
+  ],
+  "kit_loc": "across the city's shops, foodbanks and community events",
+  "s2_intro": "Whether you are a national charity with shops across Leicester, a FareShare Midlands-supplied community group or a small volunteer-run foodbank in Loughborough"
+ }
+}

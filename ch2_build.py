@@ -376,6 +376,16 @@ TOWNS = {
  },
 }
 
+def _load_extra_towns():
+    here=os.path.dirname(os.path.abspath(__file__))
+    d=os.path.join(here,'towns')
+    if not os.path.isdir(d): return
+    for fn in sorted(os.listdir(d)):
+        if fn.endswith('.json'):
+            for k,v in json.load(open(os.path.join(d,fn),encoding='utf-8')).items():
+                TOWNS[k.lower()]=v
+_load_extra_towns()
+
 _CSV=None
 def _load_csv():
     global _CSV
@@ -512,7 +522,10 @@ def assemble(slug, town):
 
 def main():
     args=[a for a in sys.argv[1:]]
-    outdir='/mnt/user-data/outputs'
+    outdir=(os.environ.get('CH_OUTDIR')
+            or ('/mnt/user-data/outputs' if os.path.isdir('/mnt/user-data/outputs')
+                else 'outputs'))
+    os.makedirs(outdir, exist_ok=True)
     if not args:
         args=[t for t in TOWNS if t!='london']
     for town_key in args:
