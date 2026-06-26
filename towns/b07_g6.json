@@ -1,0 +1,93 @@
+{
+  "Wishaw": {
+    "region": "Wishaw and North Lanarkshire",
+    "nearby": ["Motherwell", "Hamilton", "Bellshill"],
+    "s1_head": "Kitting the visitor economy of North Lanarkshire",
+    "s1loc": [
+      "Wishaw sits in the Clyde valley of North Lanarkshire, and its marquee draws are close at hand at Strathclyde Country Park, a 400-hectare sweep of loch, woodland and watersports just down the road, beside M and D's Scotland's Theme Park with its thrill rides, Amazonia tropical house and Devil's Island adventure golf. In the town itself, the abandoned Gothic shell of Cambusnethan Priory and the 1840 Wishaw Old Parish Church with its prominent Town Clock anchor the old burgh for visitors arriving off the M74.",
+      "The leisure and activity layer spreads across Belhaven Park, gifted to the town by Lord Belhaven as a war memorial and laid out with ornamental trees, play areas and a skating space, and the 100-hectare Greenhead Moss Community Nature Park with its ponds, wildflower meadows and woodland trails. The watersports centre, loch and adventure playgrounds at Strathclyde Park keep families and operators busy across the warmer season for the wider Lanarkshire catchment.",
+      "Heritage and culture run through the North Lanarkshire Heritage Centre, whose archives reach back to the 15th century and cover Motherwell, Bellshill, Shotts and Wishaw, alongside the nearby David Livingstone Birthplace at Shuttle Row in Blantyre, the museum to the Scottish explorer set in a former textile mill. The town's long weaving and mining past, the Lanarkshire Yeomanry memorial garden in Belhaven Park and the Clyde valley orchards give the area its historic depth.",
+      "The visitor trade leans on a town and roadside hotel base around the M74 and a guide scene built around Strathclyde Park and the Clyde valley. Wishaw railway station links Glasgow and Lanark, the motorway corridor puts Glasgow, the New Lanark World Heritage Site and the Falls of Clyde within an easy day trip, and the draw of the country park, theme park and Clyde valley garden routes feeds a steady seasonal flow of visitors into North Lanarkshire."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Wishaw attraction or hotel group, a heritage site or a small independent activity centre in Motherwell"
+  },
+  "Nelson": {
+    "region": "Nelson and the Borough of Pendle",
+    "nearby": ["Colne", "Burnley", "Accrington"],
+    "s1_head": "Kitting the visitor economy of Pendle",
+    "s1loc": [
+      "Nelson sits at the foot of Pendle Hill in the Borough of Pendle, and the legendary 1,827-foot hill, where George Fox was inspired to found the Quaker movement in 1652 and forever tied to the 1612 Pendle Witches, is the marquee draw for walkers and visitors across East Lancashire. The town grew as a cotton-weaving centre after the Leeds and Liverpool Canal reached it in 1796 and the East Lancashire Railway in 1849, and its mill-town streetscape still anchors the old centre.",
+      "The leisure and activity layer centres on Marsden Park, with its Tudor heritage, scenic gardens and the Marsden Park Golf Course looking out over Pendle Hill, alongside the towpath of the Leeds and Liverpool Canal for warm-season walking and cycling. The wider Pendle countryside, the Forest of Bowland fringe and the family attractions of the surrounding villages keep operators busy through the season for the East Lancashire catchment.",
+      "Heritage and culture run through the Pendle Heritage Centre at nearby Barrowford, with its Garden Tearoom, 18th-century walled garden, cruck-frame barn and Pendle Arts Gallery, and the working steam mills of the area. Bancroft Mill is Lancashire's last steam-driven weaving shed, running special steaming days through the year, while the 1824 water-powered Higherford Mill, saved by the Heritage Trust for the North West, gives the town a living industrial story.",
+      "The visitor trade leans on a town and country hotel base and a guide scene built around Pendle Hill, the witches trail and the heritage mills. Nelson railway station sits on the East Lancashire line linking Burnley, Colne and Preston, the M65 corridor puts the wider county within an easy day trip, and the seasonal draw of Pendle Hill, the Forest of Bowland and the Bronte country over the moors feeds a steady flow of visitors into the borough."
+    ],
+    "kit_loc": "across the borough's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Nelson attraction or hotel group, a heritage site or a small independent activity centre in Colne"
+  },
+  "Radcliffe": {
+    "region": "Radcliffe and the Irwell Valley",
+    "nearby": ["Bury", "Whitefield", "Bolton"],
+    "s1_head": "Kitting the visitor economy of the Irwell Valley",
+    "s1loc": [
+      "Radcliffe sits in the Irwell Valley in the Metropolitan Borough of Bury, and its marquee landmark is Radcliffe Tower, the Grade I listed and scheduled ancient stone tower that survives from the manor house rebuilt in 1403 by James de Radcliffe, lord of the manor. The tower stands beside the parish church of St Mary and the open green of Close Park, where Heritage Lottery-funded digs have uncovered medieval floor tiles, roof tiles and 15th-century pottery from the old hall.",
+      "The leisure and activity layer runs along the restored Manchester, Bolton and Bury Canal and the 4-kilometre Outwood Trail, which follows a disused railway over the Grade II listed Outwood Viaduct toward Clifton Country Park and Prestwich on the national cycle network. Coronation Park, the Radcliffe E'es wetland and the Irwell Valley towpaths give walkers, cyclists and families a flat waterside route through the warmer season for the wider Bury catchment.",
+      "Heritage and culture centre on the redeveloped Radcliffe Market hub, a busy food and events space at the heart of the town, alongside the medieval story of Radcliffe Tower and the canal-side industrial past of cotton, papermaking and engineering. The town's conservation core, the parish church of St Mary and a local events calendar built around the market and the country trails keep activity turning through the year in the Irwell Valley.",
+      "The visitor trade leans on a town and roadside hotel base across the Bury and Bolton corridor and a guide scene built around the canal, the Outwood Trail and the medieval tower. Radcliffe sits on the Manchester Metrolink Bury line, putting Bury, Manchester city centre and the East Lancashire Railway heritage steam services at Bolton Street within an easy day trip, feeding a steady commuter-belt and seasonal flow into the valley."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Radcliffe attraction or hotel group, a heritage site or a small independent activity centre in Bury"
+  },
+  "Fleet": {
+    "region": "Fleet and north east Hampshire",
+    "nearby": ["Farnborough", "Aldershot", "Camberley"],
+    "s1_head": "Kitting the visitor economy of north east Hampshire",
+    "s1loc": [
+      "Fleet sits in the Hart District in the north east corner of Hampshire, and its marquee natural draw is Fleet Pond, the largest freshwater lake in the county and one of Hampshire's first Sites of Special Scientific Interest, designated in 1951. The 141-acre nature reserve wraps the pond in heathland, woodland, reedbed and marsh rich in birds, butterflies and dragonflies, and the nearby Iron Age hillfort of Caesar's Camp gives the commuter town a deep prehistoric anchor for visitors.",
+      "The leisure and activity layer runs through Calthorpe Park, the green heart of the town that hosts the Fleet Carnival, the Fleet Half Marathon and the fireworks display and is home to Fleet Town Football Club and Fleet Cricket Club. The new Edenbrook Country Park, with its meadows, ponds and the River Hart flowing through, and the towpath of the Basingstoke Canal give walkers, cyclists and paddlers a long warm-season route across the Hampshire and Surrey border.",
+      "Heritage and culture run through the 32-mile Basingstoke Canal, completed in 1794 to link Basingstoke to the Wey Navigation and the Thames at Weybridge, and the old Fleet and Crookham story told by the local history group. Gurkha Square at the centre of town hosts the weekly and monthly markets and the Gurkha trade tied to nearby Aldershot, and the wider Crookham, Ewshot and Dogmersfield landscape gives the area its village character and events calendar.",
+      "The visitor trade leans on a town and roadside hotel base across the Hart and Rushmoor corridor and a guide scene built around Fleet Pond, the canal and the country parks. Fleet railway station sits on the South West Main Line between London Waterloo and Southampton Central, the M3 corridor puts London, Winchester and the Hampshire countryside within an easy day trip, and the seasonal draw of the pond, the canal and Caesar's Camp feeds a steady flow into north east Hampshire."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Fleet attraction or hotel group, a heritage site or a small independent activity centre in Farnborough"
+  },
+  "Witney": {
+    "region": "Witney and the Oxfordshire Cotswolds",
+    "nearby": ["Oxford", "Abingdon", "Bicester"],
+    "s1_head": "Kitting the visitor economy of the Oxfordshire Cotswolds",
+    "s1loc": [
+      "Witney is an ancient market town on the edge of the Oxfordshire Cotswolds, and its marquee visitor draw is Cogges Manor Farm, a thousand-year-old site set around a 13th-century manor house and Grade II listed 18th-century farm buildings, with seventeen acres of orchard, walled garden, adventure playground and farm animals. The town's distinctive medieval Buttercross, with its 17th-century clock and 1683 cupola, and the broad sweep of Church Green leading to St Mary's Church anchor the old centre for visitors arriving off the A40.",
+      "The leisure and activity layer spreads across Church Green and the Leys recreation ground in the heart of town, alongside the riverside walks of the Windrush valley and the family draw of Cogges' farm and playground. The Wychwood Brewery on Corn Street, home to Hobgoblin and Brakspear beers, runs guided tours and tastings, and the surrounding Cotswold villages, Minster Lovell ruins and the Wychwood forest country keep operators busy across the warmer season for the wider Oxfordshire catchment.",
+      "Heritage and culture run deep through the Witney Blanket Hall on High Street, the historic home of the town's famous woollen blanket trade since 1721, and the wider blanket-making story that built Witney over three centuries. The Grade II* listed Henry Box schoolhouse of 1662, endowed by a London grocer born in the town, and a market and events calendar around the Market Square and Church Green give the town a long-running cultural draw.",
+      "The visitor trade leans on a town and Cotswold hotel base and a guide scene built around the blanket heritage, Cogges and the Windrush valley. Witney has no station of its own but sits a short hop from Oxford on the A40, putting the dreaming spires, the Cotswolds, Blenheim Palace at Woodstock and Bicester Village within an easy day trip, feeding a steady seasonal and weekend flow of visitors into the Oxfordshire Cotswolds."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Witney attraction or hotel group, a heritage site or a small independent activity centre in Oxford"
+  },
+  "Willenhall": {
+    "region": "Willenhall and the Black Country",
+    "nearby": ["Walsall", "Wolverhampton", "Bilston"],
+    "s1_head": "Kitting the visitor economy of the Black Country",
+    "s1loc": [
+      "Willenhall sits at the heart of the Black Country between Walsall and Wolverhampton, and its marquee heritage draw is the Locksmith's House on New Road, a Grade II listed 1840 house and backyard workshops run as a museum by the Black Country Living Museum, where the lock-making trade that made Willenhall the lock capital of Britain is shown with original tools and belt-driven machinery. The town held 148 skilled locksmiths as early as 1770, and its Market Place and the Grade II listed St Giles' Church anchor the old centre.",
+      "The leisure and activity layer runs through the town's parks and recreation grounds, the canal towpaths of the Black Country waterways linking toward Wolverhampton and Bilston, and the family attractions of the surrounding district. The wider Black Country country parks, nature sites and the indoor activity venues across Walsall and Bilston keep operators busy through the warmer season for the dense West Midlands catchment around the town.",
+      "Heritage and culture centre on the Locksmith's House and the Hodson family lock-making story, alongside St Giles' Church, with a place of worship on the site for some 700 years and the present 1867 building by W. D. Griffin, and the four parish churches of St Giles', St Stephen's, St Anne's and Holy Trinity. The annual Black Country Day, the town's lock-trade legacy and a local events calendar give Willenhall its distinct industrial culture in the West Midlands.",
+      "The visitor trade leans on a roadside and business hotel base across the Walsall and Wolverhampton corridor and a guide scene built around the Black Country heritage trail. Willenhall sits on the road and rail corridor between Walsall and Wolverhampton, with the West Midlands Metro and the Black Country Living Museum at Dudley within an easy day trip, feeding a steady flow of visitors into the heart of the Black Country across the year."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Willenhall attraction or hotel group, a heritage site or a small independent activity centre in Walsall"
+  },
+  "Ashington": {
+    "region": "Ashington and south east Northumberland",
+    "nearby": ["Blyth", "Bedlington", "Morpeth"],
+    "s1_head": "Kitting the visitor economy of south east Northumberland",
+    "s1loc": [
+      "Ashington, once the largest pit village in the world, is anchored by Woodhorn Museum, the former Woodhorn Colliery that worked from 1894 to 1981 and reopened in 1989 as a mining museum within the Queen Elizabeth II Country Park. The museum is home to the Ashington Group Collection, the celebrated Pitmen Painters, miners who from 1934 turned a Workers' Educational Association class into the world's first permanent display of amateur art, and it holds the Northumberland Archives for visitors and researchers.",
+      "The leisure and activity layer spreads across the Queen Elizabeth II Country Park, reclaimed from colliery spoil heaps and opened by the Queen Mother in 1989, with its lake, trails and walks, and the Wansbeck Riverside Park beside Sheepwash and Wellhead Dene in the wooded Wansbeck valley. The nearby coast at Newbiggin-by-the-Sea, Lynemouth and the seven-mile Druridge Bay adds beaches, dunes and warm-season family days within easy reach of the town.",
+      "Heritage and culture run through the Pitmen Painters legacy at Woodhorn, the town's deep coal-mining past, and Sean Henry's 'Couple' sculpture standing offshore from Newbiggin's Church Point, the UK's first permanent offshore sculpture and the centrepiece of the Newbiggin Art Trail. The colliery winding gear, the mining heritage galleries and a local events calendar built around Woodhorn and the country park give Ashington its distinctive Northumberland culture.",
+      "The visitor trade leans on a town and coastal hotel base and a guide scene built around Woodhorn, the country park and the Northumberland coast. Ashington's reopened Northumberland Line station links Newcastle and Blyth, the A189 spine road puts Morpeth, the wider Northumberland coast and the Cheviots within an easy day trip, and the seasonal draw of Druridge Bay, Newbiggin and the mining heritage feeds a steady flow of visitors into south east Northumberland."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Ashington attraction or hotel group, a heritage site or a small independent activity centre in Blyth"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "Ashton-in-Makerfield": {
+    "region": "Wigan and Greater Manchester",
+    "nearby": ["Wigan", "St Helens", "Leigh"],
+    "s1_head": "Kitting the visitor economy of the Wigan borough",
+    "s1loc": [
+      "Ashton-in-Makerfield sits in the Wigan borough of Greater Manchester, with Haydock Park Racecourse on its doorstep drawing big crowds to its Flat and National Hunt fixtures and summer music nights. The town centre is anchored by the Gerard Centre and the high street along Gerard Street and Bryn Street, while St Thomas's Church on Warrington Road, rebuilt in 1893, and the old Garswood Hall colliery story give the place a strong sense of its mining and market-town past.",
+      "The leisure and activity layer runs across the old coalfield. Three Sisters Recreation Area, reclaimed from the Garswood Hall Colliery spoil tips, pairs walking and nature trails with the Three Sisters Race Circuit used for karting and motorsport days. Jubilee Park gives families a Green Flag green space, Ashton Leisure Centre covers indoor swimming and sport, and the wider Wigan Greenheart and Bryn Marsh nature sites keep walkers and cyclists busy through the seasons.",
+      "Heritage and culture reach beyond the town into the borough. Wigan Pier and the restored mill buildings along the Leeds and Liverpool Canal tell the textile and waterway story, while the Wood Pit explosion memorial in St Thomas's graveyard records the 1878 mining disaster. Haydock village, Garswood and Bryn add their own chapels, war memorials and recreation grounds, and the borough's events calendar runs through Wigan's heritage festivals and Haydock's racing meetings.",
+      "Underpinning it all is a trade tied to Haydock Park and the M6 corridor, with hotels, guesthouses and coach operators serving racegoers and the Haydock Park exhibition and conference crowds. The town sits between Wigan, St Helens and Warrington on the rail and motorway network, with the World of Glass at St Helens, Pennington Flash Country Park at Leigh and the wider Carbon Landscape giving the surrounding area a steady day-trip and seasonal draw."
+    ],
+    "kit_loc": "across the borough's attractions, parks and activity sites",
+    "s2_intro": "Whether you are a major Ashton-in-Makerfield attraction or hotel group, a heritage site or a small independent activity centre in Wigan"
+  },
+  "Heywood": {
+    "region": "Rochdale and Greater Manchester",
+    "nearby": ["Rochdale", "Bury", "Middleton"],
+    "s1_head": "Kitting the visitor economy of the Rochdale borough",
+    "s1loc": [
+      "Heywood sits in the Rochdale borough of Greater Manchester, with the East Lancashire Railway heritage line making Heywood Station its southern terminus and running steam and diesel services through Bury Bolton Street, Summerseat and Ramsbottom on to Rawtenstall. The town's Victorian core, its old cotton mills along the Roch valley and the restored stations along the line give Heywood a strong industrial and railway identity that anchors its visitor draw across the calendar.",
+      "The leisure and activity layer centres on Queen's Park, the Grade II Victorian park off Queen's Park Road laid out on the old Heywood House grounds, with its bandstand, boating lake, tennis courts and restored fountain reopened after a multi-million-pound revamp. Ashworth Valley and the Cheesden Brook give walkers wooded trails on the moorland edge, while the Rochdale Canal towpath and local recreation grounds keep cyclists and families active through the seasons.",
+      "Heritage and culture run through the town and its borough neighbours. The Phoenix Centre serves the community core, while St Luke's Church and the old Heywood Civic buildings mark the Victorian town. A short trip reaches Hopwood Hall, the medieval manor near Middleton, Touchstones Rochdale arts and heritage centre and the Rochdale Pioneers Museum, birthplace of the Co-operative movement, giving the surrounding area a deep events and culture calendar.",
+      "Underpinning it all is a trade built on the East Lancashire Railway galas and themed events, served by guesthouses, pubs and coach operators across the borough. Heywood sits between Bury, Rochdale and Middleton on the tram and motorway network, with Burrs Country Park at Bury, the Bury Market and the Peel Tower at Holcombe giving the surrounding area a strong day-trip and seasonal draw right through the year."
+    ],
+    "kit_loc": "across the borough's parks, railway and visitor sites",
+    "s2_intro": "Whether you are a major Heywood attraction or hotel group, a heritage site or a small independent activity centre in Rochdale"
+  },
+  "Littlehampton": {
+    "region": "Littlehampton and the West Sussex coast",
+    "nearby": ["Worthing", "Bognor Regis", "Chichester"],
+    "s1_head": "Kitting the visitor economy of the West Sussex coast",
+    "s1loc": [
+      "Littlehampton anchors a busy stretch of the West Sussex coast at the mouth of the River Arun, headlined by Harbour Park, the free-entry seaside fun park whose Lighthouse Drop, Water Chute and Jelly Swinger ride sit right on the award-winning East Beach. The mile-long promenade, the Blue Flag sand and Britain's longest bench draw summer crowds, while crabbing on the Arun and the harbour mouth give the resort its classic seafront character through the season.",
+      "The leisure and activity layer runs along the waterfront and the river. The Look and Sea Visitor Centre tells the town's maritime and geography story with a two-storey viewing tower over the harbour, while Mewsbrook Park, Norfolk Gardens and the boating lake give families landscaped green space. The East Beach Cafe, the West Beach nature reserve dunes and watersports on the Arun keep activity operators, paddleboard hire and the seafront amusements busy across the summer.",
+      "Heritage and culture reach inland from the coast. Arundel, with its medieval castle, cathedral and Wetlands Centre, sits just up the Arun valley, while Amberley Museum and the Bignor Roman Villa add depth to the area's heritage offer. Littlehampton's own Windmill Theatre, the seafront events programme and the South Downs National Park rising behind the town give the resort a year-round cultural calendar beyond the beach season.",
+      "Underpinning it all is a coastal hotel, guesthouse and holiday-let trade serving the Arun district, with caravan parks, tour operators and seafront cafes carrying the seasonal crowds. Littlehampton railway station links to Worthing, Bognor Regis and Chichester on the West Coastway line, with Goodwood, the Witterings beaches and the South Downs giving the surrounding area a strong day-trip and seasonal draw across the West Sussex coast."
+    ],
+    "kit_loc": "across the coast's attractions, parks and activity sites",
+    "s2_intro": "Whether you are a major Littlehampton attraction or hotel group, a heritage site or a small independent activity centre in Worthing"
+  },
+  "Darwen": {
+    "region": "Blackburn and East Lancashire",
+    "nearby": ["Blackburn", "Bolton", "Accrington"],
+    "s1_head": "Kitting the visitor economy of East Lancashire",
+    "s1loc": [
+      "Darwen sits in East Lancashire below the West Pennine Moors, crowned by Darwen Tower, the octagonal Jubilee Tower built for Queen Victoria's Diamond Jubilee, whose viewing gallery reaches across to the Isle of Man and the hills of North Wales on a clear day. The town's skyline is marked by the towering chimney of India Mill, the 1867 textile landmark that drew Mahatma Gandhi to the area in 1931, giving Darwen a strong industrial heritage identity.",
+      "The leisure and activity layer runs up into the moors. Sunnyhurst Wood, a wooded valley country park with miles of marked paths, a visitor centre and art gallery, links walkers up to Darwen Tower and the open moorland of Darwen Hill. Bold Venture Park, opened in 1889 on former quarry land, pairs its boating lake and sculpture trail with children's play, while the Witton Country Park trails and the moorland edge keep walkers and cyclists busy through the seasons.",
+      "Heritage and culture reach across the town and the wider borough. The Grade II India Mill chimney, the Darwen Market Hall and the Victorian terraces tell the cotton story, while Blackburn's Cathedral, the Blackburn Museum and Art Gallery and the Cotton Exchange add depth nearby. Darwen Library Theatre and the town's events programme run through the year, with the Leeds and Liverpool Canal and the Roddlesworth woods giving the surrounding area its own walking and heritage draw.",
+      "Underpinning it all is a trade tied to the moorland walking country and the heritage mills, served by guesthouses, pubs and tour operators across the borough. Darwen railway station links to Blackburn, Bolton and Manchester on the line, with Hoghton Tower, the Jumbles and Turton Tower near Bolton and the Haworth and Pendle Hill country giving the surrounding area a strong day-trip and seasonal draw across East Lancashire."
+    ],
+    "kit_loc": "across the moors' attractions, parks and activity sites",
+    "s2_intro": "Whether you are a major Darwen attraction or hotel group, a heritage site or a small independent activity centre in Blackburn"
+  },
+  "Colwyn Bay": {
+    "region": "Colwyn Bay and the North Wales coast",
+    "nearby": ["Rhyl", "Llandudno", "Prestatyn"],
+    "s1_head": "Kitting the visitor economy of the North Wales coast",
+    "s1loc": [
+      "Colwyn Bay is a Conwy seaside resort on the North Wales coast, headlined by the Welsh Mountain Zoo high above the town, where snow leopards, red pandas and Sumatran tigers sit among wooded gardens with sweeping views across the bay. The three-mile promenade curves round the sandy Blue Flag beach to Rhos-on-Sea and Old Colwyn, with the rebuilt Victoria Pier and the seafront giving the resort its classic coastal character right through the season.",
+      "The leisure and activity layer centres on the waterfront and Eirias Park, fifty acres of parkland with a boating lake, miniature railway, landscaped gardens and sports pitches alongside the Eirias Stadium events arena. Porth Eirias on the seafront, with its watersports centre and the restaurant run by chef Bryn Williams, offers paddleboard and kayak hire and sailing lessons, while the beach, the bike paths and the promenade keep activity operators busy across the summer.",
+      "Heritage and culture run through the town and the wider coast. Theatr Colwyn, billed as one of the oldest working theatres and cinemas in Wales, anchors the cultural offer, while the Rhos-on-Sea harbour, the tiny St Trillo's Chapel and the Bryn Euryn hillfort add heritage interest. Llandudno's Victorian pier and Great Orme tramway, Bodnant Garden and the Conwy Castle world heritage site give the surrounding area a deep events and culture calendar.",
+      "Underpinning it all is a deep hotel, guesthouse and caravan-park trade along the coast, with tour operators and coach firms carrying the seasonal crowds. Colwyn Bay railway station sits on the North Wales Coast line to Llandudno, Rhyl and Prestatyn, with the A55 expressway feeding visitors in, and Snowdonia, the Great Orme and the Conwy valley giving the surrounding area a strong day-trip and seasonal draw across the North Wales coast."
+    ],
+    "kit_loc": "across the coast's attractions, parks and activity sites",
+    "s2_intro": "Whether you are a major Colwyn Bay attraction or hotel group, a heritage site or a small independent activity centre in Rhyl"
+  },
+  "Pontypridd": {
+    "region": "Pontypridd and the South Wales valleys",
+    "nearby": ["Caerphilly", "Aberdare", "Merthyr Tydfil"],
+    "s1_head": "Kitting the visitor economy of the South Wales valleys",
+    "s1loc": [
+      "Pontypridd anchors the South Wales valleys at the meeting of the Rhondda and Taff, headlined by the Old Bridge, William Edwards's elegant single-span stone crossing completed in 1756 and still Grade I listed, beside the modern Pontypridd Lido. Pontypridd Museum, housed in a former chapel, tells the town's coal, music and bridge-building story, while the Tabernacle and the historic market give the gateway town its distinct valleys character across the year.",
+      "The leisure and activity layer centres on Ynysangharad War Memorial Park beside the River Taff, with its sunken gardens, bandstand and the restored Grade II Lido Ponty, the National Lido of Wales, whose three heated pools draw summer crowds. The Taff Trail walking and cycling route runs through the park, while Barry Sidings Countryside Park, the Cambrian Village trail and the riverside paths keep walkers, cyclists and activity operators busy through the seasons.",
+      "Heritage and culture run deep in this valleys town. Pontypridd is the birthplace of the Welsh national anthem and the singers Tom Jones and Sir Geraint Evans, marked across the town, while the Muni Arts Centre and the YMa cultural hub anchor the events offer. Nearby, the Royal Mint Experience at Llantrisant lets visitors strike their own coins, and the Rhondda Heritage Park at Trehafod tells the coal-mining story underground.",
+      "Underpinning it all is a trade tied to the valleys and the events calendar, served by guesthouses, pubs and tour operators across Rhondda Cynon Taf. Pontypridd railway station, on the Valley Lines into Cardiff, and the A470 carry visitors in, with Caerphilly Castle, the Brecon Beacons rising to the north and the Cynon and Rhondda valley trails giving the surrounding area a strong day-trip and seasonal draw across South Wales."
+    ],
+    "kit_loc": "across the valleys' attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Pontypridd attraction or hotel group, a heritage site or a small independent activity centre in Caerphilly"
+  },
+  "Harpenden": {
+    "region": "Harpenden and Hertfordshire",
+    "nearby": ["St Albans", "Luton", "Hemel Hempstead"],
+    "s1_head": "Kitting the visitor economy of Hertfordshire",
+    "s1loc": [
+      "Harpenden is a leafy Hertfordshire commuter town built around Harpenden Common, the 233-acre Green Flag open space stretching almost two miles south from the centre, where sheep once grazed and fairs, farmers' markets and outdoor concerts still gather. Rothamsted Manor, the Elizabethan-style house at the heart of Rothamsted Research, one of the oldest agricultural research stations in the world founded in 1843, gives the town a distinctive heritage anchor beside its tree-lined High Street and Village core.",
+      "The leisure and activity layer centres on Rothamsted Park, the fifty-six-acre recreation hub with football pitches, floodlit tennis and netball courts, cricket and a nature-themed play area, alongside the Eric Morecambe Centre theatre and leisure venue. Batford Springs nature reserve gives walkers wildflower meadows and clear chalk streams along the River Lea, while the Common's golf, two cricket clubs and bridle paths keep families, walkers and riders active through the seasons.",
+      "Heritage and culture run through the town and the wider district. The Harpenden Museum, on the ground floor of the Eric Morecambe Centre, traces the town's growth from settlement to commuter town, while the Nast Hyde Halt restored platform on the Alban Way greenway tells the railway story. Nearby, St Albans Cathedral, the Roman Verulamium and the de Havilland Aircraft Museum add depth, with a calendar of fairs and events on the Common.",
+      "Underpinning it all is a trade serving the Hertfordshire business and visitor base, with hotels, guesthouses and event venues along the commuter belt. Harpenden railway station, on the Thameslink line to St Pancras and Luton, and the M1 and A1 carry visitors in, with Whipsnade Zoo, the Wheathampstead and Redbourn villages and the St Albans heritage quarter giving the surrounding area a strong day-trip and seasonal draw across Hertfordshire."
+    ],
+    "kit_loc": "across the town's parks, attractions and visitor sites",
+    "s2_intro": "Whether you are a major Harpenden attraction or hotel group, a heritage site or a small independent activity centre in St Albans"
+  }
+}

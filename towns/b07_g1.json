@@ -1,0 +1,93 @@
+{
+  "Burgess Hill": {
+    "region": "Burgess Hill and Mid Sussex",
+    "nearby": ["Haywards Heath", "Crawley", "Horsham"],
+    "s1_head": "Kitting the visitor economy of Mid Sussex",
+    "s1loc": [
+      "Burgess Hill sits at the heart of Mid Sussex, and its draw for visitors centres on the green spine of St John's Park, the 4.9-hectare recreation ground left to the town by the benefactress Emily Temple, and the surviving two-screen Orion Cinema on Cyprus Road, opened in 1928 as one of the area's oldest picture houses. The old market town, set on the former St John's Common between the High Weald and the South Downs, gives the centre real character off the London-to-Brighton line.",
+      "The leisure and activity layer is led by the Triangle Leisure Centre on the northern edge of town, run by Places Leisure and opened by Queen Elizabeth II in 1999 with its pools, ice rink and courts. Beyond the built-up core, Bedelands Farm Nature Reserve to the north west and the 188-acre Ditchling Common Country Park to the east give walkers and families wide commons, woodland and trails through the warmer season.",
+      "Heritage and culture run through the conservation streets around Church Walk and the work of the Burgess Hill Heritage and History group, which records the brickworks and potteries that shaped the Victorian town. Nearby Ditchling village, with its long arts and crafts tradition and the Ditchling Museum of Art and Craft, and the chalk ridge of Ditchling Beacon on the South Downs Way anchor a cultural and events calendar across the surrounding parishes.",
+      "The visitor trade leans on a town and roadside hotel base and a guide scene built around the Downs and the Wealden commons. Burgess Hill and Wivelsfield stations link Brighton, Gatwick and London Victoria, and the Metrobus 270 carries day-trippers north to the Bluebell Railway at Horsted Keynes and Sheffield Park, while the South Downs National Park and the coast put a wide seasonal day-trip catchment within easy reach of the town."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Burgess Hill attraction or hotel group, a heritage site or a small independent activity centre in Haywards Heath"
+  },
+  "Hucknall": {
+    "region": "Hucknall and the Leen Valley",
+    "nearby": ["Arnold", "Nottingham", "Mansfield"],
+    "s1_head": "Kitting the visitor economy of the Leen Valley",
+    "s1loc": [
+      "Hucknall's marquee draw is the Church of St Mary Magdalene beside the market square, the burial place of the poet Lord Byron and his daughter Ada, Countess of Lovelace, in the Byron family vault, and home to one of the largest collections of Kempe Studios stained glass of any parish church in England. The old market town, set in the Leen Valley north of Nottingham, built its wealth on the coal mined heavily across the valley in the 19th and 20th centuries.",
+      "The leisure and activity layer reaches into Bestwood Country Park on the eastern edge of town, where woodland, lakes and the restored Bestwood Winding Engine House recall the colliery past across acres of trails. Titchfield Park gives the centre its formal green space with gardens, a bandstand and play areas, and the wider Leen Valley walking and cycling routes carry families and visitors through the warmer season into the countryside around Linby and Papplewick.",
+      "Heritage and culture run through the town's strong Byron association, the annual events around the parish church and market place, and the proud aviation past of the former RAF Hucknall airfield where Rolls-Royce tested engines. The nearby Papplewick Pumping Station, a Victorian waterworks of ornate ironwork and steam engines, and Newstead Abbey, Byron's ancestral home a short drive north, anchor a heritage trail across the Leen Valley parishes.",
+      "The visitor trade leans on a town and roadside hotel base and a guide scene built around the Byron heritage and the country park. Hucknall is the northern terminus of the Nottingham Express Transit tram and a stop on the reopened Robin Hood Line, with a park-and-ride feeding visitors straight into Nottingham, while the M1 and the wider Nottinghamshire countryside put Sherwood Forest and the city within an easy seasonal day trip."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Hucknall attraction or hotel group, a heritage site or a small independent activity centre in Arnold"
+  },
+  "Brighouse": {
+    "region": "Brighouse and the Calder Valley",
+    "nearby": ["Halifax", "Huddersfield", "Mirfield"],
+    "s1_head": "Kitting the visitor economy of the Calder Valley",
+    "s1loc": [
+      "Brighouse is a lively Calderdale market town set on the banks of the River Calder and the Calder and Hebble Navigation, the part-canal, part-river network whose locks and wharves made the town a transport hub of the Industrial Revolution. The canal basin and towpath in the town centre, with its boats, bridges and waterside walks below the wooded valley sides, give visitors arriving off the M62 and the Calder Valley Line an attractive waterfront heart to the old textile town.",
+      "The leisure and activity layer is led by Wellholme Park, a Green Flag and Queen Elizabeth II Fields park a short walk from the centre, with its large lake, formal gardens and children's playground famous for warmer-season blooms. The towpath of the Calder and Hebble Navigation runs roughly 21 miles for walkers and cyclists, and the wooded valley sides around Brighouse and neighbouring Rastrick give families trails and green space through the year.",
+      "Heritage and culture run through the world-famous Brighouse and Rastrick Brass Band, the art deco ballroom once known as The Ritz, and the Smith Art Gallery housed within Brighouse Library, which shows local art and historical works. The town's flagship event is the Brighouse 1940s Weekend each June, when the streets fill with vintage cars, live bands, funfair rides and wartime re-enactment, anchoring a busy events calendar across the centre.",
+      "The visitor trade leans on a town and roadside hotel base around the M62 junction and a guide scene built around the canal and the brass-band heritage. Brighouse railway station on the Calder Valley Line links Leeds, Halifax, Huddersfield and Manchester, and the motorway corridor puts the wider Calderdale and Kirklees countryside, Halifax and the Pennine moors within an easy seasonal day trip into the valley."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Brighouse attraction or hotel group, a heritage site or a small independent activity centre in Halifax"
+  },
+  "Windsor": {
+    "region": "Windsor and the Royal Borough of Berkshire",
+    "nearby": ["Slough", "Maidenhead", "Staines"],
+    "s1_head": "Kitting the visitor economy of Royal Berkshire",
+    "s1loc": [
+      "Windsor runs one of the most visited tourism economies in the country, anchored by Windsor Castle, the family home of British kings and queens for over 1,000 years and an official residence of the King. The riverside town centre below the castle, the Long Walk leading out from the State Apartments, and the College of Eton just across the Thames at Eton give the town an unrivalled stock of marquee landmarks within a short walk of one another.",
+      "The leisure and activity layer is led by the LEGOLAND Windsor Resort, a family theme park with over 55 rides, shows and interactive experiences just outside the town, and by the 4,800-acre Windsor Great Park, open for picnics, cycling, horse riding and fishing around the Long Walk and Savill Garden. French Brothers run Thames boat trips and Victorian steam cruises from the riverside, and Royal Windsor Racecourse sits on its own island in the river just upstream.",
+      "Heritage and culture run through the Edwardian Theatre Royal Windsor between the castle and the river, the free museums at Eton College including the Natural History Museum, Museum of Eton Life and Museum of Antiquities, and the changing-of-the-guard ceremonies that draw crowds to the castle gates. The cobbled streets of the old town, Windsor Royal Station shopping arcade and a year-round royal events calendar keep a steady cultural draw in the centre.",
+      "The visitor trade leans on a deep hotel base from the riverside Sir Christopher Wren and Macdonald hotels to the trade around the castle, and a busy tour-operator and guide scene serving coach and day visitors. Windsor and Eton Central links London Paddington via Slough, Windsor and Eton Riverside runs direct from London Waterloo, and Heathrow Airport a short drive away feeds an international seasonal flow into the Royal Borough."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Windsor attraction or hotel group, a heritage site or a small independent activity centre in Slough"
+  },
+  "Pudsey": {
+    "region": "Pudsey and west Leeds",
+    "nearby": ["Leeds", "Bradford", "Horsforth"],
+    "s1_head": "Kitting the visitor economy of west Leeds",
+    "s1loc": [
+      "Pudsey sits on a hill between Leeds and Bradford, and its standout heritage draw is Fulneck, the Moravian settlement founded in 1744 above Pudsey Beck, with its Grade I-listed Fulneck Moravian Church, Georgian terraces, school and a heritage museum and tearoom overlooking the valley. The old textile town, birthplace of the cricketer Sir Leonard Hutton, gives visitors arriving on the Leeds-to-Bradford line a compact centre rich in mill-town and Nonconformist history.",
+      "The leisure and activity layer centres on Pudsey Park, one of the best-kept urban parks in West Yorkshire, with floral displays, a children's playground, a skate park and a small animal centre a short walk from the centre. The Pudsey Leisure Centre adds a swimming pool, sports halls and community classes, while the Owlcotes Centre with its Marks and Spencer and Asda superstore and the trails around the Pudsey Beck valley keep families active through the warmer season.",
+      "Heritage and culture run through the Fulneck settlement's links to the architect Benjamin Latrobe, who helped design the United States Capitol, and through the conservation streets and Victorian civic buildings of the old town. Pudsey's strong cricketing tradition and brass-band heritage, the local festivals and markets, and the nearby Tong Village conservation area anchor a cultural and events calendar across the ridge between the two cities.",
+      "The visitor trade leans on a roadside and town hotel base and a guide scene built around the Moravian settlement and the parks. Pudsey railway station links Leeds and Bradford, the A647 and the Leeds Ring Road put the centres of both cities within minutes, and the wider draw of Leeds, the Aire valley and the Bronte country at Haworth gives the area a steady seasonal and day-trip flow into west Leeds."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Pudsey attraction or hotel group, a heritage site or a small independent activity centre in Leeds"
+  },
+  "Bedworth": {
+    "region": "Bedworth and north Warwickshire",
+    "nearby": ["Nuneaton", "Coventry", "Rugby"],
+    "s1_head": "Kitting the visitor economy of north Warwickshire",
+    "s1loc": [
+      "Bedworth's marquee landmark is the Nicholas Chamberlaine Almshouses on All Saints' Square, a Tudor-style range of 1840 built on the legacy of the rector Nicholas Chamberlaine, who died in 1715 after 51 years serving the town. The old mining and ribbon-weaving town, set in north Warwickshire between Coventry and Nuneaton, holds one of the country's best-attended Armistice Day parades each November, drawing crowds into the centre around All Saints' Church.",
+      "The leisure and activity layer is led by the Miners' Welfare Park, dating from 1923 and judged the best public park of its type in 2000, with a rock-tower play area, water play, a skate park, formal gardens, wildflower meadows and kilometres of cycle and footpath linking to the Coventry Canal and the National Cycle Network. The park backs the Bedworth Leisure Centre and Bedworth United's ground, and the canal towpath carries walkers and cyclists into open countryside through the warmer season.",
+      "Heritage and culture run through the Civic Hall on the High Street, a long-standing entertainment venue for north Warwickshire, and the George Eliot connection of the surrounding Arbury estate, where the novelist was born at South Farm in 1819. The Jacobean Arbury Hall and its gardens, open on bank holiday weekends, and the heritage of the old colliery and weaving town anchor a cultural and events calendar across the Bedworth and Nuneaton area.",
+      "The visitor trade leans on a town and roadside hotel base and a guide scene built around the park, the canal and George Eliot country. Bedworth railway station links Coventry, Nuneaton and Leicester, the M6 and A444 put the wider region within easy reach, and the draw of the Coventry Building Society Arena, Coventry's cathedrals and the Warwickshire countryside feeds a steady seasonal day-trip flow into the town."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Bedworth attraction or hotel group, a heritage site or a small independent activity centre in Nuneaton"
+  },
+  "Rayleigh": {
+    "region": "Rayleigh and south east Essex",
+    "nearby": ["Basildon", "Wickford", "Southend-on-Sea"],
+    "s1_head": "Kitting the visitor economy of south east Essex",
+    "s1loc": [
+      "Rayleigh's marquee draws cluster at the top of its historic High Street, where the Rayleigh Windmill, a tower mill over 200 years old, has been restored into four storeys of museum displays and a popular wedding venue, and the medieval Holy Trinity Church carries a Norman chancel and a 15th-century bell tower built partly from stone taken from the old castle. The old market town gives visitors arriving from London a compact, character-rich centre in south east Essex.",
+      "The leisure and activity layer reaches into Rayleigh Mount, the National Trust site of a Domesday motte-and-bailey castle raised by Sweyn of Essex, whose summit gives sweeping views across the Crouch Valley. The nearby Hockley Woods, one of the largest remaining wild woods in the country, gives families and walkers ancient woodland trails on the edge of town, and the green spaces and recreation grounds around the centre carry activity through the warmer season.",
+      "Heritage and culture run through the Dutch Cottage on Crown Hill, a tiny octagonal Grade II-listed house thought to date from the 18th century and reputedly the smallest and oldest council house in the country, recalling the 17th-century Dutch sea-wall builders of the Essex coast. The Mill Hall events venue beside the windmill, the historic High Street and the town's markets and festivals anchor a cultural and events calendar across Rayleigh.",
+      "The visitor trade leans on a town and roadside hotel base and a guide scene built around the windmill, the mount and the woods. Rayleigh railway station links London Liverpool Street and Southend on the busy commuter line, the A127 and A130 put the wider south Essex region within easy reach, and the seaside draw of Southend-on-Sea, the Crouch estuary and the surrounding countryside feeds a steady seasonal day-trip flow into the town."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Rayleigh attraction or hotel group, a heritage site or a small independent activity centre in Basildon"
+  }
+}

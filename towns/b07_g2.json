@@ -1,0 +1,93 @@
+{
+  "Loughton": {
+    "region": "Loughton and the Epping Forest district of Essex",
+    "nearby": ["Ilford", "Walthamstow", "Romford"],
+    "s1_head": "Kitting the visitor economy on the edge of Epping Forest",
+    "s1loc": [
+      "Loughton sits on the southern edge of Epping Forest, the 2,400-hectare ancient woodland the City of London Corporation has kept open since the Epping Forest Act, and that forest is the town's marquee draw. The Epping Forest Visitor Centre at High Beach reads the wildlife and history of the woodland, while Loughton Camp, an Iron Age hill fort hidden in the trees, and the views from High Beach pull walkers off the Central line all year.",
+      "The leisure and activity layer runs across the forest and the green spaces around it, from horse riding, cycling and the boating on the forest ponds to Loughton Cricket Club and the playing fields off Roding Lane. Lopping Hall on the High Road, built by the City of London to compensate villagers for lost wood-lopping rights, now works as an arts and events venue, and the Roding Valley meadows give families a riverside picnic and wildlife spot.",
+      "Heritage and culture cluster around the conservation areas of Loughton, with the Grade II listed Loughton Hall, raised on land linked to Mary Tudor, and the elegant Lopping Hall anchoring the old centre. The National Jazz Archive, held at Loughton Library, keeps the country's fullest collection of jazz photographs, letters and recordings, and the nearby Epping Forest District Museum at Waltham Abbey tells the wider story of the forest fringe.",
+      "The visitor trade leans on a guesthouse and hotel base serving forest walkers and London commuters, with tour operators and riding schools working the woodland season. The Central line at Loughton, Debden and Theydon Bois carries day-trippers in minutes, the M11 and M25 ring the town, and the draw of Epping, the Lee Valley and the City keeps a steady flow of visitors moving through the district across the year."
+    ],
+    "kit_loc": "across the forest's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Loughton attraction or hotel group, a heritage site or a small independent activity centre in Ilford"
+  },
+  "Rutherglen": {
+    "region": "Rutherglen and South Lanarkshire",
+    "nearby": ["Glasgow", "East Kilbride", "Hamilton"],
+    "s1_head": "Kitting the visitor economy of the royal burgh of Rutherglen",
+    "s1loc": [
+      "Rutherglen, one of Scotland's oldest royal burghs, builds its visitor economy around the wide, tree-lined Main Street conservation area and the landmark Rutherglen Town Hall, a Victorian building of 1862 whose tower rises over the burgh. The 12th-century Rutherglen Old Parish Church, with its surviving Norman tower, and the historic Glasgow Road frontages give the town a heritage spine that draws day visitors out from neighbouring Glasgow across the year.",
+      "The leisure and activity layer spreads to the green high ground south of the burgh, led by Cathkin Braes Country Park, whose woodland trails, viewpoints over the Clyde and the 2014 Glasgow Commonwealth Games mountain-bike course pull walkers and riders. Overtoun Park, a Victorian park gifted by Baron Overtoun, offers gardens, a play area, a cafe and a cast-iron Diamond Jubilee fountain decorated with golden owls, while Cathkin Braes Golf Club and King George V Park hold their grounds on the southern edge of town.",
+      "Heritage and culture run through the protected Main Street, where old kirkyards, traditional pubs and public buildings sit beside the Town Hall's concert and exhibition programme. The burgh's market-town past, its salmon-fishing history on the River Clyde, the ruined Rutherglen Castle and the long story of Rutherglen as a royal burgh older than Glasgow feed a calendar of events and a distinct identity across South Lanarkshire and the Clyde valley.",
+      "The visitor trade works off a guesthouse base and a stream of day visitors arriving on the Argyle line from Glasgow Central into Rutherglen and Burnside stations in minutes. The M74 and the Clyde walkways put East Kilbride, Hamilton and the wider Clyde valley within an easy trip, and the pull of Glasgow Green, Hampden Park and the city's attractions just to the north keeps a seasonal flow of visitors moving through the burgh and its parks."
+    ],
+    "kit_loc": "across the burgh's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Rutherglen attraction or hotel group, a heritage site or a small independent activity centre in Glasgow"
+  },
+  "Epsom": {
+    "region": "Epsom and the Surrey Downs",
+    "nearby": ["Sutton", "Kingston upon Thames", "Croydon"],
+    "s1_head": "Kitting the visitor economy of the Surrey Downs",
+    "s1loc": [
+      "Epsom's visitor economy turns on Epsom Downs Racecourse, the open chalk down where the Derby has been run since the 1780s alongside the Oaks and the Coronation Cup, drawing huge crowds each summer to the Surrey Downs. The Downs themselves, with their walking, riding and views back to London, and the town's history as a Georgian spa that gave the world Epsom Salts, give the place a marquee identity well beyond its size.",
+      "The leisure and activity layer reaches across the green belt to Nonsuch Park, laid out on the site of Henry VIII's lost Nonsuch Palace and shared with neighbouring Cheam, where Nonsuch Mansion and its gardens anchor family days out. Horton Country Park and Epsom Common offer woodland and meadow trails, the Hogsmill river gives a quiet waterside walk, and the racecourse gallops keep the wider Downs busy through the warmer season.",
+      "Heritage and culture centre on Bourne Hall in Ewell, a Grade II listed Georgian mansion now holding a museum, gallery and library that tells the story of Epsom and Ewell. The clock tower and Georgian frontages of the High Street, the spa-town story behind Epsom Salts, St Martin's parish church, and the Epsom Playhouse theatre with its concerts and shows keep a cultural calendar turning beside the modern Ashley Centre shopping quarter.",
+      "The visitor trade leans on a hotel and guesthouse base swelled by Derby week, with tour operators and racing parties pouring in for the Investec Derby and Oaks meetings. Epsom, Ewell East and Epsom Downs stations carry visitors out from Waterloo, Victoria and London Bridge, the M25 rings the town, and the draw of the Downs, Box Hill, Chessington and the wider Surrey countryside keeps a steady seasonal flow of day-trippers moving through the area."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Epsom attraction or hotel group, a heritage site or a small independent activity centre in Sutton"
+  },
+  "Staines": {
+    "region": "Staines-upon-Thames and the Surrey Thames valley",
+    "nearby": ["Feltham", "Windsor", "Walton-on-Thames"],
+    "s1_head": "Kitting the visitor economy of the Thames-side town of Staines",
+    "s1loc": [
+      "Staines-upon-Thames builds its visitor economy along the River Thames, where the riverside walks, the moorings and the historic Staines Bridge draw visitors to the water's edge. Truss's Island, a small riverside park with a slipway and the old London Stone marking the City's jurisdiction over the Thames, anchors the waterfront, and the Thames Path National Trail threads through the town toward Laleham one way and Runnymede the other across the season.",
+      "The leisure and activity layer centres on Lammas Recreation Ground, a riverside park with play areas, a skatepark, free tennis courts, mini-golf, boat hire, a cafe and a summer splash park, plus the open green of the Memorial Gardens. Boat trips and rowing on the Thames, the riverside pubs and the Vue cinema at the Two Rivers retail park keep families and visitors busy through the warmer months.",
+      "Heritage and culture run through Spelthorne Museum, now housed in the Staines Library Hub, which tells the local story from the Ice Age through a Roman shop and a Victorian kitchen to the present day. The 18th-century Staines Bridge, the historic High Street with its market-town frontages and the parish church give the town a heritage spine beside the modern Elmsleigh shopping centre.",
+      "The visitor trade leans on a riverside hotel and guesthouse base and a guide scene built around the Thames and nearby Runnymede, where King John sealed the Magna Carta in 1215 below the JFK and Magna Carta memorials. Staines station runs fast trains to Waterloo, the M25 and M3 ring the town and Heathrow sits minutes away, bringing day-trippers and stopover visitors through across the year."
+    ],
+    "kit_loc": "across the town's attractions, parks and riverside sites",
+    "s2_intro": "Whether you are a major Staines attraction or hotel group, a heritage site or a small independent activity centre in Feltham"
+  },
+  "Chichester": {
+    "region": "Chichester and West Sussex",
+    "nearby": ["Bognor Regis", "Havant", "Littlehampton"],
+    "s1_head": "Kitting the visitor economy of West Sussex",
+    "s1loc": [
+      "Chichester runs a busy West Sussex visitor economy around Chichester Cathedral, the only medieval English cathedral visible from the sea, whose Marc Chagall window, John Piper tapestry and Roman mosaics draw visitors year-round. The Roman street plan of the old city, the Market Cross at its heart and Fishbourne Roman Palace just to the west, with Britain's largest Roman house and its Cupid on a Dolphin mosaic, give the cathedral city a marquee draw far beyond its size.",
+      "The leisure and activity layer spreads out to Chichester Harbour, an Area of Outstanding Natural Beauty where sailing, paddleboarding and birdwatching run from Itchenor, Bosham and Dell Quay across the season. The Goodwood Estate to the north pulls crowds to the Festival of Speed and Revival on the Motor Circuit and to Qatar Goodwood Festival racing, while the beaches of West Wittering, East Wittering and Bracklesham Bay draw families to the coast in summer.",
+      "Heritage and culture run deep through Pallant House Gallery, rated second only to Tate for modern British art, the Chichester Festival Theatre with its acclaimed seasons, and the Novium Museum built over a Roman bathhouse. The Georgian Pallants quarter, the city walls, Weald and Downland Living Museum at nearby Singleton and a full festival calendar keep a cultural programme turning through the year.",
+      "The visitor trade leans on a deep hotel and guesthouse base across the city and harbour villages and a wide tour-operator and guide scene working the cathedral, Goodwood and the South Downs National Park. Chichester station links London Victoria and the south-coast line, the A27 carries day-trippers along the coast, and the seasonal pull of the harbour, the Witterings and Goodwood keeps visitors flowing through across the year."
+    ],
+    "kit_loc": "across the city's attractions, harbour and visitor sites",
+    "s2_intro": "Whether you are a major Chichester attraction or hotel group, a heritage site or a small independent activity centre in Bognor Regis"
+  },
+  "Deal": {
+    "region": "Deal and the East Kent coast",
+    "nearby": ["Dover", "Ramsgate", "Canterbury"],
+    "s1_head": "Kitting the visitor economy of the East Kent coast",
+    "s1loc": [
+      "Deal anchors a stretch of the East Kent coast around Deal Castle, the rose-shaped Tudor artillery fort Henry VIII raised in 1539 with its central keep and six bastions, and the neighbouring Walmer Castle, official residence of the Lord Warden of the Cinque Ports with its gardens. Deal Pier, the last fully intact leisure pier in Kent, reaches 300 metres out over the Channel from the shingle seafront, giving the town its marquee coastal draw.",
+      "The leisure and activity layer runs along the open shingle beach and promenade, with sea fishing from the pier and shore, sailing and the wide walks south to Walmer, Kingsdown and St Margaret's Bay. The Walmer Castle gardens with their Broadwalk and Kitchen Garden, the seafront bandstand and Victoria Park behind the front give families and day visitors space across the season, while the South Foreland Lighthouse and the White Cliffs lie within easy reach for coastal walkers.",
+      "Heritage and culture cluster in the Middle Street Conservation Area, Kent's first conservation area, a winding street of Georgian townhouses, old sea captains' homes and smugglers' alleys parallel to the front. The Timeball Tower Museum, whose ball dropped at one o'clock to set ships' chronometers, the Deal Maritime and Local History Museum with its smuggler galleys and lifeboats, and the historic Royal Marines barracks story keep the town's seafaring past alive.",
+      "The visitor trade leans on a seafront hotel, inn and guesthouse base and a guide scene built around Deal Castle, Walmer Castle, the pier and the coast. Deal station runs the line to London via the Kent coast through Dover and Sandwich, the wider Cinque Ports and the cathedral city of Canterbury sit within an easy day trip, and the seaside draw keeps a strong seasonal flow of visitors through the town and along the Kent coast."
+    ],
+    "kit_loc": "across the coast's attractions, beaches and visitor sites",
+    "s2_intro": "Whether you are a major Deal attraction or hotel group, a heritage site or a small independent activity centre in Dover"
+  },
+  "Sevenoaks": {
+    "region": "Sevenoaks and the Kent Weald",
+    "nearby": ["Tonbridge", "Tunbridge Wells", "Orpington"],
+    "s1_head": "Kitting the visitor economy of west Kent",
+    "s1loc": [
+      "Sevenoaks builds its visitor economy around Knole, one of England's greatest houses, set in Kent's last medieval deer park where 1,000 acres of woodland and parkland support a herd of sika and fallow deer descended from Tudor times. The National Trust calls Knole a calendar house, and its showrooms, gatehouse tower and surrounding park draw visitors out from London all year, giving this Weald town a marquee draw well above its size.",
+      "The leisure and activity layer reaches to Riverhill Himalayan Gardens, the historic hillside garden of the Rogers family with its bluebell woods, rhododendrons and views across the Weald, and to Sevenoaks Wildlife Reserve, a pioneering Kent Wildlife Trust site of five lakes, woodland and the Jeffery Harrison Visitor Centre on the River Darent. Knole Park's walks and golf, Emmetts Garden at Ide Hill and the open countryside of the Kent Downs and Greensand Ridge keep walkers and families busy across the season.",
+      "Heritage and culture run through the Vine Cricket Ground, one of the oldest in England, in use since 1734 and the first place cricket was played with three stumps, given to the town by the Duke of Dorset. The Stag Theatre and cinema, the historic High Street with its Tudor and Georgian frontages, and the seven oaks planted on the Vine keep a cultural and events calendar turning in the heart of the town.",
+      "The visitor trade leans on a hotel and inn base serving Knole visitors and London weekenders, with tour operators and guides working the great house and the Kent Downs. Sevenoaks station runs fast trains to London Bridge and Charing Cross, the M25 and M26 ring the town, and the pull of Knole, the Weald gardens and nearby Tonbridge and Tunbridge Wells keeps a steady seasonal flow of visitors through the area."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Sevenoaks attraction or hotel group, a heritage site or a small independent activity centre in Tonbridge"
+  }
+}
