@@ -108,6 +108,8 @@ def main():
                 errs.append("bare '&' in copy (write 'and')")
             own = names.get(ks, key)
             scan = re.sub(r"\b" + re.escape(own) + r"\b", " ", blob, flags=re.I)
+            for nm in nb:  # nearby towns are legitimate CSV names; exempt them too
+                scan = re.sub(r"\b" + re.escape(nm) + r"\b", " ", scan, flags=re.I)
             hit = [t for t in V.BLEED if re.search(r"\b" + re.escape(t) + r"\b", scan, re.I)]
             if hit:
                 errs.append(f"BLEED term(s) in copy: {hit[:4]}")

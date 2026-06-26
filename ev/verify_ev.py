@@ -143,9 +143,12 @@ def check_file(path, towns, seen_desc, seen_title):
             fails.append("9. delivery timescale claim found")
             break
 
-    # own-town exemption: a page may carry its OWN town name even if it equals a
-    # bleed term (e.g. a 'Wellington' page vs the 'wellington' bleed word).
+    # own-town + nearby exemption: a page may carry its OWN town name or any of its
+    # (always-legitimate CSV) nearby town names even if one equals a bleed term
+    # (e.g. the town 'Wellington' as a neighbour vs the 'wellington' bleed word).
     scan = re.sub(r"\b" + re.escape(town) + r"\b", " ", txt, flags=re.I) if town else txt
+    for nm in re.findall(r'festivals workwear in ([^<]+)</a>', txt, re.I):
+        scan = re.sub(r"\b" + re.escape(nm.strip()) + r"\b", " ", scan, flags=re.I)
     hit = [term for term in BLEED if re.search(r"\b" + re.escape(term) + r"\b", scan, re.I)]
     if hit:
         fails.append(f"10. banned/bleed term(s) found (incl. security/cleaning/sports/care bleed): {hit[:4]}")
