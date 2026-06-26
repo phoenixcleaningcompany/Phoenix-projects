@@ -1,7 +1,11 @@
 {
   "sandbach": {
     "region": "Sandbach and Cheshire",
-    "nearby": ["Crewe", "Congleton", "Northwich"],
+    "nearby": [
+      "Crewe",
+      "Congleton",
+      "Northwich"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Sandbach, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Sandbach",
     "s1loc": [
@@ -14,7 +18,11 @@
   },
   "normanton": {
     "region": "Normanton and West Yorkshire",
-    "nearby": ["Castleford", "Pontefract", "Featherstone"],
+    "nearby": [
+      "Castleford",
+      "Pontefract",
+      "Featherstone"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Normanton, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of the Five Towns",
     "s1loc": [
@@ -27,7 +35,11 @@
   },
   "stanley": {
     "region": "Stanley and County Durham",
-    "nearby": ["Chester-le-Street", "Consett", "Washington"],
+    "nearby": [
+      "Chester-le-Street",
+      "Consett",
+      "Washington"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Stanley, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of north-west Durham",
     "s1loc": [
@@ -40,7 +52,11 @@
   },
   "cottingham": {
     "region": "Cottingham and East Yorkshire",
-    "nearby": ["Hull", "Beverley", "Hessle"],
+    "nearby": [
+      "Hull",
+      "Beverley",
+      "Hessle"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Cottingham, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Cottingham",
     "s1loc": [
@@ -53,7 +69,11 @@
   },
   "ossett": {
     "region": "Ossett and West Yorkshire",
-    "nearby": ["Dewsbury", "Batley", "Mirfield"],
+    "nearby": [
+      "Dewsbury",
+      "Batley",
+      "Mirfield"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Ossett, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Ossett",
     "s1loc": [
@@ -66,7 +86,11 @@
   },
   "maltby": {
     "region": "Maltby and South Yorkshire",
-    "nearby": ["Rotherham", "Doncaster", "Worksop"],
+    "nearby": [
+      "Rotherham",
+      "Doncaster",
+      "Worksop"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Maltby, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Maltby",
     "s1loc": [
@@ -79,13 +103,17 @@
   },
   "ripon": {
     "region": "Ripon and North Yorkshire",
-    "nearby": ["Harrogate", "Knaresborough", "Northallerton"],
+    "nearby": [
+      "Harrogate",
+      "Knaresborough",
+      "Northallerton"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Ripon, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of the cathedral city",
     "s1loc": [
       "Ripon stages its calendar around the early English Gothic Ripon Cathedral and the Market Square, where the Hornblower still sets the watch at nine each night in a thousand-year-old tradition. Each July the Ripon Theatre Festival spreads drama, street theatre, circus and dance across the Arts Hub, Allhallowgate Methodist Church, the Workhouse Museum and the cathedral itself. Ripon Racecourse adds sixteen meetings with Ladies Day and the Twilight Tracks music evening through the season.",
       "And the trade runs at every size here. Major venues, festival operators and production companies across the Harrogate district field large seasonal crews and buy through procurement, while independent event crews, promoters and entertainers around Ripon and the wider city want just a few branded pieces. A workwear supplier has to serve the big festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side.",
-      "The deeper trade sits with the people who build the shows. Staging and marquee firms, PA and lighting hire crews, stewarding teams and fairground operators work the racecourse and the festival sites through the season, the street-theatre and circus acts run their own dates, and the cathedral hosts concerts year-round. From a market-square performance to a race-day music evening, the same crews across Harrogate, Knaresborough and Northallerton want branded, hard-wearing kit they can reorder."
+      "The deeper trade sits with the people who build the shows. Staging and marquee firms, PA and lighting hire crews, stewarding teams and fairground operators work the racecourse and the festival sites through the season, the street-theatre and circus acts run their own dates, and the cathedral hosts concerts year-round. From a market-square performance to a race-day music evening, the same crews across Harrogate, Knaresborough and Northallerton want branded, hard-wearing kit they can reorder. Ripon's Spa Gardens and the riverside, the Workhouse and Prison museums and the city's markets host heritage and outdoor events, and the catchment from Harrogate and Boroughbridge across to the Dales keeps crews and front-of-house teams busy through the season."
     ],
     "kit_loc": "across the city's venues, festivals and events",
     "s2_intro": "Whether you are a major Ripon venue or festival, a production company or a small independent event crew around the Market Square"
