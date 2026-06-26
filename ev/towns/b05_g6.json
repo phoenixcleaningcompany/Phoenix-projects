@@ -1,0 +1,93 @@
+{
+  "dover": {
+    "region": "Dover and Kent",
+    "nearby": ["Folkestone", "Deal", "Canterbury"],
+    "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Dover, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
+    "s1_head": "Kitting the events trade of the Dover coast",
+    "s1loc": [
+      "Dover anchors east Kent's events trade. The restored Maison Dieu, Dover Town Hall, runs its Connaught Hall as a concert and show space, while English Heritage stages open-air events within the walls of Dover Castle on the heights above the white cliffs. Dover Pride brings a march and free entertainment from Market Square through to the Maison Dieu, and the Dover Winter Lantern Festival parades hand-made lanterns and a homegrown samba band through the town centre.",
+      "The trade here works at two scales. The Maison Dieu, the castle operators and the festival and lantern-parade organisers field large seasonal crews, ordering through procurement for stewards, riggers and front-of-house teams, while independent promoters, samba drummers and small production crews want only a handful of branded pieces. A workwear supplier on the Dover coast has to clothe the castle event and the single crew alike, so trade accounts and direct online ordering sit side by side.",
+      "Seasonality shapes the demand. Dover's outdoor calendar concentrates in the warmer months, from the harbour and marina events down on the front to the festival weekends in town, then the Winter Lantern Festival pulls volunteers and crew back out into the December cold. Crews swing from hi-vis polos and caps in summer to fleeces and waterproofs by winter, which is why operators here build a managed seasonal intake rather than a single fixed order."
+    ],
+    "kit_loc": "across the town's venues, festivals and events",
+    "s2_intro": "Whether you are a major Dover venue or festival, a production company or a small independent event crew on the Kent coast"
+  },
+  "morecambe": {
+    "region": "Morecambe and Lancashire",
+    "nearby": ["Lancaster", "Preston", "Kendal"],
+    "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Morecambe, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
+    "s1_head": "Kitting the events trade of the Lancashire bay",
+    "s1loc": [
+      "Morecambe carries a real heritage events scene. The Victorian Winter Gardens, once host to the Who and the Rolling Stones, is being brought back as a working theatre, while the Platform, set in a restored Edwardian railway station on the promenade, runs touring acts, comedy and community shows. The Eric Morecambe statue marks the front, the town council stages its Morecambe Kite Festival along the promenade, and More Music drives a grassroots programme out of the West End.",
+      "The events trade runs at every size across the bay. The Platform, the Winter Gardens trust and the kite-festival and promenade-event organisers run large seasonal crews and buy through procurement, while independent promoters, brass bands and small production teams need just a few branded pieces. A supplier here serves the big promenade festival and the single crew alike, which is why we run trade accounts for managed reorders and direct online ordering for one-off orders together.",
+      "Volunteers are central to how Morecambe's events run. The Winter Gardens Preservation Trust leans on volunteer crews, More Music builds its festivals with community helpers, and the kite days on the promenade draw in workshop leaders and stewards. That mix calls for kit that reads clearly as crew on a busy promenade, so hi-vis polos, fleeces and waterproofs embroidered with the venue or festival name help marshals and helpers stand out across the wide Lancashire seafront."
+    ],
+    "kit_loc": "across the town's venues, festivals and events",
+    "s2_intro": "Whether you are a major Morecambe venue or festival, a production company or a small independent event crew on the Lancashire bay"
+  },
+  "trowbridge": {
+    "region": "Trowbridge and Wiltshire",
+    "nearby": ["Chippenham", "Bath", "Frome"],
+    "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Trowbridge, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
+    "s1_head": "Kitting the events trade of west Wiltshire",
+    "s1loc": [
+      "Trowbridge is west Wiltshire's events town. The Civic Hall, a modern purpose-built venue in the heart of the county town, runs music gigs, comedy and theatre with seating up to several hundred, and the Pump carries the live-music room tradition. The long-running Village Pump Festival grew from a barn at the Lamb Inn into a folk and roots weekend at Stowford Manor Farm, while the Trowbridge Festival pitches its main stages out at Greenhill Fields and across Trowbridge Park.",
+      "Two sizes of buyer define the trade here. The Civic Hall, the Village Pump and Trowbridge Festival operators and their production companies field large seasonal crews, buying through procurement for stewards, stage hands and gate teams, while independent promoters, folk acts and small crews want only a few branded pieces. A workwear supplier in west Wiltshire has to clothe the field festival and the single crew alike, so trade accounts and direct online ordering run side by side.",
+      "Field events drive a distinct kind of demand. The festivals out at Stowford Manor Farm and Greenhill Fields run on camping, parking and open ground, where crews work long shifts through changeable Wiltshire weather and need to be visible across a wide site. That pushes operators toward layered kit, from hi-vis polos and caps in the sun to fleeces and waterproofs when the rain comes in, all embroidered with the festival name so marshals read as crew at a glance."
+    ],
+    "kit_loc": "across the town's venues, festivals and events",
+    "s2_intro": "Whether you are a major Trowbridge venue or festival, a production company or a small independent event crew in west Wiltshire"
+  },
+  "barnstaple": {
+    "region": "Barnstaple and North Devon",
+    "nearby": ["Bideford", "Exeter", "Newton Abbot"],
+    "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Barnstaple, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
+    "s1_head": "Kitting the events trade of North Devon",
+    "s1loc": [
+      "Barnstaple is North Devon's events hub. The Queen's Theatre has been at the heart of the town's entertainment for over 150 years, running touring productions, concerts, pantomime and comedy, while the Grade II listed Pannier Market hosts the Connect and Create festivals through the year, from Springfest to Artsfest. The Barnstaple Fringe TheatreFest fills the Queen's Theatre, the Pannier Market, the library and the museum each summer, and the historic Barnstaple Fair brings its centuries-old charter days to the town.",
+      "The trade here splits into two scales. The Queen's Theatre, North Devon Council and the festival and TheatreFest organisers run large seasonal crews and buy through procurement for stewards, stage hands and front-of-house teams, while independent promoters, fringe companies and small crews want only a handful of branded pieces. A supplier in North Devon has to serve the big Pannier Market festival and the single fringe crew alike, so trade accounts and direct online ordering sit side by side.",
+      "The Pannier Market gives Barnstaple an unusual indoor-outdoor rhythm. Connect and Create turns the Victorian market hall into a packed creative space, then TheatreFest spills performance out across alternative venues and the streets around the Square, so crews move between heritage rooms and open ground in a single day. That calls for kit that works in both, with embroidered polos and caps for the hall and fleeces and waterproofs for the outdoor sets and the Fair on the cobbles."
+    ],
+    "kit_loc": "across the town's venues, festivals and events",
+    "s2_intro": "Whether you are a major Barnstaple venue or festival, a production company or a small independent event crew in North Devon"
+  },
+  "sidcup": {
+    "region": "Sidcup and the London Borough of Bexley",
+    "nearby": ["Eltham", "Orpington", "Erith"],
+    "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Sidcup, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
+    "s1_head": "Kitting the events trade of Bexley",
+    "s1loc": [
+      "Sidcup sits in south-east London's Bexley events scene. Sidcup Musical Productions stages shows at the Bob Hope Theatre over in nearby Eltham, the Sidcup Symphony Orchestra plays the town's halls, and the Rob Knox Film Festival has become a fixture in memory of a local young actor. Out across the borough the parks carry the big crowds, with Park Rock at Danson Park in Bexleyheath and the Lesnes Abbey festival drawing event crews from Sidcup and the wider Bexley area.",
+      "The trade runs at two sizes here. The borough's festival operators, park-event organisers and production companies field large seasonal crews and buy through procurement for stewards, riggers and front-of-house teams, while independent promoters, am-dram societies and small crews want only a few branded pieces. A workwear supplier in Bexley has to clothe the Danson Park festival and the single Sidcup crew alike, which is why we run trade accounts and direct online ordering side by side.",
+      "Sidcup's strength is its community-rooted events. Orchestras, musical societies and a film festival built around local memory run largely on dedicated volunteers and small organising teams, who still want to look the part on a busy event night. Branded polos, caps and fleeces embroidered with the production or festival name mark out helpers, stewards and stage crews clearly, whether in a town-centre hall or out on the grass at one of the borough's bigger park events."
+    ],
+    "kit_loc": "across the town's venues, festivals and events",
+    "s2_intro": "Whether you are a major Sidcup venue or festival, a production company or a small independent event crew in Bexley"
+  },
+  "hyde": {
+    "region": "Hyde and Tameside",
+    "nearby": ["Denton", "Stalybridge", "Ashton-under-Lyne"],
+    "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Hyde, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
+    "s1_head": "Kitting the events trade of Tameside",
+    "s1loc": [
+      "Hyde anchors a busy corner of the Tameside events scene. Hyde Town Hall, in the centre of town, runs its suites and the Festival Hall for shows, concerts and functions, and Hyde Festival Theatre has been a community cornerstone since 1952, hosting amateur productions, musicals, pantomime and touring acts. Out across the borough the big outdoor days run too, with Tameside Rocks bringing its family music festival to Hyde and the wider council programme using halls from Ashton-under-Lyne to Stalybridge.",
+      "The trade runs at every size across Tameside. The town hall operators, the council events team and the festival organisers field large seasonal crews and buy through procurement for stewards, stage hands and front-of-house teams, while Hyde Festival Theatre, independent promoters and small crews want just a few branded pieces. A supplier here has to serve the big borough festival and the single community crew alike, so trade accounts and direct online ordering sit side by side.",
+      "Hyde's events lean heavily on community and grassroots crews. A theatre run for and by the town since the 1950s, dance schools, amateur societies and family festival days all depend on volunteers and small organising teams who still need to read as crew on the night. Embroidered polos, caps and fleeces carrying the venue or production name mark out stewards and stage helpers clearly, whether inside Hyde Town Hall or out on the green at a Tameside festival."
+    ],
+    "kit_loc": "across the town's venues, festivals and events",
+    "s2_intro": "Whether you are a major Hyde venue or festival, a production company or a small independent event crew in Tameside"
+  },
+  "billingham": {
+    "region": "Billingham and Teesside",
+    "nearby": ["Stockton-on-Tees", "Middlesbrough", "Hartlepool"],
+    "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Billingham, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
+    "s1_head": "Kitting the events trade of Teesside",
+    "s1loc": [
+      "Billingham punches above its weight on the Teesside events map. The Forum Theatre, part of the landmark Billingham Forum complex opened in 1967, runs touring shows, concerts and pantomime, and is the gala home of the Billingham International Folklore Festival of World Dance, which has drawn companies from around the world since 1965. The festival parade marches from The Green to John Whitehead Park, where outdoor concerts run through the week, and the Billingham Show fills the same park.",
+      "The trade runs at two scales across Teesside. The Forum Theatre, the International Folklore Festival operators and the show and park-event organisers field large seasonal crews and buy through procurement for stewards, stage hands and front-of-house teams, while independent promoters, dance troupes and small crews want only a handful of branded pieces. A supplier here has to clothe the John Whitehead Park festival and the single crew alike, so trade accounts and direct online ordering run side by side.",
+      "The Folklore Festival gives Billingham a strong international, volunteer-driven character. Dance companies from across the world parade in national costume, hosted and stewarded by local helpers and organising teams who keep the week running across town and park. That calls for kit that marks crew clearly through long outdoor concert days at John Whitehead Park, so hi-vis polos, caps, fleeces and waterproofs embroidered with the festival or venue name keep stewards and stage teams visible across the Teesside summer."
+    ],
+    "kit_loc": "across the town's venues, festivals and events",
+    "s2_intro": "Whether you are a major Billingham venue or festival, a production company or a small independent event crew on Teesside"
+  }
+}
