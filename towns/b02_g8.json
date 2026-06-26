@@ -1,79 +1,108 @@
 {
-  "maidstone": {
-    "region": "Maidstone and Kent",
-    "nearby": ["Chatham", "Rochester", "Sittingbourne"],
-    "s1_head": "Charity and volunteer kit across Maidstone",
-    "s1loc": [
-      "Maidstone's emergency food runs through the Maidstone Family Food Bank and the borough's network of community pantries and food hubs, while FareShare Kent moves surplus food from the trade out to local groups. Heart of Kent Hospice cares for people across mid-Kent and raises money through around fourteen charity shops from Maidstone out to West Malling, Staplehurst and Headcorn, and Involve Kent helps match volunteers to projects. The big food-redistribution and foodbank networks and dozens of tiny volunteer-run groups all draw helpers from across the county town.",
-      "The sector here runs at every size. National and regional charities keep shops and central buying alongside hospice and air-ambulance fundraising, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Tovil, Shepway and Park Wood. We are set up to serve the national charity with shops on the high street and the one-room foodbank alike, with trade accounts for the big buyers and direct online ordering, no minimum, for the smallest group."
-    ],
-    "kit_loc": "across the town's shops, foodbanks and community events",
-    "s2_intro": "Whether you are a national charity with shops across Maidstone, a FareShare Kent-supplied community group or a small volunteer-run foodbank in Chatham"
-  },
-  "basingstoke": {
-    "region": "Basingstoke and Hampshire",
-    "nearby": ["Andover", "Newbury", "Fleet"],
-    "s1_head": "Charity and volunteer kit across Basingstoke",
-    "s1loc": [
-      "Basingstoke's emergency food runs through Basingstoke Foodbank, part of the Trussell network and run from One Church Basingstoke, serving people across the Basingstoke and Tadley area. St Michael's Hospice supports people across North Hampshire and raises money through a chain of around thirteen charity shops from Chineham and Kempshott to South Ham, Hook and Tadley. The big food-redistribution and foodbank networks, community pantries and many small volunteer-run projects all draw helpers from across the town, with referrals coming through Citizens Advice and partner agencies.",
-      "The sector here runs at every size. National and regional charities keep shops and central buying alongside hospice fundraising, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Chineham, Brighton Hill and Popley. We are set up to serve the national charity with shops on the high street and the one-room foodbank alike, with trade accounts for the big buyers and direct online ordering, no minimum, for the smallest group."
-    ],
-    "kit_loc": "across the town's shops, foodbanks and community events",
-    "s2_intro": "Whether you are a national charity with shops across Basingstoke, a FareShare-supplied community group or a small volunteer-run foodbank in Andover"
-  },
-  "crawley": {
-    "region": "Crawley and West Sussex",
-    "nearby": ["Horsham", "Redhill", "Horley"],
-    "s1_head": "Charity and volunteer kit across Crawley",
-    "s1loc": [
-      "Crawley's emergency food runs through local Trussell foodbanks and community projects, with Crawley Community Church running a personal shopping service for older and vulnerable people and the Bewbush Children and Family Centre helping families with food and essentials. UKHarvest runs pantries across West Sussex where people fill a bag of rescued food for a small donation, and the big food-redistribution and foodbank networks move surplus out to community groups. Dozens of small volunteer-run projects and charity shops draw helpers from across the new town.",
-      "The sector here runs at every size. National and regional charities keep shops and central buying alongside hospice and air-ambulance fundraising, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Bewbush, Broadfield, Tilgate and Langley Green. We are set up to serve the national charity with shops on the high street and the one-room foodbank alike, with trade accounts for the big buyers and direct online ordering, no minimum, for the smallest group."
-    ],
-    "kit_loc": "across the town's shops, foodbanks and community events",
-    "s2_intro": "Whether you are a national charity with shops across Crawley, a FareShare-supplied community group or a small volunteer-run foodbank in Horley"
-  },
-  "chelmsford": {
-    "region": "Chelmsford and Essex",
-    "nearby": ["Colchester", "Basildon", "Brentwood"],
-    "s1_head": "Charity and volunteer kit across Chelmsford",
-    "s1loc": [
-      "Chelmsford's emergency food runs through Chelmsford Foodbank, a Trussell foodbank giving out emergency parcels since 2012 with around a hundred referring agencies and a Refresh support hub run with Citizens Advice at North Avenue Christian Centre. Essex Community Foundation channels grants to grassroots groups, and FareShare moves surplus food from the trade to community projects. The big food-redistribution and foodbank networks, community pantries and many small volunteer-run projects all draw helpers from across the city, alongside hospice and air-ambulance charity shops.",
-      "The sector here runs at every size. National and regional charities keep shops and central buying alongside hospice fundraising, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Springfield, Moulsham and Melbourne. We are set up to serve the national charity with shops on the high street and the one-room foodbank alike, with trade accounts for the big buyers and direct online ordering, no minimum, for the smallest group."
-    ],
-    "kit_loc": "across the town's shops, foodbanks and community events",
-    "s2_intro": "Whether you are a national charity with shops across Chelmsford, a FareShare-supplied community group or a small volunteer-run foodbank in Brentwood"
-  },
-  "preston": {
-    "region": "Preston and Lancashire",
-    "nearby": ["Fulwood", "Leyland", "Chorley"],
-    "s1_head": "Charity and volunteer kit across Preston",
-    "s1loc": [
-      "Preston's emergency food runs through local foodbanks and community shops, with FareShare Lancashire and Cumbria based at Redscar Business Park moving surplus food out to more than 150 groups, from social supermarkets and foodbanks to breakfast clubs and shelters. St Catherine's Hospice cares for people across Preston, Chorley and South Ribble and raises money through around eighteen charity shops. The big food-redistribution and foodbank networks and many small volunteer-run projects draw helpers from across the Lancashire city.",
-      "The sector here runs at every size. National and regional charities keep shops and central buying alongside hospice and air-ambulance fundraising, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Ribbleton, Ashton and Deepdale. We are set up to serve the national charity with shops on the high street and the one-room foodbank alike, with trade accounts for the big buyers and direct online ordering, no minimum, for the smallest group."
-    ],
-    "kit_loc": "across the town's shops, foodbanks and community events",
-    "s2_intro": "Whether you are a national charity with shops across Preston, a FareShare Lancashire and Cumbria-supplied community group or a small volunteer-run foodbank in Fulwood"
-  },
-  "walthamstow": {
-    "region": "Walthamstow and the London Borough of Waltham Forest",
-    "s1_head": "Charity and volunteer kit across Walthamstow",
-    "nearby": ["Enfield", "Ilford", "Romford"],
-    "s1loc": [
-      "Walthamstow's emergency food runs through Eat or Heat, a foodbank at Quaker House on Jewel Road giving out days of emergency food so people need not choose between eating and heating, alongside PL84U Al-Suffa, an interfaith project serving hot meals, a food bank and a clothes bank since 2012. The Rukhsana Khan Foundation at William Morris Community Centre and the Lighthouse Project at St Mary's Leyton add more provision, and the big food-redistribution and foodbank networks supply community hubs across the borough.",
-      "The sector here runs at every size. National and regional charities keep shops and central buying alongside hospice and air-ambulance fundraising, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Higham Hill, Leyton and Chingford. We are set up to serve the national charity with shops on the high street and the one-room foodbank alike, with trade accounts for the big buyers and direct online ordering, no minimum, for the smallest group."
-    ],
-    "kit_loc": "across the town's shops, foodbanks and community events",
-    "s2_intro": "Whether you are a national charity with shops across Walthamstow, a FareShare-supplied community group or a small volunteer-run foodbank in Ilford"
-  },
-  "basildon": {
-    "region": "Basildon and Essex",
-    "nearby": ["Wickford", "Rayleigh", "Billericay"],
-    "s1_head": "Charity and volunteer kit across Basildon",
-    "s1loc": [
-      "Basildon's emergency food runs through Basildon Foodbank, a Trussell foodbank run by community volunteers and partner churches from centres at The Gore and the Crown Community Centre in Pitsea. The Community Supermarket Basildon opens at Vange Trinity Methodist Church and Laindon Community Centre, and Essex Community Foundation channels grants to grassroots groups. The big food-redistribution and foodbank networks and many small volunteer-run projects draw helpers from across the town, alongside hospice and air-ambulance charity shops.",
-      "The sector here runs at every size. National and regional charities keep shops and central buying alongside hospice fundraising, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Pitsea, Laindon and Vange. We are set up to serve the national charity with shops on the high street and the one-room foodbank alike, with trade accounts for the big buyers and direct online ordering, no minimum, for the smallest group."
-    ],
-    "kit_loc": "across the town's shops, foodbanks and community events",
-    "s2_intro": "Whether you are a national charity with shops across Basildon, a FareShare-supplied community group or a small volunteer-run foodbank in Wickford"
-  }
+ "maidstone": {
+  "region": "Maidstone and Kent",
+  "nearby": [
+   "Chatham",
+   "Rochester",
+   "Sittingbourne"
+  ],
+  "s1_head": "Charity and volunteer kit across Maidstone",
+  "s1loc": [
+   "Maidstone's emergency food runs through the Maidstone Family Food Bank and the borough's network of community pantries and food hubs, while FareShare Kent moves surplus food from the trade out to local groups. Heart of Kent Hospice cares for people across mid-Kent and raises money through around fourteen charity shops from Maidstone out to West Malling, Staplehurst and Headcorn, and Involve Kent helps match volunteers to projects. The big food-redistribution and foodbank networks and dozens of tiny volunteer-run groups all draw helpers from across the county town.",
+   "The sector here runs at every size. National and regional charities keep shops and central buying alongside hospice and air-ambulance fundraising, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Tovil, Shepway and Park Wood. We are set up to serve the national charity with shops on the high street and the one-room foodbank alike, with trade accounts for the big buyers and direct online ordering, no minimum, for the smallest group."
+  ],
+  "kit_loc": "across the town's shops, foodbanks and community events",
+  "s2_intro": "Whether you are a national charity with shops across Maidstone, a FareShare Kent-supplied community group or a small volunteer-run foodbank in Chatham"
+ },
+ "basingstoke": {
+  "region": "Basingstoke and Hampshire",
+  "nearby": [
+   "Andover",
+   "Newbury",
+   "Fleet"
+  ],
+  "s1_head": "Charity and volunteer kit across Basingstoke",
+  "s1loc": [
+   "Basingstoke's emergency food runs through Basingstoke Foodbank, part of the Trussell network and run from One Church Basingstoke, serving people across the Basingstoke and Tadley area. St Michael's Hospice supports people across North Hampshire and raises money through a chain of around thirteen charity shops from Chineham and Kempshott to South Ham, Hook and Tadley. The big food-redistribution and foodbank networks, community pantries and many small volunteer-run projects all draw helpers from across the town, with referrals coming through Citizens Advice and partner agencies.",
+   "The sector here runs at every size. National and regional charities keep shops and central buying alongside hospice fundraising, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Chineham, Brighton Hill and Popley. We are set up to serve the national charity with shops on the high street and the one-room foodbank alike, with trade accounts for the big buyers and direct online ordering, no minimum, for the smallest group."
+  ],
+  "kit_loc": "across the town's shops, foodbanks and community events",
+  "s2_intro": "Whether you are a national charity with shops across Basingstoke, a FareShare-supplied community group or a small volunteer-run foodbank in Andover"
+ },
+ "crawley": {
+  "region": "Crawley and West Sussex",
+  "nearby": [
+   "Horsham",
+   "Redhill",
+   "Horley"
+  ],
+  "s1_head": "Charity and volunteer kit across Crawley",
+  "s1loc": [
+   "Crawley's emergency food runs through local Trussell foodbanks and community projects, with Crawley Community Church running a personal shopping service for older and vulnerable people and the Bewbush Children and Family Centre helping families with food and essentials. UKHarvest runs pantries across West Sussex where people fill a bag of rescued food for a small donation, and the big food-redistribution and foodbank networks move surplus out to community groups. Dozens of small volunteer-run projects and charity shops draw helpers from across the new town.",
+   "The sector here runs at every size. National and regional charities keep shops and central buying alongside hospice and air-ambulance fundraising, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Bewbush, Broadfield, Tilgate and Langley Green. We are set up to serve the national charity with shops on the high street and the one-room foodbank alike, with trade accounts for the big buyers and direct online ordering, no minimum, for the smallest group."
+  ],
+  "kit_loc": "across the town's shops, foodbanks and community events",
+  "s2_intro": "Whether you are a national charity with shops across Crawley, a FareShare-supplied community group or a small volunteer-run foodbank in Horley"
+ },
+ "chelmsford": {
+  "region": "Chelmsford and Essex",
+  "nearby": [
+   "Colchester",
+   "Basildon",
+   "Brentwood"
+  ],
+  "s1_head": "Charity and volunteer kit across Chelmsford",
+  "s1loc": [
+   "Chelmsford's emergency food runs through Chelmsford Foodbank, a Trussell foodbank giving out emergency parcels since 2012 with around a hundred referring agencies and a Refresh support hub run with Citizens Advice at North Avenue Christian Centre. Essex Community Foundation channels grants to grassroots groups, and FareShare moves surplus food from the trade to community projects. The big food-redistribution and foodbank networks, community pantries and many small volunteer-run projects all draw helpers from across the city, alongside hospice and air-ambulance charity shops.",
+   "The sector here runs at every size. National and regional charities keep shops and central buying alongside hospice fundraising, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Springfield, Moulsham and Melbourne. We are set up to serve the national charity with shops on the high street and the one-room foodbank alike, with trade accounts for the big buyers and direct online ordering, no minimum, for the smallest group.",
+   "Chelmsford's voluntary sector is anchored by Chelmsford Foodbank in the Trussell network and CHESS, the Christian Homeless Essex Support Scheme, which runs a night shelter and day support, while Sanctus helps homeless and vulnerable people in the city centre. Essex Community Foundation channels grants to grassroots groups across the county, and FoodCycle moves surplus food to community tables in Springfield, Moulsham and Melbourne, all kept going by local volunteers."
+  ],
+  "kit_loc": "across the town's shops, foodbanks and community events",
+  "s2_intro": "Whether you are a national charity with shops across Chelmsford, a FareShare-supplied community group or a small volunteer-run foodbank in Brentwood"
+ },
+ "preston": {
+  "region": "Preston and Lancashire",
+  "nearby": [
+   "Fulwood",
+   "Leyland",
+   "Chorley"
+  ],
+  "s1_head": "Charity and volunteer kit across Preston",
+  "s1loc": [
+   "Preston's emergency food runs through local foodbanks and community shops, with FareShare Lancashire and Cumbria based at Redscar Business Park moving surplus food out to more than 150 groups, from social supermarkets and foodbanks to breakfast clubs and shelters. St Catherine's Hospice cares for people across Preston, Chorley and South Ribble and raises money through around eighteen charity shops. The big food-redistribution and foodbank networks and many small volunteer-run projects draw helpers from across the Lancashire city.",
+   "The sector here runs at every size. National and regional charities keep shops and central buying alongside hospice and air-ambulance fundraising, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Ribbleton, Ashton and Deepdale. We are set up to serve the national charity with shops on the high street and the one-room foodbank alike, with trade accounts for the big buyers and direct online ordering, no minimum, for the smallest group."
+  ],
+  "kit_loc": "across the town's shops, foodbanks and community events",
+  "s2_intro": "Whether you are a national charity with shops across Preston, a FareShare Lancashire and Cumbria-supplied community group or a small volunteer-run foodbank in Fulwood"
+ },
+ "walthamstow": {
+  "region": "Walthamstow and the London Borough of Waltham Forest",
+  "s1_head": "Charity and volunteer kit across Walthamstow",
+  "nearby": [
+   "Enfield",
+   "Ilford",
+   "Romford"
+  ],
+  "s1loc": [
+   "Walthamstow's emergency food runs through Eat or Heat, a foodbank at Quaker House on Jewel Road giving out days of emergency food so people need not choose between eating and heating, alongside PL84U Al-Suffa, an interfaith project serving hot meals, a food bank and a clothes bank since 2012. The Rukhsana Khan Foundation at William Morris Community Centre and the Lighthouse Project at St Mary's Leyton add more provision, and the big food-redistribution and foodbank networks supply community hubs across the borough.",
+   "The sector here runs at every size. National and regional charities keep shops and central buying alongside hospice and air-ambulance fundraising, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Higham Hill, Leyton and Chingford. We are set up to serve the national charity with shops on the high street and the one-room foodbank alike, with trade accounts for the big buyers and direct online ordering, no minimum, for the smallest group."
+  ],
+  "kit_loc": "across the town's shops, foodbanks and community events",
+  "s2_intro": "Whether you are a national charity with shops across Walthamstow, a FareShare-supplied community group or a small volunteer-run foodbank in Ilford"
+ },
+ "basildon": {
+  "region": "Basildon and Essex",
+  "nearby": [
+   "Wickford",
+   "Rayleigh",
+   "Billericay"
+  ],
+  "s1_head": "Charity and volunteer kit across Basildon",
+  "s1loc": [
+   "Basildon's emergency food runs through Basildon Foodbank, a Trussell foodbank run by community volunteers and partner churches from centres at The Gore and the Crown Community Centre in Pitsea. The Community Supermarket Basildon opens at Vange Trinity Methodist Church and Laindon Community Centre, and Essex Community Foundation channels grants to grassroots groups. The big food-redistribution and foodbank networks and many small volunteer-run projects draw helpers from across the town, alongside hospice and air-ambulance charity shops.",
+   "The sector here runs at every size. National and regional charities keep shops and central buying alongside hospice fundraising, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Pitsea, Laindon and Vange. We are set up to serve the national charity with shops on the high street and the one-room foodbank alike, with trade accounts for the big buyers and direct online ordering, no minimum, for the smallest group."
+  ],
+  "kit_loc": "across the town's shops, foodbanks and community events",
+  "s2_intro": "Whether you are a national charity with shops across Basildon, a FareShare-supplied community group or a small volunteer-run foodbank in Wickford"
+ }
 }

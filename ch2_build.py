@@ -178,6 +178,47 @@ ACC_P4_POOL=[
  'Open a trade account for a charity at <a href="https://www.ineedworkwear.com">iNeedWorkwear.com</a>, or as a small group order direct online with no account at <a href="https://www.ineedworkwear.com">iNeedWorkwear</a>.',
  'Set up a charity trade account at <a href="https://www.ineedworkwear.com">iNeedWorkwear.com</a>, or as a volunteer group order direct online with no account at <a href="https://www.ineedworkwear.com">iNeedWorkwear</a>.',
 ]
+# --- pool widening (4 -> 6 variants) for cross-page spread; link counts preserved
+EMB_P1_POOL += [
+ "For a charity, the look of its volunteers is part of how the public, donors and the people being helped place their trust. A clean, branded polo or hi-vis carrying the charity name signals at any {t} foodbank, collection, shop or community event who is official and who to turn to, so a willing volunteer becomes a recognisable, reassuring presence the moment they arrive.",
+ "How volunteers present themselves is part of how a {t} charity is trusted by the public, donors and the people it serves. A tidy branded polo or hi-vis with the charity name shows at a glance, at a foodbank, a collection, a shop or an event, who is part of the team and who to approach, turning a willing volunteer into a recognisable and reassuring face.",
+]
+EMB_P2_POOL += [
+ "Branding happens in-house: your charity name and logo are embroidered onto polos, hi-vis, fleeces and aprons and finished to take constant washing. We keep your artwork on file so every reorder and new volunteer lines up, and whether you are a single {t} community group or a national charity with shops nationwide, the look holds steady everywhere the name shows.",
+ "We embroider in-house, putting your charity name and logo onto polos, hi-vis, fleeces and aprons and finishing them for heavy laundering. Your artwork stays on file, so each reorder and every new volunteer matches, and a lone {t} community group or a national charity with branches across the country looks the same wherever its name appears.",
+]
+EMB_P3_POOL += [
+ "And with volunteer teams forever changing, that steadiness is what keeps a charity looking organised. We keep your branding and sizes on file, so kitting a new volunteer, opening another shop or covering a one-off event comes back the same branded look each time, with no artwork to resend and nothing paid over the odds.",
+ "And because the volunteer roster never stops turning over, that steadiness is what keeps a charity looking organised. With your branding and sizes held on file, a new volunteer, a new shop or a single event reproduces the same branded look every time, without re-sending artwork and without paying more than you need to.",
+]
+CON_P1_POOL += [
+ "Charity and volunteer workwear really has just one job, and a tight budget to do it on: recognition. A branded polo, hi-vis or fleece carrying the charity name makes a {t} volunteer instantly official to the public, to donors and to the people they are there to help, which builds trust and supports safeguarding at a foodbank, a collection, a shop or a community event. Everyone needs to see at a glance who belongs to the team.",
+ "Charity and volunteer workwear comes down to one job done on a tight budget, and that job is recognition. A branded polo, hi-vis or fleece with the charity name makes a {t} volunteer official at a glance to the public, donors and the people they help, building trust and supporting safeguarding at a foodbank, collection, shop or community event, so it is clear straight away who is part of the team.",
+]
+CON_P2_POOL += [
+ "Budget is what shapes the rest. Because every pound spent on kit is a pound taken from the cause, the workwear has to stay affordable: a tight, practical range of branded basics ordered in any quantity with no minimum, not a costly uniform scheme. Polos and hi-vis carry most of the load, with fleeces, waterproofs and aprons added as the weather and the role require.",
+ "Everything else is shaped by the budget. Since every pound on kit is a pound away from the cause, the workwear must be affordable: a narrow, practical set of branded basics ordered in whatever number is needed with no minimum, rather than an expensive uniform programme. Polos and hi-vis do the bulk of the work, with fleeces, waterproofs and aprons added as weather and role demand.",
+]
+CON_P3_POOL += [
+ 'The value is a single affordable supplier covering the entire volunteer look, branded alike, for the {t} national charity and the local group together. We keep your charity name, logo and sizes on file and supply the kit as one, so kitting a new volunteer or opening a new shop returns the same branded look every time. Browse the range at <a href="https://www.ineedworkwear.com">iNeedWorkwear.com</a>.',
+ 'The value is one affordable supplier handling the whole volunteer look, branded the same way, for both the {t} national charity and the local group. We hold your charity name, logo and sizes on file and send the kit together, so a new volunteer or a new shop comes back the same branded look each time. Browse the range at <a href="https://www.ineedworkwear.com">iNeedWorkwear.com</a>.',
+]
+ACC_P1_POOL += [
+ "The charity sector divides into two kinds of buyer, and we have built ordering for each. For a national charity with shops, branches and fundraising teams, a trade account is the sensible route: managed reordering, agreed pricing and a held kit list with your branding and sizes on file, so kitting a new volunteer, opening a shop or rolling out across branches stays consistent for a {t} charity. Send your numbers, logo and sizes and we will build the branded kit list and hold it.",
+ "Buyers in the charity sector fall into two camps, and ordering is built for both. For a national {t} charity running shops, branches and fundraising teams, a trade account is the practical choice, bringing managed reordering, agreed pricing and a held kit list with your branding and sizes on file, so a new volunteer, a new shop or a branch roll-out stays consistent. Send your numbers, logo and sizes and we build and hold the branded kit list.",
+]
+ACC_P2_POOL += [
+ "For a small local foodbank, community group or volunteer project, direct online ordering is the fastest route and needs no account, with no minimum: browse, choose your polos, hi-vis, fleeces or aprons, set your sizes, upload your logo once and check out. Order a few pieces or a hundred, dispatched on standard lead times with embroidery in-house, and your logo stays on file so the next order matches.",
+ "A small local foodbank, community group or volunteer project gets going fastest direct online, with no account and no minimum: browse, pick your polos, hi-vis, fleeces or aprons, choose sizes, send your logo once and check out. Whether it is a handful of pieces or a hundred, the kit ships on standard lead times with in-house embroidery, and your logo is kept on file so the next order lines up.",
+]
+ACC_P3_POOL += [
+ "Both routes are branded in-house by the same supplier and both stay affordable, so whether you are kitting a national charity or a single {t} foodbank, the workwear stays consistent, recognisable and gentle on the budget. Most large charities keep the trade account central and steer their branches and groups to direct online, and everyone ends up matching.",
+ "Both routes come branded in-house from one supplier and both are kept affordable, so whether the order is for a national charity or a lone {t} foodbank, the kit stays consistent, recognisable and easy on the budget. Most big charities run the trade account centrally and send local branches and groups to direct online, so everyone matches in the end.",
+]
+ACC_P4_POOL += [
+ 'For a charity, open a trade account at <a href="https://www.ineedworkwear.com">iNeedWorkwear.com</a>; for a small volunteer group, order direct online with no account at <a href="https://www.ineedworkwear.com">iNeedWorkwear</a>.',
+ 'Start a charity trade account at <a href="https://www.ineedworkwear.com">iNeedWorkwear.com</a>, or as a small group order direct online with no account at <a href="https://www.ineedworkwear.com">iNeedWorkwear</a>.',
+]
 WHY_P1_POOL=[
  "A charity or volunteer group in {t} whose people turn out in clean, branded polos, hi-vis and fleeces looks organised, official and trustworthy to the public, donors and the people it helps, and iNeedWorkwear supplies that whole look from a single place, branded in-house and kept affordable, on a trade account for the national charity or direct online with no minimum for the local group, so the cause is well represented without overspending.",
  "A {t} charity or volunteer group whose people wear clean, branded polos, hi-vis and fleeces looks organised, official and trustworthy to the public, donors and the people it helps, and iNeedWorkwear supplies that whole look from one place, branded in-house and kept affordable, on a trade account for the national charity or direct online with no minimum for the local group, so the cause is well represented without overspending.",
