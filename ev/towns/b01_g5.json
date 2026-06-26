@@ -1,0 +1,86 @@
+{
+  "dundee": {
+    "region": "Dundee and Tayside",
+    "nearby": ["Perth", "Arbroath", "Dunfermline"],
+    "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Dundee, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
+    "s1_head": "Kitting the events trade of Tayside",
+    "s1loc": [
+      "Dundee anchors live entertainment on the Tay. The imposing Caird Hall fills City Square for orchestral nights and big tours, the open-air Slessor Gardens stages outdoor concerts on the waterfront beside the V and A, Dundee Rep runs as the home of the city's repertory and dance companies, and Fat Sam's has rocked three floors of the city centre since the 1980s, drawing touring acts, rising local bands and packed DJ sets to South Ward Road.",
+      "And the trade runs at every size here. Major venues, festival operators and production companies run large seasonal crews and buy through procurement, while independent event crews, promoters and entertainers around the waterfront and the wider Tayside scene need just a few branded pieces. A workwear supplier here has to serve the big concert and the single crew alike, which is why we run trade accounts and direct online ordering side by side."
+    ],
+    "kit_loc": "across the city's venues, festivals and events",
+    "s2_intro": "Whether you are a major Dundee venue or festival, a production company or a small independent event crew on the waterfront"
+  },
+  "cambridge": {
+    "region": "Cambridge and Cambridgeshire",
+    "nearby": ["Peterborough", "Bedford", "Bishop's Stortford"],
+    "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Cambridge, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
+    "s1_head": "Kitting the events trade of Cambridgeshire",
+    "s1loc": [
+      "Cambridge carries a busy live calendar. The Corn Exchange on Wheeler Street is the city's biggest room for music and comedy, Cambridge Junction off Hills Road anchors the grassroots gigs, club nights and new bands, and the long-running Cambridge Folk Festival fills Cherry Hinton Hall each summer with names from across the folk and roots world, while Strawberry Fair takes over Midsummer Common as a free day of stages, sound systems and street performers.",
+      "And the trade runs at every size here. Major venues, festival operators and production companies run large seasonal crews and buy through procurement, while independent event crews, promoters and entertainers around the Mill Road quarter and the wider county need just a few branded pieces. A workwear supplier here has to serve the big festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side."
+    ],
+    "kit_loc": "across the city's venues, festivals and events",
+    "s2_intro": "Whether you are a major Cambridge venue or festival, a production company or a small independent event crew around Mill Road"
+  },
+  "york": {
+    "region": "York and North Yorkshire",
+    "nearby": ["Harrogate", "Selby", "Knaresborough"],
+    "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across York, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
+    "s1_head": "Kitting the events trade of North Yorkshire",
+    "s1loc": [
+      "York packs a lot of live entertainment inside its city walls. York Barbican is the city's largest room, pulling international touring concerts, comedy and family shows just south of the walls, while the Grand Opera House has hosted touring plays, musicals and music since 1902. The historic streets fill out with festivals too, from the York International Shakespeare Festival staging events across the city to the seasonal programmes that run through the Museum Gardens and the Minster precincts.",
+      "And the trade runs at every size here. Major venues, festival operators and production companies run large seasonal crews and buy through procurement, while independent event crews, promoters and entertainers around the city centre and the wider county need just a few branded pieces. A workwear supplier here has to serve the big concert and the single crew alike, which is why we run trade accounts and direct online ordering side by side."
+    ],
+    "kit_loc": "across the city's venues, festivals and events",
+    "s2_intro": "Whether you are a major York venue or festival, a production company or a small independent event crew inside the city walls"
+  },
+  "blackpool": {
+    "region": "Blackpool and the Fylde coast",
+    "nearby": ["Fleetwood", "Thornton Cleveleys", "Lytham St Annes"],
+    "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Blackpool, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
+    "s1_head": "Kitting the events trade of the Fylde coast",
+    "s1loc": [
+      "Blackpool runs one of the busiest live calendars on the coast. The Winter Gardens complex holds twelve spaces in the town centre, the grand Empress Ballroom inside it stages concerts, dance championships and the World Matchplay darts, and the Tower Ballroom draws orchestral nights and big shows to its famous sprung floor. Just along the Fylde coast, Lytham Festival fills Lytham Green beside Lytham Windmill each summer with headline tours and a closing night of orchestral proms.",
+      "And the trade runs at every size here. Major venues, festival operators and production companies run large seasonal crews and buy through procurement, while independent event crews, promoters and entertainers along the Promenade and the wider Fylde coast need just a few branded pieces. A workwear supplier here has to serve the big festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side."
+    ],
+    "kit_loc": "across the city's venues, festivals and events",
+    "s2_intro": "Whether you are a major Blackpool venue or festival, a production company or a small independent event crew along the Promenade"
+  },
+  "ipswich": {
+    "region": "Ipswich and Suffolk",
+    "nearby": ["Colchester", "Chelmsford", "Norwich"],
+    "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Ipswich, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
+    "s1_head": "Kitting the events trade of Suffolk",
+    "s1loc": [
+      "Ipswich carries East Anglia's biggest auditorium. The Grade II listed Regent Theatre has been the jewel in the town's crown since 1929, seating over 1,500 for touring music, comedy and West End shows, while the Corn Exchange in the heart of town flips between seated performances and standing gigs from indie to jazz. Out in the open air, Ipswich Music Day fills Christchurch Park each summer with a full day of stages showcasing local and touring acts across the genres.",
+      "And the trade runs at every size here. Major venues, festival operators and production companies run large seasonal crews and buy through procurement, while independent event crews, promoters and entertainers around the Waterfront and the wider county need just a few branded pieces. A workwear supplier here has to serve the big festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side."
+    ],
+    "kit_loc": "across the city's venues, festivals and events",
+    "s2_intro": "Whether you are a major Ipswich venue or festival, a production company or a small independent event crew around the Waterfront"
+  },
+  "middlesbrough": {
+    "region": "Middlesbrough and Teesside",
+    "nearby": ["Stockton-on-Tees", "Redcar", "Thornaby-on-Tees"],
+    "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Middlesbrough, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
+    "s1_head": "Kitting the events trade of Teesside",
+    "s1loc": [
+      "Middlesbrough drives live entertainment on Teesside. The Grade II listed Middlesbrough Town Hall hosts concerts across the genres in its Victorian main hall and the intimate Crypt below, the Riverside Stadium opens up for large outdoor concerts beside the Tees, and just across the river the restored Globe in Stockton-on-Tees pulls big touring names to its art-deco auditorium, anchoring a busy gig calendar that runs right through the wider Teesside scene.",
+      "And the trade runs at every size here. Major venues, festival operators and production companies run large seasonal crews and buy through procurement, while independent event crews, promoters and entertainers around the town centre and the wider Tees Valley need just a few branded pieces. A workwear supplier here has to serve the big concert and the single crew alike, which is why we run trade accounts and direct online ordering side by side."
+    ],
+    "kit_loc": "across the city's venues, festivals and events",
+    "s2_intro": "Whether you are a major Middlesbrough venue or festival, a production company or a small independent event crew across Teesside"
+  },
+  "gloucester": {
+    "region": "Gloucester and Gloucestershire",
+    "nearby": ["Cheltenham", "Worcester", "Swindon"],
+    "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Gloucester, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
+    "s1_head": "Kitting the events trade of Gloucestershire",
+    "s1loc": [
+      "Gloucester runs a live calendar built around its historic core. The Grade II listed Gloucester Guildhall on Eastgate Street carries the city's mix of live music, comedy and film, the Kings Theatre stages performances and concerts, and the world-renowned Three Choirs Festival fills the soaring acoustics of Gloucester Cathedral when the rotation lands in the city, drawing singers, composers and orchestras for a week of large-scale choral concerts across the cathedral and the city's historic churches.",
+      "And the trade runs at every size here. Major venues, festival operators and production companies run large seasonal crews and buy through procurement, while independent event crews, promoters and entertainers around the Docks and the wider county need just a few branded pieces. A workwear supplier here has to serve the big festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side."
+    ],
+    "kit_loc": "across the city's venues, festivals and events",
+    "s2_intro": "Whether you are a major Gloucester venue or festival, a production company or a small independent event crew around the Docks"
+  }
+}

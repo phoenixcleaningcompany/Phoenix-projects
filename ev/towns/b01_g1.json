@@ -1,0 +1,86 @@
+{
+  "hull": {
+    "region": "Hull and the East Riding of Yorkshire",
+    "nearby": ["Beverley", "Grimsby", "Goole"],
+    "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Hull, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
+    "s1_head": "Kitting the events trade of the Humber",
+    "s1loc": [
+      "Hull carries a live scene that earned it UK City of Culture in 2017. The city-centre Connexin Live, formerly the Bonus Arena, handles the big touring shows, Hull New Theatre and Hull City Hall cover the grand concerts and seated runs, and grassroots rooms like The Welly and the Polar Bear keep the gig calendar full, while the Freedom Festival takes over Trinity Square, Zebedees Yard and the marina across the city centre each late summer.",
+      "And the trade runs at every size along the Humber. The arena, Hull New Theatre, festival operators and production companies field big crews and large seasonal teams and buy through procurement, while independent event crews, promoters and entertainers from the Old Town and Fruit Market outward want just a few branded pieces. A workwear supplier here has to serve the big festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side."
+    ],
+    "kit_loc": "across the city's venues, festivals and events",
+    "s2_intro": "Whether you are a major Hull venue or festival, a production company or a small independent event crew in the Fruit Market"
+  },
+  "derby": {
+    "region": "Derby and Derbyshire",
+    "nearby": ["Nottingham", "Ilkeston", "Belper"],
+    "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Derby, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
+    "s1_head": "Kitting the events trade of Derbyshire",
+    "s1loc": [
+      "Derby packs a busy live scene into a compact city. Derby Arena hosts the big touring concerts and tribute shows, Derby Theatre anchors the seated runs, and rooms like The Venue, The Flowerpot and the Hairy Dog carry the grassroots gig calendar, while open-air events fill the summer at Darley Park, where the Darley Park Weekender runs, and the nearby Elvaston Castle Country Park hosts large outdoor music weekends beyond the city edge.",
+      "And the trade runs at every size across Derbyshire. The arena, Derby Theatre, festival operators and production companies field big crews and large seasonal teams and buy through procurement, while independent event crews, promoters and entertainers around the Cathedral Quarter and the city centre want just a few branded pieces. A workwear supplier here has to serve the big festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side."
+    ],
+    "kit_loc": "across the city's venues, festivals and events",
+    "s2_intro": "Whether you are a major Derby venue or festival, a production company or a small independent event crew in the Cathedral Quarter"
+  },
+  "southampton": {
+    "region": "Southampton and Hampshire",
+    "nearby": ["Eastleigh", "Portsmouth", "Totton"],
+    "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Southampton, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
+    "s1_head": "Kitting the events trade of the South coast",
+    "s1loc": [
+      "Southampton runs a serious live scene from its Guildhall Square cultural quarter. The O2 Guildhall is the south's largest multipurpose venue, the Grade II listed Mayflower Theatre carries the West End touring runs, and the Stage Door and Mayflower Studios cover the smaller bills, while Southampton Common fills the summer with open-air concerts, hosting Let's Rock Southampton and, in the years the Bestival team ran it, the Common People festival across the parkland north of the city centre.",
+      "And the trade runs at every size across Hampshire. The Guildhall, the Mayflower, festival operators and production companies field big crews and large seasonal teams and buy through procurement, while independent event crews, promoters and entertainers around the Cultural Quarter and Old Town want just a few branded pieces. A workwear supplier here has to serve the big festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side."
+    ],
+    "kit_loc": "across the city's venues, festivals and events",
+    "s2_intro": "Whether you are a major Southampton venue or festival, a production company or a small independent event crew around Guildhall Square"
+  },
+  "stoke-on-trent": {
+    "region": "Stoke-on-Trent and North Staffordshire",
+    "nearby": ["Newcastle-under-Lyme", "Kidsgrove", "Stafford"],
+    "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Stoke-on-Trent, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
+    "s1_head": "Kitting the events trade of the Potteries",
+    "s1loc": [
+      "Stoke-on-Trent centres its live scene on the Cultural Quarter in Hanley. The Art Deco Regent Theatre carries the West End touring runs, the glass-roofed Victoria Hall handles the grand concerts and comedy bills, and the Sugarmill, which has hosted Coldplay, Muse and Kasabian on the way up, keeps the grassroots gig calendar full, while Trentham Live fills the summer with large open-air concerts on the lawns of the Trentham Estate south of the city.",
+      "And the trade runs at every size across the Potteries. The theatres, festival operators and production companies field big crews and large seasonal teams and buy through procurement, while independent event crews, promoters and entertainers around Hanley and the wider city want just a few branded pieces. A workwear supplier here has to serve the big festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side."
+    ],
+    "kit_loc": "across the city's venues, festivals and events",
+    "s2_intro": "Whether you are a major Stoke-on-Trent venue or festival, a production company or a small independent event crew around Hanley"
+  },
+  "wolverhampton": {
+    "region": "Wolverhampton and the Black Country",
+    "nearby": ["Walsall", "Dudley", "Bilston"],
+    "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Wolverhampton, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
+    "s1_head": "Kitting the events trade of the Black Country",
+    "s1loc": [
+      "Wolverhampton holds a heavyweight live scene for its size. The Halls Wolverhampton pairs the 3,400-capacity Civic Hall with the Wulfrun Hall for big touring shows, the Grand Theatre carries the West End runs, and grassroots rooms like the Slade Rooms, KK's Steel Mill and The Robin 2 in nearby Bilston keep the gig calendar full, drawing crowds from across the Black Country to a city that gave the world Slade.",
+      "And the trade runs at every size across the Black Country. The Halls, the Grand, festival operators and production companies field big crews and large seasonal teams and buy through procurement, while independent event crews, promoters and entertainers around the city centre and out to Bilston want just a few branded pieces. A workwear supplier here has to serve the big show and the single crew alike, which is why we run trade accounts and direct online ordering side by side."
+    ],
+    "kit_loc": "across the city's venues, festivals and events",
+    "s2_intro": "Whether you are a major Wolverhampton venue or festival, a production company or a small independent event crew out in Bilston"
+  },
+  "swansea": {
+    "region": "Swansea and south west Wales",
+    "nearby": ["Neath", "Llanelli", "Port Talbot"],
+    "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Swansea, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
+    "s1_head": "Kitting the events trade of Swansea Bay",
+    "s1loc": [
+      "Swansea has stepped up its live scene with a flagship arena. The waterfront Swansea Arena hosts the biggest touring names, the Grand Theatre has entertained audiences for over 120 years with West End runs and pantomime, and the Brangwyn Hall, prized for its acoustics, holds the grand concerts and orchestras, while Singleton Park fills the summer with large open-air concerts that soundtrack the warmer months across Swansea Bay.",
+      "And the trade runs at every size around Swansea Bay. The arena, the Grand, festival operators and production companies field big crews and large seasonal teams and buy through procurement, while independent event crews, promoters and entertainers from the Maritime Quarter and Uplands want just a few branded pieces. A workwear supplier here has to serve the big festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side."
+    ],
+    "kit_loc": "across the city's venues, festivals and events",
+    "s2_intro": "Whether you are a major Swansea venue or festival, a production company or a small independent event crew in the Maritime Quarter"
+  },
+  "milton keynes": {
+    "region": "Milton Keynes and Buckinghamshire",
+    "nearby": ["Bedford", "Luton", "Aylesbury"],
+    "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Milton Keynes, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
+    "s1_head": "Kitting the events trade of Milton Keynes",
+    "s1loc": [
+      "Milton Keynes punches above its weight for live events. Stadium MK and the adjoining Arena MK host the big indoor concerts and the largest seated and standing crowds in the region, Milton Keynes Theatre carries the West End touring runs and ballet, and the open-air National Bowl, long known as the MK Bowl, fills the summer with rock and pop shows and festivals for crowds that have reached tens of thousands on the former clay-pit amphitheatre.",
+      "And the trade runs at every size across Buckinghamshire. Stadium MK, the theatre, festival operators and production companies field big crews and large seasonal teams and buy through procurement, while independent event crews, promoters and entertainers around Central Milton Keynes and the wider city want just a few branded pieces. A workwear supplier here has to serve the big festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side."
+    ],
+    "kit_loc": "across the city's venues, festivals and events",
+    "s2_intro": "Whether you are a major Milton Keynes venue or festival, a production company or a small independent event crew in Central Milton Keynes"
+  }
+}
