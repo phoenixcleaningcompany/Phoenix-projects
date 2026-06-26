@@ -1,0 +1,86 @@
+{
+  "oldham": {
+    "region": "Oldham and Greater Manchester",
+    "nearby": ["Rochdale", "Ashton-under-Lyne", "Middleton"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Oldham, embroidered in-house to brand guidelines. Oldham sits inside the Greater Manchester economy with a base of over 6,000 businesses spanning professional services, digital and advanced manufacturing, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Oldham professional services and its business base",
+    "s1loc": [
+      "Oldham anchors a borough of more than 6,000 businesses, with financial and professional services sitting alongside digital, creative and advanced manufacturing. Solicitors such as Pearson Solicitors run commercial teams from Hollinwood Business Centre on Albert Street, and accountancy and legal advisers cluster around the town centre and the Broadway corridor. The borough also carries a long technology lineage, from the Ferranti engineering name once based at Hollinwood to electronics and components firms operating across the area today.",
+      "Oldham Council and partners back a professional-services workforce trained partly through Oldham College, which delivers financial and legal qualifications feeding local practices. These are people who work in suits day to day but reach for branded kit when the brand has to travel: away days into central Manchester, conferences, exhibitions, client and site visits, and sponsored community events. Office managers, procurement leads and brand managers place the orders, and they care that every polo, softshell and fleece matches the firm exactly."
+    ],
+    "kit_loc": "across the town centre and the Hollinwood and Broadway business corridor",
+    "s2_intro": "Whether you are an Oldham accountancy, a commercial law firm, a financial adviser, a consultancy or a technology company"
+  },
+  "wigan": {
+    "region": "Wigan and Greater Manchester",
+    "nearby": ["Leigh", "Hindley", "Ashton-in-Makerfield"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Wigan, embroidered in-house to brand guidelines. Wigan combines a regenerating town centre with major employment land at Martland Park and the Wigan Investment Centre inside the Greater Manchester economy, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Wigan's business district and professional firms",
+    "s1loc": [
+      "Wigan's professional base spreads from the regenerating town centre to Martland Park, the borough's largest employment area, and the Wigan Investment Centre on Waterside Drive. Stephensons Solicitors, an award-winning top-150 law firm, is headquartered in Wigan with hundreds of staff, while accountancies, financial advisers and consultancies fill town-centre offices and serviced space. The borough also hosts substantial manufacturing and logistics names such as Heinz, giving local advisers a steady book of corporate and commercial clients.",
+      "A professional-services workforce sits alongside the Wrightington, Wigan and Leigh NHS Foundation Trust and Wigan Council as the borough's largest employers, with many people drawn from across Leigh, Hindley and Ashton-in-Makerfield. They wear suits in the office but step into branded kit for away days, conferences, exhibitions, client visits and sponsored community events. The orders come from office managers, procurement teams and brand managers who insist that every polo, softshell and fleece carries the firm's exact logo and colours."
+    ],
+    "kit_loc": "across the town centre, Martland Park and the Wigan Investment Centre",
+    "s2_intro": "Whether you are a Wigan law firm, an accountancy, a financial adviser, a consultancy or a technology company"
+  },
+  "sutton coldfield": {
+    "region": "Sutton Coldfield and the West Midlands",
+    "nearby": ["Birmingham", "Tamworth", "Walsall"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Sutton Coldfield, embroidered in-house to brand guidelines. Professional services now form the single largest sector in the town centre, ahead of retail for the first time, inside the wider West Midlands economy, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Sutton Coldfield's professional-services town centre",
+    "s1loc": [
+      "Sutton Coldfield has shifted to a service-led town centre, with professional services now the largest single sector around the The Parade, Newhall Walk and Mulberry Walk. Solicitors, accountants, financial advisers, insurance firms, IT and recruitment specialists fill offices and serviced workspace, with established names such as Eddowes Perry and Osbourne and HCB Solicitors among the legal practices. Sitting on the northern edge of Birmingham, the town also draws professionals who commute into the wider West Midlands corporate market.",
+      "The town supports a substantial professional workforce alongside Sutton Coldfield Hospital, local schools and Birmingham City Council services, with strong links into Tamworth, Walsall and central Birmingham. These advisers and consultants work in suits, then move into branded kit for away days, conferences, exhibitions, client visits and sponsored community events. Procurement leads, office managers and brand managers place the orders and check carefully that every polo, softshell and fleece matches the firm's brand exactly."
+    ],
+    "kit_loc": "across the town centre, The Parade and Newhall Walk",
+    "s2_intro": "Whether you are a Sutton Coldfield solicitor, an accountancy, a financial adviser, a consultancy or a technology company"
+  },
+  "lincoln": {
+    "region": "Lincoln and Lincolnshire",
+    "nearby": ["Gainsborough", "Newark", "Grantham"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Lincoln, embroidered in-house to brand guidelines. Lincoln pairs a major engineering and technology base with a growing professional-services sector inside a Lincolnshire economy worth billions, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Lincoln's engineering, tech and professional base",
+    "s1loc": [
+      "Lincoln's economy is anchored by Siemens Energy, the city's largest private employer, which has built and serviced gas turbines here for over 150 years. The Lincoln Science and Innovation Park, a joint venture with the University of Lincoln, houses the Joseph Banks Laboratories and the Boole Technology Centre for growing tech firms. Around them, accountancy and advisory firm Duncan and Toplis and regional law firm Wilkin Chapman LLP serve corporate clients from city offices, alongside insurers and consultancies.",
+      "The University of Lincoln feeds graduates into the city's engineering, science and professional sectors, including the engineering school co-located with Siemens. Across these firms, people work in suits and lab coats day to day, then reach for branded kit when the brand goes public: conferences, exhibitions, away days, client and site visits, and sponsored community events. Procurement teams, office managers and brand managers order the polos, softshells and fleeces and insist each one matches the organisation's logo and colours exactly."
+    ],
+    "kit_loc": "across the city centre and the Lincoln Science and Innovation Park",
+    "s2_intro": "Whether you are a Lincoln accountancy, a law firm, an engineering or technology company, a consultancy or an insurer"
+  },
+  "worcester": {
+    "region": "Worcester and Worcestershire",
+    "nearby": ["Malvern", "Droitwich", "Kidderminster"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Worcester, embroidered in-house to brand guidelines. Worcester pairs a cathedral-city professional core with the major Worcester Six Business Park, in a county where business and professional services employ around 37,000 people, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Worcester's professional core and business parks",
+    "s1loc": [
+      "Worcester's professional firms sit in the city centre near the cathedral and Foregate Street station, with law firms such as HCR Law, mfg Solicitors and Parkinson Wright, and accountants including Bishop Fleming serving corporate clients. To the east, Worcester Six Business Park off junction 6 of the M5 has drawn occupiers such as MiTek, Kohler Mira, Bidfood and IONOS, while the Shrub Hill Quarter is being redeveloped as a new enterprise and workspace destination for the city.",
+      "Worcestershire's business and professional-services sector employs around 37,000 people across roughly 7,700 businesses, with Worcester at its heart and links out to Malvern, Droitwich and Kidderminster. The accountants, solicitors, advisers and consultants here work in suits, then move into branded kit for conferences, exhibitions, away days, client and site visits and sponsored community events. Office managers, procurement leads and brand managers place the orders, expecting every polo, softshell and fleece to match the firm exactly."
+    ],
+    "kit_loc": "across the city centre and Worcester Six Business Park",
+    "s2_intro": "Whether you are a Worcester law firm, an accountancy, a consultancy, an insurer or a technology company"
+  },
+  "salford": {
+    "region": "Salford and Greater Manchester",
+    "nearby": ["Manchester", "Bolton", "Stretford"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Salford, embroidered in-house to brand guidelines. Salford Quays and MediaCityUK have made the city one of the largest media, digital and professional hubs outside London inside the Greater Manchester economy, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Salford Quays, MediaCityUK and professional firms",
+    "s1loc": [
+      "MediaCityUK at Salford Quays is home to the BBC and ITV alongside more than 250 creative, digital and technology businesses, with names such as Kellogg's and Ericsson among the larger occupiers. The surrounding waterfront and Chapel Street corridor hold one of the highest concentrations of digital and professional firms outside London, and major employers including TalkTalk and BUPA. Accountancies, financial advisers and consultancies serve this base from offices and serviced workspace across the Quays.",
+      "Salford's economy blends a strong public sector with financial and professional services and a fast-growing digital and media cluster, drawing talent from Manchester, Bolton and Stretford. The people here work in suits and studios, then step into branded kit when the brand goes on show: conferences, exhibitions, away days, client visits and sponsored community events. Procurement leads, office managers and brand managers order the polos, softshells and fleeces and insist that each one matches the organisation's logo and colours exactly."
+    ],
+    "kit_loc": "across Salford Quays, MediaCityUK and the Chapel Street corridor",
+    "s2_intro": "Whether you are a Salford media or technology company, an accountancy, a law firm, a consultancy or an insurer"
+  },
+  "st helens": {
+    "region": "St Helens and Merseyside",
+    "nearby": ["Widnes", "Warrington", "Wigan"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across St Helens, embroidered in-house to brand guidelines. St Helens pairs a strong advanced-manufacturing base with a town-centre professional sector inside the Merseyside economy, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "St Helens manufacturing base and professional firms",
+    "s1loc": [
+      "St Helens is best known for Pilkington, part of NSG Group and one of the world's largest glass makers, with Unilever, Nichols, who make Vimto, and other manufacturers such as NGF and Tata Steel operating across the borough and the Haydock area. Around these corporate names sit the accountancies, solicitors, financial advisers and consultancies that serve them, working from town-centre offices and serviced workspace and supported by the St Helens Chamber.",
+      "The borough's professional-services workforce draws on people from across St Helens, Widnes, Warrington and Wigan, with health, education and retail among the largest local sectors. These advisers and consultants work in suits, then reach for branded kit when the brand has to travel: conferences, exhibitions, away days, client and site visits and sponsored community events. Office managers, procurement leads and brand managers place the orders, and they expect every polo, softshell and fleece to match the firm's logo and colours exactly."
+    ],
+    "kit_loc": "across the town centre and the Haydock business area",
+    "s2_intro": "Whether you are a St Helens accountancy, a law firm, a financial adviser, a consultancy or a manufacturer"
+  }
+}
