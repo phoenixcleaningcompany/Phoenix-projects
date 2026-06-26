@@ -1,0 +1,86 @@
+{
+  "st austell": {
+    "region": "St Austell and Cornwall",
+    "nearby": ["Truro", "Newquay", "Bodmin"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across St Austell, embroidered in-house to brand guidelines. As the heart of Cornwall's china-clay country and a working commercial centre serving the wider county, it carries a steady base of professional firms, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "St Austell's china-clay and professional core",
+    "s1loc": [
+      "St Austell sits at the centre of Cornwall's china-clay country, where Imerys still mines and processes kaolin across more than twenty sites and remains one of the county's largest industrial employers. Around it works a layer of professional firms: Stephens Scown, whose corporate clients include Imerys and St Austell Brewery, the long-established BWM chartered accountants, and Nalders and Setfords on the legal side. St Austell Brewery itself anchors a substantial local head office and supply operation.",
+      "Beyond the clay industry, St Austell supports accountancy practices, solicitors, financial advisers and consultancies serving businesses across mid-Cornwall, with Truro's professional centre a short drive away. These are people who work in suits and meeting rooms, then step into branded polos, softshells and fleeces for conferences, away days, client and site visits, exhibitions and sponsored community events. Office managers and partners order the kit and care that the logo, colours and embroidery match the brand precisely."
+    ],
+    "kit_loc": "across the town centre and the wider china-clay district",
+    "s2_intro": "Whether you are a St Austell accountancy practice, a law firm, a financial adviser, an industrial employer or a technology company"
+  },
+  "consett": {
+    "region": "Consett and County Durham",
+    "nearby": ["Stanley", "Chester-le-Street", "Bishop Auckland"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Consett, embroidered in-house to brand guidelines. Once a steel town and now a manufacturing and business-park base regenerated through Project Genesis, it carries a working layer of professional firms, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Consett's regenerated business-park economy",
+    "s1loc": [
+      "Consett rebuilt its economy after the steelworks closed, with the Project Genesis regeneration of the 700-acre former works site delivering Hownsgill Industrial Park, Berry Edge and other business parks. The estates now host more than a hundred firms, including manufacturers such as Legrand Electric and CAV Aerospace alongside national names like Howden Joinery and Wolseley. The professional side is anchored at Bessemer Court on Hownsgill Park, home to TC Group and Murray and Lamb chartered accountants serving local businesses.",
+      "Around the industrial parks sits a base of accountancy practices, solicitors, financial advisers and business consultancies serving Consett and the wider County Durham economy, with Chester-le-Street and Bishop Auckland nearby. These professionals work in offices and on client sites, then move into branded polos, softshells and fleeces for conferences, away days, exhibitions, site visits and sponsored community events. Office and brand managers buy the kit and want the logo, colours and embroidery to match their brand exactly."
+    ],
+    "kit_loc": "across the town centre and the Hownsgill and Berry Edge business parks",
+    "s2_intro": "Whether you are a Consett accountancy practice, a law firm, a manufacturer, a financial adviser or a technology company"
+  },
+  "newton aycliffe": {
+    "region": "Newton Aycliffe and County Durham",
+    "nearby": ["Darlington", "Bishop Auckland", "Spennymoor"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Newton Aycliffe, embroidered in-house to brand guidelines. Home to Aycliffe Business Park, the North East's largest single employment area, it carries a deep base of manufacturing and professional firms, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Newton Aycliffe's manufacturing powerhouse",
+    "s1loc": [
+      "Aycliffe Business Park is the biggest single employment area in the North East and one of the UK's largest business parks, home to more than five hundred companies employing around ten thousand people. Its anchor names include Hitachi Rail, which assembles trains at its Newton Aycliffe plant, Gestamp Tallent making car sub-frames across several plants, and international firms such as 3M, Husqvarna and Lidl. The wider Merchant Park scheme continues to expand the estate off junction 59 of the A1(M).",
+      "Supporting this manufacturing base is a layer of accountancy practices, solicitors, financial advisers, engineering consultancies and technology firms serving the park and the wider County Durham economy, with Darlington close by. These professionals work in offices and on factory and client sites, then step into branded polos, softshells and fleeces for conferences, away days, exhibitions, site visits and sponsored community events. Procurement and brand managers order the kit and insist the logo, colours and embroidery match the brand precisely."
+    ],
+    "kit_loc": "across the town and Aycliffe Business Park",
+    "s2_intro": "Whether you are a Newton Aycliffe manufacturer, an engineering consultancy, an accountancy practice, a law firm or a technology company"
+  },
+  "thornaby-on-tees": {
+    "region": "Thornaby and the Tees Valley",
+    "nearby": ["Stockton-on-Tees", "Middlesbrough", "Billingham"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Thornaby, embroidered in-house to brand guidelines. A riverside business and engineering base in the Tees Valley, it carries a steady layer of professional and engineering firms, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Thornaby's riverside business and engineering base",
+    "s1loc": [
+      "Thornaby sits on the south bank of the River Tees, with office space clustered at Thornaby Place, Teesdale and along Pearson Way, where civil and structural engineers Alan Wood and Partners and DTA Consulting Engineers both work. The town anchors a base of professional and engineering services serving the Tees Valley, with serviced offices at Fast Track House and Richard House and the major Northshore regeneration adding new offices and a Durham University campus on the riverside opposite at Stockton.",
+      "Around these riverside offices sits a layer of accountancy practices, solicitors, financial advisers, engineering consultancies and technology firms serving Thornaby, Stockton and Middlesbrough across the Tees Valley. These professionals work in offices and on industrial and client sites, then move into branded polos, softshells and fleeces for conferences, away days, exhibitions, site visits and sponsored community events. Office and brand managers buy the kit and want the logo, colours and embroidery to match their brand exactly."
+    ],
+    "kit_loc": "across the town and the Tees Valley business parks",
+    "s2_intro": "Whether you are a Thornaby engineering consultancy, an accountancy practice, a law firm, a financial adviser or a technology company"
+  },
+  "portishead": {
+    "region": "Portishead and North Somerset",
+    "nearby": ["Clevedon", "Bristol", "Weston-super-Mare"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Portishead, embroidered in-house to brand guidelines. A growing North Somerset town on the Bristol corridor with a strong professional and commuter base, it carries a steady layer of business and engineering firms, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Portishead's Bristol-corridor professional base",
+    "s1loc": [
+      "Portishead sits on the Bristol corridor in North Somerset, with much of its workforce commuting to Bristol and a local business base clustered at Gordano Gate and Wyndham Way. Chartered accountants and tax advisers Haines Watts run a Portishead office, alongside independent financial advisers, solicitors and quality-assurance firms such as AJA Registrars at Gordano Court. The town also retains marine and outboard engineering businesses around its harbour, and benefits from the reopening of the Portishead to Bristol rail line.",
+      "Around these offices sits a layer of accountancy practices, solicitors, financial advisers, engineering firms and technology and consultancy businesses serving Portishead, Clevedon and the wider Bristol economy. These professionals work in offices and on client sites, then step into branded polos, softshells and fleeces for conferences, away days, exhibitions, site visits and sponsored community events. Office and brand managers order the kit and insist the logo, colours and embroidery match the brand precisely."
+    ],
+    "kit_loc": "across the town and the Gordano business parks",
+    "s2_intro": "Whether you are a Portishead accountancy practice, a law firm, a financial adviser, an engineering firm or a technology company"
+  },
+  "ferndown": {
+    "region": "Ferndown and Dorset",
+    "nearby": ["Bournemouth", "Poole", "Christchurch"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Ferndown, embroidered in-house to brand guidelines. Built around the Ferndown Industrial Estate, one of Dorset's main manufacturing and technology hubs, it carries a deep base of engineering and professional firms, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Ferndown's manufacturing and technology estate",
+    "s1loc": [
+      "The Ferndown Industrial Estate is one of Dorset's principal manufacturing and technology hubs, home to precision engineers and fabricators including Brighter Manufacturing, Manutech, the long-established Wenda Sheet Metal, the Harmon Group serving aerospace, defence, rail and medical sectors, and Ferndown Fabrications. Software house Solweb develops applications for accountancy, manufacturing and engineering clients from the town, while HK Financial Advice, jointly owned by Humphries Kirk solicitors and Ward Goodman accountants, sits among the area's larger professional practices.",
+      "Around the estate sits a layer of accountancy practices, solicitors, financial advisers, engineering consultancies and technology firms serving Ferndown and the wider Bournemouth, Poole and Christchurch conurbation. These professionals work in offices and on production and client sites, then move into branded polos, softshells and fleeces for conferences, away days, exhibitions, site visits and sponsored community events. Procurement and brand managers buy the kit and want the logo, colours and embroidery to match the brand exactly."
+    ],
+    "kit_loc": "across the town and the Ferndown Industrial Estate",
+    "s2_intro": "Whether you are a Ferndown manufacturer, an engineering consultancy, an accountancy practice, a financial adviser or a technology company"
+  },
+  "broadstairs": {
+    "region": "Broadstairs and east Kent",
+    "nearby": ["Ramsgate", "Margate", "Herne Bay"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Broadstairs, embroidered in-house to brand guidelines. A professional and small-business base in east Kent, anchored by the Kent Innovation Centre, it carries a steady layer of advisory and technology firms, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Broadstairs's professional and advisory base",
+    "s1loc": [
+      "Broadstairs supports a professional and small-business base across east Kent, with the Kent Innovation Centre on Millennium Way home to firms including the law practice Prospero and the UHY Hacker Young office, one of the top chartered accountancy firms in the area. Established practices such as Kemps Accounting and Levicks Accountants, and solicitors Boys and Maughan and Robinson Allfree, serve the town and the wider Thanet economy of Ramsgate and Margate.",
+      "Around these firms sits a layer of accountancy practices, solicitors, financial advisers, consultancies and technology and start-up businesses serving Broadstairs and east Kent. These professionals work in offices and on client sites, then step into branded polos, softshells and fleeces for conferences, away days, exhibitions, site visits and sponsored community events. Office and brand managers order the kit and insist the logo, colours and embroidery match their brand precisely."
+    ],
+    "kit_loc": "across the town and the Kent Innovation Centre",
+    "s2_intro": "Whether you are a Broadstairs accountancy practice, a law firm, a financial adviser, a consultancy or a technology company"
+  }
+}

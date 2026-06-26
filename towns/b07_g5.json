@@ -1,0 +1,115 @@
+{
+ "hoddesdon": {
+  "region": "Hoddesdon and Hertfordshire",
+  "nearby": [
+   "Cheshunt",
+   "Hertford",
+   "Harlow"
+  ],
+  "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Hoddesdon, embroidered in-house to brand guidelines. It is one of the strongest industrial and professional-services hubs in the Lea Valley, anchored by Hoddesdon Business Park, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+  "s1_head": "Hoddesdon's business park and professional core",
+  "s1loc": [
+   "Hoddesdon Business Park is the commercial engine of the town, a large estate off the Pindar Road and Essex Road corridor where distribution and manufacturing names such as Wincanton, Culina and Cortland Fibron sit alongside the supporting cast of accountants, solicitors and consultancies that serve them. The town centre and the wider Broxbourne borough carry independent professional firms, recruitment offices and the financial-services advisers who handle a busy logistics and light-industry base feeding the M25 and A10.",
+   "Hoddesdon sits in the Lea Valley between Hertford and the Cheshunt and Waltham Cross belt, with a workforce that mixes warehouse and engineering operations with office-based finance, legal and advisory roles. Those professional teams wear suits day to day but step into branded polos, softshells and fleeces for away days, supplier exhibitions, site and client visits, new-starter welcome packs and sponsored community events. Office and brand managers across Broxbourne order the kit and expect every logo and colour to match the brand exactly."
+  ],
+  "kit_loc": "across the town centre and Hoddesdon Business Park",
+  "s2_intro": "Whether you are a Hoddesdon bank, a law firm, an accountancy, a consultancy, an insurer or a technology company"
+ },
+ "wilmslow": {
+  "region": "Wilmslow and Cheshire",
+  "nearby": [
+   "Bramhall",
+   "Altrincham",
+   "Macclesfield"
+  ],
+  "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Wilmslow, embroidered in-house to brand guidelines. It is one of the most affluent professional bases in Cheshire, home to Royal London and the Information Commissioner's Office, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+  "s1_head": "Wilmslow's financial and professional base",
+  "s1loc": [
+   "Wilmslow punches well above its size as a financial-services and professional centre. Royal London, the mutual insurer and asset manager, has a long-standing presence here, and the Information Commissioner's Office sits at Wycliffe House on Water Lane in the town centre. Around them cluster wealth managers, independent accountancy and tax practices, solicitors and consultancies serving a prosperous Cheshire client base, with nearby Alderley Park adding a major life-sciences and technology campus to the wider catchment.",
+   "Wilmslow anchors the affluent Cheshire belt running through Alderley Edge, Bramhall and Prestbury, with a commuter workforce that staffs Manchester and the local financial and advisory firms. These professionals wear suits in the office but pull on branded polos, softshells and fleeces for conferences, away days, exhibitions, client and site visits and sponsored community events. Procurement and brand managers across the town place the orders and care that the embroidered logo and colours match the corporate brand precisely, office to office."
+  ],
+  "kit_loc": "across the town centre and out to Alderley Park",
+  "s2_intro": "Whether you are a Wilmslow bank, a law firm, an accountancy, a consultancy, an insurer or a technology company"
+ },
+ "grays thurrock": {
+  "region": "Grays and Thurrock",
+  "nearby": [
+   "Upminster",
+   "Basildon",
+   "Dartford"
+  ],
+  "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Grays and Thurrock, embroidered in-house to brand guidelines. It is the professional and commercial heart of a Thames Gateway logistics powerhouse built around DP World London Gateway, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+  "s1_head": "Grays, Thurrock and the Thames Gateway",
+  "s1loc": [
+   "Grays is the administrative and professional centre of Thurrock, the Essex borough that hosts DP World London Gateway, the deep-water container port and 9 million square foot logistics park on the north bank of the Thames. The port and the Thames Freeport anchor a dense supply-chain economy, and around it Grays carries the accountancies, solicitors, recruitment and consultancy firms, plus the insurers and banks, that serve thousands of distribution, manufacturing and trade businesses across the borough.",
+   "Thurrock's London Gateway is forecast to support tens of thousands of direct and supply-chain jobs, and the professional offices in Grays and along the A13 corridor handle the finance, legal and advisory work behind them. Those office teams dress in suits day to day but switch to branded polos, softshells and fleeces for away days, trade exhibitions, client and site visits, new-starter packs and sponsored community events. Procurement and office managers order the kit and insist the embroidered logo and colours match the brand exactly."
+  ],
+  "kit_loc": "across Grays town centre and the wider Thurrock business district",
+  "s2_intro": "Whether you are a Grays bank, a law firm, an accountancy, a consultancy, an insurer or a technology company"
+ },
+ "upminster": {
+  "region": "Upminster and east London",
+  "nearby": [
+   "Hornchurch",
+   "Romford",
+   "Grays Thurrock"
+  ],
+  "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Upminster, embroidered in-house to brand guidelines. It is an affluent Havering commuter base of professional firms and owner-managed businesses, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+  "s1_head": "Upminster's professional and commuter base",
+  "s1loc": [
+   "Upminster is the prosperous eastern edge of the London Borough of Havering, where the District line and c2c terminate and a commuter professional class lives. Around Station Road and the town centre sit established firms such as Pinney Talfourd solicitors, in Upminster since 1899, alongside chartered accountancy practices including J and H Accountants, plus independent tax advisers, wealth managers and consultancies serving owner-managed businesses across Havering, Essex and into the City of London.",
+   "Upminster is relatively affluent and well educated, with low unemployment and strong household incomes, and its working population splits between City and Canary Wharf commuters and the local legal, accounting and advisory firms. Those professionals wear suits in the office but pull on branded polos, softshells and fleeces for conferences, away days, exhibitions, client and site visits and sponsored community events. Office and brand managers place the orders and expect every embroidered logo and colour to match the corporate brand exactly."
+  ],
+  "kit_loc": "across the town centre and Station Road",
+  "s2_intro": "Whether you are an Upminster bank, a law firm, an accountancy, a consultancy, an insurer or a technology company"
+ },
+ "new milton": {
+  "region": "New Milton and Hampshire",
+  "nearby": [
+   "Christchurch",
+   "Bournemouth",
+   "Poole"
+  ],
+  "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across New Milton, embroidered in-house to brand guidelines. It is a busy market town on the New Forest edge with a working professional and manufacturing-services base between Christchurch and Lymington, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+  "s1_head": "New Milton's town centre and business base",
+  "s1loc": [
+   "New Milton is a market town in the New Forest district of south-west Hampshire, sitting between Christchurch and Lymington with its own main-line station to Bournemouth, Southampton and London. The Station Road centre carries the accountancies, solicitors, estate and insurance offices and independent professional firms that serve a busy local economy of light manufacturing, engineering-services and trade businesses, with the wider Christchurch and Bournemouth conurbation adding a much larger financial and corporate catchment nearby.",
+   "New Milton has a resident population of around 25,000 and a workforce that mixes manufacturing-services and engineering firms with office-based finance, legal and advisory roles. Those professional teams wear suits day to day but step into branded polos, softshells and fleeces for away days, trade exhibitions, client and site visits, new-starter welcome packs and sponsored community events. Office and brand managers across the town place the orders and expect every embroidered logo and colour to match the corporate brand exactly."
+  ],
+  "kit_loc": "across the town centre and Station Road",
+  "s2_intro": "Whether you are a New Milton bank, a law firm, an accountancy, a consultancy, an insurer or a technology company"
+ },
+ "rothwell": {
+  "region": "Rothwell and West Yorkshire",
+  "nearby": [
+   "Leeds",
+   "Castleford",
+   "Pontefract"
+  ],
+  "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Rothwell, embroidered in-house to brand guidelines. It sits between Leeds city centre and the M1, beside major business parks and logistics estates in the LS26 belt, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+  "s1_head": "Rothwell, the M1 and the Leeds business parks",
+  "s1loc": [
+   "Rothwell sits in the south-east of the City of Leeds, between the city centre and Wakefield, beside the M1 and M62 and the Stourton interchange. The LS26 belt around Oulton, Woodlesford and Stourton is dense with logistics, distribution and business-park space, and a short drive away Thorpe Park Leeds hosts major occupiers including Northern Gas Networks, Pharmacy2U, IBM and the credit-management firm Lowell, anchoring one of the region's largest corporate and professional clusters.",
+   "Rothwell's LS26 area holds a population of more than thirty thousand and feeds a workforce that runs the warehouses and distribution operations along the motorway corridor as well as the office-based finance, legal and advisory firms of the wider Leeds economy. Those professional teams wear suits day to day but switch to branded polos, softshells and fleeces for away days, exhibitions, client and site visits, new-starter packs and sponsored community events. Procurement and office managers order the kit and insist the embroidered logo and colours match the brand exactly."
+  ],
+  "kit_loc": "across Rothwell and the LS26 business parks",
+  "s2_intro": "Whether you are a Rothwell bank, a law firm, an accountancy, a consultancy, an insurer or a technology company"
+ },
+ "formby": {
+  "region": "Formby and Merseyside",
+  "nearby": [
+   "Crosby",
+   "Southport",
+   "Bootle"
+  ],
+  "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Formby, embroidered in-house to brand guidelines. It is one of the most affluent commuter bases on the Sefton coast, home to a prosperous professional class working in Liverpool and locally, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+  "s1_head": "Formby's affluent professional commuter base",
+  "s1loc": [
+   "Formby sits on the Sefton coast between Crosby and Southport, roughly twenty minutes by Merseyrail into Liverpool, and ranks among the most affluent commuter towns in the city region. Its centre, around Chapel Lane and Three Tuns Lane, carries independent accountancy and tax practices, solicitors, wealth managers, estate and insurance offices and consultancies serving a prosperous local catchment, while many residents commute to the banks, law firms and professional houses of Liverpool's commercial district.",
+   "Formby's working population is weighted towards professional, managerial and advisory roles, with a high share of residents commuting into Liverpool and Southport. Those professionals wear suits in the office but pull on branded polos, softshells and fleeces for conferences, away days, exhibitions, client and site visits and sponsored community events. Office and brand managers across the town place the orders and expect every embroidered logo and colour to match the corporate brand exactly, office to office and team to team.",
+   "Formby sits on the Merseyside commuter belt between Southport and Liverpool, and its professional base is built on accountancies, law firms, surveyors and independent financial advisers serving an affluent residential market along Chapel Lane and Three Tuns Lane. Many residents work in the Liverpool commercial district a short train ride away, so local firms and their teams give procurement and office managers a steady reason to keep client-facing staff in consistent, on-brand kit."
+  ],
+  "kit_loc": "across the town centre and Chapel Lane",
+  "s2_intro": "Whether you are a Formby bank, a law firm, an accountancy, a consultancy, an insurer or a technology company"
+ }
+}

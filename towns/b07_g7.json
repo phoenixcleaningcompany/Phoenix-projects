@@ -1,0 +1,86 @@
+{
+  "chapeltown": {
+    "region": "Chapeltown and South Yorkshire",
+    "nearby": ["Sheffield", "Rotherham", "Barnsley"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Chapeltown, embroidered in-house to brand guidelines. It is a long-established manufacturing-services and business-park base on the northern edge of Sheffield, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Chapeltown, Thorncliffe Park and the S35 corridor",
+    "s1loc": [
+      "Chapeltown sits on the northern fringe of Sheffield in the S35 postcode, where the commercial centre is Thorncliffe Park on Newton Chambers Road, built on the historic Newton, Chambers and Company ironworks site. The estate now hosts engineering, manufacturing and professional-services occupiers, with infrastructure firm Balfour Beatty among the names present. Nearby Winston Business Park on Churchill Way and the Sir Wilfrid Newton House offices add further accountancy, consultancy and SME occupiers across the corridor.",
+      "The wider professional-services workforce here is fed by Sheffield and South Yorkshire, with accountants, consultants and engineers serving the manufacturing and construction base around Thorncliffe and Ecclesfield. These firms wear suits day to day, but step into branded polos, softshells and fleeces for away days, exhibitions, client visits, new-starter packs and sponsored events. Procurement, office and brand managers buy the kit because it has to match the company logo and colours exactly, every single time."
+    ],
+    "kit_loc": "across Thorncliffe Park and the S35 business corridor",
+    "s2_intro": "Whether you are a Chapeltown bank, law firm, accountancy, consultancy, insurer or a technology company"
+  },
+  "stalybridge": {
+    "region": "Stalybridge and Greater Manchester",
+    "nearby": ["Ashton-under-Lyne", "Hyde", "Denton"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Stalybridge, embroidered in-house to brand guidelines. It is a Tameside manufacturing-services and professional-firm town on the eastern edge of Greater Manchester, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Stalybridge, Tameside and the eastern Manchester firms",
+    "s1loc": [
+      "Stalybridge sits in Tameside on the eastern edge of Greater Manchester, in the SK15 postcode where local professional firms serve the town and the wider borough. Garratts Solicitors keeps a Stalybridge office alongside its Ashton-under-Lyne and Oldham branches, and Thompson and Cooke Solicitors works closely with local businesses. Chadwick and Co, Scott Roberts Taylor and Woodford and Co handle accountancy and tax work, with Hanley and Co serving Stalybridge, Dukinfield and Ashton across Tameside.",
+      "The professional-services base here draws on Tameside and East Manchester, with accountants, solicitors and business advisers supporting the borough's manufacturing and SME employers. These firms wear suits in the office, but reach for branded polos, softshells and fleeces when they attend conferences, exhibitions, away days, site visits and sponsored community events. Office, procurement and brand managers order the kit because it has to carry the firm logo and house colours consistently across every team and occasion."
+    ],
+    "kit_loc": "across Stalybridge and the Tameside business base",
+    "s2_intro": "Whether you are a Stalybridge bank, law firm, accountancy, consultancy, insurer or a technology company"
+  },
+  "workington": {
+    "region": "Workington and Cumbria",
+    "nearby": ["Whitehaven", "Carlisle", "Penrith"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Workington, embroidered in-house to brand guidelines. It is a West Cumbrian manufacturing, energy-services and professional-firm town built around its port and paperboard mill, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Workington, the port and West Cumbrian firms",
+    "s1loc": [
+      "Workington stands on the West Cumbrian coast, anchored by the Holmen Iggesund paperboard mill, which makes Incada folding box board and runs entirely on biomass energy from its combined heat and power plant. The Port of Workington supports advanced manufacturing, logistics and Irish Sea offshore wind operations. Professional firms serve this base: Paisleys, the town's oldest solicitors at over 130 years, alongside Brockbanks and Milburns, with Robinson and Co providing chartered accountancy across West Cumbria.",
+      "The professional-services workforce here draws on Workington, Whitehaven and the wider West Cumbrian energy and manufacturing economy. Accountants, solicitors and engineering consultants support the mill, the port and the offshore-services firms across the coast. These businesses wear suits day to day, but step into branded polos, softshells and fleeces for conferences, exhibitions, client and site visits, new-starter packs and sponsored events. Procurement and office managers order the kit so it matches the company logo and colours exactly."
+    ],
+    "kit_loc": "across Workington, the port and the West Cumbrian coast",
+    "s2_intro": "Whether you are a Workington bank, law firm, accountancy, consultancy, insurer or a technology company"
+  },
+  "walton-on-thames": {
+    "region": "Walton-on-Thames and Surrey",
+    "nearby": ["Esher", "Staines", "Kingston upon Thames"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Walton-on-Thames, embroidered in-house to brand guidelines. It is an affluent Elmbridge commuter town in Surrey with a long corporate-headquarters heritage, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Walton-on-Thames, Elmbridge and Surrey business",
+    "s1loc": [
+      "Walton-on-Thames sits in the Borough of Elmbridge in Surrey, a town with a notable corporate heritage: Walton Court on Station Avenue was one of the first company headquarters built outside London, serving as the UK base of Birds Eye until Unilever consolidated into Leatherhead. Today the town carries a professional-services and small-business economy of accountants, solicitors, financial advisers and consultancies, serving Elmbridge clients and the commuter belt feeding into London.",
+      "The professional workforce here is shaped by Elmbridge's affluent commuter base, with many residents working in finance, law, technology and London firms while local advisers serve the town directly. These businesses wear suits in the office, but reach for branded polos, softshells and fleeces at conferences, exhibitions, away days, client visits and sponsored events. Office, procurement and brand managers order the kit because it has to match the firm logo and house colours precisely across every team and occasion."
+    ],
+    "kit_loc": "across Walton-on-Thames and the Elmbridge business base",
+    "s2_intro": "Whether you are a Walton-on-Thames bank, law firm, accountancy, consultancy, insurer or a technology company"
+  },
+  "esher": {
+    "region": "Esher and Surrey",
+    "nearby": ["Walton-on-Thames", "Kingston upon Thames", "Epsom"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Esher, embroidered in-house to brand guidelines. It is one of Surrey's most affluent commuter towns, with a financial-services and professional base anchored in Elmbridge, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Esher, Elmbridge and the Surrey financial base",
+    "s1loc": [
+      "Esher is an affluent commuter town in the Borough of Elmbridge in Surrey, with a financial-services and professional base that reflects its prosperous residents. Wealth-management firm Partridge Muir and Warren has advised from Esher since 1969, joined by independent practices such as Humboldt Financial and Esher Financial Planning. River Mole Business Park, set behind Sandown Park off the Portsmouth Road within a short walk of the town centre, adds further professional-services and consultancy occupiers to the local mix.",
+      "The professional workforce here is shaped by Elmbridge's affluent population, with many residents working in finance, law, technology and London-based firms while local wealth managers, accountants and advisers serve the town. These businesses wear suits day to day, but step into branded polos, softshells and fleeces for conferences, exhibitions, away days, client visits and sponsored events. Procurement, office and brand managers order the kit because it has to carry the firm logo and colours exactly across every team."
+    ],
+    "kit_loc": "across Esher, the town centre and River Mole Business Park",
+    "s2_intro": "Whether you are an Esher bank, law firm, accountancy, consultancy, insurer or a technology company"
+  },
+  "whitefield": {
+    "region": "Whitefield and Greater Manchester",
+    "nearby": ["Bury", "Radcliffe", "Middleton"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Whitefield, embroidered in-house to brand guidelines. It is a professional-services and small-business base in the Bury part of Greater Manchester, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Whitefield, Bury and the M45 firms",
+    "s1loc": [
+      "Whitefield sits in the Borough of Bury in Greater Manchester, in the M45 postcode along Bury New Road and Bury Old Road, where local professional firms serve the town and the wider area. Bell Lamb and Joynson, a firm tracing its roots to 1821, advises Whitefield clients alongside HCB Solicitors on Bury New Road and Setfords. Cloud Accountancy and Tax Solutions works from Bury New Road, with chartered accountants and insolvency practitioners completing the local professional base.",
+      "The professional-services workforce here draws on Whitefield, Bury, Radcliffe and the wider north Manchester economy, supporting the area's small-business and SME employers. These firms wear suits in the office, but reach for branded polos, softshells and fleeces when they attend conferences, exhibitions, away days, client visits and sponsored community events. Office, procurement and brand managers order the kit because it has to match the firm logo and house colours consistently across every team and occasion."
+    ],
+    "kit_loc": "across Whitefield and the Bury business base",
+    "s2_intro": "Whether you are a Whitefield bank, law firm, accountancy, consultancy, insurer or a technology company"
+  },
+  "potters bar": {
+    "region": "Potters Bar and Hertfordshire",
+    "nearby": ["Barnet", "Borehamwood", "Hatfield"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Potters Bar, embroidered in-house to brand guidelines. It is a Hertsmere commuter town in Hertfordshire with a notable financial-services and corporate presence on its High Street, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Potters Bar, the High Street and Hertsmere firms",
+    "s1loc": [
+      "Potters Bar sits in the Borough of Hertsmere in Hertfordshire, where the best-known corporate name is insurer Canada Life, whose office complex of Canada Life Place and the thirteen-storey Maple House has long anchored the High Street and Mutton Lane site. Around it the town carries a professional-services economy of accountants, solicitors, financial advisers and consultancies, serving Hertsmere clients and a commuter base that runs into north London and the wider Hertfordshire corridor.",
+      "The professional workforce here is shaped by Potters Bar's commuter population, with many residents working in finance, insurance, law and technology while local firms serve the town and borough directly. These businesses wear suits day to day, but step into branded polos, softshells and fleeces for conferences, exhibitions, away days, client visits and sponsored events. Procurement, office and brand managers order the kit because it has to match the company logo and house colours exactly across every team."
+    ],
+    "kit_loc": "across Potters Bar and the Hertsmere business base",
+    "s2_intro": "Whether you are a Potters Bar bank, law firm, accountancy, consultancy, insurer or a technology company"
+  }
+}
