@@ -1,0 +1,93 @@
+{
+  "Bloxwich": {
+    "region": "Bloxwich and the Black Country",
+    "nearby": ["Walsall", "Cannock", "Willenhall"],
+    "s1_head": "Kitting the visitor economy of the Black Country",
+    "s1loc": [
+      "Bloxwich is an old Black Country market town north of Walsall, its visitor draw built on Bloxwich Park and Promenade Gardens, a recreation ground that began taking shape in 1829 around the war memorial off the High Street, and the medieval Preaching Cross beside All Saints Church, the oldest monument in the town. The parish church, rebuilt in 1875-1877 on the site of the old St Thomas of Canterbury chapel, anchors a compact centre that grew from a Mercian village into an industrial town on coal and metalworking.",
+      "The leisure and activity layer centres on the King George V Memorial Playing Fields off Stafford Road, a 40-acre sports ground opened in 1937 with its gate, lodge and pitches that draw clubs and families through the warmer season. The wider green network runs out to Walsall Arboretum and its Illuminations a short ride south, while the canal towpaths of the Black Country, the commons and the heathland around the town give walkers and cyclists open space close to the centre.",
+      "Heritage and culture run through the legacy of Pat Collins, the King of Showmen, whose Bloxwich Wakes fairground stood on the present Asda site and who built the Grosvenor cinema on the High Street in 1922. The town keeps that fairground tradition alive in the Bloxwich Carnival and the surviving Pat Collins funfair visits, while the Bloxwich Memorial Club, the old library and the conservation streets around the church record a proud Liberal mayor and MP who became a Freeman of the Borough.",
+      "The visitor trade leans on a town and roadside hotel base shared with Walsall and a guide scene built around the Black Country's industrial heritage. Bloxwich and Bloxwich North stations sit on the Chase Line linking Walsall, Cannock and Birmingham New Street, and the M6 corridor puts the Black Country Living Museum at Dudley, the National Trust's Moseley Old Hall and Cannock Chase Forest within an easy seasonal day trip from the town."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Bloxwich attraction or hotel group, a heritage site or a small independent activity centre in Walsall"
+  },
+  "Fleetwood": {
+    "region": "Fleetwood and the Fylde coast",
+    "nearby": ["Thornton Cleveleys", "Blackpool", "Poulton-le-Fylde"],
+    "s1_head": "Kitting the visitor economy of the Fylde coast",
+    "s1loc": [
+      "Fleetwood stands at the northern tip of the Fylde coast, a planned Victorian seaside town laid out by Decimus Burton for Sir Peter Hesketh-Fleetwood. Its marquee landmarks are the two working lighthouses of 1840, the Pharos and the Lower Lighthouse, with the Pharos the only functioning lighthouse in Britain built in the middle of a street and now sitting on a roundabout. The Esplanade, the Mount gardens and the wide North Euston Hotel give the seafront a distinctive Regency-planned character above the Wyre estuary.",
+      "The leisure and activity layer is led by the Art Deco Marine Hall and its gardens, which run a year-round programme of live music, theatre, comedy and family shows beside the promenade. Freeport Fleetwood, opened in 1995 on the old Wyre Dock, is a waterfront outlet village of around 45 shops set around a marina, and the beaches, the Marine Gardens and the boating lake keep families busy through the warmer season at the mouth of the river.",
+      "Heritage and culture run through the Fleetwood Museum on Queen's Terrace, which since 1992 has told the story of the town's deep-sea fishing fleet and its trawlers, and through the Heritage Trust trams that still run the historic Blackpool tramway from Fleetwood Ferry. The cobbled market, the Mount Pavilion and a calendar of events including the Tram Sunday festival each summer fill the planned streets and seafront with visitors and vintage vehicles.",
+      "The visitor trade leans on a seafront and resort hotel base and a guide scene built around the fishing heritage and the estuary. The Fleetwood Ferry sails across the Wyre to Knott End-on-Sea, much loved by the artist L S Lowry, the tram runs the length of the coast to Blackpool and Squires Gate, and the Fylde's beaches, Blackpool's attractions and the Forest of Bowland put a wide seasonal day-trip catchment within easy reach of the town."
+    ],
+    "kit_loc": "across the coast's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Fleetwood attraction or hotel group, a heritage site or a small independent activity centre in Thornton Cleveleys"
+  },
+  "Bushey": {
+    "region": "Bushey and south Hertfordshire",
+    "nearby": ["Watford", "Borehamwood", "Harrow"],
+    "s1_head": "Kitting the visitor economy of south Hertfordshire",
+    "s1loc": [
+      "Bushey is a south Hertfordshire town with an artistic pedigree out of all proportion to its size, drawing visitors to the Bushey Museum and Art Gallery on Rudolph Road, named a VisitEngland Hidden Gem and home to Hertfordshire's largest public art collection. The galleries hold nationally significant works from Sir Hubert von Herkomer and his world-famous Bushey Art School, which once drew students from across the globe to the village above the Colne valley.",
+      "The leisure and activity layer reaches across the wooded commons and parkland that ring the town, from the old grounds of Bushey Hall, the parkland golf course founded in 1889 with A J Balfour as its first captain, to the 300-acre Hartsbourne Manor estate at Bushey Heath. Stanmore Common, the Aldenham reservoir and country park nearby, and the green lanes around Sparrows Herne give walkers, riders and families open space and trails through the warmer season.",
+      "Heritage and culture run through the medieval parish Church of St James with its west tower, the Lucy Kemp-Welch Memorial Trust collection of horse paintings recalling the foremost painter of horses of her age and illustrator of Black Beauty, and the works of the Monro Circle of artists shown at the museum. The film heritage of neighbouring Borehamwood and Elstree, the conservation streets of Bushey village and a busy events calendar around the High Street anchor the cultural draw.",
+      "The visitor trade leans on a town and roadside hotel base shared with Watford and a guide scene built around the art-school heritage and the green belt. Bushey station on the West Coast Main Line and the London Overground runs fast trains to Watford and London Euston, the M1 and M25 meet just to the north, and the studios, Warner Bros. tour and the Hertfordshire countryside put a wide seasonal day-trip catchment within easy reach of the town."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Bushey attraction or hotel group, a heritage site or a small independent activity centre in Watford"
+  },
+  "Newton Abbot": {
+    "region": "Newton Abbot and South Devon",
+    "nearby": ["Torquay", "Paignton", "Exeter"],
+    "s1_head": "Kitting the visitor economy of South Devon",
+    "s1loc": [
+      "Newton Abbot is a South Devon market town whose marquee draw is Newton Abbot Racecourse, the leading summer National Hunt course in the country, founded in 1877 and host of over 30 meetings a year including the Haldon Gold Cup. The landmark St Leonard's Tower, the surviving Clock Tower of a 15th-century church where William III was first proclaimed in England, stands at the heart of a town set where the River Teign meets the estuary below Dartmoor.",
+      "The leisure and activity layer is led by Stover Country Park, 114 acres of woodland around a lake that is a Site of Special Scientific Interest for its dragonflies, with a poetry trail set out by Carol Hughes carrying verses by Ted Hughes illustrated by Raymond Briggs. The Templer Way long-distance path runs through the town from Haytor on Dartmoor down to Teignmouth, and the riverside meadows, Decoy Country Park and Bradley Woods give families trails through the warmer season.",
+      "Heritage and culture run through the National Trust's Bradley Manor, a 13th-century manor house in secluded woodland with a great hall bearing the royal arms of Elizabeth I, and through Forde House of 1610, where Charles I and William of Orange both stayed. The Passmore Edwards Centre, a 1904 library and technical school by Silvanus Trevail housing the Railway Studies Collection, and Newton Abbot Museum anchor a heritage calendar across the old market streets.",
+      "The visitor trade leans on a town and resort hotel base shared with the English Riviera and a guide scene built around Dartmoor and the Teign estuary. Newton Abbot station sits on the main line and the scenic Riviera Line to Torquay, Paignton and Dawlish, the A38 Devon Expressway runs to Exeter and Plymouth, and Dartmoor National Park, the coast and the Riviera resorts put a wide seasonal day-trip catchment within easy reach of the town."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Newton Abbot attraction or hotel group, a heritage site or a small independent activity centre in Torquay"
+  },
+  "Rhyl": {
+    "region": "Rhyl and the North Wales coast",
+    "nearby": ["Prestatyn", "Colwyn Bay", "Llandudno"],
+    "s1_head": "Kitting the visitor economy of the North Wales coast",
+    "s1loc": [
+      "Rhyl is a classic Denbighshire seaside resort whose marquee draws line the seafront, led by the SeaQuarium on East Parade with its underwater tunnel, the first in Wales, and over 30 exhibits across nine zones. The colourful LED-lit Sky Tower stands as a landmark beacon above a long promenade, and the wide sandy beach, the seafront gardens and the views across Liverpool Bay give the town its traditional bucket-and-spade character on the North Wales coast.",
+      "The leisure and activity layer is led by Marine Lake, the saltwater lagoon inland from the seafront, circled by the Rhyl Miniature Railway, which has run on its original track since 1911 and is the oldest miniature railway in Britain. The Pont y Ddraig opening footbridge of 2013 spans the harbour into the Foryd nature area, and the Drift Park, the events arena and the watersports off the beach keep families busy through the warmer season.",
+      "Heritage and culture run through the Botanical Gardens, first opened to the public in 1877 with its lily pond, conservatories and bowling greens, the Victorian parish Church of St Thomas, and the New Pavilion Theatre of 1991 on East Parade, which programmes touring shows, comedy and community theatre. The Foryd Harbour, once supplying Edward I's castle at Rhuddlan up the Clwyd, and a busy seafront events calendar anchor the cultural draw along the coast.",
+      "The visitor trade leans on a deep seafront and caravan-park hotel base and a guide scene built around the resorts and castles of the coast. Rhyl station sits on the North Wales Coast Line linking Chester, Holyhead and Crewe, the A55 expressway runs the length of the coast, and Prestatyn, the Clwydian Range, Llandudno and the castles at Rhuddlan and Conwy put a wide seasonal day-trip catchment within easy reach of the town."
+    ],
+    "kit_loc": "across the coast's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Rhyl attraction or hotel group, a heritage site or a small independent activity centre in Prestatyn"
+  },
+  "Thornton Cleveleys": {
+    "region": "Thornton Cleveleys and the Fylde coast",
+    "nearby": ["Fleetwood", "Blackpool", "Poulton-le-Fylde"],
+    "s1_head": "Kitting the visitor economy of the Fylde coast",
+    "s1loc": [
+      "Thornton-Cleveleys is a pair of Fylde-coast neighbours - the inland village of Thornton and the seaside resort of Cleveleys - whose marquee draw is the Cleveleys seafront, rebuilt under a 30 million pound sea-defence and promenade scheme completed in 2010. The wide promenade, the sandy beach and the views out to the Lake District fells give the town a smart, accessible front, with the name itself drawn from the old Thornton-for-Cleveleys railway station that once served the two settlements.",
+      "The leisure and activity layer is led by Jubilee Gardens, a green seafront space beside The Venue with a children's play area and skate park, and by Anchorsholme Park at the southern end of the front, where the Friends of the Park run events and funfairs. The promenade carries walkers and cyclists the length of the coast, and the Wyre Estuary Country Park at Stanah gives families riverside trails, a visitor centre and birdwatching through the warmer season.",
+      "Heritage and culture run through the 18th-century Marsh Mill windmill in Thornton, a preserved tower mill open to climb with its sails turning on high days, and through the Mythic Coast artwork trail on Cleveleys seafront. The trail's Sea Swallow sculpture, the stone Ogre and the iconic Mary's Shell illustrate a children's story rooted in Singleton Thorpe, the village lost to the sea in the sixteenth century, anchoring a distinctive cultural draw along the front.",
+      "The visitor trade leans on a seafront and resort hotel base shared with Blackpool and Fleetwood and a guide scene built around the Mythic Coast and the estuary. The historic Blackpool tramway runs through the centre at Victoria Square, carrying visitors from Fleetwood Ferry to Squires Gate, and the Fylde's beaches, Blackpool's attractions and the Forest of Bowland put a wide seasonal day-trip catchment within easy reach of the town."
+    ],
+    "kit_loc": "across the coast's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Thornton Cleveleys attraction or hotel group, a heritage site or a small independent activity centre in Fleetwood"
+  },
+  "Bognor Regis": {
+    "region": "Bognor Regis and West Sussex",
+    "nearby": ["Chichester", "Littlehampton", "Worthing"],
+    "s1_head": "Kitting the visitor economy of the West Sussex coast",
+    "s1loc": [
+      "Bognor Regis is a West Sussex seaside resort that took its royal suffix after King George V recuperated nearby in 1929, and its marquee draw is the seafront and Bognor Regis Pier, opened in 1865 and now home to an amusement arcade at its head. A promenade of around 2.7 miles runs from Aldwick in the west to Felpham in the east along a wide shingle and sand beach, giving the town a long, sunny front famous as one of the sunniest spots in Britain.",
+      "The leisure and activity layer is dominated by the Butlin's resort, the giant holiday park with its Splash Waterworld pools, fairground rides and Skyline Pavilion that takes day visitors as well as residents through the season. Hotham Park, 22 acres around the Georgian mansion built by the town's founder Sir Richard Hotham, adds a boating lake, Mediterranean and tropical gardens, a miniature railway, putting green and crazy golf for families a short walk back from the seafront.",
+      "Heritage and culture run through the free Bognor Regis Museum, whose collections range from vintage cameras and fossils to a bathing machine recording the resort's Georgian and Victorian past, and through the town's heritage trails and the long-running Birdman of Bognor flight competition off the pier. The villages of Felpham, where William Blake once lived, and Aldwick with its old churches and seafront anchor a cultural and events calendar across the Arun coast.",
+      "The visitor trade leans on a deep seafront and holiday-park hotel base and a guide scene built around the beaches and the cathedral city next door. Bognor Regis station runs Southern services to Barnham, Chichester and London Victoria, the A29 and A259 carry day-trippers along the coast, and Chichester's cathedral and harbour, the South Downs, Arundel Castle and Littlehampton put a wide seasonal day-trip catchment within easy reach of the town."
+    ],
+    "kit_loc": "across the coast's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Bognor Regis attraction or hotel group, a heritage site or a small independent activity centre in Chichester"
+  }
+}

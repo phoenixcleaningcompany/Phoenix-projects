@@ -1,0 +1,93 @@
+{
+  "East Grinstead": {
+    "region": "East Grinstead and the High Weald",
+    "nearby": ["Crawley", "Haywards Heath", "Tunbridge Wells"],
+    "s1_head": "Kitting the visitor economy of the High Weald",
+    "s1loc": [
+      "East Grinstead's marquee draw is the Bluebell Railway, the preserved steam line that runs from the town's own station south through the Wealden countryside to Sheffield Park, and Standen House, the National Trust Arts and Crafts home built by Philip Webb and dressed in William Morris textiles. The medieval High Street holds one of the longest continuous runs of 14th-century timber-framed buildings in England, including Cromwell House and the Sackville College almshouse founded in 1609.",
+      "The leisure and activity layer reaches out to Weir Wood Reservoir south of the town, where sailing, fishing and a birdlife nature reserve draw families across the warmer season, and to the open heath and walks of Ashdown Forest on the doorstep. Saint Hill Manor, the Georgian house and grounds at the edge of town, and the wide commons and woodland of the surrounding High Weald give walkers and day-trippers room to roam.",
+      "Heritage and culture run through Chequer Mead, the 336-seat theatre and arts centre that hosts the East Grinstead Music and Arts Festival, and through Sackville College, where John Mason Neale wrote the carol Good King Wenceslas in 1853. The town carries the powerful story of Sir Archibald McIndoe and the Guinea Pig Club at the Queen Victoria Hospital, whose pioneering burns surgery on wartime aircrew is marked by museum and memorial trails across the centre.",
+      "The visitor trade leans on a town and country-house hotel base and a guide scene built around the Bluebell line, Standen and the Forest. East Grinstead station puts the town on the Southern route to East Croydon and London Victoria, with Gatwick Airport a short hop west, while the A22 and A264 carry visitors on to Tunbridge Wells, Lingfield Park racecourse and the Surrey and Sussex border within an easy seasonal day trip."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major East Grinstead attraction or hotel group, a heritage site or a small independent activity centre in Crawley"
+  },
+  "Didcot": {
+    "region": "Didcot and South Oxfordshire",
+    "nearby": ["Abingdon", "Oxford", "Newbury"],
+    "s1_head": "Kitting the visitor economy of South Oxfordshire",
+    "s1loc": [
+      "Didcot's marquee draw is the Didcot Railway Centre, the 21-acre living museum of the Great Western Railway set around the original 1932 engine shed beside Didcot Parkway, with its collection of preserved steam locomotives, carriages and a working transfer shed. The centre tells almost two centuries of railway history and anchors a town whose skyline was long defined by the cooling towers and chimneys of the Didcot power stations on the edge of the Vale.",
+      "The leisure and activity layer reaches out to Wittenham Clumps, the wooded chalk hills above the Thames managed as a nature reserve by the Earth Trust, with panoramic views across the Oxfordshire and Berkshire countryside. Closer in, the Cornerstone arts and entertainment quarter, family play sites and the riverside walks and meadows of the Thames at Little Wittenham and Sutton Courtenay give visitors green space and water through the warmer season.",
+      "Heritage and culture run through Cornerstone, the purpose-built theatre on Station Road with its 220-seat auditorium, gallery and studios staging comedy, drama, music and family shows, and through the nearby market town of Wallingford, whose castle meadow holds the remains of one of the greatest medieval castles in England beside Thames floodplain and a Victorian grotto. The Earth Trust's community reserves spread the events calendar across Wallingford, Abingdon, Dorchester-on-Thames and Didcot.",
+      "The visitor trade leans on a town and business-park hotel base around Milton Park and Harwell Campus and a guide scene built around the railway and the river. Didcot Parkway is a key Great Western interchange, putting Oxford, Reading, Swindon and London Paddington within easy reach and making the town a natural day-trip hub, while the Ridgeway, the Vale of White Horse, Blenheim Palace and the Chiltern fringe spread a wide seasonal catchment across the surrounding area."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Didcot attraction or hotel group, a heritage site or a small independent activity centre in Abingdon"
+  },
+  "Melton Mowbray": {
+    "region": "Melton Mowbray and the Vale of Belvoir",
+    "nearby": ["Loughborough", "Leicester", "Grantham"],
+    "s1_head": "Kitting the visitor economy of the Vale of Belvoir",
+    "s1loc": [
+      "Melton Mowbray styles itself the Rural Capital of Food, and its marquee draws are the named delicacies of the town: the protected Melton Mowbray pork pie and Stilton cheese, with Dickinson and Morris running Ye Olde Pork Pie Shoppe on Nottingham Street since 1851, complete with pie-making demonstrations. Set on the River Eye, the market town keeps a busy livestock market, the historic St Mary's parish church and a cattle-market heritage that pulls food tourists across the year.",
+      "The leisure and activity layer is led by Twinlakes Park just north-east of the town, a 100-acre family theme park, water park and zoo farm with seven themed zones and 150,000 square feet of indoor play that keeps families busy whatever the weather. Beyond it, the country trails of the Vale, fishing and walking along the River Eye and the open parkland of nearby estates give visitors and families room to roam through the warmer season.",
+      "Heritage and culture run through the Melton Carnegie Museum in the former Carnegie library of 1905, telling the social history of the town alongside its Stilton, pork pie and fox-hunting past, and through the Melton Town Estate and the long-running Melton Mowbray markets. Belvoir Castle, the dramatic stately home and gardens of the Dukes of Rutland a short drive north-east, anchors a wider events and heritage calendar across the Vale of Belvoir.",
+      "The visitor trade leans on a town and coaching-inn hotel base and a group-tour and guide scene built around food, the markets and Belvoir. Melton Mowbray station links Leicester and Peterborough on the Birmingham-to-Stansted line, with the A607 and A606 carrying day-trippers between Leicester, Nottingham and Grantham, while the Vale of Belvoir, Rutland Water and the Leicestershire Wolds spread a wide seasonal catchment around the town."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Melton Mowbray attraction or hotel group, a heritage site or a small independent activity centre in Loughborough"
+  },
+  "Clydebank": {
+    "region": "Clydebank and West Dunbartonshire",
+    "nearby": ["Glasgow", "Dumbarton", "Paisley"],
+    "s1_head": "Kitting the visitor economy of West Dunbartonshire",
+    "s1loc": [
+      "Clydebank's marquee draw is the Titan Crane, the 161-foot cantilever crane on the old John Brown shipyard, the world's first electrically powered crane of its type, which built the Queen Mary, Queen Elizabeth and QE2 and now opens seasonally as a viewing platform and shipbuilding attraction high above the River Clyde. The town's whole identity rises from the great Clyde shipyards, and the crane's nightly illuminations are visible for miles across the waterfront.",
+      "The leisure and activity layer follows the water, with the Forth and Clyde Canal threading through the town for walking, cycling and boating, and Dalmuir Park giving the centre its formal green space and play areas. Clydebank Leisure Centre, the riverside Clydebank Waterfront paths and the wider Loch Lomond and the Trossachs National Park just to the north put activity centres, trails and seasonal day-trips within easy reach of families and visitors.",
+      "Heritage and culture run through the museum at Clydebank Town Hall, whose displays cover the Singer sewing machine factory at Kilbowie, once crowned by the largest four-face clock tower in the world, and the Clydebank Blitz of 1941. The Antonine Wall, the Roman frontier and World Heritage Site, crosses the district at Duntocher and Hardgate, and Bowling Harbour at the western end of the canal anchors a heritage trail along the Clyde.",
+      "The visitor trade leans on a town and waterfront hotel base, including the Golden Jubilee complex, and a guide scene built around shipbuilding, the canal and the Clyde. Clydebank, Singer and Dalmuir stations put the town on the busy North Clyde rail line into Glasgow, with the Erskine Bridge and the A82 carrying visitors towards Dumbarton, Loch Lomond and the Highlands within an easy seasonal day trip from the city."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Clydebank attraction or hotel group, a heritage site or a small independent activity centre in Glasgow"
+  },
+  "Daventry": {
+    "region": "Daventry and West Northamptonshire",
+    "nearby": ["Rugby", "Northampton", "Banbury"],
+    "s1_head": "Kitting the visitor economy of West Northamptonshire",
+    "s1loc": [
+      "Daventry's marquee draw is Daventry Country Park, the local nature reserve wrapped around a large reservoir on the northern edge of town, with circular trails including the 2.5-mile Reservoir Walk, a play area, a cafe and rich birdwatching across the water. The old coaching town, set high on the watershed of the Midlands, grew on the Holyhead road traffic that filled its inns, and its historic centre still carries that travellers' heritage around the market square.",
+      "The leisure and activity layer climbs to Borough Hill above the town, an atmospheric Iron Age hillfort and former BBC transmitting station now a wide open green space for walking and kite-flying with sweeping views over the countryside. Drayton Reservoir nearby draws anglers and birdwatchers to its trout and coarse fishing, and the Grand Union Canal arm and the surrounding bridleways and medieval open-field paths give families and walkers room through the warmer season.",
+      "Heritage and culture run through Daventry Museum in the historic Moot Hall on the market square, telling the town's coaching, military and industrial story, and through the conservation streets and Holy Cross church at the centre. The nearby Braunston marina, the long-distance Jurassic Way and the Grand Union Canal anchor a heritage and events calendar across West Northamptonshire, with Daventry Calling and country shows drawing visitors through the season.",
+      "The visitor trade leans on a town and roadside hotel base serving the logistics and distribution corridor and a guide scene built around the country park and the canals. With no station of its own, Daventry sits between Rugby and Northampton on the West Coast line and is fed by the A45, A361 and the M1, putting Silverstone circuit, Althorp House, Canons Ashby and the wider Northamptonshire countryside within an easy seasonal day trip from the town."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Daventry attraction or hotel group, a heritage site or a small independent activity centre in Rugby"
+  },
+  "Thatcham": {
+    "region": "Thatcham and West Berkshire",
+    "nearby": ["Newbury", "Reading", "Basingstoke"],
+    "s1_head": "Kitting the visitor economy of West Berkshire",
+    "s1loc": [
+      "Thatcham's marquee draw is the Nature Discovery Centre on the town's edge, a visitor centre run by the Berks, Bucks and Oxon Wildlife Trust with interactive wildlife displays, a lakeside cafe, a bird hide and paths beside Thatcham Lake. The reserve sits beside the internationally important Thatcham Reedbeds, one of the largest areas of inland reedbed in southern England and home to rare specialists such as Desmoulin's whorl snail, drawing wildlife visitors across the year.",
+      "The leisure and activity layer follows the water and the trails, with three waymarked routes from the Nature Discovery Centre taking in the reed and fen areas and the towpath of the Kennet and Avon Canal. Henwick Worthy Sports Ground off the A4 gives the town wide grass pitches, courts and a play area, and the canal, the River Kennet and the wider West Berkshire countryside give families and walkers room through the warmer season.",
+      "Heritage and culture run through one of the oldest continuously inhabited settlements in Britain, with the medieval Chapel of St Thomas on the green and the long history recorded in the town's conservation streets. The Kennet and Avon Canal heritage, the nearby market town of Newbury with its racecourse and the wider Berkshire Downs anchor an events and day-trip calendar across the surrounding parishes through the season.",
+      "The visitor trade leans on a town and roadside hotel base and a guide scene built around the reedbeds, the canal and the Downs. Thatcham station sits on the Reading-to-Newbury and Bedwyn line, with the A4 and the M4 putting Reading, Newbury and Basingstoke within easy reach, while the North Wessex Downs, Newbury Racecourse and the wider Kennet valley spread a seasonal day-trip catchment across the area for visitors."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Thatcham attraction or hotel group, a heritage site or a small independent activity centre in Newbury"
+  },
+  "Kingswinford": {
+    "region": "Kingswinford and the Black Country",
+    "nearby": ["Dudley", "Stourbridge", "Brierley Hill"],
+    "s1_head": "Kitting the visitor economy of the Black Country",
+    "s1loc": [
+      "Kingswinford's marquee draw is its glassmaking heritage, the trade that made the Stourbridge Glass Quarter on the town's doorstep world-famous, with Broadfield House on Compton Drive long holding the borough's glass collection before exhibits moved to the new Glass Museum beside the Wordsley Cone a mile away. The historic St Mary's church and the old market cross anchor a town whose wealth rose through the Industrial Revolution on glassworks, coal and ironworking across the Black Country.",
+      "The leisure and activity layer reaches to Himley Hall and Park just to the west, a Georgian house in grounds laid out by Capability Brown with woodland trails, a fishing lake, an art gallery and an 18-hole golf course, and to Baggeridge Country Park beyond, with its play areas, high-ropes course, walks and large pond. The Staffordshire and Worcestershire Canal and the Stourbridge Canal arms give families and walkers towpaths and water through the warmer season.",
+      "Heritage and culture run through the Wordsley Cone and the Red House Glass Cone at Stourbridge, surviving glass cones that mark the area's craft past, and through the wider Black Country story told at the open-air Black Country Living Museum a short drive north at Dudley. The Bratch Locks on the canal, Himley's art gallery and museum and the area's festivals anchor a heritage and events calendar across the surrounding towns through the season.",
+      "The visitor trade leans on a town and roadside hotel base and a guide scene built around glass heritage, the canals and the country parks. Kingswinford has no station of its own but sits on the bus and road network feeding Stourbridge Junction, with the A491 and the wider Black Country routes putting Dudley, Brierley Hill and the Merry Hill centre, the Severn Valley Railway and the Worcestershire countryside within an easy seasonal day trip."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Kingswinford attraction or hotel group, a heritage site or a small independent activity centre in Dudley"
+  }
+}

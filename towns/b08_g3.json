@@ -1,0 +1,93 @@
+{
+  "Seaford": {
+    "region": "Seaford and the East Sussex coast",
+    "nearby": ["Eastbourne", "Brighton", "Bexhill-on-Sea"],
+    "s1_head": "Kitting the visitor economy of the Sussex Heritage Coast",
+    "s1loc": [
+      "Seaford's marquee draw is the chalk drama of Seaford Head, a Sussex Wildlife Trust nature reserve whose cliff path frames the world-famous view of the Seven Sisters and the Coastguard Cottages above Cuckmere Haven, one of the most photographed scenes in Britain. The long shingle seafront and Splash Point, with its RSPB kittiwake colony, draw walkers off the South Downs Way, which runs from the town east toward Eastbourne along this stretch of the Sussex Heritage Coast.",
+      "The leisure and activity layer centres on the open green of The Salts recreation ground, home to Seaford Cricket Club and a rugby club that plays below sea level behind the sea wall, and on the wide beach and promenade running west toward Newhaven and The Buckle at Buckle Bay. Crouch Gardens, walled on the site of a medieval market, and the Seven Sisters Country Park trails at Cuckmere give families and watersports visitors space through the warmer season.",
+      "Heritage and culture run through Seaford Museum, set inside Martello Tower 74 at the eastern end of the front, a Napoleonic fort of 1808 packed with period shops, a Victorian schoolroom and wartime kitchens recalling the town's days as a Cinque Port. The Seaford Bonfire Society's torch-lit October procession, the old streets around St Leonard's Church and the Pelham family's Buckle heritage anchor an events calendar across the town.",
+      "The visitor trade leans on a town and coastal hotel and guest-house base and a guide scene built around the cliffs, the Downs and the Cuckmere valley. Seaford railway station runs the branch from Lewes via Newhaven onto the Brighton main line and London Victoria, while the A259 coast road and the Newhaven ferry port put the wider East Sussex catchment, Brighton and the South Downs National Park within an easy seasonal day trip into the town."
+    ],
+    "kit_loc": "across the coast's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Seaford attraction or hotel group, a heritage site or a small independent activity centre in Eastbourne"
+  },
+  "Whitehaven": {
+    "region": "Whitehaven and the west Cumbrian coast",
+    "nearby": ["Workington", "Carlisle", "Penrith"],
+    "s1_head": "Kitting the visitor economy of west Cumbria",
+    "s1loc": [
+      "Whitehaven's marquee draw is the Georgian harbour, once one of the busiest ports in England, watched over by The Beacon Museum on West Strand, a harbourside attraction opened by Queen Elizabeth II that tells West Cumbria's maritime and industrial story across four floors. The Rum Story on Lowther Street, set in the original 18th-century Jefferson trading house, traces the town's links to the Caribbean rum trade, while the planned grid of the old town gives visitors a rare complete Georgian street pattern.",
+      "The leisure and activity layer runs along the restored harbour and Whitehaven Marina, the most comprehensive marina on the north west coast with over 400 berths fringed by cafes and event space, and out onto the National Trust Whitehaven Coast walk toward the red sandstone cliffs of St Bees Head. Castle Park, on the grounds of Sir John Lowther's Whitehaven Castle, gives the centre its gardens and play space through the warmer season, with the Haig Pit headgear standing on the clifftop above.",
+      "Heritage and culture run through St Nicholas Gardens, where George Washington's grandmother Mildred Gale is buried on the site of the old St Nicholas Church, and through the colliery and shipbuilding past told along the harbour. Whitehaven is the western start of Wainwright's Coast to Coast Walk, now a National Trail, and the quayside fills for the Whitehaven Harbour Fest in June, the Festival of Colour in August and the Dickensian Christmas Market in December.",
+      "The visitor trade leans on a town and coastal hotel base and a guide scene built around the harbour, the coast path and the long-distance walkers setting out for Robin Hood's Bay. Whitehaven station sits on the scenic Cumbrian Coast Line linking Carlisle, Workington, Barrow-in-Furness and Lancaster, and the road over the West Cumberland Plain through Cleator Moor puts Ennerdale, the western Lake District and St Bees within an easy seasonal day trip into the town."
+    ],
+    "kit_loc": "across the coast's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Whitehaven attraction or hotel group, a heritage site or a small independent activity centre in Workington"
+  },
+  "Droitwich": {
+    "region": "Droitwich Spa and north Worcestershire",
+    "nearby": ["Worcester", "Bromsgrove", "Kidderminster"],
+    "s1_head": "Kitting the visitor economy of Worcestershire's Vale and Spa",
+    "s1loc": [
+      "Droitwich Spa owes its draw to the natural brine springs rising from rock salt 200 feet below the town, worked since Roman 'Salinae' and turned into a Victorian spa resort by the salt magnate John Corbett, who built the Brine Baths in 1887. The black-and-white St Andrew's quarter, the Raven Hotel and the Heritage and Information Centre in St Richard's House on the old baths site give visitors a compact, character-rich centre telling 2,000 years of salt-making history.",
+      "The leisure and activity layer is led by Droitwich Spa Lido, one of the UK's last remaining inland open-air saltwater pools with its 40-metre brine pool, wet-play area and sun terrace inside Lido Park, where a bandstand, the cricket ground and play areas keep families busy through the warmer season. The restored Droitwich Canals, linking the Barge and Junction lines to Hanbury Wharf, give walkers, cyclists and boaters miles of waterside trails around the town.",
+      "Heritage and culture run through the National Trust's Hanbury Hall, a William and Mary country house of around 1701 with a painted staircase by Sir James Thornhill and formal gardens a short drive east, and through the 173-seat Norbury Theatre and the half-timbered Westwood House on the edge of town. The town's salt heritage, the River Salwarpe walks and a busy markets and events calendar in St Andrew's Square anchor the cultural draw.",
+      "The visitor trade leans on a town and roadside hotel base and a guide scene built around the spa heritage, the lido and Hanbury Hall. Droitwich Spa railway station sits on the junction of the lines from Worcester to Birmingham via Kidderminster and via Bromsgrove, run by West Midlands Railway, and the M5 puts the wider Worcestershire countryside, Worcester Cathedral and the Vale within an easy seasonal day trip into the town."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Droitwich attraction or hotel group, a heritage site or a small independent activity centre in Worcester"
+  },
+  "Evesham": {
+    "region": "Evesham and the Vale of Evesham",
+    "nearby": ["Worcester", "Cheltenham", "Stratford-upon-Avon"],
+    "s1_head": "Kitting the visitor economy of the Vale of Evesham",
+    "s1loc": [
+      "Evesham's marquee landmark is the free-standing Evesham Bell Tower of around 1530, one of the finest in England, rising in Abbey Park beside the twin medieval churches of All Saints and St Lawrence on the site where Evesham Abbey, once the third largest in the country, stood above a loop of the River Avon. The market town's compact centre, set in the fertile Vale of Evesham, gives visitors a rare medieval ecclesiastical group within a short riverside walk.",
+      "The leisure and activity layer runs along the River Avon, where Crown Meadow and the riverside gardens give families boating, picnics and walks, and pleasure cruisers and the Evesham Marina serve a busy boating trade through the warmer season. Abbey Park's open green, the Workman Gardens across the river and the orchards and asparagus fields of the Vale, internationally known as the fruit and vegetable basket of England, keep walkers and day visitors active around the town.",
+      "Heritage and culture run through the Almonry Museum, a 14th-century timber building that once housed the abbey's Almoner and now tells the town's story from prehistory onward, and through the Battle of Evesham of 1265, where Simon de Montfort fell to Prince Edward, marked by a memorial on Green Hill. The half-timbered Round House on the Market Place, the abbey gateways and a lively festivals and markets calendar anchor the cultural draw.",
+      "The visitor trade leans on a town and riverside hotel and guest-house base and a guide scene built around the abbey, the river and the Vale's produce. Evesham railway station sits on the Cotswold Line between Oxford and Worcester, run by Great Western Railway, and the A46 and A44 put Cheltenham, Stratford-upon-Avon, Broadway and the northern Cotswolds within an easy seasonal day trip into the town."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Evesham attraction or hotel group, a heritage site or a small independent activity centre in Worcester"
+  },
+  "Ormskirk": {
+    "region": "Ormskirk and West Lancashire",
+    "nearby": ["Skelmersdale", "Southport", "Formby"],
+    "s1_head": "Kitting the visitor economy of West Lancashire",
+    "s1loc": [
+      "Ormskirk's standout landmark is the Church of St Peter and St Paul, one of only three churches in England to carry both a central spire and a separate western tower at the same end, parts of it dating from the 12th century with the great tower completed in 1570. The old market town, set in the heart of West Lancashire between Liverpool and the coast, gives visitors a compact historic centre crowned by this unique twin-towered silhouette above the Clock Tower at the crossroads.",
+      "The leisure and activity layer centres on the 20-acre Coronation Park, opened in 1903 on the edge of the centre with a wildlife meadow, skate park and outdoor space, and on Edge Hill University's nearby campus, which brings students, sport and events to the town. The surrounding West Lancashire plain, the trails toward Beacon Country Park at Up Holland and the cycle routes through the mossland keep families and walkers active around Ormskirk through the warmer season.",
+      "Heritage and culture run through the historic Ormskirk Market, one of the country's oldest street markets, chartered in 1286 and still filling the centre with up to 100 stalls every Thursday and Saturday, and through the town's long tradition of Ormskirk gingerbread baked here since the 18th century. The Clock Tower, the conservation streets of the old town and a calendar of markets, fairs and university events anchor the cultural draw across the centre.",
+      "The visitor trade leans on a town and roadside hotel base, including the Edge Hill University trade, and a guide scene built around the market and the parish church. Ormskirk railway station links Liverpool on the Merseyrail Northern Line and Preston via the Ormskirk branch, and the A59 and M58 put Southport's seafront, the Formby pinewoods and dunes and the wider West Lancashire countryside within an easy seasonal day trip into the town."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Ormskirk attraction or hotel group, a heritage site or a small independent activity centre in Skelmersdale"
+  },
+  "Blackwood": {
+    "region": "Blackwood and the South Wales valleys",
+    "nearby": ["Caerphilly", "Pontypool", "Cwmbran"],
+    "s1_head": "Kitting the visitor economy of the Sirhowy Valley",
+    "s1loc": [
+      "Blackwood, known in Welsh as Coed Duon, sits on the Sirhowy River in the South Wales valleys, a model village founded in the early 19th century by the colliery owner John Hodder Moggridge of Woodfield Park. Its marquee venue is the Blackwood Miners' Institute on High Street, a restored Edwardian institute now run as a professional performing-arts centre and one of the valley's iconic landmarks, drawing audiences from across Caerphilly county into the centre of the town.",
+      "The leisure and activity layer is led by Sirhowy Valley Country Park, 227 hectares of wooded valley where the Sirhowy River winds beneath former iron and coal tramroads now used by walkers, runners, cyclists and riders, with a bird hide and the 50-foot Penllwyn Tramroad Bridge among its features. The Chartist Bridge and the trails toward Cwmfelinfach and Ynysddu give families miles of green space, and the wider Rhymney and Sirhowy valleys keep activity busy through the warmer season.",
+      "Heritage and culture run deep in Blackwood, a centre of the Chartist movement in the 1830s where leaders John Frost and the local man Zephaniah Williams met at the Coach and Horses before Williams led a column down to the Newport Rising of 1839, now marked by a 26-foot Chartist statue near the Chartist Bridge. The art-deco Maxime Cinema of 1938 on the High Street, the old Penllwyn House and a calendar of valley festivals anchor the cultural draw.",
+      "The visitor trade leans on a town and roadside hotel base across the valleys and a guide scene built around the Chartist heritage and the country park. Blackwood is served by bus into the Ebbw Vale and Rhymney rail lines and sits close to the A472 and the Heads of the Valleys road, putting Caerphilly Castle, Cwmbran, Pontypool's parks and the wider Caerphilly county countryside within an easy seasonal day trip into the town."
+    ],
+    "kit_loc": "across the valley's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Blackwood attraction or hotel group, a heritage site or a small independent activity centre in Caerphilly"
+  },
+  "Fulwood": {
+    "region": "Fulwood and the City of Preston",
+    "nearby": ["Preston", "Leyland", "Chorley"],
+    "s1_head": "Kitting the visitor economy of north Preston",
+    "s1loc": [
+      "Fulwood, the leafy Victorian suburb in the northern half of Preston, grew when wealthy cotton industrialists built substantial homes on its higher, cleaner ground above the mills, leaving some of the finest Victorian buildings in Lancashire. Its marquee landmark is Fulwood Barracks, opened in 1848 as home to the Duke of Lancaster's Regiment and host to the Lancashire Infantry Museum, whose displays run from 1689 to the present and include the Salamanca Eagle captured in 1812.",
+      "The leisure and activity layer is led by Moor Park on Fulwood's southern edge, a Grade II*-listed Victorian park laid out in the 1860s by Edward Milner with the Jeremiah Horrocks Observatory, bowling greens, tennis courts and wide open grass. The neighbouring Preston wards give the suburb seven traditional greens and tree-lined avenues, and the trails toward Haslam Park and the Lancaster Canal towpath keep families and walkers active around north Preston through the warmer season.",
+      "Heritage and culture run through the cottage-homes architecture of the former Harris Orphanage of 1885 to 1888, the listed Fulwood Union Workhouse and the conservation character of the old Royal Forest of Fulwood, whose name means dark wooded place. The Lancashire Infantry Museum's regimental story, the civic Victorian buildings and the events calendar of the wider city, including the Preston Guild tradition, anchor the cultural draw across the suburb.",
+      "The visitor trade leans on the roadside and city hotel base around Fulwood and Preston and a guide scene built around the barracks museum and Moor Park. Preston railway station on the West Coast Main Line, a short ride south, links London, Glasgow, Manchester and the wider region, and the M6, M55 and M65 put the Ribble Valley, the Forest of Bowland, Leyland and Chorley within an easy seasonal day trip into north Preston."
+    ],
+    "kit_loc": "across the area's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Fulwood attraction or hotel group, a heritage site or a small independent activity centre in Preston"
+  }
+}

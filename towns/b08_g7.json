@@ -1,0 +1,93 @@
+{
+  "Chapeltown": {
+    "region": "Chapeltown and the north of Sheffield",
+    "nearby": ["Sheffield", "Rotherham", "Barnsley"],
+    "s1_head": "Kitting the visitor economy of north Sheffield",
+    "s1loc": [
+      "Chapeltown sits on the north edge of Sheffield in the old Ecclesfield parish, and its draw is the dramatic countryside on its doorstep. Wharncliffe Crags, a gritstone escarpment quarried for quern-stones since the Iron Age, runs above the Don valley, while Greno Wood and Wharncliffe Wood spread for miles toward Deepcar and Wharncliffe Side, pulling walkers, climbers and mountain-bikers up from the town across the warmer season and giving the area a genuine outdoor visitor pull.",
+      "The leisure and activity layer centres on Chapeltown Park, a green space off Burncross Road with tree-lined paths, lawns and a children's playground tended by the Friends of Chapeltown Park, while nearby Grenoside Wood and the Trans Pennine Trail link give families and activity operators miles of trails. Beyond the town, Wortley Hall and its stately gardens and the vast Wentworth Woodhouse estate add big-house days out within easy reach.",
+      "Heritage runs through Chapeltown's iron-and-coal past, founded on the Newton, Chambers and Company works set up in 1793 and the Thorncliffe ironworks, with Smithy Wood colliery and the old blast-furnace story shaping the town. St John's Church anchors the centre, and the neighbouring villages of High Green, Grenoside, Burncross and Mortomley keep a distinct village character, with the Grenoside Sword Dancers carrying a local folk tradition through the events calendar.",
+      "Underpinning it all is a base of inns and guest houses serving north Sheffield, walkers heading for the crags and visitors to the surrounding estates. Chapeltown station on the Penistone Line links the town toward Sheffield and Barnsley, the M1 at Thorpe Hesley sits minutes away, and operators handle day-trip trade across the Don valley, the woods at Wharncliffe and the country houses at Wortley and Wentworth nearby."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Chapeltown attraction or hotel group, a heritage site or a small independent activity centre in Sheffield"
+  },
+  "Stalybridge": {
+    "region": "Stalybridge and the Tameside Pennines",
+    "nearby": ["Ashton-under-Lyne", "Hyde", "Glossop"],
+    "s1_head": "Kitting the visitor economy of Tameside",
+    "s1loc": [
+      "Stalybridge anchors the eastern edge of Tameside where the Pennines meet Greater Manchester, and its best-known draw is the Stalybridge Buffet Bar on the station, a Victorian railway refreshment room open since 1885 that keeps its marble-topped bar, back fittings, open fire and an image of Queen Victoria etched in the glass. The restored Huddersfield Narrow Canal threads through the town centre, with new cafes on its banks and boat trips drawing visitors along the water.",
+      "The leisure and activity layer is led by Cheetham Park, opened in 1932 from John Frederick Cheetham's Eastwood estate, and by Stamford Park, a registered Victorian park of special interest straddling the Ashton-under-Lyne boundary with its lakes, boating and conservatory. The towpaths of the Huddersfield Narrow Canal climb toward the Pennine moors and the Tame Valley, giving walkers, cyclists and activity operators a busy outdoor offer through the warmer months.",
+      "Heritage and culture run through this old cotton town. The Astley Cheetham Art Gallery, a gift to the town in 1901 above Stalybridge Library, holds Beatrice Astley and John Frederick Cheetham's Victorian collection, while Holy Trinity Church of 1852 and St George's Church anchor the streets, and the town's brass-band and Whit Walk traditions and the annual carnival fill the events calendar each year in this proud Tameside borough.",
+      "Underpinning it all is a base of inns, pubs and guest houses serving the eastern Manchester fringe, canal visitors and Pennine walkers, with a guide scene built around the canal and the buffet bar. Stalybridge station sits on the line toward Manchester Victoria, Huddersfield and Leeds, the M67 runs close by, and operators handle day-trip trade out to Hyde, Glossop and the Peak District moors beyond the town."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Stalybridge attraction or hotel group, a heritage site or a small independent activity centre in Ashton-under-Lyne"
+  },
+  "Workington": {
+    "region": "Workington and the west Cumbrian coast",
+    "nearby": ["Whitehaven", "Carlisle", "Penrith"],
+    "s1_head": "Kitting the visitor economy of west Cumbria",
+    "s1loc": [
+      "Workington stands at the mouth of the River Derwent on the west Cumbrian coast, and its marquee draw is the Helena Thompson Museum, a Georgian house on Park End Road bequeathed to the town, telling the area's industry and social history alongside a noted rugby-league collection. Above it sit the ruins of Workington Hall, the medieval Curwen tower house where Mary, Queen of Scots spent her first night in England in 1568, now a stage for the town's pageants.",
+      "The leisure and activity layer runs along the Derwent through Curwen Park and Hall Park, with riverside paths, bowling greens at Vulcan Park and the broad sweep of the harbour and Prince of Wales Dock at the Port of Workington. The Solway Coast Area of Outstanding Natural Beauty and the West Cumbria coast give walkers, anglers and watersports operators a long shoreline, while Derwent Park, home of Workington Town rugby league, draws sporting crowds.",
+      "Heritage and culture run deep in this old iron-and-coal port. St Michael's Church carries fabric back to the 12th century, St John's Church of 1823 marks the Battle of Waterloo, and the 19th-century coal-mine remains at Jane Pit show off the town's early industrial engineering. The historic harbour quarter, the old Marsh and Quay, and the town's annual Uppies and Downies medieval football game keep a strong local identity through the events calendar.",
+      "Underpinning it all is a base of hotels, inns and guest houses serving the Cumbrian coast, business travellers and Lake District day-trippers, with a guide scene built around the harbour and the Curwen story. Workington station on the Cumbrian Coast Line links the town toward Carlisle and Barrow, the A66 runs east to Penrith and the M6, and operators handle stopover trade as well as visitors heading for the western fells and the Solway shore."
+    ],
+    "kit_loc": "across the coast's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Workington attraction or hotel group, a heritage site or a small independent activity centre in Whitehaven"
+  },
+  "Walton-on-Thames": {
+    "region": "Walton-on-Thames and the Elmbridge riverside",
+    "nearby": ["Esher", "Staines", "Kingston upon Thames"],
+    "s1_head": "Kitting the visitor economy of Elmbridge",
+    "s1loc": [
+      "Walton-on-Thames sits on the south bank of the Thames in the Borough of Elmbridge, and its draw is the river itself. Cowey Sale gives pleasant riverside walks, a cafe, picnic areas and a marina with boat sales and river trips, while the historic core of Celtic origin appears in the Domesday Book of 1086 with its church, mills and fishery. The grand Mount Felix villa, where the first film of Alice in Wonderland was shot in 1903, marks the town's place in the river's story.",
+      "The leisure and activity layer runs along the towpath toward Sunbury Lock and the Walton Bridge crossing, with rowing and sailing clubs on the water, riverside greens and the open ground of Cowey Sale used for events and play. The wider Elmbridge riverside, with its boatyards, marinas and the meadows toward Desborough Island, gives families, anglers and watersports operators a busy outdoor offer through the warmer season along this stretch of the Thames.",
+      "Heritage and culture centre on the Riverhouse Barn Arts Centre on Manor Road, an 18th-century Thames barn restored in 1989 into a gallery, craft studio, courtyard and cafe under a trust named for the playwright RC Sherriff, who wrote Journey's End nearby. The town's film heritage runs through Cecil Hepworth's silent-film studios and the later Nettlefold Studios, where The Adventures of Robin Hood was made, giving Walton a distinctive cultural identity.",
+      "Underpinning it all is a base of hotels, riverside pubs and guest houses serving Elmbridge, business travellers and London day-trippers, with a guide scene built around the river and the arts centre. Walton-on-Thames station on the South Western line links the town toward Waterloo and Woking, the A3 and M25 sit close by, and operators handle commuter and visitor trade out to Hampton Court, Kingston upon Thames and the Surrey countryside beyond."
+    ],
+    "kit_loc": "across the riverside's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Walton-on-Thames attraction or hotel group, a heritage site or a small independent activity centre in Esher"
+  },
+  "Esher": {
+    "region": "Esher and the Surrey commuter belt",
+    "nearby": ["Walton-on-Thames", "Kingston upon Thames", "Epsom"],
+    "s1_head": "Kitting the visitor economy of north Surrey",
+    "s1loc": [
+      "Esher sits in the outer suburbs south-west of London, and its marquee draw is Sandown Park Racecourse, open since 1875, where the Eclipse Stakes and five Grade One National Hunt races run and where the BBC made the world's first live horse-racing broadcast in 1948. Alongside the racing, Sandown Park hosts concerts, trade shows, car shows and fairs across the year, pulling large crowds into the town and keeping its hospitality trade busy.",
+      "The leisure and activity layer centres on Claremont Landscape Garden, one of the earliest surviving English landscape gardens, where Charles Bridgeman, Capability Brown, William Kent and Sir John Vanbrugh shaped the turf amphitheatre, serpentine lake, grotto, Camellia Terrace and Belvedere Tower from 1715. Beyond it, the National Trust grounds, Esher Common, West End Common and the open heath toward Oxshott give walkers, riders and families a busy outdoor offer through the warmer season.",
+      "Heritage and culture run through Esher's high street and the surrounding estates, from the medieval Esher Place and the Tudor Wayneflete's Tower by the Mole to Christ Church on the Green and the old church of St George. The grand houses of Claremont and the racing tradition at Sandown sit alongside a lively local events calendar, with the neighbouring villages of Claygate, Hinchley Wood and Thames Ditton keeping a distinct character within the borough.",
+      "Underpinning it all is a deep base of hotels, inns and guest houses serving north Surrey, racegoers, business travellers and London day-trippers, with a guide scene built around Sandown Park and Claremont. Esher station and nearby Hersham and Thames Ditton stations link the town toward Waterloo, the A3 and M25 run close by, and operators handle event crowds as well as visitors heading for Hampton Court, Box Hill and the wider Surrey countryside nearby."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Esher attraction or hotel group, a heritage site or a small independent activity centre in Walton-on-Thames"
+  },
+  "Whitefield": {
+    "region": "Whitefield and the Irwell Valley",
+    "nearby": ["Bury", "Radcliffe", "Middleton"],
+    "s1_head": "Kitting the visitor economy of north Manchester",
+    "s1loc": [
+      "Whitefield sits on rising ground above the Irwell Valley between Bury and Manchester, and its biggest visitor draw is right on its border at Heaton Park, one of the largest municipal parks in Europe. The park surrounds the Grade I listed neoclassical Heaton Hall, remodelled by James Wyatt in 1772, and holds a boating lake, an animal farm, ornamental gardens, an observatory, a Papal monument and a heritage tramway and museum, pulling families across the year.",
+      "The leisure and activity layer runs through Whitefield Park, known locally as Stanley Park, opened in 1890 in Victorian style with its bandstand, pond and ornamental beds, alongside Besses Park, Hamilton Road Park and the broad green sweep of Philips Park on the Prestwich boundary, with woodland, meadows and River Irwell trails. Together they give families and activity operators a busy outdoor offer through the warmer season on the town's doorstep.",
+      "Heritage and culture run through the old hamlets of Besses o' th' Barn, Stand, Park Gate, Lily Hill and Four Lane Ends that grew into Whitefield, with the Roman road from Manchester to Ribchester crossing the area. The Besses o' th' Barn Band, a brass band formed in 1818, carries a long musical tradition, while All Saints Church at Stand, designed by Charles Barry, anchors the streetscape and the local events calendar through the year.",
+      "Underpinning it all is a base of inns, pubs and guest houses serving north Manchester, day-trippers and park visitors, with a guide scene built around Heaton Park and the Irwell Valley. The Besses o' th' Barn and Whitefield Metrolink tram stops link the town directly into Manchester and Bury, the M60 runs close by, and operators handle commuter and visitor trade out to Bury, Radcliffe, Prestwich and the East Lancashire countryside nearby."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Whitefield attraction or hotel group, a heritage site or a small independent activity centre in Bury"
+  },
+  "Potters Bar": {
+    "region": "Potters Bar and southern Hertfordshire",
+    "nearby": ["Barnet", "Borehamwood", "Hatfield"],
+    "s1_head": "Kitting the visitor economy of southern Hertfordshire",
+    "s1loc": [
+      "Potters Bar sits on the old Great North Road in southern Hertfordshire, and its visitor story is told at the Potters Bar Museum in the Wyllyotts Centre, opened in 1990, charting the town's growth from a small village on the coaching route between Barnet and Hatfield to the present day. The famous Zeppelin shot down over the town in 1916 by Wulstan Tempest remains one of its best-known historical events and a centrepiece of the local collection.",
+      "The leisure and activity layer centres on Oakmere Park, the former grounds of Oakmere House, with two small lakes, footpaths and the Oakmere and Parkfield tree trail, alongside Parkfield, the Furzefield leisure pool and the open countryside of the Green Belt around South Mimms. Nearby Trent Park, Hatfield Forest and the wider Hertfordshire commons give families, walkers and activity operators a busy outdoor offer through the warmer season around the town.",
+      "Heritage and culture run through the old village core and the surrounding estates, with the grand Hatfield House and its Jacobean halls a short ride north, the historic St Albans cathedral city to the west and the coaching history of the Great North Road shaping the town. The Wyllyotts Centre theatre, the Potters Bar and South Mimms churches and a steady local events calendar give the town a cultural life beyond its commuter role.",
+      "Underpinning it all is a base of hotels, inns and guest houses serving southern Hertfordshire, business travellers and London day-trippers, with the proximity of the film studios at Borehamwood and Elstree adding visitor trade. Potters Bar station on the East Coast route links the town quickly into King's Cross and toward Hatfield, the A1(M) and M25 meet at South Mimms close by, and operators handle commuter and visitor trade across the county nearby."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Potters Bar attraction or hotel group, a heritage site or a small independent activity centre in Barnet"
+  }
+}

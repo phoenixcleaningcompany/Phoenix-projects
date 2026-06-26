@@ -1,0 +1,93 @@
+{
+  "Alfreton": {
+    "region": "Alfreton and the Amber Valley",
+    "nearby": ["Ripley", "Sutton-in-Ashfield", "Belper"],
+    "s1_head": "Kitting the visitor economy of the Amber Valley",
+    "s1loc": [
+      "Alfreton is an old market town in the Amber Valley of Derbyshire, its charter granted in 1252, and its marquee draws cluster around the parkland and the medieval parish church of St Martin, parts of which date from the 12th century and which holds the monuments of the Palmer-Morewood family of Alfreton Hall. The Georgian Alfreton Hall and its surrounding Alfreton Park, the c.1649 Alfreton House at the top of the high street, and the indoor market hall anchor the historic centre for visitors arriving off the A38 and A61.",
+      "The leisure and activity layer spreads across Alfreton Park and the Alma Watchorn Park, the sports ground and pavilion given to the town in memory of his son by Robert Watchorn, the local-born emigrant who became Commissioner of Immigration at Ellis Island in New York. The wider Amber Valley countryside, the River Amber, and the walking and cycling routes toward South Wingfield and the Peak District fringe keep families and operators busy across the warmer season.",
+      "Heritage and culture run through the Alfreton and District Heritage Centre, set in a former chapel and packed with local artefacts, documents and photographs, and the dramatic ruins of Wingfield Manor at South Wingfield, the 1440s palace of Ralph, Lord Cromwell where Mary Queen of Scots was held under the Earl of Shrewsbury. The Elizabethan Carnfield Hall near South Normanton and the town's coal-mining past give the area its long historic depth.",
+      "The visitor trade leans on a town and roadside hotel base, including the Alfreton Hall site, and a guide scene built around the heritage centre, Wingfield Manor and the Amber Valley. Alfreton railway station links Nottingham, Derby and Sheffield, and the A38 corridor puts Ripley, the Midland Railway heritage steam line at Butterley, Belper and the Derwent Valley Mills World Heritage Site within an easy day trip, feeding a steady seasonal flow of visitors into the valley."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Alfreton attraction or hotel group, a heritage site or a small independent activity centre in Ripley"
+  },
+  "Arbroath": {
+    "region": "Arbroath and the Angus coast",
+    "nearby": ["Dundee", "Perth", "Glenrothes"],
+    "s1_head": "Kitting the visitor economy of the Angus coast",
+    "s1loc": [
+      "Arbroath is a historic fishing and harbour town on the Angus coast, and its marquee draw is Arbroath Abbey, founded in 1178 by King William the Lion for Tironensian monks from Kelso and forever tied to the 1320 Declaration of Arbroath and to the 1951 reappearance of the Stone of Destiny. Down at the working harbour, the Signal Tower Museum, the former shore station for the Bell Rock Lighthouse - the world's oldest surviving sea-washed lighthouse, 11 miles offshore - tells the town's maritime story.",
+      "The leisure and activity layer spreads across West Links Park beside the seafront, the long sweep of Victoria Park, and the Seaton Cliffs Nature Trail, which runs a mile and a half along red sandstone cliffs past blowholes and stacks to Carlinheugh Bay and the fishing village of Auchmithie, the original home of the smokie. Coastal walks, the beach, seabird and dolphin watching, and the surrounding Angus countryside keep operators busy across the warmer season.",
+      "Heritage and culture run through Hospitalfield House, the Scots Baronial mansion west of the town with its 19th-century artist studios and redesigned walled garden, now an arts centre on a site that served Benedictine monks from 1260. The 1867 Webster Memorial Theatre, the Arbroath Library and Art Gallery, the Arbroath Smokie Trail and a calendar of seafront events run by the ANGUSalive trust give the town its distinctive coastal culture.",
+      "The visitor trade leans on a town and harbour hotel and guest-house base and a guide scene built around the abbey, the smokie and the Bell Rock story. Arbroath railway station sits on the main Aberdeen-to-Dundee line, putting Dundee, the V and A Dundee, Perth and the wider Angus glens and coast within an easy day trip, and the seasonal draw of the cliffs, the harbour and the abbey feeds a steady flow of visitors into the town."
+    ],
+    "kit_loc": "across the coast's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Arbroath attraction or hotel group, a heritage site or a small independent activity centre in Dundee"
+  },
+  "Elgin": {
+    "region": "Elgin and Moray Speyside",
+    "nearby": ["Inverness", "Aberdeen", "Perth"],
+    "s1_head": "Kitting the visitor economy of Moray Speyside",
+    "s1loc": [
+      "Elgin is the cathedral city and county town of Moray, and its marquee draw is the ruined Elgin Cathedral, the 13th-century 'Lantern of the North', one of Scotland's most beautiful medieval buildings, whose surviving West Front towers and Chapter House are open to visitors and reward the climb with views over the town. The medieval street plan, the Biblical Garden of 110 scriptural plants laid out beside the cathedral, and Cooper Park anchor the historic core for visitors arriving off the A96.",
+      "The leisure and activity layer spreads across Cooper Park, with its pond, play areas and the Grant Lodge, the walks along the River Lossie, and the wider Moray Speyside countryside running to the coast at Lossiemouth and Burghead. The Glen Moray distillery, on the banks of the Lossie and making single malt since 1897, runs year-round tours and tastings, and the Speyside whisky country, beaches and dolphin-watching at the Moray Firth keep operators busy across the warmer season.",
+      "Heritage and culture run through Elgin Museum, one of the first custom-built museums in Scotland and still independently run, famed for its fossils, and Johnstons of Elgin, the woollen mill making cashmere since 1797 with a guided mill tour and visitor centre. The cathedral ruins, the Pluscarden Abbey nearby, the historic Plainstones and a calendar of Moray events give the city its long cultural depth.",
+      "The visitor trade leans on a town and country hotel base and a guide scene built around the cathedral, the whisky trail and the mill. Elgin railway station sits on the Aberdeen-to-Inverness line, the A96 corridor puts Inverness, Aberdeen and the Speyside distilleries within reach, and the seasonal draw of the cathedral, the coast and the whisky country feeds a steady flow of visitors into this fairly isolated corner of Moray, with Perth a longer day trip to the south."
+    ],
+    "kit_loc": "across the city's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Elgin attraction or hotel group, a heritage site or a small independent activity centre in Inverness"
+  },
+  "Rugeley": {
+    "region": "Rugeley and Cannock Chase",
+    "nearby": ["Cannock", "Lichfield", "Stafford"],
+    "s1_head": "Kitting the visitor economy of Cannock Chase",
+    "s1loc": [
+      "Rugeley is a historic market town on the eastern edge of Cannock Chase, the designated National Landscape of heath and forest, and its marquee draw is the Chase itself, with Forestry England trails, the Iron Age hillfort of Castle Ring and the German prisoners' World War One battlefield model near Brocton within reach. In the town, the 1823 St Augustine's Church beside the Trent and Mersey Canal and the medieval ruins of the Old Chancel anchor the centre for visitors off the A51 and A460.",
+      "The leisure and activity layer centres on the Birches Valley Forest Centre, a hub for high-ropes courses with 1,500 metres of treetop crossings, a 260-metre zip wire, Segways and mountain-bike trails, alongside Hagley Park with its skate park and the viewpoint of Etching Hill on the north-eastern edge of the Chase. The Trent and Mersey Canal towpath and the wider Chase forest keep walkers, cyclists and families busy across the warmer season for the South Staffordshire catchment.",
+      "Heritage and culture run through the Cannock Chase Heritage Trail, the Museum of Cannock Chase at nearby Hednesford with its mining and First World War galleries, and the town's coal-mining and tanning past. The redeveloped former Rugeley Power Station site, the historic market charter and a local events calendar built around the Chase and the canal give the town its distinctive Staffordshire character.",
+      "The visitor trade leans on a town and roadside hotel base across the Cannock and Lichfield corridor and a guide scene built around Cannock Chase, the forest centre and the canal. Rugeley Town and Rugeley Trent Valley stations link Stafford, Cannock and Birmingham, and the road network puts Lichfield Cathedral, Chasewater Country Park with its heritage steam railway and the wider Chase within an easy day trip, feeding a steady seasonal flow into the area."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Rugeley attraction or hotel group, a heritage site or a small independent activity centre in Cannock"
+  },
+  "Oadby": {
+    "region": "Oadby and the Leicester fringe",
+    "nearby": ["Leicester", "Hinckley", "Market Harborough"],
+    "s1_head": "Kitting the visitor economy of the Leicester fringe",
+    "s1loc": [
+      "Oadby sits on the southern edge of Leicester in the Borough of Oadby and Wigston, and its marquee draws are Leicester Racecourse, a dual flat and National Hunt venue to the north of the town hosting around thirty race days a year, and the University of Leicester Botanic Garden right beside it. The free sixteen-acre garden, founded in 1921 and laid out across the grounds of four former private houses, gathers plants from around the world and anchors the visitor offer for the wider city fringe.",
+      "The leisure and activity layer centres on Brocks Hill Country Park, a sixty-seven-acre park and visitor centre opened in 1999 on the former Grange Farm and now drawing over 150,000 visitors a year across its woodland, meadows, ponds and community orchard. The Attenborough Arboretum within the Botanic Garden, the recreation grounds and the walking and cycling routes toward the Leicestershire countryside keep families and operators busy through the warmer season.",
+      "Heritage and culture run through the Botanic Garden's heritage glasshouses and the Bronze Age and medieval finds across Brocks Hill, alongside the town's old framework-knitting and hosiery past shared with neighbouring Wigston. The conservation core, the historic houses behind the Botanic Garden and a local events calendar built around the racecourse, the country park and the gardens give Oadby its distinctive character on the Leicester edge.",
+      "The visitor trade leans on a roadside and business hotel base and a guide scene built around the racecourse, the Botanic Garden and Brocks Hill. Oadby has no station of its own but sits minutes from Leicester city centre and its mainline station on the London-to-Sheffield line, putting the National Space Centre, the King Richard III Visitor Centre, Market Harborough and the Leicestershire countryside within an easy day trip, feeding a steady flow of visitors into the borough."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Oadby attraction or hotel group, a heritage site or a small independent activity centre in Leicester"
+  },
+  "Kidsgrove": {
+    "region": "Kidsgrove and north Staffordshire",
+    "nearby": ["Newcastle-under-Lyme", "Stoke-on-Trent", "Biddulph"],
+    "s1_head": "Kitting the visitor economy of north Staffordshire",
+    "s1loc": [
+      "Kidsgrove sits at the northern tip of Staffordshire on the Cheshire border, and its marquee draw is the historic Harecastle Tunnel on the Trent and Mersey Canal, the great Brindley and Telford engineering feat once among the longest tunnels in Britain, carrying coal into the Potteries and famous for the orange iron-rich water at its mouth. The canal corridor and the town's coal-mining and ironworking past, which grew it from the 18th century, anchor the area for visitors off the A50 and A500.",
+      "The leisure and activity layer centres on Bathpool Park, over 178 acres of woodland walks, a main lake and ponds with a cycle route, mountain-bike track and trim trail, alongside Clough Hall Park with its sports centre and the annual Rotary bonfire and fireworks. The canal towpaths, the climb to Mow Cop on the Cheshire border and the wider north Staffordshire countryside keep walkers, cyclists and families busy across the warmer season for the Potteries catchment.",
+      "Heritage and culture run through Mow Cop and its 1754 folly castle, the birthplace of Primitive Methodism where Hugh Bourne held the first open-air camp meeting in 1807 and the start of the 92-mile Staffordshire Way to Kinver Edge. The Harecastle Tunnel engineering story, the canal heritage and a local events calendar built around the parks and the waterways give Kidsgrove its distinctive industrial character.",
+      "The visitor trade leans on a town and roadside hotel base across the Newcastle-under-Lyme and Stoke corridor and a guide scene built around the canal, the Harecastle Tunnel and Mow Cop. Kidsgrove railway station, opened in 1848 on the North Staffordshire line, links Stoke-on-Trent, Crewe and Manchester, putting the Potteries ceramics attractions, Biddulph Grange Garden and the north Staffordshire countryside within an easy day trip, feeding a steady seasonal flow into the area."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Kidsgrove attraction or hotel group, a heritage site or a small independent activity centre in Newcastle-under-Lyme"
+  },
+  "Bishop Auckland": {
+    "region": "Bishop Auckland and the Wear valley",
+    "nearby": ["Newton Aycliffe", "Darlington", "Spennymoor"],
+    "s1_head": "Kitting the visitor economy of the Wear valley",
+    "s1loc": [
+      "Bishop Auckland is the gateway to Weardale in County Durham, and its marquee draw is Auckland Palace, the medieval seat of the Prince Bishops of Durham, reopened in 2019 with its Long Dining Room hung with the Zurbaran paintings of Jacob and his Twelve Sons that have stood there for 250 years. The 150-acre historic parkland, the restored 17th-century Walled Garden and the viewing platform of the Auckland Tower in the marketplace anchor the centre for visitors off the A688.",
+      "The leisure and activity layer is led by Kynren, the Olympic-scale open-air live-action night show staged against Auckland Castle that retells 2,000 years of British history with a 1,000-strong local cast, alongside the historic parkland walks, the River Wear and the Wear valley countryside. The Weardale Railway heritage line runs from the town up the valley to Stanhope, and the wider dale, with walking, cycling and family days out, keeps operators busy across the warmer season.",
+      "Heritage and culture run through the Spanish Gallery, the UK's first museum of Spanish Golden Age art with works by El Greco, Velazquez and Zurbaran, the award-winning Faith Museum, and the Mining Art Gallery with over 400 works by coalfield artists, all part of The Auckland Project. Nearby Binchester Roman Fort, the Vinovia that guarded Dere Street, and the 7th-century Escomb Saxon Church give the area its deep historic layers.",
+      "The visitor trade leans on a town and country hotel and guest-house base and a guide scene built around Auckland Palace, Kynren and the galleries. The distinctive marketplace, with its 1860 Franco-Flemish town hall and the shopping spine of Newgate Street, leads to Bishop Auckland railway station on the Tees Valley line, putting Darlington, Durham and the Weardale dales within an easy day trip and feeding a steady seasonal flow of visitors into the Wear valley."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Bishop Auckland attraction or hotel group, a heritage site or a small independent activity centre in Newton Aycliffe"
+  }
+}
