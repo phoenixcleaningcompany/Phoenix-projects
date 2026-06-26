@@ -1,0 +1,93 @@
+{
+  "Tynemouth": {
+    "region": "Tynemouth and the North Tyneside coast",
+    "nearby": ["North Shields", "Whitley Bay", "South Shields"],
+    "s1_head": "Kitting the visitor economy of the North Tyneside coast",
+    "s1loc": [
+      "Tynemouth's marquee draw is Tynemouth Priory and Castle, the grade I listed headland ruin guarding the mouth of the Tyne with its Viking and coastal-defence history. Below it Longsands sweeps two miles toward St Mary's Island and Cullercoats Bay, a Blue Flag beach that anchors the seaside economy alongside the curving Tynemouth Pier and the picturesque King Edward's Bay tucked beneath the priory walls.",
+      "The leisure and activity layer runs on water and sand, with surfing, paddleboarding and watersports off Longsands and Cullercoats drawing operators through the warmer season. Tynemouth Aquarium, formerly the Blue Reef, sits beside the beach with sharks, seals and otters, while the wide promenade, the boating lake and the dunes give families and outdoor centres a busy coastal offer across the year.",
+      "Heritage and culture centre on the magnificently restored Victorian Tynemouth Station, where the weekend Tynemouth Station Market fills the platforms with more than a hundred and fifty stalls. Each July the Mouth of the Tyne Festival stages concerts within the priory and castle and street theatre through the village, and the North Shields Fish Quay nearby adds a working maritime heritage to the calendar.",
+      "The visitor trade draws on guest houses, the Grand Hotel and seaside lets across the village, with Whitley Bay's Spanish City dome and esplanade a short ride along the coast. The Tyne and Wear Metro carries day-trippers straight to the station and beaches, and the surrounding draws of North Shields, Whitley Bay and South Shields feed a steady seasonal flow into Tynemouth."
+    ],
+    "kit_loc": "across the coast's attractions, beaches and visitor sites",
+    "s2_intro": "Whether you are a major Tynemouth attraction or hotel group, a heritage site or a small independent activity centre in North Shields"
+  },
+  "Cannock": {
+    "region": "Cannock and Cannock Chase",
+    "nearby": ["Stafford", "Lichfield", "Walsall"],
+    "s1_head": "Kitting the visitor economy of Cannock Chase",
+    "s1loc": [
+      "Cannock sits at the edge of Cannock Chase, a designated National Landscape of heathland and forest that is the town's biggest visitor draw. The Birches Valley Forest Centre near Rugeley anchors the offer, while the wider Chase pulls walkers, cyclists and nature watchers across miles of trails. The German Military Cemetery and the Commonwealth war graves add a poignant landmark to a landscape shaped by mining and two world wars.",
+      "The leisure and activity layer is led by Go Ape at Birches Valley, with treetop crossings, rope swings and a long zip wire, plus the Follow the Dog and Monkey mountain bike trails and Gruffalo sculptures for families. Chasewater Country Park adds sailing, wakeboarding, paddleboarding and angling on its reservoir, and the Hednesford Hills heathland gives outdoor and activity operators a full seasonal programme.",
+      "Heritage and culture run through the Museum of Cannock Chase at Hednesford, set on the old Valley Colliery with exhibitions on the area's mining past and its First World War role. The Chasewater Railway runs vintage steam and diesel trains around the reservoir from Brownhills to Chasetown Church Street, and the Chase's wartime and industrial story gives guides and cultural operators a distinct local narrative.",
+      "The visitor trade draws on hotels, lodges and inns across Cannock and around the Chase, with tour, guide and activity operators working the forest, the reservoir and the heritage railway. Cannock station and the M6 and M6 Toll carry day-trippers in from the West Midlands, and the surrounding draws of Stafford, Lichfield and Walsall feed a steady seasonal flow into the town."
+    ],
+    "kit_loc": "across the Chase's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Cannock attraction or hotel group, a heritage site or a small independent activity centre in Stafford"
+  },
+  "Farnborough": {
+    "region": "Farnborough and north-east Hampshire",
+    "nearby": ["Aldershot", "Camberley", "Fleet"],
+    "s1_head": "Kitting the visitor economy of Farnborough and north-east Hampshire",
+    "s1loc": [
+      "Farnborough is the home of British aviation, and the Farnborough International Airshow has drawn the world's aerospace sector to the airfield every two years since 1948, filling the skies and the town with visitors. The Farnborough Air Sciences Trust Museum tells that story from a 1908 listed building once home to the Royal Balloon School, displaying Frank Whittle's early jet engines and a full-scale Cody Flyer in the Cody Pavilion.",
+      "The leisure and activity layer spreads across the green spaces of Rushmoor, from the lakes and woodland of Farnborough to the family parks and outdoor venues around the airfield. The restored Farnborough Historic Wind Tunnels and the surrounding heath and common land give walkers, cyclists and activity operators a varied offer, with the wider north-east Hampshire countryside drawing day visitors across the season.",
+      "Heritage and culture centre on St Michael's Abbey, the contemplative Benedictine monastery built by Empress Eugenie that holds the imperial mausoleum of Napoleon III, a striking landmark and guided draw. The aviation legacy threads through the town, from the early flights of Samuel Cody to the Concorde research models in the museum, giving guides and cultural operators a distinctive Farnborough narrative across the calendar.",
+      "The visitor trade is led by business and event hotels serving the airshow, the Farnborough International Exhibition and Conference Centre and the busy Farnborough Airport, with guides and tour operators working the aviation heritage. Mainline rail to London Waterloo and the M3 carry visitors in, and the surrounding draws of Aldershot, Camberley and Fleet feed a steady seasonal and event-driven flow into the town."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Farnborough attraction or hotel group, a heritage site or a small independent activity centre in Aldershot"
+  },
+  "Torquay": {
+    "region": "Torquay and the English Riviera",
+    "nearby": ["Paignton", "Newton Abbot", "Exeter"],
+    "s1_head": "Kitting the visitor economy of the English Riviera",
+    "s1loc": [
+      "Torquay is the capital of the English Riviera, its palm-lined harbour and marina holding almost a thousand berths on the north shore of Tor Bay. Kents Cavern, a sprawling limestone cave complex inhabited for at least forty thousand years, ranks among the oldest dwellings in Britain, while the seafront, Princess Pier and the elegant Victorian terraces above the harbour anchor one of the South West's busiest seaside economies.",
+      "The leisure and activity layer is led by Babbacombe Model Village and Gardens, opened in 1963 and now home to thirteen thousand miniature figures, and the historic Babbacombe Cliff Railway funicular dropping to Oddicombe beach. Watersports and boat trips work out of Torquay Harbour, and the beaches, the coast path and the family attractions of Tor Bay keep activity and tour operators busy through the warmer months.",
+      "Heritage and culture run from Cockington, a thatched village of narrow lanes, forge and country park on the town's edge, to the Agatha Christie connections that fill the calendar with the annual International Agatha Christie Festival. Torre Abbey, an 800-year-old monastery turned museum and gardens, and the Princess Theatre on the seafront give guides and cultural operators a rich Riviera story across the season.",
+      "The visitor trade rests on a deep base of seafront hotels, the grand Imperial among them, with guest houses and holiday lets across the bay and a busy tour-operator and guide scene. Rail links to Exeter and beyond and the steam line to Paignton carry day-trippers in, and the surrounding draws of Paignton, Newton Abbot and Exeter feed a strong seasonal flow into Torquay."
+    ],
+    "kit_loc": "across the bay's attractions, beaches and visitor sites",
+    "s2_intro": "Whether you are a major Torquay attraction or hotel group, a heritage site or a small independent activity centre in Paignton"
+  },
+  "Inverness": {
+    "region": "Inverness and the Scottish Highlands",
+    "nearby": ["Elgin", "Aberdeen", "Perth"],
+    "s1_head": "Kitting the visitor economy of the Highland capital",
+    "s1loc": [
+      "Inverness is the capital of the Highlands and the gateway to Loch Ness, with the immersive Inverness Castle Experience now open above the River Ness and the dramatic Ness Bridge at its heart. The Caledonian Canal, Thomas Telford's nineteenth-century waterway linking coast to coast, draws boat tours hunting for Nessie and watching for dolphins out toward Chanonry Point on the Moray Firth, anchoring one of Scotland's busiest visitor economies.",
+      "The leisure and activity layer runs through the peaceful Ness Islands, a riverside park linked by Victorian footbridges, and out onto the loch by cruise boat from the canal. Dolphin and wildlife watching on the Moray Firth, the surrounding glens and the ski slopes and trails of nearby Aviemore and the Cairngorms give activity, outdoor and tour operators a strong year-round and seasonal programme around the town.",
+      "Heritage and culture centre on the riverside Eden Court, the largest arts venue in the Highlands with theatres, cinemas and a nineteenth-century palace and chapel beside Inverness Cathedral. The covered Victorian Market and its independent makers fill the historic arcade, while Culloden Battlefield, site of the Jacobite last stand, and the Highland Games season give guides and cultural operators a deep local story across the calendar.",
+      "The visitor trade rests on a wide base of city hotels, guest houses and Bed and Breakfast accommodation, with a strong tour-operator and guide scene running Loch Ness, Culloden and Highland day trips. Inverness Airport, the rail line south and the overnight Caledonian Sleeper to London carry visitors in, and the nearest on-list draws of Elgin, Aberdeen and Perth feed a steady seasonal flow."
+    ],
+    "kit_loc": "across the city's attractions, riverside and visitor sites",
+    "s2_intro": "Whether you are a major Inverness attraction or hotel group, a heritage site or a small independent activity centre in Elgin"
+  },
+  "Wrexham": {
+    "region": "Wrexham and north-east Wales",
+    "nearby": ["Buckley", "Oswestry", "Ellesmere Port"],
+    "s1_head": "Kitting the visitor economy of Wrexham and north-east Wales",
+    "s1loc": [
+      "Wrexham's biggest landmark is the Pontcysyllte Aqueduct, Thomas Telford's UNESCO World Heritage waterway carrying the Llangollen Canal thirty-nine metres above the Dee Valley as the tallest navigable aqueduct in the world. In the city itself the medieval St Giles' Church tower, one of the Seven Wonders of Wales, anchors a visitor economy that has surged since the Welcome to Wrexham documentary put the new city on the global map.",
+      "The leisure and activity layer spreads from Erddig, the National Trust's eighteenth-century hall with its 1,200-acre estate and walled garden a short walk from the centre, to the canal towpaths and the Dee Valley trails around the aqueduct. Boat trips, walking and country parks across the county borough give activity and outdoor operators a steady offer through the warmer months and into the season.",
+      "Heritage and culture run through Ty Pawb, the arts hub, gallery and market whose name means Everybody's House, and the rugby and music traditions of the city. The historic Racecourse Ground, home of Wrexham AFC since 1864 and billed as the oldest international football stadium in the world, draws event and home-game crowds, while the Wrexham County Borough Museum tells the town's industrial and mining story.",
+      "The visitor trade has grown fast on the back of the football boom, with hotels and guest houses across the city and tour operators running aqueduct, Erddig and stadium visits. Rail links to Chester and the wider network and the A483 carry day-trippers in, and the surrounding draws of Buckley, Oswestry and Ellesmere Port feed a busy seasonal and event-driven flow into Wrexham."
+    ],
+    "kit_loc": "across the city's attractions, heritage sites and visitor venues",
+    "s2_intro": "Whether you are a major Wrexham attraction or hotel group, a heritage site or a small independent activity centre in Buckley"
+  },
+  "Loughborough": {
+    "region": "Loughborough and Charnwood Forest",
+    "nearby": ["Coalville", "Leicester", "Melton Mowbray"],
+    "s1_head": "Kitting the visitor economy of Loughborough and Charnwood",
+    "s1loc": [
+      "Loughborough's marquee draw is the Great Central Railway, the UK's only double-track main-line heritage railway, where full-size steam engines pass each other on the run to Leicester North from the beautifully preserved Edwardian Loughborough Central station. The town is also home to the world-famous John Taylor Bellfoundry, a grade II* listed working foundry that has cast bells for St Paul's Cathedral, anchoring a distinctive Charnwood visitor economy.",
+      "The leisure and activity layer runs out into Charnwood Forest, where Beacon Hill Country Park rises to 245 metres with dramatic rock formations and panoramic views over the Soar Valley, and The Outwoods offers ancient woodland walks. Loughborough University's expansive campus, known worldwide for sport, opens its public art trail to visitors, and the parks and forest trails give activity and outdoor operators a full seasonal offer.",
+      "Heritage and culture centre on the Carillon Tower in Queen's Park, the first grand carillon in England when completed in 1923 as a war memorial, its 47 Taylor-cast bells played at regular recitals through the summer. The Charnwood Museum in the former park baths traces local trades and the area's volcanic past, and the Great Central's 1940s Wartime Weekend fills the events calendar.",
+      "The visitor trade draws on hotels, inns and guest houses across the market town and the Charnwood villages, with guides and tour operators working the heritage railway, the bell foundry and the forest. Loughborough station on the Midland Main Line and the M1 carry day-trippers in, and the surrounding draws of Coalville, Leicester and Melton Mowbray feed a steady seasonal flow into the town."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Loughborough attraction or hotel group, a heritage site or a small independent activity centre in Coalville"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "Horsham": {
+    "region": "Horsham and West Sussex",
+    "nearby": ["Crawley", "Haywards Heath", "Worthing"],
+    "s1_head": "Kitting the visitor economy of West Sussex",
+    "s1loc": [
+      "Horsham anchors a busy West Sussex visitor patch built around the historic Carfax and the Causeway, with Horsham Museum and Art Gallery in a Tudor townhouse and the Horsham Park grounds of Park House drawing visitors into the centre. Leonardslee Lakes and Gardens, a Grade I listed landscape of seven interconnected lakes just outside town, adds a marquee day-trip draw for the surrounding area.",
+      "The leisure and activity layer keeps operators working across the seasons, from the 60-acre Horsham Park with its skate park and tennis courts to the Pavilions in the Park leisure complex and its 25-metre pool. Leechpool and Owlbeech Woods offer 53 acres of ancient woodland with signposted trails, while nearby Southwater Country Park brings watersports, lakes and family activity to the wider district.",
+      "Heritage and culture run through the Capitol, Horsham's theatre, studio and two-screen cinema venue, and the medieval St Mary's Church beside the Causeway's listed cottages. The town's market days, the Piazza events space and a calendar of festivals and outdoor performances keep the historic core lively, with Christ's Hospital school and its distinctive Tudor dress a long-standing landmark just to the south.",
+      "Underpinning the trade is a spread of hotels, inns and guest houses across Horsham and the Weald, with tour operators and guides working the South Downs and the gardens circuit. Strong rail links to London and Gatwick, plus the A24 and A264, bring weekenders and short-break visitors in steadily, and the proximity of Gatwick Airport feeds a year-round flow of arrivals into the local hotel base."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Horsham attraction or hotel group, a heritage site or a small independent activity centre in Crawley"
+  },
+  "Washington": {
+    "region": "Washington and Tyne and Wear",
+    "nearby": ["Gateshead", "Chester-le-Street", "Houghton le Spring"],
+    "s1_head": "Kitting the visitor economy of Tyne and Wear",
+    "s1loc": [
+      "Washington draws visitors to one of the North East's standout conservation sites, the WWT Washington Wetland Centre, 45 hectares of wetland and woodland on the River Wear home to flamingos, otters and rare wildfowl. Washington Old Hall, the 17th-century Jacobean manor tied to the ancestors of George Washington and now a National Trust property, gives the town a heritage landmark of genuine international pull.",
+      "The leisure and activity layer is broad, from Washington 'F' Pit Museum and its preserved Victorian winding engine to the rides and lake at nearby attractions across the wider district. The James Steel Park and the Northern Area Playing Fields offer riverside walks and open green space, while the Galleries Washington shopping and leisure quarter anchors family days out and indoor activity through the colder season.",
+      "Heritage and culture reach back to the town's coalmining and steel past, marked at the 'F' Pit and the Washington Heritage trail, with the Arts Centre Washington hosting exhibitions, theatre and workshops. The town's twelve numbered villages, a legacy of the New Town plan, give it a distinctive layout, and the nearby Penshaw Monument stands as a famous landmark on the skyline above the Wear.",
+      "Underpinning the trade is a hotel base around the A1(M) and A19 corridors that serves both leisure visitors and the business travel feeding Nissan and the wider Wearside economy. Strong road links place Newcastle, Sunderland and Durham all within easy reach, making Washington a practical touring base, and tour operators work the river, the coast and the surrounding heritage sites year round."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Washington attraction or hotel group, a heritage site or a small independent activity centre in Gateshead"
+  },
+  "Hornchurch": {
+    "region": "Hornchurch and the London Borough of Havering",
+    "nearby": ["Romford", "Upminster", "Ilford"],
+    "s1_head": "Kitting the visitor economy of Havering",
+    "s1loc": [
+      "Hornchurch anchors a leafy corner of east London where the Queen's Theatre, home to England's only resident company of actor-musicians in a 500-seat house, is the marquee draw. The town's RAF Hornchurch heritage, a Battle of Britain fighter station now remembered across Hornchurch Country Park, gives the area a strong wartime story that pulls visitors and history groups in throughout the year.",
+      "The leisure and activity layer centres on Hornchurch Country Park, over 100 hectares of meadow, woodland and wetland on the former airfield, with lakes, trails and a visitor centre. Langtons House and its landscaped gardens, ornamental lake and orangery add a Grade II listed green space, while the wider Havering parks and the Ingrebourne Valley nature reserve keep walkers and families busy across the seasons.",
+      "Heritage and culture run from the medieval St Andrew's Church, the famous horned church that gave the town its name, to the Fairkytes Arts Centre and a calendar of festivals on Hornchurch's high street. Just north, Upminster Windmill, a Grade II* listed 1805 smock mill, and the historic core of Romford add proper-noun heritage draws within an easy hop of the town centre.",
+      "Underpinning the trade is a hotel and guest-house base across Havering, with tour operators working the country parks, the RAF heritage sites and the Thames-side routes. District line and c2c rail services, plus the A12, A127 and the M25, bring day-trippers and short-break visitors out from central London, and the surrounding green belt gives the area a seasonal countryside draw close to the capital."
+    ],
+    "kit_loc": "across the borough's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Hornchurch attraction or hotel group, a heritage site or a small independent activity centre in Romford"
+  },
+  "Kettering": {
+    "region": "Kettering and Northamptonshire",
+    "nearby": ["Corby", "Wellingborough", "Rushden"],
+    "s1_head": "Kitting the visitor economy of north Northamptonshire",
+    "s1loc": [
+      "Kettering draws visitors to Wicksteed Park, a Grade II listed historic pleasure park founded in 1921 with over 25 rides, a miniature railway and 147 acres of parkland that remain one of the county's marquee family attractions. Boughton House, the Duke of Buccleuch's Baroque stately home often called the English Versailles, sits just outside town with grand interiors, priceless art and extensive landscaped grounds open seasonally.",
+      "The leisure and activity layer is well stocked, from the lakeside walks, play areas and meadows at Wicksteed Park to the open green space of Wicksteed and the wider Ise Valley. Indoor activity venues, the swimming and sports facilities at Kettering's leisure centre, and the family draws of the surrounding parkland keep operators busy in every season, with country walks linking the town to the Northamptonshire countryside.",
+      "Heritage and culture centre on the Alfred East Art Gallery and the adjoining Manor House Museum, telling Kettering's social and bootmaking industrial story alongside the work of Sir Alfred East. The landmark spire of the medieval Saints Peter and Paul Church, the historic Market Place and a calendar of town-centre events and markets give the town a genuine heritage core for visitors and tour groups.",
+      "Underpinning the trade is a hotel base led by the Kettering Park Hotel and a spread of inns and guest houses serving leisure and business visitors alike. Fast Midland Main Line trains to London and Leicester, plus the A14 and A43, make Kettering a practical touring base for the county, and tour operators work the stately homes, parkland and market towns of the surrounding area across the year."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Kettering attraction or hotel group, a heritage site or a small independent activity centre in Corby"
+  },
+  "Brierley Hill": {
+    "region": "Brierley Hill and the Black Country",
+    "nearby": ["Dudley", "Stourbridge", "Kingswinford"],
+    "s1_head": "Kitting the visitor economy of the Black Country",
+    "s1loc": [
+      "Brierley Hill is best known for Merry Hill, one of the largest shopping and leisure centres in the West Midlands with over 180 shops, restaurants and a cinema, drawing visitors from across the Black Country and beyond. The adjoining Waterfront canalside quarter adds a destination of bars, eateries and events, including Black Country street food and the much-loved Black Country Duck Race on the water.",
+      "The leisure and activity layer runs from canal cruises with the Dudley Canal and Tunnel Trust, whose boat trips pass through the floodlit limestone caverns beneath Castle Hill, to the family rides and animals of nearby Dudley Zoo and Castle. The Waterfront's digital mini-golf, the canal towpath network and the surrounding country parks keep operators working with visitors across the changing seasons.",
+      "Heritage and culture run deep in this glassmaking heartland, marked by the Red House Glass Cone, one of the few surviving glass cones in Europe, and the Stourbridge Glass Quarter just to the west. The Black Country Living Museum, an open-air recreation of industrial life, sits within easy reach, and the area's mining and ironworking past gives tour guides a rich seasonal events story to tell.",
+      "Underpinning the trade is a hotel and guest-house base clustered around Merry Hill and the Waterfront, serving shoppers, conference visitors and leisure breaks. Strong road links along the A461 and the wider Black Country network, plus the Midland Metro extension reaching the area, bring day-trippers in steadily, and tour operators work the canals, museums and glass heritage of the surrounding district year round."
+    ],
+    "kit_loc": "across the area's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Brierley Hill attraction or hotel group, a heritage site or a small independent activity centre in Dudley"
+  },
+  "Corby": {
+    "region": "Corby and north Northamptonshire",
+    "nearby": ["Kettering", "Market Harborough", "Wellingborough"],
+    "s1_head": "Kitting the visitor economy of the Welland Valley",
+    "s1loc": [
+      "Corby draws visitors to Rockingham Castle, a 1,000-year-old fortress founded by William the Conqueror with sweeping views over the Welland Valley, formal gardens and 450 years in a single family. East Carlton Country Park, 102 acres of woodland, lakes and a heritage centre telling Corby's steelmaking story, gives the town a second marquee draw and a natural focus for day-trippers from across the area.",
+      "The leisure and activity layer is led by Adrenaline Alley, one of the largest action-sports venues in Europe with over 120,000 square feet of skatepark across a six-acre site, pulling riders nationally. The Corby International Pool, the woodland trails and play areas at East Carlton, and the open green space of the surrounding country parks keep families and activity operators busy through every season.",
+      "Heritage and culture run from the Corby Cube and its 445-seat Core theatre, a modern cultural hub of performances, workshops and studio spaces, to the town's distinctive Scottish heritage rooted in its steelworks past. The biennial Highland Gathering, the town's industrial story and a calendar of events around the Cube and the Willow Place quarter give visitors and tour groups a genuinely local cultural pull.",
+      "Underpinning the trade is a hotel base around the town centre and the A43 corridor, serving leisure visitors and the business travel feeding Corby's logistics and industry. The reopened Corby railway station puts London within an hour, and the A14 and A6003 link the town to Kettering, Market Harborough and the wider Welland Valley, giving tour operators a practical base for the surrounding castles and countryside."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Corby attraction or hotel group, a heritage site or a small independent activity centre in Kettering"
+  },
+  "Bracknell": {
+    "region": "Bracknell and Berkshire",
+    "nearby": ["Wokingham", "Camberley", "Sandhurst"],
+    "s1_head": "Kitting the visitor economy of Bracknell Forest",
+    "s1loc": [
+      "Bracknell draws families to Coral Reef Waterworld, one of the largest interactive water worlds in England with its erupting volcano, flumes, splash pad and pirate ship, fully reopened after a major rebuild. The Look Out Discovery Centre, a hands-on science venue set on the edge of Swinley Forest, adds a second marquee attraction and a gateway into thousands of acres of Crown Estate woodland on the town's doorstep.",
+      "The leisure and activity layer is built around Swinley Forest, where Go Ape Bracknell runs treetop courses and the forest's trails draw walkers, riders and cyclists across the seasons. Lily Hill Park and the historic landscape of South Hill Park's grounds offer formal gardens and open green space, while the Lexicon shopping and leisure quarter brings indoor family activity, dining and a cinema into the town centre.",
+      "Heritage and culture centre on South Hill Park, a Grade II listed Georgian mansion that is now a thriving arts centre with two theatres, galleries, studios and a busy programme of performances and festivals. The town's New Town design story, the Wilde Theatre and a calendar of outdoor events in the surrounding parkland give visitors and tour groups a cultural anchor alongside the forest and water attractions.",
+      "Underpinning the trade is a hotel base around the town centre and the M3 and M4 corridors, serving leisure breaks and the business travel feeding Bracknell's tech and corporate base. Fast rail links to London Waterloo and the proximity of Ascot, Windsor and Legoland Windsor make the town a practical touring base, and tour operators work the forest, the racecourse and the royal landscape of the surrounding area year round."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Bracknell attraction or hotel group, a heritage site or a small independent activity centre in Wokingham"
+  }
+}

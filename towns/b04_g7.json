@@ -1,0 +1,93 @@
+{
+  "Leamington Spa": {
+    "region": "Leamington Spa and Warwickshire",
+    "nearby": ["Warwick", "Kenilworth", "Coventry"],
+    "s1_head": "Kitting the visitor economy of Royal Leamington Spa",
+    "s1loc": [
+      "Royal Leamington Spa runs an elegant visitor economy in central Warwickshire, built on its Regency spa heritage. The colonnaded Royal Pump Rooms, an early 19th-century bathhouse, now house the Leamington Spa Art Gallery and Museum, the Visitor Information Centre and the town library. The Parade, lined with Regency terraces and the Town Hall, and the grand villas of the Holly Walk conservation area anchor a town long known as the floral spa of England.",
+      "The leisure and activity layer centres on the award-winning Jephson Gardens, a 14-acre park named after Dr Henry Jephson, with its Glasshouse of tropical plants, sensory garden and sculpture trail beside the River Leam. Visitors hire rowing boats at the Leam Boat Centre in Mill Gardens, while Victoria Park, the Pump Room Gardens bandstand and indoor activity venues around the town keep families and operators busy through the warmer season.",
+      "Heritage and culture run deep in the town. The Royal Spa Centre stages theatre, music and comedy, while the Loft Theatre and the lively gallery scene reflect a creative streak. The Leamington Food and Drink Festival and the Art in the Park festival fill the events calendar each year, and the Regency streets of the Old Town and the smart Parade quarter give Leamington a distinct cultural character across the seasons.",
+      "Underpinning it all is a hotel and guesthouse trade serving leisure and business visitors, with a guide and coach scene reaching nearby Warwick Castle, Kenilworth Castle and the Coventry Transport Museum. Leamington Spa station and the M40 put the town within easy reach of Birmingham and London, so operators handle stopover trade as well as day-trippers heading for the Warwickshire countryside and the Cotswolds fringe nearby."
+    ],
+    "kit_loc": "across the town's attractions, gardens and visitor sites",
+    "s2_intro": "Whether you are a major Leamington Spa attraction or hotel group, a heritage site or a small independent activity centre in Warwick"
+  },
+  "Kidderminster": {
+    "region": "Kidderminster and the Severn Valley",
+    "nearby": ["Stourbridge", "Bromsgrove", "Droitwich"],
+    "s1_head": "Kitting the visitor economy of the Severn Valley",
+    "s1loc": [
+      "Kidderminster anchors a busy visitor economy in north Worcestershire, headlined by the Severn Valley Railway, whose steam-hauled trains run from the town's station along sixteen miles of the Severn Valley to Bridgnorth via Bewdley. The Museum of Carpet tells the story of the town's famous weaving trade in a former carpet works, while St Mary and All Saints Church and the statue of local hero Rowland Hill give the town centre a strong industrial heritage.",
+      "The leisure and activity layer is led by West Midlands Safari Park at nearby Bewdley, an award-winning attraction with over 165 species across a four-mile safari drive, plus an adventure theme park, sea lion shows and Safari Lodges for overnight stays. Brinton Park in the town, the Wyre Forest with its trails and the watersports and family draws along the River Severn keep operators trading through the warmer season.",
+      "Heritage and culture run through the wider district. Harvington Hall, a moated Tudor manor famous for its priest holes, and the riverside Georgian town of Bewdley with its museum and bridge draw visitors year-round. The events calendar at Brinton Park, the Kidderminster Town Hall stage and the surrounding villages of the Wyre Forest district give the area a cultural layer beyond its carpet-making past.",
+      "Underpinning it all is a hotel and inn trade serving railway enthusiasts, safari-park families and business visitors, with a guide and coach scene built around the Severn Valley Railway and Bewdley. Kidderminster station, shared by the heritage line and national services, and the A456 link the town to Birmingham and the Black Country, so operators handle day-trippers heading for the Wyre Forest, the Severn Valley and the Worcestershire countryside nearby."
+    ],
+    "kit_loc": "across the area's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Kidderminster attraction or hotel group, a heritage site or a small independent activity centre in Stourbridge"
+  },
+  "Weymouth": {
+    "region": "Weymouth and the Dorset coast",
+    "nearby": ["Dorchester", "Poole", "Bournemouth"],
+    "s1_head": "Kitting the visitor economy of the Dorset coast",
+    "s1loc": [
+      "Weymouth runs one of Dorset's busiest seaside visitor economies, built on a sweeping curve of golden sand and a colourful old harbourside. Nothe Fort, a Victorian sea fort at the harbour mouth with underground passages and ramparts looking out over the Jurassic Coast and the Isle of Portland, is a marquee draw, while the historic quayside, the Town Bridge and the Georgian Esplanade anchor a classic resort seafront.",
+      "The leisure and activity layer is strong through the season. Weymouth SEA LIFE Adventure Park brings families to its rescued sea turtles, otters and over 2,000 creatures, while the beach offers a traditional Punch and Judy show, donkey rides, pedalos and sandsculpture displays. Boat trips and watersports run from the harbour, and the sailing waters of Portland Harbour, host to the 2012 Olympic events at the National Sailing Academy, keep activity operators busy.",
+      "Heritage and culture run through the wider area. Sandsfoot Castle, a ruined Tudor artillery fort built for Henry VIII, the Tudor House on Trinity Street and the Brewers Quay heritage quarter draw visitors, while the events calendar fills with the Weymouth Carnival, the seafront firework displays and summer festivals on the beach. The harbourside pubs and the historic Hope Square quarter give the town a distinct seaside character year-round.",
+      "Underpinning it all is a deep hotel, guesthouse and holiday-park trade along the Esplanade and out toward Preston and Chickerell, with a guide and boat-tour scene built around the harbour and the Jurassic Coast. Weymouth station and the A354 link the resort to Dorchester and the wider county, so operators handle seasonal crowds as well as day-trippers heading for Portland, Lulworth Cove and the Dorset coast nearby."
+    ],
+    "kit_loc": "across the coast's attractions and seaside sites",
+    "s2_intro": "Whether you are a major Weymouth attraction or hotel group, a heritage site or a small independent activity centre in Dorchester"
+  },
+  "Canterbury": {
+    "region": "Canterbury and east Kent",
+    "nearby": ["Whitstable", "Herne Bay", "Faversham"],
+    "s1_head": "Kitting the visitor economy of east Kent",
+    "s1loc": [
+      "Canterbury runs one of the South East's biggest heritage visitor economies, drawing large numbers of overseas and domestic visitors. Canterbury Cathedral, a UNESCO World Heritage Site and seat of the Archbishop of Canterbury, is the marquee draw, sitting alongside the ruins of St Augustine's Abbey and St Martin's Church, the oldest parish church in continuous use in the English-speaking world. The medieval city walls and Westgate Towers frame a famously historic centre.",
+      "The leisure and activity layer runs across the year. The Canterbury Tales attraction brings Chaucer's pilgrims to life, while punting and rowing-boat trips on the River Stour wind through the old town and the Westgate Gardens. The Howletts and Wingham wildlife parks nearby, the Whitefriars shopping quarter and indoor activity venues keep families and operators busy, with watersports and beach days a short trip away on the north Kent coast.",
+      "Heritage and culture run exceptionally deep here. The Marlowe Theatre, one of the UK's most successful large-scale regional theatres and named UK Theatre of the Year in 2022, anchors the performing-arts scene, while the Beaney House of Art and Knowledge, the Roman Museum and the Canterbury Festival each autumn fill the cultural calendar. The cobbled lanes of the King's Mile and the Greyfriars Chapel give the city a layered medieval character.",
+      "Underpinning it all is a deep hotel, inn and guesthouse trade serving pilgrims, students and tour groups, with a strong guide and coach scene built around the Cathedral and the city walls. Canterbury East and West stations, with high-speed services to London, and the A2 link the city to the coast, so operators handle international visitors as well as day-trippers heading for Whitstable's oysters and the Kent countryside nearby."
+    ],
+    "kit_loc": "across the city's attractions, heritage and visitor sites",
+    "s2_intro": "Whether you are a major Canterbury attraction or hotel group, a heritage site or a small independent activity centre in Whitstable"
+  },
+  "Barry": {
+    "region": "Barry and the Vale of Glamorgan",
+    "nearby": ["Penarth", "Cardiff", "Bridgend"],
+    "s1_head": "Kitting the visitor economy of the Vale of Glamorgan",
+    "s1loc": [
+      "Barry anchors the seaside visitor economy of the Vale of Glamorgan, centred on Barry Island and the great sandy sweep of Whitmore Bay. The resort became a household name through the BBC comedy Gavin and Stacey, and walking tours now take visitors round its filming locations, from the amusement arcade to Marco's Cafe on the promenade. The beach, the colourful beach huts and the seafront shops anchor a classic South Wales resort.",
+      "The leisure and activity layer centres on Barry Island Pleasure Park, a seafront funfair with a rollercoaster, log flume, dodgems and waltzer alongside trampolines and pedal boats for younger families. Whitmore Bay offers rock-pooling, paddling and crazy golf, while the Knap Gardens and lake, the Barry Island foreshore and the watersports along the Glamorgan Heritage Coast keep activity operators busy through the warmer season.",
+      "Heritage and culture run through the wider area. The Barry Tourist Railway runs heritage trains along the seafront, while the historic docks, once among the busiest coal ports in the world, and Porthkerry Country Park with its towering viaduct draw visitors year-round. The events calendar on the promenade, the summer crowds at Whitmore Bay and the nearby clifftops of the Heritage Coast give the town a distinct seaside identity.",
+      "Underpinning it all is a hotel, guesthouse and holiday-stay trade serving day-trippers and Gavin and Stacey fans, with a guide and tour scene built around Barry Island and the docks. Barry and Barry Island stations link the resort to Cardiff in around twenty minutes, and the A4050 brings visitors from across the region, so operators handle seasonal crowds as well as trips out to Penarth, the Vale and the Glamorgan coast nearby."
+    ],
+    "kit_loc": "across the coast's attractions and seaside sites",
+    "s2_intro": "Whether you are a major Barry attraction or hotel group, a heritage site or a small independent activity centre in Penarth"
+  },
+  "Hamilton": {
+    "region": "Hamilton and South Lanarkshire",
+    "nearby": ["Motherwell", "Wishaw", "East Kilbride"],
+    "s1_head": "Kitting the visitor economy of South Lanarkshire",
+    "s1loc": [
+      "Hamilton runs a busy visitor economy as the administrative centre of South Lanarkshire, south east of Glasgow. The Hamilton Mausoleum, a vast domed tomb built for Alexander, the 10th Duke of Hamilton, is famous for one of the longest echoes in the world at around fifteen seconds. Chatelherault Country Park, with its William Adam hunting lodge of 1734 set in 500 acres of woodland and pathways, anchors the town's headline attractions.",
+      "The leisure and activity layer is led by M and D's, Scotland's Theme Park, with thrill rides, the Amazonia tropical house, Devil's Island adventure golf, ten-pin bowling and soft play beside Strathclyde Loch. The neighbouring Strathclyde Country Park offers watersports, walking and cycling trails around the loch, while Hamilton Park Racecourse stages flat racing through its summer season and indoor activity venues keep families busy across the year.",
+      "Heritage and culture run through the wider area. The Low Parks Museum tells the story of the town and the Cameronians regiment, while the New Lanark World Heritage Site, Robert Owen's restored cotton-mill village, draws visitors a short drive away. The events calendar at Chatelherault, the racing fixtures at Hamilton Park and the surrounding Clyde Valley villages give the town a heritage layer beyond its industrial past.",
+      "Underpinning it all is a hotel and guesthouse trade serving business visitors, racegoers and theme-park families, with a guide and coach scene reaching New Lanark and the Clyde Valley. Hamilton Central and Chatelherault stations and the M74 put Glasgow within easy reach, so operators handle stopover trade as well as day-trippers heading for the Falls of Clyde, the Clyde Valley garden centres and the Lanarkshire countryside nearby."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Hamilton attraction or hotel group, a heritage site or a small independent activity centre in Motherwell"
+  },
+  "Folkestone": {
+    "region": "Folkestone and the Kent coast",
+    "nearby": ["Hythe", "Dover", "Canterbury"],
+    "s1_head": "Kitting the visitor economy of the Kent coast",
+    "s1loc": [
+      "Folkestone runs a revived seaside visitor economy on the Kent coast, transformed from a Victorian holiday resort into a cultural hub. The Folkestone Harbour Arm, once a working ferry terminal, is now a lively destination of food stalls, bars and live music set against Channel views, with the lighthouse and the restored Harbour Station drawing crowds. The cliff-top Leas promenade and the historic harbour anchor a town remade around the waterfront.",
+      "The leisure and activity layer runs across the year. The Lower Leas Coastal Park is home to the South East's largest free adventure play area and an amphitheatre staging summer performances, while the historic Leas Lift funicular links the promenade to the seafront below. F51, a multi-storey indoor skatepark and climbing venue, the Sunny Sands beach and watersports along the coast keep families and activity operators busy through the season.",
+      "Heritage and culture run deep here. The Creative Quarter, a cobbled cluster of artists' studios and independent shops on the Old High Street, anchors a thriving arts scene, while the Folkestone Triennial fills the town with public art every three years. The Quarterhouse arts venue, the Step Short memorial arch marking the town's First World War embarkation role and the harbourside events calendar give Folkestone a strong cultural identity.",
+      "Underpinning it all is a hotel and guesthouse trade serving Channel travellers, art visitors and day-trippers, with a guide and tour scene built around the Harbour Arm and the Creative Quarter. Folkestone Central station, with high-speed services to London, and the nearby Eurotunnel terminal and M20 link the town to the Continent and the capital, so operators handle cross-Channel trade as well as visitors heading for Hythe, Dover and the Kent Downs nearby."
+    ],
+    "kit_loc": "across the coast's attractions and seaside sites",
+    "s2_intro": "Whether you are a major Folkestone attraction or hotel group, a heritage site or a small independent activity centre in Hythe"
+  }
+}

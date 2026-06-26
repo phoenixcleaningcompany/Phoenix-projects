@@ -1,0 +1,93 @@
+{
+  "Stourbridge": {
+    "region": "Stourbridge and the Black Country",
+    "nearby": ["Halesowen", "Brierley Hill", "Dudley"],
+    "s1_head": "Kitting the visitor economy of Stourbridge and the Glass Quarter",
+    "s1loc": [
+      "Stourbridge anchors its visitor economy on the historic Glass Quarter, headlined by the Red House Glass Cone at Wordsley, one of only four surviving glass cones in the country, set beside the Stourbridge Canal with its hot glass studio and industrial collection. The Stourbridge Glass Museum tells the story of more than four hundred years of locally made crystal, while the Ruskin Glass Centre brings together craft studios and designer-makers in the wider Wollaston and Audnam glassmaking heartland.",
+      "The leisure and activity layer keeps operators working through the seasons, from Mary Stevens Park, a Grade II registered Edwardian park with its boating lake, bandstand and conservation area, to the towpath walks along the Stourbridge Canal and the Stourbridge Sixteen Locks flight up to the main line. Stevens Park in Wollescote, the Clent Hills on the southern edge and the family attractions and activity centres across the area give walkers and day-trippers a varied year-round base.",
+      "Heritage and culture run deep in this old glassmaking town, from the medieval St Mary's Church at Oldswinford to the Bonded Warehouse on the canal basin, home to the Stourbridge Navigation Trust and a long-running events programme. The Stourbridge Town Hall hosts live performance, the Crystal Mile heritage trail links the quarter's surviving cones and kilns, and a calendar of glass festivals and markets across the town centre fills the cultural year.",
+      "Underpinning it all is a steady Black Country trade, served by hotels, guesthouses and coach operators bringing day visitors to the Glass Quarter, with the Stourbridge Town branch line, the Stourbridge Junction interchange and the motorway links carrying crowds in from Birmingham and beyond. Merry Hill at Brierley Hill, Dudley's marquee attractions and the Clent and Kinver country give the surrounding area a strong day-trip and seasonal draw across the year."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Stourbridge attraction or hotel group, a heritage site or a small independent activity centre in Halesowen"
+  },
+  "Ellesmere Port": {
+    "region": "Ellesmere Port and west Cheshire",
+    "nearby": ["Bebington", "Neston", "Runcorn"],
+    "s1_head": "Kitting the visitor economy of Ellesmere Port and west Cheshire",
+    "s1loc": [
+      "Ellesmere Port runs one of west Cheshire's busiest visitor economies, headlined by Blue Planet Aquarium at Cheshire Oaks, home to more than a hundred displays including the coral cave, the flooded forest and the Aquatunnel moving walkway. The National Waterways Museum sits on Thomas Telford's historic dock complex at the meeting of the Shropshire Union Canal and the Manchester Ship Canal, with restored Victorian buildings, locks, moorings and a fleet of historic narrow boats drawing visitors year-round.",
+      "The leisure and activity layer is anchored by the McArthurGlen Designer Outlet Cheshire Oaks, the largest of its kind in the country, drawing millions of shoppers a year just off junction 10 of the M53. The Coliseum Shopping and Leisure Park, the Whitby Park green space and the canal towpaths along the Shropshire Union give walkers, cyclists and family visitors a base, while boat trips and watersports on the waterways keep activity operators busy through the season.",
+      "Heritage and culture run deep around the docks, from the Telford-designed warehouses and the island warehouse at the National Waterways Museum to the boat-building and forge heritage of the port. The Civic Hall hosts live programmes, the Cheshire Oaks events calendar fills the retail and leisure year, and the wider Ellesmere Port story of canal trade and motor manufacturing gives the town a distinct industrial identity along the Mersey estuary.",
+      "Underpinning it all is a steady hotel base around Cheshire Oaks serving shoppers and day visitors, supported by coach operators working the outlet and the aquarium. Ellesmere Port station and the M53 and M56 links bring visitors in from the Wirral, Chester and Liverpool, while the Wirral peninsula, the historic city of Chester and the Mersey waterfront give the surrounding area a strong day-trip and seasonal draw across the year."
+    ],
+    "kit_loc": "across the town's attractions, waterways and visitor sites",
+    "s2_intro": "Whether you are a major Ellesmere Port attraction or hotel group, a heritage site or a small independent activity centre in Bebington"
+  },
+  "Dewsbury": {
+    "region": "Dewsbury and the Heavy Woollen district",
+    "nearby": ["Batley", "Mirfield", "Huddersfield"],
+    "s1_head": "Kitting the visitor economy of Dewsbury and the Heavy Woollen district",
+    "s1loc": [
+      "Dewsbury anchors its visitor economy on the heritage of the Heavy Woollen district, headlined by Dewsbury Minster, a Grade I listed church with roots reaching back to the seventh century and the early Christian Paulinus tradition. The Victorian Dewsbury Town Hall, with its grand seven-hundred-seat hall and classical frontage, anchors the town centre, while Dewsbury Market, one of the largest open-air markets in Yorkshire, has long drawn shoppers and visitors into the heart of the town.",
+      "The leisure and activity layer keeps operators working through the seasons, from Crow Nest Park, a Victorian park with its lake, gardens, bowling greens and play areas above the town, to the canal and river walks along the Calder and Hebble Navigation. The Trans Pennine Trail, the green spaces at Dewsbury Country Park and Thornhill, and the family attractions and activity centres across the borough give walkers, cyclists and day visitors a varied year-round base.",
+      "Heritage and culture run deep in this old textile town, from the Dewsbury Museum and its displays of childhood and industrial life in Crow Nest Park to the mill heritage and the carpet-making story of the wider district. The Town Hall concert season runs classical programmes with visiting orchestras, the Longcauseway and Daisy Hill conservation streets carry the Victorian townscape, and a calendar of markets and seasonal events fills the cultural year across the town.",
+      "Underpinning it all is a steady West Yorkshire trade, served by hotels, guesthouses and coach operators bringing day visitors to the minster and the market, with Dewsbury railway station on the Huddersfield line and the M1 and M62 links carrying crowds in from Leeds, Bradford and beyond. The Yorkshire Sculpture Park, Oakwell Hall and the Pennine countryside around the Spen and Calder valleys give the surrounding area a strong day-trip and seasonal draw across the year."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Dewsbury attraction or hotel group, a heritage site or a small independent activity centre in Batley"
+  },
+  "Widnes": {
+    "region": "Widnes and the borough of Halton",
+    "nearby": ["Runcorn", "St Helens", "Warrington"],
+    "s1_head": "Kitting the visitor economy of Widnes and the borough of Halton",
+    "s1loc": [
+      "Widnes anchors its visitor economy on industrial-heritage and science tourism, headlined by the Catalyst Science Discovery Centre, the interactive chemistry museum set in the 1860s Tower Building above the Mersey, with hands-on galleries, a live-science theatre and a rooftop observatory. The DCBL Stadium, home of the Widnes Vikings rugby league club, draws crowds to home games and fixtures, with the wider chemical-town story telling 170 years of manufacturing along the riverside.",
+      "The leisure and activity layer keeps operators working through the seasons at Spike Island, the riverside country park between the Mersey and the Sankey Canal, with its woodlands, wetlands, footpaths, restored Widnes Dock and views of the Mersey Gateway Bridge. The Trans Pennine Trail runs through the park, while Victoria Park, the Sankey Canal towpaths and the family attractions and activity centres across the town give walkers, anglers and cyclists a base year-round.",
+      "Heritage and culture run deep in this birthplace of the chemical industry, from the Tower Building and the canal-side dock heritage at Spike Island to the West Bank and the old transporter-bridge story across the Mersey narrows. The Catalyst events programme runs family workshops and science festivals, the Queens Hall hosts live performance, and a calendar of seasonal events along the waterfront fills the cultural year across the town.",
+      "Underpinning it all is a steady Halton trade, served by hotels, guesthouses and coach operators bringing day visitors to Catalyst and the riverside, with Widnes railway station, the Mersey Gateway crossing and the M62 and M56 links carrying crowds in from Liverpool, St Helens and beyond. Norton Priory across the river, the Mersey estuary trails and the wider north-west attractions give the surrounding area a strong day-trip and seasonal draw across the year."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Widnes attraction or hotel group, a heritage site or a small independent activity centre in Runcorn"
+  },
+  "Runcorn": {
+    "region": "Runcorn and the borough of Halton",
+    "nearby": ["Widnes", "Warrington", "Ellesmere Port"],
+    "s1_head": "Kitting the visitor economy of Runcorn and the borough of Halton",
+    "s1loc": [
+      "Runcorn anchors its visitor economy on heritage and the river crossing, headlined by Norton Priory Museum and Gardens, the most excavated monastic site in Europe, with its medieval undercroft, the largest collection of monastic stone sculpture in Britain and a walled garden across its woodland estate. The Mersey Gateway Bridge and the older Silver Jubilee Bridge frame the town's skyline above the Mersey narrows, drawing visitors to the historic crossing and the Weston Point docks.",
+      "The leisure and activity layer keeps operators working through the seasons at Norton Priory's gardens and woodland walks, the Bridgewater Canal towpaths through the old town, and the Wigg Island Community Park nature reserve on the estuary. The Trans Pennine Trail, Town Park at Runcorn Hill with its sandstone heath and the family attractions and activity centres across the borough give walkers, cyclists and day visitors a varied year-round base.",
+      "Heritage and culture run deep in this old canal and chemical town, from the eleventh-century Halton Castle ruins on their sandstone hilltop with commanding views over the estuary to the Bridgewater Canal heritage and the Runcorn Locks. The Brindley, the borough's 400-seat arts centre on the waterfront, runs theatre, music and live programmes, the All Saints Church and the conservation streets of the old town carry the townscape, and a calendar of seasonal events fills the cultural year.",
+      "Underpinning it all is a steady Halton trade, served by hotels, guesthouses and coach operators bringing day visitors to Norton Priory and the waterfront, with Runcorn station on the West Coast Main Line, the Mersey Gateway crossing and the M56 and M62 links carrying crowds in from Liverpool, Chester and beyond. Widnes across the river, the Cheshire countryside and the wider Mersey attractions give the surrounding area a strong day-trip and seasonal draw across the year."
+    ],
+    "kit_loc": "across the town's attractions, gardens and visitor sites",
+    "s2_intro": "Whether you are a major Runcorn attraction or hotel group, a heritage site or a small independent activity centre in Widnes"
+  },
+  "Rochester": {
+    "region": "Rochester and the Medway towns",
+    "nearby": ["Chatham", "Strood", "Gravesend"],
+    "s1_head": "Kitting the visitor economy of Rochester and the Medway towns",
+    "s1loc": [
+      "Rochester runs one of Kent's most historic visitor economies, headlined by Rochester Castle, whose twelfth-century keep is the tallest Norman keep in the country and the site of King John's bloody siege of 1215. Rochester Cathedral, England's second-oldest, stands just across the green with its Norman west front, medieval crypt and pilgrimage heritage, while the castle gardens above the Medway draw visitors to one of the finest castle-and-cathedral pairings in the south east.",
+      "The leisure and activity layer keeps operators working through the seasons, from the Esplanade and riverside walks along the Medway to the green spaces of The Vines and Jackson's Recreation Ground in the heart of the old city. Boat trips on the Medway, the watersports and sailing on the estuary downriver, and the family attractions and activity centres across the Medway towns give walkers, cyclists and day visitors a varied year-round base in and around Rochester.",
+      "Heritage and culture run deep in this Dickens city, from the Guildhall Museum in its grand 1687 building, with The Making of Mr Dickens gallery, to Restoration House, Eastgate House and the cobbled High Street of timber-framed and Georgian fronts. The Corn Exchange runs live programmes, the famous Rochester Dickens Festival fills the streets each December and June with costume parades and tours, and a calendar of markets and events fills the cultural year.",
+      "Underpinning it all is a steady Medway trade, served by hotels, guesthouses and coach operators bringing day visitors to the castle and cathedral, with Rochester station on the High Speed line putting London within forty minutes and the M2 and A2 links carrying crowds in from across Kent. Chatham Historic Dockyard, Upnor Castle across the river and the wider Medway and north Kent coast give the surrounding area a strong day-trip and seasonal draw across the year."
+    ],
+    "kit_loc": "across the city's attractions, riverside and visitor sites",
+    "s2_intro": "Whether you are a major Rochester attraction or hotel group, a heritage site or a small independent activity centre in Chatham"
+  },
+  "Twickenham": {
+    "region": "Twickenham and south west London",
+    "nearby": ["Hounslow", "Feltham", "Kingston upon Thames"],
+    "s1_head": "Kitting the visitor economy of Twickenham and south west London",
+    "s1loc": [
+      "Twickenham runs a strong south west London visitor economy built on sport and the river, headlined by Allianz Stadium, the home of England rugby and the largest dedicated rugby union venue in the world, seating up to 82,000 for home games and fixtures. Stadium tours take visitors through the players' tunnel, the changing rooms and the Royal Box, while the World Rugby Museum tells the story of the game through thousands of items of memorabilia and interactive displays.",
+      "The leisure and activity layer keeps operators working through the seasons, from the 66-acre parkland and riverside walks around Marble Hill, the English Heritage Palladian villa built for Henrietta Howard, to the Thames towpath, Twickenham Embankment and the boat trips up and down the river. Crane Park, York House Gardens and the watersports and rowing on the Thames, along with the family attractions across the borough, give walkers and day visitors a varied year-round base.",
+      "Heritage and culture run deep, from Strawberry Hill House, Horace Walpole's extraordinary Georgian Gothic-revival villa with its white turrets and lush gardens, to Eel Pie Island, the creative artists' colony across the bridge that gave the British rhythm-and-blues revival a stage in the 1960s. The York House riverside, the Twickenham conservation streets and a calendar of festivals, exhibitions and riverside events fill the cultural year across the town.",
+      "Underpinning it all is a steady hotel and guesthouse base serving rugby crowds and leisure visitors, supported by tour guides and event operators working the stadium and the historic houses. Twickenham station and the South Western rail links put central London and Waterloo within easy reach, Heathrow sits nearby, and the riverside attractions of Richmond, Kingston and Hampton Court give the surrounding area a strong day-trip and seasonal draw across the year."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Twickenham attraction or hotel group, a heritage site or a small independent activity centre in Hounslow"
+  }
+}

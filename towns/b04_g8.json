@@ -1,0 +1,93 @@
+{
+  "Crosby": {
+    "region": "Crosby and the Sefton coast",
+    "nearby": ["Bootle", "Formby", "Liverpool"],
+    "s1_head": "Kitting the visitor economy of the Sefton coast",
+    "s1loc": [
+      "Crosby draws visitors to one of the north west's most striking shores, where Antony Gormley's Another Place sets 100 life-size cast-iron figures across three kilometres of foreshore, exposed and submerged by the tides off Crosby Beach. The wide sands at Waterloo and Blundellsands, the dune frontage of the Sefton coast and the views across the Mersey to the Wirral and the Liverpool waterfront make this a marquee day-out destination on the city's northern edge.",
+      "The leisure and activity layer centres on the Crosby Lakeside Adventure Centre, a waterfront site on Crosby Marine Lake offering sailing, windsurfing, kayaking and paddleboarding alongside its Bunk Barn accommodation and camping area. The wider Crosby Coastal Park, the marina and the promenade walking and cycling routes through Waterloo and Blundellsands keep families and activity operators busy through the warmer season along the lake and the open shore.",
+      "Heritage and culture run through the older streets of Waterloo and Great Crosby, from the Victorian villas of Blundellsands to St Nicholas Church and the conservation areas set back from the front. The Crosby Civic Hall stages community events and shows, while the seafront's reputation as a film and photography backdrop, built on the Iron Men, gives the area a cultural identity that draws visitors well beyond the summer months.",
+      "Underpinning it all is a guest-house and Bed and Breakfast trade serving visitors to the coast and to nearby Liverpool, with a guide and walking-tour scene built around the Gormley figures and the Sefton shore. Blundellsands and Crosby, Waterloo and Hall Road stations on the Merseyrail Northern Line link the coast directly into Liverpool, putting the city's waterfront attractions and the wider Sefton dune coast within easy reach for day-trippers."
+    ],
+    "kit_loc": "across the coast's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Crosby attraction or hotel group, a heritage site or a small independent activity centre in Bootle"
+  },
+  "Keighley": {
+    "region": "Keighley and the Worth Valley",
+    "nearby": ["Bingley", "Shipley", "Bradford"],
+    "s1_head": "Kitting the visitor economy of the Worth Valley",
+    "s1loc": [
+      "Keighley anchors a busy visitor economy at the gateway to Bronte Country, with the Keighley and Worth Valley Railway running heritage steam services on the five-mile line from Keighley through Oakworth and Damems to Oxenhope, the route immortalised in the film The Railway Children. Cliffe Castle Museum, the lavish 1880s mansion of textile millionaire Henry Isaac Butterfield, sits in its landscaped park and draws families to its galleries, aviaries and glasshouses year-round.",
+      "The leisure and activity layer reaches out across the moors and parkland of the wider valley. Cliffe Castle Park with its fountains and greenhouses, the open moorland trails toward Haworth and Penistone Hill Country Park, and the riverside and reservoir walks around the Worth and the Aire give walkers and activity operators a strong outdoor offer. The heritage railway stations themselves serve as launch points for family days out across the season.",
+      "Heritage and culture run deep here. East Riddlesden Hall, a 17th-century National Trust manor house with its atmospheric interiors, gardens and great medieval barn, sits on the edge of town, while nearby Haworth and the Bronte Parsonage Museum, former home of the Bronte sisters, draw literary visitors from around the world. Keighley's Victorian mills, the cobbled main street of Haworth and the events around the railway fill the calendar through the year.",
+      "Underpinning it all is a guest-house and inn trade across Keighley, Haworth and the valley villages, with a guide and tour scene built around the railway and the Bronte connection. Keighley station on the Airedale Line links the town to Bradford, Leeds and Skipton, and the A629 and A650 carry day-trippers in from across West Yorkshire heading for the moors, the heritage line and the Bronte sites on the town's doorstep."
+    ],
+    "kit_loc": "across the valley's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Keighley attraction or hotel group, a heritage site or a small independent activity centre in Bingley"
+  },
+  "Eastleigh": {
+    "region": "Eastleigh and central Hampshire",
+    "nearby": ["Southampton", "Winchester", "Fareham"],
+    "s1_head": "Kitting the visitor economy of central Hampshire",
+    "s1loc": [
+      "Eastleigh carries a steady visitor economy at the heart of central Hampshire, anchored by Lakeside Country Park, 22 acres of lakes, wet meadow and woodland with its narrow-gauge steam railway running along the water's edge. The Eastleigh Museum in the town centre traces the area's railway-works past with a 1930s terraced-house recreation, while the town's enduring link to the Supermarine Spitfire, first flown from Eastleigh Aerodrome in 1936, gives it a distinctive aviation heritage.",
+      "The leisure and activity layer is busy across the year. Lakeside Country Park offers stand-up paddleboarding, open-water swimming and canoeing alongside its fishing and trails, while Itchen Valley Country Park hosts Go Ape high-ropes and axe throwing off Allington Lane. Stoke Park Wood's biking and walking paths, the Team Sport indoor karting circuit and the town's leisure venues keep families and activity operators trading through the warmer season.",
+      "Heritage and culture centre on The Point, a contemporary performance space in the town centre staging dance, theatre, comedy, film and music, with its outdoor Garden Stage hosting the Garden Sessions through the warmer months. The annual Eastleigh Unwrapped festival fills the town centre and Leigh Road Recreation Ground with aerial theatre, circus and live music each summer, anchoring an events calendar built around the town's railway and aviation story.",
+      "Underpinning it all is a hotel and serviced-stay trade clustered around Southampton Airport, which sits on the edge of town and draws stopover and business visitors. Southampton Airport Parkway and Eastleigh stations put the town on the main line to Winchester, London Waterloo and the coast, and the M3 and M27 link it to Southampton and Portsmouth, so operators handle airport trade as well as day-trippers heading into the Hampshire countryside."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Eastleigh attraction or hotel group, a heritage site or a small independent activity centre in Southampton"
+  },
+  "Lancaster": {
+    "region": "Lancaster and the Lune Valley",
+    "nearby": ["Morecambe", "Kendal", "Preston"],
+    "s1_head": "Kitting the visitor economy of the historic county city",
+    "s1loc": [
+      "Lancaster runs a strong visitor economy as a historic city on the River Lune, anchored by Lancaster Castle, a medieval fortress built on a Roman site that served as a court and prison for centuries and now tells the story of the Lancashire Witches, its courtrooms and its cells. The Lancaster Maritime Museum on St George's Quay, set in the 18th-century Custom House on the old harbour, traces the city's seafaring and Lune-side trading past year-round.",
+      "The leisure and activity layer centres on Williamson Park, 54 acres of parkland crowned by the Edwardian Ashton Memorial, with its butterfly house, cafe and panoramic views across to the Fylde coast and the Lake District. The Lancaster Canal towpath, boat hire along the Lune, and the city's parks and green spaces give families and activity operators a busy outdoor offer, with the canal and riverside trails drawing walkers and cyclists through the season.",
+      "Heritage and culture run deep here. The Judges' Lodgings, the city's oldest townhouse and now a museum, the Lancaster City Museum on Market Square, and the Williamson Park open-air theatre stage a rich programme, while the Dukes theatre and the Lancaster Music Festival fill the events calendar. The Georgian quarter, the priory church beside the castle and the historic quayside give the city a layered character beyond its university reputation.",
+      "Underpinning it all is a hotel and guest-house trade serving the city, the university and visitors heading for the Lakes, with a guide and tour scene built around the castle and the maritime quay. Lancaster station on the West Coast Main Line and the M6 link the city to Preston, the Lakes and Scotland, so operators handle stopover trade as well as day-trippers heading for Morecambe Bay, the Lune Valley and the Forest of Bowland nearby."
+    ],
+    "kit_loc": "across the city's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Lancaster attraction or hotel group, a heritage site or a small independent activity centre in Morecambe"
+  },
+  "Macclesfield": {
+    "region": "Macclesfield and east Cheshire",
+    "nearby": ["Congleton", "Wilmslow", "Buxton"],
+    "s1_head": "Kitting the visitor economy of east Cheshire",
+    "s1loc": [
+      "Macclesfield runs a distinctive visitor economy built on its silk-town heritage, anchored by the Silk Museum and Paradise Mill, the latter home to the largest collection of silk Jacquard handlooms in Europe with 26 restored looms preserved as a working 1930s mill. The museum's pattern-book archive and the ancient Egyptian collection of silk heiress Marianne Brocklehurst draw visitors to a town whose textile past shaped its streets and its standing.",
+      "The leisure and activity layer reaches into the Peak District on the town's edge. Tegg's Nose Country Park, a five-minute drive from the centre, offers walking, cycling and hiking trails to the National Park boundary, while the Middlewood Way, a 10-mile linear route along a former railway, and the towpaths of the Macclesfield Canal through Bollington give walkers and cyclists a strong outdoor offer across the warmer season.",
+      "Heritage and culture run deep here. The Treacle Market, held on the last Sunday of each month with more than 160 stalls spilling across the historic Market Place, anchors the events calendar, while the Barnaby Festival brings a midsummer programme of arts and culture. Gawsworth Old Hall with its open-air theatre, the Heritage Centre in the former Sunday school, and the world-famous Jodrell Bank observatory nearby add depth to the town's cultural draw.",
+      "Underpinning it all is a hotel and inn trade serving visitors, business travellers to the wider Cheshire belt and walkers heading for the hills, with a guide and tour scene built around the silk story and the Peak District. Macclesfield station on the West Coast Main Line and the A523 Silk Road link the town to Manchester, Stoke and Stockport, so operators handle stopover trade as well as day-trippers heading for the Peak and the Cheshire countryside."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Macclesfield attraction or hotel group, a heritage site or a small independent activity centre in Congleton"
+  },
+  "Cumbernauld": {
+    "region": "Cumbernauld and North Lanarkshire",
+    "nearby": ["Falkirk", "Airdrie", "Coatbridge"],
+    "s1_head": "Kitting the visitor economy of North Lanarkshire",
+    "s1loc": [
+      "Cumbernauld carries a green visitor economy on the edge of central Scotland, anchored by Palacerigg Country Park, more than 40 hectares of upland once bleak farmland and now planted with native woodland, home to roe deer, badger and owls and laced with a 10-kilometre network of paths and a family Hidden Creatures trail. The Antonine Wall, the Roman frontier with its surviving ditches and ramparts, runs close to the town and adds a layer of ancient heritage to the area.",
+      "The leisure and activity layer reaches across the surrounding hills and parkland. The Cumbernauld Outdoor Activities Centre runs archery and paintball, while the Palacerigg golf range, World of Wings with Scotland's largest collection of birds of prey, and the walking and cycling trails through the country park keep families and activity operators busy through the warmer season across the wider North Lanarkshire countryside.",
+      "Heritage and culture centre on Cumbernauld House Park, a tranquil estate of well-kept footpaths and tracks around the 18th-century mansion, and on Cumbernauld Theatre, a long-standing venue staging drama and community shows. The town's distinctive post-war New Town design, the parkland of the Cumbernauld Glen nature reserve and the events calendar around the village and the wider district give the area a character beyond its modern centre.",
+      "Underpinning it all is a hotel and guest-house trade serving business parks, visitors and travellers between Glasgow and Edinburgh, with a guide and day-trip scene reaching the Antonine Wall and the surrounding country parks. Cumbernauld and Croy stations link the town into both cities by rail, and the M80 and M73 carry day-trippers in, so operators handle stopover trade as well as visitors heading for the Falkirk Wheel and the wider central belt nearby."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Cumbernauld attraction or hotel group, a heritage site or a small independent activity centre in Falkirk"
+  },
+  "Perth": {
+    "region": "Perth and Perthshire",
+    "nearby": ["Dundee", "Glenrothes", "Kirkcaldy"],
+    "s1_head": "Kitting the visitor economy of Perthshire",
+    "s1loc": [
+      "Perth, the Fair City on the banks of the River Tay, runs a strong visitor economy anchored by the new Perth Museum, reopened after a major redevelopment with the Stone of Destiny, the Stone of Scone, returned to Perthshire for the first time in over 700 years and free for all to view. Scone Palace, the ancient crowning place of Scottish kings, sits just outside the city in 100 acres of gardens with its Murray Star Maze and Pinetum.",
+      "The leisure and activity layer reaches across the city and the wider Perthshire countryside. Branklyn Garden's renowned planting, the riverside walks and the River Tay Public Art Trail running along both banks, and the parks and open spaces of the North and South Inch, two of the oldest public commons in Scotland, give families and activity operators a busy outdoor offer through the warmer season beside the Tay.",
+      "Heritage and culture run deep here. The Black Watch Castle and Museum at Balhousie Castle charts the history of Scotland's oldest Highland regiment with its uniforms, weapons and flags, while Perth Concert Hall stages major music and comedy tours with some of the finest acoustics in Europe. Perth Theatre, the historic St John's Kirk and the festival calendar along the riverbanks fill the events diary across the year.",
+      "Underpinning it all is a hotel and guest-house trade serving visitors, business travellers and tourists heading for the Highlands, with a guide and tour scene built around Scone Palace and the Stone of Destiny. Perth station and the A9 put the city at the gateway to the Highlands, linking it to Dundee, Stirling and Inverness, so operators handle stopover trade as well as day-trippers heading for Highland Perthshire and the glens on the city's doorstep."
+    ],
+    "kit_loc": "across the city's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Perth attraction or hotel group, a heritage site or a small independent activity centre in Dundee"
+  }
+}

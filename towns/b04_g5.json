@@ -1,0 +1,93 @@
+{
+  "Halesowen": {
+    "region": "Halesowen and the western Black Country",
+    "nearby": ["Stourbridge", "Dudley", "Oldbury"],
+    "s1_head": "Kitting the visitor economy of the western Black Country",
+    "s1loc": [
+      "Halesowen sits where the Black Country meets the Clent and Waseley Hills, and its marquee draw is The Leasowes, a 57-hectare Grade I landscape laid out by the poet William Shenstone from 1743 and ranked alongside Stowe and Blenheim. Nearby stand the 13th-century ruins of Halesowen Abbey, now in the care of English Heritage, while St John the Baptist church with its Norman tower anchors the old town core.",
+      "The leisure and activity layer spreads across the surrounding hills, with the Clent Hills and Waseley Hills Country Park drawing walkers and families to National Trust land on the town's doorstep. The Leasowes walled garden, granted listed status by Historic England, sits beside woodland footpaths and the cascades Shenstone designed, while Highbury Park and local green spaces keep visitors busy through the warmer season.",
+      "Heritage and culture run through Haden Hill, where the Victorian Haden Hill House and the older Haden Old Hall stand together in a restored park with period rooms and events. Halesowen Museum and Visitor Centre tells the town's nail-making and industrial story, and the Cornbow and town centre carry the market-town character that shaped this corner of the historic county of Worcestershire.",
+      "The visitor trade leans on day-trippers from across the West Midlands, with the M5 at junctions 3 and 4 and the A456 Manor Way feeding the Clent Hills and the wider conurbation. Local guesthouses and nearby hotel groups around Halesowen and Hagley serve walkers and weekenders, while the Black Country Living Museum and Dudley draws pull seasonal coach and family traffic through the area."
+    ],
+    "kit_loc": "across the area's parks, heritage sites and visitor attractions",
+    "s2_intro": "Whether you are a major Halesowen heritage site or hotel group, a country park team or a small independent activity centre in Stourbridge"
+  },
+  "Tunbridge Wells": {
+    "region": "Royal Tunbridge Wells and the Kent Weald",
+    "nearby": ["Tonbridge", "Sevenoaks", "Crowborough"],
+    "s1_head": "Kitting the visitor economy of the Kent Weald",
+    "s1loc": [
+      "Royal Tunbridge Wells grew from the Chalybeate Spring discovered in 1606, which made it England's first spa town and drew Georgian royalty and gentry. Its marquee setting is The Pantiles, the colonnaded Georgian walkway rebuilt after the 1687 fire and now lined with more than seventy independent shops, galleries, cafes and bars that make it one of the most-visited spots in the Weald.",
+      "The leisure and activity layer centres on the town's parks, from Dunorlan Park with its Grecian Temple, ornamental Fountain and boating lake offering pedalos and kayaks, to the landscaped Italianate gardens of Calverley Grounds in the centre. The open heath of the Common spreads beside the town, while family walks and outdoor space keep operators working hard through the summer months.",
+      "Heritage and culture run deep, with the Spa Valley Railway running heritage steam and diesel trains five miles through the countryside, complete with Polar Express and dining events. Trinity Theatre, the Assembly Hall and a busy calendar of Pantiles markets, the summer Jazz Festival, food festivals and vintage fairs give the town a year-round cultural draw across the bandstand season.",
+      "The visitor trade is underpinned by a strong hotel base, from the Spa Hotel and the Hotel du Vin to townhouse Bed and Breakfast stock, serving a corner of Kent that holds more castles, stately homes and gardens than anywhere in the country. Frequent rail links to London and the A21 bring day-trippers, with Penshurst Place, Scotney Castle and the Weald close at hand."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Tunbridge Wells attraction or hotel group, a heritage railway or a small independent activity centre in Tonbridge"
+  },
+  "Dunfermline": {
+    "region": "Dunfermline and west Fife",
+    "nearby": ["Kirkcaldy", "Glenrothes", "Edinburgh"],
+    "s1_head": "Kitting the visitor economy of west Fife",
+    "s1loc": [
+      "Dunfermline, granted city status in the 2022 Platinum Jubilee honours, was Scotland's ancient capital and its marquee draws reflect that. Dunfermline Abbey and Palace, cared for by Historic Environment Scotland, began as Queen Margaret's Benedictine monastery, became the burial place of Robert the Bruce and several Scottish monarchs, and the adjoining palace was the birthplace of Charles I in 1600.",
+      "The leisure layer is led by Pittencrieff Park, the 76-acre Glen gifted to the city by Andrew Carnegie in 1903, with its peacock aviary, glasshouse, playgrounds and views of the abbey and palace ruins. Riverside paths through the glen, nearby Townhill Country Park and loch, and family green space keep the city's outdoor offer busy across the warmer season.",
+      "Heritage and culture run from the Andrew Carnegie Birthplace Museum, marking the philanthropist born here in 1835, to Abbot House in the historic Maygate. The city's two theatres, the Carnegie Hall on East Port and the 1922 Alhambra on Canmore Street, host shows and live music, while the old streets and tolbooth give Scotland's eighth city a deep cultural pull.",
+      "The visitor trade leans on day-trippers from Edinburgh, just 17 miles south, with Dunfermline City station on the Fife Circle Line putting Waverley around 30 minutes away across the Forth. A hotel base across the city and ring road, guided heritage walks and the wider draw of west Fife, the Forth bridges and the Fife Coastal Path feed steady seasonal and weekend trade."
+    ],
+    "kit_loc": "across the city's attractions, parks and heritage sites",
+    "s2_intro": "Whether you are a major Dunfermline attraction or hotel group, a heritage site or a small independent activity centre in Kirkcaldy"
+  },
+  "Livingston": {
+    "region": "Livingston and West Lothian",
+    "nearby": ["Bathgate", "Edinburgh", "Falkirk"],
+    "s1_head": "Kitting the visitor economy of West Lothian",
+    "s1loc": [
+      "Livingston anchors West Lothian's visitor economy, and its marquee draw is Almond Valley Heritage Centre, the area's most popular paid attraction, set on a riverside mile with Clydesdale horses, Highland cattle, rare-breed livestock and interactive displays telling the story of the county's shale oil industry. The town's retail pull is led by Livingston Designer Outlet, the largest designer outlet in Scotland with more than seventy stores and a cinema.",
+      "The leisure and activity layer reaches well beyond the town, with Five Sisters Zoo a short drive away at West Calder and its lemurs, big cats and reptile encounters. Almondell and Calderwood Country Park offers free woodland and riverside walks, while Beecraigs Country Park in the Bathgate Hills covers 370 hectares of trails, a deer farm and a loch within easy reach of the new town.",
+      "Heritage and culture centre on the Howden Park Centre, Livingston's leading venue for theatre, music, comedy and exhibitions, with a cafe and bar drawing audiences year-round. The wider county adds depth through the Cairnpapple Hill prehistoric site, the historic burgh of Linlithgow and its palace, and the shale-bing landscape that records West Lothian's distinctive industrial past.",
+      "The visitor trade is shaped by Livingston's position just off the M8, roughly halfway between Edinburgh and Glasgow, with buses to Edinburgh Airport in around 25 to 30 minutes and direct rail links. A modern hotel base around the town centre and retail parks serves shoppers, business visitors and families, with the Pentland Hills and central-belt day-trip draw bringing steady seasonal traffic."
+    ],
+    "kit_loc": "across the area's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Livingston attraction or hotel group, a heritage centre or a small independent activity centre in Bathgate"
+  },
+  "Barrow-in-Furness": {
+    "region": "Barrow-in-Furness and the Furness peninsula",
+    "nearby": ["Ulverston", "Kendal", "Lancaster"],
+    "s1_head": "Kitting the visitor economy of the Furness peninsula",
+    "s1loc": [
+      "Barrow-in-Furness sits at the tip of the Furness peninsula, and its marquee draw is the free Dock Museum, built within a 19th-century graving dock and telling the social and industrial story of the area beside an outdoor adventure playground. The town's shipbuilding identity runs deep through the vast BAE Systems submarine yard, one of the largest in Europe, which shapes the waterfront skyline.",
+      "The leisure and activity layer is led by Walney Island, the curving whale-tail spit reached by bridge, home to the North and South Walney nature reserves and Cumbria's only grey seal colony. Beyond it lie Piel Island and its castle, reached by ferry from Roa Island, while the beaches, dunes and coastal paths of the peninsula draw walkers, birdwatchers and families through the season.",
+      "Heritage and culture centre on Furness Abbey, founded in 1123 and once the second wealthiest Cistercian abbey in England, whose red sandstone ruins stand in a wooded valley in the care of English Heritage. The town's grand Victorian streets, Barrow Park and a calendar of events reflect the boom that built one of the fastest-growing towns of 19th-century Britain.",
+      "The visitor trade trades hard on Barrow's billing as a gateway to the Lakes, only around 30 minutes from Coniston Water and Windermere where the lakes meet the sea. Hotels including the Furness Railway Hotel and the Holiday Inn Express serve visitors and shipyard trade, with the scenic Furness Line round Morecambe Bay via Ulverston and Grange bringing rail travellers in."
+    ],
+    "kit_loc": "across the peninsula's attractions and visitor sites",
+    "s2_intro": "Whether you are a major Barrow-in-Furness attraction or hotel group, a heritage site or a small independent activity centre in Ulverston"
+  },
+  "Bebington": {
+    "region": "Bebington and the Wirral peninsula",
+    "nearby": ["Birkenhead", "Bromborough", "Heswall"],
+    "s1_head": "Kitting the visitor economy of the Wirral peninsula",
+    "s1loc": [
+      "Bebington, on the eastern side of the Wirral peninsula close to the Mersey, holds one of the region's marquee draws in the Lady Lever Art Gallery, founded by Lord Leverhulme and rated among the finest galleries in Europe for its Pre-Raphaelite paintings, Wedgwood, English furniture and Chinese ceramics. It sits at the heart of Port Sunlight, the Edwardian garden village Leverhulme built for his Sunlight Soap workers.",
+      "The leisure and activity layer spreads across green Wirral, with Port Sunlight's gardens, the Dell and its bridge giving visitors a landscaped walk, and Mayer Park offering open space in Lower Bebington. Eastham Country Park, with its riverside woodland and former ferry jetties on the Mersey, and the wider coast and countryside of the peninsula keep families and walkers busy through the warmer months.",
+      "Heritage and culture run from the award-winning Port Sunlight Museum, which tells the story of Lever's model village, to the conservation streets of Lower Bebington and the medieval St Andrew's church. At Higher Bebington, the Storeton quarry yielded the famous Chirotherium dinosaur footprints, examples of which sit in Christ Church and the Liverpool museums, adding deep geological heritage to the area.",
+      "The visitor trade benefits from Bebington's place on the Merseyrail Wirral Line, with Bebington and Port Sunlight stations putting Liverpool Central a short ride away and Chester and Ellesmere Port on the same network. A hotel and guesthouse base across the Wirral, guided village tours of Port Sunlight and the day-trip pull of the coast and the Dee estuary feed steady seasonal trade."
+    ],
+    "kit_loc": "across the peninsula's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Bebington attraction or hotel group, a garden-village museum or a small independent activity centre in Birkenhead"
+  },
+  "Smethwick": {
+    "region": "Smethwick and the Sandwell Black Country",
+    "nearby": ["West Bromwich", "Oldbury", "Birmingham"],
+    "s1_head": "Kitting the visitor economy of Sandwell",
+    "s1loc": [
+      "Smethwick's marquee heritage draw is Galton Bridge, built by Thomas Telford in 1829 to span the deep canal cutting, with a 65-foot drop to the New Main Line below and a claim as one of the great industrial engineering feats of its age. Beside it the Galton Valley Pumping Station and Canal Heritage Centre, opened in 1892 and restored as a museum, tells the story of life and work on the Birmingham canals.",
+      "The leisure and activity layer is led by nearby Sandwell Valley Country Park, an 1800-acre swathe of countryside with Forge Mill Farm, an RSPB centre, high ropes, cycle trails, an adventure playground and Sandwell Park Farm's restored Victorian farmyard and walled kitchen garden. Closer to town, Victoria Park, West Smethwick Park and the canal towpaths give walkers and families open space through the season.",
+      "Heritage and culture run through Smethwick's industrial story, from the historic Soho Foundry, where Boulton and Watt built steam engines, to the wider Galton Valley conservation area on the Black Country Geopark. Soho House at neighbouring Handsworth, the Georgian home of Matthew Boulton and meeting place of the Lunar Society, links the town to the figures who powered the Midlands Enlightenment.",
+      "The visitor trade leans on Smethwick's tight links to Birmingham, with Smethwick Galton Bridge and Rolfe Street stations and the A4540 and M5 feeding the conurbation. Hotel groups across Sandwell and Birmingham serve business and event visitors, while canal-boat trips, towpath tours and the day-trip draw of the West Midlands attractions and Sandwell Valley bring steady seasonal traffic through the area."
+    ],
+    "kit_loc": "across the area's heritage sites, parks and visitor attractions",
+    "s2_intro": "Whether you are a major Smethwick heritage site or hotel group, a canal museum or a small independent activity centre in West Bromwich"
+  }
+}
