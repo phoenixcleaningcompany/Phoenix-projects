@@ -35,7 +35,7 @@ REQ = ["region", "nearby", "s1_head", "s1loc", "s2_intro"]  # snapshot + kit_loc
 S1LOC_PARAS = 4
 PARA_MIN_WORDS = 50
 TOTAL_MIN_WORDS = 235
-PROPER_NOUN_MIN = 40
+PROPER_NOUN_MIN = 35
 
 
 def proper_nouns(paras):

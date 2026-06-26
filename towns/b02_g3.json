@@ -1,0 +1,93 @@
+{
+  "Dudley": {
+    "region": "Dudley and the Black Country",
+    "nearby": ["Stourbridge", "Halesowen", "Brierley Hill"],
+    "s1_head": "Kitting the visitor economy of Dudley and the Black Country",
+    "s1loc": [
+      "Dudley anchors one of the Black Country's busiest visitor economies, headlined by the Black Country Living Museum, crowned VisitEngland Large Visitor Attraction of the Year for 2025, where over 250 years of history play out across reconstructed shops, houses and the underground drift mine. Dudley Zoo and Castle pairs more than 1,500 animals with an eleventh-century castle on its forty-acre site, and the limestone Dudley Caverns and Wren's Nest geology draw visitors to the Black Country Geopark.",
+      "The leisure and activity layer keeps operators working through the seasons, from the canal boat trips into the Dudley Tunnel and Singing Cavern to the family rides and rollercoasters next door at the JCB Academy of attractions. Himley Hall and Park sets nature trails and lakeside walks across its parkland, while Baggeridge Country Park, Netherton Reservoir and the wider Black Country canal network give walkers, anglers and watersports operators a steady year-round trade just outside the town centre.",
+      "Heritage and culture run deep in this cradle of the Industrial Revolution, from the medieval Dudley Priory ruins and Priory Park to St Thomas's Church, the Top Church on the high street. The Dudley Concert Hall and Town Hall host live programmes, the Dudley Canal Trust tells the limestone-mining story, and a calendar of events, fairs and the Black Country dialect heritage gives the town a distinct identity across Castle Hill and the Market Place.",
+      "Underpinning it all is a steady trade across the Black Country, served by hotels, guesthouses and coach operators bringing day visitors to Dudley's marquee sites, with the new Wednesbury to Brierley Hill Metro extension and the West Midlands rail and motorway links carrying crowds in from Birmingham and beyond. Merry Hill at Brierley Hill, the Crooked House country and the Clent Hills give the surrounding area a strong day-trip and seasonal draw."
+    ],
+    "kit_loc": "across the borough's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Dudley attraction or hotel group, a heritage site or a small independent activity centre in Stourbridge"
+  },
+  "Norwich": {
+    "region": "Norwich and Norfolk",
+    "nearby": ["Ipswich", "Colchester", "Cambridge"],
+    "s1_head": "Kitting the visitor economy of Norwich and Norfolk",
+    "s1loc": [
+      "Norwich runs one of East Anglia's strongest visitor economies, headlined by Norwich Castle Museum and Art Gallery, reopened after a major overhaul that put all five floors of its Norman keep on show alongside the largest collection of Norman treasures outside London. Norwich Cathedral, with the second-tallest spire in the country and its medieval cloisters, anchors the skyline, while the medieval city walls and the bustling Norwich Market add to the headline draws.",
+      "The leisure and activity layer spreads well beyond the city centre. The Plantation Garden, a three-acre Grade II garden set in a former chalk quarry, and Eaton Park draw families, while Whitlingham Country Park and broad give walkers and watersports operators a base on the water. The Norfolk Broads National Park sits a short drive out, with boat hire, birdwatching and navigable waterways keeping activity centres and day-boat operators busy right across the season.",
+      "Heritage and culture run deep, from the cobbled medieval Elm Hill and the independent shops of the Norwich Lanes to the Strangers' Hall, the Bridewell Museum and Dragon Hall. The Sainsbury Centre, the Norman Foster building at the University of East Anglia, holds the Robert and Lisa Sainsbury Collection, while the Theatre Royal, the Norwich Playhouse and a calendar led by the Norfolk and Norwich Festival fill the events year.",
+      "Underpinning it all is a deep hotel and guesthouse trade across the city centre and the cathedral quarter, supported by tour guides, walking tours and Broads cruise operators. Norwich railway station, the bus network and Norwich Airport bring visitors in, with the north Norfolk coast, the Sandringham Estate and the Broads villages giving the surrounding area a strong day-trip and seasonal draw across the whole of Norfolk."
+    ],
+    "kit_loc": "across the city's attractions, gardens and visitor sites",
+    "s2_intro": "Whether you are a major Norwich attraction or hotel group, a heritage site or a small independent activity centre in Ipswich"
+  },
+  "Swindon": {
+    "region": "Swindon and north Wiltshire",
+    "nearby": ["Chippenham", "Melksham", "Trowbridge"],
+    "s1_head": "Kitting the visitor economy of Swindon and north Wiltshire",
+    "s1loc": [
+      "Swindon's visitor economy is built on its railway heritage, headlined by STEAM, the Museum of the Great Western Railway, set in a restored Grade II building in the former GWR works and telling Isambard Kingdom Brunel's story through famous locomotives and a working signal box. The Swindon Designer Outlet, housed in the listed railway sheds at Kemble Drive, draws shoppers in their millions, while the Magic Roundabout gives the town a landmark of its own.",
+      "The leisure and activity layer keeps operators working year-round, from Coate Water Country Park, with its lake, diving platform and the River Ray Parkway walking and cycling route, to Lydiard Park, a 260-acre estate on the western edge with its Palladian house and walled garden. The Wichelstowe and Stanton Park green spaces, plus the activity centres and family attractions across the borough, give walkers, cyclists and watersports operators a base through the seasons.",
+      "Heritage and culture run deep, from the cobbled GWR Railway Village conservation area and the Mechanics' Institute to the independent shops and Georgian buildings of Old Town. The Wyvern Theatre, a 635-seat venue, runs musicals, comedy and live music, the Swindon Museum and Art Gallery shows its modern British collection, and a calendar of events across Wharf Green and the town centre fills the cultural year.",
+      "Underpinning it all is a steady hotel and conference trade serving the M4 corridor, with coach operators and guides bringing visitors to STEAM and the outlet. Swindon railway station puts London and Bristol within easy reach, the Fleming Way bus interchange and the Wroughton park-and-ride feed the centre, and the Wiltshire countryside, Avebury, the Marlborough Downs and the Cotswolds give the surrounding area a strong day-trip and seasonal draw."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Swindon attraction or hotel group, a heritage site or a small independent activity centre in Chippenham"
+  },
+  "Croydon": {
+    "region": "Croydon and south London",
+    "nearby": ["Sutton", "Bromley", "Epsom"],
+    "s1_head": "Kitting the visitor economy of Croydon and south London",
+    "s1loc": [
+      "Croydon carries a busy south London visitor economy with culture and events at its core. Fairfield Halls, a regional arts centre since 1962 that has hosted everyone from the Beatles to Pink Floyd, reopened after a major refurbishment with its concert hall, the Ashcroft Theatre and studio spaces. Boxpark Croydon, built from upcycled shipping containers, draws crowds for street food, screened sport and live music, anchoring the town's evening and weekend trade.",
+      "The leisure and activity layer keeps operators busy through the seasons. Wandle Park, an 8.5-hectare green space with a skate park and riverside paths reached by tram, hosts festivals and family events, while Lloyd Park, South Norwood Country Park and the wider Wandle Trail give walkers and cyclists a base. Family attractions, indoor activity venues and the green slopes of the nearby North Downs add to a varied year-round offer across the borough.",
+      "Heritage and culture run deep, from the eleventh-century Croydon Minster and the Tudor Old Palace to the Whitgift Almshouses of 1596 and the Museum of Croydon in the Clocktower. The Surrey Street Market has traded for centuries, the street-art trail across the town centre draws visitors in its own right, and a calendar of events around the Clocktower and Fairfield gives the borough a distinct cultural identity.",
+      "Underpinning it all is a steady hotel trade serving business and leisure visitors, with tour guides and event operators working the venues. East Croydon station puts central London and Gatwick Airport within minutes, the Tramlink network links the town to Wimbledon and Beckenham, and the Surrey hills, Epsom Downs and the wider south London attractions give the surrounding area a strong day-trip and seasonal draw across the year."
+    ],
+    "kit_loc": "across the borough's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Croydon attraction or hotel group, a heritage site or a small independent activity centre in Sutton"
+  },
+  "Bournemouth": {
+    "region": "Bournemouth and the Dorset coast",
+    "nearby": ["Poole", "Christchurch", "Ferndown"],
+    "s1_head": "Kitting the visitor economy of the Dorset coast",
+    "s1loc": [
+      "Bournemouth runs one of the south coast's biggest visitor economies, drawing more than six million visitors a year to seven miles of award-winning sandy beach. The marquee draws cluster around Bournemouth Pier, with its zip wire and PierZip, and the neighbouring Oceanarium and Big Wheel, while Boscombe Pier and the purpose-built Boscombe Surf Reef extend the seafront draw eastward along the bay framed by the Isle of Wight and the Purbeck hills.",
+      "The leisure and activity layer keeps operators working across the season. The Lower Gardens, with their bandstand, aviary and mini-golf, run up from the seafront to the Upper Gardens and the Coy Pond, hosting events through the summer, while RockReef on the pier, watersports off Boscombe and Alum Chine give activity centres a base. The clifftop walks, the Bournemouth land train and the family attractions along the promenade fill the year-round offer.",
+      "Heritage and culture run deep, from the Russell-Cotes Art Gallery and Museum, a Victorian clifftop house packed with paintings and artefacts, to St Peter's Church and the pine-filled chines that shaped the resort. The Pavilion Theatre and the O2 Academy run live programmes, and a calendar led by the Bournemouth Air Festival, the UK's largest air show staged between the two piers, fills the events year across the Lower Gardens and seafront.",
+      "Underpinning it all is one of the deepest hotel bases in the country, supported by tour operators, language schools and conference business through the Bournemouth International Centre on the seafront. The railway station and Bournemouth Airport bring visitors in, the cross-harbour links reach Poole, and the Jurassic Coast, the New Forest and Christchurch harbour give the surrounding area a powerful day-trip and seasonal draw right through the year."
+    ],
+    "kit_loc": "across the coast's attractions, gardens and visitor sites",
+    "s2_intro": "Whether you are a major Bournemouth attraction or hotel group, a heritage site or a small independent activity centre in Poole"
+  },
+  "Southend-on-Sea": {
+    "region": "Southend and the Essex coast",
+    "nearby": ["Rayleigh", "Basildon", "Wickford"],
+    "s1_head": "Kitting the visitor economy of the Essex coast",
+    "s1loc": [
+      "Southend-on-Sea runs one of the busiest seaside visitor economies on the east coast, headlined by Southend Pier, the longest pleasure pier in the world at 1.34 miles, with its narrow-gauge railway carrying visitors out over the Thames Estuary to the pier head. The wide sandy beaches and promenade along the seafront, framed by the Estuary, draw crowds through the season and anchor the town's traditional resort trade across Marine Parade and Western Esplanade.",
+      "The leisure and activity layer is dense and family-focused. Adventure Island, the free-entry theme park at the foot of the pier, runs more than thirty rides led by the Rage rollercoaster, while Sealife Adventure offers over forty aquatic displays as the South East's premier zooquarium. The Cliffs lift, the gardens above the seafront, watersports off the beach and the boating lake at the Leigh-on-Sea end give activity operators a varied base year-round.",
+      "Heritage and culture run deep, from the historic cockle sheds and old town of Leigh-on-Sea to Southchurch Hall and the prehistoric Hadleigh Castle ruins overlooking the Estuary nearby. The Cliffs Pavilion and the Palace Theatre run live programmes, the Beecroft Art Gallery shows its collection, and a calendar of events along the seafront, from air displays to seasonal illuminations, fills the cultural year across the Clifftown conservation area.",
+      "Underpinning it all is a steady hotel, guesthouse and Bed and Breakfast base serving day visitors and weekend crowds, supported by tour and coach operators working the seafront attractions. Southend Airport and two railway lines into London bring visitors in within the hour, and the wider Essex coast, the Crouch and Roach estuaries and the Hadleigh Country Park give the surrounding area a strong day-trip and seasonal draw across the year."
+    ],
+    "kit_loc": "across the coast's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Southend-on-Sea attraction or hotel group, a heritage site or a small independent activity centre in Rayleigh"
+  },
+  "Walsall": {
+    "region": "Walsall and the Black Country",
+    "nearby": ["Bloxwich", "Willenhall", "West Bromwich"],
+    "s1_head": "Kitting the visitor economy of Walsall and the Black Country",
+    "s1loc": [
+      "Walsall's visitor economy is led by culture, headlined by the New Art Gallery Walsall, a free-admission landmark on the waterfront holding the distinguished Garman Ryan Collection of 365 works by Epstein, Van Gogh, Monet, Turner and Constable across two floors. The Walsall Leather Museum, set in a restored Victorian factory, tells the story of the town's famous leatherworking trade, and the Walsall Town Wharf and canal basin give the centre a distinct historic waterfront.",
+      "The leisure and activity layer keeps operators working through the seasons. Walsall Arboretum, a Victorian park with its great lake for fishing, lakeside cafe and open-air stage, anchors the town's green space and once hosted the famous Walsall Illuminations. The Black Country canal network, the country parks at Park Lime Pits and the wider Black Country Geopark trails give walkers, anglers and activity operators a base across the borough right through the year.",
+      "Heritage and culture run deep in this old leather and metalworking town, from St Matthew's Church on its hilltop above the centre to the Jerome K. Jerome birthplace and the Walsall Museum collections. The Forest Arts Centre and the town's events programme run live performance, the Garman Ryan story links the gallery to sculptor Jacob Epstein, and a calendar of fairs and markets across the Saddlers Centre and the town square fills the cultural year.",
+      "Underpinning it all is a steady Black Country trade, served by hotels, guesthouses and coach operators bringing day visitors to the gallery and the arboretum, with the West Midlands rail network, the bus interchange and the motorway links carrying crowds in from Birmingham, Wolverhampton and beyond. The Black Country Living Museum, the Bescot Stadium tours and the canal heritage give the surrounding area a strong day-trip and seasonal draw across the year."
+    ],
+    "kit_loc": "across the borough's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Walsall attraction or hotel group, a heritage site or a small independent activity centre in Bloxwich"
+  }
+}

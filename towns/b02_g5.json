@@ -1,0 +1,93 @@
+{
+  "Dundee": {
+    "region": "Dundee and the Tay estuary",
+    "nearby": ["Arbroath", "Perth", "Glenrothes"],
+    "s1_head": "Kitting the visitor economy of Dundee and the Tay",
+    "s1loc": [
+      "Dundee has reshaped its waterfront into one of Scotland's standout visitor draws, led by V and A Dundee, the country's first design museum, sitting beside Discovery Point and the historic RRS Discovery that carried Captain Scott to Antarctica. The McManus art galleries, the restored Verdant Works jute mill, HMS Unicorn and the Dundee Science Centre add real pulling power to the riverside core.",
+      "The leisure and activity layer runs from Camperdown Park and its wildlife centre, home to brown bears and Scottish wildcats, to the Olympia Leisure Centre with its competition pool and flumes. Broughty Ferry beach draws summer families with lifeguards and golden sand, while the Dundee Museum of Transport and city parks keep operators busy across the season.",
+      "Heritage and culture sit deep here, from Broughty Castle guarding the estuary mouth to Mills Observatory and the historic streets around the city churches. The Dundee Rep theatre, Caird Hall concerts, the Dundee Contemporary Arts centre and a calendar of festivals and waterfront events give the city a year-round cultural pull beyond the marquee museums.",
+      "Underpinning the trade is a growing hotel base around the waterfront and city centre, with guided tours, river trips and a steady stream of day visitors from across Tayside and Fife. Dundee railway station, the airport and the road links over the Tay bridges bring in coach parties and independent travellers heading on to Perthshire, Angus and the wider estuary."
+    ],
+    "kit_loc": "across the city's attractions, parks and waterfront sites",
+    "s2_intro": "Whether you are a major Dundee attraction or hotel group, a heritage site or a small independent activity centre in Arbroath"
+  },
+  "Cambridge": {
+    "region": "Cambridge and the Cambridgeshire Fens",
+    "nearby": ["Bishop's Stortford", "Bedford", "Peterborough"],
+    "s1_head": "Kitting the visitor economy of Cambridge",
+    "s1loc": [
+      "Cambridge draws millions of visitors a year to one of the most recognisable historic cities in Britain, led by the soaring fan vaulting of King's College Chapel and the colleges along the Backs. Trinity College, St John's, Corpus Christi and the free-to-enter Fitzwilliam Museum form the marquee circuit, with the University and its centuries of architecture pulling visitors from across the world.",
+      "The leisure and activity layer centres on punting the River Cam, with Scudamore's and rival operators running guided and self-hire boats from Mill Lane and Quayside. The Cambridge University Botanic Garden, the green sweep of Parker's Piece and Jesus Green, and the cycling and river paths along the Cam give families and active visitors plenty beyond the college walls.",
+      "Heritage and culture run through every street, from the Round Church and the Mathematical Bridge to the Museum of Cambridge and the city's many college chapels and choirs. The Cambridge Folk Festival, the Arts Theatre, the Corn Exchange and the lively Market Square keep a busy events calendar running alongside the academic terms and the graduation seasons that fill the city each summer.",
+      "Underpinning the trade is a strong hotel and guesthouse base, a busy walking-tour and guide scene, and open-top bus tours threading the centre. Cambridge railway station puts London under an hour away, Stansted Airport sits close to the south, and the surrounding Fens, Ely and the country houses of the region feed a steady day-trip and short-break draw."
+    ],
+    "kit_loc": "across the city's colleges, river and visitor sites",
+    "s2_intro": "Whether you are a major Cambridge attraction or hotel group, a heritage site or a small independent activity centre in Bishop's Stortford"
+  },
+  "York": {
+    "region": "York and North Yorkshire",
+    "nearby": ["Selby", "Knaresborough", "Harrogate"],
+    "s1_head": "Kitting the visitor economy of York",
+    "s1loc": [
+      "York is one of England's great heritage destinations, crowned by York Minster, the largest Gothic cathedral in Northern Europe, and ringed by the longest medieval city walls in the country. The narrow medieval Shambles, the National Railway Museum with its great hall of locomotives, and Clifford's Tower above the old castle make up a marquee circuit that pulls visitors in year-round.",
+      "The leisure and activity layer spreads beyond the walls, from river cruises on the Ouse and walks along the riverside to the green spaces of Rowntree Park and the Museum Gardens. York Maze and family farm attractions sit on the city edge, while ghost walks, escape rooms and the indoor activity venues of the centre keep operators busy through the seasons.",
+      "Heritage and culture are everywhere here, from the JORVIK Viking Centre and the York Castle Museum to the Yorkshire Museum and the grand interiors of the York Theatre Royal and the Grand Opera House. The Jorvik Viking Festival, the York Christmas market and a packed events calendar give the city a cultural draw that runs well past the summer peak.",
+      "Underpinning it all is one of the deepest hotel bases outside London, a busy guide and tour scene, and open-top bus tours circling the walls. York railway station is a major East Coast hub, bringing day visitors and short-break crowds, with the surrounding North Yorkshire countryside, the Dales and the coast feeding a constant flow of touring trade."
+    ],
+    "kit_loc": "across the city's attractions, walls and visitor sites",
+    "s2_intro": "Whether you are a major York attraction or hotel group, a heritage site or a small independent activity centre in Selby"
+  },
+  "Blackpool": {
+    "region": "Blackpool and the Fylde coast",
+    "nearby": ["Thornton Cleveleys", "Poulton-le-Fylde", "Lytham St Annes"],
+    "s1_head": "Kitting the visitor economy of the Fylde coast",
+    "s1loc": [
+      "Blackpool is one of Britain's biggest seaside resorts, anchored by the 1894 Blackpool Tower and its Ballroom and the sprawling Blackpool Pleasure Beach, home to The Big One and Nickelodeon Land. The seven miles of promenade, the three Victorian piers and the long sandy beach draw millions of visitors a year to a resort built squarely on the visitor pound.",
+      "The leisure and activity layer is huge, from the Sandcastle Waterpark, the UK's largest indoor waterpark, to Madame Tussauds, SEA LIFE Blackpool and the rides and shows of the central seafront. The tramway running the length of the promenade, the arcades, and the indoor activity venues keep families occupied whatever the Fylde weather throws at the coast.",
+      "Heritage and culture run alongside the rides, from the Grade I listed Tower Ballroom and the Winter Gardens conference and theatre complex to the historic Grand Theatre. The world-famous Blackpool Illuminations stretch six miles of seafront each autumn, while the Showtown museum of fun and a busy calendar of shows and events extend the season well beyond summer.",
+      "Underpinning the trade is one of the largest hotel and guesthouse bases in the country, with thousands of beds across the resort and a deep coach-tour and operator scene. Blackpool North station, the tramway and the road links along the Fylde bring in day-trippers and stay visitors, with Lytham St Annes, Cleveleys and the wider coast adding to the seasonal draw."
+    ],
+    "kit_loc": "across the coast's attractions and seafront sites",
+    "s2_intro": "Whether you are a major Blackpool attraction or hotel group, a heritage site or a small independent activity centre in Thornton Cleveleys"
+  },
+  "Ipswich": {
+    "region": "Ipswich and Suffolk",
+    "nearby": ["Colchester", "Chelmsford", "Cambridge"],
+    "s1_head": "Kitting the visitor economy of Ipswich and Suffolk",
+    "s1loc": [
+      "Ipswich is Suffolk's county town and a long-established port, with its revitalised Waterfront and marina the standout visitor draw, lined with bars, eateries and the University of Suffolk waterside campus. Christchurch Mansion, a Tudor house set in Christchurch Park, holds the Wolsey Art Gallery and the largest collection of Gainsborough and Constable work outside London among its marquee attractions.",
+      "The leisure and activity layer runs from the green expanse of Christchurch Park and Holywells Park to the marina berths and river trips on the Orwell. DanceEast at the marina, family attractions around the town, and the watersports and sailing of the Orwell estuary give visitors and active operators plenty to work with across the warmer months.",
+      "Heritage and culture sit deep in the medieval street pattern, from the Ancient House and the town's historic churches to the Ipswich Museum and the cultural programme at the New Wolsey Theatre and the Regent Theatre, one of the largest in the region. The town's festivals, the Red Rose Chain company and a busy events calendar keep the cultural draw running through the year.",
+      "Underpinning the trade is a steady hotel and guesthouse base around the town and waterfront, with guided tours and river trips serving day visitors. Ipswich railway station links fast to London and Norwich, the A12 and A14 carry coach and car traffic, and the Suffolk coast, Constable Country and the Orwell estuary feed a strong day-trip and seasonal draw."
+    ],
+    "kit_loc": "across the town's waterfront, parks and visitor sites",
+    "s2_intro": "Whether you are a major Ipswich attraction or hotel group, a heritage site or a small independent activity centre in Colchester"
+  },
+  "Middlesbrough": {
+    "region": "Middlesbrough and Teesside",
+    "nearby": ["Stockton-on-Tees", "Thornaby-on-Tees", "Billingham"],
+    "s1_head": "Kitting the visitor economy of Teesside",
+    "s1loc": [
+      "Middlesbrough is the urban heart of Teesside, with the bright blue Tees Transporter Bridge of 1911 standing as its best-known landmark, one of the largest working transporter bridges in the world. The Captain Cook Birthplace Museum, the Riverside Stadium as a tour and event venue, and the modern waterfront together give the town a recognisable marquee draw on the River Tees.",
+      "The leisure and activity layer spreads across the town and its surroundings, from Albert Park and Stewart Park to the rides and family attractions of the wider area. Teessaurus Park, indoor activity venues, and the watersports and open water of the Tees Barrage and white-water course nearby keep families and active operators busy through the season.",
+      "Heritage and culture centre on mima, the Middlesbrough Institute of Modern Art, a striking glass-fronted gallery with a collection including work by Picasso, alongside the Dorman Museum and its Linthorpe Pottery displays. The Town Hall concerts, the festivals and a full programme of events across the year give Middlesbrough a genuine cultural pull that reaches well beyond its industrial heritage roots.",
+      "Underpinning the trade is a town-centre hotel base serving business and leisure visitors, with guided tours and event crowds feeding the local economy. Middlesbrough railway station and the road links across Teesside bring in day visitors, with Stockton, the North York Moors, the Captain Cook coast and the wider Tees Valley all adding to the day-trip and seasonal draw."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Middlesbrough attraction or hotel group, a heritage site or a small independent activity centre in Stockton-on-Tees"
+  },
+  "Gloucester": {
+    "region": "Gloucester and Gloucestershire",
+    "nearby": ["Cheltenham", "Malvern", "Worcester"],
+    "s1_head": "Kitting the visitor economy of Gloucester",
+    "s1loc": [
+      "Gloucester is built around its 1,300-year-old Cathedral, an early masterpiece of Perpendicular Gothic that holds the tomb of King Edward II and stood in for Hogwarts in the Harry Potter films. The restored Historic Docks, Britain's most inland port, sit close by with Victorian warehouses, the National Waterways Museum and the Tall Ships moored against the cathedral skyline as marquee draws.",
+      "The leisure and activity layer runs from the Gloucester Quays outlet shopping centre and the Gloucester Food Dock to canal cruises and boat trips on the Gloucester and Sharpness Canal. Riverside walks, family attractions around the docks, and the green spaces of the city give visitors and active operators a full day out across the seasons.",
+      "Heritage and culture run deep, from the House of the Tailor of Gloucester and the medieval Blackfriars Priory to the remains of Llanthony Secunda Priory and the Folk of Gloucester museum. The Three Choirs Festival, one of the oldest classical music festivals in the world, returns to the Cathedral, while the Gloucester History Festival fills the heritage venues each year.",
+      "Underpinning the trade is a hotel base around the city and docks, a guided-tour and cruise scene, and event crowds drawn to the Cathedral and Quays. Gloucester railway station and the M5 corridor bring in day visitors, with Cheltenham, the Forest of Dean, the Cotswolds and the Severn Vale all feeding a strong day-trip and seasonal draw to the city."
+    ],
+    "kit_loc": "across the city's cathedral, docks and visitor sites",
+    "s2_intro": "Whether you are a major Gloucester attraction or hotel group, a heritage site or a small independent activity centre in Cheltenham"
+  }
+}

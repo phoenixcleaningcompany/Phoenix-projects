@@ -1,0 +1,93 @@
+{
+  "Dartford": {
+    "region": "Dartford and north-west Kent",
+    "nearby": ["Gravesend", "Erith", "Sidcup"],
+    "s1_head": "Kitting the visitor economy of north-west Kent",
+    "s1loc": [
+      "Dartford sits at the gateway to Kent on the Thames, and its marquee draw is Bluewater, one of Europe's largest retail and leisure destinations, set in a former chalk quarry with more than three hundred stores, a lake with pedalos and the Pirate Cove adventure park. The Dartford Crossing and the QEII Bridge are landmarks in their own right, while Central Park and the Darent Valley draw walkers to the riverside on the edge of the town.",
+      "The leisure and activity layer keeps operators busy across the year. Stone Lodge offers indoor bowls, Central Park's twenty-six acres host fairs and outdoor events, and Brooklands Lakes draw anglers and birdwatchers along the wooded paths beside the Darent. Dartford Heath provides open heathland for cycling and picnics, and family days out spill across to the splash and play attractions at nearby Bluewater on the borough's eastern edge.",
+      "Heritage and culture have a strong footing in Dartford, the home town of Mick Jagger and Keith Richards of the Rolling Stones, remembered at the Mick Jagger Centre on Shepherds Lane. The Orchard Theatre brings West End musicals, comedy and pantomime to its nine-hundred-seat auditorium on Home Gardens, while Holy Trinity Church and the old town's medieval streets anchor a heritage trail through the historic centre.",
+      "Underpinning it all are fast transport links that make Dartford a day-trip hub. The town's station and Ebbsfleet International nearby put visitors minutes from central London on HS1, with Greenhithe for Bluewater, Swanscombe and the Fastrack bus network feeding the borough. A hotel base around Bluewater and the crossing serves business and leisure trade, with the Kent coast, Rochester and the North Downs a short drive out for the seasonal day-tripper market."
+    ],
+    "kit_loc": "across the borough's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Dartford attraction or hotel group, a heritage site or a small independent activity centre in Gravesend"
+  },
+  "Bedford": {
+    "region": "Bedford and Bedfordshire",
+    "nearby": ["Kempston", "Rushden", "Wellingborough"],
+    "s1_head": "Kitting the visitor economy of Bedfordshire",
+    "s1loc": [
+      "Bedford is the county town of Bedfordshire, a riverside settlement on the Great Ouse whose marquee draws cluster along the Victorian Embankment, with its formal gardens, suspension bridge and pleasure-boat moorings. The Higgins Bedford brings together fine and decorative arts and local social history, while the romantic ruins of Bedford Castle, the Castle Mound and the riverside trail give visitors a compact heritage core in the heart of the town.",
+      "The leisure and activity layer reaches well beyond the centre. Bedford Park, one of three Green Flag parks, offers lawns, formal gardens and a cricket pitch, while the Great Ouse itself draws rowers, paddlers and pleasure cruises. Just outside the town the famous Woburn Safari Park and ZSL Whipsnade Zoo pull in family crowds, and the Cardington airship sheds remain a striking landmark of the surrounding countryside.",
+      "Heritage and culture run deep in a town shaped by John Bunyan, author of The Pilgrim's Progress, told through the John Bunyan Museum and the neighbouring Bunyan Meeting Free Church. The Panacea Museum preserves an early twentieth-century community's garden retreat, while the Quarry Theatre at St Luke's and the Bedford Corn Exchange anchor a year-round programme of drama, music and the River Festival that fills the Embankment.",
+      "Underpinning it all is a hotel and guest-house base across the town centre and the Embankment, supported by tour operators working the Ouse Valley Way and the wider county. Bedford station puts visitors on the Thameslink line to London and the Midlands, with the Midland Main Line, the A6 and the A421 feeding day-trippers in. Woburn, Whipsnade and the Marston Vale forest give the surrounding area a strong seasonal draw."
+    ],
+    "kit_loc": "across the county's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Bedford attraction or hotel group, a heritage site or a small independent activity centre in Kempston"
+  },
+  "Doncaster": {
+    "region": "Doncaster and South Yorkshire",
+    "nearby": ["Mexborough", "Rotherham", "Pontefract"],
+    "s1_head": "Kitting the visitor economy of the Doncaster district",
+    "s1loc": [
+      "Doncaster runs a busy visitor economy built on its racing and wildlife draws. Doncaster Racecourse hosts thirty-five flat and National Hunt meetings a year, headlined by the historic St Leger, the world's oldest classic horse race. The Yorkshire Wildlife Park at Auckley, the UK's leading walkthrough wildlife experience, brings families to see polar bears, lions, tigers, giraffes and black rhino across its seventy-acre site on the edge of the city.",
+      "The leisure and activity layer spreads across parkland and heritage sites. Cusworth Hall and Park combine a Georgian country house, a social-history museum and open landscaped parkland for family days out, while the Markham Grange Steam Museum and nursery near Brodsworth add a working collection of yesteryear machinery. Sandall Park, Lakeside and the surrounding countryside give walkers, cyclists and anglers plenty of room across the seasons.",
+      "Heritage and culture carry real weight here. The Doncaster Minster of St George dominates the skyline, Brodsworth Hall and Gardens preserves a Victorian country house in the care of English Heritage, and Conisbrough Castle's circular keep crowns the Don Gorge nearby. Cast theatre on Sir Nigel Gresley Square and the Dome leisure complex anchor a programme of drama, concerts and the events that fill the city centre through the year.",
+      "Underpinning it all is a hotel base around the racecourse, the airport corridor and the city centre, with tour and event trade riding the St Leger Festival calendar. Doncaster sits on the East Coast Main Line with fast links north and south, the A1(M) and M18 feed road traffic, and Doncaster Sheffield Airport served the area's leisure market. The Yorkshire countryside and the Don Gorge give the district a strong day-trip draw."
+    ],
+    "kit_loc": "across the district's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Doncaster attraction or hotel group, a heritage site or a small independent activity centre in Mexborough"
+  },
+  "Worthing": {
+    "region": "Worthing and the West Sussex coast",
+    "nearby": ["Littlehampton", "Shoreham-by-Sea", "Lancing"],
+    "s1_head": "Kitting the visitor economy of the West Sussex coast",
+    "s1loc": [
+      "Worthing anchors a stretch of the West Sussex coast with a classic seaside front. Worthing Pier, built in 1862, runs out over the waves to the Art Deco Southern Pavilion, with deckchairs, ice-cream and fishing along its deck. Five miles of palm-lined promenade, the Lido and the splash point draw beach crowds, while the Regency Beach House set back from the seafront recalls the town's elegant nineteenth-century roots.",
+      "The leisure and activity layer reaches inland and along the shore. Highdown Gardens, a National Plant Collection laid out by Sir Frederick Stern in a former chalk quarry, draws garden visitors, while Brooklands Park with its boating lake and miniature railway pulls in families. The South Downs rise just behind the town for walkers and cyclists, and the seafront supports watersports, paddleboarding and the long flat promenade ride between Worthing and Lancing.",
+      "Heritage and culture sit at the heart of the town. Worthing Museum and Art Gallery holds one of the largest costume collections in the country, while the 1914 Art Deco Connaught Theatre, the Pavilion Theatre and the Assembly Hall stage West End shows, live music and film. The town's literary links to Oscar Wilde, who wrote here, and a busy festival calendar keep the cultural events programme full across the year.",
+      "Underpinning it all is a strong hotel and guest-house base along the seafront and town centre, with tour operators working the Downs and the coast. Worthing station puts visitors on the Southern line to Brighton, Gatwick and London, the A27 runs the coastal corridor, and Gatwick Airport sits within easy reach. Arundel, the South Downs National Park and neighbouring Shoreham give the area a rich seasonal day-trip draw."
+    ],
+    "kit_loc": "across the coast's attractions, gardens and visitor sites",
+    "s2_intro": "Whether you are a major Worthing attraction or hotel group, a heritage site or a small independent activity centre in Littlehampton"
+  },
+  "Rotherham": {
+    "region": "Rotherham and South Yorkshire",
+    "nearby": ["Maltby", "Mexborough", "Barnsley"],
+    "s1_head": "Kitting the visitor economy of the Rotherham district",
+    "s1loc": [
+      "Rotherham's marquee draw is Magna Science Adventure Centre, an interactive attraction set inside a vast former steelworks, its exhibits split across Earth, Air, Fire and Water pavilions with the Big Melt steel show as its centrepiece. The Minster Church of All Saints dominates the town centre, one of the finest Perpendicular Gothic churches in the north, while the medieval Chapel of Our Lady on Rotherham Bridge survives as a rare bridge chapel.",
+      "The leisure and activity layer is busy across the district. Clifton Park in the town centre offers an outdoor paddling pool, a small fairground, an adventure play area and the great Rotherham Show, while Thrybergh Country Park and Ulley Country Park draw walkers, anglers and watersports to their reservoirs. The Rother Valley Country Park nearby adds windsurfing, cable wakeboarding and family cycling on the southern edge of the borough.",
+      "Heritage and culture run deep around Rotherham. Wentworth Woodhouse, one of the largest private houses in Europe and former seat of the Fitzwilliam family, opens its eighty-seven acres of garden and parkland to visitors, while the romantic ruins of Roche Abbey sit in a wooded valley landscaped by Capability Brown. Clifton Park Museum in its Georgian villa and the town's industrial heritage round out the cultural offer across the year.",
+      "Underpinning it all is a hotel base around the town and the M1 corridor, with tour and event trade serving the country parks and great houses. Rotherham Central station links the town into the Sheffield network, the M1 and M18 meet at the borough's edge, and the wider Sheffield City Region brings visitors in. The Peak District and the South Yorkshire countryside give the area a strong seasonal day-trip draw."
+    ],
+    "kit_loc": "across the district's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Rotherham attraction or hotel group, a heritage site or a small independent activity centre in Maltby"
+  },
+  "Mansfield": {
+    "region": "Mansfield and north Nottinghamshire",
+    "nearby": ["Sutton-in-Ashfield", "Hucknall", "Worksop"],
+    "s1_head": "Kitting the visitor economy of north Nottinghamshire",
+    "s1loc": [
+      "Mansfield sits on the edge of Sherwood Forest in north Nottinghamshire, and its marquee draw is that legendary woodland, home of the Robin Hood legend and the thousand-year-old Major Oak. The Sherwood Forest Visitor Centre nearby anchors trails and family days out, while the striking nineteenth-century Mansfield railway viaduct striding across the Maun valley and the old Market Place form the heart of the town's historic centre.",
+      "The leisure and activity layer runs across town parks and green space. Carr Bank Park pairs a Victorian manor house with formal flower beds, a sensory garden and a children's play area, while Titchfield Park follows the River Maun with gardens, a cafe, tennis courts and a skate park. The Sherwood Observatory and its planetarium add a science draw, and the surrounding Sherwood countryside gives walkers and cyclists endless room.",
+      "Heritage and culture have a firm base in the town. Mansfield Museum tells the story of the town's industrial and Victorian roots with free admission and a busy events programme, while the Edwardian Palace Theatre, built in 1910, stages pantomime, musicals, comedy and drama. The market town's heritage quarter and the events on the Market Place keep the cultural calendar busy through the seasons.",
+      "Underpinning it all is a hotel and guest-house base in and around the town, with tour operators working the Sherwood Forest and the great estates of north Nottinghamshire. The Robin Hood Line links Mansfield to Nottinghamshire's rail network, the A38 and A60 feed road traffic, and East Midlands attractions sit within easy reach. Newstead Abbey, Clumber Park and the Dukeries give the area a strong seasonal day-trip draw."
+    ],
+    "kit_loc": "across the area's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Mansfield attraction or hotel group, a heritage site or a small independent activity centre in Sutton-in-Ashfield"
+  },
+  "Eastbourne": {
+    "region": "Eastbourne and the East Sussex coast",
+    "nearby": ["Bexhill-on-Sea", "Hailsham", "Seaford"],
+    "s1_head": "Kitting the visitor economy of the East Sussex coast",
+    "s1loc": [
+      "Eastbourne is one of the sunniest spots in Britain and a classic seaside resort, its marquee draw the Victorian Eastbourne Pier reaching out over the English Channel with its domes, tea rooms and amusements. The town's defining landmark is Beachy Head, the highest chalk cliff in the country, and the Seven Sisters stretching west, while the elegant Grand Parade and the bandstand give the seafront a stately Victorian face.",
+      "The leisure and activity layer mixes shoreline and harbour. Sovereign Harbour, a marina of four linked basins on the eastern seafront, draws boating, dining and waterside walks, with seals sometimes appearing in the outer harbour beside the Napoleonic Martello towers. The Treasure Island family park, the Sovereign Centre and the South Downs rising behind the town give walkers, cyclists and watersports operators room across the year.",
+      "Heritage and culture are anchored by the Devonshire Park cultural quarter. The Towner Eastbourne contemporary gallery, named Museum of the Year, sits beside the Congress Theatre and the Devonshire Park Theatre, while Devonshire Park hosts the pre-Wimbledon grass-court tennis championships. The Redoubt Fortress, the Eastbourne Heritage Centre and a busy festival calendar including Airbourne, the seafront airshow, fill the cultural programme.",
+      "Underpinning it all is a deep hotel base, the largest on the south coast, lining the seafront and the town centre, with tour operators working the cliffs and the Downs. Eastbourne station links the town to Brighton, Gatwick and London on the Southern network, the A22 and A27 feed road traffic, and Gatwick Airport sits within reach. The South Downs National Park and the Seven Sisters give the area a powerful seasonal day-trip draw."
+    ],
+    "kit_loc": "across the coast's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Eastbourne attraction or hotel group, a heritage site or a small independent activity centre in Bexhill-on-Sea"
+  }
+}
