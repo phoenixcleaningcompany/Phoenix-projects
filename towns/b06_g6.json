@@ -1,0 +1,86 @@
+{
+  "billericay": {
+    "region": "Billericay, Essex",
+    "nearby": ["Basildon", "Wickford", "Brentwood"],
+    "s1_head": "Charity and volunteer kit in Billericay",
+    "s1loc": [
+      "Billericay Food Bank, a registered charity set up in 2018, shares premises with the Hamelin Trust on Radford Crescent and recently celebrated its 100th volunteer handing out tinned food, pasta, rice and toiletries. It is backed by the town's churches, the local council and businesses, and works alongside the big food-redistribution and foodbank networks. Basildon Mind runs mental-health support across Basildon, Billericay and Wickford, and St John the Divine church hosts collections, so frontline help leans heavily on people giving their time.",
+      "The sector here runs at every size. National charities with high-street shops and central buying sit beside small community groups, the church-run foodbank and volunteer projects working on a shoestring across the High Street, Radford Crescent and the Lake Meadows side of town. Havens Hospices and St Luke's draw volunteers from the area, while school and church groups gather donations. Whether it is a national charity ordering on a trade account or a one-room foodbank buying direct online with no minimum, we kit them all the same.",
+      "Beyond the foodbank, the town leans on the Basildon, Billericay and Wickford CVS for volunteer coordination, and on charity shops scattered along the High Street that fund hospice and welfare causes. Hamelin Trust supports adults and children with learning disabilities from its Radford Crescent base, and Basildon Mind reaches residents needing mental-health help. Local fundraisers, church collections and the Lake Meadows community events keep the donation flow going, with volunteers running stalls, sorting stock and staffing tables right across the parish through the year."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Billericay, a FareShare-supplied community group or a small volunteer-run foodbank in Wickford"
+  },
+  "coalville": {
+    "region": "Coalville, Leicestershire",
+    "nearby": ["Loughborough", "Leicester", "Hinckley"],
+    "s1_head": "Charity and volunteer kit in Coalville",
+    "s1loc": [
+      "Coalville Foodbank, part of the Trussell network, runs a voucher referral system with Citizens Advice, children's centres and health visitors, and depends entirely on local food donations and volunteers. Feed The Need Coalville, a small independent team, runs a foodbank from the Marlene Reid Centre on the first and third Saturday of each month, while the Coalville Community Fridge at the Children and Family Welfare Centre saves surplus food. FareShare Midlands, supplied from Leicester and Nottingham, feeds many of these frontline groups across the district.",
+      "The sector here runs at every size. National and regional charities such as LOROS hospice keep shops in the Belvoir Shopping Centre, including a children's shop, with central buying behind them, while small community groups, pantries and volunteer-run foodbanks work on a shoestring across Greenhill, Whitwick and Hugglescote. The Marlene Reid Centre Community Action runs three retail shops and offers placements and education. Whether it is a national charity on a trade account or a one-room foodbank buying direct online with no minimum, we kit them all the same.",
+      "MRC Community Action anchors much of the volunteer effort, partnering with other groups to offer training and work placements to people across North West Leicestershire. LOROS draws shop volunteers to receive donations, serve customers and build displays, while the community fridge relies on a rota of helpers to redistribute rescued food. Church halls and the Belvoir precinct host collections and fundraisers, and residents from Bardon, Thringstone and Ellistown give time staffing stalls and sorting stock through the year."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Coalville, a FareShare-supplied community group or a small volunteer-run foodbank in Loughborough"
+  },
+  "hitchin": {
+    "region": "Hitchin, Hertfordshire",
+    "nearby": ["Letchworth", "Stevenage", "Hertford"],
+    "s1_head": "Charity and volunteer kit in Hitchin",
+    "s1loc": [
+      "The Letchworth, Hitchin and Baldock Food Bank hands out parcels from Westmill Community Centre on Tuesdays and Fridays, always short of donations and helpers. The Hitchin Food Rescue Hub is an eco-community rescuing food from landfill for people in need, and Garden House Hospice Care raises around two million pound a year through six shops and its Depot distribution centre in nearby Letchworth. The Samaritans branch on Brand Street has supported North Hertfordshire since 1971, all of it run by people giving their time.",
+      "The sector here runs at every size. National and regional charities with shops and central buying, such as Garden House Hospice Care and Keech Hospice with its outlet in The Churchyard, sit beside small community groups, the food rescue hub and volunteer-run foodbanks working on a shoestring across Bancroft, Westmill and Walsworth. GoVolHerts helps match people to causes locally. Whether it is a national charity ordering on a trade account or a one-room foodbank buying direct online with no minimum, we kit them all the same.",
+      "Garden House Hospice Care channels donated goods through its Letchworth Depot, an all-under-one-roof hub taking fashion, homeware and books, while its Bancroft shop and others fund care for patients across the town and surrounding villages. North Hertfordshire Museum, a homelessness charity in the town and a network of Brand Street and Bancroft charity shops add to the mix. Volunteers staff tills, sort stock and run collections, and the Samaritans rota keeps emotional support going every hour of the year across the district."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Hitchin, a FareShare-supplied community group or a small volunteer-run foodbank in Letchworth"
+  },
+  "dunstable": {
+    "region": "Dunstable, Bedfordshire",
+    "nearby": ["Luton", "Hemel Hempstead", "Bedford"],
+    "s1_head": "Charity and volunteer kit in Dunstable",
+    "s1loc": [
+      "Dunstable Foodbank, part of the Trussell network, provides emergency food for people in the LU5 and LU6 postcodes covering Dunstable, Houghton Regis and surrounding villages, with volunteers meeting clients, sharing tea and signposting support. The Salvation Army runs its own community work in the town, and FareShare Midlands redistributes surplus food to frontline groups across Bedfordshire. The foodbank leans entirely on local food donations, collections at supermarkets and people giving their weekends to raise stock.",
+      "The sector here runs at every size. National and regional charities such as Keech Hospice keep shops in Ashton Square and on Katherine Drive with central buying behind them, while small community groups, pantries and volunteer-run foodbanks work on a shoestring across the town centre, Houghton Regis and Downside. Keech runs 39 shops across the wider region. Whether it is a national charity ordering on a trade account or a one-room foodbank buying direct online with no minimum, we kit them all the same.",
+      "Keech Hospice Care draws shop volunteers across Ashton Square and Katherine Drive to sort and price donated goods that fund care for terminally ill patients, while the Salvation Army hall supports families directly. Local NHS and council colleagues have run fundraising drives for Dunstable Foodbank, and church groups gather donations across Houghton Regis and the Downs. Volunteers staff weekend supermarket collections, pack parcels and run stalls at community events throughout the year, keeping both the shops and the foodbank moving."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Dunstable, a FareShare-supplied community group or a small volunteer-run foodbank in Luton"
+  },
+  "wickford": {
+    "region": "Wickford, Essex",
+    "nearby": ["Basildon", "Billericay", "Rayleigh"],
+    "s1_head": "Charity and volunteer kit in Wickford",
+    "s1loc": [
+      "The Wickford Community Association is a registered charity promoting community wellbeing with no trustee taking pay, and St Luke's Hospice runs a charity shop in the Ladygate Centre. Basildon Mind reaches people needing mental-health support across Basildon, Billericay and Wickford, while Havens Hospices draws local volunteers. Nearby Basildon Foodbank, part of the Trussell network, provides three days of emergency food from Pitsea Leisure Centre, and the big food-redistribution networks supply many of these frontline groups across the town.",
+      "The sector here runs at every size. National and regional charities with high-street shops and central buying sit beside small community groups, hospice shops and volunteer-run foodbanks working on a shoestring across the Ladygate Centre, the High Street and the Nevendon side of town. The Basildon, Billericay and Wickford CVS coordinates volunteers, and Manna Meals-style community pantries assemble low-cost recipe bags. Whether it is a national charity ordering on a trade account or a one-room foodbank buying direct online with no minimum, we kit them all the same.",
+      "St Luke's Hospice keeps its Ladygate Centre shop staffed by volunteers who sort and sell donated goods to fund palliative care, while the Wickford Community Association runs activities for residents. Basildon Mind offers groups and one-to-one help nearby, and Volunteer Essex lists a steady stream of local roles. Church collections, the BBW CVS and community events along the High Street keep donations flowing, with people giving time on stalls, in shops and at the foodbank handover across the district through the year."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Wickford, a FareShare-supplied community group or a small volunteer-run foodbank in Basildon"
+  },
+  "bridlington": {
+    "region": "Bridlington, East Yorkshire",
+    "nearby": ["Beverley", "Scarborough", "Hull"],
+    "s1_head": "Charity and volunteer kit in Bridlington",
+    "s1loc": [
+      "East Yorkshire Foodbank, part of the Trussell network, runs a Bridlington Community Hub on a voucher referral system and depends on local food donations and volunteers. The Hinge Centre is a Bridlington charity supporting people facing social and financial deprivation, and Dove House Hospice has opened its 35th shop, in Unit 11 of The Promenades Shopping Centre, recruiting volunteers to sort stock, serve customers and value donations. FareShare Yorkshire supplies surplus food to refuges, pantries and lunch clubs across the region.",
+      "The sector here runs at every size. National and regional charities such as Dove House Hospice keep shops with central buying behind them, while small community groups, pantries and volunteer-run foodbanks work on a shoestring across the Old Town, the Promenades and the harbour side of Bridlington. The Hinge Centre offers services and opportunities directly. Whether it is a national charity ordering on a trade account or a one-room foodbank buying direct online with no minimum, we kit them all the same.",
+      "Dove House Hospice, based in Hull and serving the whole East Riding, draws Bridlington volunteers into stock sorting, visual merchandising and pricing at its Promenades shop, with retail income propping up specialist care. The Hinge Centre runs guidance and opportunity programmes for residents facing hardship, and the East Yorkshire Foodbank hub leans on church and supermarket collections. Volunteers staff tills, pack parcels and run seafront fundraising events across the Old Town and the harbour through the year."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Bridlington, a FareShare-supplied community group or a small volunteer-run foodbank in Scarborough"
+  },
+  "beverley": {
+    "region": "Beverley, East Yorkshire",
+    "nearby": ["Hull", "Cottingham", "Bridlington"],
+    "s1_head": "Charity and volunteer kit in Beverley",
+    "s1loc": [
+      "East Yorkshire Foodbank, part of the Trussell network, runs on a voucher referral system with around 78 volunteers, and the Beverley Cherry Tree Community Centre distributes food vouchers weekly. Dove House Hospice, serving Hull and the East Riding for over 40 years, keeps a shop on Dyer Lane and relies on more than 750 volunteers for therapy, respite and child bereavement support. FareShare Yorkshire supplies surplus food to many of these frontline groups across the wider county.",
+      "The sector here runs at every size. National and regional charities such as Dove House Hospice keep shops with central buying behind them, while small community groups, the Cherry Tree Community Centre and volunteer-run foodbanks work on a shoestring across the Saturday Market, Flemingate and Dyer Lane. Volunteer Centres match residents to causes locally. Whether it is a national charity ordering on a trade account or a one-room foodbank buying direct online with no minimum, we kit them all the same.",
+      "Dove House Hospice draws Beverley volunteers into its Dyer Lane shop to sort and sell donated goods that fund specialist care across the East Riding, and its child bereavement group has been backed by local fundraising drives. The Cherry Tree Community Centre, named a charity of the year, links closely with the foodbank to hand out vouchers, while charity shops around the Saturday Market and Flemingate add income. Volunteers staff tills, pack parcels and run town-centre fundraising events through the year across the Minster quarter and beyond."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Beverley, a FareShare-supplied community group or a small volunteer-run foodbank in Hull"
+  }
+}

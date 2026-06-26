@@ -1,0 +1,86 @@
+{
+  "oldbury": {
+    "region": "Oldbury, Sandwell, West Midlands",
+    "nearby": ["Smethwick", "West Bromwich", "Halesowen"],
+    "s1_head": "Charity and volunteer kit in Oldbury",
+    "s1loc": [
+      "Oldbury sits at the heart of Sandwell's charity effort, where the Black Country Foodbank runs a distribution session from the New Testament Church of God on Church Street, and the Lion Farm Action Centre on Shelsley Avenue shares free surplus supermarket food through the big food-redistribution and foodbank networks. Sandwell Churches Link coordinates food support across the borough, and Salvation Army collections at local supermarkets feed parcels out to families across the town through the cost-of-living crisis.",
+      "The sector here runs at every size. National charities such as Barnardo's and Mary Stevens Hospice keep shops across Oldbury, Tipton and Langley and buy kit centrally on trade accounts, while small community groups, pantries and volunteer-run foodbanks operate on a shoestring across Langley, Brandhall and Rowley Regis. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum order required.",
+      "Beyond the food parcels, Mary Stevens Hospice supports families across Sandwell and the wider Black Country and runs charity shops that rely on volunteers sorting donations week in, week out. Local mutual-aid and church groups in Oldbury and Langley raise funds for inhabitants of the neighbourhood, and Sandwell's volunteer centre points new helpers towards drivers' roles, warehouse shifts and shop placements. From the high street collection tin to the community hall lunch club, Oldbury's volunteers keep the town's safety net stitched together."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Oldbury, a Black Country Foodbank-supplied community group or a small volunteer-run foodbank in Smethwick"
+  },
+  "irvine": {
+    "region": "Irvine, North Ayrshire, Scotland",
+    "nearby": ["Kilmarnock", "Ayr", "Glasgow"],
+    "s1_head": "Charity and volunteer kit in Irvine",
+    "s1loc": [
+      "Irvine anchors the charity network across North Ayrshire, where the North Ayrshire Foodbank, part of the Trussell network, runs distribution points from Castlepark Community Centre, Redburn Community Centre and Towerlands Community Centre in Bourtreehill. Volunteers cover telephone duties, greet visitors in crisis and drive parcels out across the wider area, while the big food-redistribution and foodbank networks keep surplus supermarket food moving to charities and community groups right across the town.",
+      "The sector runs at every size here. National and regional charities such as Barnardo's on Bridgegate, the Salvation Army on the High Street and Cancer Research UK at Riverway keep charity shops and buy kit centrally on trade accounts, while small community groups, pantries and volunteer-run foodbanks work on a shoestring across Castlepark, Redburn and Bourtreehill. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum order required.",
+      "Irvine's wider voluntary effort reaches well beyond food. CHAP supports people across Ayrshire with housing, welfare and debt advice, much of it volunteer-backed, and a string of charity shops along the Bridgegate and the town centre rely on volunteers to keep the doors open. Community centres in Towerlands and Redburn host lunch clubs, mutual-aid groups and warm spaces, and North Ayrshire's volunteer network channels new helpers into driving, befriending and sorting roles that keep the town's support running."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Irvine, a FareShare-supplied community group or a small volunteer-run foodbank in Kilmarnock"
+  },
+  "aberdare": {
+    "region": "Aberdare, Rhondda Cynon Taf, Wales",
+    "nearby": ["Merthyr Tydfil", "Pontypridd", "Caerphilly"],
+    "s1_head": "Charity and volunteer kit in Aberdare",
+    "s1loc": [
+      "Aberdare carries a strong charity tradition through the Cynon Valley, where the Merthyr Cynon Foodbank runs voucher-based distribution and the Salvation Army on Wind Street operates a foodbank and community cafe, working with the ASDA store in Aberaman to gather donations. At St Fagan's in Trecynon, volunteers run the Pantri Cariad food pantry, while FareShare Cymru and the big food-redistribution networks move surplus food from across Wales out to community groups in the valley.",
+      "The sector runs at every size here. National and regional charities such as Barnardo's and St David's Hospice Care keep shops across Aberdare and buy kit centrally on trade accounts, while small community groups, pantries and volunteer-run foodbanks work on a shoestring across Trecynon, Aberaman and Cwmbach. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum order required.",
+      "Volunteering runs deep across Rhondda Cynon Taf, where Interlink RCT reckons a large share of residents give time, whether in a group or simply helping neighbours. The Salvation Army Aberdare Corps adds a Tuesday community lunch and an employment service, Oasis Community Church in Trecynon draws in volunteers, and charity shops along the town centre depend on local people sorting and selling donations. Connect RCT lists the valley's many volunteer openings, keeping the Cynon Valley's grassroots projects staffed and steady."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Aberdare, a FareShare Cymru-supplied community group or a small volunteer-run foodbank in Merthyr Tydfil"
+  },
+  "lichfield": {
+    "region": "Lichfield, Staffordshire",
+    "nearby": ["Tamworth", "Burntwood", "Cannock"],
+    "s1_head": "Charity and volunteer kit in Lichfield",
+    "s1loc": [
+      "Lichfield's charity network leans heavily on the Lichfield Foodbank, a Trussell member run entirely by volunteers, which operates distribution centres each week from Curborough Community Centre, LifeChurch at Netherstowe and Wade Street Church. The foodbank fields telephone support, warehouse teams and drivers, and the big food-redistribution and foodbank networks keep surplus supermarket food flowing to the projects that hand out three-day emergency parcels to people in crisis across the city.",
+      "The sector runs at every size here. National and regional charities such as St Giles Hospice keep shops, including its Lichfield Home and Community store, and buy kit centrally on trade accounts, while small community groups, pantries and volunteer-run foodbanks work on a shoestring across Curborough, Netherstowe and Boley Park. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum order required.",
+      "Beyond the city, Spark Burntwood runs a baby bank and a programme of community activities that draw in local volunteers, and St Giles Hospice supports families across the district with care that its charity shops help to fund. Lichfield District Council points residents towards local foodbanks and charities needing help, and church-based and mutual-aid groups across Lichfield and Burntwood keep warm spaces, lunch clubs and collection points staffed by people giving their own time week after week."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Lichfield, a FareShare-supplied community group or a small volunteer-run foodbank in Tamworth"
+  },
+  "letchworth": {
+    "region": "Letchworth Garden City, North Hertfordshire",
+    "nearby": ["Hitchin", "Stevenage", "Welwyn Garden City"],
+    "s1_head": "Charity and volunteer kit in Letchworth",
+    "s1loc": [
+      "Letchworth Garden City supports a busy charity effort led by the Letchworth, Hitchin and Baldock Foodbank, a Trussell member established in 2012 and run with no salaried staff. It serves the SG postcodes on a voucher referral system and is always after drivers and greeters, while the big food-redistribution and foodbank networks keep surplus food moving to the centres that hand out emergency parcels to local people across North Hertfordshire in crisis.",
+      "The sector runs at every size here. National and regional charities keep charity shops along the town centre and buy kit centrally on trade accounts, while small community groups, pantries and volunteer-run foodbanks work on a shoestring across Norton, Jackmans and the town centre. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum order required.",
+      "Letchworth is home to Garden House Hospice Care, a local charity providing free end-of-life care across North Hertfordshire, Stevenage and beyond, supported by a network of volunteers and fundraising shops. Green Care at Norton runs a social and therapeutic gardening project across growing sites in the town, drawing volunteers to support vulnerable people through horticulture, and the Garden City's many mutual-aid and church-based groups keep collection points, lunch clubs and befriending schemes running on local goodwill."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Letchworth, a FareShare-supplied community group or a small volunteer-run foodbank in Hitchin"
+  },
+  "haywards heath": {
+    "region": "Haywards Heath, Mid Sussex, West Sussex",
+    "nearby": ["Burgess Hill", "Crawley", "Horsham"],
+    "s1_head": "Charity and volunteer kit in Haywards Heath",
+    "s1loc": [
+      "Haywards Heath runs a well-supported charity network anchored by the Haywards Heath Foodbank, a Trussell member kept going by a team of around 80 volunteers handing out food parcels through the cost-of-living crisis. Mid Sussex District Council also runs Community Food Hubs in the town, and the big food-redistribution and foodbank networks keep surplus supermarket food flowing to the groups feeding families across Haywards Heath and the surrounding villages.",
+      "The sector runs at every size here. National and regional charities such as the British Heart Foundation and The Children's Trust keep charity shops in the town and buy kit centrally on trade accounts, while small community groups, pantries and volunteer-run foodbanks work on a shoestring across Bentswood, Franklands Village and Lindfield. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum order required.",
+      "Two local hospices draw deeply on the town's volunteers: St Catherine's Hospice provides end-of-life care across Mid Sussex and south-east Surrey, while St Peter and St James receives long-term support from the community around Haywards Heath. The town council lists an active roster of voluntary organisations, charities and community groups, and church-based and mutual-aid efforts across Lindfield and the town centre keep lunch clubs, warm spaces and donation points staffed by people giving their own time."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Haywards Heath, a FareShare-supplied community group or a small volunteer-run foodbank in Burgess Hill"
+  },
+  "uxbridge": {
+    "region": "Uxbridge, London Borough of Hillingdon",
+    "nearby": ["Hayes", "Ruislip", "Slough"],
+    "s1_head": "Charity and volunteer kit in Uxbridge",
+    "s1loc": [
+      "Uxbridge is the base for the Hillingdon Foodbank, run from New Windsor Street and the first food bank in London when it launched in 2009. It is supported by 176 volunteers, with around 60 managing the Yiewsley warehouse, and runs distribution from the Life Oasis Centre in Hayes and the .Com Cafe in West Drayton. The big food-redistribution and foodbank networks keep surplus food flowing to the parcels handed out across the borough on a voucher referral system.",
+      "The sector runs at every size here. National and regional charities keep charity shops along the High Street and buy kit centrally on trade accounts, while small community groups, pantries and volunteer-run foodbanks work on a shoestring across Yiewsley, Cowley and West Drayton. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum order required.",
+      "The Salvation Army in Hayes, Hillingdon and Uxbridge works as one community serving the borough, while the separate Yiewsley and West Drayton Foodbank, set up by five local churches, covers the UB7 postcode from St Matthew's Church Centre. Students from Uxbridge College, Brunel University and local schools turn out to help in the warehouse and at distribution points, and mutual-aid and church groups across Cowley and Hillingdon keep the borough's collection points and lunch clubs staffed by volunteers."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Uxbridge, a Hillingdon Foodbank-supplied community group or a small volunteer-run foodbank in Hayes"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "dover": {
+    "region": "Dover, Kent",
+    "nearby": ["Folkestone", "Deal", "Canterbury"],
+    "s1_head": "Charity and volunteer kit across Dover",
+    "s1loc": [
+      "Dover Foodbank, part of the Trussell network, hands out three-day emergency parcels through a voucher referral system, while Dover Family Food Bank supports households across the town. The big food-redistribution networks reach the area too, with FareShare Kent running warehouses near Ashford that move surplus food to more than 140 community groups, schools and charities. Pilgrims Hospices, caring for people across east Kent, runs its London Road shop and depends on a wide team of trained volunteers who signpost bereavement support alongside the till work.",
+      "The sector here runs at every size. National and regional charities keep shops on the high street with central buying power - RSPCA, Scope, Sense and YMCA all trade in Dover - while small community groups, the foodbank and volunteer-run projects work on a shoestring across districts like Buckland and River. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Beyond the food parcels, Dover carries a wider mix of named causes and volunteer effort. Stronger Kent Communities supports and connects voluntary, community and social-enterprise groups so small charities can find practical help. The Riverside charity shop and other second-hand stores raise steady income for local need, and Pilgrims Hospices fields around 1,500 volunteers across east Kent. Mutual-aid and church-run efforts around Maxton and the town centre keep emergency clothing, toiletries and warm-space provision going, much of it run by handfuls of unpaid helpers giving their own time."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Dover, a FareShare Kent-supplied community group or a small volunteer-run foodbank in Deal"
+  },
+  "morecambe": {
+    "region": "Morecambe, Lancashire",
+    "nearby": ["Lancaster", "Kendal", "Fleetwood"],
+    "s1_head": "Charity and volunteer kit across Morecambe",
+    "s1loc": [
+      "Morecambe Bay Foodbank, founded by local churches and community groups and part of the Trussell network, gives seven-day emergency food, toiletries and household items to people in crisis across Morecambe, Lancaster and the surrounding area, backed by more than fifty regular volunteers. West End Impact, a registered charity run by Christians from Morecambe Community Church and other local churches, helps people in need with advice, guidance and practical support. Morecambe Homeless Action provides hot food, warmth, shelter information and donated clothing and bedding to those facing homelessness.",
+      "The sector here runs at every size. St John's Hospice keeps around ten shops across Lancaster, Morecambe, Kendal and Garstang with central buying behind them, and national names like Cancer Research UK trade in the town, while small community groups, the foodbank and volunteer-run projects work on a shoestring across the West End, Poulton and Bare. The Olive Branch in Lancaster runs as a volunteer-powered food project. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Across the bay the picture is broader still. St John's Hospice runs furniture shops in Morecambe, Kendal and Garstang, mainly staffed by volunteers whose hours feed straight into patient and family care. Morecambe Town Council points residents toward advice, support and wellbeing groups, and mutual-aid and church-led efforts around the West End keep warm spaces, clothing and toiletry collections going. Lancaster City Council lists the local food-bank and essentials help, and a steady stream of unpaid helpers staff the shops and run the community projects that hold the seafront town together."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Morecambe, a Morecambe Bay Foodbank-supplied community group or a small volunteer-run foodbank in Lancaster"
+  },
+  "trowbridge": {
+    "region": "Trowbridge, Wiltshire",
+    "nearby": ["Melksham", "Chippenham", "Frome"],
+    "s1_head": "Charity and volunteer kit across Trowbridge",
+    "s1loc": [
+      "Storehouse Foodbank, run by Waterways Vineyard Church and going since 2006, gives three days of food and toiletries to families, couples and individuals referred by teachers, social workers, doctors, ministers, Citizens Advice or Wiltshire Council. Dorothy House Hospice Care keeps shops in Trowbridge, including a Silver Street store and a Shires pop-up, raising income to support people at the end of their lives. Trowbridge Community Area Future, an independent Wiltshire charity, works to build local people's capacity and skills so they can better meet their own needs.",
+      "The sector here runs at every size. Regional charities like Dorothy House and Wiltshire Sight keep shops on Fore Street and Wicker Hill with central buying behind them, while small community groups, the foodbank and volunteer-run projects work on a shoestring across districts like Studley Green, Adcroft and Hilperton. The big food-redistribution and foodbank networks reach the town too. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "There is more beyond the foodbank too. Wiltshire Sight runs its Fore Street shop with a sight-loss adviser on Fridays and a team of volunteers keeping it open, while Dorothy House volunteers work the tills, sort stock and research unique donated items. Community Action West Wiltshire helps local groups get organised, and church-led and mutual-aid efforts around the town centre keep clothing, toiletry and warm-space provision going. Across these named neighbourhoods a body of unpaid helpers staffs the shops and runs the community projects that the county town leans on."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Trowbridge, a Storehouse Foodbank-supplied community group or a small volunteer-run foodbank in Melksham"
+  },
+  "barnstaple": {
+    "region": "Barnstaple, Devon",
+    "nearby": ["Bideford", "Tiverton", "Exmouth"],
+    "s1_head": "Charity and volunteer kit across Barnstaple",
+    "s1loc": [
+      "Northern Devon Foodbank, part of the Trussell network with its office at Supreme House in nearby Bideford, runs centres in Barnstaple, Braunton, Holsworthy, Ilfracombe, South Molton and Fremington, with volunteers described as its lifeblood. North Devon Hospice cares for people across the region and runs twelve charity shops and furniture centres, with volunteers at the heart of the care it provides. The big food-redistribution networks reach the area too, with FareShare moving surplus food to local charities and community groups and recruiting helpers at events like the Tesco food collection.",
+      "The sector here runs at every size. North Devon Hospice and national charities keep shops across the town with central buying behind them, while small community groups, the foodbank and volunteer-run projects work on a shoestring across districts like Pilton, Newport and Sticklepath. The Northern Devon Foodbank centres lean on local churches and volunteers to keep the shelves stocked and parcels moving. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "There is plenty more to the picture across northern Devon. North Devon Hospice runs twelve shops and furniture centres staffed largely by volunteers whose hours feed straight into care, and the Tesco food collection draws fresh helpers in each year for the foodbank. Mutual-aid and church-led efforts around the town centre and Forches keep clothing, toiletry and warm-space provision going, and a steady body of unpaid helpers sorts donations, staffs the shops and runs the community projects that this market town depends on through the winter and beyond."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Barnstaple, a FareShare-supplied community group or a small volunteer-run foodbank in Bideford"
+  },
+  "sidcup": {
+    "region": "Sidcup, London Borough of Bexley",
+    "nearby": ["Eltham", "Orpington", "Woolwich"],
+    "s1_head": "Charity and volunteer kit across Sidcup",
+    "s1loc": [
+      "Bexley Foodbank, part of the Trussell network, runs on community food donations and more than a hundred volunteers who meet clients and hand out parcels through a voucher referral system. Greenwich and Bexley Community Hospice serves people across both boroughs and runs around fifteen shops, including a Sidcup store, where volunteers help raise vital income. Age UK Bexley, an independent local charity working across the borough for thirty years, runs day centres in Sidcup along with befriending cafes and fitness activities for older residents.",
+      "The sector here runs at every size. The hospice and national names like Age UK keep shops across Sidcup with central buying behind them, while small community groups, the foodbank and volunteer-run projects work on a shoestring across districts like Lamorbey, Blackfen and Foots Cray. Bexley and Sidcup Lions Club channels help to foodbanks, clothes banks and care centres. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "There is a wider web of effort across the borough too. Greenwich and Bexley Community Hospice fields volunteers across its fifteen shops whose hours feed straight into end-of-life care, and Age UK Bexley relies on day-centre and befriending volunteers to reach the borough's most isolated older people. Mutual-aid and church-led groups around the Sidcup town centre and Blackfen keep clothing, toiletry and warm-space provision going, and a steady stream of unpaid helpers staffs the shops and runs the small community projects that knit this corner of south-east London together."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Sidcup, a Bexley Foodbank-supplied community group or a small volunteer-run foodbank in Eltham"
+  },
+  "hyde": {
+    "region": "Hyde, Tameside, Greater Manchester",
+    "nearby": ["Denton", "Stalybridge", "Ashton-under-Lyne"],
+    "s1_head": "Charity and volunteer kit across Hyde",
+    "s1loc": [
+      "Tameside South and Longdendale Foodbank, part of the Trussell network, gets emergency food to people in crisis across Hyde and the surrounding area with the help of local volunteers. Willow Wood Hospice cares for people of Tameside and Glossop living with a life-limiting illness, running charity shops across the area, a Purchase and Donate furniture shop in Stalybridge and a distribution centre in Ashton-under-Lyne, all backed by an army of around five hundred volunteers. The Grafton Centre on Grafton Street is a health and wellbeing community hub for local people.",
+      "The sector here runs at every size. Willow Wood and national names like the British Red Cross and British Heart Foundation keep shops in Hyde with central buying behind them, while small community groups, the foodbank, pantries and volunteer-run projects work on a shoestring across districts like Newton, Gee Cross and Godley. Donation points sit in shops across Hyde and Newton. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "There is more behind the scenes across Tameside. Willow Wood's roughly five hundred volunteers staff its shops and distribution centre, with their hours feeding straight into hospice care, and the charity supports young people into paid work placements through the Tameside YES scheme. Mutual-aid and food-support groups, including sandwich and warm-meal projects, run on volunteer effort, while Tameside Council lists food banks and community pantries across the borough. Around Gee Cross and the Grafton Centre, unpaid helpers keep clothing, toiletry and warm-space provision going for neighbours in need."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Hyde, a Willow Wood Hospice-supplied community group or a small volunteer-run foodbank in Denton"
+  },
+  "billingham": {
+    "region": "Billingham, Stockton-on-Tees",
+    "nearby": ["Stockton-on-Tees", "Hartlepool", "Middlesbrough"],
+    "s1_head": "Charity and volunteer kit across Billingham",
+    "s1loc": [
+      "Billingham and Stockton Borough Foodbank, part of the Trussell network and an independent charity since 2018, runs centres in Billingham, Stockton and Norton along with a food warehouse, clothing bank and a Stockton food pantry, working in partnership with Hebron Church in Newtown and an adviser from SDAIS. The foodbank gives three days of emergency food to people referred in crisis and urgently needs warehouse volunteers. Butterwick Hospice supports people with life-limiting illness across Stockton, Billingham, Norton, Yarm and Eaglescliffe, running shops and depending on volunteers throughout.",
+      "The sector here runs at every size. Butterwick Hospice and Teesside Hospice keep shops across the area with central buying behind them - Teesside Hospice alone runs around fourteen stores across the area - while small community groups, the foodbank, pantry and volunteer-run projects work on a shoestring across districts like Cowpen Bewley and Wolviston. The big food-redistribution networks, including FareShare North East, reach the area too. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Across the borough the effort runs deeper still. Stockton Volunteers connects residents into food banks and community projects, and the Stockton Food Aid Fund backs community food charities and support groups. Butterwick Hospice fields volunteers at the heart of its day services and shops, with their hours feeding straight into care, and the foodbank's clothing bank and household-goods provision lean on unpaid helpers. Mutual-aid and church-led groups around Newtown and Norton keep emergency food, clothing and warm-space provision going for neighbours in need right across Teesside."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Billingham, a FareShare North East-supplied community group or a small volunteer-run foodbank in Stockton-on-Tees"
+  }
+}

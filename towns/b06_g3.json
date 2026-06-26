@@ -1,0 +1,86 @@
+{
+  "leyland": {
+    "region": "Leyland, South Ribble, Lancashire",
+    "nearby": ["Chorley", "Preston", "Fulwood"],
+    "s1_head": "Charity and volunteer work across Leyland",
+    "s1loc": [
+      "Leyland Food Bank runs from St Mary's Community Centre on Broadfield Drive, supported by the St Vincent de Paul Society, local churches and supermarkets, and Churches Together in Leyland coordinates much of the wider effort. The Base on Bannister Drive is run by residents for residents, and its One Stop community shop lets Broadfield households pick ten items a week for a small set fee. Wade Hall Community Association adds youth, elderly and coffee-morning sessions, all delivered by volunteers across the town.",
+      "Leyland's charity sector runs at every size. National and regional names keep charity shops and central buying behind them, with St Catherine's Hospice running a dozen shops across Chorley, Preston and South Ribble and Derian House Children's Hospice trading nearby. Alongside them, small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Broadfield, Wade Hall, Worden and Moss Side. We are glad to kit out the national charity and the one-room foodbank alike, with trade accounts and straightforward direct online, no minimum.",
+      "Beyond the foodbanks, Progress Housing Group lists community cafes, food hubs and resident associations across the area, and Feeding Lancashire Together connects the smaller pantries. Derian House at Chancery Road in Chorley and St Catherine's both rely on volunteer-staffed charity shops and donated stock to fund care, while South Ribble's own directory points people toward community shops and mutual-aid groups. Citizens Advice Lancashire West signposts families between these projects, so a polo or fleece often travels from a hospice shop counter to a church hall food store the same week."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Leyland, a Feeding Lancashire Together-supplied community group or a small volunteer-run foodbank in Chorley"
+  },
+  "skelmersdale": {
+    "region": "Skelmersdale, West Lancashire, Lancashire",
+    "nearby": ["Ormskirk", "Wigan", "St Helens"],
+    "s1_head": "Charity and volunteer work across Skelmersdale",
+    "s1loc": [
+      "Skelmersdale and District Foodbank is part of the Trussell network, with volunteers weighing, sorting and packing parcels for people referred in crisis. The PULSE is a volunteer-run centre offering craft, tai chi, yoga and chronic-pain and brain-injury support groups, while the Junk Food Cafe in Birchwood turns surplus into healthy meals and cuts food waste. The Bike Works is a community bike project built on volunteer effort, and West Lancs CVS helps connect these groups across the new town and its surrounding villages.",
+      "The sector here runs at every size. Larger charities bring shops and central buying, but much of Skelmersdale's support comes from small community groups, foodbanks, pantries and volunteer-run projects working on a shoestring across Tanhouse, Digmoor, Birch Green, Moorside and Ashurst. Tanhouse Community Enterprise and Evermoor Enterprises near Birleywood run their centres for residents, by residents. We are happy to serve the national charity and the one-room foodbank alike, with trade accounts for the big names and direct online ordering, no minimum, for the smallest group.",
+      "West Lancashire Borough Council and the West Lancs Buzz directory list dozens of volunteer roles across the borough, from foodbank shifts to community-centre stewarding. Citizens Advice Lancashire West signposts households toward the foodbank and the local pantries, and church-based and mutual-aid groups run holiday meals and warm-space sessions through the colder months. With seven wards spread across the town, volunteer-staffed projects in Birch Green, Digmoor and Tanhouse often share donated goods and kit between them, so a hi-vis or fleece rarely stays in one hall for long."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Skelmersdale, a West Lancs CVS-supported community group or a small volunteer-run foodbank in Ormskirk"
+  },
+  "canvey island": {
+    "region": "Canvey Island, Castle Point, Essex",
+    "nearby": ["Basildon", "Wickford", "Southend-on-Sea"],
+    "s1_head": "Charity and volunteer work across Canvey Island",
+    "s1loc": [
+      "Canvey Island Foodbank works out of Yellow Doors in partnership with Winter Gardens Baptist Church, with SHARE run entirely by volunteers and public food donations. The St Vincent de Paul Society and Yellow Door, an independent charity supporting young people, joined other groups to provide hundreds of thousands of meals through the hardest months. The Salvation Army on Canvey runs Stuff on the Bus, a shame-free, no-means-testing food project that leans heavily on local volunteers and donated stock to keep going.",
+      "Charity on Canvey runs at every size. National and regional names hold shops and central buying behind them, with Havens Hospices trading a shop on Furtherwick Road to fund Fair Havens and Little Havens. Against that sit small community groups, foodbanks, pantries and volunteer-run projects working on a shoestring across the seafront wards, Winter Gardens and Leigh Beck. St Joseph's school even runs a Mini Vinnies group. We are glad to outfit the national charity and the one-room foodbank alike, with trade accounts and easy direct online, no minimum.",
+      "Beyond food aid, Friends of Concord Beach and other resident groups keep the seafront cared for through volunteer effort, and Southend Volunteer Hub and Get Volunteering list roles right across the island. Essex Community Foundation backs smaller projects with grants, and St Nicholas Church of England and the Baptist congregations run parcels and warm spaces. The Essex County Council foodbank white-goods scheme, signposted by the town council, helps families furnish a home, so a polo or hi-vis moves easily between a hospice shop and a church food store."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Canvey Island, a Yellow Doors-supplied community group or a small volunteer-run foodbank in Basildon"
+  },
+  "long eaton": {
+    "region": "Long Eaton, Erewash, Derbyshire",
+    "nearby": ["Nottingham", "Beeston", "Ilkeston"],
+    "s1_head": "Charity and volunteer work across Long Eaton",
+    "s1loc": [
+      "Long Eaton and Sawley Foodbank was founded by local churches and community groups and is part of the Trussell network, running from centres in Long Eaton, Sawley and Castle Donington with a team of trustees and more than sixty volunteers packing parcels, welcoming guests and signposting support. Alongside it sit the Canaan Trust on Main Street, Long Eaton Christ Church Food Bank, Sawley Food Bank and Long Eaton Baptist Church Food Bank, each leaning on volunteers and donated stock to feed people referred in hardship across the town.",
+      "The sector here runs at every size. National and regional charities keep shops and central buying behind them, with Treetops Hospice trading a shop on Derby Road in Long Eaton. Against that sit small community groups, foodbanks, pantries and volunteer-run projects on a shoestring across Sawley, Castle Donington, Chilwell and Toton. The Canaan Trust runs around the clock, every day. We are happy to serve the national charity and the one-room foodbank alike, with trade accounts for the big names and direct online, no minimum.",
+      "The Canaan Trust supports homeless men from Long Eaton, Ilkeston, Sandiacre, Stapleford, Sawley, Beeston, Chilwell and Toton, and recently took an Excellence in the Community award from Derbyshire County Council after a nomination by Erewash Borough Council. Treetops Hospice depends on its volunteer-staffed charity shops and donated goods to fund care, and the Community Directory Derbyshire and Long Eaton and Sawley Archive list further resident groups and mutual-aid projects, so a polo or fleece often passes from a hospice shop to a church food store within the same week."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Long Eaton, a Trussell-supplied community group or a small volunteer-run foodbank in Beeston"
+  },
+  "abingdon": {
+    "region": "Abingdon-on-Thames, Vale of White Horse, Oxfordshire",
+    "nearby": ["Oxford", "Didcot", "Bicester"],
+    "s1_head": "Charity and volunteer work across Abingdon",
+    "s1loc": [
+      "Abingdon Foodbank is run by local churches and around sixty volunteers, who weigh, sort and store donated food, make up parcels and meet clients over a cup of tea to signpost further support. Sessions run at Christ Church on Northcourt Road and at Preston Road Community Centre in the Midget Close area, with a small team collecting donations from points around town in their spare time. Volunteers are trained to know local services so families have the right help to break out of crisis.",
+      "Abingdon's charity sector runs at every size. National and regional names keep shops and central buying behind them, with Sobell House and the children's hospice Helen and Douglas House both trading charity shops in the heart of the town centre. Against that sit small community groups, foodbanks, pantries and volunteer-run projects working on a shoestring across Northcourt, Preston Road, Caldecott and the older streets near the Market Place. We are glad to outfit the national charity and the one-room foodbank alike, with trade accounts and easy direct online, no minimum.",
+      "Helen and Douglas House cares for children and young adults across its two hospice houses and funds that work partly through its Abingdon shop of clothes, books and bric-a-brac staffed by volunteers, while Sobell House runs a network of shops and warehouses across Oxfordshire from its 1976 roots. The Oxford Food Hub redistributes surplus across the wider area, and the Oxfordshire MarketPlace and Mind Guide list further food banks and community groups, so a polo or fleece moves easily between a hospice shop and a church food store."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Abingdon, an Oxford Food Hub-supplied community group or a small volunteer-run foodbank in Oxford"
+  },
+  "north shields": {
+    "region": "North Shields, North Tyneside, Tyne and Wear",
+    "nearby": ["Tynemouth", "Whitley Bay", "South Shields"],
+    "s1_head": "Charity and volunteer work across North Shields",
+    "s1loc": [
+      "The Bay Foodbank, founded in 2012, hands out emergency parcels to families in financial crisis from North Shields, with council volunteers redeployed to help and a board always seeking new trustees. Feed North Tyneside, set up in 2022, pulls the borough's food support into one place so people can find help quickly. VODA, the North Tyneside Voluntary Organisations Development Agency, has backed volunteers and community groups for more than thirty years with advice, training and projects that help local organisations grow and thrive across the riverside.",
+      "Charity in North Shields runs at every size. National and regional names keep shops and central buying behind them, while much of the daily work comes from small community groups, foodbanks, pantries and volunteer-run projects on a shoestring across Meadow Well, Percy Main, Chirton and the Fish Quay. The Cedarwood Trust runs its Community Hub for the Meadow Well estate, and Walking With supports people seeking sanctuary. We are happy to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "The Cedarwood Trust offers advice, resettlement, family support and activities from the Meadow Well estate, and the Phoenix Detached Youth Project works with young people aged thirteen to twenty-five on the streets of Meadow Well, Percy Main, Chirton, East Howdon and Royal Quays. VODA runs the North Tyneside volunteer centre that points people toward these projects, and the borough council itself has lent staff to the Bay Foodbank. Donated goods and kit pass freely between the riverside community hubs, so a polo or hi-vis rarely sits idle for long."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across North Shields, a Feed North Tyneside-supplied community group or a small volunteer-run foodbank in Whitley Bay"
+  },
+  "falkirk": {
+    "region": "Falkirk, Falkirk Council area, Scotland",
+    "nearby": ["Cumbernauld", "Livingston", "Alloa"],
+    "s1_head": "Charity and volunteer work across Falkirk",
+    "s1loc": [
+      "Falkirk Foodbank, a SCIO, provides emergency food across the whole Falkirk district through a voucher referral system and home deliveries, adding toiletries, pet food and white goods as people need them. CVS Falkirk and District is the third sector interface for the area, leading on volunteering, social enterprise and good governance, and runs a community food drive. FareShare Scotland redistributes good surplus food that would otherwise go to waste to charities and community groups across the region, helping them support people facing hunger, hardship and loneliness.",
+      "Charity in Falkirk runs at every size. National and regional names keep shops and central buying behind them, with Strathcarron Hospice funding palliative care through volunteers and its Friends and shops. Against that sit small community groups, foodbanks, pantries and volunteer-run projects on a shoestring across Camelon, Grangemouth, Bo'ness, Denny and Bonnybridge. Roots in Bonnybridge and Kersiebank in Grangemouth run independently. We are glad to serve the national charity and the one-room foodbank alike, with trade accounts for the big names and direct online, no minimum, for the smallest group.",
+      "Strathcarron Hospice's Compassionate Communities project builds networks of trained volunteers who support people with long-term conditions to live well close to home, praised with awards by CVS Falkirk and District. Bo'ness Storehouse, the Camelon Community Hub with its food-growing and cafe, and pantries at Denny, Grangemouth and the Falkirk Vine Church all run on volunteer effort, while Forth Valley Food Futures maps the wider network. Donated goods move steadily between these projects, so a polo or fleece often travels from a hospice shop to a community pantry the same week."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Falkirk, a FareShare Scotland-supplied community group or a small volunteer-run foodbank in Cumbernauld"
+  }
+}

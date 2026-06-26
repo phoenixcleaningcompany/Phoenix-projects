@@ -1,0 +1,86 @@
+{
+  "exmouth": {
+    "region": "Exmouth, East Devon",
+    "nearby": ["Exeter", "Tiverton", "Newton Abbot"],
+    "s1_head": "Charity and volunteers in Exmouth",
+    "s1loc": [
+      "Exmouth Food Bank supports people across the town and surrounding villages of Lympstone, Woodbury and Budleigh Salterton, run entirely by volunteers. Open Door Exmouth, a multi-service charity at the heart of the community since 1995, runs a Community Cafe, a Community Fridge, a clothing store and showers, tackling isolation and poverty. The Salvation Army food bank and Exmouth Friends in Need, founded in 2018 to alleviate family poverty, add to a busy local scene of small volunteer-run projects.",
+      "The sector here runs at every size. National charities such as Age UK and the big food-redistribution and foodbank networks keep shops on the high street and buy kit centrally, while Exeter Food Action with FareShare South West moves surplus to community groups across East Devon. Alongside them, small community fridges, pantries and volunteer-run foodbanks work on a shoestring across The Strand, Littleham and Withycombe Raleigh. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Beyond food support, Exmouth backs a wide spread of further good causes. Hospiscare, the Exeter-based hospice, runs a charity shop in the town and depends on volunteers, while Open Door, the British Heart Foundation and other shops line Rolle Street and the town centre. Mutual-aid and befriending groups, the Exmouth in Bloom volunteers and community wellbeing projects all draw on local people giving their time. The result is a dense network of named charities and tiny shoestring projects sitting side by side across Exmouth."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Exmouth, a FareShare South West-supplied community group or a small volunteer-run foodbank in Exeter"
+  },
+  "redcar": {
+    "region": "Redcar, Redcar and Cleveland",
+    "nearby": ["Middlesbrough", "Guisborough", "Stockton-on-Tees"],
+    "s1_head": "Charity and volunteers in Redcar",
+    "s1loc": [
+      "Footprints in the Community, led by Ruth Fox MBE, runs a network of foodbank centres and support projects across Redcar and Cleveland, while the Redcar Area Foodbank gives out emergency parcels with volunteers collecting donations outside Asda South Bank. TEES, a registered charity formed in 2019, hands out food parcels across the Tees Valley with unpaid trustees, and East Cleveland Good Neighbours runs a community-led food bank for the rural villages. Together they form a busy grassroots food network.",
+      "The sector here runs at every size. National and regional charities such as Age UK Redcar, Barnardo's and Teesside Hospice keep charity shops in the town and buy kit through central buying, while the big food-redistribution and foodbank networks move surplus to community groups. Alongside them, small foodbanks, pantries and volunteer-run projects operate on a shoestring across Coatham, Dormanstown and Eston. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Redcar's wider charity scene reaches further still. Teesside Hospice runs shops in the town and at nearby Marske-by-the-Sea, drawing on volunteers for sorting and selling, and community groups support people facing poverty and isolation across the borough. Mutual-aid networks, befriending schemes and the volunteer-driven good-neighbour projects of East Cleveland all sit alongside the foodbanks. From named hospice shops to one-room neighbourhood projects, the spread of causes across Redcar relies on local people giving their time week in, week out."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Redcar, a Footprints in the Community-supplied community group or a small volunteer-run foodbank in Middlesbrough"
+  },
+  "whitley bay": {
+    "region": "Whitley Bay, North Tyneside",
+    "nearby": ["North Shields", "Tynemouth", "South Shields"],
+    "s1_head": "Charity and volunteers in Whitley Bay",
+    "s1loc": [
+      "The Bay Foodbank, started in 2012 with help from local churches in Whitley Bay, now works from a warehouse with extra storage in North Shields and gives out around 40 emergency parcels a day across North Tyneside. Age UK North Tyneside supports older people and their carers across the borough, while VODA, the North Tyneside volunteer development agency, helps charities and community groups grow. St Oswald's Hospice draws gardening and shop volunteers from the town, anchoring a busy local scene.",
+      "The sector here runs at every size. National and regional charities such as Age UK, Marie Curie and the big food-redistribution and foodbank networks keep shops on Whitley Road and buy kit through central buying, while smaller players hold their own. Alongside them, community fridges, pantries and volunteer-run projects work on a shoestring across Monkseaton, the seafront and Cullercoats. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Whitley Bay's voluntary life runs deep. Whitley Bay Big Local, an independent community charity since 2017, works to reduce loneliness and financial exclusion, while the Repair Cafe volunteers at St Mary's Church in Monkseaton and the Friends of St Mary's Island give their time to the wider area. Scout groups, befriending schemes and seafront community projects add to the mix, supported by VODA. From named hospice and charity shops to tiny volunteer-run groups, the spread of causes across Whitley Bay depends on local people giving freely."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Whitley Bay, a Bay Foodbank-supplied community group or a small volunteer-run foodbank in North Shields"
+  },
+  "houghton le spring": {
+    "region": "Houghton le Spring, City of Sunderland",
+    "nearby": ["Sunderland", "Washington", "Chester-le-Street"],
+    "s1_head": "Charity and volunteers in Houghton le Spring",
+    "s1loc": [
+      "Space 4 Food Bank and Community Store on Newbottle Street in Houghton le Spring gives out emergency parcels and runs an affordable community food store two days a week for a small suggested donation. It sits within the wider Sunderland Foodbank network, part of the Trussell Trust, which now has ten foodbanks across the city working on a voucher referral system. A new Sunderland Foodbank centre opened in Houghton with support from Gentoo and Esh Construction, strengthening local food support.",
+      "The sector here runs at every size. National and regional charities, including the big food-redistribution and foodbank networks, keep shops in the town centre and buy kit through central buying, while local distribution hubs sort and pack donations for foodbanks across the region. Alongside them, small pantries, community stores and volunteer-run projects work on a shoestring across Hetton-le-Hole, Penshaw and Newbottle. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Houghton le Spring's wider charity scene runs on volunteers too. St Benedict's Hospice in Sunderland has given free palliative care for over 35 years and depends on volunteers across its care teams and shops, while the Penshaw Community Association on Wensleydale Avenue runs community activities for local people. Mutual-aid groups, befriending schemes and community associations across Hetton and Shiney Row all draw on neighbours giving their time. From the named hospice to the one-room food store, the spread of causes here relies on grassroots effort."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Houghton le Spring, a Sunderland Foodbank-supplied community group or a small volunteer-run foodbank in Washington"
+  },
+  "amesbury": {
+    "region": "Amesbury, Wiltshire",
+    "nearby": ["Salisbury", "Andover", "Trowbridge"],
+    "s1_head": "Charity and volunteers in Amesbury",
+    "s1loc": [
+      "Amesbury Foodbank, run by the Trussell Trust from Amesbury Methodist Church on the High Street, opens twice a week to give emergency food to local people in crisis. It works alongside Salisbury Foodbank, the original of the Trussell Trust network and now an independent charity, which covers the SP postcodes including Amesbury and has access to emergency food five days a week. Together they anchor a busy volunteer-driven food-support effort for the town and the surrounding villages.",
+      "The sector here runs at every size. National and regional charities, including the Trussell Trust, Age UK and the big food-redistribution and foodbank networks, keep shops in the town and buy kit through central buying, while Salisbury Foodbank coordinates community collections across the area. Alongside them, small pantries, community fridges and volunteer-run projects work on a shoestring across Durrington, Bulford and Larkhill. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Amesbury's wider charity life reaches across the Stonehenge area. Salisbury Hospice Charity provides palliative and end-of-life care for patients and families across south Wiltshire, depending on volunteers and charity-shop support, while the Amesbury and Boscombe Down Link runs a volunteer community transport scheme serving Durrington, Bulford, Figheldean and Netheravon. Mutual-aid groups, befriending schemes and church-based projects add to the mix. From the named hospice to the one-room foodbank, the spread of causes around Amesbury relies on local people giving their time."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Amesbury, a Salisbury Foodbank-supplied community group or a small volunteer-run foodbank in Salisbury"
+  },
+  "warwick": {
+    "region": "Warwick, Warwickshire",
+    "nearby": ["Leamington Spa", "Kenilworth", "Stratford-upon-Avon"],
+    "s1_head": "Charity and volunteers in Warwick",
+    "s1loc": [
+      "Warwick District Foodbank, part of the Trussell Trust network and a registered charity since 2015, gives emergency food and support to people in crisis across Warwick, Leamington and Kenilworth, distributing more than 37,000 parcels between 2021 and 2025. Formed when two local foodbanks merged in 2017, it is powered by volunteers, faith groups, schools, businesses and residents, with Warwickshire Community and Voluntary Action helping coordinate local volunteering. It anchors a busy grassroots food-support scene for the district.",
+      "The sector here runs at every size. National and regional charities, including The Myton Hospices, Age UK and the big food-redistribution and foodbank networks, keep shops on Warwick high streets and buy kit through central buying, with Myton running over twenty shops raising around one million pound a year. Alongside them, small pantries and volunteer-run foodbanks work on a shoestring across Warwick town centre, Woodloes and Forbes. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Warwick's charity life leans heavily on its hospice movement. The Myton Hospices, with units in Coventry, Rugby and Warwick, care for around 2,000 local people a year and rely on almost a thousand volunteers across their shops, including the long-established Warwick Street shop. Community groups, befriending schemes and mutual-aid projects support residents across the district, while charity shops line the town and Leamington nearby. From the named hospice shops to one-room volunteer foodbanks, the spread of causes across Warwick depends on local people giving their time."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Warwick, a Warwick District Foodbank-supplied community group or a small volunteer-run foodbank in Leamington Spa"
+  },
+  "erith": {
+    "region": "Erith, London Borough of Bexley",
+    "nearby": ["Woolwich", "Dartford", "Sidcup"],
+    "s1_head": "Charity and volunteers in Erith",
+    "s1loc": [
+      "Bexley Foodbank, part of the Trussell Trust network, runs an Erith distribution centre at Queen Street Baptist Church, open Wednesday and Saturday mornings, and is based around Christ Church Erith. It has over a hundred volunteers who meet clients, pack parcels and offer a safe space for people to find further help across the borough. The Rotary Club of Erith and local churches support the foodbank, forming a busy volunteer-driven food-support effort for the town.",
+      "The sector here runs at every size. National and regional charities, including the Trussell Trust, Age UK Bexley and the big food-redistribution and foodbank networks, keep charity shops in the town and buy kit through central buying, while distribution hubs move food to community groups. Alongside them, small pantries, community fridges and volunteer-run projects work on a shoestring across Northumberland Heath, Slade Green and Belvedere. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Erith's wider charity life reaches across north Bexley. Greenwich and Bexley Community Hospice provides palliative care for local families and runs charity shops and fundraising events, depending on volunteers, while community and mutual-aid groups support residents across Erith and Slade Green. Befriending schemes, church-based projects and the Trinity foodbank session at Bexleyheath add to the mix. From the named hospice to the one-room foodbank, the spread of causes around Erith relies on local people giving their time week after week."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Erith, a Bexley Foodbank-supplied community group or a small volunteer-run foodbank in Dartford"
+  }
+}
