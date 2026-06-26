@@ -1,0 +1,86 @@
+{
+  "edgware": {
+    "region": "Edgware, London Borough of Barnet",
+    "nearby": ["Harrow", "Wembley", "Borehamwood"],
+    "s1_head": "Charity and volunteer kit in Edgware",
+    "s1loc": [
+      "Edgware sits on the Barnet and Harrow boundary, and the charity work here leans on the big food-redistribution and foodbank networks. Harrow Foodbank, part of the Trussell network, collects weekly surplus from Waitrose and runs distribution sessions with a volunteer team that sorts, dates and packs every parcel. FareShare moves rescued supermarket and supplier surplus to community groups across north-west London, while St Luke's Hospice runs its Burnt Oak Broadway shop on the Edgware edge, raising funds that keep local palliative care going.",
+      "The sector here runs at every size. National charities such as Oxfam and North London Hospice keep shops across Edgware, Mill Hill and Burnt Oak and buy kit centrally on trade accounts, while small community groups, pantries and volunteer-run foodbanks work on a shoestring across the wider Barnet and Harrow districts. The Good Neighbour Scheme for Mill Hill and Burnt Oak runs lunch clubs and befriending for older residents. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Beyond the high street, North London Hospice runs more than twenty shops reaching into Barnet from its Enfield and Haringey base, and its Edgware-area volunteers staff tills, sort donations and run furniture pickups. Oxfam advertises retail volunteering across the Mill Hill, Burnt Oak and Edgware shops, and mutual-aid and Good Neighbour volunteers cover shopping runs and telephone befriending around Stonegrove and Canons Park. These are unpaid teams who need branded polos and fleeces that look the part on the door and behind the counter, not corporate uniforms with corporate prices."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Edgware, a FareShare-supplied community group or a small volunteer-run foodbank in Borehamwood"
+  },
+  "bury": {
+    "region": "Bury, Greater Manchester",
+    "nearby": ["Bolton", "Rochdale", "Radcliffe"],
+    "s1_head": "Charity and volunteer kit in Bury",
+    "s1loc": [
+      "Bury's charity scene is anchored by Porch Boxes, a volunteer-run Bury food bank that sorts and date-checks donations at its Bradley Fold warehouse and delivers around 450 crisis packs a month through partner agencies across the borough. Trinity Food Bank operates as part of the Bury Community Support Network, and the big food-redistribution and foodbank networks, FareShare and the Trussell network among them, keep surplus food flowing to churches, schools and community groups that feed lone parents, families and people sleeping rough.",
+      "The sector runs at every size in Bury. Bury Hospice keeps shops in the town centre, Radcliffe, Prestwich and Ramsbottom and buys kit centrally on trade accounts, with retail income covering nearly a third of its costs, while small community groups, pantries and volunteer-run foodbanks scrape by on a shoestring across Whitefield, Tottington and Bradley Fold. From the national hospice charity to the one-room foodbank delivering through agencies, we serve them all, with trade accounts and direct online ordering, no minimum.",
+      "Bury Hospice has run palliative and end-of-life care since 1991 and its community team reaches Prestwich, Whitefield, Radcliffe, Tottington and Ramsbottom, with a bereavement drop-in at Radcliffe Library and a bereavement cafe at the Woodfields Retail Park Tesco. A new hospice furniture shop and the recently opened Radcliffe store lean on volunteer staff for tills, donations and deliveries. Across these shops, drop-ins and the Bradley Fold warehouse, volunteers need affordable branded polos, hi-vis and fleeces so every pound stays with the cause."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Bury, a FareShare-supplied community group or a small volunteer-run foodbank in Radcliffe"
+  },
+  "tamworth": {
+    "region": "Tamworth, Staffordshire",
+    "nearby": ["Sutton Coldfield", "Lichfield", "Cannock"],
+    "s1_head": "Charity and volunteer kit in Tamworth",
+    "s1loc": [
+      "Tamworth's charity work centres on Tamworth Foodbank, which runs from Manna House on Glascote Road and gives at least three days of emergency food via a voucher system, backed by community chaplains who help clients with debt and benefits advice. The Heart of Tamworth Community Pantry on Silver Link Road offers affordable food bags with no referral, stocked by volunteers from supermarket surplus and topped up through FareShare and other charities, part of the big food-redistribution and foodbank networks serving the town.",
+      "The sector runs at every size here. St Giles Hospice keeps a superstore and shops across Tamworth, Lichfield and Sutton Coldfield and buys kit centrally on trade accounts, while small community groups, pantries and volunteer-run projects work on a shoestring across Glascote, Amington and Bolehall. From St Andrew's Church foodbank sessions to the Tamworth Elim Church project, the town blends national charities with shops and central buying against tiny volunteer-run efforts. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "St Giles Hospice runs its Tamworth presence from Church Street and a wider Lichfield catchment, with charity shops that depend on volunteers to sort donations, staff tills and run collections, and an eBay operation alongside the high-street stores. The Heart of Tamworth pantry opens six days, with longer Wednesday hours, and its volunteers collect and redistribute surplus across Glascote and Wilnecote. Across these shops, the pantry and Manna House, volunteers need budget-friendly branded polos, hi-vis and fleeces that keep every pound off the running costs and on the cause."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Tamworth, a FareShare-supplied community group or a small volunteer-run foodbank in Lichfield"
+  },
+  "chatham": {
+    "region": "Chatham, Medway, Kent",
+    "nearby": ["Rochester", "Strood", "Maidstone"],
+    "s1_head": "Charity and volunteer kit in Chatham",
+    "s1loc": [
+      "Chatham anchors charity work across the Medway towns. Medway Foodbank, run by the charity Help in the Community and part of the Trussell network, issues vouchers through more than a hundred partner agencies and distributes from its warehouse, occasionally sending surplus to other foodbanks that run short. Second Chance Medway offers crisis support and a community supermarket with discounted food, while the big food-redistribution networks, FareShare among them, keep rescued supplier surplus flowing to groups across Chatham, Gillingham and Rainham.",
+      "The sector runs at every size in Medway. The Wisdom Hospice, the area's only adult hospice, keeps high-street shops in Chatham, Rochester and Sittingbourne and buys kit centrally on trade accounts, and Demelza children's hospice runs a Walderslade store, while small community groups, pantries and volunteer-run foodbanks work on a shoestring across Luton, Walderslade and Wayfield. From the regional hospice to the one-room project at the Chatham Family Hub, we serve them all, with trade accounts and direct online ordering, no minimum.",
+      "The Wisdom Hospice on the Chatham hill cares for adults across Medway and Swale, and its four shops, including the Chatham High Street store, rely on volunteers to sort donations and staff the floor. Demelza Hospice Care for Children draws donations into its Walderslade Road shop, and church-based distribution points and council-listed cost-of-living support run out of community hubs across the Medway towns. Across these shops, the warehouse and the family hubs, volunteers need affordable branded polos, hi-vis and fleeces so the maximum stays with the cause."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Chatham, a FareShare-supplied community group or a small volunteer-run foodbank in Rochester"
+  },
+  "paisley": {
+    "region": "Paisley, Renfrewshire",
+    "nearby": ["Glasgow", "Renfrew", "East Kilbride"],
+    "s1_head": "Charity and volunteer kit in Paisley",
+    "s1loc": [
+      "Paisley is the hub of Renfrewshire's charity sector. Renfrewshire Foodbank, part of the Trussell network, gives three days of emergency food to families across Paisley, Johnstone and Renfrew, with three staff and more than a hundred volunteers who weigh, sort and pack at the warehouse and run a distribution point at Central Baptist Church on Lady Lane. The big food-redistribution networks, FareShare among them, keep rescued supermarket and supplier surplus moving to community groups across the town.",
+      "The sector runs at every size here. Accord Hospice and St Vincent's Hospice each keep several charity shops across Paisley, Johnstone and the wider area and buy kit centrally on trade accounts, while small community groups, pantries and volunteer-run foodbanks work on a shoestring across Ferguslie, Foxbar and Gallowhill. From the national-scale hospice charities with shops and central buying to the one-room project listed through Engage Renfrewshire, we serve them all, with trade accounts and direct online ordering, no minimum.",
+      "Accord Hospice runs around half a dozen shops, with superstores on Glasgow Road and Causeyside Street and a furniture outlet in the Paisley Centre, all staffed by volunteers sorting and selling donated goods. St Vincent's Hospice keeps pre-loved stores close to its Renfrewshire base, including its Neilston Road shop. Renfrewshire Council and Engage Renfrewshire list dozens of local community groups, mutual-aid efforts and the food, fuel and finance support network across Paisley's neighbourhoods. These volunteer teams need budget-friendly branded polos, hi-vis and fleeces so every pound stays with the cause."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Paisley, a FareShare-supplied community group or a small volunteer-run foodbank in Renfrew"
+  },
+  "carlisle": {
+    "region": "Carlisle, Cumbria",
+    "nearby": ["Penrith", "Workington", "Whitehaven"],
+    "s1_head": "Charity and volunteer kit in Carlisle",
+    "s1loc": [
+      "Carlisle's charity work runs on food from local people for local people. Carlisle Foodbank gives three days of emergency crisis food to people referred by agencies, working through a part-time manager and many volunteers drawn from across the city and partnering with schools and businesses. The big food-redistribution networks reach the city too, with a new redistribution centre at Harraby Community Centre working with FareShare to move up to thirteen thousand meals a week to charitable groups across Cumbria and Lancashire.",
+      "The sector runs at every size in Carlisle. Eden Valley Hospice keeps shops in Carlisle, Brampton, Wigton and Penrith, including a Lonsdale Street store and a book shop in The Lanes, and buys kit centrally on trade accounts, while small community groups, pantries and volunteer-run foodbanks work on a shoestring across Botcherby, Currock and Harraby. From the regional hospice with its Jigsaw children's service to the one-room foodbank serving referrals, we serve them all, with trade accounts and direct online ordering, no minimum.",
+      "Eden Valley Hospice cares for adults across north Cumbria and southwest Scotland, and its Jigsaw children's hospice and Living Well bereavement services lean on a retail estate staffed by volunteers sorting donations and serving customers in The Lanes and Brampton. The Harraby redistribution base is run by a team of more than fifty volunteers, and Cumbria CVS lists ongoing foodbank volunteer roles across the city. Across these shops, the foodbank and the redistribution centre, volunteers need affordable branded polos, hi-vis and fleeces that keep every pound on the cause."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Carlisle, a FareShare-supplied community group or a small volunteer-run foodbank in Penrith"
+  },
+  "crewe": {
+    "region": "Crewe, Cheshire East",
+    "nearby": ["Sandbach", "Congleton", "Newcastle-under-Lyme"],
+    "s1_head": "Charity and volunteer kit in Crewe",
+    "s1loc": [
+      "Crewe's charity work is led by St Paul's Centre, a charity since 1986 that runs the largest food bank in the area for the CW1 and CW2 districts and takes donations across the week. Chance Changing Lives, a volunteer-powered charity born in 2017 from outreach to rough sleepers, now runs a Community Pantry and Saturday Kitchen with trusted advice. The Salvation Army issues free food parcels in the town centre, and the big food-redistribution and foodbank networks keep surplus moving to these projects.",
+      "The sector runs at every size here. St Luke's Hospice Cheshire keeps charity shops in Crewe, Nantwich and the surrounding towns and buys kit centrally on trade accounts, while small community groups, pantries and volunteer-run foodbanks work on a shoestring across Wistaston, West End and the wider Cheshire East area. From the regional hospice with central buying to the one-room pantry, including the Alsager and District Food Bank at St Luke's Church, we serve them all, with trade accounts and direct online ordering, no minimum.",
+      "St Luke's Hospice Cheshire supports people with life-limiting illnesses across mid and south Cheshire, and its Market Street shop in Crewe and Pepper Street store in Nantwich rely on volunteers to sort, price and sell donated goods. Chance Changing Lives offers a safe space alongside its pantry and Saturday Kitchen, and Crewe Care Community signposts food banks across the town. Across these shops, pantries and kitchens, volunteers need budget-friendly branded polos, hi-vis and fleeces so every pound stays off the running costs and on the cause."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Crewe, a FareShare-supplied community group or a small volunteer-run foodbank in Sandbach"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "grimsby": {
+    "region": "Grimsby, North East Lincolnshire",
+    "nearby": ["Cleethorpes", "Scunthorpe", "Hull"],
+    "s1_head": "Charity and volunteer kit across Grimsby",
+    "s1loc": [
+      "Grimsby's charity sector leans on a strong food-redistribution backbone. Nuneaton-style demand is matched here by FareShare Hull and Humber, which moves surplus to around 170 charities and community groups across the region. Grimsby Foodbank works to the Trussell voucher model, while the We Are One Foundation and the Oasis Hub South Grimsby pantry team up every Friday to prepare hundreds of food parcels. Oasis Food Projects at Nunsthorpe and Harbour Place add further frontline support across North East Lincolnshire.",
+      "The sector runs at every size. National charities with shops on the high street and central buying sit alongside small community groups, foodbanks, pantries and volunteer-run projects working on a shoestring across Nunsthorpe, East Marsh, West Marsh and the town centre. St Andrew's Hospice runs a growing chain of charity shops, and Age UK North East Lincolnshire fields over a hundred volunteers. From the national charity ordering by the box to the one-room foodbank, we serve both alike with trade accounts and direct online ordering, no minimum.",
+      "Beyond the big names, Grimsby has a deep bench of volunteer-led work. St Andrew's Hospice cares for people with life-limiting conditions and raises the bulk of its running costs through its eighteen-shop retail network across Grimsby, Cleethorpes and beyond, including a new superstore on Cleethorpe Road. Camp Hill and Nunsthorpe community projects, Age UK shops, the Salvation Army and a scatter of church-run pantries round out a picture where paid charity staff and unpaid neighbourhood volunteers work side by side."
+    ],
+    "kit_loc": "across the area's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Grimsby, a FareShare-supplied community group or a small volunteer-run foodbank in Cleethorpes"
+  },
+  "southport": {
+    "region": "Southport, Merseyside (Sefton)",
+    "nearby": ["Formby", "Crosby", "Ormskirk"],
+    "s1_head": "Charity and volunteer kit across Southport",
+    "s1loc": [
+      "Southport's charity life centres on a busy food-support network. Southport Foodbank, part of the Trussell network and run under the Compassion Acts charity, swaps vouchers for three days of emergency food, taking referrals from Sefton Council, Light for Life, the Life Rooms and local schools. FareShare Merseyside redistributes surplus to more than 219 charities and community groups across Merseyside and the Wirral with the help of almost a hundred volunteers, while the Salvation Army and the Soup Kitchen plug further gaps.",
+      "The sector runs at every size. Regional charities such as Queenscourt Hospice, with shops on Chapel Street, Bispham Road and across the area plus central buying, sit alongside small community groups, foodbanks, pantries and volunteer-run projects on a shoestring across Birkdale, Churchtown, Ainsdale and the town centre. Sefton CVS supports the smaller groups that hold it all together. From the national charity ordering in bulk to the one-room foodbank, we serve both alike with trade accounts and direct online ordering, no minimum.",
+      "Volunteers are the backbone here. Queenscourt Hospice has cared for people across West Lancashire, Southport and Formby for over thirty years, and its shop volunteers earned the Queen's Award for Voluntary Service. A new Queenscourt shop opened on Station Road in Ainsdale, adding to the chain in Churchtown, Burscough and Formby's Brows Lane. The Salvation Army clothes people leaving hospital or prison, and mutual-aid and church-run groups across Birkdale and Marshside keep neighbourhood support running on goodwill."
+    ],
+    "kit_loc": "across the area's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Southport, a FareShare-supplied community group or a small volunteer-run foodbank in Formby"
+  },
+  "halifax": {
+    "region": "Halifax, Calderdale, West Yorkshire",
+    "nearby": ["Brighouse", "Huddersfield", "Bradford"],
+    "s1_head": "Charity and volunteer kit across Halifax",
+    "s1loc": [
+      "Halifax sits at the heart of a well-organised Calderdale charity scene. The Community Foundation for Calderdale channels funding to voluntary groups and has worked with FareShare Yorkshire, Morrisons and Suma Wholefoods to keep food moving. St Augustine's Centre on Hanson Lane runs a Welcome Cafe and food support for asylum seekers and refugees, while Happy Days operates a community supermarket and free community cafe serving Halifax, Brighouse, Elland, Sowerby Bridge and Todmorden across the Calder Valley.",
+      "The sector runs at every size. National and regional charities with high-street shops and central buying sit alongside small community groups, foodbanks, pantries and volunteer-run projects on a shoestring across Hanson Lane, Park Ward, Sowerby Bridge and the town centre. Overgate Hospice runs charity shops throughout Calderdale, including a children's shop and a recent opening on Wharf Street in Sowerby Bridge. From the national charity ordering by the case to the one-room foodbank, we serve both alike with trade accounts and direct online ordering, no minimum.",
+      "Calderdale's voluntary base runs deep. Overgate Hospice provides care for the people of the borough and funds much of its work through its shops, while St Augustine's Centre leans on a large volunteer team for its food and English-language work. Happy Days, a homelessness charity, runs its membership-based community supermarket several days a week. Brighouse Central Foodbank and the Building Bridges Food Hub on Market Street, plus mutual-aid groups across Sowerby Bridge, Elland and Todmorden, complete a picture of paid staff and volunteers working together."
+    ],
+    "kit_loc": "across the area's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Halifax, a FareShare Yorkshire-supplied community group or a small volunteer-run foodbank in Brighouse"
+  },
+  "eltham": {
+    "region": "Eltham, Royal Borough of Greenwich, London",
+    "nearby": ["Woolwich", "Lewisham", "Sidcup"],
+    "s1_head": "Charity and volunteer kit across Eltham",
+    "s1loc": [
+      "Eltham's charity work plugs into a wider Greenwich support network. Greenwich Foodbank, on the Trussell voucher model, runs welcome centres in Eltham, Woolwich, Kidbrooke, Blackheath, Thamesmead, Plumstead and East Greenwich. The Eltham Welcome Centre sits in a parade of shops near The Pleasance, minutes from the station, while the separate Eltham and Mottingham Community Foodbank redistributes surplus food across the SE9 postcode. METRO GAVS, the borough's council for voluntary service, backs the smaller groups behind all of it.",
+      "The sector runs at every size. National charities with shops along Eltham High Street and central buying sit alongside small community groups, foodbanks, pantries and volunteer-run projects on a shoestring across Eltham, Mottingham, New Eltham and Kidbrooke. The Greenwich and Bexley Community Hospice runs a shop on Eltham High Street and others across Plumstead and the area. From the national charity ordering in volume to the one-room foodbank, we serve both alike with trade accounts and direct online ordering, no minimum.",
+      "Volunteer effort runs throughout SE9. The Greenwich and Bexley Community Hospice funds its palliative care partly through charity shops in Eltham, Plumstead and beyond, staffed largely by volunteers. Greenwich Foodbank depends on a huge network of helpers across the Royal Borough, and METRO GAVS builds the capacity of voluntary, community and faith groups borough-wide. Church-run pantries, mutual-aid groups and the Eltham and Mottingham food project keep neighbourhood support ticking over across New Eltham, Mottingham and Kidbrooke."
+    ],
+    "kit_loc": "across the area's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Eltham, a Greenwich Foodbank-supplied community group or a small volunteer-run foodbank in Woolwich"
+  },
+  "hounslow": {
+    "region": "Hounslow, West London",
+    "nearby": ["Twickenham", "Feltham", "Hayes"],
+    "s1_head": "Charity and volunteer kit across Hounslow",
+    "s1loc": [
+      "Hounslow's charity scene runs on dedicated volunteer power. Feltham Food Bank has served the borough since March 2013, run entirely by volunteers and dependent on donations from residents and local businesses, drawing surplus from FareShare and the Felix Project to provide emergency food. The Care Foodbank and the Feltham Salvation Army add further frontline help, while Age UK Hounslow and the council's community support hubs connect residents to befriending, financial and other services.",
+      "The sector runs at every size. National charities with shops across the borough and central buying sit alongside small community groups, foodbanks, pantries and volunteer-run projects on a shoestring across Feltham, Bedfont, Hanworth, Isleworth and Hounslow town centre. Around twenty-five to thirty volunteers keep Feltham Food Bank running as demand climbs. From the national charity ordering by the box to the one-room foodbank, we serve both alike with trade accounts and direct online ordering, no minimum.",
+      "Neighbourhood groups carry much of the load in west Hounslow. Volunteers provide emergency support to families across Bedfont, Feltham, Hanworth and Hounslow, and Age UK Hounslow runs activities and services for older residents. The borough council's community support hubs signpost people to local groups, befriending and financial advice, while church-run pantries, the Salvation Army and mutual-aid teams across Isleworth, Brentford and Cranford keep grassroots support running largely on volunteer goodwill."
+    ],
+    "kit_loc": "across the area's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Hounslow, a FareShare-supplied community group or a small volunteer-run foodbank in Feltham"
+  },
+  "bromley": {
+    "region": "Bromley, South East London",
+    "nearby": ["Beckenham", "Orpington", "Lewisham"],
+    "s1_head": "Charity and volunteer kit across Bromley",
+    "s1loc": [
+      "Bromley's charity sector is tied together by a borough-wide food partnership. Transform Bromley Borough runs a Food Partnership that takes surplus from FareShare and the Felix Project and passes it to charities and community groups, while Bromley Borough Foodbank works the Trussell voucher model with collection points at Waitrose in Bromley and Beckenham. Donations flow to a central distribution hub in Orpington, and the partnership's food partners are largely churches and community fridges serving residents in crisis.",
+      "The sector runs at every size. National charities with shops across Bromley and central buying sit alongside small community groups, foodbanks, pantries and volunteer-run projects on a shoestring across Beckenham, Penge, Orpington and the town centre. St Christopher's Hospice runs charity shops in Bromley's Market Square, Beckenham, Penge and Orpington High Street. From the national charity ordering in bulk to the one-room foodbank, we serve both alike with trade accounts and direct online ordering, no minimum.",
+      "Volunteers anchor the borough's care work. St Christopher's Hospice, a pioneer of the modern hospice movement, funds part of its work through charity shops staffed by dedicated volunteers across Bromley, Beckenham, Penge and Orpington. Living Well Bromley offers further volunteering, and the Transform Bromley Borough Food Partnership knits together community fridges and church-run projects, some set up during the pandemic. Mutual-aid groups and pantries across Beckenham, Penge and Orpington round out a sector where paid staff and volunteers work hand in hand."
+    ],
+    "kit_loc": "across the area's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Bromley, a FareShare-supplied community group or a small volunteer-run foodbank in Beckenham"
+  },
+  "nuneaton": {
+    "region": "Nuneaton, Warwickshire",
+    "nearby": ["Bedworth", "Coventry", "Hinckley"],
+    "s1_head": "Charity and volunteer kit across Nuneaton",
+    "s1loc": [
+      "Nuneaton's charity work centres on food support and community wellbeing. Nuneaton Foodbank runs the Trussell voucher model, with a separate foodbank serving nearby Bedworth, and the Nuneaton and Bedworth Healthy Living Network redistributes surplus food from the private sector while running wellbeing days for older and vulnerable people. Community pantries, including the Camp Hill mobile pantry on Cedar Road, give Citizens Advice workers a place to help with debt and income, and Warwickshire CAVA supports the smaller groups behind it all.",
+      "The sector runs at every size. National and regional charities with shops and central buying sit alongside small community groups, foodbanks, pantries and volunteer-run projects on a shoestring across Camp Hill, Stockingford, Weddington and the town centre. The Mary Ann Evans Hospice runs general shops, a furniture store and a reuse shop at Judkins Recycling Centre. From the national charity ordering by the case to the one-room foodbank, we serve both alike with trade accounts and direct online ordering, no minimum.",
+      "Volunteers hold the local sector together. The Mary Ann Evans Hospice cares for people across Nuneaton, Bedworth, Atherstone, Coleshill and the northern Warwickshire villages, funding much of its work through shops in Nuneaton, Bedworth, Atherstone, Coleshill and Coventry plus a bookshop and home store. The Healthy Living Network, Camp Hill and Stockingford community pantries, and mutual-aid groups across Bedworth and Hinckley Road keep grassroots support running, supported by Warwickshire CAVA's volunteering and governance help."
+    ],
+    "kit_loc": "across the area's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Nuneaton, a FareShare-supplied community group or a small volunteer-run foodbank in Bedworth"
+  }
+}

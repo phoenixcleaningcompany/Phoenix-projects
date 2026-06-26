@@ -1,0 +1,86 @@
+{
+  "chesterfield": {
+    "region": "Chesterfield, Derbyshire",
+    "nearby": ["Dronfield", "Sheffield", "Belper"],
+    "s1_head": "Charity and volunteer life in Chesterfield",
+    "s1loc": [
+      "Chesterfield Foodbank, a Trussell franchisee started in 2013, runs distribution centres at Brimington, West Bars, New Whittington and Loundsley Green, handing out emergency parcels with a warm welcome. The big food-redistribution and foodbank networks feed in surplus from supermarkets, and Tesco collections see volunteers from Trussell and the wider FareShare network gathering donations in store. Smaller projects like Gussie's Kitchen Pantry and Staveley Centre Community Pantry offer affordable food close to home for families across the borough.",
+      "The sector here runs at every size. Ashgate Hospice operates seventeen shops and a donation centre across North Derbyshire with central buying behind them, while Chesterfield and North East Derbyshire Volunteer Centre supports countless tiny groups. Larger national charities with high-street shops sit alongside one-room foodbanks, community pantries and volunteer-run mutual-aid projects working on a shoestring across Brampton, Whittington Moor and Hasland. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Beyond the foodbanks, Ashgate Hospice shops in Staveley on the High Street and at The Forge in Dronfield draw steady volunteer rotas, and the hospice cares for patients at home and at Chesterfield Royal Hospital. Derventio Housing supports residents facing crisis, and church-led groups across Loundsley Green and Newbold run warm spaces and clothing banks. The volunteer centre's annual awards recognise grassroots teams, from trolley rounds to befriending schemes, that keep the town's charitable life ticking over street by street."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Chesterfield, a FareShare-supplied community group or a small volunteer-run foodbank in Dronfield"
+  },
+  "ashford": {
+    "region": "Ashford, Kent",
+    "nearby": ["Folkestone", "Canterbury", "Maidstone"],
+    "s1_head": "Charity and volunteer life in Ashford",
+    "s1loc": [
+      "FareShare Kent is based right here in Ashford, on Ashford Business Park off Foster Road, redistributing good surplus food since 2014 to foodbanks, refuges, shelters, lunch clubs and breakfast clubs across the county. Warehouse assistants, delivery drivers and admin volunteers keep it running. Pilgrims Hospices, the East Kent hospice charity, runs shops in the town including a media store and a discount shop, and church-led food projects through Bright City Church and others support families in crisis across the borough.",
+      "The sector runs at every size in Ashford. Pilgrims Hospices and other national and regional charities operate high-street shops with central buying, while tiny volunteer-run foodbanks and pantries work on a shoestring. The Family Food Bank in Ashford sits alongside community-led parcels and pantries across Stanhope, South Willesborough and Beaver. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Pilgrims Hospices charity shops cluster around Castle Street, Wellesley Road and Willesborough, all reliant on volunteer staff and donation sorting. Demelza and other children's charities maintain a retail presence, and the council's cost-of-living pages list a spread of foodbanks and essential-supplies points across the borough. Mutual-aid groups, community fridges and church halls in Stanhope and South Ashford run warm spaces and clothing swaps, knitting together a network that stretches from town-centre shops out to the village edges."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Ashford, a FareShare Kent-supplied community group or a small volunteer-run foodbank in Folkestone"
+  },
+  "guildford": {
+    "region": "Guildford, Surrey",
+    "nearby": ["Godalming", "Aldershot", "Farnham"],
+    "s1_head": "Charity and volunteer life in Guildford",
+    "s1loc": [
+      "FareShare Sussex and Surrey opened a Guildford depot in 2024, supplying surplus food to more than 144 charities and community groups, kept going by around 170 volunteers. North Guildford Foodbank hands out emergency parcels through churches and local agencies, while Phyllis Tuckwell, the hospice charity for West Surrey, runs three shops in the town. Guildford Action supports people who are homeless or in crisis, and the Salvation Army adds further front-line help across the town.",
+      "The sector runs at every size in Guildford. Phyllis Tuckwell operates eighteen shops with central buying behind its high-street and furniture stores, while national charities sit alongside small volunteer-run foodbanks and pantries on a shoestring. The Guildford Number Five Project and other grassroots groups support rough sleepers across Stoughton, Westborough and Park Barn. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Phyllis Tuckwell shops on the High Street, Quarry Street and beyond depend on volunteers, who are described by the charity as the heart of its retail operation. The Guildford Number Five Project offers temporary accommodation and trauma-informed support for rough sleepers, Guildford Action runs day-centre help, and church and mutual-aid groups across Burpham, Merrow and Onslow keep warm spaces and food clubs going. Connect to Support Surrey lists scores of small befriending and advice services run almost entirely by volunteers."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Guildford, a FareShare-supplied community group or a small volunteer-run foodbank in Godalming"
+  },
+  "lewisham": {
+    "region": "Lewisham, South East London",
+    "nearby": ["Woolwich", "Eltham", "Bromley"],
+    "s1_head": "Charity and volunteer life in Lewisham",
+    "s1loc": [
+      "Lewisham Foodbank, part of the Trussell network, runs five centres including Salvation Army sites at Deptford, Lewisham and Catford, plus St John the Baptist Church in Downham and Perry Rise Baptist Church, all staffed by volunteers. Lewisham Local coordinates the borough's food hub, and FareShare delivers vans of surplus food to Ewart Hall and The Barn. FoodCycle Lewisham and the Catford Fridge Station community fridge share solidarity bags of rescued food across the borough.",
+      "The sector runs at every size in Lewisham. National and regional charities with high-street shops and central buying sit alongside tiny volunteer-run foodbanks, community fridges, pantries and meal projects working on a shoestring across Deptford, Catford, Downham and Sydenham. Citizens Advice Lewisham backs a long list of community groups. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Volunteer drivers organise food collections through team WhatsApp groups, ferrying donations to the main warehouse in Catford South. GCDA, Phoenix Community Housing and partners support community meals and growing projects, while Good Food Lewisham maps free and low-cost food across the borough. Mutual-aid groups, church halls and tenant associations in Bellingham, New Cross and Forest Hill run warm spaces, clothing banks and lunch clubs, forming a dense grassroots web that complements the larger charities and their shops."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Lewisham, a FareShare-supplied community group or a small volunteer-run foodbank in Eltham"
+  },
+  "woolwich": {
+    "region": "Woolwich, Royal Borough of Greenwich, London",
+    "nearby": ["Eltham", "Lewisham", "Erith"],
+    "s1_head": "Charity and volunteer life in Woolwich",
+    "s1loc": [
+      "Greenwich Foodbank works on a voucher referral system across the Royal Borough, part of a wide support network staffed by volunteers. A weekly foodbank runs at Clockhouse Community Centre on Defiance Walk, Woolwich, with no formal registration needed. FoodCycle Woolwich serves hot community meals cooked from surplus, while the Woolwich Service Users Project, a grassroots charity, offers food, showers, laundry and clothes to people seeking help in the community.",
+      "The sector runs at every size in Woolwich. National and regional charities with high-street shops and central buying sit alongside tiny volunteer-run foodbanks, community meals and grassroots projects on a shoestring across Plumstead, Charlton and Thamesmead. London-wide redistributors keep surplus flowing to front-line groups. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "FoodCycle Woolwich always needs cooks, hosts and food-collection volunteers to keep its weekly meal going, and the Woolwich Service Users Project relies on a steady volunteer team for its drop-in space. Food Bank Aid and London-wide redistributors such as City Harvest supply parcels and surplus across the borough. Church halls, community centres and mutual-aid groups in Plumstead, Glyndon and Thamesmead run warm spaces, baby banks and clothing collections, with the Clockhouse and other centres acting as local hubs."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Woolwich, a FareShare-supplied community group or a small volunteer-run foodbank in Erith"
+  },
+  "weston-super-mare": {
+    "region": "Weston-super-Mare, North Somerset",
+    "nearby": ["Clevedon", "Portishead", "Bridgwater"],
+    "s1_head": "Charity and volunteer life in Weston-super-Mare",
+    "s1loc": [
+      "Weston-super-Mare Foodbank, founded by local churches in 2011 and supported by North Somerset Council, provides three days of emergency food to people in crisis and works with over 150 referral agencies. Weston Hospicecare, established in 1989, gives free care to people with life-limiting illness from Clevedon to Cheddar and Highbridge. Somewhere To Go, open since 1999, serves daily meals, showers and clothing to homeless and vulnerable people, and runs its own charity shop in the town.",
+      "The sector runs at every size in Weston. Weston Hospicecare and national charities run high-street shops with central buying, while small volunteer-run foodbanks, food clubs and pantries work on a shoestring across Central Weston, South Weston and Worle. The Fridge of Free Stuff community fridge at the Sovereign Centre shares surplus to cut waste. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Somewhere To Go's charity shop trains volunteers from scratch with no experience needed, and Weston Hospicecare's shops across North Somerset depend on donation sorters and till volunteers. The Fridge of Free Stuff sits inside Hub Zero, a climate-education space at the Sovereign Centre, while food clubs in Bournville, Worle and South Weston offer affordable groceries. Citizens Advice North Somerset and church-led groups in Oldmixon and Coronation run warm spaces, advice sessions and parcel rounds across the seafront town."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Weston-super-Mare, a FareShare-supplied community group or a small volunteer-run foodbank in Clevedon"
+  },
+  "west bromwich": {
+    "region": "West Bromwich, Sandwell, West Midlands",
+    "nearby": ["Walsall", "Smethwick", "Wednesbury"],
+    "s1_head": "Charity and volunteer life in West Bromwich",
+    "s1loc": [
+      "Midland Langar Seva Society, founded in 2013 on the Sikh ethos of sharing, hands out hot meals and food parcels in West Bromwich every evening, serving around eighty people a day. West Bromwich Food Bank and the wider Black Country Foodbank network provide three days of emergency supplies, while Murray Hall Community Trust, a leading Sandwell wellbeing charity since 1994, runs the Bridge Food Pantry at Hateley Heath and other community food support across the borough.",
+      "The sector runs at every size in West Bromwich. National and regional charities with high-street shops and central buying, including the British Heart Foundation, sit alongside small volunteer-run foodbanks, pantries and meal projects on a shoestring across Friar Park, Greets Green and Hateley Heath. FareShare West Midlands keeps surplus flowing to front-line groups. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "FareShare West Midlands redistributes surplus to more than 150 organisations, including the Lion Farm Action Centre's community food distribution. Sandwell Community Caring Trust, a charity since 1997, supports older and disabled people across the Black Country, and Sandwell Churches Link maps food-support services borough-wide. Charity shops, baby banks and mutual-aid groups in Greets Green, Stone Cross and Charlemont run warm spaces and clothing collections, with church halls and community hubs acting as the everyday backbone of the town's giving."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across West Bromwich, a FareShare West Midlands-supplied community group or a small volunteer-run foodbank in Smethwick"
+  }
+}

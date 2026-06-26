@@ -1,0 +1,86 @@
+{
+  "oldham": {
+    "region": "Oldham, Greater Manchester",
+    "nearby": ["Rochdale", "Ashton-under-Lyne", "Middleton"],
+    "s1_head": "Oldham's charity and volunteer sector",
+    "s1loc": [
+      "Oldham Foodbank runs within the Trussell network, getting emergency parcels to people in crisis across the borough, while FareShare Greater Manchester redistributes surplus food to hundreds of charities, community centres and breakfast clubs from its volunteer-run warehouse. Action Together is the local infrastructure body, connecting people to volunteer roles and supporting voluntary, community and faith groups across Oldham, Rochdale and Tameside, with community development workers covering districts such as Chadderton and Werneth.",
+      "The sector here runs at every size. National charities and regional names with shop chains and central buying sit alongside small community groups, neighbourhood pantries, faith-run foodbanks and volunteer-led projects working on a shoestring across Failsworth, Chadderton, Werneth and the town centre. Dr Kershaw's Hospice funds its care through a string of shops and the Furniture Hub off Shaw Road. We serve the national charity and the one-room foodbank alike, with trade accounts for the larger names and direct online with no minimum for the smallest group.",
+      "Dr Kershaw's Hospice has added quality to life-limiting care since 1989 and leans on volunteers to run its shops, sorting donations, steaming clothes and serving customers. Action Together's volunteering officers match local people to roles across All About Oldham's wide directory of community organisations, and mutual-aid and neighbourhood groups across Chadderton, Failsworth and Werneth keep parcels and warm spaces going. From the Trussell parcel line to a single church hall handing out tea, the borough's volunteers cover a real spread of need on modest budgets."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Oldham, a FareShare Greater Manchester-supplied community group or a small volunteer-run foodbank in Rochdale"
+  },
+  "wigan": {
+    "region": "Wigan, Greater Manchester",
+    "nearby": ["Leigh", "Bolton", "St Helens"],
+    "s1_head": "Wigan's charity and volunteer sector",
+    "s1loc": [
+      "The Brick is one of Wigan's best-known charities, running the borough's largest food bank plus a Food Community laid out like a shop where members choose items for a small fee, alongside crisis intervention and debt support. Its volunteers make up parcels and drive vans collecting donations from supermarkets across the Wigan and Leigh borough. FareShare Greater Manchester backs the wider picture, moving surplus food to community groups, while Wigan and Leigh Hospice anchors local fundraising and care.",
+      "The sector here runs at every size. National charities and regional names with shop chains and central buying work next to small community groups, neighbourhood food clubs, faith-run foodbanks and volunteer-led projects scraping by on a shoestring across Pemberton, Hindley, Ashton-in-Makerfield and Leigh. Wigan and Leigh Hospice funds care through around ten shops on high streets borough-wide. We serve the national charity and the one-room foodbank alike, with trade accounts for the larger names and direct online with no minimum for the smallest group.",
+      "Wigan and Leigh Hospice runs charity shops in Ashton, Atherton, Golborne, Hindley, Leigh, Pemberton, Standish and Shevington, all leaning on volunteers who give their time to fund hospice care. Sue Ryder also trades in Pemberton, and The Brick's growing Food Community is shifting the borough from emergency parcels toward dignity and choice. Volunteer drivers, parcel-packers and shop teams across Hindley, Pemberton and the town centre keep these projects running, covering a genuine spread of need on tight community budgets."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Wigan, a FareShare Greater Manchester-supplied community group or a small volunteer-run foodbank in Leigh"
+  },
+  "sutton coldfield": {
+    "region": "Sutton Coldfield, West Midlands",
+    "nearby": ["Birmingham", "Walsall", "Tamworth"],
+    "s1_head": "Sutton Coldfield's charity and volunteer sector",
+    "s1loc": [
+      "Sutton Foodbank helps local people in crisis, and the Sutton Coldfield United Reformed Church runs a twice-weekly foodbank with the Food 4 U project plus a community cafe, where volunteers pack parcels, serve soup and cook good-value meals. The Sutton Coldfield Charitable Trust, the Royal Sutton Coldfield Town Council and Age Concern Birmingham work with voluntary, community and faith organisations to support residents in need. FareShare Midlands supplies surplus food to hundreds of groups across the region.",
+      "The sector here runs at every size. National charities and regional names with shop chains and central buying sit alongside small community groups, neighbourhood food clubs, faith-run foodbanks and volunteer-led projects working on a shoestring across Boldmere, Four Oaks, Wylde Green and the town centre. John Taylor Hospice funds palliative care through shops in Boldmere, Wylde Green and Erdington. We serve the national charity and the one-room foodbank alike, with trade accounts for the larger names and direct online with no minimum for the smallest group.",
+      "John Taylor Hospice cares for people across Sutton Coldfield, Birmingham, Walsall and Solihull and relies on retail volunteers who receive donations, rotate stock and serve customers in its Boldmere and Wylde Green shops. The Gracechurch Centre coordinates local volunteering, Cancer Research UK trades on the Royal Sutton Coldfield high street, and Acorns Children's Hospice runs its regional shop chain nearby. Parcel-packers, cafe cooks and shop teams across Boldmere, Four Oaks and the town centre keep these projects going on modest budgets."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Sutton Coldfield, a FareShare Midlands-supplied community group or a small volunteer-run foodbank in Tamworth"
+  },
+  "lincoln": {
+    "region": "Lincoln, Lincolnshire",
+    "nearby": ["Gainsborough", "Newark", "Scunthorpe"],
+    "s1_head": "Lincoln's charity and volunteer sector",
+    "s1loc": [
+      "Lincoln Foodbank, run by the Acts Trust within the Trussell network, gets emergency food to people in crisis on a voucher referral system, while the Lincoln Community Larder relieves poverty by providing basic nutritious food to those needing short-term help. The Lincolnshire Community Foundation has awarded over twenty-five million pounds to charities and community groups across Greater Lincolnshire since 2002, and the Greater Lincolnshire Food Partnership ties local foodbanks together with FareShare for bulk redistribution.",
+      "The sector here runs at every size. National charities and regional names with shop chains and central buying work alongside small community groups, neighbourhood pantries, faith-run foodbanks and volunteer-led projects on a shoestring across Sincil Bank, Ermine, Boultham and the city centre. St Barnabas Hospice funds free palliative care through twenty-four shops across Lincolnshire. We serve the national charity and the one-room foodbank alike, with trade accounts for the larger names and direct online with no minimum for the smallest group.",
+      "St Barnabas Hospice supports more than twelve thousand people a year across Lincolnshire and calls volunteers its life-blood, staffing two dozen shops with friendly teams who need no experience. The Acts Trust runs the foodbank with delivery drivers, warehouse and serving volunteers, the Lincolnshire Community and Voluntary Partnership helps groups find funding, and mutual-aid projects across Sincil Bank, Ermine and Boultham keep parcels and warm spaces going. From hospice retail to a single church larder, the city's volunteers cover a wide spread of need on tight budgets."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Lincoln, a FareShare-supplied community group or a small volunteer-run foodbank in Gainsborough"
+  },
+  "worcester": {
+    "region": "Worcester, Worcestershire",
+    "nearby": ["Malvern", "Droitwich", "Kidderminster"],
+    "s1_head": "Worcester's charity and volunteer sector",
+    "s1loc": [
+      "Worcester Foodbank provides emergency food and practical support to people in their hardest moments, while Maggs Day Centre helps anyone facing homelessness or social isolation across the city and county through two day centres, a clothing store on The Tything and an outreach team. FareShare Midlands redistributes thousands of tonnes of surplus food a year to hundreds of charity and community members, sorted and delivered by staff and volunteers, supporting tens of thousands of people every week.",
+      "The sector here runs at every size. National charities and regional names with shop chains and central buying sit alongside small community groups, neighbourhood pantries, faith-run foodbanks and volunteer-led projects on a shoestring across St John's, Warndon, Dines Green and the city centre. St Richard's Hospice and Acorns Children's Hospice fund care through large shop chains. We serve the national charity and the one-room foodbank alike, with trade accounts for the larger names and direct online with no minimum for the smallest group.",
+      "St Richard's Hospice is an independent charity caring for adults with serious progressive illness and supporting their families, raising funds through its shops and events. Acorns Children's Hospice runs one of the region's largest charity retail chains, including a unit at St Peter's, and cares for children with life-limiting conditions. Maggs Day Centre's volunteers staff its clothing project and outreach, and community groups across Warndon, St John's and Dines Green keep parcels and support going on modest budgets, covering a real spread of local need."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Worcester, a FareShare Midlands-supplied community group or a small volunteer-run foodbank in Droitwich"
+  },
+  "salford": {
+    "region": "Salford, Greater Manchester",
+    "nearby": ["Manchester", "Bolton", "Bury"],
+    "s1_head": "Salford's charity and volunteer sector",
+    "s1loc": [
+      "Salford Loaves and Fishes supports homeless, isolated and vulnerable people through its Drop-in and Skills for Life centres, providing hot food, housing advice and employability support delivered largely by volunteers. Emmaus Salford runs Lucie's Pantry, a social supermarket on Fitzwarren Street in Pendleton where members pay a small weekly fee for groceries, while Salford CVS coordinates the borough's network of foodbanks and food clubs and FareShare backs the wider surplus-food picture across Greater Manchester.",
+      "The sector here runs at every size. National charities and regional names with shop chains and central buying work alongside small community groups, neighbourhood food clubs, faith-run foodbanks and volunteer-led projects on a shoestring across Ordsall, Broughton, Pendleton and Eccles. Salford Foodbank operates within the Trussell network, and Emmaus funds its work through reuse and retail. We serve the national charity and the one-room foodbank alike, with trade accounts for the larger names and direct online with no minimum for the smallest group.",
+      "Emmaus Salford gives homeless companions a home and meaningful work, running Lucie's Pantry and donated-goods retail with volunteers from the local community. Salford CVS lists volunteer opportunities and maps food clubs across Ordsall, Broughton, Pendleton and Eccles, and Salford Citizens Advice ties the food-club network together. Loaves and Fishes runs arts groups, ESOL classes and a daily drop-in with ongoing volunteer training. From social supermarket to church-hall parcel point, the city's volunteers cover a genuine spread of need on tight community budgets."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Salford, a FareShare Greater Manchester-supplied community group or a small volunteer-run foodbank in Manchester"
+  },
+  "st helens": {
+    "region": "St Helens, Merseyside",
+    "nearby": ["Wigan", "Warrington", "Widnes"],
+    "s1_head": "St Helens' charity and volunteer sector",
+    "s1loc": [
+      "The Hope Centre on Atherton Street runs St Helens Foodbank within the Trussell network, the Hope Pantry on the Your Local Pantry network and Crisis Cafe 110, a safe space for people in mental health crisis or loneliness, with over sixty volunteers helping weekly. FareShare Merseyside redistributes surplus food to more than two hundred charities and community groups across Merseyside and the Wirral, run by a team of almost a hundred volunteers picking, packing and driving deliveries.",
+      "The sector here runs at every size. National charities and regional names with shop chains and central buying sit alongside small community groups, neighbourhood pantries, faith-run foodbanks and volunteer-led projects on a shoestring across Parr, Thatto Heath, Newton-le-Willows and the town centre. Willowbrook Hospice funds care through its charity shops, and member-led pantries run boroughwide. We serve the national charity and the one-room foodbank alike, with trade accounts for the larger names and direct online with no minimum for the smallest group.",
+      "Willowbrook Hospice offers retail volunteering across its shops, where teams meet customers, sort donations, steam clothing and serve at the till. Teardrops supports rough sleepers and sofa-surfers across the borough with shelter and outreach, while Halton and St Helens Voluntary and Community Action, established in 1932, runs volunteer brokerage, funding advice and training. Member-led pantries in Thatto Heath, West Park, Eccleston, Newton-le-Willows, Sutton, Moss Bank, Haydock and Billinge let members pay a small subscription and choose groceries, covering a real spread of need on tight budgets."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across St Helens, a FareShare Merseyside-supplied community group or a small volunteer-run foodbank in Widnes"
+  }
+}

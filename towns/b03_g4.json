@@ -1,0 +1,86 @@
+{
+  "barnsley": {
+    "region": "Barnsley, South Yorkshire",
+    "nearby": ["Rotherham", "Doncaster", "Sheffield"],
+    "s1_head": "Charity and volunteer kit across Barnsley",
+    "s1loc": [
+      "Barnsley's emergency-food work runs through the Barnsley Foodbank Partnership, a Trussell-network operation drawing the council, Church Action on Poverty and faith groups together. Its hub sits with FareShare Yorkshire on the Aldham House Industrial Estate at Wombwell, where FareShare was founded back in 1998 and now redistributes surplus food to hundreds of frontline charities and community groups. Supermarket collections and donations from churches across the borough keep the parcels flowing to local people in crisis.",
+      "The sector here runs at every size. National charities with shops on Cheapside and central buying sit alongside small community groups, pantries and volunteer-run foodbank centres operating on a shoestring across Wombwell, Goldthorpe and Hoyland. Whether it is a national charity moving stock through a trade account or a one-room foodbank ordering a handful of garments direct online with no minimum, both deserve workwear that is smart, warm and affordable, with every pound kept off the running costs and on the cause.",
+      "Barnsley Hospice anchors the local charity-retail scene, its award-winning Retail Hub at Dodworth sorting donated clothing, furniture and homeware to help raise the roughly three and a half million pounds it needs each year. Beyond it sit mutual-aid groups, the borough's community centres and the volunteer drivers and collectors who keep surplus food moving from supermarket to plate. Together with the charity shops dotted through the town centre and the outlying villages, they form a dense, hard-working web of volunteers who give their hours freely."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Barnsley, a FareShare Yorkshire-supplied community group or a small volunteer-run foodbank in Rotherham"
+  },
+  "darlington": {
+    "region": "Darlington, County Durham",
+    "nearby": ["Stockton-on-Tees", "Newton Aycliffe", "Bishop Auckland"],
+    "s1_head": "Charity and volunteer kit across Darlington",
+    "s1loc": [
+      "Darlington's emergency-food network is broad and church-led, with King's Church Foodbank on Whessoe Road, St Andrew's Food Bank at Haughton, Darlington Baptist Church on Grange Road and the Salvation Army Citadel on Thompson Street East all handing out parcels. NQA Foodbank works across the town to make sure no one goes hungry, while the big food-redistribution and foodbank networks feed in surplus stock. Word of Life Christian Centre on Corporation Road runs its own Saturday session for local people in crisis.",
+      "The sector here runs at every size. National charities with high-street shops and central buying sit alongside small community hubs, pantries and volunteer-run projects working on a shoestring across Cockerton, Skerne Park, Firthmoor and Harrowgate Hill. Whether it is a national charity ordering on a trade account or a one-room foodbank buying a few items direct online with no minimum, both deserve workwear that is smart, warm and affordable, with every pound kept off the overheads and on the people they serve.",
+      "St Teresa's Hospice gives the town its largest charity-care presence, running a wide range of volunteering and a shared Volunteer Hub with Citizens Advice Darlington and the Darlington Association on Disability. Community food hubs at Skerne Park, Eastbourne Park, Red Hall and Firthmoor stretch tight supermarket surplus into affordable bags for members, and the hospice and Citizens Advice charity shops keep donated goods moving. Across all of it, hundreds of volunteers give advice, signpost and pack."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Darlington, a FareShare-supplied community group or a small volunteer-run foodbank in Newton Aycliffe"
+  },
+  "hastings": {
+    "region": "Hastings, East Sussex",
+    "nearby": ["Bexhill-on-Sea", "Eastbourne", "Hailsham"],
+    "s1_head": "Charity and volunteer kit across Hastings",
+    "s1loc": [
+      "Hastings runs a referral-based foodbank from The Hastings Centre and Downs Farm Community Centre, part of the wider Trussell network and supported by the big food-redistribution and foodbank operations that move surplus stock into the town. St Michael's Hospice, founded in 1987 to serve Hastings and Rother, runs sustenance collection and delivery drivers who rescue food across Hastings, St Leonards, Bexhill and Sidley, while Hastings Voluntary Action helps local people, volunteers and community groups take action together.",
+      "The sector here runs at every size. National charities with shops along Queens Road and central buying sit alongside small community groups, pantries and volunteer-run projects working on a shoestring across St Leonards, Ore and the Old Town. Whether it is a national charity moving stock through a trade account or a one-room foodbank ordering a few garments direct online with no minimum, both deserve workwear that is smart, warm and affordable, with every pound kept off the costs and on the cause.",
+      "St Michael's Hospice fundraising leans on its volunteer-run Hastings and St Leonards Support Group and a chain of charity shops whose donated stock helps fund specialist palliative care and a round-the-clock support line. Ward Supporters give companionship on the wards, and Hastings Voluntary Action backs a wide spread of community groups across the town. Together with the seafront's smaller mutual-aid and faith-based projects, these volunteers form the backbone of charity life in this corner of East Sussex."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Hastings, a FareShare-supplied community group or a small volunteer-run foodbank in Bexhill-on-Sea"
+  },
+  "hartlepool": {
+    "region": "Hartlepool, County Durham",
+    "nearby": ["Stockton-on-Tees", "Billingham", "Redcar"],
+    "s1_head": "Charity and volunteer kit across Hartlepool",
+    "s1loc": [
+      "Hartlepool Foodbank, a registered charity run in partnership with local churches, collects donated food and hands out three days of emergency parcels twice a week to people in crisis, with nearly forty volunteers giving advice and signposting alongside the food. FoodCycle Hartlepool, based at Owton Manor, runs community meals that bring older guests, refugees, people who are homeless and those on tight budgets around a shared table. The big food-redistribution networks feed surplus stock into both.",
+      "The sector here runs at every size. National charities with town-centre shops and central buying sit alongside small community groups, pantries and volunteer-run projects working on a shoestring across Owton Manor, Dyke House and the Headland. Whether it is a national charity ordering on a trade account or a one-room foodbank buying a few items direct online with no minimum, both deserve workwear that is smart, warm and affordable, with every pound kept off the overheads and on the people they help.",
+      "Beyond the foodbank, Hartlepool's community sector leans on its churches, the volunteer cooks, hosts and food-collection drivers who keep FoodCycle's community meals running, and the charity shops dotted through the town centre that turn donated goods into funds. Faith groups and mutual-aid projects across the Headland and the wider town pull in supermarket donations, and the volunteers who give their time keep this Teesside town's frontline support reaching the families who need it most."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Hartlepool, a FareShare-supplied community group or a small volunteer-run foodbank in Billingham"
+  },
+  "birkenhead": {
+    "region": "Birkenhead, Wirral, Merseyside",
+    "nearby": ["Wallasey", "Bebington", "Liverpool"],
+    "s1_head": "Charity and volunteer kit across Birkenhead",
+    "s1loc": [
+      "Wirral Foodbank works from Dock Road in Birkenhead, providing three days of emergency food to people referred in crisis as part of the Trussell network. It sits within Feeding Birkenhead, Supporting Wirral, a coalition of churches and community groups whose partners include Beechwood Community Trust, Charing Cross and Tranmere Methodist Churches, Citizens Advice Wirral, Magenta Living, St Vincent de Paul and FareShare Merseyside, which redistributes surplus food to more than two hundred charities across Merseyside and the Wirral.",
+      "The sector here runs at every size. National charities with shops on Grange Road and central buying sit alongside small community groups, pantries and volunteer-run projects working on a shoestring across Tranmere, Rock Ferry and Bidston. Whether it is a national charity moving stock through a trade account or a one-room foodbank ordering a few garments direct online with no minimum, both deserve workwear that is smart, warm and affordable, with every pound kept off the costs and on the cause.",
+      "The Feeding Birkenhead coalition stitches in schools, GPs, supermarkets and projects such as Bob's Place and Wirral's Homeless Angels, while FareShare Merseyside's team of almost a hundred volunteers makes sure quality surplus reaches the most vulnerable. St Vincent de Paul and the borough's charity shops turn donated goods into funds, and the mutual-aid and faith-based groups around Tranmere and Rock Ferry keep frontline help close to home. Volunteers drive nearly all of it."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Birkenhead, a FareShare Merseyside-supplied community group or a small volunteer-run foodbank in Wallasey"
+  },
+  "bath": {
+    "region": "Bath, Somerset",
+    "nearby": ["Bristol", "Trowbridge", "Chippenham"],
+    "s1_head": "Charity and volunteer kit across Bath",
+    "s1loc": [
+      "Bath's emergency-food work is led by Genesis Trust Bath, which exists to help people who are hungry, homeless and vulnerable rebuild their lives. The Bath, Keynsham and Somer Valley Foodbank, part of the Trussell network and run under Genesis Trust's local leadership after a 2025 merger, hands out three-day emergency parcels of donated food. Julian House is the leading provider of services to single homeless men and women across Bath and North East Somerset, with healthcare, support and resettlement.",
+      "The sector here runs at every size. National charities with shops on Stall Street and Southgate and central buying sit alongside small community groups, pantries and volunteer-run projects working on a shoestring across Twerton, Oldfield Park and Snow Hill. Whether it is a national charity ordering on a trade account or a one-room foodbank buying a few items direct online with no minimum, both deserve workwear that is smart, warm and affordable, with every pound kept off the overheads and on the people they serve.",
+      "Dorothy House Hospice gives the area its biggest charity-retail footprint, running around thirty high-street shops and more than twelve hundred volunteers to fund free end-of-life care across Bath and North East Somerset. Its furniture and lifestyle stores, alongside the town's many other charity shops, turn donated goods into care, while the 3SG network ties together hundreds of local voluntary organisations. Genesis Trust's volunteers, Julian House outreach and the city's faith-based projects round out a busy charitable scene."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Bath, a FareShare-supplied community group or a small volunteer-run foodbank in Trowbridge"
+  },
+  "stevenage": {
+    "region": "Stevenage, Hertfordshire",
+    "nearby": ["Hitchin", "Letchworth", "Hertford"],
+    "s1_head": "Charity and volunteer kit across Stevenage",
+    "s1loc": [
+      "Stevenage Food Bank is a lifeline for families in hardship, handing out essential parcels through volunteers and community donations, and Stevenage Community Trust has partnered with it and Stevenage Football Club to fund fresh fruit and vegetables and a bespoke shop for families in severe need. Garden House Hospice Care provides free specialist palliative care across Stevenage and North Hertfordshire, drawing on a team of two hundred staff and more than eight hundred volunteers and naming Stevenage FC its official charity partner.",
+      "The sector here runs at every size. National charities with shops in the town centre and central buying sit alongside small community groups, pantries and volunteer-run projects working on a shoestring across Bedwell, Shephall, the Old Town and Symonds Green. Whether it is a national charity moving stock through a trade account or a one-room foodbank ordering a few garments direct online with no minimum, both deserve workwear that is smart, warm and affordable, with every pound kept off the costs and on the cause.",
+      "North Herts and Stevenage CVS runs GoVolHerts, the home of volunteering in the county, channelling people into roles across the town. Irish Network Stevenage, based in Bedwell, supports the older community with social and exercise activities, while Garden House Hospice Care's volunteer sorters and charity shops turn donated goods into care. Bedwell Community Centre and the borough's other community centres host mutual-aid and social supermarket sessions, and volunteer drivers keep North Herts and Stevenage Community Transport running."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Stevenage, a FareShare-supplied community group or a small volunteer-run foodbank in Hitchin"
+  }
+}

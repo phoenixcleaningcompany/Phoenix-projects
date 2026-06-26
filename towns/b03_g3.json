@@ -1,0 +1,86 @@
+{
+  "wembley": {
+    "region": "Wembley, London Borough of Brent",
+    "nearby": ["Harrow", "Edgware", "Ruislip"],
+    "s1_head": "Charity and volunteer kit in Wembley",
+    "s1loc": [
+      "Wembley sits at the heart of Brent's busy charity scene, where Brent Foodbank, part of the Trussell network, has run its sorting and storage operation from space at Wembley Park, close to the stadium. Sufra NW London, the community food bank and kitchen founded in 2013, coordinates parcels, a community shop and cafe and an award-winning community garden across the borough. The big food-redistribution and foodbank networks supply both, and public donations cover most of what reaches families struggling with the cost of living.",
+      "The sector here runs at every size. National charities with shops along Wembley High Road and central buying sit alongside small community groups, foodbanks, pantries and volunteer-run projects working on a shoestring across Tokyngton, Stonebridge, Alperton and Harlesden. Sufra's network of kitchens and its Fresh Meal Service serve some of the most isolated residents, while welfare advice and asylum support sit beside the food. We are glad to serve the national charity and the one-room foodbank alike, with trade accounts and direct online, no minimum order.",
+      "Beyond the foodbanks, Brent's voluntary fabric is dense and varied. Saint Francis-style hospice shops and national charity branches line the high street, while Sufra's Harlesden Methodist Church point hands out fresh produce on Fridays with no voucher needed. Community kitchens, asylum-support drop-ins, befriending schemes and a busy community garden draw volunteers from Wembley Central, Preston and Northwick Park. Mutual-aid groups formed during the pandemic still run, and the borough's faith groups across Ealing Road and Sudbury keep a steady stream of donated food and willing hands moving through the system."
+    ],
+    "kit_loc": "across the area's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Wembley, a Sufra NW London-supplied community group or a small volunteer-run foodbank in Harrow"
+  },
+  "hemel hempstead": {
+    "region": "Hemel Hempstead, Dacorum, Hertfordshire",
+    "nearby": ["Watford", "St Albans", "Berkhamsted"],
+    "s1_head": "Charity and volunteer kit in Hemel Hempstead",
+    "s1loc": [
+      "Hemel Hempstead's charity sector centres on DENS, the Dacorum-wide charity whose Foodbank runs in partnership with the Trussell network and feeds anyone in crisis through the town and across collection points in Dacorum. DENS also runs the Day Centre, The Elms hostel and social enterprise projects, so the food it gathers feeds rough sleepers and families alike. The big food-redistribution and foodbank networks keep the shelves stocked, and with no government funding DENS leans entirely on donated food and money from the public.",
+      "The sector here runs at every size. National charities with shops in Marlowes and the Old Town, backed by central buying, sit alongside small community groups, foodbanks, pantries and volunteer-run projects working on a shoestring across Adeyfield, Bennetts End, Grovehill and Leverstock Green. DENS pairs emergency parcels with signposting to longer-term help, while church-run pantries and mutual-aid groups fill the gaps between. We are glad to serve the national charity and the one-room foodbank alike, with trade accounts and direct online, no minimum order.",
+      "Around DENS sits a wider web of Dacorum good causes. The Hospice of St Francis at nearby Berkhamsted runs charity shops and draws Hemel volunteers, while national charity branches and the Community Action Dacorum volunteer centre help match willing hands to local need. Faith groups, lunch clubs and befriending schemes work across Highfield, Chaulden and Warners End, and seasonal supermarket collections recruit fresh volunteers each year. From the Old Town's independent shops to estate community centres, the town keeps a steady network of donated goods and unpaid effort running."
+    ],
+    "kit_loc": "across the area's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Hemel Hempstead, a DENS-supplied community group or a small volunteer-run foodbank in Watford"
+  },
+  "watford": {
+    "region": "Watford, Hertfordshire",
+    "nearby": ["Hemel Hempstead", "St Albans", "Bushey"],
+    "s1_head": "Charity and volunteer kit in Watford",
+    "s1loc": [
+      "Watford's charity life is anchored by Watford Foodbank, an independent registered charity working with local churches and community groups across five distribution sites, and by New Hope, the homelessness charity that has supported rough sleepers and the vulnerably housed for more than thirty years through outreach, accommodation, food, showers and a 24/7 helpline. The two work closely with the Watford and Three Rivers Refugee Project and Citizens Advice. The big food-redistribution and foodbank networks help keep the sites supplied, alongside donations from local businesses and faith groups.",
+      "The sector here runs at every size. National charities with shops in the Atria centre and the High Street, backed by central buying, sit alongside small community groups, foodbanks, pantries and volunteer-run projects working on a shoestring across Holywell, Leavesden, North Watford and Callowland. Watford and Three Rivers Trust supports the smallest groups with funding and governance, while the Random Cafe rescues supermarket surplus on a pay-as-you-feel basis. We are glad to serve the national charity and the one-room foodbank alike, with trade accounts and direct online, no minimum order.",
+      "Beyond food and shelter, Watford's voluntary sector is broad. The Peace Hospice cares for people with life-limiting illness and runs charity shops that recruit volunteers across the area, while W3RT's CVS service and volunteering hub have raised and shared close to a million pounds for local groups over forty years. National charity branches line the high street, mutual-aid groups still run from the pandemic, and lunch clubs and befriending schemes operate across Oxhey, Garston and Nascot Wood, keeping donated goods and willing volunteers moving through the town."
+    ],
+    "kit_loc": "across the area's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Watford, a Random Cafe-supplied community group or a small volunteer-run foodbank in Bushey"
+  },
+  "stockport": {
+    "region": "Stockport, Greater Manchester",
+    "nearby": ["Manchester", "Stretford", "Bramhall"],
+    "s1_head": "Charity and volunteer kit in Stockport",
+    "s1loc": [
+      "Stockport's charity sector is led by Stockport Foodbank, part of the Trussell network, which runs referral-based parcels from several distribution points across the town, and by The Wellspring, the long-standing charity that supports homeless and at-risk people with meals, healthcare, wellbeing support and accommodation help. Local Pantry schemes run with Stockport Homes give residents low-cost food on a membership basis. The big food-redistribution and foodbank networks keep these projects supplied, with most donations coming from the public, supermarkets and local businesses.",
+      "The sector here runs at every size. National charities with shops in Merseyway and the Underbanks, backed by central buying, sit alongside small community groups, foodbanks, pantries and volunteer-run projects working on a shoestring across Brinnington, Reddish, Edgeley and Cheadle Heath. The Wellspring's professional staff and volunteers handle complex needs, while church pantries and mutual-aid groups fill the gaps. We are glad to serve the national charity and the one-room foodbank alike, with trade accounts and direct online, no minimum order.",
+      "Stockport's wider voluntary fabric runs deep. St Ann's Hospice, now Moya Cole Hospice, cares for people with life-limiting illness and runs charity shops including the Romiley branch on Compstall Road, drawing volunteers from across the borough. Beacon Counselling Trust supports mental health and gambling harm, national charity branches line the precinct, and volunteer centres match willing hands to need. Lunch clubs, befriending schemes and mutual-aid groups operate across Bramhall, Marple, Hazel Grove and Heaton Moor, keeping donated goods and unpaid effort flowing through the town all year."
+    ],
+    "kit_loc": "across the area's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Stockport, a Wellspring-supplied community group or a small volunteer-run foodbank in Bramhall"
+  },
+  "rochdale": {
+    "region": "Rochdale, Greater Manchester",
+    "nearby": ["Oldham", "Bury", "Heywood"],
+    "s1_head": "Charity and volunteer kit in Rochdale",
+    "s1loc": [
+      "Rochdale's charity scene is shaped by Petrus Community, the registered charity providing residential and day support for people in housing need across the borough including Heywood and Middleton, and by Rochdale Foodbank, part of the Trussell network, which gathers most of its food through supermarket collections where volunteers ask shoppers to buy an extra item. Petrus runs The Hub day service and social enterprises offering volunteering. The big food-redistribution and foodbank networks help keep the parcels and meals flowing through the town.",
+      "The sector here runs at every size. National charities with shops in the Rochdale Exchange and on Yorkshire Street, backed by central buying, sit alongside small community groups, foodbanks, pantries and volunteer-run projects working on a shoestring across Spotland, Kirkholt, Castleton and Newbold. Petrus pairs accommodation with day support, while church pantries and mutual-aid groups fill the gaps. We are glad to serve the national charity and the one-room foodbank alike, with trade accounts and direct online, no minimum order.",
+      "Rochdale's voluntary fabric reaches well beyond food. Springhill Hospice provides specialist palliative care from its 16-bed unit and runs around six charity shops across the borough, including a flagship store in Heywood with its Lilypads baby department, all staffed largely by volunteers. Action Together supports the wider voluntary sector and matches volunteers to need, national charity branches line the town centre, and lunch clubs, befriending schemes and mutual-aid groups run across Heywood, Milnrow, Norden and Bamford, keeping donated goods and willing hands moving all year round."
+    ],
+    "kit_loc": "across the area's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Rochdale, a Petrus-supplied community group or a small volunteer-run foodbank in Heywood"
+  },
+  "hove": {
+    "region": "Hove, Brighton and Hove, East Sussex",
+    "nearby": ["Brighton", "Worthing", "Shoreham-by-Sea"],
+    "s1_head": "Charity and volunteer kit in Hove",
+    "s1loc": [
+      "Hove's charity sector sits within a strong Brighton and Hove network. FareShare Sussex and Surrey, founded in 2002 by City Gate Community Projects, redistributes surplus food across the city with a fleet of vans kept running by around 170 volunteers. The Brighton and Hove Food Partnership supplies food to over 150 charities and community groups that pair meals with advice, counselling and befriending. Martlets, the local hospice, cares for people with terminal illness across Hove and beyond. The big food-redistribution and foodbank networks underpin much of this work.",
+      "The sector here runs at every size. National charities with shops along Church Road and George Street, backed by central buying, sit alongside small community groups, foodbanks, pantries and volunteer-run projects working on a shoestring across Hangleton, Portslade, West Hove and the Goldstone area. Community fridges at Sussex Surplus and the Old Boat Community Centre cut food waste, while mutual-aid food banks support families directly. We are glad to serve the national charity and the one-room foodbank alike, with trade accounts and direct online, no minimum order.",
+      "Hove's voluntary fabric is rich and varied. Martlets runs a chain of charity shops and a Compassionate Neighbour scheme tackling isolation, while the Sussex Beacon supports people living with HIV and funds its work through charity shops and a furniture home store. The RSPCA Brighton shop on George Street and many national charity branches line the streets, and Community Works matches volunteers across Brighton, Hove, Adur and Worthing. Allotment-based fridges, mutual-aid groups and befriending schemes run across Aldrington, Brunswick and Poets Corner, keeping donated goods and unpaid effort flowing."
+    ],
+    "kit_loc": "across the area's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Hove, a FareShare Sussex-supplied community group or a small volunteer-run foodbank in Brighton"
+  },
+  "ilford": {
+    "region": "Ilford, London Borough of Redbridge",
+    "nearby": ["Romford", "Hornchurch", "Walthamstow"],
+    "s1_head": "Charity and volunteer kit in Ilford",
+    "s1loc": [
+      "Ilford anchors Redbridge's charity sector, where Redbridge Foodbank, part of the Trussell network, runs parcels from distribution points at Jubilee Church Ilford, All Saints Goodmayes and Woodford Baptist among others. The Ilford Lane Food Bank, run by Helping Hopes and ICSS with FareShare, the Felix Project, Neighbourly and Redbridge Council, is 100% volunteer-led from leadership down to sorting and packing. The big food-redistribution and foodbank networks supply both, and local volunteers keep the weekly sessions running across the borough.",
+      "The sector here runs at every size. National charities with shops along Ilford High Road and in the Exchange centre, backed by central buying, sit alongside small community groups, foodbanks, pantries and volunteer-run projects working on a shoestring across Seven Kings, Goodmayes, Newbury Park and Gants Hill. The Ilford Lane Food Bank packs and distributes through unpaid hands, while Frenford Clubs and faith groups run their own provision. We are glad to serve the national charity and the one-room foodbank alike, with trade accounts and direct online, no minimum order.",
+      "Redbridge's wider voluntary fabric is busy and well organised. Saint Francis Hospice serves Redbridge, Barking and Dagenham, Havering and West Essex, and its Ilford charity shop relies on volunteers to hold its high-street spot. RedbridgeCVS and Community Action Redbridge match willing hands to local need, while the Redbridge Community Advice Network links smaller groups. National charity branches line the centre, and mutual-aid groups, lunch clubs and befriending schemes run across Clayhall, Barkingside and Aldborough Hatch, keeping donated goods and volunteer effort moving through the area all year."
+    ],
+    "kit_loc": "across the area's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Ilford, a FareShare-supplied community group or a small volunteer-run foodbank in Romford"
+  }
+}

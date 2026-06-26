@@ -1,0 +1,86 @@
+{
+  "redditch": {
+    "region": "Redditch, Worcestershire",
+    "nearby": ["Bromsgrove", "Birmingham", "Solihull"],
+    "s1_head": "Charity and volunteer kit in Redditch",
+    "s1loc": [
+      "Redditch Foodbank is run by the local Christian charity AOK - Acts Of Kindness, part of the Trussell network, with town-wide distribution points staffed by volunteers who collect, sort and hand out emergency parcels on a voucher referral. Tesco Food Collections and the big food-redistribution and foodbank networks feed the supply, while trustees drawn from several Redditch churches keep the project running. Primrose Hospice and its shops anchor the wider local sector across the town.",
+      "The sector runs at every size here. National and regional charities such as Primrose Hospice keep shops and central buying across Headless Cross, Church Hill and the Kingfisher Shopping Centre, while small community groups, pantries and volunteer-run projects scrape by on a shoestring across Batchley, Winyates and Matchborough. We are glad to outfit the national charity with a trade account and the one-room foodbank with the same goods bought direct online, no minimum.",
+      "Beyond the foodbank, Primrose Hospice runs a furniture store on Evesham Road in Headless Cross and a shop in the Kingfisher Shopping Centre, with its retail raising roughly a third of the hospice income each year through donated stock and a volunteer rota. Charity shops cluster along Alcester Street and the town centre, and mutual-aid and church-led groups in Woodrow and Greenlands run collections and befriending. Volunteers move between sorting rooms, shop floors and collection points week to week."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Redditch, a Trussell-supplied community group or a small volunteer-run foodbank in Bromsgrove"
+  },
+  "harlow": {
+    "region": "Harlow, Essex",
+    "nearby": ["Bishop's Stortford", "Hoddesdon", "Cheshunt"],
+    "s1_head": "Charity and volunteer kit in Harlow",
+    "s1loc": [
+      "Harlow Foodbank is run by the local Michael Roberts Charitable Trust (MRCT), feeding people in crisis on donations, volunteering and funds from the wider community. Rainbow Services, a registered charity since 1999, runs the Community Hub in partnership with Citizens Advice Harlow and the foodbank, plus a youth carpentry workshop. Essex Community Foundation backs much of the local infrastructure, and the big food-redistribution and foodbank networks keep the parcels stocked.",
+      "The sector runs at every size in Harlow. National and regional charities such as St Clare Hospice and Sue Ryder keep shops and central buying, while small community groups, pantries and volunteer-run projects work on a shoestring across Old Harlow, Staple Tye and the Town Centre. Rainbow Services backs the tiniest of them with practical support. We are glad to serve the national charity with a trade account and the one-room foodbank with the same kit bought direct online, no minimum.",
+      "St Clare Hospice runs its biggest Outlet Store in the St James Centre on East Road, alongside the Scarlet Vintage and Retro shop on Broad Walk, with donated stock and volunteers funding hospice care across the district. Sue Ryder keeps a shop in Old Harlow, and MRCT provides voluntary work and social opportunities for people facing disability or disadvantage. The Rainbow Centre supports voluntary and community organisations and social enterprises town-wide with rooms, advice and a volunteer pipeline."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Harlow, a Michael Roberts Charitable Trust-supplied community group or a small volunteer-run foodbank in Hoddesdon"
+  },
+  "harrow": {
+    "region": "Harrow, London Borough of Harrow",
+    "nearby": ["Wembley", "Edgware", "Ruislip"],
+    "s1_head": "Charity and volunteer kit in Harrow",
+    "s1loc": [
+      "Harrow Foodbank, part of the Trussell network since 2013, hands out three-day emergency parcels, toiletries, baby supplies and pet food from several distribution centres across the borough, with a home delivery service and a volunteer team for food sorting, fundraising and admin. Voluntary Action Harrow (VAH) runs the borough volunteer newsletter and matches people to roles, while the HelpHarrow partnership grew out of food support into a one-stop hub linking the big food-redistribution and foodbank networks to residents.",
+      "The sector runs at every size in Harrow. National and regional charities such as St Luke's Hospice keep sixteen shops and central buying, with a donation centre and superstore on Hailsham Drive, while small community groups, pantries and volunteer-run projects work on a shoestring across Wealdstone, South Harrow and Kenton. Rayners Lane Baptist Church and others run their own collections. We are glad to serve the national charity with a trade account and the one-room foodbank with the same kit bought direct online, no minimum.",
+      "St Luke's Hospice provides specialist end-of-life and palliative care to Harrow and Brent, funded in part by shops in Wealdstone, Harrow Weald and Kenton plus its Waverley Industrial Park superstore, which doubles as a community hub for skills and sustainability workshops. Voluntary Action Harrow knits together the smaller charities, church groups and mutual-aid efforts that spring up across Pinner, Stanmore and Rayners Lane, sending volunteers between shop floors, distribution points and befriending rounds week to week."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Harrow, a Trussell-supplied community group or a small volunteer-run foodbank in Edgware"
+  },
+  "st albans": {
+    "region": "St Albans, Hertfordshire",
+    "nearby": ["Hemel Hempstead", "Watford", "Hatfield"],
+    "s1_head": "Charity and volunteer kit in St Albans",
+    "s1loc": [
+      "St Albans and District Foodbank, a Trussell member since 2014, gives emergency food and practical help backed by churches, community groups and individuals across the district. The volunteer-led St Albans Community Pantry, started in 2020, closes the loop between food waste and food insecurity as a hybrid foodbank and food-rescue operation, while Centre 33 supports rough sleepers with meals and drinks. Communities 1st runs the local volunteer centre that matches people to all of these roles.",
+      "The sector runs at every size in St Albans. National and regional charities such as Rennie Grove Peace Hospice Care keep shops and central buying across St Peter's Street and Victoria Street, while small community groups, pantries and volunteer-run projects work on a shoestring across Marshalswick, London Colney and Fleetville. We are glad to serve the national charity with a trade account and the one-room foodbank with the same kit bought direct online, no minimum.",
+      "Rennie Grove Peace Hospice Care has offered free care for over 40 years, funding it through 32 charity shops and a retail trading centre, with St Albans staff and two town shops on St Peter Street and Victoria Street. Communities 1st advertises shop and bereavement-support volunteering and stitches together the smaller groups, while St Albans Community Pantry and Centre 33 run entirely on donated time across the city's neighbourhoods, moving volunteers between sorting rooms, shop floors and meal services."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across St Albans, a Trussell-supplied community group or a small volunteer-run foodbank in Hatfield"
+  },
+  "stockton-on-tees": {
+    "region": "Stockton-on-Tees, County Durham",
+    "nearby": ["Thornaby-on-Tees", "Middlesbrough", "Billingham"],
+    "s1_head": "Charity and volunteer kit in Stockton-on-Tees",
+    "s1loc": [
+      "Billingham and Stockton Borough Foodbank anchors crisis food across the borough, alongside Sprouts Community Food Charity, St Chad's Pantry and Norton Methodist Church Community Pantry, which takes Tesco surplus through the Community Food Connection scheme run with FareShare. The Stockton-on-Tees Food Power Network, supported by Catalyst, brings these groups together to fight food waste and build local skills, while The Bread and Butter Thing runs in Newtown.",
+      "The sector runs at every size here. National and regional charities such as Butterwick Hospice keep shops and central buying across Norton and Thornaby, while small community groups, pantries and volunteer-run projects work on a shoestring across Norton, Newtown and Hardwick. FareShare North East feeds many of them from Middlesbrough. We are glad to serve the national charity with a trade account and the one-room pantry with the same kit bought direct online, no minimum.",
+      "Butterwick Hospice has cared for local people for almost four decades, funding palliative care through shops including its large Thornaby town-centre store on Mitchell Avenue and a High Street shop in Norton. Catalyst, the borough's voluntary-sector support body, runs volunteer matching and backs the Food Power Network and dozens of smaller community and mutual-aid groups. Volunteers move between hospice shop floors, pantry sorting rooms and the surplus-food rounds that link Tesco stores to local tables."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Stockton-on-Tees, a FareShare-supplied community group or a small volunteer-run foodbank in Thornaby-on-Tees"
+  },
+  "gosport": {
+    "region": "Gosport, Hampshire",
+    "nearby": ["Fareham", "Portsmouth", "Havant"],
+    "s1_head": "Charity and volunteer kit in Gosport",
+    "s1loc": [
+      "The Fareham and Gosport Basics Bank, run by the Christian charity Friends of the Homeless, operates food banks in both towns, giving crisis food parcels to last up to a week. Crisis Food Gosport hands out hampers to people in need, and Jacob's Well Care Centre, run by local people, takes donations of time, money, school uniforms and furniture. Community First supports the borough's voluntary sector and runs Volunteer First, matching people to all of these roles.",
+      "The sector runs at every size in Gosport. National and regional charities such as Rowans Hospice, Sue Ryder and Naomi House and Jacksplace keep shops and central buying across Stoke Road and Bridgemary, while small community groups, pantries and volunteer-run projects work on a shoestring across Rowner, Bridgemary and Elson. We are glad to serve the national charity with a trade account and the one-room foodbank with the same kit bought direct online, no minimum.",
+      "Rowans Hospice runs a shop on Stoke Road in Gosport and another in Lee-on-the-Solent, Sue Ryder keeps a shop in Bridgemary, and Naomi House and Jacksplace, the children's and young adults' hospices, fund care through a Lee-on-the-Solent shop among 21 across the central South. Repair Cafe Gosport recruits local residents as repair experts and hosts, and Community First helps new groups with governance, funding and networking, sending volunteers between shop floors, repair benches and food-parcel handouts."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Gosport, a Friends of the Homeless-supplied community group or a small volunteer-run foodbank in Fareham"
+  },
+  "scunthorpe": {
+    "region": "Scunthorpe, North Lincolnshire",
+    "nearby": ["Grimsby", "Cleethorpes", "Doncaster"],
+    "s1_head": "Charity and volunteer kit in Scunthorpe",
+    "s1loc": [
+      "Scunthorpe Foodbank, home of the Connect Foundation since 2022 and part of the Trussell network, runs more than 50 volunteers and serves around 7,500 people a year with emergency parcels on a voucher referral. FareShare Yorkshire delivers food to over 164 charities and community groups across the region, so the Scunthorpe area draws on that wider network, while the Salvation Army runs its own fortnightly food bank in the town.",
+      "The sector runs at every size in Scunthorpe. National and regional charities such as Lindsey Lodge Hospice keep shops and central buying across Crosby, Ashby and Laneham Street, while small community groups, pantries and volunteer-run projects work on a shoestring across Crosby, Ashby and Frodingham. Community Vision on Robert Street backs the smallest of them. We are glad to serve the national charity with a trade account and the one-room foodbank with the same kit bought direct online, no minimum.",
+      "Lindsey Lodge Hospice funds care through several shops, including its Charity Warehouse on Crosby Road, a shop on Ashby High Street known for its books, and a Laneham Street store, mixing paid staff with volunteers. Community Vision, open Monday to Thursday on Robert Street, offers capacity building, governance and volunteer management to North Lincolnshire's VCFSE groups, helping set up local networks. Volunteers move between hospice shop floors, the Connect Foundation sorting room and Salvation Army handouts across the town's neighbourhoods."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Scunthorpe, a FareShare-supplied community group or a small volunteer-run foodbank in Grimsby"
+  }
+}

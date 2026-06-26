@@ -1,0 +1,86 @@
+{
+  "dartford": {
+    "region": "Dartford and Kent",
+    "nearby": ["Gravesend", "Erith", "Sidcup"],
+    "s1_head": "Charity and volunteer kit across Dartford",
+    "s1loc": [
+      "Dartford Foodbank, part of the Trussell network, hands out emergency parcels and takes donations on Tuesday and Thursday sessions, while FareShare Kent moves surplus food from the trade to charities and community groups across the area. ellenor, the local hospice charity for Dartford, Gravesham and Swanley, funds care for adults and children through a growing chain of shops, and the Family Food Bank and a string of church and mutual-aid projects keep emergency food flowing across the town.",
+      "The sector here runs at every size. National and regional charities keep shops and central buying behind them, from ellenor's expanding chain to the big medical-research names, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Temple Hill, Stone and Joydens Wood. We are set up to serve the national charity with shops across Dartford and the one-room foodbank alike, with trade accounts for the big central buyers and direct online ordering, no minimum, for the smallest volunteer group.",
+      "ellenor runs shops at the Priory Centre in Dartford and on King Street in Gravesend, and its award-winning work with Gravesham council sees shop teams handpick clothes, furniture and appliances for referred families. The Ellenor Lions hospice link takes donations of foreign currency, mobile phones and clothing, fresh charity shops keep opening in Swanley Square, and Dartford Living and local Lions and Rotary volunteers rally support, so the giving runs from Bluewater fundraising right down to one-room projects in Greenhithe and Swanscombe."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Dartford, a FareShare Kent-supplied community group or a small volunteer-run foodbank in Gravesend"
+  },
+  "bedford": {
+    "region": "Bedford and Bedfordshire",
+    "nearby": ["Kempston", "Milton Keynes", "Luton"],
+    "s1_head": "Charity and volunteer kit across Bedford",
+    "s1loc": [
+      "Bedford Foodbank, in the Trussell network since 2011, feeds around eighteen hundred people a month and distributes some twenty tonnes of food, leaning on a small staff team and a large body of volunteers, while FareShare redistributes surplus food to community groups across the area. Sue Ryder runs an Ampthill Road superstore and a Harpur Street boutique raising money for St John's Hospice at Moggerhanger, and Keech Hospice keeps shops in Bedford and Kempston too.",
+      "The sector here runs at every size. National and regional charities keep shops and central buying behind them, from Sue Ryder and Keech to the big research names, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Queens Park, Goldington and Kempston. We are set up to serve the national charity with shops across Bedford and the one-room foodbank alike, with trade accounts for the big central buyers and direct online ordering, no minimum, for the smallest volunteer group.",
+      "Beyond the hospice chains, the Bedford Community Table and food pantry, the Bedford Daycare Hospice shops and a network of Rotary and church projects keep support flowing town-wide. Keech Hospice runs dozens of shops across Bedfordshire, the Harpur Trust and local community foundations channel grants to grassroots groups, and volunteer centres connect helpers to causes from Brickhill to Elstow, so the giving runs from a county-wide retail chain right down to a single pantry run on a shoestring."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Bedford, a FareShare-supplied community group or a small volunteer-run foodbank in Kempston"
+  },
+  "doncaster": {
+    "region": "Doncaster and South Yorkshire",
+    "nearby": ["Rotherham", "Barnsley", "Mexborough"],
+    "s1_head": "Charity and volunteer kit across Doncaster",
+    "s1loc": [
+      "Doncaster Foodbank, part of the Trussell network since 2013, runs distribution from St James' Church and a Kirk Sandall warehouse, giving three days of emergency food on a voucher, while FareShare Yorkshire moves surplus food from the trade to charities across the district. South Yorkshire's Community Foundation channels grants to voluntary and community groups, and St John's Hospice draws fundraising volunteers and hospice neighbours from right across the borough.",
+      "The sector here runs at every size. National and regional charities keep shops and central buying behind them, from hospice chains to the big medical-research names, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Hexthorpe, Balby and Bentley. We are set up to serve the national charity with shops across Doncaster and the one-room foodbank alike, with trade accounts for the big central buyers and direct online ordering, no minimum, for the smallest volunteer group.",
+      "FareShare Yorkshire, founded in Barnsley in 1998, supplies more than a hundred and sixty frontline groups across the region, and a South Yorkshire's Community Foundation grant once let it back twenty-two more charities with surplus food. St John's Hospice fills vacancies in its shops, gardens and fundraising, the British Red Cross keeps a town shop, and church and mutual-aid pantries keep food flowing across Wheatley, Intake and the harder-hit wards of Denaby Main, Conisbrough and Mexborough."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Doncaster, a FareShare Yorkshire-supplied community group or a small volunteer-run foodbank in Mexborough"
+  },
+  "worthing": {
+    "region": "Worthing and West Sussex",
+    "nearby": ["Brighton", "Hove", "Shoreham-by-Sea"],
+    "s1_head": "Charity and volunteer kit across Worthing",
+    "s1loc": [
+      "Worthing Foodbank, a Trussell foodbank run by Redeemer church, collects and gives out basic food to people in crisis, while the Adur and Worthing Food Partnership, part of the homelessness charity Turning Tides, runs a rough-sleepers breakfast at St Clare's and coordinates food help across the town. FareShare Sussex redistributes surplus food by van to local groups, and St Barnabas House, the town's hospice, funds care through shops and a crowd of fundraising volunteers.",
+      "The sector here runs at every size. National and regional charities keep shops and central buying behind them, from St Barnabas to the big environmental and research names, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Broadwater, Durrington and Tarring. We are set up to serve the national charity with shops across Worthing and the one-room foodbank alike, with trade accounts for the big central buyers and direct online ordering, no minimum, for the smallest volunteer group.",
+      "Turning Tides keeps its homelessness work and shops going town-wide, the Worthing Soup Kitchen feeds people on the seafront, and St Barnabas House depends on volunteers aged eighteen and over in its hospice, shops and fundraising events. FareShare Sussex runs on around a hundred and seventy volunteers, the Adur and Worthing Councils list community fridges and pantries from East Worthing to Goring, and church and mutual-aid groups keep emergency food flowing across the borough."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Worthing, a FareShare Sussex-supplied community group or a small volunteer-run foodbank in Shoreham-by-Sea"
+  },
+  "rotherham": {
+    "region": "Rotherham and South Yorkshire",
+    "nearby": ["Sheffield", "Barnsley", "Mexborough"],
+    "s1_head": "Charity and volunteer kit across Rotherham",
+    "s1loc": [
+      "Rotherham Foodbank, part of the Trussell network, gives three days of nutritionally balanced emergency food to people referred in crisis and relies on volunteers for supermarket collections, while FareShare Yorkshire supplies surplus food to charities across the region. Rotherham Hospice funds care through a chain of shops, South Yorkshire's Community Foundation channels grants to local groups, and the Rawmarsh Foodbank and a string of church projects keep emergency food flowing across the borough.",
+      "The sector here runs at every size. National and regional charities keep shops and central buying behind them, from Rotherham Hospice to the big medical-research names, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Eastwood, Maltby and Rawmarsh. We are set up to serve the national charity with shops across Rotherham and the one-room foodbank alike, with trade accounts for the big central buyers and direct online ordering, no minimum, for the smallest volunteer group.",
+      "Rotherham Hospice runs a flagship shop on College Street, a Beale Way superstore and shops in Wath-upon-Dearne, Maltby, Dinnington, Wickersley and Rawmarsh, with a donation centre on Rawmarsh Road and a busy volunteer line. South Yorkshire's Community Foundation shares millions a year across Barnsley, Doncaster, Rotherham and Sheffield, and church and mutual-aid pantries keep food flowing through Dinnington and Manvers, so giving runs from a borough-wide retail chain right down to one-room projects near Mexborough."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Rotherham, a FareShare Yorkshire-supplied community group or a small volunteer-run foodbank in Mexborough"
+  },
+  "mansfield": {
+    "region": "Mansfield and Nottinghamshire",
+    "nearby": ["Sutton-in-Ashfield", "Arnold", "Hucknall"],
+    "s1_head": "Charity and volunteer kit across Mansfield",
+    "s1loc": [
+      "Mansfield's emergency food runs through the Trussell network and a clutch of community foodbanks, with use more than doubling in five years, while FareShare supplies surplus food from the trade to local charities and community groups. John Eastwood Hospice, on Mansfield Road in Sutton-in-Ashfield, provides palliative care for Mansfield, Sutton, Kirkby and the surrounding villages and funds it through a chain of charity shops staffed largely by volunteers.",
+      "The sector here runs at every size. National and regional charities keep shops and central buying behind them, from John Eastwood Hospice to the big research names, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across the Oak Tree, Ravensdale and Bull Farm estates. We are set up to serve the national charity with shops across Mansfield and the one-room foodbank alike, with trade accounts for the big central buyers and direct online ordering, no minimum, for the smallest volunteer group.",
+      "John Eastwood Hospice runs charity shops in Mansfield town centre and across Ashfield, and big food collections regularly call on Mansfield volunteers to back local charities. Trussell and FareShare partner on supermarket drives, the Mansfield BID highlights town-centre charity shops, and church and mutual-aid pantries keep emergency food flowing through Forest Town, Pleasley and Warsop, so giving runs from a hospice retail chain right down to a single pantry run on a shoestring near Sutton-in-Ashfield."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Mansfield, a FareShare-supplied community group or a small volunteer-run foodbank in Sutton-in-Ashfield"
+  },
+  "eastbourne": {
+    "region": "Eastbourne and East Sussex",
+    "nearby": ["Hailsham", "Bexhill-on-Sea", "Seaford"],
+    "s1_head": "Charity and volunteer kit across Eastbourne",
+    "s1loc": [
+      "Eastbourne Foodbank works on a voucher referral system, leaning on local donations and volunteers and running a Moneylife debt service alongside its food, with a hub at Langney Community Centre, while FareShare Sussex redistributes surplus food from the trade to community groups across the area. St Wilfrid's Hospice, a local charity serving Eastbourne, Seaford, Hailsham, Uckfield and Heathfield, funds care through a chain of shops and a donation centre on Moy Avenue.",
+      "The sector here runs at every size. National and regional charities keep shops and central buying behind them, from St Wilfrid's to the big medical-research names, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Langney, Hampden Park and the Old Town. We are set up to serve the national charity with shops across Eastbourne and the one-room foodbank alike, with trade accounts for the big central buyers and direct online ordering, no minimum, for the smallest volunteer group.",
+      "St Wilfrid's Hospice keeps shops and a clearance shop and donation centre minutes from the town centre, and Eastbourne Foodbank helps people with tribunal appeals, PIP forms and access to services as well as food. East Sussex community directories list pantries and fridges from Shinewater to Old Town, and church and mutual-aid projects keep emergency food flowing town-wide, so giving runs from a hospice retail chain right down to one-room volunteer projects near Bexhill-on-Sea and Seaford."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Eastbourne, a FareShare Sussex-supplied community group or a small volunteer-run foodbank in Bexhill-on-Sea"
+  }
+}
