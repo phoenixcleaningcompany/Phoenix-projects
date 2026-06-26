@@ -1,0 +1,108 @@
+{
+ "dudley": {
+  "region": "Dudley and the Black Country",
+  "nearby": [
+   "Halesowen",
+   "Stourbridge",
+   "Brierley Hill"
+  ],
+  "s1_head": "Charity and volunteer kit across Dudley",
+  "s1loc": [
+   "Dudley's emergency food runs largely through Black Country Foodbank, a long-standing local charity in the Trussell network, alongside the Provision House food club and social supermarket and a town-centre St Thomas community foodbank. FareShare West Midlands moves surplus food from the trade out to community groups across the borough, while Dudley CVS supports the wider voluntary sector and Mary Stevens Hospice fundraises through its shops. The big food-redistribution and foodbank networks and many small mutual-aid projects all draw volunteers across this Black Country town.",
+   "The sector here runs at every size. National and regional charities keep shops and central buying alongside hospice and air-ambulance fundraising, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Netherton, Sedgley and Kingswinford. We are set up to serve the national charity with shops on every high street and the one-room foodbank alike, with trade accounts for the big buyers and direct online ordering, no minimum, for the smallest group.",
+   "Across the Dudley borough, Black Country Foodbank runs its central warehouse in Brierley Hill and crisis sessions in Halesowen, providing emergency food and toiletries. Top Church Training, formed in Brierley Hill in 1997, helps local people reduce isolation and reconnect with community life, while Dudley CVS on Albion Street matches volunteers to projects and the Beacon Centre in Sedgley hosts community groups. From Brierley Hill and Halesowen to Sedgley, small church and centre-based teams of volunteers keep this Black Country network running."
+  ],
+  "kit_loc": "across the town's shops, foodbanks and community events",
+  "s2_intro": "Whether you are a national charity with shops across Dudley, a Black Country Foodbank-supplied community group or a small volunteer-run foodbank in Halesowen"
+ },
+ "norwich": {
+  "region": "Norwich and Norfolk",
+  "nearby": [
+   "Ipswich",
+   "Cambridge",
+   "Peterborough"
+  ],
+  "s1_head": "Charity and volunteer kit across Norwich",
+  "s1loc": [
+   "Norwich Foodbank, an independent local charity in the Trussell network, runs emergency food across the city from its Bowthorpe warehouse, while the Norfolk Community Foundation backs the Nourishing Norfolk network of community pantries and social supermarkets. FareShare East Anglia, based over in Ipswich, redistributes surplus food from the trade to breakfast clubs, lunch clubs and refuges across the county. The big food-redistribution and foodbank networks, named hospices and dozens of small volunteer-run projects all draw helpers from across this Norfolk city.",
+   "The sector here runs at every size. National and regional charities keep shops and central buying alongside hospice and community fundraising, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Bowthorpe, Mile Cross and Thorpe Hamlet. We are set up to serve the national charity with shops on every high street and the one-room foodbank alike, with trade accounts for the big buyers and direct online ordering, no minimum, for the smallest group."
+  ],
+  "kit_loc": "across the town's shops, foodbanks and community events",
+  "s2_intro": "Whether you are a national charity with shops across Norwich, a FareShare East Anglia-supplied community group or a small volunteer-run foodbank in Ipswich"
+ },
+ "swindon": {
+  "region": "Swindon and north Wiltshire",
+  "nearby": [
+   "Chippenham",
+   "Melksham",
+   "Cheltenham"
+  ],
+  "s1_head": "Charity and volunteer kit across Swindon",
+  "s1loc": [
+   "Swindon Food Collective is the town's own independent food bank, working alongside FoodCycle Swindon and a network of community pantries, while FareShare moves surplus food from the trade out to local groups. Voluntary Action Swindon supports the wider charity sector, and Prospect Hospice raises funds through a chain of shops including its Penhill store. The big food-redistribution and foodbank networks and many small mutual-aid projects all draw volunteers across this Wiltshire town.",
+   "The sector here runs at every size. National and regional charities keep shops and central buying alongside hospice and community fundraising, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Penhill, Pinehurst and Park North. We are set up to serve the national charity with shops on every high street and the one-room foodbank alike, with trade accounts for the big buyers and direct online ordering, no minimum, for the smallest group."
+  ],
+  "kit_loc": "across the town's shops, foodbanks and community events",
+  "s2_intro": "Whether you are a national charity with shops across Swindon, a Swindon Food Collective-supplied community group or a small volunteer-run foodbank in Chippenham"
+ },
+ "croydon": {
+  "region": "Croydon and south London",
+  "nearby": [
+   "Sutton",
+   "Bromley",
+   "Beckenham"
+  ],
+  "s1_head": "Charity and volunteer kit across Croydon",
+  "s1loc": [
+   "Croydon Voluntary Action runs a resource centre on London Road that collates donations from FareShare, City Harvest and others, then redistributes to a network of foodbanks, soup kitchens and community groups across the borough. The Norwood and Brixton Foodbank and the Lambeth and Croydon Foodbank, both in the Trussell network, supply emergency parcels, while The Vine and Salvation Army projects serve New Addington. The big food-redistribution and foodbank networks and many small mutual-aid projects all draw volunteers across this south London borough.",
+   "The sector here runs at every size. National and regional charities keep shops and central buying alongside hospice and community fundraising, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Thornton Heath, New Addington and Selsdon. We are set up to serve the national charity with shops on every high street and the one-room foodbank alike, with trade accounts for the big buyers and direct online ordering, no minimum, for the smallest group."
+  ],
+  "kit_loc": "across the town's shops, foodbanks and community events",
+  "s2_intro": "Whether you are a national charity with shops across Croydon, a FareShare-supplied community group or a small volunteer-run foodbank in Sutton"
+ },
+ "bournemouth": {
+  "region": "Bournemouth and Dorset",
+  "nearby": [
+   "Poole",
+   "Christchurch",
+   "Ferndown"
+  ],
+  "s1_head": "Charity and volunteer kit across Bournemouth",
+  "s1loc": [
+   "Bournemouth Foodbank, run with local churches in the Trussell network, gives emergency food from sites at Moordown, Lansdowne and St George's Methodist Church, with Faithworks linking money advice into the hubs and a separate Kinson and West Howe Food Bank serving the west of town. FareShare pop-up larders move surplus food from the trade to community groups across Dorset. The big food-redistribution and foodbank networks and many small volunteer-run projects all draw helpers across this Dorset coastal town.",
+   "The sector here runs at every size. National and regional charities keep shops and central buying alongside hospice and community fundraising, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Boscombe, Moordown and Kinson. We are set up to serve the national charity with shops on every high street and the one-room foodbank alike, with trade accounts for the big buyers and direct online ordering, no minimum, for the smallest group."
+  ],
+  "kit_loc": "across the town's shops, foodbanks and community events",
+  "s2_intro": "Whether you are a national charity with shops across Bournemouth, a FareShare-supplied community group or a small volunteer-run foodbank in Poole"
+ },
+ "southend-on-sea": {
+  "region": "Southend-on-Sea and south Essex",
+  "nearby": [
+   "Basildon",
+   "Rayleigh",
+   "Wickford"
+  ],
+  "s1_head": "Charity and volunteer kit across Southend",
+  "s1loc": [
+   "Southend Foodbank, in the Trussell network, runs emergency food across the city with referrals coordinated through a local Food Poverty Partnership, while SAVS, the council for voluntary service, supports the wider charity sector. Trust Links runs mental health and community garden projects, HARP serves the homeless from the Bradbury Centre, and the Essex Community Foundation administers the Southend Community Fund. The big food-redistribution and foodbank networks and many small volunteer-run projects all draw helpers across this Essex seaside city.",
+   "The sector here runs at every size. National and regional charities keep shops and central buying alongside hospice and community fundraising, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Westcliff, Shoeburyness and Leigh-on-Sea. We are set up to serve the national charity with shops on every high street and the one-room foodbank alike, with trade accounts for the big buyers and direct online ordering, no minimum, for the smallest group."
+  ],
+  "kit_loc": "across the town's shops, foodbanks and community events",
+  "s2_intro": "Whether you are a national charity with shops across Southend, a SAVS-supported community group or a small volunteer-run foodbank in Rayleigh"
+ },
+ "walsall": {
+  "region": "Walsall and the Black Country",
+  "nearby": [
+   "Bloxwich",
+   "Wednesbury",
+   "Willenhall"
+  ],
+  "s1_head": "Charity and volunteer kit across Walsall",
+  "s1loc": [
+   "Walsall North Foodbank and the Bloxwich and Blakenall Foodbank, both in the Trussell network, run emergency food across the borough, alongside Black Country Foodbank partners such as The Lamp, The Rock, Bridging the Gap and the Thomas Project. FareShare West Midlands moves surplus food from the trade to community groups, while One Walsall supports the wider voluntary sector and St Giles Hospice fundraises through its shops. The big food-redistribution and foodbank networks and many small mutual-aid projects all draw volunteers across this Black Country town.",
+   "The sector here runs at every size. National and regional charities keep shops and central buying alongside hospice and community fundraising, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Pelsall, Blakenall and Pleck. We are set up to serve the national charity with shops on every high street and the one-room foodbank alike, with trade accounts for the big buyers and direct online ordering, no minimum, for the smallest group."
+  ],
+  "kit_loc": "across the town's shops, foodbanks and community events",
+  "s2_intro": "Whether you are a national charity with shops across Walsall, a Black Country Foodbank-supplied community group or a small volunteer-run foodbank in Bloxwich"
+ }
+}

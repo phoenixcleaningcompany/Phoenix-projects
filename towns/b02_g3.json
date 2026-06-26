@@ -1,0 +1,79 @@
+{
+  "aberdeen": {
+    "region": "Aberdeen, North East Scotland",
+    "nearby": ["Dundee", "Arbroath", "Perth"],
+    "s1_head": "Charity and volunteer kit for Aberdeen",
+    "s1loc": [
+      "Aberdeen's food and volunteer sector leans on CFINE (Community Food Initiatives North East), the FareShare regional hub for the north-east that supplies foodbanks across the city and ran Scotland's first community pantry. The ARCHIE Foundation backs the Royal Aberdeen Children's Hospital, while Trussell-network projects such as Aberdeen South Foodbank, run by TLC, and Aberdeen North Foodbank hand out emergency parcels. Citizens Advice outreach reaches Torry, Mastrick and Tillydrone, and charity shops dot Union Street and the suburbs.",
+      "The sector here runs at every size. National and regional charities keep shops across the city and buy kit centrally through trade accounts, while small community groups, CFINE-supplied pantries and one-room volunteer foodbanks in Torry, Tillydrone and Mastrick run on a shoestring. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts for the big names and direct online ordering with no minimum for the smallest group."
+    ],
+    "kit_loc": "across the city's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Aberdeen, a CFINE-supplied community group or a small volunteer-run foodbank in Arbroath"
+  },
+  "reading": {
+    "region": "Reading, Berkshire",
+    "nearby": ["Wokingham", "Bracknell", "Woodley"],
+    "s1_head": "Charity and volunteer kit for Reading",
+    "s1loc": [
+      "Reading's charity scene is anchored by ReadiFood, the long-running independent foodbank run by Reading FAITH that sends out 150 to 180 parcels a week, and by Launchpad, the town's homelessness-prevention charity on Friar Street. Reading Voluntary Action supports hundreds of local groups, while Berkshire Community Foundation channels grants across the county. Trussell-network and independent foodbanks operate nearby, alongside the Woodley Food Store and busy charity shops in the town centre and the suburbs.",
+      "The sector here runs at every size. Regional charities hold shops across Reading and buy through central trade accounts, while small community groups, food stores and volunteer-run foodbanks in Whitley, Caversham and Tilehurst run on a shoestring. We are built to serve the national charity and the one-room foodbank alike, offering trade accounts for the larger names and direct online ordering with no minimum for the smallest volunteer project."
+    ],
+    "kit_loc": "across the city's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Reading, a ReadiFood-supplied community group or a small volunteer-run foodbank in Wokingham"
+  },
+  "northampton": {
+    "region": "Northampton, Northamptonshire",
+    "nearby": ["Wellingborough", "Kettering", "Rushden"],
+    "s1_head": "Charity and volunteer kit for Northampton",
+    "s1loc": [
+      "Northampton's voluntary sector is held together by Re:store Northampton, which tackles poverty through emergency food and crisis support, and by the Northamptonshire Community Foundation, the county's leading grant-maker awarding over a million pounds a year to local groups. Cynthia Spencer Hospice runs palliative care and a chain of charity shops, while the big food-redistribution and foodbank networks, including FareShare and Trussell, keep parcels moving. Charity shops and volunteer projects fill the Market Square and the surrounding estates.",
+      "The sector here runs at every size. National and regional charities keep shops across Northampton and buy kit centrally on trade accounts, while small community groups, pantries and volunteer-run foodbanks in Kingsthorpe, Far Cotton and St James run on a shoestring. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts for the established names and direct online ordering with no minimum for the smallest group."
+    ],
+    "kit_loc": "across the city's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Northampton, a FareShare-supplied community group or a small volunteer-run foodbank in Wellingborough"
+  },
+  "luton": {
+    "region": "Luton, Bedfordshire",
+    "nearby": ["Dunstable", "Hitchin", "Hemel Hempstead"],
+    "s1_head": "Charity and volunteer kit for Luton",
+    "s1loc": [
+      "Luton's charity sector spans Luton Foodbank, the community-benefit society handing out emergency food from sites such as Futures House on the Marsh Farm estate, and Level Trust, which fights education poverty for local families. Keech Hospice Care runs end-of-life services and a network of charity shops, while FoodCycle serves free hot meals and the big food-redistribution and foodbank networks, FareShare and Trussell, supply parcels. Charity shops and mutual-aid groups span Bury Park, the town centre and beyond.",
+      "The sector here runs at every size. National and regional charities keep shops across Luton and buy kit centrally through trade accounts, while small community groups, pantries and volunteer-run foodbanks in Marsh Farm, Bury Park and Leagrave run on a shoestring. We are built to serve the national charity and the one-room foodbank alike, offering trade accounts for the bigger names and direct online ordering with no minimum for the smallest volunteer project."
+    ],
+    "kit_loc": "across the city's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Luton, a FareShare-supplied community group or a small volunteer-run foodbank in Dunstable"
+  },
+  "portsmouth": {
+    "region": "Portsmouth, Hampshire",
+    "nearby": ["Gosport", "Fareham", "Havant"],
+    "s1_head": "Charity and volunteer kit for Portsmouth",
+    "s1loc": [
+      "Portsmouth's charity life runs through Portsmouth Foodbank, part of the Trussell network handing out three-day emergency parcels across the city, and HIVE Portsmouth, which coordinates volunteers and a directory of local food banks. Rowans Hospice cares for people with life-limiting illness and runs charity shops in Fratton, Cosham, Southsea and Farlington. The big food-redistribution networks, FareShare and Trussell, keep supplies flowing, and charity shops line Fratton Road and the wider city.",
+      "The sector here runs at every size. National and regional charities keep shops across Portsmouth and buy kit centrally on trade accounts, while small community groups, pantries and volunteer-run foodbanks in Fratton, Cosham and Buckland run on a shoestring. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts for the established names and direct online ordering with no minimum for the smallest group."
+    ],
+    "kit_loc": "across the city's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Portsmouth, a FareShare-supplied community group or a small volunteer-run foodbank in Gosport"
+  },
+  "peterborough": {
+    "region": "Peterborough, Cambridgeshire",
+    "nearby": ["Spalding", "Stamford", "Corby"],
+    "s1_head": "Charity and volunteer kit for Peterborough",
+    "s1loc": [
+      "Peterborough's voluntary sector includes Peterborough Foodbank, running Trussell-network centres at Bretton, the Salvation Army, KingsGate Community Church, Dogsthorpe and Hampton, and the Light Project Peterborough, which runs the night shelter, Garden House and street chaplaincy. Sue Ryder Thorpe Hall Hospice provides specialist palliative care and charity shops, while the big food-redistribution networks, FareShare and Trussell, move surplus food. Charity shops and volunteer groups fill Cathedral Square and the estates around it.",
+      "The sector here runs at every size. National and regional charities keep shops across Peterborough and buy kit centrally through trade accounts, while small community groups, pantries and volunteer-run foodbanks in Bretton, Dogsthorpe and Orton run on a shoestring. We are built to serve the national charity and the one-room foodbank alike, offering trade accounts for the bigger names and direct online ordering with no minimum for the smallest volunteer project."
+    ],
+    "kit_loc": "across the city's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Peterborough, a FareShare-supplied community group or a small volunteer-run foodbank in Stamford"
+  },
+  "bolton": {
+    "region": "Bolton, Greater Manchester",
+    "nearby": ["Bury", "Wigan", "Horwich"],
+    "s1_head": "Charity and volunteer kit for Bolton",
+    "s1loc": [
+      "Bolton's charity sector is led by Urban Outreach, the Christian charity behind Storehouse Foodbank and the FareShare-supplied Bolton Food Hub, working with Bolton at Home, Bolton Council and Bolton CVS as part of the wider Bolton Family. Bolton at Home runs low-cost community pantries, while the Trussell-network Farnworth and Kearsley Foodbank, based at The Well, covers the BL4 area. Bolton Hospice runs care and charity shops, and volunteer groups span the town centre and the estates.",
+      "The sector here runs at every size. National and regional charities keep shops across Bolton and buy kit centrally on trade accounts, while small community groups, pantries and volunteer-run foodbanks in Farnworth, Kearsley and Halliwell run on a shoestring. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts for the established names and direct online ordering with no minimum for the smallest group."
+    ],
+    "kit_loc": "across the city's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Bolton, an Urban Outreach-supplied community group or a small volunteer-run foodbank in Bury"
+  }
+}

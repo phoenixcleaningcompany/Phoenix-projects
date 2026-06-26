@@ -1,0 +1,79 @@
+{
+  "bradford": {
+    "region": "Bradford and West Yorkshire",
+    "nearby": ["Leeds", "Halifax", "Keighley"],
+    "s1_head": "Charity and volunteer kit across Bradford",
+    "s1loc": [
+      "Bradford's emergency food network runs through Bradford Central Foodbank and Bradford North Foodbank, both independent local charities in the Trussell network, while FareShare moves surplus food from the trade to community groups across the district. Sue Ryder runs a large superstore in the city raising money for Manorlands hospice near Keighley, and Marie Curie, the big food-redistribution and foodbank networks and dozens of small mutual-aid projects all draw volunteers from across the West Yorkshire city.",
+      "The sector here runs at every size. National and regional charities keep shops and central buying alongside hospice and air-ambulance fundraising, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Manningham, Holme Wood and Keighley. We are set up to serve the national charity with shops on every high street and the one-room foodbank alike, with trade accounts for the big buyers and direct online ordering, no minimum, for the smallest group."
+    ],
+    "kit_loc": "across the city's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Bradford, a FareShare-supplied community group or a small volunteer-run foodbank in Leeds"
+  },
+  "coventry": {
+    "region": "Coventry and the West Midlands",
+    "nearby": ["Nuneaton", "Bedworth", "Leamington Spa"],
+    "s1_head": "Charity and volunteer kit across Coventry",
+    "s1loc": [
+      "Coventry Foodbank, part of the Trussell network, runs centres through thirteen partner churches and gives out more than twenty thousand emergency parcels a year, while FareShare Midlands redistributes surplus food to charities and community groups across the region. The Myton Hospices fund care through more than twenty-five shops across Coventry and Warwickshire, Voluntary Action Coventry connects local groups, and the Heart of England Community Foundation channels grants to grassroots projects city-wide.",
+      "The sector here runs at every size. National and regional charities keep shops and central buying behind them, from Myton's chain to the big medical-research names, while small community groups, foodbanks, pantries and volunteer-run projects scrape by on a shoestring across Foleshill, Hillfields and Earlsdon. We are set up to serve the national charity with shops across the city and the one-room foodbank alike, with trade accounts for the central buyers and direct online ordering, no minimum, for the smallest volunteer group."
+    ],
+    "kit_loc": "across the city's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Coventry, a FareShare Midlands-supplied community group or a small volunteer-run foodbank in Nuneaton"
+  },
+  "nottingham": {
+    "region": "Nottingham and Nottinghamshire",
+    "nearby": ["West Bridgford", "Arnold", "Beeston"],
+    "s1_head": "Charity and volunteer kit across Nottingham",
+    "s1loc": [
+      "Hope Nottingham holds the Trussell franchise for the city and runs fourteen foodbanks with local churches, while Himmah operates one of Nottingham's largest food banks, handing out well over eleven thousand parcels a year. FareShare Midlands works from a Nottingham warehouse redistributing surplus food to community groups, and the Nottinghamshire Community Foundation backs grassroots projects with grants across the county.",
+      "The sector here runs at every size. National and regional charities keep shops and central buying alongside hospice and research fundraising, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Hyson Green, St Ann's and Bulwell. We are set up to serve the national charity with shops across the city and the one-room foodbank alike, with trade accounts for the big central buyers and direct online ordering, no minimum, for the smallest volunteer-run project."
+    ],
+    "kit_loc": "across the city's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Nottingham, a FareShare Midlands-supplied community group or a small volunteer-run foodbank in Beeston"
+  },
+  "newcastle upon tyne": {
+    "region": "Newcastle upon Tyne and Tyne and Wear",
+    "nearby": ["Gateshead", "Sunderland", "South Shields"],
+    "s1_head": "Charity and volunteer kit across Newcastle",
+    "s1loc": [
+      "Newcastle Foodbank began in the west end and now runs seven hubs across the city, with its Pathways out of Hunger programme and a network of Community Pantries in areas of deprivation, while FareShare North East redistributes surplus food right across Tyne and Wear. The Community Foundation serving Tyne and Wear and Northumberland, based at Philanthropy House in Gosforth, funds local groups, and St Oswald's Hospice draws fundraising volunteers from across the city.",
+      "The sector here runs at every size. National and regional charities keep shops and central buying behind them, from hospice chains to the big research names, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Benwell, Walker and Byker. We are set up to serve the national charity with shops across the city and the one-room foodbank alike, with trade accounts for the central buyers and direct online ordering, no minimum, for the smallest volunteer group."
+    ],
+    "kit_loc": "across the city's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Newcastle upon Tyne, a FareShare North East-supplied community group or a small volunteer-run foodbank in Gateshead"
+  },
+  "sunderland": {
+    "region": "Sunderland and Tyne and Wear",
+    "nearby": ["South Shields", "Gateshead", "Washington"],
+    "s1_head": "Charity and volunteer kit across Sunderland",
+    "s1loc": [
+      "Sunderland Foodbank, part of the Trussell network, runs its store and distribution from Coronation Street and hands out emergency parcels across the city, while FareShare North East moves surplus food from the trade to community groups right across Wearside. The Community Foundation serving Tyne and Wear and Northumberland funds grassroots projects, St Benedict's Hospice draws fundraising volunteers, and the Sunderland Voluntary Sector Alliance connects the many smaller local groups.",
+      "The sector here runs at every size. National and regional charities keep shops and central buying behind them, from hospice chains to the big medical-research names, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Hendon, Pennywell and Hetton. We are set up to serve the national charity with shops across the city and the one-room foodbank alike, with trade accounts for the central buyers and direct online ordering, no minimum, for the smallest volunteer-run project."
+    ],
+    "kit_loc": "across the city's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Sunderland, a FareShare North East-supplied community group or a small volunteer-run foodbank in Washington"
+  },
+  "brighton": {
+    "region": "Brighton and East Sussex",
+    "nearby": ["Hove", "Worthing", "Shoreham-by-Sea"],
+    "s1_head": "Charity and volunteer kit across Brighton",
+    "s1loc": [
+      "The Brighton and Hove Food Partnership coordinates the city's food banks, community fridges and food hubs, while FareShare Sussex, which grew out of City Gate Community Projects, redistributes surplus food by van and e-cargo bike to community groups across the area. Sussex Surplus runs community fridges on estates such as Bristol Estate, The Martlets hospice raises funds through its shops, and many small mutual-aid and church projects keep emergency food flowing.",
+      "The sector here runs at every size. National and regional charities keep shops and central buying behind them, from hospice chains to the big environmental names, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Whitehawk, Moulsecoomb and Hangleton. We are set up to serve the national charity with shops along the seafront and the one-room foodbank alike, with trade accounts for the central buyers and direct online ordering, no minimum, for the smallest volunteer group."
+    ],
+    "kit_loc": "across the city's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Brighton, a FareShare Sussex-supplied community group or a small volunteer-run foodbank in Hove"
+  },
+  "plymouth": {
+    "region": "Plymouth and Devon",
+    "nearby": ["Saltash", "Newton Abbot", "Torquay"],
+    "s1_head": "Charity and volunteer kit across Plymouth",
+    "s1loc": [
+      "Plymouth Foodbank, part of the Trussell network, works from the Oasis Project on Manor Street giving emergency parcels to people in crisis, while a string of co-operative food clubs supplied through FareShare helps residents buy cheaper food and cut waste. St Luke's Hospice raises funds through its shops across the city, and the big food-redistribution and foodbank networks back dozens of small church and community projects citywide.",
+      "The sector here runs at every size. National and regional charities keep shops and central buying behind them, from St Luke's to the big medical-research names, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Devonport, Stonehouse and Ernesettle. We are set up to serve the national charity with shops across the city and the one-room foodbank alike, with trade accounts for the central buyers and direct online ordering, no minimum, for the smallest volunteer-run project."
+    ],
+    "kit_loc": "across the city's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Plymouth, a FareShare-supplied community group or a small volunteer-run foodbank in Saltash"
+  }
+}

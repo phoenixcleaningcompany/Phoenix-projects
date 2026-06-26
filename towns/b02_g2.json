@@ -1,0 +1,108 @@
+{
+ "hull": {
+  "region": "Hull, East Riding of Yorkshire",
+  "nearby": [
+   "Beverley",
+   "Cottingham",
+   "Hessle"
+  ],
+  "s1_head": "Charity and volunteer kit for Hull",
+  "s1loc": [
+   "Hull leans on a deep food-aid network. FareShare Hull and Humber, run from the Goodwin Development Trust, redistributes surplus food and runs a membership Community Pantry, while Hull Foodbank has fed people in crisis since 2011 as part of the Trussell network. Hull CVS, founded in 1981, backs volunteer and community groups across the city, including small grants for projects on the Bransholme estate, and Dove House Hospice cares for families across Hull and the East Riding.",
+   "The sector here runs at every size. National and regional charities keep shops and central buying behind them, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Orchard Park, Bransholme, Hessle Road and the city centre. Faith groups, mutual-aid teams and community fridges all add to the mix. We can clothe the national charity with its trade account and the one-room foodbank ordering direct online, no minimum, with equal care."
+  ],
+  "kit_loc": "across the city's shops, foodbanks and community events",
+  "s2_intro": "Whether you are a national charity with shops across Hull, a FareShare Hull and Humber-supplied community group or a small volunteer-run foodbank in Beverley"
+ },
+ "derby": {
+  "region": "Derby, Derbyshire",
+  "nearby": [
+   "Belper",
+   "Ilkeston",
+   "Long Eaton"
+  ],
+  "s1_head": "Charity and volunteer kit for Derby",
+  "s1loc": [
+   "Derby has a long-standing food-aid backbone. Derby City Mission on Normanton Road runs the city foodbank alongside debt and advice clinics, and most parcels lean on donated stock plus surplus from FareShare. Community Action Derby supports volunteer and community groups across the city and runs Warm Welcome Hubs, while Treetops Hospice, based at Risley, cares for adults with life-limiting conditions across central and southern Derbyshire. Rural Action Derbyshire helps seed community shops and pantries in the harder-pressed areas.",
+   "The sector here runs at every size. National and regional charities carry shops and central buying, while small community groups, foodbanks, pantries and volunteer-run projects scrape by on a shoestring across Normanton, Sinfin, Allenton and Chaddesden. Faith groups, mutual-aid teams and affordable-food schemes round out the picture. We can fit the national charity with its trade account and the single-room foodbank buying direct online, no minimum, with the same attention and the same budget care.",
+   "Derby's emergency-food map is dense and locally run. Derby City Mission operates its long-running foodbank from Normanton Road and coordinates parcels across the city, while the Padley Group runs the Padley@YMCA Derbyshire community pantry on Parcel Terrace alongside its homelessness and complex-needs work. Doorways Derby Foodbank sits on Osmaston Park Road in Allenton, and church and centre-based provision reaches out through Alvaston Churches Together and Sinfin Community Centre. FareShare Midlands feeds surplus into many of these projects, and Community Action Derby threads the voluntary sector together, running Warm Welcome Hubs at sites such as Sinfin Community Centre and St Martin's in Allenton. Treetops Hospice Care, based at Risley near the city, draws fundraising and volunteer effort from across Derby and south Derbyshire. From Normanton and Sinfin to Alvaston and Allenton, the picture is small Christian missions, neighbourhood pantries and big redistribution networks all leaning on local volunteers who give time sorting, packing and driving week after week. Foundation Derbyshire channels grants to grassroots groups across the city and county, supporting volunteer-run pantries, community centres and charity shops the length of Derby."
+  ],
+  "kit_loc": "across the city's shops, foodbanks and community events",
+  "s2_intro": "Whether you are a national charity with shops across Derby, a FareShare-supplied community group or a small volunteer-run foodbank in Long Eaton"
+ },
+ "southampton": {
+  "region": "Southampton, Hampshire",
+  "nearby": [
+   "Eastleigh",
+   "Totton",
+   "Fareham"
+  ],
+  "s1_head": "Charity and volunteer kit for Southampton",
+  "s1loc": [
+   "Southampton runs a busy food-aid scene. Southampton City Mission has given out food and clothing through its Basics Banks since 1996, working through referral agents across the city, while FareShare Southern Central, set up in 2014 and based in a Southampton warehouse, supplies surplus food to around 150 charities and community organisations across Hampshire and the Isle of Wight. Mountbatten Hampshire, the local hospice, runs care and a chain of charity shops serving Southampton, Eastleigh and the wider county.",
+   "The sector here runs at every size. National and regional charities bring shops and central buying, while small community groups, foodbanks, pantries and volunteer-run projects manage on a shoestring across Shirley, Bitterne, Woolston and Lordshill. Churches, mutual-aid teams and basics banks all play their part. We can outfit the national charity on its trade account and the one-room foodbank ordering direct online, no minimum, with equal weight, keeping every pound off the kit and on the cause."
+  ],
+  "kit_loc": "across the city's shops, foodbanks and community events",
+  "s2_intro": "Whether you are a national charity with shops across Southampton, a FareShare Southern Central-supplied community group or a small volunteer-run foodbank in Eastleigh"
+ },
+ "stoke-on-trent": {
+  "region": "Stoke-on-Trent, Staffordshire",
+  "nearby": [
+   "Newcastle-under-Lyme",
+   "Kidsgrove",
+   "Biddulph"
+  ],
+  "s1_head": "Charity and volunteer kit for Stoke-on-Trent",
+  "s1loc": [
+   "Stoke-on-Trent has a tight community sector. Stoke-on-Trent Foodbank has helped local people since 2012 as part of the Trussell network, with collection points across the six towns, and VAST is the city's voluntary-sector support body that backs the StokeOnTrentTogether food work. FareShare Midlands feeds surplus stock to organisations across the West Midlands, and the city runs a string of community pantries that help residents cut weekly food bills.",
+   "The sector here runs at every size. National and regional charities carry shops and central buying, while small community groups, foodbanks, pantries and volunteer-run projects get by on a shoestring across Hanley, Burslem, Tunstall, Longton and Fenton. Church halls, mutual-aid groups and warm spaces all add weight. We can dress the national charity on its trade account and the single-room foodbank ordering direct online, no minimum, with equal care, keeping the kit affordable so funds stay with the cause."
+  ],
+  "kit_loc": "across the city's shops, foodbanks and community events",
+  "s2_intro": "Whether you are a national charity with shops across Stoke-on-Trent, a FareShare Midlands-supplied community group or a small volunteer-run foodbank in Newcastle-under-Lyme"
+ },
+ "wolverhampton": {
+  "region": "Wolverhampton, West Midlands",
+  "nearby": [
+   "Bilston",
+   "Wednesbury",
+   "Walsall"
+  ],
+  "s1_head": "Charity and volunteer kit for Wolverhampton",
+  "s1loc": [
+   "Wolverhampton has a strong front line of help. The Good Shepherd on Waterloo Road serves hot meals and hands out family food bags, while FoodCycle Wolverhampton cooks free community meals from surplus food. Wolverhampton Voluntary and Community Action, formerly WVSC, supports local charities, community groups and social enterprises, and Compton Care provides hospice care across the city and beyond. FareShare Midlands keeps surplus food flowing to organisations right across the West Midlands.",
+   "The sector here runs at every size. National and regional charities bring shops and central buying, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Bilston, Ettingshall, Wednesfield and Whitmore Reans. Faith centres, mutual-aid teams and community kitchens all chip in. We can kit out the national charity on its trade account and the one-room foodbank ordering direct online, no minimum, with the same care and the same eye on the budget."
+  ],
+  "kit_loc": "across the city's shops, foodbanks and community events",
+  "s2_intro": "Whether you are a national charity with shops across Wolverhampton, a FareShare Midlands-supplied community group or a small volunteer-run foodbank in Bilston"
+ },
+ "swansea": {
+  "region": "Swansea, West Glamorgan",
+  "nearby": [
+   "Neath",
+   "Llanelli",
+   "Port Talbot"
+  ],
+  "s1_head": "Charity and volunteer kit for Swansea",
+  "s1loc": [
+   "Swansea has a wide food-support map. FareShare Cymru shares surplus food and maps community pantries, fridges and luncheon clubs across Wales, while Swansea Foodbank runs as part of the Trussell network and Caer Las hosts a Community Fridge at Customs House on Cambrian Place. Swansea Council for Voluntary Service, the SCVS, is the umbrella body backing volunteers and community groups across the city, and Ty Olwen at Morriston Hospital provides specialist palliative and hospice care.",
+   "The sector here runs at every size. National and regional charities carry shops and central buying, while small community groups, foodbanks, pantries and volunteer-run projects scrape along on a shoestring across Morriston, Sketty, Townhill and the city centre. Chapels, mutual-aid teams and food-sharing schemes all add to it. We can clothe the national charity on its trade account and the one-room foodbank ordering direct online, no minimum, with equal weight, keeping every pound off the kit and on the cause."
+  ],
+  "kit_loc": "across the city's shops, foodbanks and community events",
+  "s2_intro": "Whether you are a national charity with shops across Swansea, a FareShare Cymru-supplied community group or a small volunteer-run foodbank in Neath"
+ },
+ "milton keynes": {
+  "region": "Milton Keynes, Buckinghamshire",
+  "nearby": [
+   "Bedford",
+   "Dunstable",
+   "Kempston"
+  ],
+  "s1_head": "Charity and volunteer kit for Milton Keynes",
+  "s1loc": [
+   "Milton Keynes has a busy food-aid network. MK Food Bank offers short-term crisis support to families and individuals across the city, and FareShare South Midlands, based in Bletchley and run with the charity SOFEA, has redistributed surplus food to charities and community groups since 2019. The MK Community Fridge is open to all with no criteria for sharing food, and Willen Hospice provides specialist palliative care for people across Milton Keynes and the surrounding area.",
+   "The sector here runs at every size. National and regional charities bring shops and central buying, while small community groups, foodbanks, pantries and volunteer-run projects manage on a shoestring across Bletchley, Wolverton, Stony Stratford and the central districts. Faith groups, mutual-aid teams and community fridges all play a part. We can fit out the national charity on its trade account and the single-room foodbank ordering direct online, no minimum, with equal weight and the same budget care."
+  ],
+  "kit_loc": "across the city's shops, foodbanks and community events",
+  "s2_intro": "Whether you are a national charity with shops across Milton Keynes, a FareShare South Midlands-supplied community group or a small volunteer-run foodbank in Bedford"
+ }
+}

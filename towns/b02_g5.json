@@ -1,0 +1,79 @@
+{
+  "warrington": {
+    "region": "Warrington, Cheshire",
+    "nearby": ["Widnes", "Runcorn", "St Helens"],
+    "s1_head": "Charity and volunteer kit in Warrington",
+    "s1loc": [
+      "Warrington Foodbank, in the Trussell network, handed out close to 8,000 parcels in a recent year, while Warrington Voluntary Action coordinates the Warrington Food Network of churches, charities and community groups. St Rocco's Hospice has cared for the town since 1985 from its Lockton Lane base in Bewsey, funding it through shops in Latchford, Orford and Stockton Heath. The Bread and Butter Thing runs an affordable food service from Latchford Community Hub at St Margaret's, with pantries and food clubs spread across the borough.",
+      "The sector here runs at every size. National and regional charities keep shops along the high street and order kit through central buying accounts, while small community groups, the big food-redistribution and foodbank networks, affordable food pantries and volunteer-run projects make do on a shoestring across Latchford, Orford, Bewsey and Stockton Heath. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts for the larger names and direct online ordering with no minimum for everyone else."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Warrington, a Bread and Butter Thing-supplied community group or a small volunteer-run foodbank in Widnes"
+  },
+  "slough": {
+    "region": "Slough, Berkshire",
+    "nearby": ["Maidenhead", "Windsor", "Uxbridge"],
+    "s1_head": "Charity and volunteer kit in Slough",
+    "s1loc": [
+      "Slough Foodbank, an independent charity backed by local churches in the Trussell network, runs distribution centres at Slough Baptist Church on Windsor Road, Langley Free Church, St Andrew's in Cippenham and Britwell Community Centre. Thames Hospice, founded by parishioners of St Anthony's RC Church in Slough, provides palliative care across Berkshire, raising funds through its charity shops. Alongside them sit faith groups, mutual-aid networks and the big food-redistribution and foodbank networks that keep food moving to households in crisis.",
+      "The sector here runs at every size. National and regional charities keep shops across the town and buy kit through central trade accounts, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Chalvey, Cippenham, Langley and Britwell. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts for the bigger names and direct online ordering with no minimum so every volunteer-run project keeps more of every pound on the cause."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Slough, a Trussell-network foodbank or a small volunteer-run pantry in Windsor"
+  },
+  "huddersfield": {
+    "region": "Huddersfield, West Yorkshire",
+    "nearby": ["Brighouse", "Dewsbury", "Mirfield"],
+    "s1_head": "Charity and volunteer kit in Huddersfield",
+    "s1loc": [
+      "The Welcome Centre on Lord Street is the main foodbank for Kirklees, providing parcels and essentials on referral, while the Kirklees Emergency Food Providers Network brings food aid groups, agency workers and the council together. Colne Valley Help offers food support across the valley, and Affordable Food Clubs and community pantries run through the week alongside the big food-redistribution and foodbank networks. The town also keeps a strong charity-shop presence on its high streets, raising funds for national and local causes alike.",
+      "The sector here runs at every size. National and regional charities keep shops across the town and order kit through central buying accounts, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Marsh, Lockwood, Dalton and the Colne Valley. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts for the larger names and direct online ordering with no minimum so the smallest project keeps every pound on the cause."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Huddersfield, a Welcome Centre-linked community group or a small volunteer-run foodbank in Brighouse"
+  },
+  "telford": {
+    "region": "Telford, Shropshire",
+    "nearby": ["Shrewsbury", "Oswestry", "Cannock"],
+    "s1_head": "Charity and volunteer kit in Telford",
+    "s1loc": [
+      "Telford Crisis Support has run the town's foodbank since 2013 from Halesfield, handing out emergency food, toiletries and clothing, and many Shropshire Methodist churches work alongside it. Severn Hospice cares for the area from Apley, funding its work through charity shops including a Telford branch, with Donnington friends groups fundraising year round. Dawley Christian Centre runs an advice and food service, and the big food-redistribution and foodbank networks keep supplies reaching households across Madeley, Oakengates and the wider new town.",
+      "The sector here runs at every size. National and regional charities keep shops across the town and buy kit through central trade accounts, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Madeley, Dawley, Oakengates and Donnington. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts for the bigger names and direct online ordering with no minimum so every volunteer-run project keeps more of every pound on the cause."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Telford, a Telford Crisis Support-linked community group or a small volunteer-run foodbank in Shrewsbury"
+  },
+  "newport": {
+    "region": "Newport, Gwent, South Wales",
+    "nearby": ["Cwmbran", "Cardiff", "Pontypool"],
+    "s1_head": "Charity and volunteer kit in Newport",
+    "s1loc": [
+      "Raven House Trust runs a food bank across Gwent, while Feed Newport provides a food bank, soup kitchen and warm hub for people facing poverty and homelessness. Community pantries include the Maindee Food Pantry at Maindee Library and the Pill Millennium Centre pantry in Pillgwenlly, both cutting food waste while feeding households. St David's Hospice Care, based on Blackett Avenue, has given free care for over four decades, and the Gwent Association of Voluntary Organisations supports food banks and community groups with grants.",
+      "The sector here runs at every size. National and regional charities keep shops across the city and order kit through central buying accounts, while small community groups, the big food-redistribution and foodbank networks, pantries and volunteer-run projects work on a shoestring across Pillgwenlly, Maindee, Bettws and Ringland. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts for the larger names and direct online ordering with no minimum so the smallest project keeps every pound on the cause."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Newport, a Raven House Trust-supplied community group or a small volunteer-run foodbank in Cwmbran"
+  },
+  "oxford": {
+    "region": "Oxford, Oxfordshire",
+    "nearby": ["Abingdon", "Bicester", "Didcot"],
+    "s1_head": "Charity and volunteer kit in Oxford",
+    "s1loc": [
+      "Oxford Mutual Aid delivers food parcels across the city, while SOFEA, partnered with FareShare, redistributes hundreds of tonnes of surplus food a month and supplies pantries through the county. Oxford Food Hub, formerly Oxford Food Bank, moves surplus from wholesalers to charities, and the Rose Hill Community Larder makes good food affordable. Sobell House Hospice, founded in 1976 as one of the UK's earliest, cares for Oxfordshire, and Oxfordshire Community and Voluntary Action acts as the hub for the city's community groups.",
+      "The sector here runs at every size. National and regional charities keep shops across the city and order kit through central trade accounts, while small community groups, the big food-redistribution and foodbank networks, larders and volunteer-run projects work on a shoestring across Cowley, Blackbird Leys, Rose Hill and Headington. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts for the bigger names and direct online ordering with no minimum so every volunteer-run project keeps more of every pound on the cause."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Oxford, a SOFEA-supplied community group or a small volunteer-run foodbank in Abingdon"
+  },
+  "poole": {
+    "region": "Poole, Dorset",
+    "nearby": ["Bournemouth", "Christchurch", "Ferndown"],
+    "s1_head": "Charity and volunteer kit in Poole",
+    "s1loc": [
+      "Poole Food Bank works in partnership with Faithworks Wessex, with its Jimmy's hub at St James' Church Centre in the town centre and satellites at St Clement's, St Gabriel's and Calvary Pentecostal churches. Community Fridges in Branksome and Rossmore libraries share surplus food, and the big food-redistribution and foodbank networks keep supplies moving. Lewis-Manning Hospice gives free palliative care to Poole and the surrounding towns, while Dorset Community Foundation has granted almost 14 million pounds to local causes since 2000.",
+      "The sector here runs at every size. National and regional charities keep shops across the town and buy kit through central trade accounts, while small community groups, foodbanks, fridges and volunteer-run projects work on a shoestring across Hamworthy, Branksome, Canford Heath and Parkstone. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts for the bigger names and direct online ordering with no minimum so the smallest project keeps every pound on the cause."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Poole, a Faithworks Wessex-supported community group or a small volunteer-run foodbank in Bournemouth"
+  }
+}
