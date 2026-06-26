@@ -1,0 +1,93 @@
+{
+  "Maesteg": {
+    "region": "Maesteg and the Llynfi Valley",
+    "nearby": ["Bridgend", "Port Talbot", "Aberdare"],
+    "s1_head": "Kitting the visitor economy of the Llynfi Valley",
+    "s1loc": [
+      "Maesteg, the former ironworks and colliery town whose name means Fair Field, anchors its visitor draw at the head of the Llynfi Valley on the restored Maesteg Town Hall, the Grade II civic landmark above the triangular market place reopened as a cultural and events hub. The Maesteg Sports Centre, housed in the Cornstores blast-engine house of the old Llynfi Ironworks, and the heritage of the Maesteg Ironworks and Coegnant Colliery give the town a genuine industrial sense of place across the warmer season in Bridgend county.",
+      "The leisure and activity layer centres on the Spirit of Llynfi Woodland, the community woodland laid out on the former Coegnant Colliery and Maesteg Washery site, where the Keeper of the Colliery oak sculpture of a miner stands among the new trees and waymarked Llynfi Valley walks climb the eastern slopes. Bryngarw Country Park near Brynmenyn, with its formal gardens, riverside meadows and woodland trails, gives families and activity operators a steady outdoor offer through the season.",
+      "Heritage and culture run two miles south to Llangynwyd, the hilltop village of St Cynwyd's Church founded in the sixth century, the ruins of Llangynwyd Castle and the Old House, one of the oldest pubs in Wales traced to 1147. The village still keeps the Mari Lwyd horse-skull custom alive on New Year's Day, when singers carry the decorated Mari from door to door, carrying the events calendar through the colder months in the valley.",
+      "Underpinning it all is an inn and guesthouse trade serving the Llynfi and Bridgend visitor area, with a guide scene built on mining-heritage, woodland and Welsh-folk-custom tours. Maesteg station runs the Maesteg Line direct trains down the valley to Bridgend and on to Cardiff Central, while the A4063, the Bwlch mountain road and the A4107 carry day-trippers out toward the Afan Valley, Margam and the towns of Bridgend, Port Talbot and Aberdare across the season."
+    ],
+    "kit_loc": "across the valley's halls, woodland and visitor sites",
+    "s2_intro": "Whether you are a major Maesteg attraction or hotel group, a heritage site or a small independent activity centre in Bridgend"
+  },
+  "Buckley": {
+    "region": "Buckley and Flintshire",
+    "nearby": ["Wrexham", "Ellesmere Port", "Prestatyn"],
+    "s1_head": "Kitting the visitor economy of Flintshire pottery country",
+    "s1loc": [
+      "Buckley, the old North Wales pottery and brickworks town, anchors its visitor draw on its clay heritage, where thirty-one recorded potteries from the mid-1400s to the Olive Hayes pottery on Etna Road worked the local fireclay. The fine collection of Buckley slipware and brown earthenware, including the Martin Harrison Collection, is shown in the Heritage Centre at Buckley Library, Museum and Gallery, giving the town a genuine industrial story across the warmer season in Flintshire.",
+      "The leisure and activity layer centres on The Common, the large area of common land at Hawkesbury owned by the people of the town, with its big children's playground, duck pond and open recreation ground used for walking, kickabouts and the famous march. Knowle Hill and the green ridge above the town, plus the nearby trails and country lanes toward Ewloe and Mold, give families and activity operators a steady outdoor offer through the season.",
+      "Heritage and culture run through St Matthew's Church, the oldest parish church in the town consecrated in 1822 and rebuilt by Douglas and Minshull at the turn of the century, and the Buckley Jubilee, the ceremonial march over 200 years old begun in 1856 and held on the second Tuesday of July, when bands and banners process from The Common. The Buckley Society talks at Hawkesbury Community Centre carry the events calendar through the year.",
+      "Underpinning it all is an inn and guesthouse trade serving the Flintshire and Deeside visitor area, with a guide scene built on pottery, church and Jubilee-heritage tours. The Wrexham to Bidston Borderlands line runs Buckley station trains toward Wrexham and the Wirral, while the A549, A55 expressway and the A494 carry day-trippers out toward Ewloe Castle, Mold and the towns of Wrexham, Ellesmere Port and Prestatyn across the season."
+    ],
+    "kit_loc": "across the town's museum, common and visitor sites",
+    "s2_intro": "Whether you are a major Buckley attraction or hotel group, a heritage site or a small independent activity centre in Wrexham"
+  },
+  "Hythe": {
+    "region": "Hythe and the Kent coast",
+    "nearby": ["Folkestone", "Dover", "Ashford"],
+    "s1_head": "Kitting the visitor economy of the Kent coast",
+    "s1loc": [
+      "Hythe, one of the medieval Cinque Ports on the Kent coast, anchors its visitor economy on the Royal Military Canal, the twenty-eight-mile waterway begun in 1804 during the Napoleonic Wars and now a tree-lined walking and boating route running from Seabrook along the edge of Romney Marsh. The wide shingle beach and seafront promenade, quieter than neighbouring Folkestone and Dymchurch, draw strollers and fishing boats across the warmer season on this stretch of the south coast.",
+      "The leisure and activity layer is led by the Romney, Hythe and Dymchurch Railway, the world-famous one-third-scale miniature steam railway known as Kent's mainline in miniature, running thirteen and a half miles from Hythe station through the Romney Marshes to Dungeness and its National Nature Reserve. Boating and walking along the Royal Military Canal, the venice-in-miniature canal cruises and the marsh trails give families and activity operators a steady outdoor offer through the season.",
+      "Heritage and culture centre on St Leonard's Church, the Norman parish church on the hill whose crypt ossuary holds one of Britain's largest collections of ancient skulls and bones, with around a thousand skulls ranged in arched bays. The narrow medieval lanes climbing from the High Street, the Hythe Venetian Fete on the canal and the town's festival and antiques calendar carry visitors through the year in this Cinque Port.",
+      "Underpinning it all is a hotel, inn and guesthouse trade serving the Hythe and Romney Marsh visitor area, with a guide scene built on canal, miniature-railway and Cinque-Port tours. Sandling station nearby runs trains toward Ashford and the coast, while the A259, the M20 and the high-speed line from Ashford International carry day-trippers out toward Port Lympne, Dungeness and the towns of Folkestone, Dover and Ashford across the season."
+    ],
+    "kit_loc": "across the coast's canal, railway and visitor sites",
+    "s2_intro": "Whether you are a major Hythe attraction or hotel group, a heritage site or a small independent activity centre in Folkestone"
+  },
+  "Berkhamsted": {
+    "region": "Berkhamsted and the Chilterns",
+    "nearby": ["Hemel Hempstead", "Chesham", "Watford"],
+    "s1_head": "Kitting the visitor economy of the Chiltern foothills",
+    "s1loc": [
+      "Berkhamsted, the Hertfordshire market town in the Bulbourne valley, anchors its visitor economy on Berkhamsted Castle, the English Heritage motte-and-bailey fortress built in the eleventh century where William the Conqueror received the surrender of London and which the Black Prince and Thomas Becket both knew. The grassy earthworks, double moat and flint ruins beside the railway, with the High Street following the line of the Roman Akeman Street, give the town a marquee heritage draw across the warmer season in the Chilterns.",
+      "The leisure and activity layer runs along the Grand Union Canal, which climbs through the town past a flight of locks with waterside pubs and towpath walking and cycling, and out to the Ashridge Estate, the National Trust's five-thousand-acre sweep of Chiltern woodland, chalk downland and commons famous for its spring bluebells, the Bridgewater Monument and autumn colour. Berkhamsted Common and the surrounding hills give families and activity operators a steady outdoor offer through the season.",
+      "Heritage and culture centre on the Rex Cinema, the lovingly restored 1930s art deco picture house reopened in 2004 with its luxurious seating and varied programme, and on the town's historic High Street, home to the oldest known jettied timber-framed building in Britain, thought to date from the late thirteenth century. St Peter's Church, the birthplace of the poet William Cowper and the town's festival calendar carry visitors through the year.",
+      "Underpinning it all is a hotel, inn and guesthouse trade serving the west Hertfordshire and Chilterns visitor area, with a guide scene built on castle, canal and Ashridge-estate tours. Berkhamsted station runs fast trains to London Euston and Milton Keynes on the West Coast Main Line, while the A4251, A41 and the canal towpath carry day-trippers out toward Tring, the Ashridge woods and the towns of Hemel Hempstead, Chesham and Watford across the season."
+    ],
+    "kit_loc": "across the town's castle, canal and visitor sites",
+    "s2_intro": "Whether you are a major Berkhamsted attraction or hotel group, a heritage site or a small independent activity centre in Hemel Hempstead"
+  },
+  "Dumbarton": {
+    "region": "Dumbarton and the Clyde",
+    "nearby": ["Clydebank", "Glasgow", "Paisley"],
+    "s1_head": "Kitting the visitor economy of the lower Clyde",
+    "s1loc": [
+      "Dumbarton, the ancient capital of the kingdom of Strathclyde and administrative heart of West Dunbartonshire, anchors its visitor economy on Dumbarton Castle, the Historic Environment Scotland stronghold dramatically sited on Dumbarton Rock, the twin-peaked volcanic plug rising above the River Clyde. With the longest recorded history of any fortress in Scotland and views from its Governor's House and White Tower Crag over the Clyde and Loch Lomond hills, the Rock of the Clyde draws heritage visitors across the warmer season.",
+      "The leisure and activity layer makes the most of the town's position as a gateway to Loch Lomond and the Trossachs National Park, with walking, cycling and watersports just up the road and the green spaces of Levengrove Park, where the river meets the Leven, giving riverside paths, the old St Serf's chapel ruins and open lawns. Riverside trails and the nearby hills give families and activity operators a steady outdoor offer through the season.",
+      "Heritage and culture run through the Scottish Maritime Museum's Denny Tank, the world's first commercial ship-model experiment tank built by William Denny and Brothers, whose Dumbarton yards launched some of the most innovative ships in the world. The town's shipbuilding and whisky-blending story, the Denny shipyard heritage, the Dumbarton Football Club ground beneath the Rock and the local events calendar carry visitors through the year on the lower Clyde.",
+      "Underpinning it all is a hotel, inn and guesthouse trade serving the Clyde and Loch Lomond visitor area, with a guide scene built on castle, maritime and loch-gateway tours. Dumbarton Central and Dumbarton East stations run frequent trains to Glasgow and toward Helensburgh and Balloch, while the A82, A814 and the Clyde carry day-trippers out toward Loch Lomond, the Vale of Leven and the towns of Clydebank, Glasgow and Paisley across the season."
+    ],
+    "kit_loc": "across the town's castle, riverside and visitor sites",
+    "s2_intro": "Whether you are a major Dumbarton attraction or hotel group, a heritage site or a small independent activity centre in Clydebank"
+  },
+  "Alloa": {
+    "region": "Alloa and Clackmannanshire",
+    "nearby": ["Falkirk", "Dunfermline", "Cumbernauld"],
+    "s1_head": "Kitting the visitor economy of Clackmannanshire",
+    "s1loc": [
+      "Alloa, the chief town of Clackmannanshire on the upper Firth of Forth, anchors its visitor economy on Alloa Tower, the National Trust for Scotland medieval keep dating from the 1300s and among the largest tower houses in the country, home to the Erskine family, Earls of Mar, with its fine collection of Erskine portraits and memorabilia. The tower, the wider Forth-side setting and the town's brewing past give Alloa a genuine heritage pull across the warmer season in the Wee County.",
+      "The leisure and activity layer centres on Gartmorn Dam Country Park, the reservoir created in 1700 by Sir John Erskine, the sixth Earl of Mar, to power his coal-mine pumps and one of the oldest man-made lochs in Scotland, with waterside walking, birdwatching, fishing and a visitor cafe. The trails of the Ochil Hills rising behind the town and the riverside paths along the Forth give families and activity operators a steady outdoor offer through the season.",
+      "Heritage and culture run through the brewing story that made Alloa famous, with the Alloa Brewery and the town's glassworks once among Scotland's biggest, told today at the Alloa Museum and Gallery. The restored Speirs Centre, the Greenfield estate, the Kelliebank and Kilncraigs heritage of the old Patons and Baldwins woollen mills and the local events calendar carry visitors through the year in Clackmannanshire.",
+      "Underpinning it all is an inn and guesthouse trade serving the Forth Valley and Ochils visitor area, with a guide scene built on tower, brewing and country-park tours. Alloa station, reopened on the Stirling-Alloa-Kincardine line, runs trains toward Stirling and Glasgow, while the A907, A908 and the Clackmannanshire Bridge over the Forth carry day-trippers out toward the Ochil Hills, Stirling and the towns of Falkirk, Dunfermline and Cumbernauld across the season."
+    ],
+    "kit_loc": "across the town's tower, country park and visitor sites",
+    "s2_intro": "Whether you are a major Alloa attraction or hotel group, a heritage site or a small independent activity centre in Falkirk"
+  },
+  "Ripley": {
+    "region": "Ripley and the Amber Valley",
+    "nearby": ["Belper", "Alfreton", "Ilkeston"],
+    "s1_head": "Kitting the visitor economy of the Amber Valley",
+    "s1loc": [
+      "Ripley, the old Derbyshire mining and ironworks town at the heart of the Amber Valley, anchors its visitor economy on the Midland Railway - Butterley, one of Derbyshire's leading heritage attractions, with seven miles of preserved track, steam, diesel and electric locomotives and a fifty-seven-acre museum site of two museums, signal boxes and a light railway running out from Butterley station on the B6179. The Butterley Company ironworks heritage gives the town a genuine industrial story across the warmer season.",
+      "The leisure and activity layer spreads across the Amber Valley, with Crich Tramway Village, the National Tramway Museum a short drive away where families ride vintage trams down a recreated period street beneath the landmark Crich Stand, and an adventure playground and woodland walks. Butterley Reservoir, the Cromford Canal and trails toward the Derwent Valley Mills World Heritage Site give families and activity operators a steady outdoor offer through the season.",
+      "Heritage and culture centre on the historic Ripley Market, established by royal charter in 1251 and still trading on Fridays and Saturdays in the Market Place, and on the town's mining past around the Butterley and Denby collieries. Wingfield Manor, the romantic ruined manor where Mary Queen of Scots was held, and the town's festivals and events calendar carry visitors through the year in this corner of the Amber Valley.",
+      "Underpinning it all is an inn and guesthouse trade serving the Amber Valley and Derbyshire visitor area, with a guide scene built on railway, tramway and mining-heritage tours. Although Ripley itself lost its station, the nearby Midland Railway line and the A38, A610 and A6007 carry day-trippers out toward Belper, the Derwent Valley Mills, Hardwick Hall and the towns of Belper, Alfreton and Ilkeston across the season."
+    ],
+    "kit_loc": "across the town's railway, market and visitor sites",
+    "s2_intro": "Whether you are a major Ripley attraction or hotel group, a heritage site or a small independent activity centre in Belper"
+  }
+}

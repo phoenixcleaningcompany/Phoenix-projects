@@ -1,0 +1,93 @@
+{
+  "Skegness": {
+    "region": "Skegness and the Lincolnshire coast",
+    "nearby": ["Boston", "Cleethorpes", "Grimsby"],
+    "s1_head": "Kitting the visitor economy of the Lincolnshire coast",
+    "s1loc": [
+      "Skegness is one of England's classic seaside resorts, its long sandy beach and seafront forever tied to John Hassall's 1908 Jolly Fisherman poster and the 'Skegness is So Bracing' slogan commissioned by the Great Northern Railway. The marquee draws cluster on the front, from the surviving Skegness Pier, first opened in 1881, to Natureland Seal Sanctuary on North Parade with its rescued seals, penguins and aquariums, and the Botton's Pleasure Beach fairground that anchors the resort for the wider Lincolnshire coast.",
+      "The leisure and activity layer is anchored by Butlins, the holiday camp Billy Butlin opened here in 1936 as Britain's first, and by the Fantasy Island theme park at neighbouring Ingoldmells with its thirty-plus rides and Europe's largest seven-day market. Closer in, Tower Gardens and the boating lake, the seafront amusement arcades and the wide tide-washed sands keep families and operators busy right through the warmer season on this stretch of coast.",
+      "Heritage and culture run through the Church Farm Museum, a re-created Victorian Lincolnshire farmstead in the town, and the Embassy Theatre, the resort's main venue rebuilt in 1999 on the Grand Parade. The Gibraltar Point National Nature Reserve just south of the town, with its sand dunes, lagoons and bird hides drawing brent geese and skylarks, adds a quieter heritage and wildlife draw to the resort's lively events calendar.",
+      "The visitor trade leans on a deep base of caravan parks, holiday camps and seafront hotels and guest houses across Skegness and Ingoldmells, with a guide and coach-tour scene built around the beach, Butlins and Fantasy Island. The town sits at the end of the Nottingham line into Skegness railway station, and the A52 and A158 put Boston, the Wash and the wider Lincolnshire coast within an easy day trip, feeding a strong seasonal flow into the resort."
+    ],
+    "kit_loc": "across the coast's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Skegness attraction or hotel group, a heritage site or a small independent activity centre in Boston"
+  },
+  "Biddulph": {
+    "region": "Biddulph and the Staffordshire Moorlands",
+    "nearby": ["Congleton", "Kidsgrove", "Stoke-on-Trent"],
+    "s1_head": "Kitting the visitor economy of the Staffordshire Moorlands",
+    "s1loc": [
+      "Biddulph is the self-styled Garden Town of Staffordshire on the western edge of the Moorlands, and its marquee draw is Biddulph Grange Garden, the National Trust's spectacular Victorian creation. Laid out by plantsman James Bateman to showcase his worldwide collection, the garden takes visitors on a global journey from Egyptian pyramids and a Himalayan glen through an Italian garden to a Victorian vision of China, and holds the oldest Golden Larch and the oldest Stumpery in Britain alongside its Dahlia Walk.",
+      "The leisure and activity layer spreads across two country parks on the town's edges. Greenway Bank Country Park at Knypersley to the south wraps around Knypersley Pool, created in 1828 by Hugh Henshall to feed the Caldon Canal, and the earlier Serpentine of 1781, with woodland walks past Gawton's Stone and Gawton's Well. Biddulph Grange Country Park to the north, with its lakes, pools and woodland managed by Staffordshire Wildlife Trust, keeps walkers, anglers and families busy through the warmer season.",
+      "Heritage and culture run through the dramatic ruins of Biddulph Old Hall, a 16th-century house slighted in the Civil War, and the parish church of St Lawrence with its Saxon carved cross fragments. The town's Victorian and industrial past, the Knypersley reservoir landscape and a local events calendar built around the gardens and the Moorlands setting give Biddulph its distinctive character on the fringe of the Peak District National Park.",
+      "The visitor trade leans on a small-town and country hotel, inn and guest-house base across the Congleton and Stoke corridor, with a guide scene built firmly around Biddulph Grange Garden and the two country parks. The A527 and A523 put Congleton, Kidsgrove, the Trent and Mersey Canal and the wider Staffordshire Moorlands and Peak fringe within an easy day trip, feeding a steady seasonal flow of garden and walking visitors into the town."
+    ],
+    "kit_loc": "across the town's gardens, parks and visitor sites",
+    "s2_intro": "Whether you are a major Biddulph attraction or hotel group, a heritage site or a small independent activity centre in Congleton"
+  },
+  "Dorchester": {
+    "region": "Dorchester and rural Dorset",
+    "nearby": ["Weymouth", "Poole", "Bournemouth"],
+    "s1_head": "Kitting the visitor economy of rural Dorset",
+    "s1loc": [
+      "Dorchester is the historic county town of Dorset, the Roman Durnovaria, and its marquee draws blend the ancient and the literary. Maiden Castle, two miles south, is the largest Iron Age hillfort in Britain, stormed by the Romans in AD 43, while in the town the Roman Town House is the only fully exposed example in Britain, with its mosaic floors. Max Gate, the Victorian house Thomas Hardy designed and lived in until 1928, anchors the town's place in English literature.",
+      "The leisure and activity layer centres on Brewery Square, the lively shopping, dining and cinema quarter created on the former Eldridge Pope brewery site, and on the riverside walks along the Frome at Borough Gardens and the Walks. The Tutankhamun Exhibition, which faithfully re-creates the tomb and its treasures as Howard Carter found them in 1922, and the nearby Dorset countryside keep visitors and operators busy across the warmer season in this corner of Wessex.",
+      "Heritage and culture run through Dorset Museum and Art Gallery, refurbished and reopened in 2021 with its Hardy's Dorset Gallery and recreated study, and through Hardy's Cottage at Higher Bockhampton where the novelist was born. St Michael's churchyard at Stinsford holds his heart, the Keep Military Museum tells the county's regimental story, and the town's market charter, Roman walls and Hardy associations give Dorchester its long cultural depth.",
+      "The visitor trade leans on a town and country hotel, inn and guest-house base and a strong literary guide scene built around Hardy's Wessex, Maiden Castle and the Roman town. Dorchester West and Dorchester South stations link Weymouth, Bath and London Waterloo, and the A35 and A37 put Weymouth's beaches, the Jurassic Coast, Poole and Bournemouth within an easy day trip, feeding a steady seasonal flow of visitors into the county town."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Dorchester attraction or hotel group, a heritage site or a small independent activity centre in Weymouth"
+  },
+  "Atherton": {
+    "region": "Atherton and the Wigan borough",
+    "nearby": ["Leigh", "Wigan", "Bolton"],
+    "s1_head": "Kitting the visitor economy of the Wigan borough",
+    "s1loc": [
+      "Atherton, known locally as Chowbent or Bent, is a former cotton and coal-mining market town in the Wigan borough, and its visitor focus is the green country park country on its doorstep. The 200-hectare Pennington Flash Country Park, just to the south, surrounds a seventy-hectare lake formed by mining subsidence from Bickershaw Colliery and opened in 1981, with eight bird hides, sailing through Leigh and Lowton Sailing Club, a nine-hole golf course and a busy children's play area drawing visitors year round.",
+      "The leisure and activity layer spreads across the lake's sailing, windsurfing, rowing and fishing waters and the walking and cycling routes along the Bridgewater and Leeds and Liverpool canals toward the wider Wigan Flashes and Three Sisters Recreation Area. The Astley Green Colliery Museum at Astley, set on a former coal mine with its surviving headgear and Lancashire's tallest pit headstocks, and the town's recreation grounds and Atherton Market keep families and operators busy through the warmer season across the Wigan and Leigh district.",
+      "Heritage and culture run through Chowbent Chapel of 1721, the oldest place of worship in the town, built after Richard Atherton expelled the Presbyterian congregation, and through St John the Baptist's Church of 1879, the Runcorn-stone church designed by Austin and Paley. The lost grandeur of Atherton Hall, built by 'Mad' Richard Atherton and demolished in 1824, and the town's weaving and mining past give Atherton its distinctive Lancashire character.",
+      "The visitor trade leans on a small-town and roadside hotel and inn base across the Leigh, Wigan and Bolton corridor and a guide scene built around Pennington Flash, Astley Green and the Chowbent colliery heritage. Atherton railway station on the Manchester-to-Southport line and the A577 put Leigh, Wigan, Bolton, the Leigh Spinners Mill and the wider Chat Moss country parks within easy reach, feeding a steady local and day-trip flow into this corner of the borough."
+    ],
+    "kit_loc": "across the town's parks, attractions and visitor sites",
+    "s2_intro": "Whether you are a major Atherton attraction or hotel group, a heritage site or a small independent activity centre in Leigh"
+  },
+  "Failsworth": {
+    "region": "Failsworth and the Oldham borough",
+    "nearby": ["Oldham", "Middleton", "Droylsden"],
+    "s1_head": "Kitting the visitor economy of the Oldham borough",
+    "s1loc": [
+      "Failsworth is a former Lancashire mill town in the Oldham borough between Manchester and Oldham, and its best-known landmark is the Failsworth Pole on Oldham Road, a political pole first raised in 1793 and re-erected with its clock tower and gardens after a 2006 restoration. The gardens hold a bronze statue of the dialect poet Benjamin Brierley, born in the town, and the Pole anchors the historic centre for visitors arriving off the A62 corridor.",
+      "The leisure and activity layer centres on Daisy Nook Country Park on the southern edge, forty hectares of the Medlock Valley managed jointly by Oldham and Tameside, with the Hollinwood Branch Canal, a lake, woodlands, wildflower meadows and a large play area. Named from Ben Brierley's 1855 tale 'A Day Out', Daisy Nook offers bird watching, orienteering and fishing, and the restored Rochdale Canal towpath through the town keeps walkers, cyclists and families busy across the warmer season.",
+      "Heritage and culture run through the parish church of St John the Evangelist, the Roman Road Independent Methodist Church, Hope Methodist Church and the town's long handloom-weaving and redbrick cotton-mill past as a Lancashire mill town in the Medlock Valley. The reopening of the Rochdale Canal through Failsworth and Newton Heath, a major feat that involved demolishing a supermarket built on the route, and the Benjamin Brierley dialect heritage give the town its distinctive industrial Lancashire character.",
+      "The visitor trade leans on a roadside and budget hotel and inn base across the Oldham and Manchester corridor and a guide scene built around Daisy Nook, the Hollinwood Branch Canal and the Medlock Valley. The Failsworth Metrolink tram stop on the Oldham and Rochdale line and the A62 put Oldham, Middleton, Droylsden, Ashton-under-Lyne and the wider Medlock and Tame valleys within easy reach, feeding a steady local and day-trip flow into this corner of the borough."
+    ],
+    "kit_loc": "across the town's parks, canals and visitor sites",
+    "s2_intro": "Whether you are a major Failsworth attraction or hotel group, a heritage site or a small independent activity centre in Oldham"
+  },
+  "Colne": {
+    "region": "Colne and Pendle",
+    "nearby": ["Nelson", "Burnley", "Accrington"],
+    "s1_head": "Kitting the visitor economy of Pendle",
+    "s1loc": [
+      "Colne is a historic textile town at the eastern edge of Pendle in Lancashire, and its marquee draw is the Great British Rhythm and Blues Festival, Britain's largest and longest-running event of its kind, which fills venues across the town each August bank holiday with around fifty artists. The town's most famous son, Wallace Hartley, the bandmaster who played on as RMS Titanic sank in 1912, is remembered by a town-centre memorial and the Wallace Hartley pub named in his honour.",
+      "The leisure and activity layer centres on Boundary Mill, the founding store of the brand and the UK's largest mill outlet, and on the Pendle countryside that rises behind the town toward Pendle Hill and the Forest of Trawden. The Leeds and Liverpool Canal, walking routes onto the moors and the wider Pennine activity country keep visitors and operators busy across the warmer season in this corner of East Lancashire.",
+      "Heritage and culture run through the Muni, the Edwardian Municipal Hall theatre in the town centre seating up to 800 for music, comedy and dance, and the Colne Heritage Centre and the parish church of St Bartholomew. The nearby Pendle Heritage Centre at Barrowford, with its 18th-century walled garden, bluebell wood and Pendle witches story, and a calendar built around the blues festival give the town its distinctive cultural depth.",
+      "The visitor trade leans on a small-town and country hotel, inn and guest-house base across the Nelson and Burnley corridor and a guide scene built around the blues festival, the Titanic connection and the Pendle moors. Colne railway station on the East Lancashire line and the M65 and A56 put Nelson, Burnley, Accrington and the Pendle Witch Country within an easy day trip, feeding a steady seasonal flow of music and walking visitors into the town."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Colne attraction or hotel group, a heritage site or a small independent activity centre in Nelson"
+  },
+  "Bingley": {
+    "region": "Bingley and the Aire Valley",
+    "nearby": ["Shipley", "Keighley", "Bradford"],
+    "s1_head": "Kitting the visitor economy of the Aire Valley",
+    "s1loc": [
+      "Bingley is a historic market town in the Aire Valley of West Yorkshire, and its marquee draw is the Bingley Five Rise Locks, the steepest lock staircase in Britain. Opened in 1774 on the Leeds and Liverpool Canal and managed by the Canal and River Trust, the five staircased locks fall sixty feet and draw crowds to watch boats descend, anchoring the town's visitor offer alongside the canal towpath that runs through the heart of the Aire Valley.",
+      "The leisure and activity layer centres on the St Ives Estate, a 550-acre country park on the town's edge drawing some 300,000 visitors a year, with an 18-hole golf course, an equestrian centre, archery, the Ivy Kitchen cafe, a large play area and woodland and lakeside walks. Myrtle Park beside the River Aire, the host of the long-running Bingley Show, and the surrounding Bronte and Pennine countryside keep families and operators busy through the warmer season.",
+      "Heritage and culture run through All Saints, the parish church begun in the reign of Henry VIII with a choir of 1518 and a site of worship since before the 13th century, now hosting concerts and a beer festival. The Bingley Arts Centre in the town centre stages theatre, dance and live music, and the town's wool and worsted past, the Damart and former mill landscape and a busy events calendar give Bingley its distinctive Yorkshire character.",
+      "The visitor trade leans on a town and country hotel, inn and guest-house base across the Shipley and Bradford corridor and a guide scene built around the Five Rise Locks, the canal and the St Ives Estate. Bingley railway station on the Airedale line links Leeds, Bradford and Skipton, and the A650 puts Shipley's Saltaire World Heritage Site, Keighley, the Worth Valley steam railway and the wider Bronte Country within an easy day trip, feeding a steady seasonal flow into the valley."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Bingley attraction or hotel group, a heritage site or a small independent activity centre in Shipley"
+  }
+}

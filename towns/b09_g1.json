@@ -1,0 +1,93 @@
+{
+  "Falmouth": {
+    "region": "Falmouth and West Cornwall",
+    "nearby": ["Truro", "Camborne", "Newquay"],
+    "s1_head": "Kitting the visitor economy of Falmouth and the Carrick Roads",
+    "s1loc": [
+      "Falmouth sits on one of the world's deepest natural harbours and draws huge summer crowds to the award-winning National Maritime Museum Cornwall on Discovery Quay and to Pendennis Castle, the Henry VIII fortress guarding the entrance to the Carrick Roads. The historic working docks at Falmouth still build and refit yachts, while Custom House Quay and the Prince of Wales Pier anchor a waterfront that runs busy from spring through the regatta season.",
+      "The leisure and activity layer thrives on sheltered water, with gig rowing, kayaking, paddleboarding and diving launched off Gyllyngvase, Swanpool, Castle and Maenporth beaches. Swanpool Nature Reserve and the subtropical Trebah Garden and Glendurgan Garden on the Helford River pull families out for the day, while Kimberley Park and pleasure-boat trips to St Mawes and the Roseland keep operators working across the warmer months.",
+      "Heritage and culture run through the old town, from the granite quays and the Church of King Charles the Martyr to the galleries and studios fed by Falmouth University and the Poly arts venue on Church Street. The Falmouth Art Gallery, the Princess Pavilion, Falmouth Week regatta, the Sea Shanty Festival and the Tall Ships and Pendennis Cup sailing events fill a busy calendar around Events Square and the Moor.",
+      "The visitor trade rests on a deep base of harbourside hotels, guest houses and Bed and Breakfast rooms, with operators running fishing charters, ferry hops to Flushing and St Mawes, and guided coast-path walks along the South West Coast Path. Falmouth Town and Falmouth Docks stations on the branch line from Truro bring visitors in, and day-trippers reach the Lizard, the Helford and Glendurgan from a town that fills every season."
+    ],
+    "kit_loc": "across the harbour town's attractions, beaches and visitor sites",
+    "s2_intro": "Whether you are a major Falmouth attraction or hotel group, a heritage site or a small independent activity centre in Truro"
+  },
+  "Camborne": {
+    "region": "Camborne and Cornwall's mining heartland",
+    "nearby": ["Truro", "Falmouth", "Penzance"],
+    "s1_head": "Kitting the visitor economy of Camborne and the Cornish Mining World Heritage Site",
+    "s1loc": [
+      "Camborne stands at the centre of the Cornish Mining World Heritage Site, where King Edward Mine Museum at Troon preserves a complete Victorian tin mill and the 1901 Californian Stamps, and South Crofty remains the area's storied last tin mine. Heartlands, the free nineteen-acre heritage park beside the Robinson's Shaft engine house at Pool, and the Trevithick statue on Commercial Street mark Camborne's place at the birth of the steam age.",
+      "The leisure and activity layer reaches out to Tehidy Country Park, the largest woodland in West Cornwall with nine miles of paths around its lakes, and to the dunes and surf at Portreath harbour on the north coast. The Great Flat Lode trail, Carn Brea hill above the town and the adventure playgrounds and gardens at Heartlands draw families and walkers out across the year.",
+      "Heritage and culture peak each April with Trevithick Day, a forty-year-old whole-town celebration of Richard Trevithick when the working Puffing Devil replica and dozens of steam engines fill the closed streets with pipes, drums and Cornish tartan. The Camborne School of Mines tradition, the Holman engine heritage and the engine houses of the Great Flat Lode keep the town's industrial story alive around Beacon Hill.",
+      "The visitor trade works from a base of inns, guest houses and Bed and Breakfast rooms across Camborne, Redruth and Pool, with guides leading mine tours, World Heritage walks and Great Flat Lode rides. Camborne station on the main line, the A30 and Cornwall Airport Newquay bring visitors in, and day-trippers reach Portreath, Tehidy, St Ives and the north coast from a town busy through the season."
+    ],
+    "kit_loc": "across the mining country's attractions, parks and heritage sites",
+    "s2_intro": "Whether you are a major Camborne attraction or hotel group, a heritage site or a small independent activity centre in Truro"
+  },
+  "Tiverton": {
+    "region": "Tiverton and the Exe Valley",
+    "nearby": ["Exeter", "Exmouth", "Barnstaple"],
+    "s1_head": "Kitting the visitor economy of Tiverton and Mid Devon",
+    "s1loc": [
+      "Tiverton anchors Mid Devon at the head of the Exe Valley, with Tiverton Castle, built in 1106 and fought over in the English Civil War, and the eleven-and-three-quarter-mile Grand Western Canal Country Park drawing visitors to its locks and towpaths. St Peter's Church and the Greenway Chapel mark the wool-trade wealth of the old town, while the canal basin remains the starting point for the last horse-drawn barge in Devon, run by Tiverton Canal Co.",
+      "The leisure and activity layer spreads across the surrounding countryside, from canoeing, kayaking and paddleboarding on the Grand Western Canal to family days at Diggerland Devon and the miniature trains and models of the Devon Railway Centre at Bickleigh. The Exe Valley Way walking route, Knightshayes Court's National Trust gardens and the fishing and cycling along the River Exe keep operators busy through the warmer months.",
+      "Heritage and culture centre on the Tiverton Museum of Mid Devon Life, with its Tivvy Bumper steam locomotive, alongside the gilded Gothic Revival rooms of William Burges's Knightshayes Court and the riverside charm of Bickleigh Castle and its Saxon chapel. The historic Tiverton Pannier Market, the New Hall and the town's heritage walks and seasonal events fill the calendar in the old wool town.",
+      "The visitor trade works from inns, guest houses and Bed and Breakfast rooms across Tiverton and the Exe Valley, with operators running barge trips, guided canal walks and Exmoor day tours. Tiverton Parkway station on the main line and the M5 at junction 27 bring visitors in, and day-trippers reach Exeter, Exmoor National Park, the Quantocks and the coast from a base that fills every season."
+    ],
+    "kit_loc": "across the valley town's attractions, canal and visitor sites",
+    "s2_intro": "Whether you are a major Tiverton attraction or hotel group, a heritage site or a small independent activity centre in Exeter"
+  },
+  "Stamford": {
+    "region": "Stamford and south Lincolnshire",
+    "nearby": ["Peterborough", "Grantham", "Spalding"],
+    "s1_head": "Kitting the visitor economy of Stamford and the Welland valley",
+    "s1loc": [
+      "Stamford is one of England's great stone towns, proclaimed by Sir Walter Scott the finest in the country, with over six hundred listed limestone buildings, five medieval churches and the magnificent Elizabethan Burghley House and its three-hundred-acre deer park on the edge of town. Built by William Cecil between 1555 and 1587, Burghley's State Rooms, Tudor kitchen and Capability Brown parkland are the marquee draw beside the River Welland.",
+      "The leisure and activity layer mixes town and country, from the riverside Stamford Meadows and the Sculpture Garden and adventure play at Burghley to watersports, water-skiing and climbing at nearby Tallington Lakes. Rutland Water, one of Europe's largest reservoirs, lies a short drive west for sailing, cycling and birdwatching, giving operators a strong family and outdoor offer across the seasons.",
+      "Heritage and culture run deep along Broad Street and St Mary's Hill, with the Georgian Stamford Arts Centre and its eighteenth-century theatre, the medieval Browne's Hospital almshouses, the ruins of St Leonard's Priory and All Saints and St John's churches. The Stamford Georgian Festival, the riverside Mid Lent Fair and a long-running market and antiques trade fill a calendar set among honey-coloured stone.",
+      "The visitor trade rests on coaching inns such as the historic George Hotel, alongside guest houses and Bed and Breakfast rooms, with guides running town walks and tours of Burghley and the Welland valley. Stamford station on the line to Peterborough and the A1 bring visitors in, and the Burghley Horse Trials each September draw more than one hundred and seventy thousand people to a town busy through the year."
+    ],
+    "kit_loc": "across the stone town's attractions, parkland and visitor sites",
+    "s2_intro": "Whether you are a major Stamford attraction or hotel group, a heritage site or a small independent activity centre in Peterborough"
+  },
+  "Retford": {
+    "region": "Retford and the Bassetlaw district",
+    "nearby": ["Worksop", "Newark", "Gainsborough"],
+    "s1_head": "Kitting the visitor economy of Retford and north Nottinghamshire",
+    "s1loc": [
+      "Retford is the historic market town at the heart of the Bassetlaw district, granted its first charter by Henry III in 1246 and still holding its Thursday and Saturday markets around the Georgian Market Square and the Town Hall. The Bassetlaw Museum, housed in the eighteenth-century Amcott House, tells the area's story from its Anglo-Saxon Bassetlaw boat to its Pilgrim Fathers links, with the spire of St Swithun's rising over the old town.",
+      "The leisure and activity layer is led by the Idle Valley Nature Reserve, the largest in the care of the Nottinghamshire Wildlife Trust, with its visitor centre, walking trails and more than two hundred and fifty bird species beside the River Idle. The grand parkland estates of Clumber Park and Thoresby Park lie a short drive away for walking, cycling and family days, with Sherwood Forest and the Major Oak within easy reach.",
+      "Heritage and culture spread across Bassetlaw, from the prehistoric caves of Creswell Crags and the Museum of the Horse at Tuxford to the Pilgrim Fathers heritage at Babworth and Scrooby and the canal wharf on the Chesterfield Canal. The Retford market charter tradition, the town's coaching-era buildings and a calendar of fairs and events keep the old quarter busy through the year.",
+      "The visitor trade works from inns, guest houses and Bed and Breakfast rooms across Retford and the surrounding villages, with operators running nature trails at Idle Valley, Chesterfield Canal walks and Sherwood Forest tours. Retford station on the East Coast Main Line and the A1 bring visitors in, and day-trippers reach Clumber Park, Thoresby, Creswell Crags and the Dukeries from a town that draws steadily across the seasons."
+    ],
+    "kit_loc": "across the market town's attractions, parks and nature sites",
+    "s2_intro": "Whether you are a major Retford attraction or hotel group, a heritage site or a small independent activity centre in Worksop"
+  },
+  "Belper": {
+    "region": "Belper and the Derwent Valley",
+    "nearby": ["Ripley", "Alfreton", "Derby"],
+    "s1_head": "Kitting the visitor economy of Belper and the Derwent Valley Mills",
+    "s1loc": [
+      "Belper sits at the heart of the Derwent Valley Mills World Heritage Site, inscribed by UNESCO in 2001 as the cradle of the factory system. Strutt's North Mill, built in 1804 as one of the world's oldest iron-framed fireproof buildings, houses the Derwent Valley Visitor Centre, while the towering East Mill, the Georgian horseshoe weir on the River Derwent and Jedediah Strutt's mill village mark the town's place in industrial history.",
+      "The leisure and activity layer centres on the riverside River Gardens created by George Herbert Strutt, with their boating, bandstand and summer Sunday concerts, and on walks along the Derwent and the Cromford Canal towpath. The wooded Wyver Lane wetland, the Chevin ridge above town and easy access to the southern Peak District give operators a strong outdoor and family offer across the seasons.",
+      "Heritage and culture run through the Strutt estate, from the model workers' cottages of Long Row and the Unitarian Chapel to the No Mans Heath gritstone setting and the regular guided and costumed walks run from North Mill. The Belper Arts Festival, the Goes Green festival, the farmers' market and a calendar of mill anniversaries and town events keep the World Heritage quarter busy through the year.",
+      "The visitor trade works from inns, guest houses and Bed and Breakfast rooms across Belper and the Amber Valley, with operators leading World Heritage walks, mill tours and Derwent Valley cycle trips. Belper station on the line between Derby and Matlock and the A6 bring visitors in, and day-trippers reach Cromford Mills, Matlock Bath, the Peak District and Crich Tramway Village from a town that draws across the year."
+    ],
+    "kit_loc": "across the mill town's attractions, gardens and heritage sites",
+    "s2_intro": "Whether you are a major Belper attraction or hotel group, a heritage site or a small independent activity centre in Ripley"
+  },
+  "Dronfield": {
+    "region": "Dronfield and north-east Derbyshire",
+    "nearby": ["Chesterfield", "Sheffield", "Belper"],
+    "s1_head": "Kitting the visitor economy of Dronfield and the Peak District fringe",
+    "s1loc": [
+      "Dronfield lies midway between Sheffield and Chesterfield on the edge of the Peak District, its old town built around the medieval Church of St John the Baptist, founded around 1135, and the Green Dragon Inn of 1349, once the hall of the chantry priests. Dronfield Hall Barn, a restored medieval timber barn on High Street, now serves as the town's heritage centre with exhibitions, a cafe and garden, anchoring the conservation-area core.",
+      "The leisure and activity layer runs through the green spaces and trails around the town, from Cliffe Park and the Lea Brook Valley nature walk to the Dronfield Woodhouse nature reserve and the wooded Moss Valley conservation area. The Peak District National Park lies barely three miles off for hiking, cycling and climbing, giving local operators a strong walking and outdoor offer across the seasons.",
+      "Heritage and culture centre on Dronfield Hall Barn's events, workshops and Old Dronfield Society heritage walks, alongside the carved king-post barn on High Street, the unusual Peel Monument and the street murals that map the town's history and its valley nature trails. A calendar of guided tours, exhibitions and seasonal events keeps the historic quarter active through the year.",
+      "The visitor trade works from inns, guest houses and Bed and Breakfast rooms across Dronfield and the surrounding villages, with the town serving as a quiet base for guides and walkers exploring the Peak District and the Moss Valley. Dronfield station on the line between Sheffield and Chesterfield and the nearby M1 bring visitors in, and day-trippers reach Chatsworth, the Peak District and the cutlery heritage of Sheffield across the seasons."
+    ],
+    "kit_loc": "across the old town's attractions, parks and heritage sites",
+    "s2_intro": "Whether you are a major Dronfield attraction or hotel group, a heritage site or a small independent activity centre in Chesterfield"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "Guiseley": {
+    "region": "Guiseley and the Aire Valley",
+    "nearby": ["Yeadon", "Shipley", "Leeds"],
+    "s1_head": "Kitting the visitor economy of Aireborough and Wharfedale",
+    "s1loc": [
+      "Guiseley sits on the western edge of Leeds where the Aire Valley meets Wharfedale, with St Oswald's Church - where Patrick Bronte married Maria Branwell, parents of Anne, Charlotte and Emily Bronte - the standout landmark, alongside the 1867 Guiseley Town Hall. The town carries the legend of the original Harry Ramsden's chip shop on White Cross, once billed the world's largest, drawing visitors to the Aireborough core year round.",
+      "The leisure and activity layer runs strong here, from Nethermoor Park, Nunroyd Park and Parkinson's Park to the wooded slopes of the Otley Chevin and Chevin Forest Park just north. Yeadon Tarn and Tarnfield Park offer sailing and angling, the Aireborough Greenway follows a disused railway to the Old Coach Road, and Aireborough Leisure Centre keeps families busy through every season.",
+      "Heritage and culture draw on the Guiseley Theatre and the mill-town fabric of the Aireborough townships of Rawdon, Yeadon and Horsforth, with the Domesday entry of Gisele and the High Royds estate woven into local walks. The Guiseley Gap Walk and the circular route through Bluebell Wood toward Menston and Almscliff Crag pull in walkers across the Wharfe Valley and the surrounding Pennine fringe.",
+      "The visitor trade leans on Guiseley's strong rail link on the Wharfedale and Airedale lines into Leeds and out to Ilkley, with Leeds Bradford Airport just over the ridge at Yeadon. Day-trippers spill across to Otley, Shipley and Saltaire, and the inns, guest houses and tour operators serving Wharfedale and the Yorkshire Dales beyond keep a steady seasonal flow through the valley."
+    ],
+    "kit_loc": "across the valley's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Guiseley attraction or hotel group, a heritage site or a small independent activity centre in Yeadon"
+  },
+  "Rawtenstall": {
+    "region": "Rawtenstall and the Rossendale Valley",
+    "nearby": ["Bury", "Burnley", "Accrington"],
+    "s1_head": "Kitting the visitor economy of Rossendale",
+    "s1loc": [
+      "Rawtenstall anchors the Rossendale Valley as one of the best preserved mill towns in the country, and its restored Rawtenstall station is the northern terminus and second largest heritage station of the East Lancashire Railway, which steams down to Bury and Heywood. The town keeps Britain's last surviving temperance bar, Fitzpatrick's on Bank Street, drawing curious visitors into the Irwell-side core through the season.",
+      "The leisure and activity layer is unusually busy for its size, branded the Adrenaline Valley, with The Hill home of Ski Rossendale above the town, water-skiing and wakeboarding at Cowm Reservoir, off-road driving at Cowm Quarry and the Grip and Go climbing wall at Haslingden's Adrenaline Centre. Whitaker Park, the Irwell Sculpture Trail and the Valley of Stone open up moorland and woodland walking on every side.",
+      "Heritage and culture centre on The Whitaker museum and art gallery in Whitaker Park, with over a century of nature, art and social history, while Helmshore Mills Textile Museum preserves Higher Mill and Whitaker Mill nearby. The Halo panopticon glows above Top o' Slate at Haslingden, and the cobbled courtyards of Bacup, Cribden Hill and Healey Dell add to the events and walking calendar across the valley.",
+      "The visitor trade works the day-trip flow between the railway, the moors and the mill heritage, with inns, guest houses and tour operators serving walkers on the Rossendale Way and the 150-odd Rossendale Ramblers walks each year. Manchester is a short hop south, and visitors cross easily to Bury, Burnley, Accrington and Haslingden, keeping a seasonal rhythm through this number-one rated walking country."
+    ],
+    "kit_loc": "across the valley's attractions, parks and activity sites",
+    "s2_intro": "Whether you are a major Rawtenstall attraction or hotel group, a heritage site or a small independent activity centre in Bury"
+  },
+  "Hindley": {
+    "region": "Hindley and the Wigan borough",
+    "nearby": ["Wigan", "Leigh", "Atherton"],
+    "s1_head": "Kitting the visitor economy of the Wigan borough",
+    "s1loc": [
+      "Hindley grew from a country village into a dense industrial town in the Wigan borough, its nail-making and colliery past still legible around All Saints' Church, first chapelled in 1641 and rebuilt in 1766. Just up the road, Haigh Hall and the 500-acre Haigh Woodland Park give the area its marquee visitor draw, with the country house, woodland trails and grounds pulling in day-trippers across the borough through the year.",
+      "The leisure and activity layer leans on Borsdane Wood, Wigan's first nature reserve, where the Borsdane brook runs through semi-natural ancient woodland with a popular nature trail of tree carvings, plus Hindley's Rayner Park and Leyland Park. Pennington Flash Country Park and the Three Sisters at nearby Leigh, part of the Flashes of Wigan and Leigh National Nature Reserve, add lakes, birdwatching and the Hide Coffee House visitor centre.",
+      "Heritage and culture trace the Leeds and Liverpool Canal as it weaves through the borough on its 127-mile run, with Top Lock at Ince, Wigan Pier and the cotton and coal story that shaped the area. The events calendar takes in the Big Wigan Walk week, Haigh Woodland Park's adventure and high-ropes draws, and the heritage canal route between Leigh, Wigan town centre and Haigh.",
+      "The visitor trade runs on strong transport, with Hindley station on the Manchester to Southport line, the M6 and M61 close by, and Haigh Hall now operating as a hotel base. Tour operators and guides work the canal towpaths and country parks, and visitors move easily between Wigan, Leigh and Atherton, keeping a steady seasonal flow of walkers, cyclists and family groups across the borough."
+    ],
+    "kit_loc": "across the borough's parks, canals and visitor sites",
+    "s2_intro": "Whether you are a major Hindley attraction or hotel group, a heritage site or a small independent activity centre in Wigan"
+  },
+  "Royton": {
+    "region": "Royton and the Oldham hills",
+    "nearby": ["Oldham", "Rochdale", "Middleton"],
+    "s1_head": "Kitting the visitor economy of the Oldham hills",
+    "s1loc": [
+      "Royton sits in the hills above Oldham where the River Irk rises, a cradle of the cotton age that built the first water-powered cotton mill at Thorp Mill in 1764 and where Royton Hall once stood as the manor of the Byrons and Radcliffes. St Paul's Church, opened in 1833, and the mass of nineteenth-century textile mills give the marquee heritage story that still draws visitors into the town's core.",
+      "The leisure and activity layer centres on Tandle Hill Country Park, Oldham's oldest country park, with 110 acres of beech woodland, open grassland, a countryside centre and trails linking to Crompton Moor, plus the war memorial at its summit. Royton Park and the green spaces along the Irk add to local walking and family days out across the hills through the season.",
+      "Heritage and culture reach into the radical past, with Tandle Hill used by reformers drilling before the Peterloo massacre and gifted to the people of Royton in 1919 as a peace memorial. Nearby Oldham brings Gallery Oldham and its exhibitions, the Oldham theatre scene and the wider mill-town story, with the Royton Town Centre Trail and Thorp and Tandle Hill trail mapping the local heritage.",
+      "The visitor trade works the day-trip flow off the Pennine fringe, with Royton close to the Metrolink tram network at Oldham, the M62 and the moors around Saddleworth. Inns, guest houses and tour operators serve walkers heading for Tandle Hill, Crompton Moor and the reservoirs, and visitors move easily between Oldham, Rochdale and Middleton, keeping a seasonal rhythm across the hills."
+    ],
+    "kit_loc": "across the hills' parks, trails and visitor sites",
+    "s2_intro": "Whether you are a major Royton attraction or hotel group, a heritage site or a small independent activity centre in Oldham"
+  },
+  "Clevedon": {
+    "region": "Clevedon and the North Somerset coast",
+    "nearby": ["Portishead", "Weston-super-Mare", "Bristol"],
+    "s1_head": "Kitting the visitor economy of the North Somerset coast",
+    "s1loc": [
+      "Clevedon is a classic North Somerset seaside town whose marquee draw is Clevedon Pier, the Grade I listed Victorian structure of 1869 that John Betjeman called the most beautiful pier in England, with its Pagoda cafe and heritage centre at the head. The seafront runs from the pier to Salthouse Field past ornamental gardens and a Victorian bandstand, looking out across the Bristol Channel to Wales.",
+      "The leisure and activity layer centres on the Marine Lake, a seawater pool by the shore where visitors swim, kayak and sail, alongside Salthouse Field and the wider beachfront. Poets Walk climbs the wooded headland with sweeping views, while the circular route through Clevedon Court Woods, Norton's Wood and Foxes Cave opens up the Gordano Valley for walkers across the season.",
+      "Heritage and culture rest on Clevedon Court, the medieval manor house, and on Poets Walk's literary links to Samuel Taylor Coleridge and Alfred Tennyson, who knew the town. The pier, now also a wedding venue, the ornamental Hill Road shops and the seafront events calendar give the town a steady cultural draw, with the Bristol Channel light shaping its long Victorian-resort character.",
+      "The visitor trade serves a strong day-trip and seaside flow, with hotels, guest houses and Bed and Breakfast lining the seafront and tour operators working the coast. The M5 puts Clevedon minutes from Bristol and its airport, and visitors move easily up and down the coast to Portishead, Weston-super-Mare and the Gordano villages, giving the town a busy summer season and year-round weekend trade."
+    ],
+    "kit_loc": "across the coast's attractions and activity sites",
+    "s2_intro": "Whether you are a major Clevedon attraction or hotel group, a heritage site or a small independent activity centre in Portishead"
+  },
+  "Reigate": {
+    "region": "Reigate and the Surrey Hills",
+    "nearby": ["Redhill", "Horley", "Caterham"],
+    "s1_head": "Kitting the visitor economy of east Surrey",
+    "s1loc": [
+      "Reigate is a historic Surrey market town beneath the North Downs, where the Castle Grounds mark the site of the Norman Reigate Castle, demolished in 1648 and crowned in 1777 by Richard Barnes's folly gateway. Beneath them run the Reigate Caves, a network of sand mines and wartime air-raid shelters including the Barons' Cave and the East and West Caverns on Tunnel Road, opened to visitors on select days.",
+      "The leisure and activity layer is anchored by the 65-acre Priory Park, with its lake, formal gardens, playground with water features, skate park and pavilion cafe, and by Gatton Park, 260 acres of Capability Brown and Edwardian gardens in the Surrey Hills. Reigate Hill, Reigate Heath and Colley Hill on the National Trust's North Downs Way bring panoramic walking over the Weald across every season.",
+      "Heritage and culture draw on Reigate Priory itself, the Tudor mansion that now houses the Priory School and the Reigate Priory Museum, with its local history, domestic items and period costumes. The old town's market heritage, the windmill on Reigate Heath and the calendar of open days at Gatton Park and the caves give the town a rich, distinctly Surrey cultural draw.",
+      "The visitor trade works a busy commuter-belt and day-trip flow, with hotels including Reigate Hill Golf Club and Bridge House on the River Mole, plus guest houses and Bed and Breakfast across the town. Reigate station links fast into London and Gatwick, the M25 runs north of the town, and visitors reach Box Hill, Denbies Wine Estate and the wider Surrey Hills with ease through the year."
+    ],
+    "kit_loc": "across the hills' attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Reigate attraction or hotel group, a heritage site or a small independent activity centre in Redhill"
+  },
+  "Horley": {
+    "region": "Horley and the Surrey-Sussex border",
+    "nearby": ["Redhill", "Reigate", "Crawley"],
+    "s1_head": "Kitting the visitor economy around Gatwick",
+    "s1loc": [
+      "Horley sits on the Surrey edge of the West Sussex border, defined above all by its closeness to Gatwick Airport, whose runway grew over a 1930s aerodrome on land that had earlier been a racecourse that hosted the Grand National. The town keeps its twelfth-century St Bartholomew's Church and the conservation area around the high street, anchoring a settlement shaped by travel and transit across every season.",
+      "The leisure and activity layer rests on Horley Recreation Ground, a well-used public space with the War Memorial, Memorial Gardens, Platinum Jubilee Gardens, a playground, skate park and games area, and on Riverside Garden Park, woodland and grassy glades with a man-made lake beside the Gatwick Stream. These open spaces and Wilf's in the Park cafe keep families and visitors busy through the year.",
+      "Heritage and culture trace the old Horley Common, the racecourse and aerodrome story, and the picturesque high street conservation area, with the Gardens estate and the River Mole giving the town its character. The events on the Recreation Ground and the memorial gardens form the local calendar, set against the constant backdrop of one of the country's busiest airport gateways on the doorstep.",
+      "The visitor trade is unusually airport-led, with a deep base of hotels, guest houses and Bed and Breakfast serving Gatwick travellers, plus tour operators and transfer services working the gateway. Horley station on the Brighton main line and the M23 put London, Brighton and the Surrey Hills within easy reach, and visitors flow on to Reigate, Redhill and Crawley, giving the town a year-round, transit-driven trade."
+    ],
+    "kit_loc": "across the town's parks, gateways and visitor sites",
+    "s2_intro": "Whether you are a major Horley attraction or hotel group, a heritage site or a small independent activity centre in Redhill"
+  }
+}
