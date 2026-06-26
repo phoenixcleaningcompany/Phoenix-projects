@@ -1,0 +1,86 @@
+{
+  "guiseley": {
+    "region": "Guiseley and West Yorkshire",
+    "nearby": ["Yeadon", "Shipley", "Pudsey"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Guiseley, embroidered in-house to brand guidelines. As the commercial heart of Aireborough, Guiseley pairs an insurance and professional-services base with light manufacturing and med-tech on its business parks, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Guiseley and the Aireborough business base",
+    "s1loc": [
+      "Guiseley anchors the Aireborough district of north-west Leeds, with a business base spread along the Otley Road corridor and into the Silver Cross Way and Park 17 estates towards Shipley. JMG Group runs its insurance head office here, and J.M. Glendinning brokers operate from Elmwood House on Ghyll Royd. Local estates mix aerospace, textiles, professional services and med-tech firms, while accountancies, solicitors and consultancies serve the wider Aire Valley from Guiseley, Yeadon and nearby Pudsey.",
+      "The professional-services workforce around Guiseley draws on Leeds and Bradford graduates and feeds insurance, broking, accountancy and technology employers across Aireborough. These are suit-and-screen teams, but they step into branded polos, softshells and fleeces for client visits, away days, exhibitions and sponsored community events. Office managers, brand leads and procurement buyers order the kit, and they care that the embroidered logo and colours match the corporate brand exactly across every team and site."
+    ],
+    "kit_loc": "across the Aireborough business parks and Guiseley town centre",
+    "s2_intro": "Whether you are a Guiseley bank, law firm, accountancy, consultancy, insurer or a technology company"
+  },
+  "rawtenstall": {
+    "region": "Rawtenstall and Lancashire",
+    "nearby": ["Accrington", "Bury", "Burnley"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Rawtenstall, embroidered in-house to brand guidelines. As the commercial centre of the Rossendale valley, Rawtenstall blends manufacturing-services firms with accountancies, brokers and professional practices, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Rawtenstall and the Rossendale valley",
+    "s1loc": [
+      "Rawtenstall is the commercial hub of the Rossendale valley, with much of its office and business activity clustered on the New Hall Hey Road estates near the M66. Hardmans Business Centre and New Hall Hey Business Centre house IT providers, construction firms, consultants and professional practices, while Obdale Chartered Accountants, Howarth and Co and Tony Quinn Accountants serve businesses across Rossendale. Manufacturing-services firms and engineering suppliers operate alongside accountancies and brokers reaching out to Accrington, Bury and Burnley.",
+      "Rawtenstall's professional-services workforce supports a valley economy built on manufacturing, engineering and a steady run of accountancy and advisory practices. Day to day these teams work in suits and at screens, but they pull on branded polos, softshells and fleeces for site visits, supplier meetings, away days and sponsored community events. Office and brand managers and the buyers who order the kit want the embroidered logo and colours to match the corporate brand precisely across every team."
+    ],
+    "kit_loc": "across the New Hall Hey estates and Rawtenstall town centre",
+    "s2_intro": "Whether you are a Rawtenstall bank, law firm, accountancy, consultancy, insurer or a technology company"
+  },
+  "hindley": {
+    "region": "Hindley and Greater Manchester",
+    "nearby": ["Wigan", "Leigh", "Bolton"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Hindley, embroidered in-house to brand guidelines. As a Wigan-area manufacturing and logistics centre, Hindley combines busy industrial estates with the professional firms that serve them, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Hindley and the Wigan business corridor",
+    "s1loc": [
+      "Hindley sits south-east of Wigan, with its business activity concentrated on the Hindley Green Industrial Estate along the A578 Leigh Road. The estate runs modern warehouse and industrial units, with packaging maker Corex among the occupiers on the Hindley Green Business Park. Junction 4 of the M61 and Junction 23 of the M6 sit within easy reach, and the manufacturing and logistics base across Hindley, Ince and Leigh is served by accountancies, solicitors and consultancies based in Wigan and Bolton.",
+      "Hindley's working economy leans on manufacturing, engineering and distribution along the M6 and M61 corridors, supported by professional-services firms across the Wigan borough. The office and management teams behind these firms work in suits and at screens, yet they step into branded polos, softshells and fleeces for client and site visits, away days, exhibitions and sponsored community events. The office managers and procurement buyers who order the kit insist the embroidered logo and colours match the brand exactly."
+    ],
+    "kit_loc": "across the Hindley Green estate and the Wigan corridor",
+    "s2_intro": "Whether you are a Hindley bank, law firm, accountancy, consultancy, insurer or a technology company"
+  },
+  "royton": {
+    "region": "Royton and Greater Manchester",
+    "nearby": ["Oldham", "Rochdale", "Middleton"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Royton, embroidered in-house to brand guidelines. As an Oldham-area manufacturing-services town with active business parks, Royton pairs engineering and light industry with the professional firms that support them, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Royton and the Oldham business parks",
+    "s1loc": [
+      "Royton lies north-west of Oldham, with its commercial base set around the Parkside Industrial Estate and the Shaw Road and Salmon Fields business parks. Griffiths and Johnson operate sub-contract engineering, toolmaking and presswork from Red Rose Works on Shaw Road, alongside chemical and manufacturing firms on the Salmon Fields estate. The town's textile heritage has given way to a mixed base of engineering and light industry, served by accountancies, solicitors and consultancies in Oldham, Rochdale and Middleton.",
+      "Royton's workforce supports an Oldham-area economy of engineering, manufacturing-services and the professional firms that advise them, with good access to the M62 at Junction 21. These management and office teams work in suits and at screens, but they reach for branded polos, softshells and fleeces for supplier meetings, site visits, away days and sponsored community events. The office managers and procurement buyers who place the orders want the embroidered logo and colours to match the corporate brand precisely."
+    ],
+    "kit_loc": "across the Parkside estate and Royton business parks",
+    "s2_intro": "Whether you are a Royton bank, law firm, accountancy, consultancy, insurer or a technology company"
+  },
+  "clevedon": {
+    "region": "Clevedon and North Somerset",
+    "nearby": ["Portishead", "Weston-super-Mare", "Bristol"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Clevedon, embroidered in-house to brand guidelines. With business parks at the M5 gateway, Clevedon hosts technology, manufacturing and professional-services firms within easy reach of Bristol, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Clevedon and the M5 business parks",
+    "s1loc": [
+      "Clevedon's commercial base clusters on the Hither Green Trading Estate, Kenn Road Business Park, the Tweed Road area and the 5C Business Centre, all next to Junction 20 of the M5. Occupiers include BOC, Palm Equipment and Gordano Packaging, alongside technology, automotive and manufacturing firms across the estates. With Bristol about thirteen miles east and quick access to the M5 and M4, Clevedon's business parks draw accountancies, solicitors and consultancies serving North Somerset and the wider Bristol region.",
+      "Clevedon's professional-services and technology workforce feeds off the Bristol economy, with engineering, packaging and software firms anchoring the local business parks. These office and management teams work in suits and at screens, yet they step into branded polos, softshells and fleeces for client visits, away days, exhibitions and sponsored community events. The office managers and procurement buyers who order the kit care that the embroidered logo and colours match the corporate brand exactly across every team and site."
+    ],
+    "kit_loc": "across the Hither Green and Kenn Road business parks",
+    "s2_intro": "Whether you are a Clevedon bank, law firm, accountancy, consultancy, insurer or a technology company"
+  },
+  "reigate": {
+    "region": "Reigate and Surrey",
+    "nearby": ["Redhill", "Horley", "Crawley"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Reigate, embroidered in-house to brand guidelines. A Surrey corporate centre with a heritage of FTSE and multinational headquarters, Reigate carries a strong financial and professional-services base, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Reigate and its corporate headquarters",
+    "s1loc": [
+      "Reigate has long been a Surrey corporate centre, with the insurer Esure based at The Observatory on Castlefield Road, in the former headquarters of building-materials group Redland. The European headquarters of Kimberly-Clark sit on London Road near the railway station, and Canon UK built its landmark headquarters on the town's southern edge. London Road also held a former Willis Towers Watson European base, and accountancies, solicitors, consultancies and financial firms line the town centre and serve Redhill and Crawley.",
+      "Reigate's professional-services workforce commutes in from across east Surrey and feeds insurance, financial, technology and advisory employers in and around the town. These are suit-and-screen teams, but they pull on branded polos, softshells and fleeces for conferences, away days, exhibitions, client visits and sponsored community events. The brand managers, office managers and procurement buyers who order the kit want the embroidered logo and colours to match the corporate brand precisely across every office, team and event."
+    ],
+    "kit_loc": "across the town centre and London Road corporate offices",
+    "s2_intro": "Whether you are a Reigate bank, law firm, accountancy, consultancy, insurer or a technology company"
+  },
+  "horley": {
+    "region": "Horley and Surrey",
+    "nearby": ["Redhill", "Crawley", "Reigate"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Horley, embroidered in-house to brand guidelines. Sitting on the Gatwick corridor, Horley anchors an aviation, logistics and professional-services economy beside one of the South East's biggest business districts, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Horley and the Gatwick corridor",
+    "s1loc": [
+      "Horley sits on the northern edge of Gatwick, which is headquartered in the town and drives an aviation, logistics and ground-services economy across the corridor. Just south, the Manor Royal Business District in Crawley is one of the largest such districts in Europe, hosting freight forwarders, training centres and aviation and defence manufacturers. Logistics operators such as T and C cover Horley, Redhill and Reigate, while accountancies, solicitors and consultancies serve the Gatwick Diamond from Horley town centre.",
+      "Horley's workforce feeds an aviation and professional-services economy: the financial and professional sector across the Coast to Capital area accounts for tens of thousands of jobs and businesses. These management and office teams work in suits and at screens, yet they step into branded polos, softshells and fleeces for client and site visits, away days, exhibitions and sponsored community events. The office managers and procurement buyers who order the kit insist the embroidered logo and colours match the corporate brand exactly."
+    ],
+    "kit_loc": "across the Gatwick corridor and Horley town centre",
+    "s2_intro": "Whether you are a Horley bank, law firm, accountancy, consultancy, insurer or a technology company"
+  }
+}

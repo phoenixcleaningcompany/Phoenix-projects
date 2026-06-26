@@ -1,0 +1,86 @@
+{
+  "mirfield": {
+    "region": "Mirfield and West Yorkshire",
+    "nearby": ["Dewsbury", "Brighouse", "Batley"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Mirfield, embroidered in-house to brand guidelines. Sitting inside Kirklees, one of the largest manufacturing and engineering bases in the UK with thousands of firms and a heavy professional-services support layer, the town keeps real corporate demand close to hand, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Mirfield, the Calder valley and Kirklees firms",
+    "s1loc": [
+      "Mirfield sits in the Calder valley between Dewsbury, Brighouse and Batley, inside Kirklees, where Camira Group runs one of the UK's biggest commercial-textile operations from the town and Dr Reddy's Laboratories holds a long-standing base. Across wider Kirklees, employers such as Thornton and Ross, Fox's, Syngenta and David Brown Santasalo anchor the manufacturing economy, while Fintel plc represents the financial-support sector, with accountancies, law firms and consultancies serving them from Huddersfield, Dewsbury and Leeds nearby.",
+      "Kirklees employs roughly double the national average in manufacturing and engineering, and that industrial core is wrapped in a busy professional-services layer of accountants, solicitors, surveyors and advisers. These are suited teams, but they step into branded polos, softshells and fleeces for away days, conferences, exhibitions, client and site visits, new-starter packs and sponsored community events. Office, brand and procurement managers order the kit, and they care that the logo, colours and embroidery match the brand exactly."
+    ],
+    "kit_loc": "across the town and the wider Kirklees business base",
+    "s2_intro": "Whether you are a Mirfield accountancy, a Kirklees manufacturer's head office, a law firm, a consultancy, an insurer or a technology company"
+  },
+  "yeadon": {
+    "region": "Yeadon and West Yorkshire",
+    "nearby": ["Guiseley", "Shipley", "Pudsey"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Yeadon, embroidered in-house to brand guidelines. Sitting on the Leeds Bradford Airport corridor with its own industrial estate and quick links into the Leeds and Bradford professional economies, the town keeps corporate demand within easy reach, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Yeadon, the airport corridor and Leeds firms",
+    "s1loc": [
+      "Yeadon sits beside Leeds Bradford Airport, where Jet2 plc bases its headquarters at Low Fare Finder House, with Guiseley, Shipley and Pudsey close along the A658 corridor. The Leeds Bradford Airport Industrial Estate, built on the site of the wartime Avro shadow factory, hosts logistics, distribution and manufacturing-services occupiers, while accountancies, law firms, consultancies and insurers operate from the larger Leeds and Bradford professional centres only a short drive south and east of the town.",
+      "The corridor links Yeadon into one of the country's strongest professional-services workforces, drawing on banks, advisory firms and a growing technology sector across Leeds. Day to day these teams wear suits, but they switch into branded polos, softshells and fleeces for away days, conferences, exhibitions, site and client visits, new-starter welcome packs and sponsored events. Procurement, office and brand managers place the orders, and they want every logo, colour and stitch to match the brand exactly."
+    ],
+    "kit_loc": "across the town and the airport business corridor",
+    "s2_intro": "Whether you are a Yeadon technology company, an airport-corridor head office, an accountancy, a law firm, a consultancy or an insurer"
+  },
+  "peterlee": {
+    "region": "Peterlee and County Durham",
+    "nearby": ["Seaham", "Houghton le Spring", "Hartlepool"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Peterlee, embroidered in-house to brand guidelines. As the third-largest industrial market in County Durham, with several estates and the NETPark science and technology park close by, the town keeps real corporate and engineering demand on its doorstep, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Peterlee, NETPark and County Durham engineering",
+    "s1loc": [
+      "Peterlee anchors a strong industrial base across the North West and South West Industrial Estates, Seaview Estate and Bracken Hill Business Park, with GT Emissions Systems headquartered in the town. Nearby at NETPark, the North East Technology Park, science and engineering firms such as Kromek Group plc, Coltraco Ultrasonics, Filter Integrity and Graphene Composites sit alongside catapult and innovation centres, with Seaham, Houghton le Spring and Hartlepool close by and accountancies, law firms and advisers serving the wider County Durham economy.",
+      "This engineering and technology cluster is supported by accountants, solicitors, surveyors and consultants across County Durham and the wider North East. The desk-based teams wear business dress most days, then move into branded polos, softshells and fleeces for away days, conferences, trade exhibitions, client and site visits, new-starter packs and sponsored community events. The orders come from procurement, office and brand managers, and they expect every logo, colour and embroidered detail to match the brand exactly."
+    ],
+    "kit_loc": "across the town, its estates and the NETPark corridor",
+    "s2_intro": "Whether you are a Peterlee engineering head office, a NETPark technology company, an accountancy, a law firm, a consultancy or an insurer"
+  },
+  "faversham": {
+    "region": "Faversham and Kent",
+    "nearby": ["Sittingbourne", "Whitstable", "Canterbury"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Faversham, embroidered in-house to brand guidelines. A historic Kent market town built around Shepherd Neame, the country's oldest brewer, with a working manufacturing base and professional firms serving it, the town keeps corporate demand close, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Faversham, Shepherd Neame and Kent firms",
+    "s1loc": [
+      "Faversham is the long-standing home of Shepherd Neame, the country's oldest brewer, operating from Court Street where commercial brewing has run for centuries and a business now spanning manufacturing, distribution and hundreds of pubs across the South East. Around it sits a working manufacturing and food-production base, with Sittingbourne, Whitstable and Canterbury close by and accountancies, solicitors, consultancies and insurers serving Faversham firms from the town itself and the larger Kent professional centres.",
+      "The town's professional-services layer runs from St Mary's parish and the medieval centre out to the modern estates, drawing on accountants, solicitors, surveyors and advisers across Kent. Day to day these teams wear suits, but they step into branded polos, softshells and fleeces for away days, conferences, exhibitions, client and site visits, new-starter welcome packs and sponsored events. Office, brand and procurement managers handle the orders, and they care that every logo, colour and stitch matches the brand exactly."
+    ],
+    "kit_loc": "across the town centre and the wider Kent business base",
+    "s2_intro": "Whether you are a Faversham accountancy, a brewing or manufacturing head office, a law firm, a consultancy or an insurer"
+  },
+  "burnham-on-sea": {
+    "region": "Burnham-on-Sea and Somerset",
+    "nearby": ["Bridgwater", "Weston-super-Mare", "Taunton"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Burnham-on-Sea, embroidered in-house to brand guidelines. A Somerset town with an established professional and small-business base and quick links to the larger Bridgwater and Taunton economies, it keeps real corporate demand within reach, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Burnham-on-Sea and the Somerset professional base",
+    "s1loc": [
+      "Burnham-on-Sea has a well-rooted professional-services base, with established accountancies such as Westcotts, PW John and Co and Kemp Hall serving Somerset businesses from offices including Victoria Street, alongside solicitors and advisers covering commercial property, corporate and probate work. Bridgwater, Weston-super-Mare and Taunton sit close by, broadening the corporate hinterland and bringing larger banks, law firms, consultancies, insurers and the technology and engineering employers of the wider Somerset economy within easy reach of the town.",
+      "Across the town and its neighbours, accountants, solicitors, surveyors and business advisers support a busy base of owner-managed and corporate clients. These are suited teams most of the working week, yet they move into branded polos, softshells and fleeces for away days, conferences, exhibitions, client and site visits, new-starter packs and sponsored community events. Procurement, office and brand managers place the orders, and they expect every logo, colour and embroidered detail to match the brand exactly."
+    ],
+    "kit_loc": "across the town and the wider Somerset business base",
+    "s2_intro": "Whether you are a Burnham-on-Sea accountancy, a Somerset law firm, a consultancy, an insurer or a technology company"
+  },
+  "northwich": {
+    "region": "Northwich and Cheshire",
+    "nearby": ["Sandbach", "Runcorn", "Crewe"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Northwich, embroidered in-house to brand guidelines. Home to Tata Chemicals Europe and the established Gadbrook Park business park, and at the heart of Cheshire's salt and chemicals economy, the town keeps real corporate demand close, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Northwich, Tata Chemicals and Gadbrook Park",
+    "s1loc": [
+      "Northwich is the heart of Cheshire's salt and chemicals industry, where Tata Chemicals Europe is headquartered and runs its Winnington and Lostock sites alongside British Salt, supplying salt, soda ash and sodium bicarbonate worldwide. On the edge of town, Gadbrook Park is one of West Cheshire's most established business parks, with around seventy firms across office, finance, research and production space, and accountancies, law firms, consultancies and insurers serving them from the park, the town and nearby Sandbach, Runcorn and Crewe.",
+      "Gadbrook Park and the town centre support a broad professional-services layer of accountants, solicitors, surveyors, advisers and technology firms across mid-Cheshire. The desk-based teams wear business dress most days, then switch into branded polos, softshells and fleeces for away days, conferences, exhibitions, client and site visits, new-starter welcome packs and sponsored events. Office, brand and procurement managers handle the orders, and they want every logo, colour and stitch to match the brand exactly."
+    ],
+    "kit_loc": "across the town centre and Gadbrook Park",
+    "s2_intro": "Whether you are a Northwich chemicals head office, a Gadbrook Park accountancy, a law firm, a consultancy, an insurer or a technology company"
+  },
+  "bangor": {
+    "region": "Bangor and Gwynedd",
+    "nearby": ["Llandudno", "Colwyn Bay", "Rhyl"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Bangor, embroidered in-house to brand guidelines. A North Wales cathedral city built around Bangor University, the Betsi Cadwaladr health board and the Parc Menai business park, it carries a strong public-sector and professional-services base, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Bangor, Bangor University and Parc Menai",
+    "s1loc": [
+      "Bangor is anchored by Bangor University, established in 1884, and by major public-sector employers including Cyngor Gwynedd and Betsi Cadwaladr University Health Board, whose Ysbyty Gwynedd hospital serves the region. On the edge of the city, Parc Menai hosts dozens of technology and professional firms, while the university-backed Menai Science Park, M-SParc, supports knowledge-based businesses, with accountancies, law firms, consultancies and insurers serving the city and the wider North Wales coast at Llandudno, Colwyn Bay and Rhyl.",
+      "This university, health and public-sector economy is wrapped in a professional layer of accountants, solicitors, surveyors, advisers and technology firms across Gwynedd and the North Wales coast. These teams work in business dress, then step into branded polos, softshells and fleeces for away days, conferences, exhibitions, client and site visits, new-starter packs and sponsored community events. Procurement, office and brand managers place the orders, and they expect every logo, colour and embroidered detail to match the brand exactly."
+    ],
+    "kit_loc": "across the city, the university and Parc Menai",
+    "s2_intro": "Whether you are a Bangor technology company, a Parc Menai firm, an accountancy, a law firm, a consultancy or an insurer"
+  }
+}

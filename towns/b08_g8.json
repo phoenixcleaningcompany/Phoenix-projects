@@ -1,0 +1,86 @@
+{
+  "maesteg": {
+    "region": "Maesteg and Bridgend county",
+    "nearby": ["Bridgend", "Port Talbot", "Pontypridd"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Maesteg, embroidered in-house to brand guidelines. At the head of the Llynfi Valley it anchors a base of manufacturing-services, engineering and professional firms feeding the wider Bridgend and Cardiff travel-to-work area, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Maesteg and the Llynfi Valley business base",
+    "s1loc": [
+      "Maesteg sits at the top of the Llynfi Valley in Bridgend county, with the Maesteg industrial estate on the valley floor housing engineering, manufacturing, food production and building-services businesses, and the Llynfi Enterprise Centre supporting start-ups and growing firms. Around them sit the accountancies, solicitors and consultancies that serve the valley economy, with larger regional names such as Hugh James active on local regeneration schemes including the Ewenny Road redevelopment. Many firms also look down the A4063 toward Bridgend, Pencoed and Cardiff for clients.",
+      "Maesteg has shifted from coal and large factory employment into a residential and services base for the Port Talbot, Bridgend and Cardiff travel-to-work areas, with its professional workforce split between local practices and commuting roles. These are people who work in business attire most days but step into branded polos, softshells and fleeces for away days, conferences, exhibitions, client and site visits and sponsored community events. Office and brand managers order the kit and expect it to match the logo and colours exactly."
+    ],
+    "kit_loc": "across the industrial estate and the wider valley",
+    "s2_intro": "Whether you are a Maesteg accountancy, a Llynfi Valley engineering firm, a local solicitor, a consultancy or a technology company"
+  },
+  "buckley": {
+    "region": "Buckley and Flintshire",
+    "nearby": ["Wrexham", "Ellesmere Port", "Prestatyn"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Buckley, embroidered in-house to brand guidelines. On the Deeside corridor it sits beside one of the strongest advanced-manufacturing clusters in Wales and its supporting professional firms, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Buckley and the Deeside corridor",
+    "s1loc": [
+      "Buckley sits in Flintshire on the Deeside corridor, a short run from the Deeside Industrial Park and Enterprise Zone where advanced manufacturers operate alongside major regional employers such as Airbus at Broughton, Toyota, Tata Steel, Raytheon UK and the UPM Shotton mill. The town itself carries a service-oriented core of accountancies, solicitors, consultancies and business-support firms, with co-working and managed office space serving smaller companies, and many businesses tie into the supply chains and professional networks of the wider Mersey Dee region.",
+      "Buckley's working population spreads across the local service base and the manufacturing and logistics roles of Deeside, with many residents also commuting into Cheshire and Liverpool for professional work. The accountants, advisers and consultancies serving them wear business dress for the desk but pull on branded polos, softshells and fleeces for exhibitions, away days, conferences, supplier visits and sponsored community events. Procurement and office managers place the orders and expect embroidery that matches the brand pack precisely across every site."
+    ],
+    "kit_loc": "across the town and the Deeside business parks",
+    "s2_intro": "Whether you are a Buckley accountancy, a Deeside manufacturer, a local solicitor, a consultancy or a technology company"
+  },
+  "hythe": {
+    "region": "Hythe and Kent",
+    "nearby": ["Folkestone", "Dover", "Ashford"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Hythe, embroidered in-house to brand guidelines. This east Kent town carries a long-established professional and small-business base feeding the wider Folkestone, Dover and Ashford economy, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Hythe and its east Kent professional base",
+    "s1loc": [
+      "Hythe in Kent carries a long-established professional core along its High Street and Stade Street, home to firms such as Kingsfords Solicitors and Robson and Co, who have advised local businesses and families for decades, alongside accountancy and bookkeeping practices and independent consultancies. The town works closely with the larger commercial centres of Folkestone, Ashford and Dover, where corporate, financial and logistics clients sit, and many Hythe advisers serve companies across this east Kent corridor from offices in the town centre.",
+      "Hythe's professional and small-business workforce blends town-centre practices with people commuting toward Folkestone, Ashford and the London-bound services. Solicitors, accountants, insurers and consultants here work in business attire but switch into branded polos, softshells and fleeces for conferences, exhibitions, away days, client visits and sponsored community events. Office and brand managers across these firms order the kit and expect logo, colours and embroidery to match their brand guidelines exactly on every garment and every reorder."
+    ],
+    "kit_loc": "across the town centre and the east Kent corridor",
+    "s2_intro": "Whether you are a Hythe solicitor, an accountancy practice, a consultancy, an insurer or a technology company"
+  },
+  "berkhamsted": {
+    "region": "Berkhamsted and Hertfordshire",
+    "nearby": ["Hemel Hempstead", "Chesham", "Watford"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Berkhamsted, embroidered in-house to brand guidelines. An affluent Hertfordshire commuter town with a strong professional-services and media-creative base, it sits 35 minutes from London Euston, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Berkhamsted and its professional and creative firms",
+    "s1loc": [
+      "Berkhamsted is an affluent Hertfordshire commuter town with a busy High Street economy and managed office space such as the Berkhamsted Business Centre supporting accountancies, solicitors, consultancies and independent advisers. It carries a notable media and creative cluster, with agencies across the wider Hertfordshire corridor including MCS Creative and the British Film Institute among the area's recognised employers, alongside the technology, marketing and design firms that favour the town's character. Excellent A41, M25 and M1 links keep its businesses connected to Hemel Hempstead, Watford and London.",
+      "Berkhamsted sits 25 miles from London with a fast Euston rail link, and many of its professionals split time between local practices and the capital. Accountants, lawyers, consultants, insurers and creative and technology staff here work in business dress but step into branded polos, softshells and fleeces for away days, conferences, exhibitions, client and pitch meetings and sponsored community events. Brand and office managers place the orders and insist the embroidery, logo and colours match their guidelines exactly across every team."
+    ],
+    "kit_loc": "across the High Street and the commuter corridor",
+    "s2_intro": "Whether you are a Berkhamsted accountancy, a creative or media agency, a law firm, a consultancy or a technology company"
+  },
+  "dumbarton": {
+    "region": "Dumbarton and West Dunbartonshire",
+    "nearby": ["Clydebank", "Renfrew", "Glasgow"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Dumbarton, embroidered in-house to brand guidelines. Home to Aggreko's manufacturing campus and the Lomondgate business park, it anchors a manufacturing-services and professional base west of Glasgow, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Dumbarton, Aggreko and Lomondgate",
+    "s1loc": [
+      "Dumbarton in West Dunbartonshire is a manufacturing-services centre anchored by Aggreko, which has consolidated its Dumbarton operations into a campus at Lomondgate bringing more than 300 staff together to build modular power and temperature-control units. The Lomondgate business park also hosts the BBC's Dumbarton Studios and firms including Innova and Chivas, while the nearby Vale of Leven Industrial Estate adds further employers. Around them sit the accountancies, solicitors, consultancies and business-support firms that serve the town and the wider Glasgow city region.",
+      "Dumbarton's professional and technical workforce blends local practices with the strong corporate and financial pull of Glasgow, a short rail run east. Accountants, advisers, consultants, insurers and the engineers and managers at firms like Aggreko work in business or technical dress but switch into branded polos, softshells and fleeces for conferences, exhibitions, away days, client and site visits and sponsored community events. Procurement and brand managers order the kit and expect logo, colours and embroidery to match their guidelines exactly."
+    ],
+    "kit_loc": "across Lomondgate and the wider town",
+    "s2_intro": "Whether you are a Dumbarton manufacturer, an accountancy, a solicitor, a consultancy or a technology company"
+  },
+  "alloa": {
+    "region": "Alloa and Clackmannanshire",
+    "nearby": ["Falkirk", "Dunfermline", "Cumbernauld"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Alloa, embroidered in-house to brand guidelines. With a long brewing and manufacturing heritage anchored by Diageo and Williams Bros, it is the commercial and administrative hub of Clackmannanshire, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Alloa, brewing and the Clackmannanshire economy",
+    "s1loc": [
+      "Alloa is the commercial and administrative hub of Clackmannanshire, with a brewing and manufacturing tradition anchored by Diageo's packaging and warehouse operations and the family-owned Williams Bros Brewing Co, supported by engineering firms such as Henderson Engineers and CWS Alloa working in fabrication, welding and structural work. Clackmannanshire Council's headquarters employs over 2,000 staff in the town, and Forth Valley College's Alloa campus trains in business and engineering, feeding a base of accountancies, solicitors and consultancies serving the local economy.",
+      "Alloa's professional workforce mixes town-centre practices, the council and college, and commuting roles toward Falkirk, Stirling and the wider Forth Valley. Accountants, advisers, consultants, insurers and the managers at its manufacturing and brewing employers work in business or technical dress but pull on branded polos, softshells and fleeces for away days, conferences, exhibitions, client and site visits and sponsored community events. Office and procurement managers order the kit and expect embroidery, logo and colours to match their brand pack exactly."
+    ],
+    "kit_loc": "across the town and its business parks",
+    "s2_intro": "Whether you are an Alloa accountancy, a brewer or manufacturer, a solicitor, a consultancy or a technology company"
+  },
+  "ripley": {
+    "region": "Ripley and Derbyshire",
+    "nearby": ["Belper", "Alfreton", "Ilkeston"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Ripley, embroidered in-house to brand guidelines. An Amber Valley market town with manufacturing, logistics and a base of professional firms close to Derby, it sits among more than 4,600 borough businesses, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Ripley and the Amber Valley economy",
+    "s1loc": [
+      "Ripley is an Amber Valley market town about seven miles northeast of Derby, with the Heage Road industrial estate supporting logistics and small-scale production and a town-centre base of accountancies, solicitors, consultancies and business-support firms. The wider borough leans on advanced manufacturing, construction and food production, with major names nearby including the privately owned construction and development group Bowmer and Kirkland at Heage and the Luke Evans Bakery at Riddings, anchoring supply chains and professional networks that Ripley firms plug into across the region.",
+      "Amber Valley hosts more than 4,600 SMEs, and Ripley's professional workforce blends local practices with commuting roles toward Derby, Alfreton and Nottingham. Accountants, advisers, consultants, insurers and the managers at its manufacturing and logistics firms work in business or technical dress but switch into branded polos, softshells and fleeces for conferences, exhibitions, away days, client and site visits and sponsored community events. Procurement and office managers order the kit and expect logo, colours and embroidery to match their brand guidelines exactly."
+    ],
+    "kit_loc": "across the town centre and Heage Road",
+    "s2_intro": "Whether you are a Ripley accountancy, a manufacturer or logistics firm, a solicitor, a consultancy or a technology company"
+  }
+}

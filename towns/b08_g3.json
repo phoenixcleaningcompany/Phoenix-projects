@@ -1,0 +1,86 @@
+{
+  "godalming": {
+    "region": "Godalming and Surrey",
+    "nearby": ["Guildford", "Farnham", "Camberley"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Godalming, embroidered in-house to brand guidelines. An affluent Surrey professional base with a financial-services and small-business core and a growing IT and digital cluster, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Godalming's professional and tech base",
+    "s1loc": [
+      "Godalming carries a dense professional-services layer for an affluent Surrey town. Accountancy and advisory firms include Moore Kingston Smith, Azets at Ashcombe Court near the station, Butt Miller, Hughes Waddell, Edwards Greene and JML Accountancy, serving private clients, family trusts and limited companies. The Catteshall area off Catteshall Lane is a recognised technology cluster, home to MTI Technology, Business Data Specialists, The Content Group and Aegis Data Centre, alongside finance, legal, insurance and property practices around the High Street and Borough Road.",
+      "The professional workforce here is sizeable for the town's scale, drawing on commuter links to Guildford, Farnham and London and a well-qualified local talent pool. Accountants, IT specialists, insurers, surveyors and lawyers wear suits day to day, then step into branded polos, softshells and fleeces for conferences, away days, exhibitions, client and site visits and sponsored community events. Office managers, brand leads and procurement contacts buy the kit, and they care that the logo, colours and embroidery match the brand exactly every single time."
+    ],
+    "kit_loc": "across the High Street, Borough Road and the Catteshall technology cluster",
+    "s2_intro": "Whether you are a Godalming accountancy, a law firm, an insurer, a financial-services practice or a technology company"
+  },
+  "sandhurst": {
+    "region": "Sandhurst and Berkshire",
+    "nearby": ["Camberley", "Bracknell", "Wokingham"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Sandhurst, embroidered in-house to brand guidelines. A Bracknell Forest professional base where information technology, finance and engineering sit alongside business parks and defence-linked support work, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Sandhurst's business parks and firms",
+    "s1loc": [
+      "Sandhurst sits in the high-tech belt of Bracknell Forest, where professional services such as information technology and finance account for around a fifth of district employment. Companies cluster across local business parks including Lakeside Business Park, with engineering, IT, consultancy and support firms serving wider Berkshire. The town's economy is shaped by its position between Camberley, Bracknell and Wokingham, and by the support services and professional firms that grow up around the long-established Royal Military Academy and the surrounding employer base.",
+      "Sandhurst's working population leans technical and professional, drawing on the qualified Thames Valley labour pool and strong road and rail links into Reading and London. Engineers, IT consultants, accountants, insurers and project managers work in suits or smart office wear, then move into branded polos, softshells and fleeces for conferences, away days, exhibitions, client visits and sponsored community events. The buyers are office managers, brand leads and procurement teams who want the logo, colours and embroidery to match their brand precisely across every order."
+    ],
+    "kit_loc": "across the town's business parks and office estates",
+    "s2_intro": "Whether you are a Sandhurst engineering firm, an IT consultancy, an accountancy, an insurer or a technology company"
+  },
+  "woodley": {
+    "region": "Woodley and Berkshire",
+    "nearby": ["Reading", "Wokingham", "Bracknell"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Woodley, embroidered in-house to brand guidelines. A Reading-corridor town with deep aviation and light-engineering heritage and modern business parks built on the former aerodrome, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Woodley's aerospace heritage and business parks",
+    "s1loc": [
+      "Woodley grew around its aerodrome, opened in 1929, where Phillips and Powis, later Miles Aircraft, designed and built thousands of aircraft before Handley Page took over the works. When flying ceased, the site was redeveloped by Adwest Properties into housing and light industry, and the Adwest Group and its tenants used many former Miles factory buildings for decades. Today the area carries business parks and light-engineering, IT and technical firms feeding the wider Reading corridor, with aviation-themed road names marking the old airfield.",
+      "Woodley's workforce is closely tied to Reading's Thames Valley economy, with strong commuter links to Wokingham, Bracknell and Reading's banks, professional firms and technology employers. Engineers, IT specialists, accountants, insurers and consultants work in office wear, then switch into branded polos, softshells and fleeces for conferences, away days, exhibitions, client and site visits and sponsored community events. Office managers, brand leads and procurement contacts order the kit, and they expect the logo, colours and embroidery to match the brand exactly every time."
+    ],
+    "kit_loc": "across the former aerodrome business parks and the Reading corridor",
+    "s2_intro": "Whether you are a Woodley engineering firm, a technology company, an accountancy, an insurer or a professional practice"
+  },
+  "crowborough": {
+    "region": "Crowborough and East Sussex",
+    "nearby": ["Tunbridge Wells", "East Grinstead", "Haywards Heath"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Crowborough, embroidered in-house to brand guidelines. The largest inland town in East Sussex, a commuter professional base with a strong small-business and self-employed core feeding London and Tunbridge Wells, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Crowborough's professional and small-business base",
+    "s1loc": [
+      "Crowborough is the largest and highest inland town in East Sussex, sitting in the Wealden district that holds around a third of the county's business stock. Professional, scientific and technical services form a substantial share of local employment, alongside clusters of manufacturing firms and a strong layer of consultancies, HR advisers such as Fitzgerald HR, accountants and small professional practices. Rail links from Crowborough station carry higher-skilled professionals into Tunbridge Wells and London, shaping a commuter economy around the town centre.",
+      "Self-employment runs high across Wealden, near eighteen percent, so Crowborough's professional base is a dense mix of consultants, accountants, insurers, advisers and owner-managed firms serving an affluent commuter demographic. These professionals work in suits or smart office wear, then move into branded polos, softshells and fleeces for conferences, away days, exhibitions, client visits and sponsored community events. The buyers are office managers, brand leads and procurement contacts who want the logo, colours and embroidery to match their brand exactly across every order."
+    ],
+    "kit_loc": "across the town centre and the surrounding Wealden business base",
+    "s2_intro": "Whether you are a Crowborough consultancy, an accountancy, a law firm, an insurer or a technology company"
+  },
+  "caterham": {
+    "region": "Caterham and Surrey",
+    "nearby": ["Redhill", "Croydon", "Reigate"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Caterham, embroidered in-house to brand guidelines. A Surrey commuter town in the Tandridge district with a noted engineering name in Caterham Cars and strong professional links into London and the wider south east, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Caterham's engineering and professional base",
+    "s1loc": [
+      "Caterham's best-known name is Caterham Cars, the specialist lightweight sports-car maker founded in 1959, whose group brings production, engineering, motorsport and commercial teams together and supplies engineering services to automotive, motorsport, marine and aerospace clients. Around this sit Caterham's professional firms - accountants, insurers, legal and property practices and consultancies - integrated into Surrey's high-value, service-oriented Tandridge economy, with strong rail links along the Caterham branch line into Croydon and London and quick access to the M25.",
+      "Caterham functions largely as a commuter base, with far more economically active residents than local jobs and significant net out-commuting into London. Engineers, accountants, insurers, consultants and lawyers work in office wear, then step into branded polos, softshells and fleeces for conferences, away days, exhibitions, client and site visits and sponsored community events. Office managers, brand leads and procurement contacts buy the kit, and they care that the logo, colours and embroidery match the brand exactly every single time."
+    ],
+    "kit_loc": "across the town centre, the engineering base and the Tandridge professional district",
+    "s2_intro": "Whether you are a Caterham engineering firm, an accountancy, a law firm, an insurer or a technology company"
+  },
+  "wellington": {
+    "region": "Wellington and Somerset",
+    "nearby": ["Taunton", "Bridgwater", "Tiverton"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Wellington, embroidered in-house to brand guidelines. A Somerset market town near Taunton with a long manufacturing tradition led by names such as Relyon and Swallowfield, plus a steady layer of professional firms, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Wellington's manufacturing and professional firms",
+    "s1loc": [
+      "Wellington is a Somerset market town seven miles south west of Taunton with a strong manufacturing base. Bed maker Relyon, established in 1858 and renamed in 1935, employs around four hundred people, while Swallowfield, founded in 1876 and now part of global manufacturer Kdc/one, runs a sizeable local factory making aerosol, cosmetic and toiletry products with a workforce in the hundreds. Around these large employers sit accountants, insurers, legal and property practices and consultancies serving the town and the wider Taunton economy.",
+      "Wellington's working population spans factory floors and a professional layer of accountants, insurers, advisers and consultants, with close links to Taunton, Bridgwater and Tiverton. These professional teams work in office wear day to day, then move into branded polos, softshells and fleeces for conferences, away days, exhibitions, client and site visits and sponsored community events. The buyers are office managers, brand leads and procurement contacts who want the logo, colours and embroidery to match the brand exactly across every order they place."
+    ],
+    "kit_loc": "across the town centre and the surrounding industrial and business estates",
+    "s2_intro": "Whether you are a Wellington manufacturer, an accountancy, an insurer, a consultancy or a technology company"
+  },
+  "bathgate": {
+    "region": "Bathgate and West Lothian",
+    "nearby": ["Livingston", "Falkirk", "Airdrie"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Bathgate, embroidered in-house to brand guidelines. A West Lothian town with Whitburn and Bathgate business parks, advanced manufacturing and a layer of professional firms along the M8 corridor, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Bathgate's business parks and manufacturing",
+    "s1loc": [
+      "Bathgate's commercial base runs along the Whitburn Road and across Bathgate Business Park and the nearby Pyramids Business Park, which together offer hundreds of thousands of square feet of office and industrial space. Major employers in the area include Mitsubishi Electric and Balfour Beatty, and the town's economy has shifted firmly towards advanced manufacturing, business administration and support services. Bathgate Business Centre in the town centre, run by West Lothian Council, anchors a steady layer of accountants, insurers, consultancies and professional firms with easy M8 access.",
+      "Bathgate sits in a West Lothian economy whose largest sectors include healthcare, construction, manufacturing and business administration, with a skilled local workforce linked to Livingston, Falkirk and Airdrie and quick connections to Edinburgh and Glasgow. Engineers, accountants, insurers, consultants and managers work in office wear, then step into branded polos, softshells and fleeces for conferences, away days, exhibitions, client and site visits and sponsored community events. Office managers, brand leads and procurement contacts order the kit and expect the logo, colours and embroidery to match the brand exactly."
+    ],
+    "kit_loc": "across Bathgate Business Park, the Whitburn Road and the M8 corridor",
+    "s2_intro": "Whether you are a Bathgate manufacturer, an engineering firm, an accountancy, an insurer or a technology company"
+  }
+}
