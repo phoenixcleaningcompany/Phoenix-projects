@@ -1,7 +1,11 @@
 {
   "exeter": {
     "region": "Exeter and Devon",
-    "nearby": ["Exmouth", "Tiverton", "Newton Abbot"],
+    "nearby": [
+      "Exmouth",
+      "Tiverton",
+      "Newton Abbot"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Exeter, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Exeter and Devon",
     "s1loc": [
@@ -13,7 +17,11 @@
   },
   "solihull": {
     "region": "Solihull and the West Midlands",
-    "nearby": ["Birmingham", "Coventry", "Sutton Coldfield"],
+    "nearby": [
+      "Birmingham",
+      "Coventry",
+      "Sutton Coldfield"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Solihull, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade on the NEC's doorstep",
     "s1loc": [
@@ -25,7 +33,11 @@
   },
   "colchester": {
     "region": "Colchester and Essex",
-    "nearby": ["Chelmsford", "Ipswich", "Basildon"],
+    "nearby": [
+      "Chelmsford",
+      "Ipswich",
+      "Basildon"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Colchester, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Colchester and Essex",
     "s1loc": [
@@ -37,7 +49,11 @@
   },
   "cheltenham": {
     "region": "Cheltenham and Gloucestershire",
-    "nearby": ["Gloucester", "Worcester", "Swindon"],
+    "nearby": [
+      "Gloucester",
+      "Worcester",
+      "Swindon"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Cheltenham, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting Cheltenham, the festival town",
     "s1loc": [
@@ -49,19 +65,29 @@
   },
   "gateshead": {
     "region": "Gateshead and Tyne and Wear",
-    "nearby": ["Newcastle upon Tyne", "Sunderland", "Washington"],
+    "nearby": [
+      "Newcastle upon Tyne",
+      "Sunderland",
+      "Washington"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Gateshead, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of the Tyne's south bank",
     "s1loc": [
       "Gateshead anchors the live-music side of the Tyne. The Glasshouse International Centre for Music, the curved venue formerly known as Sage Gateshead, sits on the south bank as a home for everything from rock and pop gigs to the Royal Northern Sinfonia and the SummerTyne Americana Festival. Next door, the Baltic Centre for Contemporary Art and the wider quayside host open-air events and seasonal happenings, while Saltwell Park takes summer music days and the Enchanted Parks winter trail across its grounds.",
-      "And the trade runs at every size here. Major venues, festival operators and production companies field big crews and large seasonal teams and buy through procurement, while independent event crews, promoters and entertainers across Gateshead and the wider Tyneside scene need just a few branded pieces. A workwear supplier here has to serve the quayside festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side, with embroidery done in-house."
+      "And the trade runs at every size here. Major venues, festival operators and production companies field big crews and large seasonal teams and buy through procurement, while independent event crews, promoters and entertainers across Gateshead and the wider Tyneside scene need just a few branded pieces. A workwear supplier here has to serve the quayside festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side, with embroidery done in-house.",
+      "Gateshead's own events spread well beyond the quayside. Gateshead International Stadium hosts major athletics meetings and outdoor concerts, Saltwell Park draws big community days, Trinity Square and the town centre run seasonal markets and live programmes, and the Angel of the North stands over it all as the region's landmark. Sitting across the Tyne from Newcastle, the town shares one of the busiest events calendars in the North East, so crews and front-of-house teams move between both banks through the year.",
+      "Gateshead's events reach goes wider still. The Gateshead Millennium Bridge and the quays host the region's big riverside celebrations and firework nights, while Dunston and the Team Valley anchor a busy outdoor and exhibition trade on the south bank. With NewcastleGateshead marketing one shared calendar across both sides of the Tyne, and the Baltic and the Glasshouse drawing year-round audiences, the town keeps stage, rigging and front-of-house crews moving through a packed programme from the river up to Low Fell across the year, alongside the seasonal markets and community days that fill its parks."
     ],
     "kit_loc": "across the city's venues, festivals and events",
     "s2_intro": "Whether you are a major Gateshead venue or festival, a production company or a small independent event crew across Tyneside"
   },
   "high wycombe": {
     "region": "High Wycombe and Buckinghamshire",
-    "nearby": ["Maidenhead", "Aylesbury", "Slough"],
+    "nearby": [
+      "Maidenhead",
+      "Aylesbury",
+      "Slough"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across High Wycombe, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of High Wycombe",
     "s1loc": [
@@ -73,7 +99,11 @@
   },
   "blackburn": {
     "region": "Blackburn and Lancashire",
-    "nearby": ["Darwen", "Accrington", "Burnley"],
+    "nearby": [
+      "Darwen",
+      "Accrington",
+      "Burnley"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Blackburn, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Blackburn and Lancashire",
     "s1loc": [

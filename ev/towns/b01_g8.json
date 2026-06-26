@@ -1,7 +1,11 @@
 {
   "dartford": {
     "region": "Dartford and Kent",
-    "nearby": ["Gravesend", "Erith", "Sidcup"],
+    "nearby": [
+      "Gravesend",
+      "Erith",
+      "Sidcup"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Dartford, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of north-west Kent",
     "s1loc": [
@@ -13,7 +17,11 @@
   },
   "bedford": {
     "region": "Bedford and Bedfordshire",
-    "nearby": ["Kempston", "Luton", "Milton Keynes"],
+    "nearby": [
+      "Kempston",
+      "Luton",
+      "Milton Keynes"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Bedford, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Bedfordshire",
     "s1loc": [
@@ -25,7 +33,11 @@
   },
   "doncaster": {
     "region": "Doncaster and South Yorkshire",
-    "nearby": ["Rotherham", "Barnsley", "Mexborough"],
+    "nearby": [
+      "Rotherham",
+      "Barnsley",
+      "Mexborough"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Doncaster, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of South Yorkshire",
     "s1loc": [
@@ -37,7 +49,11 @@
   },
   "worthing": {
     "region": "Worthing and West Sussex",
-    "nearby": ["Hove", "Brighton", "Shoreham-by-Sea"],
+    "nearby": [
+      "Hove",
+      "Brighton",
+      "Shoreham-by-Sea"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Worthing, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of West Sussex",
     "s1loc": [
@@ -49,7 +65,11 @@
   },
   "rotherham": {
     "region": "Rotherham and South Yorkshire",
-    "nearby": ["Sheffield", "Barnsley", "Doncaster"],
+    "nearby": [
+      "Sheffield",
+      "Barnsley",
+      "Doncaster"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Rotherham, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of South Yorkshire",
     "s1loc": [
@@ -61,7 +81,11 @@
   },
   "mansfield": {
     "region": "Mansfield and Nottinghamshire",
-    "nearby": ["Sutton-in-Ashfield", "Hucknall", "Worksop"],
+    "nearby": [
+      "Sutton-in-Ashfield",
+      "Hucknall",
+      "Worksop"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Mansfield, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of north Nottinghamshire",
     "s1loc": [
@@ -73,12 +97,17 @@
   },
   "eastbourne": {
     "region": "Eastbourne and East Sussex",
-    "nearby": ["Bexhill-on-Sea", "Hastings", "Seaford"],
+    "nearby": [
+      "Bexhill-on-Sea",
+      "Hastings",
+      "Seaford"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Eastbourne, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of East Sussex",
     "s1loc": [
       "Eastbourne packs its venues into the Devonshire Quarter. The Congress Theatre, a 1,680-seat house, takes touring musicals, ballet, opera and live music, the Grade II listed Devonshire Park Theatre runs shows the year round, and the historic Winter Garden splits the Floral Hall and Gold Room across concerts and events. The town also fills its summer with big open-air programming, including the Airbourne airshow that draws huge crowds and a full run of outdoor events through Devonshire Park.",
-      "And the trade runs at every size. Major venues, festival operators and production companies field big crews and large seasonal teams and buy through procurement, while independent event crews, promoters and entertainers across Eastbourne and along the East Sussex coast toward Bexhill-on-Sea need just a few branded pieces. A workwear supplier here has to serve the big festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side."
+      "And the trade runs at every size. Major venues, festival operators and production companies field big crews and large seasonal teams and buy through procurement, while independent event crews, promoters and entertainers across Eastbourne and along the East Sussex coast toward Bexhill-on-Sea need just a few branded pieces. A workwear supplier here has to serve the big festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side.",
+      "Eastbourne backs its theatres with a strong outdoor calendar. Devonshire Park hosts the Rothesay International tennis under canvas each June, the Towner gallery drew the Turner Prize to the town, the seafront Bandstand runs concerts right through the summer, and the Airbourne airshow turns the front into a four-day event. Add the Winter Garden and Congress Theatre programme and the town keeps stage crews, riggers and front-of-house staff busy from the parks to the promenade across the season."
     ],
     "kit_loc": "across the town's venues, festivals and events",
     "s2_intro": "Whether you are a major Eastbourne venue or festival, a production company or a small independent event crew in the Devonshire Quarter"

@@ -1,7 +1,11 @@
 {
   "aberdeen": {
     "region": "Aberdeen and the North East of Scotland",
-    "nearby": ["Dundee", "Elgin", "Perth"],
+    "nearby": [
+      "Dundee",
+      "Elgin",
+      "Perth"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Aberdeen, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of the North East",
     "s1loc": [
@@ -13,7 +17,11 @@
   },
   "reading": {
     "region": "Reading and Berkshire",
-    "nearby": ["Wokingham", "Bracknell", "Slough"],
+    "nearby": [
+      "Wokingham",
+      "Bracknell",
+      "Slough"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Reading, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Berkshire",
     "s1loc": [
@@ -25,7 +33,11 @@
   },
   "northampton": {
     "region": "Northampton and Northamptonshire",
-    "nearby": ["Wellingborough", "Kettering", "Rugby"],
+    "nearby": [
+      "Wellingborough",
+      "Kettering",
+      "Rugby"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Northampton, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Northamptonshire",
     "s1loc": [
@@ -37,7 +49,11 @@
   },
   "luton": {
     "region": "Luton and Bedfordshire",
-    "nearby": ["Dunstable", "Bedford", "Hitchin"],
+    "nearby": [
+      "Dunstable",
+      "Bedford",
+      "Hitchin"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Luton, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Bedfordshire",
     "s1loc": [
@@ -49,7 +65,11 @@
   },
   "portsmouth": {
     "region": "Portsmouth and Hampshire",
-    "nearby": ["Gosport", "Havant", "Fareham"],
+    "nearby": [
+      "Gosport",
+      "Havant",
+      "Fareham"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Portsmouth, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Portsmouth",
     "s1loc": [
@@ -61,19 +81,28 @@
   },
   "peterborough": {
     "region": "Peterborough and Cambridgeshire",
-    "nearby": ["Spalding", "Stamford", "Corby"],
+    "nearby": [
+      "Spalding",
+      "Stamford",
+      "Corby"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Peterborough, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Peterborough",
     "s1loc": [
       "Peterborough builds its events around the river. The New Theatre in the city centre hosts touring shows, musicals, concerts and comedy, while the Embankment beside the Lido stages the city's biggest outdoor events, from music festivals and beer festivals to fun fairs along the riverside through the summer. The cathedral city draws crews from Stamford, Spalding and Corby, filling the seasonal calendar with stewarding, staging and production work across Cambridgeshire.",
-      "And the trade runs at every size here. The New Theatre, the Embankment, festival operators and production companies field big crews and large seasonal teams and buy through procurement, while independent event crews, promoters and entertainers across Cambridgeshire want just a few branded pieces. A workwear supplier here has to serve the big festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side."
+      "And the trade runs at every size here. The New Theatre, the Embankment, festival operators and production companies field big crews and large seasonal teams and buy through procurement, while independent event crews, promoters and entertainers across Cambridgeshire want just a few branded pieces. A workwear supplier here has to serve the big festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side.",
+      "Peterborough runs its biggest events outdoors and at the showground. The East of England Arena and Showground hosts Truckfest and major outdoor shows, the Embankment beside the river is the city's main festival site, the Key Theatre and the Cathedral cover the indoor and choral side, and the city centre programmes seasonal live days. Sitting where the East Midlands meets the Fens, the city draws crews and production teams from a wide catchment for its arena and outdoor events."
     ],
     "kit_loc": "across the city's venues, festivals and events",
     "s2_intro": "Whether you are a major Peterborough venue or festival, a production company or a small independent event crew in Cambridgeshire"
   },
   "bolton": {
     "region": "Bolton and Greater Manchester",
-    "nearby": ["Bury", "Wigan", "Salford"],
+    "nearby": [
+      "Bury",
+      "Wigan",
+      "Salford"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Bolton, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Bolton",
     "s1loc": [

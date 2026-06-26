@@ -1,7 +1,11 @@
 {
   "dundee": {
     "region": "Dundee and Tayside",
-    "nearby": ["Perth", "Arbroath", "Dunfermline"],
+    "nearby": [
+      "Perth",
+      "Arbroath",
+      "Dunfermline"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Dundee, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Tayside",
     "s1loc": [
@@ -13,19 +17,28 @@
   },
   "cambridge": {
     "region": "Cambridge and Cambridgeshire",
-    "nearby": ["Peterborough", "Bedford", "Bishop's Stortford"],
+    "nearby": [
+      "Peterborough",
+      "Bedford",
+      "Bishop's Stortford"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Cambridge, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Cambridgeshire",
     "s1loc": [
       "Cambridge carries a busy live calendar. The Corn Exchange on Wheeler Street is the city's biggest room for music and comedy, Cambridge Junction off Hills Road anchors the grassroots gigs, club nights and new bands, and the long-running Cambridge Folk Festival fills Cherry Hinton Hall each summer with names from across the folk and roots world, while Strawberry Fair takes over Midsummer Common as a free day of stages, sound systems and street performers.",
-      "And the trade runs at every size here. Major venues, festival operators and production companies run large seasonal crews and buy through procurement, while independent event crews, promoters and entertainers around the Mill Road quarter and the wider county need just a few branded pieces. A workwear supplier here has to serve the big festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side."
+      "And the trade runs at every size here. Major venues, festival operators and production companies run large seasonal crews and buy through procurement, while independent event crews, promoters and entertainers around the Mill Road quarter and the wider county need just a few branded pieces. A workwear supplier here has to serve the big festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side.",
+      "Cambridge adds a layer of events the colleges make unique. The West Road Concert Hall and the ADC Theatre run year-round, Parker's Piece and Midsummer Common turn into big open-air event sites for funfairs and live nights, and every June the May Balls fill the college courts with marquees, staging and crews through the small hours. The Cambridge Film Festival and a busy summer of open-air Shakespeare in the college gardens keep production and front-of-house teams working right across the city."
     ],
     "kit_loc": "across the city's venues, festivals and events",
     "s2_intro": "Whether you are a major Cambridge venue or festival, a production company or a small independent event crew around Mill Road"
   },
   "york": {
     "region": "York and North Yorkshire",
-    "nearby": ["Harrogate", "Selby", "Knaresborough"],
+    "nearby": [
+      "Harrogate",
+      "Selby",
+      "Knaresborough"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across York, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of North Yorkshire",
     "s1loc": [
@@ -37,7 +50,11 @@
   },
   "blackpool": {
     "region": "Blackpool and the Fylde coast",
-    "nearby": ["Fleetwood", "Thornton Cleveleys", "Lytham St Annes"],
+    "nearby": [
+      "Fleetwood",
+      "Thornton Cleveleys",
+      "Lytham St Annes"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Blackpool, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of the Fylde coast",
     "s1loc": [
@@ -49,7 +66,11 @@
   },
   "ipswich": {
     "region": "Ipswich and Suffolk",
-    "nearby": ["Colchester", "Chelmsford", "Norwich"],
+    "nearby": [
+      "Colchester",
+      "Chelmsford",
+      "Norwich"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Ipswich, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Suffolk",
     "s1loc": [
@@ -61,7 +82,11 @@
   },
   "middlesbrough": {
     "region": "Middlesbrough and Teesside",
-    "nearby": ["Stockton-on-Tees", "Redcar", "Thornaby-on-Tees"],
+    "nearby": [
+      "Stockton-on-Tees",
+      "Redcar",
+      "Thornaby-on-Tees"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Middlesbrough, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Teesside",
     "s1loc": [
@@ -73,7 +98,11 @@
   },
   "gloucester": {
     "region": "Gloucester and Gloucestershire",
-    "nearby": ["Cheltenham", "Worcester", "Swindon"],
+    "nearby": [
+      "Cheltenham",
+      "Worcester",
+      "Swindon"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Gloucester, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Gloucestershire",
     "s1loc": [
