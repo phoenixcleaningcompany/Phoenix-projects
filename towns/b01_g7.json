@@ -1,0 +1,86 @@
+{
+  "maidstone": {
+    "region": "Maidstone and Kent",
+    "nearby": ["Chatham", "Rochester", "Tonbridge"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Maidstone, embroidered in-house to brand guidelines. As the county town of Kent and one of its largest professional-services and administrative centres, Maidstone carries thousands of firms and county headquarters, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Maidstone, the professional core of Kent",
+    "s1loc": [
+      "As the county town of Kent, Maidstone is the legal and administrative heart of the area, with long-established firms working from King Street and the town centre. Brachers traces its roots to 1895 and fields more than twenty partners, while Whitehead Monckton dates to 1781 and advises businesses across Kent from its Maidstone base. Accountancies including MHA, Azets and Loucas sit alongside them, many clustered around Eclipse Park off junction 7 of the M20, where modern offices serve clients across the county.",
+      "Maidstone holds the highest concentration of businesses in Kent, well over seven thousand firms from start-ups to multinationals, supported by Kent County Council and a deep base of solicitors, accountants, consultancies and insurers. The professional-services workforce here wears suits day to day, but steps into branded polos, softshells and fleeces for conferences, away days, exhibitions, client visits and sponsored community events. Office and brand managers order that kit and care that it matches the firm exactly, from the embroidered logo to the corporate colours."
+    ],
+    "kit_loc": "across the town centre and the Eclipse Park offices",
+    "s2_intro": "Whether you are a Maidstone bank, law firm, accountancy, consultancy, insurer or a technology company"
+  },
+  "basingstoke": {
+    "region": "Basingstoke and Hampshire",
+    "nearby": ["Andover", "Newbury", "Farnborough"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Basingstoke, embroidered in-house to brand guidelines. Home to a remarkable density of corporate UK headquarters and around eighty-five thousand jobs across its business parks, Basingstoke is one of the south east's strongest commercial centres, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Basingstoke, a town of corporate headquarters",
+    "s1loc": [
+      "Basingstoke punches far above its size for corporate headquarters, anchored by business parks at Viables, Chineham, the town centre and Basing View. Viables alone hosts Sony, De La Rue and Fujitsu, with Canon and Motorola nearby, while the AA, Sun Life Financial and Eli Lilly run major UK operations from the town. Basing View, a sixty-five acre commercial hub, is partway through a half-billion-pound regeneration adding high-spec offices, drawing in further insurers, consultancies and technology firms to one of Hampshire's busiest districts.",
+      "With around seven thousand active businesses generating roughly eighty-five thousand jobs, Basingstoke supports a large professional-services and technology workforce across finance, insurance, software and engineering. These are suit-and-laptop teams who reach for branded polos, softshells and fleeces when they head to conferences, exhibitions, away days, supplier visits and new-starter welcome packs. Procurement and brand managers handle the ordering and insist the kit carries the exact logo and corporate colours, embroidered to guidelines so every office and event looks the same."
+    ],
+    "kit_loc": "across Basing View and the Viables and Chineham business parks",
+    "s2_intro": "Whether you are a Basingstoke bank, law firm, accountancy, consultancy, insurer or a technology company"
+  },
+  "crawley": {
+    "region": "Crawley and West Sussex",
+    "nearby": ["Horsham", "Horley", "East Grinstead"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Crawley, embroidered in-house to brand guidelines. Built around the Manor Royal business district, the largest employment hub in the Gatwick Diamond with some six hundred firms and thirty thousand jobs, Crawley is a major corporate centre, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Crawley and the Manor Royal business district",
+    "s1loc": [
+      "Crawley is built around Manor Royal, a five-hundred-acre business district that is the biggest employment hub in the Gatwick Diamond, home to over six hundred firms and around thirty thousand jobs. Engineering and aviation primes anchor it, with Thales running a new facility on Manor Royal, Virgin Atlantic headquartered nearby and Doosan Babcock, Elekta, CGG and Varian Medical all present. Professional firms cluster across the wider district too, including Grant Thornton, BDO, DMH Stallard and Handelsbanken serving the corporate economy.",
+      "The Gatwick Diamond draws in a deep professional and technical workforce, with banks, accountancies, insurers and consultancies such as American Express, Deloitte, KPMG, HSBC and NatWest active across the area. These teams work in suits and at workstations, then step into branded polos, softshells and fleeces for exhibitions, conferences, away days, client and site visits and sponsored community events. Office, procurement and brand managers place the orders and care that every garment matches the firm precisely, embroidered to brand guidelines in the right corporate colours."
+    ],
+    "kit_loc": "across Manor Royal and the wider business district",
+    "s2_intro": "Whether you are a Crawley bank, law firm, accountancy, consultancy, insurer or a technology company"
+  },
+  "chelmsford": {
+    "region": "Chelmsford and Essex",
+    "nearby": ["Billericay", "Brentwood", "Basildon"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Chelmsford, embroidered in-house to brand guidelines. As the county city of Essex with a strong financial-services, insurance and legal base and a major university campus, Chelmsford carries a broad professional economy, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Chelmsford, the county city of Essex",
+    "s1loc": [
+      "Chelmsford is the county city of Essex and a long-standing professional-services centre, with accountancies, insurers, law firms and consultancies working across the city centre. National accountancy and advisory firms including Grant Thornton and Affinia have a presence here, alongside CBHC at Steeple House and a wide base of finance, audit and tax practices. Anglia Ruskin University runs a major campus at Bishop Hall Lane, whose Bloomberg Financial Markets Lab and medical school feed graduate talent straight into the local finance, banking and accountancy sectors.",
+      "The city supports a sizeable professional and technology workforce drawn from across mid-Essex, spanning financial services, insurance, law and software. These are suited teams who pull on branded polos, softshells and fleeces for conferences, exhibitions, away days, client visits, new-starter welcome packs and sponsored community events. Office and brand managers place the orders and care that every item matches their firm exactly, from the embroidered logo to the corporate colours, kept consistent across every office and event."
+    ],
+    "kit_loc": "across the city centre and the Anglia Ruskin campus",
+    "s2_intro": "Whether you are a Chelmsford bank, law firm, accountancy, consultancy, insurer or a technology company"
+  },
+  "preston": {
+    "region": "Preston and Lancashire",
+    "nearby": ["Leyland", "Chorley", "Fulwood"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Preston, embroidered in-house to brand guidelines. As the administrative centre of Lancashire, with a professional quarter around Winckley Square and a major aerospace and engineering base nearby, Preston is a strong commercial city, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Preston, the administrative centre of Lancashire",
+    "s1loc": [
+      "Preston is the administrative centre of Lancashire, and its professional quarter sits around Winckley Square and Fishergate, where solicitors, accountancies, insurers and consultancies fill the Georgian offices. Napthens works from 7 Winckley Square, Forbes Solicitors runs a city office, and national accountancy firms including MHA, Azets and Streets serve the wider north west from here. As county headquarters for Lancashire, the city carries a deep base of legal, financial and advisory firms supporting clients across the region.",
+      "Preston also sits at the heart of British defence aerospace, with BAE Systems a major employer in the area, and that draws engineering, technology and supply-chain firms alongside its professional core. Across all of them, suited and desk-based teams reach for branded polos, softshells and fleeces for conferences, exhibitions, away days, client and site visits and sponsored community events. Procurement, office and brand managers place the orders and care that the kit matches the firm exactly, embroidered to guidelines in the correct corporate colours."
+    ],
+    "kit_loc": "across Winckley Square and the city centre",
+    "s2_intro": "Whether you are a Preston bank, law firm, accountancy, consultancy, insurer or a technology company"
+  },
+  "walthamstow": {
+    "region": "Walthamstow and northeast London",
+    "nearby": ["Ilford", "Enfield", "Loughton"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Walthamstow, embroidered in-house to brand guidelines. As a fast-growing Waltham Forest business base with start-up and self-employment rates above the London average and a thriving creative and digital cluster, Walthamstow has a busy professional economy, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Walthamstow, a growing northeast London business base",
+    "s1loc": [
+      "Walthamstow anchors the Waltham Forest business economy, where start-up and self-employment rates run above the London average and firms increasingly move out from central London for affordable workspace and quick connections. The Blackhorse Lane Creative Enterprise Zone and Blackhorse Collective host around a hundred and eighty creative and digital businesses, while workspaces such as Foundry on Forest Road bring recruitment agencies, financial advisers, accountancies and legal practices together with designers and software teams across the borough.",
+      "This is a young, design-led professional workforce spread across Walthamstow, Wood Street, Blackhorse Lane and Highams Park, working in digital, marketing, finance and the services that support London's businesses. They sit at desks in day clothes, then step into branded polos, softshells and fleeces for exhibitions, conferences, away days, client visits, new-starter welcome packs and sponsored community events. Brand and office managers handle the ordering and care that every garment carries the exact logo and corporate colours, embroidered to guidelines."
+    ],
+    "kit_loc": "across Blackhorse Lane and the wider borough",
+    "s2_intro": "Whether you are a Walthamstow bank, law firm, accountancy, consultancy, insurer or a technology company"
+  },
+  "basildon": {
+    "region": "Basildon and south Essex",
+    "nearby": ["Wickford", "Billericay", "Rayleigh"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Basildon, embroidered in-house to brand guidelines. With nearly eight thousand businesses employing some ninety-three thousand people across its engineering, defence and financial back-office sectors, Basildon is a major south Essex commercial centre, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Basildon, an advanced engineering and finance hub",
+    "s1loc": [
+      "Basildon has a long record as a home for advanced engineering and corporate operations, with global names established across its business parks. Ford runs its Dunton technical centre here, a global base for engine, transmission and commercial-vehicle engineering employing around three thousand designers and engineers, while New Holland has built tractors in the town since 1964 and Leonardo runs defence and security work locally. Financial back-office and data-processing firms including DST Systems and First Data have also built a strong presence.",
+      "Across nearly eight thousand firms employing some ninety-three thousand people, Basildon carries a broad professional and technical workforce spanning engineering, defence, financial services and technology. These desk-based and suited teams pull on branded polos, softshells and fleeces for exhibitions, conferences, away days, client and site visits, new-starter welcome packs and sponsored community events. Procurement, office and brand managers place the orders and care that every garment matches the firm exactly, embroidered to guidelines in the right corporate colours."
+    ],
+    "kit_loc": "across the business parks and the town centre",
+    "s2_intro": "Whether you are a Basildon bank, law firm, accountancy, consultancy, insurer or a technology company"
+  }
+}

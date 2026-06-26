@@ -1,0 +1,86 @@
+{
+  "dudley": {
+    "region": "Dudley and the Black Country",
+    "nearby": ["Stourbridge", "Halesowen", "Brierley Hill"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Dudley, embroidered in-house to brand guidelines. Dudley anchors a Black Country professional cluster that now reaches out to the Waterfront business park at Brierley Hill, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Dudley and the Black Country business core",
+    "s1loc": [
+      "Dudley sits at the heart of a Black Country professional-services network that has steadily moved towards The Waterfront at Brierley Hill, where mfg Solicitors opened a new office at Dudley Court South on Level Street and Talbots Law works from Waterfront Business Park on Waterfront Way. Accountancy and advisory firms such as TC Group, RD Accounting and MJ Green Accountancy serve owner-managed businesses across Dudley, Quarry Bank and the surrounding boroughs, alongside the established Black Country Chamber of Commerce.",
+      "Behind the firms is a workforce of solicitors, accountants, tax advisers and consultants spread between Dudley town centre and the Waterfront, fed by Dudley College and the wider West Midlands talent pool. They wear suits day to day, then step into branded polos, softshells and fleeces for away days, conferences, exhibitions, site and client visits and sponsored community events. Procurement, office and brand managers order that kit, and they care that it matches the brand exactly across every team."
+    ],
+    "kit_loc": "across Dudley town centre and the Brierley Hill Waterfront",
+    "s2_intro": "Whether you are a Dudley bank, a Black Country law firm, an accountancy, a consultancy, an insurer or a technology company"
+  },
+  "norwich": {
+    "region": "Norwich and Norfolk",
+    "nearby": ["Ipswich", "Peterborough", "Cambridge"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Norwich, embroidered in-house to brand guidelines. Norwich is one of the UK's largest insurance and financial-services centres outside London, home to Aviva, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Norwich, Aviva and an East Anglian finance hub",
+    "s1loc": [
+      "Norwich has the second-highest concentration of insurance jobs in the UK and one of the largest general-insurance sectors outside London, anchored by Aviva, whose Surrey Street site and Marble Hall sit at the centre of the city. Around it work major law firms including Birketts, Mills and Reeve and Howes Percival, accountancy and advisory practices such as Lovewell Blake, and a growing technology and fintech base, with financial and professional services generating close to a fifth of the city's output.",
+      "The professional-services workforce here runs to more than eleven thousand jobs in financial and related fields, fed by the University of East Anglia and Norwich's strong graduate retention. These are people who wear suits in the office, then move into branded polos, softshells and fleeces for conferences, away days, exhibitions, client visits and sponsored community events. Procurement and brand managers across Aviva-scale corporates and independent Norwich firms order that kit and expect it to match their brand precisely."
+    ],
+    "kit_loc": "across Norwich city centre and the financial quarter",
+    "s2_intro": "Whether you are a Norwich bank, an insurer, a law firm, an accountancy, a consultancy or a technology company"
+  },
+  "swindon": {
+    "region": "Swindon and Wiltshire",
+    "nearby": ["Chippenham", "Melksham", "Trowbridge"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Swindon, embroidered in-house to brand guidelines. Swindon is a major M4-corridor financial-services and technology centre, home to the Nationwide head office and a large Zurich operation, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Swindon on the M4 financial and tech corridor",
+    "s1loc": [
+      "Swindon is headquarters to Nationwide Building Society, based at Nationwide House on Pipers Way, and hosts a large Zurich operation alongside a strong technology and advanced-manufacturing base shaped by the long Honda and Intel presence on the M4 corridor. Around these anchors sit accountancy, legal and consultancy firms serving Wiltshire businesses, with financial services, software and engineering employers clustered across the town's business parks and the central commercial district.",
+      "The professional workforce spans underwriters, banking and mortgage specialists, software engineers, accountants and consultants, drawn from across Wiltshire and the wider south-west and supported by local further and higher education. They work in suits and smart office wear, then switch into branded polos, softshells and fleeces for away days, conferences, exhibitions, client and site visits and sponsored community events. Procurement and brand managers at Nationwide-scale corporates and smaller Swindon firms alike order that kit and insist it matches the brand exactly."
+    ],
+    "kit_loc": "across Swindon town centre and the business parks",
+    "s2_intro": "Whether you are a Swindon bank, an insurer, a law firm, an accountancy, a consultancy or a technology company"
+  },
+  "croydon": {
+    "region": "Croydon and South London",
+    "nearby": ["Sutton", "Bromley", "Epsom"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Croydon, embroidered in-house to brand guidelines. Croydon is the largest office market outside central London and a growing tech and insurance centre, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Croydon, south London's largest office market",
+    "s1loc": [
+      "Croydon holds the single largest office market outside central London, with around eight million square feet of office stock and clusters in financial services, insurance, engineering, digital and technology. AIG runs a major regional operation across several buildings including Number One Croydon and Altyre Road, Direct Line was founded in the town, and a strong technology base has grown up around East Croydon, Ruskin Square and the wider town centre, supported by more than a thousand technology-based businesses.",
+      "The professional and tech workforce here is spread between the high-rise office towers of the centre and the newer developments by East Croydon station, drawn from across south London and Surrey. These are insurance, banking, legal, accountancy and software people who wear suits in the office, then step into branded polos, softshells and fleeces for conferences, away days, exhibitions, client visits and sponsored community events. Procurement and brand managers across Croydon order that kit and expect it to match the brand exactly."
+    ],
+    "kit_loc": "across Croydon town centre and the office district",
+    "s2_intro": "Whether you are a Croydon bank, an insurer, a law firm, an accountancy, a consultancy or a technology company"
+  },
+  "bournemouth": {
+    "region": "Bournemouth and Dorset",
+    "nearby": ["Poole", "Christchurch", "Ferndown"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Bournemouth, embroidered in-house to brand guidelines. Bournemouth is a major financial-services centre on the south coast, home to a large JP Morgan operation and the LV= head office, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Bournemouth's financial-services and tech base",
+    "s1loc": [
+      "Bournemouth is a significant financial-services town, home to the JP Morgan Bournemouth Corporate Centre, which employs several thousand people across investment banking operations, technology, audit and compliance, alongside the LV= head office and a Vitality office at Portman House on Richmond Hill. Around these anchors sit accountancy, legal and consultancy firms serving Dorset business, with a digital and product-studio cluster growing in the Lansdowne business district close to the town centre.",
+      "The professional workforce here runs to thousands of banking-operations staff, insurance specialists, software engineers, accountants and consultants, fed by Bournemouth University and Arts University Bournemouth. They wear suits and smart office wear day to day, then switch into branded polos, softshells and fleeces for conferences, away days, exhibitions, client visits and sponsored community events. Procurement and brand managers at JP Morgan-scale operations and independent Dorset firms order that kit and insist it matches the brand precisely."
+    ],
+    "kit_loc": "across Bournemouth town centre and the Lansdowne district",
+    "s2_intro": "Whether you are a Bournemouth bank, an insurer, a law firm, an accountancy, a consultancy or a technology company"
+  },
+  "southend-on-sea": {
+    "region": "Southend and south Essex",
+    "nearby": ["Rayleigh", "Wickford", "Canvey Island"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Southend-on-Sea, embroidered in-house to brand guidelines. Southend is a long-standing south Essex office and public-sector centre with a fast-growing business park beside the airport, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Southend's south Essex business economy",
+    "s1loc": [
+      "Southend-on-Sea has long been a south Essex office centre, with HMRC's Alexander House on Victoria Avenue serving as a major government office for decades and a financial and professional-services base built around Victoria Avenue and the central commercial district. The 150-million-pound Airport Business Park, delivered with the city council, now adds modern space and the Launchpad innovation centre beside the airport, drawing technology, engineering and start-up firms into the town.",
+      "Professional firms here include Azets, based at the airport business park, and a wide range of accountancy and legal practices such as MCL Accountants and TFMC serving Southend and the wider Essex business community. The workforce of accountants, tax advisers, software and operations staff travels easily into London on the Liverpool Street line, works in suits and office wear, then switches into branded polos, softshells and fleeces for conferences, away days, exhibitions, client visits and sponsored community events, ordered by procurement and brand managers who want it on-brand."
+    ],
+    "kit_loc": "across Southend town centre and the Airport Business Park",
+    "s2_intro": "Whether you are a Southend bank, an insurer, a law firm, an accountancy, a consultancy or a technology company"
+  },
+  "walsall": {
+    "region": "Walsall and the Black Country",
+    "nearby": ["Wednesbury", "Bloxwich", "Willenhall"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Walsall, embroidered in-house to brand guidelines. Walsall is a substantial Black Country business town with around eight thousand registered firms and a strong professional and manufacturing base, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Walsall's Black Country business community",
+    "s1loc": [
+      "Walsall is a major Black Country business town, with around eight thousand registered firms and a professional-services base that supports its long-established manufacturing and logistics economy. Accountancy and advisory firms including DJH, Manleys Chartered Accountants and Naseems serve owner-managed businesses across Walsall, Wednesbury, Bloxwich and Willenhall, while legal practices such as HCB Solicitors and Gardner Champion provide commercial and corporate advice to the town's companies.",
+      "Behind the firms is a workforce of accountants, tax advisers, solicitors, consultants and engineers spread between Walsall town centre and the surrounding Black Country industrial districts, supported by Walsall College and the wider West Midlands talent pool. They wear suits and office wear day to day, then step into branded polos, softshells and fleeces for away days, conferences, exhibitions, site and client visits and sponsored community events. Procurement, office and brand managers order that kit and care that it matches the brand exactly."
+    ],
+    "kit_loc": "across Walsall town centre and the Black Country districts",
+    "s2_intro": "Whether you are a Walsall bank, a Black Country law firm, an accountancy, a consultancy, an insurer or a technology company"
+  }
+}

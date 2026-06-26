@@ -1,0 +1,86 @@
+{
+  "dartford": {
+    "region": "Dartford and north Kent",
+    "nearby": ["Gravesend", "Erith", "Sidcup"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Dartford, embroidered in-house to brand guidelines. Sat on the M25 and the Dartford Crossing, the town carries a heavy weight of corporate offices, financial back-office operations and logistics headquarters, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Dartford office and business-park employers",
+    "s1loc": [
+      "Dartford's commercial centre of gravity sits at The Bridge, the large mixed-use park off Brunel Way, where the Nucleus business centre houses finance, technology and professional-services firms alongside corporate names such as Sainsbury's and motor-trade head offices. The town's position at the M25 and Dartford Crossing has drawn financial back-office operations, accountancies and consultancies into Victoria Road and Crossways Business Park nearby, while smaller law firms, insurers and advisory practices cluster around the town centre and Lowfield Street.",
+      "Dartford works largely as a managed and operations base for greater London firms, so its professional workforce is sizeable and commuter-heavy, fed by easy rail and road links into the City. Those teams spend most days in suits, but step into branded polos, softshells and fleeces for away days, client and site visits, conferences, exhibitions and sponsored events around the borough. Office and procurement managers order that kit and care that it matches the company brand exactly, embroidered cleanly to guidelines."
+    ],
+    "kit_loc": "across the town centre, The Bridge and Crossways Business Park",
+    "s2_intro": "Whether you are a Dartford bank, a law firm, an accountancy, a consultancy, an insurer or a technology company"
+  },
+  "bedford": {
+    "region": "Bedford and Bedfordshire",
+    "nearby": ["Kempston", "Milton Keynes", "Rushden"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Bedford, embroidered in-house to brand guidelines. A county town with a deep base of professional firms, financial-services teams and research-led technology employers, Bedford runs as a managed account with us: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Bedford professional and business-park firms",
+    "s1loc": [
+      "Bedford's premier commercial address is Priory Business Park, a landscaped park around a lake off Fraser Road that hosts technology, financial-services and professional firms, including the accountancy practice Simas and dozens of others. The town also anchors a strong accountancy and advisory scene, with Streets, Haines Watts, Cowley Holmes, Rawlinson Pryde and Braceys all working from Bedford, while nearby Colworth Science Park at Sharnbrook draws Unilever research, Firmenich and Symrise into the wider Bedfordshire technology cluster.",
+      "Bedford sits centrally between Milton Keynes and Northampton, with Cranfield University feeding engineering and management talent into the area's firms. Its accountancies, law firms, consultancies and insurers field a professional workforce who wear suits at the desk but switch into branded polos, softshells and fleeces for conferences, away days, exhibitions, new-starter welcome packs and sponsored community events. Brand and office managers order that kit and want it embroidered exactly to their guidelines, consistent across every team."
+    ],
+    "kit_loc": "across the town centre and Priory Business Park",
+    "s2_intro": "Whether you are a Bedford bank, a law firm, an accountancy, a consultancy, an insurer or a technology company"
+  },
+  "doncaster": {
+    "region": "Doncaster and South Yorkshire",
+    "nearby": ["Rotherham", "Mexborough", "Pontefract"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Doncaster, embroidered in-house to brand guidelines. A rail-engineering and logistics centre with a growing base of professional firms and business parks, Doncaster runs as a managed account with us: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Doncaster rail, engineering and office firms",
+    "s1loc": [
+      "Doncaster is a national rail town, headquarters to Unipart Rail, which employs more than 400 people, with Romberg Sersa's UK base at West Moor Park and Haigh Rail at Armthorpe among more than fifty rail companies in the region. iPort and West Moor Park anchor logistics and engineering occupiers, while Lakeside and the town centre carry accountancies, law firms, consultancies and insurers serving those operations, alongside professional-services and recruitment practices built around the engineering and distribution base.",
+      "Doncaster's professional workforce spans rail and engineering firms, business-park accountancies and advisory practices, and the technology teams supporting them. These people work in suits and office wear, then step into branded polos, softshells and fleeces for site and client visits, conferences, exhibitions, away days and sponsored events across South Yorkshire. Procurement and office managers order that branded kit and care that every garment is embroidered cleanly and consistently to the company brand, across teams and reorders."
+    ],
+    "kit_loc": "across the town centre, West Moor Park and Lakeside",
+    "s2_intro": "Whether you are a Doncaster bank, a law firm, an accountancy, a consultancy, an insurer or a technology company"
+  },
+  "worthing": {
+    "region": "Worthing and West Sussex",
+    "nearby": ["Littlehampton", "Lancing", "Shoreham-by-Sea"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Worthing, embroidered in-house to brand guidelines. With a long financial-services and pharmaceutical heritage and a large government-services presence, Worthing runs as a managed account with us: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Worthing financial, pharma and office employers",
+    "s1loc": [
+      "Worthing carries serious corporate weight for its size. GSK has long operated a major site at Dominion Way, intraocular-lens maker Rayner runs a purpose-built manufacturing base in the town, and HMRC's specialist office at Teville Gate House brought around 900 corporate-services staff, in finance, HR and digital teams, into the town centre. Around them sit financial-services firms, accountancies, law practices, consultancies and insurers along Liverpool Gardens, Chapel Road and the central business streets.",
+      "Worthing's professional workforce is substantial, with finance, pharmaceutical, government-services and technology teams supported by easy rail links along the Sussex corridor. Office staff work in suits and corporate dress, then move into branded polos, softshells and fleeces for conferences, away days, exhibitions, client visits, new-starter welcome packs and sponsored events. Brand, office and procurement managers buy that kit and insist it matches the company logo and colours exactly, embroidered cleanly to guidelines across every team and reorder."
+    ],
+    "kit_loc": "across the town centre and Dominion Way",
+    "s2_intro": "Whether you are a Worthing bank, a law firm, an accountancy, a consultancy, an insurer or a technology company"
+  },
+  "rotherham": {
+    "region": "Rotherham and South Yorkshire",
+    "nearby": ["Sheffield", "Barnsley", "Maltby"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Rotherham, embroidered in-house to brand guidelines. Home to the world-class Advanced Manufacturing Park and a deep engineering-services base, Rotherham runs as a managed account with us: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Rotherham AMP and engineering-services firms",
+    "s1loc": [
+      "Rotherham's commercial centrepiece is the Advanced Manufacturing Park at Waverley, a flagship technology campus home to Rolls-Royce, Boeing, McLaren Automotive, the AMRC and the Nuclear AMRC, with around 2,500 people employed across nearly a hundred companies. Around this high-value cluster sit engineering-services firms, technology businesses and the accountancies, law firms, consultancies and insurers that serve them, while the town centre and Sheffield-adjacent corridor carry further professional-services and advisory practices feeding the local economy.",
+      "Rotherham's professional workforce has shifted decisively into advanced manufacturing, engineering services and the firms supporting them, with the University of Sheffield's AMRC partnership feeding talent into the park. These teams work in office and corporate wear, then step into branded polos, softshells and fleeces for client and site visits, conferences, exhibitions, away days and sponsored events. Procurement and brand managers order that kit and care that every garment is embroidered exactly to the company brand, consistent across teams."
+    ],
+    "kit_loc": "across the town centre and the Advanced Manufacturing Park",
+    "s2_intro": "Whether you are a Rotherham bank, a law firm, an accountancy, a consultancy, an insurer or a technology company"
+  },
+  "mansfield": {
+    "region": "Mansfield and Nottinghamshire",
+    "nearby": ["Sutton-in-Ashfield", "Hucknall", "Worksop"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Mansfield, embroidered in-house to brand guidelines. A north Nottinghamshire commercial centre with business parks and a growing professional and technology base, Mansfield runs as a managed account with us: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Mansfield business-park and professional firms",
+    "s1loc": [
+      "Mansfield's office economy clusters at Ransom Wood Business Park, a seventy-acre woodland park on Southwell Road West with flexible offices and meeting space, and at Oakham Business Park, where the Mansfield i-Centre and Innovation Centre host technology, financial-services and professional firms. Around Millennium Business Park and the town centre sit accountancies, law firms, consultancies, insurers and manufacturing-services businesses, as the town has moved from its coal and textiles past into a more diverse base of logistics, technology and professional services.",
+      "Mansfield's professional workforce spans business-park offices, advisory practices and the technology and manufacturing-services teams supporting the wider Nottinghamshire economy. These staff work in suits and office wear, then switch into branded polos, softshells and fleeces for conferences, away days, exhibitions, site visits, new-starter welcome packs and sponsored community events. Office and procurement managers order that kit and want it embroidered cleanly and exactly to the company brand, kept consistent across every team and reorder."
+    ],
+    "kit_loc": "across the town centre and Ransom Wood Business Park",
+    "s2_intro": "Whether you are a Mansfield bank, a law firm, an accountancy, a consultancy, an insurer or a technology company"
+  },
+  "eastbourne": {
+    "region": "Eastbourne and East Sussex",
+    "nearby": ["Bexhill-on-Sea", "Hailsham", "Seaford"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Eastbourne, embroidered in-house to brand guidelines. The largest economic centre in East Sussex, with a strong financial-advice sector and a growing technology base, Eastbourne runs as a managed account with us: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Eastbourne financial, tech and office firms",
+    "s1loc": [
+      "Eastbourne is the largest economic centre in East Sussex, with a notably strong wealth-management and financial-advice sector: Charles Stanley runs an office on South Street, alongside FCA-regulated firms such as Complete Financial Planning, Oculus Wealth Management, Clifford Osborne and Coastal Financial Planning. Access-control manufacturer Paxton runs a major Eastbourne operation, and the Sovereign Harbour Innovation Park on the eastern edge of town hosts technology, professional-services and corporate offices alongside the accountancies and law firms in the central business district.",
+      "Eastbourne has been reinventing itself as a digital-technology hub for the county, adding software and creative teams to its established financial, professional and manufacturing base. These office staff work in suits and corporate dress, then step into branded polos, softshells and fleeces for conferences, away days, exhibitions, client visits, new-starter welcome packs and sponsored community events. Brand and procurement managers order that kit and insist it matches the company logo and colours exactly, embroidered cleanly across every team and reorder."
+    ],
+    "kit_loc": "across the town centre and Sovereign Harbour Innovation Park",
+    "s2_intro": "Whether you are an Eastbourne bank, a law firm, an accountancy, a consultancy, an insurer or a technology company"
+  }
+}

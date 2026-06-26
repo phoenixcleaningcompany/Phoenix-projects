@@ -1,0 +1,86 @@
+{
+  "dundee": {
+    "region": "Dundee and Tayside",
+    "nearby": ["Perth", "Arbroath", "Kirkcaldy"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Dundee, embroidered in-house to brand guidelines. Dundee is a fast-growing digital, life-sciences and financial-technology centre on the Tay, with a deep computing heritage and a busy professional-services base, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Dundee's digital and life-sciences economy",
+    "s1loc": [
+      "Dundee carries a long technology heritage, anchored by NCR's research centre, and that base now feeds a busy digital and financial-technology cluster around the city centre and the waterfront. Games studios including Rockstar and Ubisoft Reflections sit alongside fintech names such as Broker Insights and Brightsolid, while BT, the University of Dundee and Abertay University add scale. Around them work the banks, law firms, accountancies, consultancies and insurers that service a city rebuilding around design, biotech and software.",
+      "The two universities and the life-sciences institutes pour graduates into Dundee's professional and technology firms, and the workforce here mostly works in suits or smart-casual rather than a daily uniform. They step into branded kit for the moments that matter: conferences, away days, exhibitions, client and site visits, sponsored and fundraising events, and new-starter welcome packs. Procurement, office and brand managers buy that kit, and they care that the logo, the colours and the embroidery match the brand exactly, every time."
+    ],
+    "kit_loc": "across the city centre and the waterfront business district",
+    "s2_intro": "Whether you are a Dundee bank, a law firm, an accountancy, a consultancy, an insurer or a technology company"
+  },
+  "cambridge": {
+    "region": "Cambridge and the East of England",
+    "nearby": ["Bedford", "Peterborough", "Bishop's Stortford"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Cambridge, embroidered in-house to brand guidelines. Cambridge sits at the heart of Silicon Fen, one of Europe's densest technology and life-sciences clusters, with a deep professional-services layer of law and accountancy around it, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Cambridge at the heart of Silicon Fen",
+    "s1loc": [
+      "Cambridge anchors Silicon Fen, the technology and life-sciences cluster built around the University of Cambridge and the Cambridge Science Park founded by Trinity College in 1970. Arm designs the chips that power most smartphones, AstraZeneca runs its Discovery Centre on the Biomedical Campus, and Abcam, the Babraham Research Campus and St John's Innovation Centre add depth. Around this technology core sit the law firms, accountancies and consultancies that handle the funding, intellectual property and corporate work the cluster generates.",
+      "The university and the research campuses feed thousands of scientists, engineers and professional staff into firms across the city, and most of them work in smart-casual or suits rather than a daily uniform. They reach for branded kit at the points where the brand is on show: conferences, away days, exhibitions, client and site visits, sponsored and fundraising events, and welcome packs for new starters. Procurement, office and brand managers order that kit, and they want the logo, colours and embroidery to match the brand exactly."
+    ],
+    "kit_loc": "across the Science Park and the city's research campuses",
+    "s2_intro": "Whether you are a Cambridge bank, a law firm, an accountancy, a consultancy, an insurer or a technology company"
+  },
+  "york": {
+    "region": "York and North Yorkshire",
+    "nearby": ["Selby", "Harrogate", "Knaresborough"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across York, embroidered in-house to brand guidelines. York is a long-standing financial-services and professional centre with a strong insurance presence and a busy base of legal and accountancy firms, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "York's financial-services and professional core",
+    "s1loc": [
+      "York has a deep financial-services tradition, and Aviva remains one of the city's largest private employers, with major operations alongside specialist insurer Hiscox and homebuilder Persimmon's head office. Around them sit the law firms, accountancies and consultancies serving a regional economy that also takes in rail engineering and a growing science and technology scene at the University of York. New office schemes near the station have pulled professional firms together into a more concentrated business district.",
+      "The University of York and a strong graduate pipeline feed the city's insurers, professional firms and technology employers, where staff generally work in suits or smart-casual rather than a daily uniform. They put on branded kit for the occasions that count: conferences, away days, exhibitions, client and site visits, sponsored and fundraising events, and new-starter welcome packs. Procurement, office and brand managers order that kit through us, and they care that the logo, the colours and the embroidery match the brand exactly, every time."
+    ],
+    "kit_loc": "across the city centre and the station business district",
+    "s2_intro": "Whether you are a York bank, a law firm, an accountancy, a consultancy, an insurer or a technology company"
+  },
+  "blackpool": {
+    "region": "Blackpool and the Fylde coast",
+    "nearby": ["Lytham St Annes", "Poulton-le-Fylde", "Thornton Cleveleys"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Blackpool, embroidered in-house to brand guidelines. Blackpool is a major public-sector and financial-services employment centre on the Fylde coast, anchored by large government operations and a Central Business District, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Blackpool's public-sector and finance base",
+    "s1loc": [
+      "Blackpool is one of the largest public-sector employment centres on the Fylde coast. The Department for Work and Pensions brought more than three thousand civil servants into the new Fylde View headquarters at the Talbot Gateway in 2025, forming the spine of a Central Business District near the station. Around that government core sit the accountancies, law firms and consultancies of the wider Fylde, with a strong financial-services and professional cluster at Lytham St Annes adding audit, advisory and insurance work.",
+      "DWP, the council and the professional firms of the Fylde employ a large administrative and advisory workforce, and most of them work in offices in suits or smart-casual rather than a daily uniform. They step into branded kit for the moments the brand is on display: conferences, away days, exhibitions, client and site visits, sponsored and fundraising events, and welcome packs for new starters. Procurement, office and brand managers order that kit, and they want the logo, colours and embroidery to match the brand exactly."
+    ],
+    "kit_loc": "across the Central Business District and the wider Fylde",
+    "s2_intro": "Whether you are a Blackpool bank, a law firm, an accountancy, a consultancy, an insurer or a technology company"
+  },
+  "ipswich": {
+    "region": "Ipswich and Suffolk",
+    "nearby": ["Colchester", "Chelmsford", "Harlow"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Ipswich, embroidered in-house to brand guidelines. Ipswich is one of the UK's largest insurance and financial-services clusters outside London, with a deep base of professional firms supporting it, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Ipswich's insurance and financial-services cluster",
+    "s1loc": [
+      "Ipswich is one of the largest insurance centres in the country outside London. AXA has a major base in the town, Willis Towers Watson works from Friars Street, and Legal and General and other carriers add weight, with the Norman Foster-designed Willis Building a landmark of the trade. Around these insurers sit the law firms, accountancies, consultancies and supporting financial-services businesses, including claims and sales operations, that have grown up to serve a deep local insurance market.",
+      "A skilled, experienced insurance and professional workforce gives Ipswich a steady pipeline of analysts, advisers and support staff, most of whom work in suits or smart-casual rather than a daily uniform. They reach for branded kit at the points where the brand is visible: conferences, away days, exhibitions, client and site visits, sponsored and fundraising events, and new-starter welcome packs. Procurement, office and brand managers order that kit, and they care that the logo, the colours and the embroidery match the brand exactly."
+    ],
+    "kit_loc": "across the town centre and the waterfront business district",
+    "s2_intro": "Whether you are an Ipswich bank, a law firm, an accountancy, a consultancy, an insurer or a technology company"
+  },
+  "middlesbrough": {
+    "region": "Middlesbrough and Teesside",
+    "nearby": ["Stockton-on-Tees", "Redcar", "Billingham"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Middlesbrough, embroidered in-house to brand guidelines. Middlesbrough anchors the Teesside economy, with a growing digital cluster at the Boho Zone and a strong base of professional, process and engineering firms, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Middlesbrough's digital and professional cluster",
+    "s1loc": [
+      "Middlesbrough's Boho Zone is the digital and creative hub of the Tees Valley, where Middlesbrough Council, Teesside University and DigitalCity have built a cluster of software, cyber-security and creative firms in the heart of the town. Around it sit the law firms, accountancies and consultancies that serve a wider Teesside economy still shaped by process, chemicals and engineering, with PD Ports running Teesport and the Freeport drawing in fresh corporate investment across the river.",
+      "Teesside University and the digital and engineering employers give Middlesbrough a young, technical workforce, most of whom work in offices or on professional terms rather than a daily uniform. They put on branded kit for the occasions that matter: conferences, away days, exhibitions, client and site visits, sponsored and fundraising events, and new-starter welcome packs. Procurement, office and brand managers order that kit through us, and they want the logo, the colours and the embroidery to match the brand exactly, every time."
+    ],
+    "kit_loc": "across the Boho Zone and the town centre",
+    "s2_intro": "Whether you are a Middlesbrough bank, a law firm, an accountancy, a consultancy, an insurer or a technology company"
+  },
+  "gloucester": {
+    "region": "Gloucester and Gloucestershire",
+    "nearby": ["Cheltenham", "Worcester", "Evesham"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Gloucester, embroidered in-house to brand guidelines. Gloucester is a strong financial-services and insurance centre, with a major out-of-town business park concentrating insurers and professional firms, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Gloucester's insurance and financial-services base",
+    "s1loc": [
+      "Gloucester has a deep financial-services and insurance base, much of it concentrated at Gloucester Business Park in Brockworth. Ecclesiastical, the specialist insurer that protects faith, heritage and education property, has its headquarters there at Benefact House, and Ageas Insurance runs a major operation from Ageas House on the same park. Around them sit property consultancies such as Alder King, alongside the law firms, accountancies and consultancies that serve insurers and businesses across the city and wider Gloucestershire.",
+      "The insurers and professional firms of Gloucester and neighbouring Cheltenham employ a large base of underwriters, advisers and support staff, most of whom work in suits or smart-casual rather than a daily uniform. They step into branded kit for the moments the brand is on show: conferences, away days, exhibitions, client and site visits, sponsored and fundraising events, and welcome packs for new starters. Procurement, office and brand managers order that kit, and they care that the logo, colours and embroidery match the brand exactly."
+    ],
+    "kit_loc": "across Gloucester Business Park and the city centre",
+    "s2_intro": "Whether you are a Gloucester bank, a law firm, an accountancy, a consultancy, an insurer or a technology company"
+  }
+}

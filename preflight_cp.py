@@ -54,8 +54,8 @@ def main():
                 if f not in T: fails.append(f"missing field '{f}'")
             if fails:
                 report(key, p, fails); bad += 1; continue
-            if not isinstance(T["s1loc"], list) or len(T["s1loc"]) != 2:
-                fails.append(f"s1loc must be 2 paragraphs (got {len(T['s1loc']) if isinstance(T['s1loc'],list) else type(T['s1loc']).__name__})")
+            if not isinstance(T["s1loc"], list) or len(T["s1loc"]) not in (2, 3):
+                fails.append(f"s1loc must be 2-3 paragraphs (got {len(T['s1loc']) if isinstance(T['s1loc'],list) else type(T['s1loc']).__name__})")
             blob = " ".join([T["region"], T["snapshot"], T["s1_head"], T["kit_loc"], T["s2_intro"]] + list(T["s1loc"]))
             # ascii
             for ch in set(blob):

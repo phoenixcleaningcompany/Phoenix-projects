@@ -1,0 +1,86 @@
+{
+  "aberdeen": {
+    "region": "Aberdeen and the North East of Scotland",
+    "nearby": ["Dundee", "Arbroath", "Perth"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Aberdeen, embroidered in-house to brand guidelines. As Europe's energy capital, with the oil, gas and renewables operators, supply-chain engineers and professional firms clustered around the city centre and Union Street, the corporate base runs deep, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Aberdeen's energy capital and professional core",
+    "s1loc": [
+      "Aberdeen built its corporate base on the North Sea, and the energy economy still anchors the professional-services cluster around the city centre and Union Street. Law firms with deep oil, gas and energy practices, including CMS and Stronachs, sit alongside advisory and restructuring teams such as FRP Advisory. The Big Four accountancies, banks and a growing fintech and technology scene serve operators, subsea engineers and the renewables developers now driving the region's energy transition from harbour-side and out-of-town offices.",
+      "Beyond the operators, Aberdeen carries a dense workforce of engineers, financiers, lawyers and consultants, fed by the University of Aberdeen and Robert Gordon University. These are suited professionals who step into branded polos, softshells and fleeces for energy conferences, supplier away days, offshore-linked exhibitions, client site visits and sponsored community events. Office, brand and procurement managers order the kit, and they care that the logo, the colours and the embroidery match the corporate brand exactly across every team."
+    ],
+    "kit_loc": "across the city centre and the region's energy and business district",
+    "s2_intro": "Whether you are an Aberdeen bank, an energy-sector law firm, an accountancy, a consultancy, an insurer or a technology company"
+  },
+  "reading": {
+    "region": "Reading and the Thames Valley",
+    "nearby": ["Wokingham", "Bracknell", "Newbury"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Reading, embroidered in-house to brand guidelines. As the anchor of the Thames Valley tech corridor and the largest technology cluster outside London, with global software, financial and professional firms lining the M4, the corporate base is substantial, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Reading at the heart of the Thames Valley corridor",
+    "s1loc": [
+      "Reading is the visible centre of the UK's enterprise software industry, with Microsoft and Oracle anchoring Thames Valley Park alongside the likes of Huawei, Cisco and other technology occupiers. Station Hill and the town centre host major employers including PepsiCo, while ING and Prudential have run operations here. The Big Four are all present, with Deloitte, PwC, Ernst and Young and KPMG offices serving Thames Valley clients across technology, financial services, life sciences and professional services along the M4.",
+      "Reading sits at the head of the M4 corridor, the nation's largest technology cluster outside London, drawing graduates from the University of Reading into software, finance, consultancy and law. These professionals work in suits but step into branded polos, softshells and fleeces for product launches, conferences, exhibitions, away days, client site visits and sponsored community events. Procurement, office and brand managers place the orders, and they expect the logo, colours and embroidery to match the corporate brand precisely across every office and team."
+    ],
+    "kit_loc": "across the town centre and the Thames Valley business parks",
+    "s2_intro": "Whether you are a Reading bank, a law firm, an accountancy, a consultancy, an insurer or a technology company"
+  },
+  "northampton": {
+    "region": "Northampton and the East Midlands",
+    "nearby": ["Wellingborough", "Kettering", "Rushden"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Northampton, embroidered in-house to brand guidelines. As a major East Midlands business and financial-administration centre, home to building-society and card-operations campuses and national head offices, the corporate base is broad, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Northampton's finance and head-office economy",
+    "s1loc": [
+      "Northampton is a long-standing financial-administration centre, with Nationwide Building Society running a major administration site in the town and Barclaycard operating from a large campus serving its card business. Travis Perkins bases its group head office, known as The Hub, on Lodge Way, and Carlsberg UK has a significant presence in the town. Around the town centre, Brackmills and Moulton Park, banks, accountancies, law firms, consultancies and insurers support these employers across the East Midlands.",
+      "Northampton carries a sizeable workforce in finance, administration, law and corporate services, fed by the University of Northampton and the wider East Midlands labour market. These office professionals wear suits day to day but step into branded polos, softshells and fleeces for conferences, supplier away days, exhibitions, client site visits and sponsored community events. Office, procurement and brand managers handle the orders, and they care that the logo, colours and embroidery match the corporate brand exactly across every team and office."
+    ],
+    "kit_loc": "across the town centre and the Brackmills and Moulton Park business areas",
+    "s2_intro": "Whether you are a Northampton bank, a law firm, an accountancy, a consultancy, an insurer or a technology company"
+  },
+  "luton": {
+    "region": "Luton and Bedfordshire",
+    "nearby": ["Dunstable", "Hemel Hempstead", "Hitchin"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Luton, embroidered in-house to brand guidelines. As a Bedfordshire business centre on the M1 corridor, home to airline and travel head offices, automotive operations and the Capability Green business park, the corporate base is strong, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Luton's M1-corridor business economy",
+    "s1loc": [
+      "Luton's corporate base centres on Capability Green, the prime out-of-town office park beside Junction 10a of the M1, where easyJet runs its head office and TUI UK and Ireland is establishing its base. Vauxhall Motors retains its head office in the town, and engineering and pharmaceutical employers cluster across the area. Around these anchors, banks, accountancies, law firms, consultancies and insurers serve the travel, automotive and aviation sectors that define Luton's professional economy alongside the airport.",
+      "Luton carries a substantial professional workforce in aviation, travel, engineering and corporate services, supported by the University of Bedfordshire and the M1 employment belt. These office staff work in suits but step into branded polos, softshells and fleeces for conferences, supplier away days, exhibitions, client site visits and sponsored community events. Procurement, office and brand managers place the orders, and they expect the logo, colours and embroidery to match the corporate brand precisely across every office, team and event."
+    ],
+    "kit_loc": "across the town centre and the Capability Green business park",
+    "s2_intro": "Whether you are a Luton bank, a law firm, an accountancy, a consultancy, an insurer or a technology company"
+  },
+  "portsmouth": {
+    "region": "Portsmouth and South Hampshire",
+    "nearby": ["Gosport", "Havant", "Fareham"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Portsmouth, embroidered in-house to brand guidelines. As a major south-coast defence, marine and business centre, home to large defence primes, insurers and the Lakeside North Harbour campus, the corporate base is substantial, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Portsmouth's defence, marine and business campus",
+    "s1loc": [
+      "Portsmouth's corporate economy is anchored by defence and marine engineering, with BAE Systems employing several thousand people across the naval base and Broad Oak and managing the base through the KBS Maritime joint venture with KBR. The Lakeside North Harbour campus brings together more than fifty companies and nearly five thousand jobs, including insurance services group Charles Taylor. Around them, banks, accountancies, law firms, consultancies and insurers serve the defence, marine and technology employers across South Hampshire.",
+      "Portsmouth carries a deep professional workforce in defence, engineering, insurance and corporate services, fed by the University of Portsmouth and the wider Solent economy. These office and engineering professionals wear suits or workwear day to day but step into branded polos, softshells and fleeces for defence exhibitions, conferences, supplier away days, client site visits and sponsored community events. Procurement, office and brand managers order the kit, and they care that the logo, colours and embroidery match the corporate brand exactly across every team."
+    ],
+    "kit_loc": "across the city centre and the Lakeside North Harbour campus",
+    "s2_intro": "Whether you are a Portsmouth bank, a law firm, an accountancy, a consultancy, an insurer or a technology company"
+  },
+  "peterborough": {
+    "region": "Peterborough and Cambridgeshire",
+    "nearby": ["Spalding", "Stamford", "Corby"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Peterborough, embroidered in-house to brand guidelines. As a leading insurance and financial-services centre in Cambridgeshire, home to major price-comparison and insurance operations and a busy business-park economy, the corporate base is broad, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Peterborough's insurance and financial-services hub",
+    "s1loc": [
+      "Peterborough is one of the UK's notable insurance centres, with BGL Group, the digital insurance and price-comparison business, headquartered at Pegasus House in Orton Southgate. The town has long hosted major insurance and financial-services operations, including Royal Bank of Scotland insurance functions and Travelers, alongside a busy cluster of accountancies, banks and law firms. Around Orton, Lynch Wood and the city-centre offices, consultancies and professional firms serve the insurers and financial employers that define the local economy.",
+      "Peterborough carries a large workforce in insurance, financial services, law and corporate administration, supported by Anglia Ruskin University's local presence and the wider Cambridgeshire labour market. These office professionals work in suits but step into branded polos, softshells and fleeces for conferences, supplier away days, exhibitions, client site visits and sponsored community events. Procurement, office and brand managers place the orders, and they expect the logo, colours and embroidery to match the corporate brand precisely across every office, team and event."
+    ],
+    "kit_loc": "across the city centre and the Orton and Lynch Wood business areas",
+    "s2_intro": "Whether you are a Peterborough bank, an insurer, an accountancy, a consultancy, a law firm or a technology company"
+  },
+  "bolton": {
+    "region": "Bolton and Greater Manchester",
+    "nearby": ["Bury", "Wigan", "Leigh"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Bolton, embroidered in-house to brand guidelines. As a Greater Manchester business centre with a strong professional-services base and the Middlebrook business park, serving employers across the North West, the corporate base is broad, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Bolton's professional-services and business base",
+    "s1loc": [
+      "Bolton supports a strong professional-services base for Greater Manchester and the North West, with accountancy and advisory firms including Cowgills based at the Middlebrook business park, and AAB and Azets serving local businesses from the town. Banks, law firms, consultancies and insurers cluster around the town centre and Middlebrook, working with manufacturers, engineers and technology companies across the borough. The proximity to Manchester gives Bolton firms reach into the wider regional corporate and financial market.",
+      "Bolton carries a substantial workforce in accountancy, law, finance and corporate services, fed by the University of Bolton and the Greater Manchester labour market. These office professionals work in suits but step into branded polos, softshells and fleeces for conferences, supplier away days, exhibitions, client site visits and sponsored community events. Procurement, office and brand managers handle the orders, and they care that the logo, colours and embroidery match the corporate brand exactly across every office, team and event."
+    ],
+    "kit_loc": "across the town centre and the Middlebrook business park",
+    "s2_intro": "Whether you are a Bolton bank, a law firm, an accountancy, a consultancy, an insurer or a technology company"
+  }
+}
