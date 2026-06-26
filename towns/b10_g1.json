@@ -1,0 +1,93 @@
+{
+  "Spennymoor": {
+    "region": "Spennymoor and County Durham",
+    "nearby": ["Bishop Auckland", "Newton Aycliffe", "Darlington"],
+    "s1_head": "Kitting the visitor economy of Spennymoor and County Durham",
+    "s1loc": [
+      "Spennymoor draws visitors to Spennymoor Town Hall, home of the Bob Abley Art Gallery, one of the busiest galleries in the North East, whose Norman Cornish Room holds original work by the town's celebrated pitman painter. The Norman Cornish Art Trail leads walkers around the streets, bridges and bars he painted, while the wider area's marquee draw is Auckland Castle and the Kynren live show at nearby Bishop Auckland.",
+      "The leisure and activity layer centres on Jubilee Park, with its bowling green, skatepark, crazy golf and play areas, and on the green spaces of Tudhoe and Croxdale beside the River Wear. The Whitworth Hall estate and its tended deer park sit just outside town, while Hardwick Park at Sedgefield and the walks and cycle trails of the surrounding Durham countryside give operators a strong outdoor offer through the warmer months.",
+      "Heritage and culture run deep, from the Weardale Iron and Coal Company ironworks heritage at Tudhoe to the Town Hall's market and exhibition rooms and the mining-life paintings that made Norman Cornish a national name. The Norman Cornish Studio recreation, the gallery's changing shows by regional artists and a calendar of events around the conservation-area core keep the old town busy across the year.",
+      "The visitor trade works from inns, guest houses and Bed and Breakfast rooms across Spennymoor and the Wear valley, with the Whitworth Hall Hotel and operators running heritage and Cornish-trail walks. The A1(M) and Durham and Darlington stations bring visitors in, and day-trippers reach Auckland Castle, Kynren, Durham Cathedral, Beamish and Hardwick Park from a town that draws steadily through the seasons."
+    ],
+    "kit_loc": "across the old town's attractions, parks and heritage sites",
+    "s2_intro": "Whether you are a major Spennymoor attraction or hotel group, a heritage site or a small independent activity centre in Bishop Auckland"
+  },
+  "Kempston": {
+    "region": "Kempston and Bedfordshire",
+    "nearby": ["Bedford", "Rushden", "Wellingborough"],
+    "s1_head": "Kitting the visitor economy of Kempston and the Great Ouse",
+    "s1loc": [
+      "Kempston sits beside Bedford on the River Great Ouse, its riverside and historic All Saints Church at Church End among its marquee draws. The Norman tower and chancel arch, commissioned around 1100 by Judith, niece of William the Conqueror, mark one of Bedfordshire's oldest churches, while the green churchyard, the old Kempston Mill site and the Ouse waterfront anchor a visitor offer that runs busy from spring through summer.",
+      "The leisure and activity layer is led by Box End Park, a one-hundred-acre site built around two spring-fed lakes offering wakeboarding, water-skiing, open-water swimming, paddleboarding and a giant aqua park. Addison Howard Park, bequeathed to the town from the Grange estate, gives families open parkland in the centre, while the Bedford River Valley Park and the Priory Country Park lakes nearby keep operators working across the warmer months.",
+      "Heritage and culture trace the town's growth from the scattered rural Ends of Up End, Bell End, Wood End and Box End to the Victorian industrial parish on the Ouse, with the James Howard agricultural-engineering legacy behind Howard Street and Addison Howard Park. The riverside heritage, the parish church trail and a calendar of events shared with neighbouring Bedford keep the historic quarter active across the year.",
+      "The visitor trade works from inns, guest houses and Bed and Breakfast rooms across Kempston and Bedford, with operators running watersports sessions at Box End, river trips on the Ouse and guided walks of the valley park. Bedford station on the Thameslink and Midland Main Line and the A421 bring visitors in, and day-trippers reach the Bedford embankment, Woburn, the Shuttleworth Collection and Rushden Lakes from a town busy through the season."
+    ],
+    "kit_loc": "across the riverside town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Kempston attraction or hotel group, a heritage site or a small independent activity centre in Bedford"
+  },
+  "Lancing": {
+    "region": "Lancing and the West Sussex coast",
+    "nearby": ["Worthing", "Shoreham-by-Sea", "Littlehampton"],
+    "s1_head": "Kitting the visitor economy of Lancing and the Adur coast",
+    "s1loc": [
+      "Lancing's marquee landmark is Lancing College Chapel, the largest school chapel in the world and a soaring Victorian Gothic building whose great rose window is the largest in England, rising above the Adur valley. Below it the shingle and sand of Lancing Beach run along the seafront, with the brackish Widewater Lagoon between the town and Shoreham drawing herons, swans and wildfowl to a unique coastal nature spot busy through the season.",
+      "The leisure and activity layer spreads across the coast and downs, from the green and play areas of Lancing Beach Green to walking and birdwatching at the Widewater Lagoon and the chalk slopes and dewpond of Lancing Ring Nature Reserve. Watersports, paddleboarding and windsurfing launch off the seafront, while the Coombes valley lane and the South Downs Way above town give operators a strong walking and outdoor offer across the warmer months.",
+      "Heritage and culture centre on the Woodard schools quarter around Lancing College, the medieval parish churches of the old village and the maritime story of the Adur estuary. Shoreham Airport on the eastern edge, the world's oldest continually operated commercial airport with its Art Deco terminal, and a calendar of coastal and community events keep the area's heritage offer active through the year.",
+      "The visitor trade works from guest houses, hotels and Bed and Breakfast rooms along the coast at Lancing, Worthing and Shoreham-by-Sea, with operators running seafront watersports, downland walks and South Downs day tours. Lancing station on the West Coastway line and the A27 bring visitors in, and day-trippers reach Worthing Pier, Brighton, the Royal Pavilion, Arundel Castle and Littlehampton from a town busy through the season."
+    ],
+    "kit_loc": "across the coast's attractions, beaches and activity sites",
+    "s2_intro": "Whether you are a major Lancing attraction or hotel group, a heritage site or a small independent activity centre in Worthing"
+  },
+  "Prestatyn": {
+    "region": "Prestatyn and the North Wales coast",
+    "nearby": ["Rhyl", "Colwyn Bay", "Llandudno"],
+    "s1_head": "Kitting the visitor economy of Prestatyn and the Denbighshire coast",
+    "s1loc": [
+      "Prestatyn marks the northern end of the Offa's Dyke Path, the 177-mile national trail, and the start of the Clwydian Range, drawing walkers down to four miles of soft sandy beaches on the Irish Sea. The Nova Centre on Central Beach, one of North Wales' biggest indoor visitor attractions after its multi-million-pound refurbishment, anchors the seafront with its swimming pools, splash pool and sea-view restaurant beside the North Wales coastal promenade.",
+      "The leisure and activity layer is led by the holiday-park trade, with Pontins Prestatyn Sands and the Presthaven Beach Resort drawing families to the sand flats, plus windsurfing, kitesurfing and watersports off the beaches. Inland, the Roman heritage walks of Prestatyn Hillside and Bishop's Wood, the helmet sculpture above town and the seventy-foot Dyserth Falls a short drive away give operators a strong outdoor offer across the warmer months.",
+      "Heritage and culture reach back to the Roman Bath House, built around AD 120 by the Twentieth Legion and rediscovered in the 1930s, alongside the Prestatyn Town Trail and the Meliden and hillside heritage. The seafront sculptures, the coastal-path history and a calendar of beach and community events keep the resort's heritage offer active through the year, with the Clwydian Range walks pulling visitors up from the prom.",
+      "The visitor trade works from hotels, guest houses, caravan parks and Bed and Breakfast rooms across Prestatyn and the Denbighshire coast, with operators running coastal-path walks, watersports and Clwydian Range tours. Prestatyn station on the North Wales Coast Line and the A55 bring visitors in, and day-trippers reach Rhyl, Colwyn Bay, the Great Orme at Llandudno and Dyserth Falls from a resort busy through the season."
+    ],
+    "kit_loc": "across the coast's attractions, beaches and activity sites",
+    "s2_intro": "Whether you are a major Prestatyn attraction or hotel group, a heritage site or a small independent activity centre in Rhyl"
+  },
+  "Horsforth": {
+    "region": "Horsforth and the Leeds district",
+    "nearby": ["Leeds", "Pudsey", "Yeadon"],
+    "s1_head": "Kitting the visitor economy of Horsforth and north-west Leeds",
+    "s1loc": [
+      "Horsforth sits five miles north-west of Leeds in the Aire valley, with its marquee draw the green spaces of Horsforth Hall Park, named after the 1699 Horsforth Hall and laid out with open parkland, a bandstand and an adventure playground. The well-regarded Horsforth Village Museum and the historic core around The Green and Town Street anchor a visitor offer, while the Cistercian ruins of Kirkstall Abbey downstream draw day-trippers from across the city.",
+      "The leisure and activity layer runs through Horsforth Hall Park's cricket pitch and bowling green and out along the Leeds and Liverpool Canal towpath at Newlay and Rodley. The Rodley Nature Reserve wetlands beside the River Aire, the walks around Hawksworth Wood and the wider Aire valley give operators a strong outdoor and family offer, with the moors and reservoirs above Yeadon within easy reach across the warmer months.",
+      "Heritage and culture centre on Horsforth Village Museum, open at weekends through the season, and on the town's quarrying story, whose stone supplied building materials and millstones to medieval Kirkstall Abbey. The conservation-area streets around Town Street and Stanhope Drive, the lively independent bars and restaurants and a calendar of community and seasonal events keep the old village busy through the year.",
+      "The visitor trade works from inns, guest houses and Bed and Breakfast rooms across Horsforth and north-west Leeds, with operators running canal walks, Aire valley nature trails and Leeds city tours. Horsforth station on the Harrogate line, Leeds Bradford Airport at neighbouring Yeadon and the Leeds Ring Road bring visitors in, and day-trippers reach Kirkstall Abbey, the Royal Armouries, Leeds city centre, Otley Chevin and the Yorkshire Dales from a town busy across the seasons."
+    ],
+    "kit_loc": "across the township's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Horsforth attraction or hotel group, a heritage site or a small independent activity centre in Leeds"
+  },
+  "Goole": {
+    "region": "Goole and East Yorkshire",
+    "nearby": ["Selby", "Scunthorpe", "Hull"],
+    "s1_head": "Kitting the visitor economy of Goole and the Yorkshire waterways",
+    "s1loc": [
+      "Goole is Britain's largest inland port, some fifty miles from the open sea, its docks opened in 1826 where the Aire and Calder Navigation meets the River Ouse. The marquee draw is the Yorkshire Waterways Museum beside the docks, with its grade II listed Tom Pudding hoist that once tipped coal-laden tub boats into ocean-going ships, while the twin water towers known as the Salt and Pepper Pots stand over the town's distinctive skyline.",
+      "The leisure and activity layer centres on the waterside, from boat trips and walks along the Dutch River and the Aire and Calder Navigation to the green spaces of Vermuyden Park, named for the Dutch engineer who drained the land for King Charles I. The riverside trails along the Goole and Knottingley canal, the marina activity around the docks and the wider Ouse and Trent countryside give operators a strong outdoor offer across the warmer months.",
+      "Heritage and culture run through Goole Museum, telling the story of the planned port town and its people, and the Junction arts venue, a multi-award-winning theatre, cinema and cafe bar in the town centre. The Tom Pudding coal-barge heritage, the Vermuyden drainage story and a calendar of waterway and community events keep the port town's heritage offer active through the year.",
+      "The visitor trade works from inns, guest houses and Bed and Breakfast rooms across Goole and the surrounding villages, with operators running waterway walks, dock-heritage tours and boat trips. Goole station on the line between Doncaster and Hull and the M62 bring visitors in, and day-trippers reach Howden Minster, Selby Abbey, Snaith Priory, the Ouse and Trent waterways and the East Yorkshire coast from a town that draws steadily across the seasons."
+    ],
+    "kit_loc": "across the port town's attractions, waterways and visitor sites",
+    "s2_intro": "Whether you are a major Goole attraction or hotel group, a heritage site or a small independent activity centre in Selby"
+  },
+  "Oswestry": {
+    "region": "Oswestry and the Shropshire borderland",
+    "nearby": ["Shrewsbury", "Wrexham", "Telford"],
+    "s1_head": "Kitting the visitor economy of Oswestry and the Welsh Marches",
+    "s1loc": [
+      "Oswestry is Shropshire's third-largest town, set where England meets Wales, with its marquee draw the 3,000-year-old Old Oswestry hillfort, one of the best-preserved Iron Age forts in Britain. The town-centre Cambrian Heritage Railways museum and restored Oswestry station run steam and heritage trains down a scenic line to Weston Wharf, while St Oswald's Church, first recorded in 1086, anchors a historic core busy through the season.",
+      "The leisure and activity layer spreads across the borderland, from the gardens, tennis courts and Wilfred Owen memorial in Cae Glas Park in the town centre to the limeworks heritage and nature reserve at Llanymynech and the cross-border Llanymynech Golf Club. The tranquil Lake Vyrnwy a short drive west, the walks at Shelf Bank and the Park Hall countryside attraction give operators a strong outdoor and family offer across the warmer months.",
+      "Heritage and culture run deep, from the Oswestry Visitor and Exhibition Centre and the medieval St Oswald's Church to the moated 12th-century Whittington Castle and the Wilfred Owen connection celebrated each year. The market-town charter, the Old Oswestry and Offa's Dyke borderland history and a calendar of fairs and events keep the historic quarter active through the year.",
+      "The visitor trade works from inns, guest houses and Bed and Breakfast rooms across Oswestry and the surrounding villages, with operators running heritage-railway days, hillfort walks and Marches tours. The A5 and Gobowen station on the Shrewsbury line bring visitors in, and day-trippers reach Chirk Castle, Lake Vyrnwy, the Llangollen valley and Powis Castle from a town that draws steadily across the seasons."
+    ],
+    "kit_loc": "across the market town's attractions, parks and heritage sites",
+    "s2_intro": "Whether you are a major Oswestry attraction or hotel group, a heritage site or a small independent activity centre in Shrewsbury"
+  }
+}

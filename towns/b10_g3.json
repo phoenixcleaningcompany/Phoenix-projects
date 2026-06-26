@@ -1,0 +1,93 @@
+{
+  "Guisborough": {
+    "region": "Guisborough and east Cleveland",
+    "nearby": ["Redcar", "Middlesbrough", "Stockton-on-Tees"],
+    "s1_head": "Kitting the visitor economy of east Cleveland",
+    "s1loc": [
+      "Guisborough, the old capital of Cleveland on the northern edge of the North York Moors, carries a marquee visitor draw in Gisborough Priory, the ruined Augustinian house founded in 1119 by Robert de Brus, ancestor of Robert the Bruce. Once the richest religious house in Yorkshire, its soaring east-end arch still towers over the town, opened by the Gisborough Priory Project beside the cobbled Westgate and the Tudor walled garden of the neighbouring Gisborough Hall estate.",
+      "The leisure and activity layer climbs straight onto the moors and the Cleveland Way. Guisborough Forest and Walkway runs walking and cycling trails up to the crags of Highcliff Nab, while the famous half-cone summit of Roseberry Topping rises a short drive away, and Scaling Dam reservoir adds sailing, fly fishing, picnic areas and heather-moor birdwatching across the warmer season for families heading out from the town.",
+      "Heritage and culture run through the old market town and the wider ironstone country. Guisborough Museum on Chaloner Street traces the area's ironstone-mining and railway past, the Sunnyfield House gardens and the bustling Tuesday and Saturday market on the broad Westgate anchor the calendar, and the parish church of St Nicholas, the Cleveland Way and the Tocketts Mill watermill nearby fill out a strong local round.",
+      "Underpinning it all is an inn, guest-house and country-hotel base, led by Gisborough Hall, serving moors-walking, golf and day-trip trade across Redcar and Cleveland. Guisborough has no station of its own, so visitors arrive through Middlesbrough on the Esk Valley and main lines and the A171, which carries day-trippers out to Saltburn's pier and cliff tramway, Kirkleatham Museum and Captain Cook's Whitby, so operators handle seasonal walking and coast crowds across the year."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Guisborough attraction or hotel group, a heritage site or a small independent activity centre in Redcar"
+  },
+  "Saltash": {
+    "region": "Saltash and the Tamar Valley",
+    "nearby": ["Plymouth", "Bodmin", "St Austell"],
+    "s1_head": "Kitting the visitor economy of the Tamar Valley",
+    "s1loc": [
+      "Saltash, the waterside town that forms the gateway between Cornwall and Devon on the steep banks of the River Tamar, carries a marquee visitor draw in two great bridges. Isambard Kingdom Brunel's Royal Albert Bridge, opened by Prince Albert in 1859, still carries the main railway line on its great spans, while the 1961 Tamar Bridge crosses the estuary alongside, with the Bridging the Tamar visitor centre telling the story of both above the waterside greens.",
+      "The leisure and activity layer runs along the Tamar shore and out into the country. The waterfront greens of Brunel Green, Jubilee Green and Waterside Green give walks and views beneath the bridges, Saltash Sailing Club, founded in 1898, and the annual Saltash Regatta and Waterside Festival fill the summer with rowing and sailing, and the Tamar Valley Area of Outstanding Natural Beauty offers woodland and riverside paths just upstream from the town.",
+      "Heritage and culture trace the town's Tudor and Elizabethan past. Mary Newman's Cottage, the Tudor house said to be the home of Sir Francis Drake's first wife, the time-capsule Elliott's Store of 1902 on Lower Fore Street, and the medieval Trematon Castle overlooking the estuary, which once stored Spanish treasure taken by Drake, anchor the calendar alongside the old Guildhall and the riverside Ashtorre Rock community tea room below the railway bridge.",
+      "Underpinning it all is a guest-house and inn base serving waterside, walking and stopover trade, with a guide scene built around the bridges and the Tamar. Saltash station on the Cornish Main Line links the town toward Plymouth, Liskeard and Penzance, and the A38 carries day-trippers out to the National Trust's Cotehele Tudor manor and quay upriver, Plymouth's Hoe and Barbican across the water, and the wider Cornish coast across the year."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Saltash attraction or hotel group, a heritage site or a small independent activity centre in Plymouth"
+  },
+  "Bideford": {
+    "region": "Bideford and North Devon",
+    "nearby": ["Barnstaple", "Tiverton", "Exeter"],
+    "s1_head": "Kitting the visitor economy of North Devon",
+    "s1loc": [
+      "Bideford, the historic port town on the estuary of the River Torridge where it meets the Bristol Channel, carries a marquee visitor draw in its quay and its famous Long Bridge of twenty-four arches. From the quayside the MS Oldenburg sails seasonally to Lundy Island, the National Trust marine reserve with its puffins, seals and lighthouse, while the tree-lined quay, the antique shops and cafes of the old streets and the riverside walks draw visitors down toward the Torridge across the warmer season.",
+      "The leisure and activity layer spreads along the Torridge and the Tarka Trail. Victoria Park and the riverside greens give play space and gardens, the Tarka Trail cycling and walking route follows the old railway along the estuary, and the wider Bideford Bay coast at Westward Ho! and Northam Burrows Country Park adds beaches, golf links and the pebble ridge a short drive from the town for families and activity operators.",
+      "Heritage and culture run deep in the old port. The Burton Art Gallery and Museum, more than sixty-five years old, holds local art and changing exhibitions beside Victoria Park, while the Pannier Market of 1884 with its Butchers Row of galleries and stalls, the statue of Charles Kingsley who wrote Westward Ho! here, and the medieval St Mary's church anchor a busy events calendar in the heart of the town.",
+      "Underpinning it all is a guest-house, inn and hotel base serving coast, walking and Lundy trade, with a guide and ferry scene built around the quay and the bay. Bideford has no station, so visitors arrive through Barnstaple on the Tarka Line and the A39 Atlantic Highway, which carries day-trippers out to Clovelly, the RHS Garden Rosemoor at Great Torrington and the surfing beaches of the North Devon coast, so operators handle seasonal coast and heritage crowds across the year."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Bideford attraction or hotel group, a heritage site or a small independent activity centre in Barnstaple"
+  },
+  "Penrith": {
+    "region": "Penrith and the Eden Valley",
+    "nearby": ["Carlisle", "Kendal", "Workington"],
+    "s1_head": "Kitting the visitor economy of the Eden Valley",
+    "s1loc": [
+      "Penrith, the historic red-sandstone market town that serves as the northern gateway to the Lake District, carries a marquee visitor draw in Penrith Castle, begun at the end of the fourteenth century by Ralph Neville and remodelled by Richard, Duke of Gloucester before he became Richard III. Its full-height walls stand in a public park opposite the station, while Brougham Castle by the River Eamont, the prestigious medieval seat of the Clifford family, lies less than two miles away.",
+      "The leisure and activity layer runs straight into the fells and lakes. Ullswater, a short drive away, offers steamer cruises, sailing and kayaking, the wooded gorge of Aira Force tumbles sixty-five feet through National Trust land, and Lowther Castle and Gardens adds an adventure playground and ruined grandeur, while the wild slopes of the North Pennines and the Eden Valley give walkers, cyclists and families green space close to the town.",
+      "Heritage and culture run through the town and the surrounding country. The Rheged Centre on the edge of Penrith sets a gallery, cinema and creative space under a grass-roofed dome, while Penrith Museum in the Robinson's School, the Giant's Grave at St Andrew's churchyard, the ruined Brougham Hall and the prehistoric Long Meg and Her Daughters stone circle nearby fill the calendar across the Eden Valley.",
+      "Underpinning it all is a hotel, inn and guest-house base serving Lakeland, walking and touring trade, with a deep guide scene built around Ullswater and the fells. Penrith station on the West Coast Main Line links the town toward Carlisle, Lancaster and London Euston, and the M6 and A66 carry day-trippers out to Keswick, Derwentwater and the Pennines, so operators handle seasonal Lakeland and heritage crowds across the year."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Penrith attraction or hotel group, a heritage site or a small independent activity centre in Carlisle"
+  },
+  "Northallerton": {
+    "region": "Northallerton and the Vale of Mowbray",
+    "nearby": ["Ripon", "Darlington", "Knaresborough"],
+    "s1_head": "Kitting the visitor economy of the Vale of Mowbray",
+    "s1loc": [
+      "Northallerton, the county town of North Yorkshire and the administrative seat of England's largest county, carries a marquee visitor draw in its broad market High Street and the Grade I listed All Saints Church, whose origins trace back to the ninth century and which holds carved oak from Robert Thompson, the Mouseman of Kilburn. The Tuesday, Wednesday and Saturday markets, held by charter since the twelfth century, anchor the historic core of the old North Riding capital.",
+      "The leisure and activity layer centres on the Treadmills development on the former prison site, just a hundred metres from the High Street and named for the treadmills of the 1820s gaol, where an Everyman Cinema, an outdoor terrace and an open square draw visitors. Mount Grace Priory, the best-preserved Carthusian monastery in England with its reconstructed monk's cell and gardens, lies just south near Osmotherley at the foot of the Cleveland Hills.",
+      "Heritage and culture run through the Vale of Mowbray and the battlefield country around the town. The 1138 Battle of the Standard was fought just north of Northallerton, the Forum arts and community centre stages theatre, film and music in the heart of town, and nearby Thirsk, the home of the vet and author James Herriot at the World of James Herriot museum, and Sutton Bank above the vale fill out a strong local calendar across the year.",
+      "Underpinning it all is a hotel, inn and guest-house base serving market-town, business and touring trade, with a guide scene built around the moors and dales that flank the vale. Northallerton station on the East Coast Main Line links the town toward Darlington, York and London King's Cross, and the A1 and A19 carry day-trippers out to Rievaulx Abbey, the North York Moors and the Yorkshire Dales, so operators handle seasonal touring and heritage crowds across the year."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Northallerton attraction or hotel group, a heritage site or a small independent activity centre in Ripon"
+  },
+  "Featherstone": {
+    "region": "Featherstone and the Wakefield district",
+    "nearby": ["Pontefract", "Castleford", "Normanton"],
+    "s1_head": "Kitting the visitor economy of the Wakefield district",
+    "s1loc": [
+      "Featherstone, the old mining town in the City of Wakefield two miles south-west of Pontefract, carries a sporting visitor draw in Featherstone Rovers, the rugby league club formed at the Railway Hotel in 1902 and playing at the Millennium Stadium on Post Office Road, where home games and fixtures bring crowds into a town with a proud colliery past dating to the Domesday record of Ferestane and Prestone.",
+      "The leisure and activity layer centres on Purston Park, opened in the 1950s on the grounds of a former country estate, with its lake, rose garden and children's play area, while the green spaces of North Featherstone, the bell-pit walks above Park Lane and the villages of Ackton, Snydale and Streethouse give families space close to town. Xscape Yorkshire at nearby Castleford adds real-snow skiing at Snozone, the Gravity climbing and karting venue and tenpin bowling under one roof.",
+      "Heritage and culture trace the town through its coal and railway story. St Thomas's Church and its vicarage on Halfpenny Lane, built of Yorkshire sandstone in the 1870s with the bell hung outside on the south wall for want of a tower, anchors the old core, while the memory of the 1893 Featherstone Massacre, the Wakefield, Pontefract and Goole railway and the colliery story of Featherstone Main give the town a strong local heritage round across the Five Towns.",
+      "Underpinning it all is a guest-house and inn base serving sporting, business and day-trip trade across the Five Towns, with chains reaching toward the M62 and Pontefract. Featherstone station on the Pontefract Line links the town toward Wakefield, Leeds and Goole, and the motorway carries visitors out to Pontefract Castle, the Junction 32 outlet at Glasshoughton and Nostell Priory near Wakefield, so operators here handle home-game crowds, business visitors and seasonal day-trippers across the year."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Featherstone attraction or hotel group, a heritage site or a small independent activity centre in Pontefract"
+  },
+  "Mexborough": {
+    "region": "Mexborough and the Dearne Valley",
+    "nearby": ["Rotherham", "Barnsley", "Doncaster"],
+    "s1_head": "Kitting the visitor economy of the Dearne Valley",
+    "s1loc": [
+      "Mexborough, the old market and mining town where the River Don meets the River Dearne in South Yorkshire, carries a heritage visitor draw rooted in its industrial and canal past. The Dearne and Dove Canal, built after rich coal seams were found in the late eighteenth century, threaded the town toward the Don and the Humber, and the great Conisbrough Viaduct, a twenty-one-arch railway crossing of the Don gorge, still strides across the valley a short way downstream.",
+      "The leisure and activity layer spreads along the restored Dearne Valley and its wetlands. The Trans Pennine Trail walking and cycling route follows the river corridor, the RSPB Old Moor wetland reserve at nearby Wath-upon-Dearne draws birdwatchers to its pools and hides, and the green spaces and riverside paths around the town give families space, while Mexborough Athletic Sports and Social Club and the recreation grounds host sport across the seasons.",
+      "Heritage and culture run through the Dearne towns and the Don gorge. Conisbrough Castle, the great cylindrical Norman keep built around 1180 by Hamelin Plantagenet and immortalised in Sir Walter Scott's Ivanhoe, stands close by above the Don, while the Mexborough story of pottery and the poet Ted Hughes, who grew up here, the parish church of St John the Baptist and the old market place anchor a strong local heritage round across the valley.",
+      "Underpinning it all is a guest-house and inn base serving business, sporting and day-trip trade across the Dearne and Don, with chains reaching toward the A1 and the M18. Mexborough station on the line between Sheffield and Doncaster links the town toward Rotherham, Barnsley and the wider network, and the river corridor carries day-trippers out to Conisbrough Castle, the activity centre at the former Earth Centre and Doncaster's racecourse, so operators handle seasonal heritage and day-trip crowds across the year."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Mexborough attraction or hotel group, a heritage site or a small independent activity centre in Rotherham"
+  }
+}

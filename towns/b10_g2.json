@@ -1,0 +1,93 @@
+{
+  "Sandbach": {
+    "region": "Sandbach and south Cheshire",
+    "nearby": ["Crewe", "Congleton", "Northwich"],
+    "s1_head": "Kitting the visitor economy of south Cheshire",
+    "s1loc": [
+      "Sandbach draws its visitors to the cobbled Market Square, where the two carved Saxon Crosses have stood since the 9th century and rank among the finest Anglo-Saxon high crosses in the country. The Grade I Old Hall, built in 1656 as a timber-framed coaching inn on the Liverpool to Lichfield road, and the listed Black Bear Inn and Fox Inn anchor a market town whose Thursday Charter Market has run for centuries.",
+      "The leisure and activity layer runs through the green spaces and waterways, led by Sandbach Park, a nine-acre Edwardian park opened in 1901 with floral displays and ornamental lawns. The Trent and Mersey Canal threads the parish at Wheelock with its flight of locks, towpath walks and moorings, while families head a short drive to Jodrell Bank with its Lovell Telescope, the centrepiece of a UNESCO World Heritage Site.",
+      "Heritage and culture reach well beyond the square, taking in St Mary's parish church above the town and the timber-framed prodigy houses of the surrounding plain. The National Trust's Little Moreton Hall, the moated Tudor manor near Congleton, and the Elizabethan Brereton Hall beside St Oswald's Church at Brereton Green give visitors a run of landmark halls within easy reach of Sandbach itself.",
+      "The visitor trade leans on the town's coaching-inn roots and its position on the canal and the West Coast corridor, with the M6 and Crewe's mainline station feeding day-trippers in from across the North West. Independent shops, artisan coffee houses and the Saturday and specialist markets keep operators busy through the seasons, while nearby Astbury and the wider Cheshire Plain pull walkers and weekend visitors toward Sandbach as a base."
+    ],
+    "kit_loc": "across the town's market square, parks and canal-side attractions",
+    "s2_intro": "Whether you are a major Sandbach attraction or hotel group, a heritage site or a small independent activity centre in Crewe"
+  },
+  "Normanton": {
+    "region": "Normanton and the Wakefield district",
+    "nearby": ["Castleford", "Pontefract", "Featherstone"],
+    "s1_head": "Kitting the visitor economy of the Wakefield district",
+    "s1loc": [
+      "Normanton sits on the River Calder in the Wakefield district, a market town shaped by its coal-mining and railway past. All Saints' parish church, built in the Perpendicular style and recorded since at least 1256, stands at the historic core, while the Pippin Tunnel and the old junction railway heritage tell the story of a place that grew up around the lines to Leeds, Castleford and Sheffield.",
+      "The leisure layer centres on Haw Hill Park, with its open fields, play areas, bowls and tennis courts, multi-sport court and park cafe, the host of the Normanton Gala Weekend and Party at Haw Hill Park. Walkers strike out toward Newland Country Park on the Calder, Anglers Country Park and Haw Park Wood, with trails linking the Barnsley Canal and Newmillerdam across the surrounding Wakefield countryside.",
+      "Heritage and culture run through Newland, the former estate township on the north bank of the Calder now kept as a nature reserve, and through a community events calendar built around the September gala, its funfair, tribute acts and firework finale. The town's industrial story, from the colliery years to the railway junction, gives local guides and groups plenty to draw on across the seasons.",
+      "The visitor trade leans hard on transport, with Normanton railway station running regular trains to Leeds, Castleford, Wakefield and Sheffield Meadowhall Interchange, and Wakefield Europort beside junction 31 of the M62 anchoring the wider logistics and travel hub. That connectivity makes Normanton a practical base for day-trippers heading to Pontefract Racecourse, the Five Towns and the parks and country trails of the Calder valley."
+    ],
+    "kit_loc": "across the town's parks, country trails and visitor sites",
+    "s2_intro": "Whether you are a major Normanton attraction or hotel group, a heritage site or a small independent activity centre in Castleford"
+  },
+  "Stanley": {
+    "region": "Stanley and north-west County Durham",
+    "nearby": ["Chester-le-Street", "Consett", "Gateshead"],
+    "s1_head": "Kitting the visitor economy of north-west County Durham",
+    "s1loc": [
+      "Stanley sits on a hilltop between Chester-le-Street and Consett, and its biggest draw is on the doorstep at Beamish, the open-air Living Museum of the North, which tells the story of North East England across a 350-acre site with a pit village, a 1900s town, a 1950s town, working trams and costumed staff. It is one of the region's marquee visitor attractions and the anchor of Stanley's tourism pull.",
+      "The leisure and activity layer is led by the Tanfield Railway, billed as the world's oldest railway, running steam trains for three miles through the Causey valley past the 1725 Causey Arch, the world's oldest railway bridge, and Marley Hill engine shed. In the town itself the Louisa Centre offers a 25-metre pool, sports hall and soft play, while South Moor Memorial Park gives families open green space.",
+      "Heritage and culture run deep in a town built from the mining villages of East and West Stanley, with Annfield Plain, Craghead, Catchgate, Tantobie, Tanfield Lea and South Moor making up the wider parish. South Moor Memorial Park, opened in 1920 to the colliery dead of the world wars, and the Pontop and Tanfield landscape carry the area's industrial story for visitors and local guides alike.",
+      "The visitor trade builds on Beamish and the Tanfield Railway as headline draws, with the X30 and X31 buses linking Newcastle, Gateshead and Stanley to the railway's Andrews House entrance. As a commuter town close to the A1 and within easy reach of Durham, Gateshead and the Tyne, Stanley works as a base for day-trippers exploring the heritage railways, museums and countryside of north-west County Durham across the seasons."
+    ],
+    "kit_loc": "across the area's museums, heritage railways and parks",
+    "s2_intro": "Whether you are a major Stanley attraction or hotel group, a heritage site or a small independent activity centre in Chester-le-Street"
+  },
+  "Cottingham": {
+    "region": "Cottingham and East Yorkshire",
+    "nearby": ["Hull", "Beverley", "Hessle"],
+    "s1_head": "Kitting the visitor economy of East Yorkshire",
+    "s1loc": [
+      "Cottingham is reputed to be one of the largest villages in England, and its landmark is St Mary's on Hallgate, a parish church 800 years in use whose Decorated-style nave dates from after 1320 and whose tower was finished around 1400. Two Victorian high streets, Hallgate and King Street, cross at the centre, where the weekly market on Market Green gathers over twenty traders and local producers.",
+      "The leisure layer spreads out from the village green into the surrounding East Riding countryside, with walking and cycling routes toward the Wolds and the Humber. A short trip reaches Skidby Windmill, the last working windmill in Yorkshire, built in 1821 and home to the Museum of East Riding Rural Life, while the parks and recreation grounds of the village give families accessible open space across the year.",
+      "Heritage and culture run through the listed buildings of the old core, including the Grade II Snuff Mill House built around 1750 for the Hull snuff manufacturer William Travis, and along Snuff Mill Lane with its snickets and crossings. The two historic high streets, the medieval church and the village's market traditions give guides and local groups a genuinely village-scale heritage story to share with visitors.",
+      "The visitor trade leans on Cottingham's position as a gateway between Hull, Beverley and Hessle, with its own railway station on the line into Hull bringing day-trippers in and out. As a base it puts the Humber Bridge at Hessle, the Minster town of Beverley and the maritime and museum quarter of Hull all within a short hop, with cafes, independent shops and Bed and Breakfast accommodation serving seasonal visitors."
+    ],
+    "kit_loc": "across the village's high streets, market and visitor sites",
+    "s2_intro": "Whether you are a major Cottingham attraction or hotel group, a heritage site or a small independent activity centre in Hull"
+  },
+  "Ossett": {
+    "region": "Ossett and the Wakefield district",
+    "nearby": ["Dewsbury", "Batley", "Mirfield"],
+    "s1_head": "Kitting the visitor economy of the Wakefield district",
+    "s1loc": [
+      "Ossett gathers its visitors around the Town Hall of 1908, a proud civic landmark whose classical front carries two carved chimaera and Neoclassical caryatids beneath a striking clock tower, and around Holy Trinity Church, whose tall spire is a landmark seen for miles. The outdoor market in the town centre, held on Tuesdays and Fridays, has drawn locals and visitors for generations to the heart of the town.",
+      "The leisure layer runs through the town's green spaces, with Green Park offering walking paths and a children's play area and Illingworth Park providing well-kept play areas and quiet walks. A short drive reaches Newmillerdam Country Park with its lakeside walks, boathouse and heritage trail, while the celebrated Yorkshire Sculpture Park, with works by Henry Moore and Barbara Hepworth, sits about fifteen minutes away.",
+      "Heritage and culture centre on the Town Hall as a working venue with classes, programmes and printed town guides, and on Ossett Brewery, the family-run independent brewer founded in 1998 whose monthly brewery tours and taproom with countryside views draw visitors year-round. The town's textile and mill past, including the Healey Mills area, threads through a heritage story local guides build their walks around.",
+      "The visitor trade leans on Ossett's place in the Heavy Woollen district between Dewsbury, Batley and Wakefield, well served by the M1 and the wider road network for day-trippers. Independent shops, cafes and the twice-weekly market keep the centre busy across the seasons, while the brewery, the parks and the nearby Yorkshire Sculpture Park give operators and tour groups plenty to build a day out around."
+    ],
+    "kit_loc": "across the town's parks, market and visitor sites",
+    "s2_intro": "Whether you are a major Ossett attraction or hotel group, a heritage site or a small independent activity centre in Dewsbury"
+  },
+  "Maltby": {
+    "region": "Maltby and the Rotherham borough",
+    "nearby": ["Rotherham", "Worksop", "Mexborough"],
+    "s1_head": "Kitting the visitor economy of the Rotherham borough",
+    "s1loc": [
+      "Maltby sits east of Rotherham in South Yorkshire, and its marquee draw is Roche Abbey, the ruined Cistercian monastery founded in 1147 whose soaring early Gothic transepts, built around 1170, survive almost to full height. Cared for by English Heritage in the valley of Maltby Beck, the abbey shows one of the most complete monastic ground plans in the country and remains the centrepiece of any visit to the town.",
+      "The leisure layer threads along Maltby Beck through Maltby Crags and the wooded valley, with Maltby Low Common Nature Reserve offering wildflower walks and a wildlife pond, and Coronation Park giving families play areas, picnic spots and sports fields. The Norwoods and the surrounding King's Wood country provide quiet walking close to town, with trails linking the abbey ruins to the wider Sandbeck landscape.",
+      "Heritage and culture run from St Bartholomew's parish church, whose tower dates from the late Saxon to early Norman overlap period of the 10th and 11th centuries, to the Georgian designed landscape around the abbey itself. That parkland was reshaped in the 18th century by Capability Brown for the 4th Earl of Scarborough to enhance the family seat at Sandbeck Park, which has been held by the Earls of Scarbrough since 1752.",
+      "The visitor trade leans on Roche Abbey and Sandbeck Park as headline draws within a former mining town, with Hooton Levitt and the surrounding villages adding rural character. Close to Rotherham, Worksop and the A1, Maltby works as a base for day-trippers exploring the abbey, the nature reserves and the wider South Yorkshire countryside, with local shops and pubs serving seasonal visitors to the valley."
+    ],
+    "kit_loc": "across the town's abbey, parks and country sites",
+    "s2_intro": "Whether you are a major Maltby attraction or hotel group, a heritage site or a small independent activity centre in Rotherham"
+  },
+  "Ripon": {
+    "region": "Ripon and North Yorkshire",
+    "nearby": ["Harrogate", "Knaresborough", "Northallerton"],
+    "s1_head": "Kitting the visitor economy of North Yorkshire",
+    "s1loc": [
+      "Ripon is one of England's smallest cities and a major visitor draw, crowned by Ripon Cathedral, founded by Saint Wilfrid around AD 672, whose Anglo-Saxon crypt is one of the oldest surviving structures of its kind in the country. Just outside the city, Fountains Abbey and the Studley Royal Water Garden form a UNESCO World Heritage Site, with one of the most extensive monastic ruins in Europe and a deer park of around three hundred wild deer.",
+      "The leisure and activity layer ranges from Ripon Racecourse, Yorkshire's Garden Racecourse with a season of flat racing from April to September, to Newby Hall and Gardens on the banks of the River Ure, with its forty acres of award-winning gardens, Double Herbaceous Border and family attractions. Lightwater Valley theme park, set in 175 acres of countryside, adds a big family day out within a short drive of the city.",
+      "Heritage and culture run deep through the Ripon Museums - the Workhouse Museum and Garden, the Prison and Police Museum and the Courthouse Museum - and through the timber-framed Wakeman's House, once home to Hugh Ripley, the last Wakeman and the city's first mayor in 1604. Each evening the Ripon Hornblower keeps the Setting of the Watch, a ceremony of three horn blasts at the obelisk unbroken since 886.",
+      "The visitor trade builds on the cathedral city's hotel base and its run of headline sites, with the Studley Royal estate, Newby Hall and the racecourse drawing seasonal crowds in from across the region. Close to Harrogate and Knaresborough and on the road to the Dales, Ripon works as a touring base, with guides, tour operators and accommodation serving visitors to Fountains Abbey, the museums and the wider North Yorkshire countryside."
+    ],
+    "kit_loc": "across the city's attractions, gardens and visitor sites",
+    "s2_intro": "Whether you are a major Ripon attraction or hotel group, a heritage site or a small independent activity centre in Harrogate"
+  }
+}

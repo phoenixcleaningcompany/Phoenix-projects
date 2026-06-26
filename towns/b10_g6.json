@@ -1,0 +1,67 @@
+{
+  "Newport (Isle of Wight)": {
+    "region": "Newport and the Isle of Wight",
+    "nearby": ["Ryde", "Cowes", "Sandown"],
+    "s1_head": "Kitting the visitor economy of the Isle of Wight",
+    "s1loc": [
+      "Newport anchors the Isle of Wight's visitor economy from the heart of the island, headlined by Carisbrooke Castle, the Norman shell-keep where Charles I was imprisoned, with its treadwheel donkeys, the Carisbrooke Castle Museum and Princess Beatrice's Edwardian garden. The Nash-designed Guildhall and Newport Minster anchor St Thomas's Square, while the restored Victorian warehouse of Quay Arts on the River Medina draws visitors to exhibitions and live performance year-round.",
+      "The leisure and activity layer keeps operators working through the season, from Robin Hill Adventure Park, eighty-eight acres of rides and woodland on the downs above the town, to Monkey Haven, the island's primate rescue centre with owls, meerkats and reptiles in the green hills nearby. Parkhurst Forest sets walking and cycling trails, while the Medina riverside, the quay moorings and the surrounding country parks give walkers and activity centres a base across the island's interior.",
+      "Heritage and culture run deep, from the medieval Carisbrooke Priory and the riverside warehouses of Newport Quay to the Roman villa unearthed beneath the town and the Nash architecture of St James's Square. Quay Arts and the Apollo Theatre run live programmes, the island's events calendar fills the year, and the market town's Georgian streets and the County Hall quarter give the county town a distinct civic identity at the centre of Wight.",
+      "Underpinning it all is the island's main service base, with hotels, guesthouses and Bed and Breakfast stays across Newport and Carisbrooke feeding tour operators and coach firms working the marquee sites. The Red Funnel and Wightlink ferries land at Cowes, East Cowes and Fishbourne, the island bus network radiates from Newport's interchange, and Osborne House, the Needles and the chalk downs give the surrounding area a strong day-trip and seasonal draw across the whole island."
+    ],
+    "kit_loc": "across the island's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Newport attraction or hotel group, a heritage site or a small independent activity centre in Ryde"
+  },
+  "Ryde": {
+    "region": "Ryde and the Isle of Wight",
+    "nearby": ["Newport (Isle of Wight)", "Cowes", "Sandown"],
+    "s1_head": "Kitting the visitor economy of Ryde and the Isle of Wight",
+    "s1loc": [
+      "Ryde runs one of the island's busiest seaside visitor economies, headlined by Ryde Pier, the oldest seaside pier in the country at over two centuries old and the longest on the island, carrying foot passengers, road traffic and the Island Line trains out across the Solent. The handsome Victorian Esplanade, the wide sands of Ryde Beach exposed at low tide and the gothic folly of Appley Tower at Appley Beach anchor the town's traditional resort frontage.",
+      "The leisure and activity layer is dense and family-focused, from Ryde Arena and the LA Bowl superbowl with its sixteen lanes and LaserQuest on the Esplanade to the canoe lake, the boating water and the seafront fun fair. The modern Appley and Waterside playgrounds, the Waterside Pool, Ryde Harbour's moorings and watersports off the sands give activity centres a base, while the walk to tranquil Quarr Abbey draws visitors along the coast year-round.",
+      "Heritage and culture run deep, from the elegant Georgian and Victorian terraces of Union Street climbing from the pier to the Royal Victoria Arcade and St Thomas's Heritage Centre. Brading Roman Villa, one of the finest Roman sites in the country, sits a short ride south, the island's Pride festival fills the Esplanade in summer, and the conservation-area streets and seafront gardens give Ryde a distinct genteel identity above the Solent.",
+      "Underpinning it all is a deep hotel, guesthouse and Bed and Breakfast base serving day visitors and weekend crowds, supported by coach and tour operators working the seafront. Hovertravel runs Britain's last passenger hovercraft to Southsea in minutes, the Wightlink catamaran lands at the pier head and the Island Line trains and bus interchange feed the centre, with Quarr Abbey, Brading and the island's east coast giving the surrounding area a strong day-trip and seasonal draw."
+    ],
+    "kit_loc": "across the coast's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Ryde attraction or hotel group, a heritage site or a small independent activity centre in Newport (Isle of Wight)"
+  },
+  "Cowes": {
+    "region": "Cowes and the Isle of Wight",
+    "nearby": ["Newport (Isle of Wight)", "Ryde", "Shanklin"],
+    "s1_head": "Kitting the visitor economy of Cowes and the Isle of Wight",
+    "s1loc": [
+      "Cowes is the maritime gateway to the Isle of Wight and the home of British yachting, headlined by Cowes Week, run since 1826 and the largest regatta of its kind in the world with up to forty daily races for some seven hundred and fifty boats each summer. The Royal Yacht Squadron occupies the Castle, built in 1539 as one of Henry VIII's Solent forts, while the Parade, the Esplanade and The Green keep visitors close to the water at the harbour mouth.",
+      "The leisure and activity layer keeps operators working across the season, from the sailing schools, marinas and watersports off the Solent to the East Cowes Marina and the chain ferry, the floating bridge that links the two towns across the River Medina in minutes. Northwood House and its parkland set walks and events above the town, while Gurnard beach beyond Egypt Point and the nearby downs give walkers and activity centres a base year-round.",
+      "Heritage and culture run deep, from Osborne House at East Cowes, Queen Victoria's seaside home with its Durbar Room, terraced gardens and private beach, to the Cowes Maritime Museum on Beckford Road and the Classic Boat Museum across both shores. Northwood House, gifted to the town by Princess Beatrice, hosts galas and the Spring Garden Fair, and the regatta calendar and yachting heritage give Cowes a distinct seafaring identity on the Solent.",
+      "Underpinning it all is a steady hotel, guesthouse and Bed and Breakfast trade swelled by regatta crowds, supported by tour, charter and sailing operators working the harbour. Red Funnel runs car and Hi-Speed Red Jet ferries to Southampton from Cowes and East Cowes, the island bus network reaches Newport, and Osborne House, the Solent forts and the island's north coast give the surrounding area a strong day-trip and seasonal draw across the year."
+    ],
+    "kit_loc": "across the coast's attractions, marinas and visitor sites",
+    "s2_intro": "Whether you are a major Cowes attraction or hotel group, a heritage site or a small independent activity centre in Newport (Isle of Wight)"
+  },
+  "Shanklin": {
+    "region": "Shanklin and the Isle of Wight",
+    "nearby": ["Sandown", "Ryde", "Newport (Isle of Wight)"],
+    "s1_head": "Kitting the visitor economy of Shanklin and the Isle of Wight",
+    "s1loc": [
+      "Shanklin runs a classic seaside visitor economy on Sandown Bay, headlined by Shanklin Chine, the island's oldest tourist attraction since 1817, a wooded gorge tumbling from the Old Village down to the Esplanade and beach. The golden sands of Shanklin Beach, backed by a traditional promenade, beach huts and the sea wall, anchor the resort, while the cliff lift carries visitors from the clifftop down to the seafront and the thatched Fisherman's Cottage at the foot of the Chine.",
+      "The leisure and activity layer keeps operators busy through the season, from the Esplanade amusements, the crazy golf, ten-pin bowling, go-karting and pirate and dinosaur mini-golf courses to the watersports off the bay. Rylstone Gardens near the Old Village sets a bandstand, tea gardens and crazy golf in its grounds, while the clifftop walks, the red cliffs of Luccombe to the south and the downs above the town give walkers and activity centres a base year-round.",
+      "Heritage and culture run deep, from the thatched cottages, tearooms and craft shops of Shanklin Old Village to Keats Cottage on the High Street, where the poet John Keats lodged in 1819 and worked on Lamia and Otho the Great. Shanklin Theatre runs shows and concerts in the heart of the town, the Rylstone bandstand fills the summer with music, and the Victorian streets and seafront gardens give the resort a distinct period charm.",
+      "Underpinning it all is one of the island's deepest hotel and guesthouse bases, with Bed and Breakfast stays and tour operators serving the Old Village and seafront. The Island Line trains run from Shanklin station up to Ryde and the ferries, the island bus network links the resort to Sandown and Newport, and the Chine, the shared Sandown Bay sands and the southern downs give the surrounding area a strong day-trip and seasonal draw across the year."
+    ],
+    "kit_loc": "across the coast's attractions, gardens and visitor sites",
+    "s2_intro": "Whether you are a major Shanklin attraction or hotel group, a heritage site or a small independent activity centre in Sandown"
+  },
+  "Sandown": {
+    "region": "Sandown and the Isle of Wight",
+    "nearby": ["Shanklin", "Ryde", "Newport (Isle of Wight)"],
+    "s1_head": "Kitting the visitor economy of Sandown and the Isle of Wight",
+    "s1loc": [
+      "Sandown runs the island's most traditional family resort economy on Sandown Bay, headlined by Sandown Pier, with its indoor golf, ten-pin bowling, amusements and end-of-pier rides above the sea. The long sweep of golden sand runs unbroken from Battery Gardens in the south to Yaverland in the north, backed by the Esplanade and Culver Parade, where a summer road train links the town to the beaches under the chalk wall of Culver Down.",
+      "The leisure and activity layer is dense and family-focused, from Dinosaur Isle, Britain's first dedicated dinosaur museum built in the shape of a pterosaur with over a thousand fossils on the seafront, to the Wildheart Animal Sanctuary at Yaverland, the island zoo set in an old Victorian fort and home to rescued tigers, lynx, lemurs and wallabies. Watersports off Yaverland beach, the crazy golf and the clifftop walks to Culver Down give activity operators a base year-round.",
+      "Heritage and culture run deep, from Brading Roman Villa just inland, one of the finest Roman sites in the country with its mosaics and museum, to the Victorian seafront, Battery Gardens and the National Trust downland of Culver. The town's events calendar fills the season, the bay's geology draws fossil hunters along Yaverland, and the resort's promenade and pier give Sandown a distinct old-fashioned seaside identity at the northern end of the bay.",
+      "Underpinning it all is a deep hotel, guesthouse and Bed and Breakfast base serving day visitors and holiday crowds, supported by coach and tour operators working the pier and the dinosaur and animal attractions. The Island Line trains run from Sandown station to Ryde and the ferries, the island bus network links the resort to Shanklin and Newport, and the shared Sandown Bay sands, Culver Down and Brading give the surrounding area a strong day-trip and seasonal draw across the year."
+    ],
+    "kit_loc": "across the coast's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Sandown attraction or hotel group, a heritage site or a small independent activity centre in Shanklin"
+  }
+}
