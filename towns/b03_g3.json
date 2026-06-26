@@ -1,0 +1,86 @@
+{
+  "stourbridge": {
+    "region": "Stourbridge and the Black Country",
+    "nearby": ["Dudley", "Halesowen", "Kidderminster"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Stourbridge, embroidered in-house to brand guidelines. A Black Country market town with a 400-year glass-making name and a settled base of professional firms, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Stourbridge professional firms and its glass heritage",
+    "s1loc": [
+      "Stourbridge sits in the Black Country glass quarter, where the Glass Cone at Wordsley still marks 400 years of crystal-making and Audnam and Amblecote keep working studios. Around the High Street and Market Street the professional base runs deep: Folkes Worton has advised owner-managed firms here for more than a century, alongside chartered accountants such as TJ Saxon and SRC Accountancy. More than a hundred commercial and business-law firms serve the wider Stourbridge area, regulated by the Solicitors Regulation Authority.",
+      "Stourbridge anchors a network of manufacturers, engineers and family firms on business parks toward Brierley Hill and the wider Dudley borough, with Stourbridge Junction linking the town into Birmingham thirteen miles east. The people running these accountancies, law practices, surveyors and engineering consultancies wear suits day to day, then step into branded polos and softshells for a trade exhibition, an away day or a sponsored community event. Office and brand managers order the kit, and they expect it to match the brand exactly."
+    ],
+    "kit_loc": "across the town centre and the Black Country business parks",
+    "s2_intro": "Whether you are a Stourbridge accountancy, a commercial law firm, a glass-sector manufacturer, an engineering consultancy or a technology company"
+  },
+  "ellesmere port": {
+    "region": "Ellesmere Port and Cheshire",
+    "nearby": ["Bebington", "Neston", "Birkenhead"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Ellesmere Port, embroidered in-house to brand guidelines. A Cheshire industrial town built around vehicle manufacturing, refining and the chemical sector, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Ellesmere Port industry and its supporting firms",
+    "s1loc": [
+      "Ellesmere Port is built around heavy industry: the Stellantis car plant, formerly Vauxhall, has assembled vehicles here since 1964 and now produces all-electric vans for the Citroen, Fiat, Opel, Peugeot and Vauxhall brands. Nearby the Stanlow refinery, run by EET Fuels after its rebrand from Essar Oil UK, supports thousands of jobs directly and indirectly. Around these sites a web of engineering, process, logistics and inspection firms operates across the town and the wider Cheshire West economy.",
+      "That industrial base feeds a steady demand for professional and support services: accountancies, law firms, surveyors, recruiters and technology suppliers serving the plants and the supply chain. The people in these practices and corporate offices wear suits or work clothes day to day, then move into branded polos, softshells and fleeces for a client site visit, a trade exhibition, a conference or a sponsored event. Procurement and office managers place the orders and expect the embroidery to match the brand precisely."
+    ],
+    "kit_loc": "across the town and the Cheshire West business parks",
+    "s2_intro": "Whether you are an Ellesmere Port engineering consultancy, an accountancy, a law firm, a process-industry supplier or a technology company"
+  },
+  "dewsbury": {
+    "region": "Dewsbury and West Yorkshire",
+    "nearby": ["Batley", "Mirfield", "Huddersfield"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Dewsbury, embroidered in-house to brand guidelines. The largest town of West Yorkshire's Heavy Woollen District, with a deep manufacturing heritage and a settled professional base, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Dewsbury firms and the Heavy Woollen District",
+    "s1loc": [
+      "Dewsbury is the largest town of the Heavy Woollen District, the West Yorkshire belt around Batley, Heckmondwike and Ossett named for the heavyweight cloth woven from shoddy and mungo. The old mills along Wakefield Road and at Dewsbury Mills now mix manufacturing with offices, and the professional base is long-rooted: Forrest Burlinson has advised owner-managed businesses and partnerships here since 1975, alongside accountancies, architectural practices such as Martin Walsh, and a working Chamber of Trade.",
+      "Dewsbury sits within the Kirklees borough, a short hop from Huddersfield's business hubs and the wider Leeds and West Yorkshire economy. Its manufacturers, textile and engineering firms, accountancies, law practices and technology suppliers employ people who wear suits or workwear day to day, then step into branded polos, softshells and fleeces for an exhibition, an away day, a conference or a sponsored community event. Office and brand managers order the kit and expect the embroidery to match their brand exactly."
+    ],
+    "kit_loc": "across the town centre and the Kirklees business parks",
+    "s2_intro": "Whether you are a Dewsbury accountancy, a law firm, a textile or engineering manufacturer, a consultancy or a technology company"
+  },
+  "widnes": {
+    "region": "Widnes and Cheshire",
+    "nearby": ["Runcorn", "Warrington", "St Helens"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Widnes, embroidered in-house to brand guidelines. A Cheshire town that grew as a centre of the chemical and process industries and now runs a broad service economy, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Widnes process industry and its business parks",
+    "s1loc": [
+      "Widnes grew from John Hutchinson's 1847 works at Spike Island into a major centre of the chemical industry, later consolidated under ICI alongside neighbouring Runcorn. Many of the old heavy-chemical plants have closed, but process, manufacturing and logistics firms still operate across Halebank Industrial Estate, Widnes Business Park and the sites strung along the Mersey. Sitting in the Borough of Halton between Liverpool and Manchester, the town is served by the M62 and the Manchester Ship Canal.",
+      "Around that industrial spine sits a service economy of accountancies, law firms, surveyors, recruiters and technology suppliers, many represented through the Halton Chamber of Commerce. The people in these practices and corporate offices wear suits or work clothes day to day, then move into branded polos, softshells and fleeces for a client site visit, a trade exhibition, a conference or a sponsored event. Procurement and office managers place the orders and expect the embroidery to match the brand precisely."
+    ],
+    "kit_loc": "across the town and the Halton business parks",
+    "s2_intro": "Whether you are a Widnes process-industry supplier, an accountancy, a law firm, an engineering consultancy or a technology company"
+  },
+  "runcorn": {
+    "region": "Runcorn and Cheshire",
+    "nearby": ["Widnes", "Warrington", "Northwich"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Runcorn, embroidered in-house to brand guidelines. A Cheshire town pairing a long chemical-industry base with the science and technology cluster on its doorstep, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Runcorn chemicals and the Daresbury science cluster",
+    "s1loc": [
+      "Runcorn carries a heavy chemical heritage, consolidated under ICI with neighbouring Widnes, and still hosts process and manufacturing firms across the Borough of Halton. On its doorstep sits Sci-Tech Daresbury, the Science and Innovation Campus opened to business from 2010, now home to more than 150 companies and over 2,000 people across healthcare, advanced engineering and materials, digital and clean technology, with the Hartree Centre, the Cockcroft Institute and STFC's Daresbury Laboratory on site.",
+      "Between Runcorn, Warrington, Liverpool and Manchester, that mix of process industry and a fast-growing science park feeds steady demand for professional services: accountancies, law firms, surveyors, recruiters and technology suppliers. The people running these practices and corporate offices wear suits day to day, then step into branded polos, softshells and fleeces for a conference, an away day, an exhibition or a sponsored event. Procurement and brand managers place the orders and expect the embroidery to match their brand exactly."
+    ],
+    "kit_loc": "across the town and the Daresbury and Halton campuses",
+    "s2_intro": "Whether you are a Runcorn technology firm, an accountancy, a law firm, a process-industry supplier or a consultancy"
+  },
+  "rochester": {
+    "region": "Rochester and the Medway towns",
+    "nearby": ["Chatham", "Strood", "Gravesend"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Rochester, embroidered in-house to brand guidelines. A Medway town built around defence engineering, advanced manufacturing and a growing professional base, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Rochester engineering and the Medway economy",
+    "s1loc": [
+      "Rochester is anchored by BAE Systems, whose electronic-systems site on Marconi Way is Medway's largest private employer, with around 1,600 people and a 220 million pound investment building new manufacturing, engineering and office space and creating hundreds of jobs. Close by, Innovation Park Medway is bringing forward advanced-manufacturing and technology plots in Rochester. Around this base sit engineering consultancies, accountancies, law firms and suppliers serving the defence and tech supply chain across the Medway towns.",
+      "Rochester combines that engineering core with a settled professional community of accountancies, surveyors, recruiters, insurers and law firms serving Chatham, Strood and the wider Medway economy. The people in these practices and corporate offices wear suits or work clothes day to day, then move into branded polos, softshells and fleeces for a client visit, a trade exhibition, a conference or a sponsored event. Office and procurement managers place the orders and expect the embroidery to match the brand precisely."
+    ],
+    "kit_loc": "across the town and the Medway business parks",
+    "s2_intro": "Whether you are a Rochester engineering firm, an accountancy, a law firm, a defence-sector supplier or a technology company"
+  },
+  "twickenham": {
+    "region": "Twickenham and southwest London",
+    "nearby": ["Hounslow", "Feltham", "Kingston upon Thames"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Twickenham, embroidered in-house to brand guidelines. A southwest London town pairing established corporate offices with a growing media and technology base, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Twickenham corporate offices and media employers",
+    "s1loc": [
+      "Twickenham sits in the London Borough of Richmond upon Thames, with corporate offices clustered around the town centre, London Road and the Twickenham Trading Estate. Haymarket Media Group is headquartered here at Bridge House on London Road, home to more than 500 people across journalism, events, technology and marketing across some seventy brands. St Mary's University adds an institutional anchor, and serviced offices and a tech hub at the Richmond education and enterprise campus support a base of professional and creative firms.",
+      "Twickenham's economy spans finance, ICT, professional services, publishing and a creative sector covering film production, design and digital advertising. Across the borough, accountancies, law firms, consultancies and technology companies employ people who wear suits day to day, then step into branded polos, softshells and fleeces for a conference, an away day, an exhibition or a sponsored event. Office and brand managers, with easy rail links into central London, place the orders and expect the embroidery to match their brand exactly."
+    ],
+    "kit_loc": "across the town centre and the southwest London business districts",
+    "s2_intro": "Whether you are a Twickenham media business, an accountancy, a law firm, a consultancy or a technology company"
+  }
+}

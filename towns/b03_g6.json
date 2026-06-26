@@ -1,0 +1,86 @@
+{
+  "horsham": {
+    "region": "Horsham and West Sussex",
+    "nearby": ["Crawley", "Haywards Heath", "Burgess Hill"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Horsham, embroidered in-house to brand guidelines. Horsham carries a long insurance heritage and a commercial base mixing professional services, financial firms and growing tech inside the West Sussex economy, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Horsham's insurance heritage and professional firms",
+    "s1loc": [
+      "Horsham is the long-standing home of RSA Insurance, whose head office stands at St Mark's Court on Chart Way, anchoring the town's reputation as a financial-services centre. Around it sit accountancy and advisory firms such as Kreston Reeves, Galloways Accounting and Johnstone Kemp Tooley, alongside law firms including Lewis Denley serving corporate and commercial clients. Modern offices and business parks ring the historic centre near the Carfax and Swan Walk, holding professional, financial, light-industry and creative occupiers.",
+      "Horsham's professional-services workforce draws on commuters and residents across Crawley, Haywards Heath and Burgess Hill, within easy reach of London and Gatwick. The accountants, solicitors, insurers and consultants here work in suits day to day, then step into branded kit when the brand goes public: conferences, exhibitions, away days, client visits and sponsored community events. Procurement leads, office managers and brand managers place the orders, and they insist that every polo, softshell and fleece matches the firm's logo and colours exactly."
+    ],
+    "kit_loc": "across the town centre and the surrounding business parks",
+    "s2_intro": "Whether you are a Horsham insurer, an accountancy, a law firm, a consultancy or a technology company"
+  },
+  "washington": {
+    "region": "Washington and Tyne and Wear",
+    "nearby": ["Sunderland", "Chester-le-Street", "Gateshead"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Washington, embroidered in-house to brand guidelines. Washington pairs the Nissan plant and its deep automotive supply chain with established business parks inside the Tyne and Wear economy, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Washington's business parks and corporate base",
+    "s1loc": [
+      "Washington sits beside the Nissan plant, one of the most productive car factories in Europe, whose presence supports thousands of supply-chain and engineering roles across the wider area. The town's economy spreads across business parks such as Crowther, Armstrong and Stephenson, holding manufacturers, logistics operators and the professional firms that serve them. Accountancies, solicitors, financial advisers and consultancies work from offices here and in nearby Sunderland, with technology and engineering firms adding to the corporate mix.",
+      "Washington's professional-services workforce draws on people from across Sunderland, Chester-le-Street and Gateshead, feeding the engineering, automotive and advisory firms based on the parks. These advisers, managers and consultants work in suits and office wear day to day, then reach for branded kit when the brand has to travel: conferences, exhibitions, away days, client and site visits and sponsored community events. Procurement leads, office managers and brand managers place the orders, expecting every polo, softshell and fleece to match the firm exactly."
+    ],
+    "kit_loc": "across the town centre and the Crowther and Armstrong business parks",
+    "s2_intro": "Whether you are a Washington accountancy, a law firm, a financial adviser, a consultancy or a technology company"
+  },
+  "hornchurch": {
+    "region": "Hornchurch and east London",
+    "nearby": ["Romford", "Upminster", "Ilford"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Hornchurch, embroidered in-house to brand guidelines. Hornchurch sits inside the London Borough of Havering with a dense base of professional firms and small businesses serving east London and south Essex, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Hornchurch professional firms and the Havering base",
+    "s1loc": [
+      "Hornchurch holds a strong cluster of professional firms around the High Street and Station Lane, with law firms such as Pinney Talfourd and accountancies including Lipson and Co, Johal and Company and S J Walker and Co serving local businesses. Nearby Romford adds further depth, with established firms such as Haslers and Clemence Hoar Cummings handling corporate and commercial work. Financial advisers, business consultants and IT specialists fill offices across the town, supporting a wide base of Havering employers.",
+      "Hornchurch's professional-services workforce draws on people from across Romford, Upminster and Ilford, with quick District and Elizabeth line links into the City of London. The accountants, solicitors, advisers and consultants here work in suits day to day, then step into branded kit when the brand goes public: conferences, exhibitions, away days, client visits and sponsored community events. Procurement leads, office managers and brand managers place the orders, and they insist that every polo, softshell and fleece matches the firm's logo and colours exactly."
+    ],
+    "kit_loc": "across the High Street and Station Lane business area",
+    "s2_intro": "Whether you are a Hornchurch accountancy, a law firm, a financial adviser, a consultancy or a technology company"
+  },
+  "kettering": {
+    "region": "Kettering and Northamptonshire",
+    "nearby": ["Corby", "Wellingborough", "Rushden"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Kettering, embroidered in-house to brand guidelines. Kettering combines a strong logistics and distribution base with manufacturing, software and professional firms inside the Northamptonshire economy, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Kettering's business parks and professional firms",
+    "s1loc": [
+      "Kettering sits on the A14 inside the East Midlands logistics belt, with Kettering Business Park and Prologis Park holding distribution centres and offices near junction 7. Major employers include Weetabix, Pegasus Software, Timsons and the Morrisons distribution centre, giving the town a mix of manufacturing, software and logistics names. Around them sit the accountancies, solicitors, financial advisers and consultancies that serve a fast-growing corporate base, working from town-centre offices and serviced workspace.",
+      "Kettering's professional-services workforce draws on people from across Corby, Wellingborough and Rushden, feeding the advisory, finance and software firms based in and around the town. These advisers, managers and consultants work in suits and office wear day to day, then reach for branded kit when the brand has to travel: conferences, exhibitions, away days, client and site visits and sponsored community events. Procurement leads, office managers and brand managers place the orders, expecting every polo, softshell and fleece to match the firm exactly."
+    ],
+    "kit_loc": "across the town centre and Kettering Business Park",
+    "s2_intro": "Whether you are a Kettering accountancy, a law firm, a software or technology company, a consultancy or a logistics operator"
+  },
+  "brierley hill": {
+    "region": "Brierley Hill and the Black Country",
+    "nearby": ["Dudley", "Kingswinford", "Stourbridge"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Brierley Hill, embroidered in-house to brand guidelines. Brierley Hill anchors a major Black Country business district at The Waterfront, employing thousands across professional, public and corporate occupiers, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Brierley Hill's Waterfront business district",
+    "s1loc": [
+      "Brierley Hill is home to The Waterfront, a business district built around the Dudley Canal that holds offices for a wide range of public and private organisations and supports thousands of jobs. Occupiers have included Higgs and Sons Solicitors, Emerson Network Power, HMRC and Royal Mail, with accountancies, financial advisers and consultancies clustered around Waterfront Business Park. The district sits at the heart of the Black Country, close to Dudley and the wider West Midlands corporate market.",
+      "Brierley Hill's professional-services workforce draws on people from across Dudley, Kingswinford and Stourbridge, feeding the legal, finance and advisory firms based on the Waterfront. The solicitors, accountants, advisers and consultants here work in suits day to day, then step into branded kit when the brand goes public: conferences, exhibitions, away days, client and site visits and sponsored community events. Procurement leads, office managers and brand managers place the orders, and they insist that every polo, softshell and fleece matches the firm's logo and colours exactly."
+    ],
+    "kit_loc": "across The Waterfront business district",
+    "s2_intro": "Whether you are a Brierley Hill law firm, an accountancy, a financial adviser, a consultancy or a technology company"
+  },
+  "corby": {
+    "region": "Corby and Northamptonshire",
+    "nearby": ["Kettering", "Market Harborough", "Wellingborough"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Corby, embroidered in-house to brand guidelines. Corby is one of the fastest-growing towns in England, pairing a major logistics and manufacturing base with business parks inside the Northamptonshire economy, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Corby's logistics base and business parks",
+    "s1loc": [
+      "Corby sits on the A14 with one of the UK's largest concentrations of logistics and distribution space, anchored by Magna Park and Mulberry Logistics Park. Major occupiers have included Europa Worldwide, BSH Home Appliances and Smyths Toys, while manufacturing still accounts for around three times the national average share of local jobs. Around these corporate names sit the accountancies, solicitors, financial advisers and consultancies that serve them, working from town-centre offices and serviced workspace.",
+      "Corby's professional-services workforce draws on people from across Kettering, Market Harborough and Wellingborough, feeding the advisory, finance and corporate-services firms supporting a fast-expanding business base. These advisers, managers and consultants work in suits and office wear day to day, then reach for branded kit when the brand has to travel: conferences, exhibitions, away days, client and site visits and sponsored community events. Procurement leads, office managers and brand managers place the orders, expecting every polo, softshell and fleece to match the firm exactly."
+    ],
+    "kit_loc": "across the town centre, Magna Park and the logistics parks",
+    "s2_intro": "Whether you are a Corby accountancy, a law firm, a financial adviser, a consultancy or a logistics or manufacturing operator"
+  },
+  "bracknell": {
+    "region": "Bracknell and Berkshire",
+    "nearby": ["Wokingham", "Camberley", "Reading"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Bracknell, embroidered in-house to brand guidelines. Bracknell is a major Thames Valley corporate centre, home to a cluster of multinational head offices and technology firms inside the Berkshire economy, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Bracknell's corporate head offices and tech cluster",
+    "s1loc": [
+      "Bracknell is one of the strongest corporate centres in the Thames Valley, hosting head offices and major operations for global names including Dell, Honeywell, Fujitsu, 3M, Cadence, Panasonic and Boehringer Ingelheim. Honda's UK head office sits on Cain Road, and Waitrose has run its head office and central distribution from the town for decades. Around these corporate occupiers, on business parks and in the redeveloped Lexicon centre, sit the accountancies, law firms, financial advisers and consultancies that serve them.",
+      "Bracknell's professional-services workforce draws on people from across Wokingham, Camberley and Reading, feeding the technology, advisory and corporate-services firms based on its business parks. These advisers, managers and consultants work in suits and office wear day to day, then step into branded kit when the brand goes public: conferences, exhibitions, away days, client and site visits and sponsored community events. Procurement leads, office managers and brand managers place the orders, and they insist that every polo, softshell and fleece matches the firm's logo and colours exactly."
+    ],
+    "kit_loc": "across the town centre and the surrounding business parks",
+    "s2_intro": "Whether you are a Bracknell technology company, an accountancy, a law firm, a consultancy or an insurer"
+  }
+}

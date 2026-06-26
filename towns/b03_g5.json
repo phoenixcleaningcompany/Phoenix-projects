@@ -1,0 +1,86 @@
+{
+  "halesowen": {
+    "region": "Halesowen and the Black Country",
+    "nearby": ["Stourbridge", "Dudley", "Smethwick"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Halesowen, embroidered in-house to brand guidelines. It is a Black Country manufacturing town whose engineering base is matched by a growing layer of professional firms, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Halesowen manufacturing-services and professional firms",
+    "s1loc": [
+      "Halesowen pairs a long metal-working and engineering tradition with a busy professional-services layer serving the Black Country business community. The historic accountancy practice Nicklin, long established on the Cornbow, was acquired by the fast-growing firm DJH as part of a push toward the sector's top UK ranks, and DJH now runs an office in the town. Advisers, solicitors and accountants here work alongside automotive supply-chain and metal-fabrication employers with easy reach of Junction 3 of the M5.",
+      "Those offices employ accountants, solicitors, advisers and engineers who spend most weeks in suits and meeting rooms but step into branded kit when the work moves outside. An away day in Stourbridge, an exhibition stand in Dudley, a client visit or a new-starter welcome pack all call for polos, softshells and fleeces that carry the firm's exact logo and colours. Procurement and office managers in Halesowen buy that kit because it has to match the brand precisely, on every order."
+    ],
+    "kit_loc": "across the town centre and the M5 business estates",
+    "s2_intro": "Whether you are a Halesowen accountancy, a law firm, an engineering consultancy or a technology company"
+  },
+  "tunbridge wells": {
+    "region": "Tunbridge Wells and Kent",
+    "nearby": ["Tonbridge", "Crowborough", "Sevenoaks"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Tunbridge Wells, embroidered in-house to brand guidelines. It is an affluent Kent business town anchored by insurance and a deep base of law and accountancy firms, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Tunbridge Wells insurance and professional firms",
+    "s1loc": [
+      "Tunbridge Wells carries a financial-services and professional base far larger than its size. AXA Health, the former AXA PPP Healthcare, runs a major operation from International House on Forest Road, making the town one of the country's biggest private medical insurance centres. Thomson Snell and Passmore, recognised as the oldest law firm in operation and one of the largest in the South East outside London, employs over 250 staff here, and accountancy and advisory firms cluster across the town centre and Mount Pleasant.",
+      "Those firms employ underwriters, solicitors, accountants, advisers and finance and IT staff who spend the working week in suits and meeting rooms. When the practice faces clients they move into branded kit: a conference, an exhibition stand, an away day in Tonbridge or Sevenoaks, a sponsored fundraising event or a welcome pack for new starters. Procurement and brand managers here are particular about the result, ordering polos, softshells and fleeces in the firm's exact logo and colours and expecting every reorder to stay consistent."
+    ],
+    "kit_loc": "across the town centre and the business district",
+    "s2_intro": "Whether you are a Tunbridge Wells insurer, a law firm, an accountancy or a technology company"
+  },
+  "dunfermline": {
+    "region": "Dunfermline and Fife",
+    "nearby": ["Kirkcaldy", "Glenrothes", "Edinburgh"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Dunfermline, embroidered in-house to brand guidelines. It holds Scotland's largest single centre for financial shared services alongside major technology and operations employers, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Dunfermline financial-services and operations firms",
+    "s1loc": [
+      "Pitreavie Business Park and the Carnegie Campus together form Scotland's largest single centre for financial shared services, and Dunfermline's business base is built around them. Sky runs home-entertainment and communications operations in the town, while Sainsbury's Bank, Santander, NatWest Group and Lloyds Banking Group have all anchored back-office and financial work here. Ingenico and VITEC add technology employers, and Thomson Cooper Accountants serves the wider Fife market with audit, tax and advisory work alongside local solicitors and consultants.",
+      "Those campuses employ analysts, accountants, solicitors, advisers and finance and IT teams who work in suits and meeting rooms across the week. When a firm faces clients it switches to branded kit: a conference, an exhibition stand, an away day in Kirkcaldy or Edinburgh, a client visit or a welcome pack for new joiners. Procurement and office managers in Dunfermline order polos, softshells and fleeces that carry the company logo and colours exactly, and they want every reorder to match across teams and events."
+    ],
+    "kit_loc": "across the town centre and Pitreavie and Carnegie campuses",
+    "s2_intro": "Whether you are a Dunfermline bank, a financial-services operation, an accountancy or a technology company"
+  },
+  "livingston": {
+    "region": "Livingston and West Lothian",
+    "nearby": ["Bathgate", "Edinburgh", "Cumbernauld"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Livingston, embroidered in-house to brand guidelines. It is a West Lothian technology and electronics town built around Scotland's first high-tech industrial park, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Livingston technology and business-park employers",
+    "s1loc": [
+      "Kirkton Campus was Scotland's first purpose-designed high-technology industrial park, and it still defines Livingston's business base across some 300 acres. Sky is one of the town's largest private employers, running a major contact and operations centre at Kirkton, while Merck, Edinburgh Instruments and HMRC sit alongside it and earlier electronics names such as Seagate, Canon and W. L. Gore shaped the campus. The wider town adds business parks at Houston and Deer Park supporting accountancy, advisory and digital firms.",
+      "These employers fill Livingston with engineers, software teams, analysts and the accountants and advisers who support them. They work in suits and on technical sites most of the week, then reach for branded kit when the firm faces outward: a conference, an exhibition stand, an away day in Bathgate or Edinburgh, a client visit or a welcome pack for new starters. Brand and office managers order polos, softshells and fleeces that carry the company logo and colours exactly, and they want every reorder to match."
+    ],
+    "kit_loc": "across the town centre and Kirkton Campus",
+    "s2_intro": "Whether you are a Livingston technology company, an electronics manufacturer, an accountancy or a consultancy"
+  },
+  "barrow-in-furness": {
+    "region": "Barrow-in-Furness and Cumbria",
+    "nearby": ["Ulverston", "Kendal", "Lancaster"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Barrow-in-Furness, embroidered in-house to brand guidelines. It is the UK's submarine-building town, anchored by one of the largest single-site engineering employers in the country, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Barrow submarine engineering and professional firms",
+    "s1loc": [
+      "Barrow is the UK's submarine-building town, and BAE Systems Submarines runs one of the largest single-site engineering operations in the country from the Devonshire Dock Complex, building the Astute and Dreadnought class boats for the Royal Navy. That programme drives a long supply chain of professional firms across Furness: engineering and project-management consultancies, environmental advisers, specialist software houses and security-cleared technical and IT contractors, many of them small to mid-sized local practices. JF Hornby and Co and Clarke Jefferies handle accountancy, with Progression Solicitors among the town's law firms.",
+      "These employers fill Barrow with engineers, project staff, accountants and the advisers who support them, working in offices and on technical sites through the week. When a firm faces clients it reaches for branded kit: an exhibition stand, a conference, an away day in Ulverston or Kendal, a client visit or a welcome pack for new starters. Procurement and brand managers here order polos, softshells and fleeces that carry the company logo and colours exactly, and they expect every reorder to stay consistent."
+    ],
+    "kit_loc": "across the town centre and the dockside engineering sites",
+    "s2_intro": "Whether you are a Barrow engineering firm, a defence consultancy, an accountancy or a technology company"
+  },
+  "bebington": {
+    "region": "Bebington and the Wirral",
+    "nearby": ["Birkenhead", "Bromborough", "Ellesmere Port"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Bebington, embroidered in-house to brand guidelines. It is a Wirral town built around a major research and manufacturing campus and a supporting base of professional firms, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Bebington research campus and professional firms",
+    "s1loc": [
+      "Bebington's business base is anchored by Unilever at Port Sunlight, the model village built by Lever Brothers between Lower Bebington and New Ferry, where the company has operated since the late nineteenth century. The Port Sunlight Laboratory on Quarry Road East is a major research and development site, employing scientists in formulation, regulatory affairs and engineering alongside management and commercial teams. Around it the town and the wider Wirral support accountancy, advisory and legal firms serving the manufacturing, science and business community.",
+      "Those employers fill Bebington with researchers, engineers, finance teams and the accountants and advisers who support them, working in suits and laboratories through the week. When a firm faces clients it switches to branded kit: a conference, an exhibition stand, an away day in Birkenhead or Ellesmere Port, a site visit or a welcome pack for new joiners. Procurement and brand managers across the Wirral order polos, softshells and fleeces that carry the company logo and colours exactly, and they want every reorder to match."
+    ],
+    "kit_loc": "across the town and the Port Sunlight campus",
+    "s2_intro": "Whether you are a Bebington research company, a manufacturer, an accountancy or a technology firm"
+  },
+  "smethwick": {
+    "region": "Smethwick and the Black Country",
+    "nearby": ["West Bromwich", "Birmingham", "Halesowen"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Smethwick, embroidered in-house to brand guidelines. It is a Black Country manufacturing town whose engineering base is matched by a supporting layer of professional firms, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Smethwick manufacturing-services and professional firms",
+    "s1loc": [
+      "Smethwick carries a deep engineering and metal-processing heritage, from the historic Soho Foundry and Smethwick Engine to today's advanced manufacturers, and sits within Sandwell just west of Birmingham. Hadley Group, the UK's largest cold roll-formed sections manufacturer, runs its head office from Dartmouth Road, supplying automotive, aerospace and other sectors. Sandwell Council is the borough's largest employer, and the town's manufacturing, metal-processing and logistics base is served by local accountancy, advisory and legal firms across the area.",
+      "Those employers fill Smethwick with engineers, production and finance teams and the accountants, solicitors and advisers who support them, working in suits and on technical sites through the week. When a firm faces clients it switches to branded kit: an exhibition stand, a conference, an away day in West Bromwich, a site visit or a welcome pack for new joiners. Procurement and office managers across Sandwell order polos, softshells and fleeces that carry the firm's logo and colours exactly, and they want every reorder kept consistent across teams and events."
+    ],
+    "kit_loc": "across the town centre and the Black Country business estates",
+    "s2_intro": "Whether you are a Smethwick manufacturer, an engineering consultancy, an accountancy or a technology company"
+  }
+}
