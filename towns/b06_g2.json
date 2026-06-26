@@ -1,0 +1,93 @@
+{
+  "Leyland": {
+    "region": "Leyland and central Lancashire",
+    "nearby": ["Chorley", "Preston", "Fulwood"],
+    "s1_head": "Kitting the visitor economy of central Lancashire",
+    "s1loc": [
+      "Leyland carries a proud visitor economy rooted in its motor-manufacturing past, anchored by the British Commercial Vehicle Museum on King Street, housed in the original inspection building of Leyland Motors. The collection of over 60 classic trucks, vans, buses and fire engines tells 120 years of British road-transport history, with the reinforced Leyland Popemobile built for Pope John Paul II's 1982 visit standing as the star exhibit and drawing transport enthusiasts to the town across the year.",
+      "The leisure and activity layer centres on Worden Park, a 150-acre Green Flag estate on the edge of town that was once the Farington family seat. The park holds a yew maze, a miniature railway, a formal walled garden, woodland trails and the Worden Arts and Crafts Centre in the old stable block, while the wider playing fields, the play areas and the surrounding South Ribble countryside give families and activity operators a busy outdoor offer through the warmer season.",
+      "Heritage and culture run deep in this old Lancashire factory town. The Worden Arts and Crafts Centre runs craft studios and exhibitions, while St Andrew's Church and the historic Leyland Cross in the village core anchor a long story, and the annual Leyland Festival fills the streets with a procession each summer. The South Ribble Museum and Exhibition Centre on Church Road traces the area's social history, giving the town a layered cultural identity beyond its industrial name.",
+      "Underpinning it all is a hotel and inn trade serving central Lancashire, business travellers and museum visitors, with a guide scene built around the commercial-vehicle heritage and Worden Park. Leyland station on the West Coast Main Line links the town to Preston, Wigan and beyond, while junction 28 of the M6 sits minutes away, so operators handle stopover trade as well as day-trippers heading for Chorley, the West Pennine Moors and the wider Lancashire countryside nearby."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Leyland attraction or hotel group, a heritage site or a small independent activity centre in Chorley"
+  },
+  "Skelmersdale": {
+    "region": "Skelmersdale and West Lancashire",
+    "nearby": ["Ormskirk", "Wigan", "St Helens"],
+    "s1_head": "Kitting the visitor economy of West Lancashire",
+    "s1loc": [
+      "Skelmersdale anchors its visitor draw in the green spaces that thread through this West Lancashire new town, led by Beacon Country Park, more than 300 acres of rolling countryside on its eastern edge. From Beacon Point, the highest spot in the park, walkers gain panoramic views across the West Lancashire plain toward the coast and the Welsh hills, while woodlands, meadows, a golf course and a ranger-run events programme make it the marquee outdoor destination for the surrounding district.",
+      "The leisure and activity layer centres on Tawd Valley Park, a wooded valley following the River Tawd through the heart of the town from Yewdale to Cobbs Clough. Three self-guided trails reveal the ruins of an old mill, millponds and capped mineshafts, with birds of prey soaring over the open meadows, while the wider path network, the play areas and the surrounding farmland give families and activity operators a busy outdoor offer through the warmer season across the borough.",
+      "Heritage and culture draw on the town's distinctive new-town story and its older roots. The nearby ruins of Upholland's medieval priory and the historic village core, the parish churches of the district and the events staged through the Beacon ranger service add depth, while the West Lancashire heritage of farming and coal that the Tawd Valley trails uncover gives the area a layered character beyond its 1960s housing estates and roundabout road network.",
+      "Underpinning it all is a hotel and inn trade serving West Lancashire, business travellers using the Pimbo and Stanley industrial estates, and visitors to the country parks, with a guide scene built around Beacon Country Park. Skelmersdale sits beside the M58, linking it quickly to Wigan, Ormskirk and Liverpool, so operators handle stopover trade as well as day-trippers heading for the WWT Martin Mere wetlands, the Ormskirk market town and the wider Lancashire countryside nearby."
+    ],
+    "kit_loc": "across the town's parks, attractions and visitor sites",
+    "s2_intro": "Whether you are a major Skelmersdale attraction or hotel group, a heritage site or a small independent activity centre in Ormskirk"
+  },
+  "Canvey Island": {
+    "region": "Canvey Island and the Essex Thames coast",
+    "nearby": ["Basildon", "Rayleigh", "Southend-on-Sea"],
+    "s1_head": "Kitting the visitor economy of the Essex Thames coast",
+    "s1loc": [
+      "Canvey Island runs a seaside visitor economy on the Thames estuary, led by its long seafront and the Labworth Cafe, a Grade Two listed Art Deco landmark designed by engineer Ove Arup in 1932 and now a beach bistro and restaurant. The Concord Beach promenade, the Thorney Bay sands and the wide estuary views toward Kent draw day-trippers across the season, while the island's sea wall, built up after the 1953 flood, gives a bracing walking front for visitors.",
+      "The leisure and activity layer centres on the island's nature reserves and waterfront. Canvey Wick, a Site of Special Scientific Interest on a disused oil-refinery site, holds one of the highest concentrations of biodiversity in Western Europe with some 1,300 species, while the RSPB's West Canvey Marshes spread across grazing marsh rich in wading birds. The approved windsurfing waters off Labworth Beach and the estuary paths give families and activity operators a busy outdoor offer through the warmer season.",
+      "Heritage and culture run deep on this reclaimed Dutch-engineered island. The 17th-century Lobster Smack at Hole Haven, a smugglers' haunt mentioned by Dickens in Great Expectations, and the thatched Dutch Cottage Museum with its octagonal walls trace the island's drainage by Dutch engineers, while Canvey's place in pub-rock history through the band Dr Feelgood gives the seafront a cult cultural identity celebrated by visitors and music fans alike.",
+      "Underpinning it all is a guest-house, holiday-park and caravan trade serving the estuary coast, day-trip families and birdwatchers, with a guide scene built around the nature reserves and the island's Dutch and maritime story. Canvey connects by the A130 and A13 to Basildon and the wider Thames Gateway, with Benfleet station just over the bridge linking the area to London Fenchurch Street and Southend-on-Sea, so operators handle stopover trade alongside coastal day-trippers nearby."
+    ],
+    "kit_loc": "across the coast's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Canvey Island attraction or hotel group, a heritage site or a small independent activity centre in Basildon"
+  },
+  "Long Eaton": {
+    "region": "Long Eaton and the Erewash Valley",
+    "nearby": ["Ilkeston", "Beeston", "Nottingham"],
+    "s1_head": "Kitting the visitor economy of the Erewash Valley",
+    "s1loc": [
+      "Long Eaton carries a waterside visitor economy where the River Trent, the River Soar and the Erewash Canal meet at Trent Lock, a beauty spot ringed by waterside pubs and cafes that draws boaters, cyclists and walkers across the year. The lace-making town's industrial skyline of Victorian mills, including Harrington Mill and West End Mill, marks its place as a former heart of the British lace trade and gives the area a strong heritage backbone on the Derbyshire and Nottinghamshire border.",
+      "The leisure and activity layer reaches across the surrounding parks and waterways. West Park, the largest green space in the Borough of Erewash, holds the Fox Covert Local Nature Reserve, sports pitches and play areas, while the neighbouring Attenborough Nature Reserve spreads its lakes and reed beds across a Site of Special Scientific Interest with a riverside visitor centre and cafe. The Erewash Canal towpath and Sawley Marina, one of the largest inland marinas in the country, keep activity operators busy through the season.",
+      "Heritage and culture run deep in this old lace town. The Palladian-style Long Eaton Hall now forms part of the Town Hall complex, while the Parish Church of St Laurence traces roots back to the 11th or 12th century, and the surviving mill architecture of the lace quarter records a trade that once clothed Edwardian Britain. The events calendar across the town centre and the canal-side heritage trails give Long Eaton a layered character beyond its modern shopping streets.",
+      "Underpinning it all is a hotel and inn trade serving the Erewash Valley, the East Midlands business corridor and visitors to the rivers and reserves, with a guide scene built around Trent Lock and the nature sites. Long Eaton station links the town to Nottingham, Derby and the wider Midland route, while the M1 at junction 25 sits minutes away, so operators handle stopover trade as well as day-trippers heading for Beeston, the Trent waterside and the wider countryside nearby."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Long Eaton attraction or hotel group, a heritage site or a small independent activity centre in Ilkeston"
+  },
+  "Abingdon": {
+    "region": "Abingdon and the Vale of White Horse",
+    "nearby": ["Oxford", "Didcot", "Witney"],
+    "s1_head": "Kitting the visitor economy of the Vale of White Horse",
+    "s1loc": [
+      "Abingdon-on-Thames runs a rich visitor economy as one of England's oldest continually inhabited towns, anchored by the County Hall Museum, set in the grand 17th-century County Hall of 1677 to 1680 designed in the manner of Christopher Wren, with a rooftop viewing platform over the marketplace. The remains of Abingdon Abbey, once the sixth richest monastery in England before its dissolution in 1538, and the medieval street pattern give the town a marquee heritage draw on the Thames.",
+      "The leisure and activity layer centres on the riverside and Abbey Meadow, an endearing park beside the Thames where narrowboats and yachts moor along the path. Abbey Meadow holds a heated outdoor pool, a splash pad and an adventure play area, while boating, fishing, tennis and waterside walks along the river and the trails toward Radley and Sutton Courtenay give families and activity operators a busy outdoor offer through the warmer season across the Vale of White Horse.",
+      "Heritage and culture run deep in this market town. The medieval Abingdon Bridge, the Long Alley Almshouses beside St Helen's Church and the surviving Abbey buildings of the Unicorn Theatre and Checker Hall trace centuries of history, while the Charter Market every Monday and the third-Friday Farmers' Market keep the marketplace busy. The Michaelmas Ock Street Mock Mayor ceremony and the bun-throwing tradition from the County Hall roof give Abingdon a distinctive festival calendar across the year.",
+      "Underpinning it all is a hotel, inn and Bed and Breakfast trade serving the Vale, Oxford-bound business travellers and visitors to the Thames, with a guide scene built around the abbey heritage and the river. Abingdon links by frequent bus and the A34 to Oxford a few miles north, with Radley and Didcot Parkway stations putting the town on the Great Western route to London Paddington, so operators handle stopover trade as well as day-trippers heading for Oxford and the surrounding countryside nearby."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Abingdon attraction or hotel group, a heritage site or a small independent activity centre in Oxford"
+  },
+  "North Shields": {
+    "region": "North Shields and the Tyne mouth",
+    "nearby": ["Tynemouth", "Whitley Bay", "South Shields"],
+    "s1_head": "Kitting the visitor economy of the Tyne mouth",
+    "s1loc": [
+      "North Shields runs a working waterfront visitor economy on the north bank of the Tyne, led by the historic Fish Quay, where a fishing settlement of shielings has stood since 1225. The Old Low Light, a maritime heritage centre on the quay, explores 900 years of the area's history from a viewing platform over the river mouth, while the 17th-century Clifford's Fort, built in 1672 against Dutch raiders, and the surviving High and Low Lights anchor a marquee heritage waterfront drawing visitors across the year.",
+      "The leisure and activity layer centres on the riverside and the nearby coast. Northumberland Park, a Victorian green space laid out in 1885, holds woodland walks, a boating lake and play areas, while the Fish Quay's restaurants and brasseries and the river-mouth piers draw walkers and families. The short trip to the Tynemouth Longsands and the Blue Reef Aquarium gives families and activity operators a busy outdoor offer through the warmer season along the coast.",
+      "Heritage and culture run deep in this old fishing port. The Fish Quay festivals, the surviving Georgian terraces of Dockwray Square where Stan Laurel once lived, and the dramatic Tynemouth Priory and Castle on the neighbouring headland, burial place of Northumbrian saints and kings, trace centuries of maritime story. The events calendar along the quay and the historic Low Lights buildings give North Shields a layered character beyond its modern town centre and ferry landing.",
+      "Underpinning it all is a hotel, inn and guest-house trade serving the Tyne mouth, business travellers and seafood-tourism visitors, with a guide scene built around the Fish Quay and the maritime heritage. The Shields Ferry links the town across the river to South Shields, while North Shields Metro station connects it to Newcastle and the coast, and the ferry terminal at the Royal Quays carries North Sea passengers, so operators handle ferry and stopover trade alongside day-trippers heading for Whitley Bay nearby."
+    ],
+    "kit_loc": "across the coast's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major North Shields attraction or hotel group, a heritage site or a small independent activity centre in Tynemouth"
+  },
+  "Falkirk": {
+    "region": "Falkirk and the Forth Valley",
+    "nearby": ["Cumbernauld", "Bathgate", "Livingston"],
+    "s1_head": "Kitting the visitor economy of the Forth Valley",
+    "s1loc": [
+      "Falkirk runs one of central Scotland's strongest visitor economies, led by the Kelpies, the world's largest horse-head sculptures, standing 30 metres tall and weighing over 300 tonnes each within the Helix park. The Falkirk Wheel, the world's only rotating boat lift, connects the Forth and Clyde and Union canals and carries visitors on its turning gondolas, giving the town two engineering marvels that draw hundreds of thousands of visitors across the year on the canal network through the Forth Valley.",
+      "The leisure and activity layer centres on the Helix, more than 350 hectares of green space between Falkirk and Grangemouth with a lagoon, wetlands, miles of cycle paths and the Adventure Zone play area. Callendar Park, surrounding the great house, holds woodland walks, a loch and a large children's play area, while the canal towpaths, the boat trips from the Falkirk Wheel and the surrounding countryside give families and activity operators a busy outdoor offer through the warmer season.",
+      "Heritage and culture run deep here. Callendar House, a grand mansion with a French chateau frontage set in its parkland, houses exhibitions on the Jacobites, Victorian life and the Roman frontier, while the town stands on the Antonine Wall, the Roman Empire's northernmost frontier and a UNESCO World Heritage Site. The battlefields of the 1298 and 1746 Battles of Falkirk and the events calendar across the Helix and the town centre give the area a layered cultural identity across the year.",
+      "Underpinning it all is a hotel and inn trade serving the Forth Valley, business travellers to Grangemouth and visitors to the Kelpies and the Wheel, with a guide scene built around the canal engineering and the Roman heritage. Falkirk Grahamston and Falkirk High stations link the town to Glasgow, Edinburgh and Stirling, while the M9 and M876 carry day-trippers in, so operators handle stopover trade as well as visitors heading for Stirling, the canals and the wider central belt nearby."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Falkirk attraction or hotel group, a heritage site or a small independent activity centre in Cumbernauld"
+  }
+}

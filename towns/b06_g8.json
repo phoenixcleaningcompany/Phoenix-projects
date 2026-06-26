@@ -1,0 +1,93 @@
+{
+  "Whitstable": {
+    "region": "Whitstable and the north Kent coast",
+    "nearby": ["Herne Bay", "Canterbury", "Faversham"],
+    "s1_head": "Kitting the visitor economy of the north Kent coast",
+    "s1loc": [
+      "Whitstable runs a busy coastal visitor economy built around its working harbour and its oyster heritage, with the Whitstable Oyster Fishery Company trading from the harbour since the fifteenth century and the harbour itself, built in 1832, ranking as the first in England to serve a railway via the Crab and Winkle Line to Canterbury. The harbour market huts, the fish stalls and the shingle seafront draw day-trippers and weekend crowds throughout the warmer season.",
+      "The leisure and activity layer centres on Tankerton Beach and the Tankerton Slopes, where The Street, a natural shingle spit, emerges at low tide and runs out toward the estuary, with colourful beach huts available to rent by the day. Watersports, sea swimming, boat trips from the harbour and the open grass of the Slopes give families and activity operators a strong outdoor offer through the summer along this stretch of the north Kent coast.",
+      "Heritage and culture run through the bohemian streets of Harbour Street and the High Street, lined with independent galleries, boutiques and family-run shops. Whitstable Castle and its Orangery, once Tankerton Towers, sits in landscaped gardens above the beach, while the Whitstable Community Museum and Gallery holds the Invicta steam engine and tells the oyster, ship-building and Peter Cushing stories. The July Oyster Festival, traced to the eleventh century, anchors the events calendar.",
+      "Underpinning it all is a guesthouse, inn and Bed and Breakfast trade across the old town, with hotels including the Travelodge serving the wider area and a guide scene built around oyster tours and harbour boat trips. Whitstable station puts the town a direct run from London Victoria and St Pancras, while the A299 and the Crab and Winkle cycle route carry day-trippers from Canterbury, Faversham and Herne Bay across the season."
+    ],
+    "kit_loc": "across the coast's attractions, parks and activity sites",
+    "s2_intro": "Whether you are a major Whitstable attraction or hotel group, a heritage site or a small independent activity centre in Herne Bay"
+  },
+  "Strood": {
+    "region": "Strood and the Medway Towns",
+    "nearby": ["Rochester", "Chatham", "Gravesend"],
+    "s1_head": "Kitting the visitor economy of the Medway Towns",
+    "s1loc": [
+      "Strood sits on the west bank of the River Medway at the heart of the Medway Towns visitor economy, facing Rochester across the river with its Norman castle, the tallest Norman keep in England, and Rochester Cathedral, the second oldest in the country. Strood's own Temple Manor, a thirteenth-century hall built by the Knights Templar to lodge travellers between Dover and London, stands as a free English Heritage site with surviving traces of first-floor wall paintings.",
+      "The leisure and activity layer runs along the Medway Valley Leisure Park, where Cineworld, a fitness club, Gala Bingo and a cluster of family restaurants draw evening and weekend crowds. The Strood Esplanade and the riverside paths along the Medway, the green spaces toward Broomhill and the day-trip draw of the Strood Town Centre Trail give families and activity operators a steady local offer through the warmer season across this stretch of the river.",
+      "Heritage and culture across the Medway Towns run deep, from the Charles Dickens connections that fill Rochester High Street to the Chatham Historic Dockyard, a former Royal Navy shipyard turned maritime museum a short way downriver. Strood's own St Nicholas Church, the Brook Pumping Station with its restored 1929 machinery and the town centre heritage trail add depth, while the Dickens festivals and Medway events calendar pull visitors in across the year.",
+      "Underpinning it all is a hotel and inn trade across the Medway Towns, from riverside Travelodge and Wetherspoon properties to guesthouses serving the dockyard and castle trade, with a guide scene built around Rochester and the Historic Dockyard. Strood station on Southeastern's High Speed route puts the town close to London St Pancras in well under an hour, while the M2 and A2 carry day-trippers from Gravesend, Chatham and the wider Medway area."
+    ],
+    "kit_loc": "across the towns' attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Strood attraction or hotel group, a heritage site or a small independent activity centre in Rochester"
+  },
+  "Glossop": {
+    "region": "Glossop and the High Peak",
+    "nearby": ["Hyde", "Stalybridge", "Buxton"],
+    "s1_head": "Kitting the visitor economy of the High Peak",
+    "s1loc": [
+      "Glossop runs its visitor economy as the north-western gateway to the Peak District National Park, a Victorian market town whose prosperity was built on cotton. Norfolk Square anchors the centre, while the converted Howard Town Mill and Wren Nest Mill, both former cotton mills, now hold shops, pubs, a hotel and apartments. The town serves as a base for visitors heading onto the high moors at Bleaklow, Black Hill and the famous Snake Pass above the valley.",
+      "The leisure and activity layer reaches straight out onto open country, with Manor Park, once the grounds of the Howard family's manor house, hosting picnics, play and events, and the neighbouring Howard Park offering tranquil walking paths. The Longdendale Trail, a traffic-free route along the disused Woodhead railway from nearby Hadfield, runs past the reservoirs of the Longdendale Valley, while Kinder Scout, the Peak's highest point, draws walkers and activity operators across the season.",
+      "Heritage and culture centre on Old Glossop, a twelfth-century quarter of stone cottages around a medieval market cross, and on the civic Victorian frontages of the modern town. The Glossop Heritage Trust and the Glossop Heritage Weekend keep the cotton-town story alive, while the Whitfield quarter, the parish churches and the events staged across Norfolk Square and Manor Park fill the calendar through the year in this corner of Derbyshire.",
+      "Underpinning it all is a guesthouse, inn and Bed and Breakfast trade serving Peak District walkers, with the converted Howard Town Mill hotel and country inns like the Norfolk Arms handling stopover and weekend trade. Glossop station on the line from Manchester Piccadilly brings visitors in within around thirty-five minutes, while the A57 Snake Pass and the A624 carry day-trippers from Hyde, Stalybridge, Buxton and the wider High Peak across the year."
+    ],
+    "kit_loc": "across the town's attractions, parks and activity sites",
+    "s2_intro": "Whether you are a major Glossop attraction or hotel group, a heritage site or a small independent activity centre in Hyde"
+  },
+  "Stretford": {
+    "region": "Stretford and Trafford",
+    "nearby": ["Urmston", "Altrincham", "Salford"],
+    "s1_head": "Kitting the visitor economy of Trafford",
+    "s1loc": [
+      "Stretford runs one of Greater Manchester's biggest sporting visitor economies, home to Old Trafford, the world-famous stadium of Manchester United, whose museum and stadium tour draw crowds on non-fixture days as well as on home games. A short walk away stands Emirates Old Trafford, Lancashire Cricket Club's Test ground, so the town carries two internationally known sporting venues within its bounds and a steady year-round flow of visiting supporters and tourists.",
+      "The leisure and activity layer spreads across Longford Park, one of the area's largest and best-loved green spaces, and along the Bridgewater Canal towpath that links the town to Manchester and Salford on foot and by bike. The wider Trafford Park offer, the family attractions, indoor activity venues and the watersports and events at nearby Salford Quays give families and activity operators a busy programme through the warmer season across the district.",
+      "Heritage and culture are anchored by the Imperial War Museum North, the Daniel Libeskind-designed museum on the banks of the Manchester Ship Canal whose immersive galleries and shard-like form make it a marquee cultural draw. Stretford Public Hall, the restored Victorian civic hall at the town centre crossroads, hosts events and performances, while Stretford Mall, the historic Old Trafford neighbourhoods and the festival calendar add depth across the year.",
+      "Underpinning it all is a deep hotel and serviced-stay trade serving Old Trafford match crowds, Salford Quays and MediaCity, with a guide and tour scene built around the stadiums and the war museum. The Metrolink tram puts Stretford and Old Trafford a short hop from Manchester city centre, while the M60 and the rail network carry visitors in, so operators handle heavy event trade alongside day-trippers heading to the Trafford Centre and across Greater Manchester."
+    ],
+    "kit_loc": "across the area's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Stretford attraction or hotel group, a heritage site or a small independent activity centre in Urmston"
+  },
+  "Dumfries": {
+    "region": "Dumfries and Galloway",
+    "nearby": ["Carlisle", "Ayr", "Kilmarnock"],
+    "s1_head": "Kitting the visitor economy of Dumfries and Galloway",
+    "s1loc": [
+      "Dumfries runs its visitor economy as the Queen of the South and the heart of Robert Burns country, where the poet spent his final years and died in 1796. The Robert Burns House on a quiet sandstone street, the Globe Inn that was his favourite howff and the Burns Mausoleum in St Michael's kirkyard form a trail that draws literary pilgrims to the town from across Scotland and beyond throughout the year.",
+      "The leisure and activity layer runs along the River Nith and out into the surrounding country, with riverside walks past the historic Devorgilla Bridge, the oldest surviving multiple-arched bridge in Scotland, and the Caul weir. Caerlaverock Castle, a moated triangular stronghold seven miles south, sits beside the Caerlaverock National Nature Reserve, where the WWT wetland centre and the wider Galloway hills give families and activity operators a strong seasonal outdoor offer.",
+      "Heritage and culture centre on the Robert Burns Centre, set in an eighteenth-century watermill on the west bank of the Nith, telling the story of the poet's Dumfries years. The red sandstone town centre, the Midsteeple on the High Street, the Theatre Royal, Scotland's oldest working theatre, and the Big Burns Supper festival each January give the town a deep cultural calendar across the seasons of the year.",
+      "Underpinning it all is a hotel, inn and guesthouse trade serving Galloway tourism, business travellers and the Burns trail, with a guide and tour scene built around the poet's life and the castles of the coast. Dumfries station on the Glasgow to Carlisle line links the town north and south, while the A75 and A76 carry day-trippers from Carlisle, Ayr, Kilmarnock and across the wider south-west of Scotland."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Dumfries attraction or hotel group, a heritage site or a small independent activity centre in Carlisle"
+  },
+  "Motherwell": {
+    "region": "Motherwell and North Lanarkshire",
+    "nearby": ["Hamilton", "Wishaw", "Bellshill"],
+    "s1_head": "Kitting the visitor economy of North Lanarkshire",
+    "s1loc": [
+      "Motherwell runs a strong family visitor economy anchored by Strathclyde Country Park, 400 hectares of countryside in the valley of the River Clyde and one of the most popular attractions in Scotland's central belt. The park's loch, beaches, woodland and adventure playground draw thousands of visitors, with watersports, funboats and an annual events programme keeping operators busy across the warmer months in this corner of North Lanarkshire.",
+      "The leisure and activity layer is led by M and D's, billed as Scotland's Theme Park, sitting right beside Strathclyde Country Park with its thrill rides, family rides and the Amazonia indoor rainforest zoo of reptiles, insects and mammals. The watersports centre on the loch, the cycle and running routes around the park and the wider green network give families and activity operators a busy seasonal offer across the area through the year.",
+      "Heritage and culture run through Dalzell House, a fifteenth-century tower house with conical towers and landscaped gardens, and through the North Lanarkshire Heritage Centre, whose galleries trace the town's steel-making and social history and whose viewing tower looks out across Lanarkshire. The surrounding Dalzell and Baron's Haugh nature sites, the RSPB reserve and the town's events calendar add depth to the cultural offer through the seasons.",
+      "Underpinning it all is a hotel and serviced-stay trade serving the country park, business travellers and event crowds, with a guide and day-trip scene built around Strathclyde Park and M and D's. Motherwell station on the West Coast Main Line puts the town a short run into Glasgow and links it south toward Carlisle, while the M74 and M8 carry visitors in from Hamilton, Wishaw, Bellshill and across the central belt."
+    ],
+    "kit_loc": "across the town's attractions, parks and activity sites",
+    "s2_intro": "Whether you are a major Motherwell attraction or hotel group, a heritage site or a small independent activity centre in Hamilton"
+  },
+  "Borehamwood": {
+    "region": "Borehamwood and Hertsmere",
+    "nearby": ["Barnet", "Potters Bar", "Bushey"],
+    "s1_head": "Kitting the visitor economy of Hertsmere",
+    "s1loc": [
+      "Borehamwood runs a distinctive visitor economy built on a century of film and television, with production at Elstree Studios on Shenley Road since 1914 and the birthplace of productions from Star Wars and the Indiana Jones films to The Crown and Harry Potter. The BBC Elstree Centre on Eldon Avenue remains in use alongside it, giving this Hertfordshire town a screen heritage that anchors its identity on the northern edge of Greater London.",
+      "The leisure and activity layer spreads across the green spaces of Hertsmere, from Aberford Park in the town centre with its play areas and events to the wider parkland, trails and country walks of the district. The studios offer audiences a front-row seat at recordings of shows such as Strictly Come Dancing and The Chase, while the surrounding parks and family attractions give activity operators a steady local offer through the warmer season across the area.",
+      "Heritage and culture centre on the Film and TV Heritage Trail, which starts at Elstree and Borehamwood station beneath the wall sculpture honouring those who worked behind the camera. The Borehamwood Museum tells the story of Hertsmere and its studios, while Allum Hall hosts community events and performances and the events calendar across the town's parks and venues fills the year with a screen-town character all its own.",
+      "Underpinning it all is a hotel and serviced-stay trade serving the studios, production crews and visitors to the wider district, with a guide and tour scene built around the area's film heritage. Elstree and Borehamwood station on the Thameslink route links the town directly to London St Pancras, the City and Gatwick, while the M1, M25 and A1 carry day-trippers in from Barnet, Potters Bar, Bushey and across the edge of the capital."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Borehamwood attraction or hotel group, a heritage site or a small independent activity centre in Barnet"
+  }
+}

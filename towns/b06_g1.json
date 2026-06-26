@@ -1,0 +1,121 @@
+{
+  "Castleford": {
+    "region": "Castleford and the Five Towns of West Yorkshire",
+    "nearby": [
+      "Pontefract",
+      "Normanton",
+      "Featherstone"
+    ],
+    "s1_head": "Kitting the visitor economy of the Five Towns",
+    "s1loc": [
+      "Castleford anchors a busy West Yorkshire visitor economy built around the Xscape Yorkshire leisure complex, whose Snozone real-snow slope, climbing walls and Cineworld screens pull crowds off the M62 all year. Next door, the Junction 32 Outlet Village draws shoppers to its Nike, Levi's and Marks and Spencer outlet stores, while the OneBore Stadium on Wheldon Road brings Castleford Tigers rugby league fixtures and tour visitors into the old Roman town of Lagentium.",
+      "The leisure and activity layer spreads out beyond the retail core, led by Diggerland Yorkshire, where visitors ride and drive real diggers and dumpers across a themed adventure park. RSPB Fairburn Ings, with its wetlands, woodland and bird hides, sits just east of town alongside the reclaimed St Aidan's reserve, and the Aire and Calder Navigation towpath gives walkers and cyclists a flat waterside route through the warmer season.",
+      "Heritage and culture run deep through the Castleford Forum Museum, which displays Roman pottery, coins and finds from the Lagentium fort, and the town's claim as the birthplace of sculptor Henry Moore. The neighbouring Pontefract Castle, with its liquorice heritage and Richard II history, and the bustling Castleford market keep a cultural and events calendar turning across the Five Towns of Pontefract, Normanton, Knottingley and Featherstone.",
+      "The visitor trade leans on a roadside and town hotel base around the M62 junction and a guide scene built around Xscape and the country reserves. Castleford railway station links Leeds, Wakefield and York, the A1 and M62 corridor put the wider region within an easy day trip, and the draw of Pontefract Racecourse and the Aire valley feeds a steady seasonal flow of visitors into the area."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Castleford attraction or hotel group, a heritage site or a small independent activity centre in Pontefract"
+  },
+  "Ilkeston": {
+    "region": "Ilkeston and the Erewash Valley",
+    "nearby": [
+      "Long Eaton",
+      "Beeston",
+      "Ripley"
+    ],
+    "s1_head": "Kitting the visitor economy of the Erewash Valley",
+    "s1loc": [
+      "Ilkeston sits on a ridge above the Erewash Valley on the Derbyshire border, and its marquee landmark is the Bennerley Viaduct, a 1,421-foot wrought-iron railway bridge of 1877 restored as a walking and cycling crossing high above the River Erewash. The town's St Mary's Church, with its medieval origins and striking spire, and the long mining and lace-making past give the old market centre real depth for visitors arriving off the A52.",
+      "The leisure and activity layer runs into 700-acre Shipley Country Park, with its woodlands, lakes, trails and visitor centre on the estate that once held the American Adventure theme park. The Nutbrook Trail follows a disused railway line from the town into the park, and the wider Erewash Valley Way carries walkers and cyclists past reservoirs and reclaimed colliery land through the warmer season for families and weekend visitors.",
+      "Heritage and culture centre on the award-winning Erewash Museum, set in a Grade II-listed Georgian town house on Anchor Row, telling the story of the area's lace, ironwork and coal industries. The Ilkeston Charter Fair, granted in 1252 and held every October, fills Bath Street and the Market Place with rides, stalls and live entertainment, anchoring a long-running events calendar in the town centre.",
+      "The visitor trade leans on a town and roadside hotel base and a guide scene built around the country park and the viaduct. Ilkeston railway station, reopened in 2017 on the Erewash Valley Line, links Nottingham and Derby, and the M1 corridor at Long Eaton puts the wider East Midlands within an easy day trip, feeding a steady commuter-belt and seasonal flow into the valley."
+    ],
+    "kit_loc": "across the valley's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Ilkeston attraction or hotel group, a heritage site or a small independent activity centre in Long Eaton"
+  },
+  "Cramlington": {
+    "region": "Cramlington and south east Northumberland",
+    "nearby": [
+      "Blyth",
+      "Bedlington",
+      "Morpeth"
+    ],
+    "s1_head": "Kitting the visitor economy of south east Northumberland",
+    "s1loc": [
+      "Cramlington built its visitor draw around Northumberlandia, the world's largest human landform sculpture, a reclining lady shaped in rock and soil by the artist Charles Jencks, with walking trails, viewpoints and a visitor centre on the old Shotton surface mine. The new town's Concordia Leisure Centre, set beside the Manor Walks shopping centre, anchors a year-round indoor offer with its leisure pool, courts and indoor football pitches for the wider south east Northumberland catchment.",
+      "The leisure and activity layer reaches into Plessey Woods Country Park, a 100-acre sweep of woodland trails and riverside walk where the River Blyth runs through ancient woodland just north of the town. The nearby coast at Blyth, Seaton Sluice and Newbiggin-by-the-Sea adds beaches and dunes within easy reach, and the area's country parks, trails and family attractions keep operators busy across the warmer season.",
+      "Heritage and culture run through the historic Plessey Waggonway, one of the earliest coal-carrying railways, whose route survives as a walkable trail across the old colliery landscape. The town's Arcot Hall, Cramlington village conservation area and the wider mining past give the modern town its historic anchors, while a local events calendar built around Northumberlandia and the country parks carries activity days through the year.",
+      "The visitor trade leans on a roadside and business-park hotel base around the A1 and A19 and a guide scene built around the landform sculpture and the woodland parks. Cramlington railway station links Newcastle and Morpeth on the East Coast line, and the road corridor puts Newcastle, the Northumberland coast and the wider county within an easy day trip, feeding a steady seasonal and weekend flow into the area. Northumberlandia, the Lady of the North landform, Plessey Woods Country Park and the Manor Walks centre add named draws close at hand."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Cramlington attraction or hotel group, a heritage site or a small independent activity centre in Blyth"
+  },
+  "Glenrothes": {
+    "region": "Glenrothes and central Fife",
+    "nearby": [
+      "Kirkcaldy",
+      "Dunfermline",
+      "Perth"
+    ],
+    "s1_head": "Kitting the visitor economy of central Fife",
+    "s1loc": [
+      "Glenrothes is famous as a planned new town with one of Britain's great open-air collections of public art, a Town Art trail of around 172 commissioned works that includes David Harding's family of hippos, a ring of dancing children and a circle of standing concrete slabs. Set in the heart of central Fife with views to the Lomond Hills, the town anchors a visitor offer that blends modern design heritage with the surrounding countryside.",
+      "The leisure and activity layer runs through Riverside Park along the River Leven, with its landscaped gardens, duck ponds and an activity hub holding an African savannah themed play park, pump track and skatepark. Balbirnie Park on the eastern edge spreads woodland walks, bluebell carpets and an 18-hole golf course around the Georgian Balbirnie House, while the Lomond Hills Regional Park and its East and West Lomond summits draw walkers across the season.",
+      "Heritage and culture centre on the Glenrothes and Area Heritage Centre, which tells the story of the surrounding villages of Markinch, Leslie, Kinglassie and Coaltown of Balgonie, and on the royal hunting palace at Falkland just to the north. Rothes Halls in the Kingdom Centre is the town's main performing-arts venue and library, carrying theatre, comedy and concerts, with the Markinch Highland Games at John Dixon Park among the local events calendar.",
+      "The visitor trade leans on a town and parkland hotel base, led by Balbirnie House, and a guide scene built around the art trail, the parks and the Lomond Hills. Markinch railway station, two miles out, links Edinburgh in about an hour and Dundee in under half an hour, and the A92 corridor puts Kirkcaldy, Dunfermline and Perth within an easy day trip, feeding a steady seasonal flow into the Kingdom of Fife."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Glenrothes attraction or hotel group, a heritage site or a small independent activity centre in Kirkcaldy"
+  },
+  "Herne Bay": {
+    "region": "Herne Bay and the north Kent coast",
+    "nearby": [
+      "Whitstable",
+      "Canterbury",
+      "Margate"
+    ],
+    "s1_head": "Kitting the visitor economy of the north Kent coast",
+    "s1loc": [
+      "Herne Bay runs a classic seaside visitor economy on the north Kent coast, led by its colourful pier with old-fashioned fairground horses, a helter skelter and food and retail huts along the deck. The seafront also holds the Central Bandstand and the world's first freestanding purpose-built clock tower, raised in 1837, with the dramatic clifftop Reculver Towers, the twin remains of a medieval church, framing the bay a coastal walk to the east.",
+      "The leisure and activity layer runs along the shore and the surrounding marshes, with the flat, traffic-free Oyster Bay Trail carrying walkers and cyclists five miles between Herne Bay and Whitstable. Herne Bay Paddle Co. offers stand-up paddleboard and kayak hire and beginner classes off the beach, and the long shingle and sand foreshore, the sailing club and the open-air swimming draw families and watersports visitors across the warmer season.",
+      "Heritage and culture centre on the Herne Bay Museum, which displays fossils from the local coast and a WWII bouncing bomb designed by Barnes Wallis, alongside the town's Victorian and Edwardian resort story. The Kings Hall events venue and the BeachCreative arts centre on the seafront carry exhibitions, music and a busy summer events calendar, while the old windmill town of Herne just inland adds to the area's heritage draw.",
+      "The visitor trade leans on a seafront and town hotel and guest-house base and a guide scene built around the pier, the coast path and Reculver. Herne Bay railway station runs Southeastern services to London Victoria and St Pancras, and the proximity of Whitstable, Canterbury and Margate puts the wider north Kent and Thanet coast within an easy day trip, feeding a strong seasonal flow along the bay."
+    ],
+    "kit_loc": "across the coast's attractions, beaches and visitor sites",
+    "s2_intro": "Whether you are a major Herne Bay attraction or hotel group, a heritage site or a small independent activity centre in Whitstable"
+  },
+  "Arnold": {
+    "region": "Arnold and the Gedling borough of Nottinghamshire",
+    "nearby": [
+      "Carlton",
+      "Nottingham",
+      "Hucknall"
+    ],
+    "s1_head": "Kitting the visitor economy of the Gedling borough",
+    "s1loc": [
+      "Arnold anchors the Gedling borough on the northern edge of Nottingham, and its marquee green draw is Bestwood Country Park, 650 acres of woodland, meadow and lake straddling the town and Bestwood village, crowned by the Grade II*-listed Bestwood Winding Engine House where ex-miners give free guided tours. The waterside trails around Mill Lakes and the ancient oak woodland give the town a substantial outdoor visitor anchor on the doorstep of the city.",
+      "The leisure and activity layer centres on Gedling Country Park, 580 acres laid out on the former Gedling Colliery, with one of the borough's top play areas built around a rustic mining-tower slide and pit-themed train. Cafe 1899 serves the park's footpaths and cycle routes, and the wider green chain of Arnot Hill Park, with its lake and gardens in the centre of Arnold, keeps families and walkers busy across the warmer season.",
+      "Heritage and culture run through the town's framework-knitting and lace past, marked at Arnot Hill Park and the local Bonington Theatre, a community arts and cinema venue carrying touring drama, music and film. Nearby Newstead Abbey, the ancestral home of the poet Lord Byron with its historic house, lakes and gardens, sits a short hop north, adding a major heritage draw to the borough's events calendar.",
+      "The visitor trade leans on a roadside and city-fringe hotel base and a guide scene built around the country parks and Newstead. The Nottingham tram and frequent bus links carry visitors in from the city centre, Hucknall and Bulwell, and the A60 and ring-road corridor put Sherwood Forest and the wider Nottinghamshire countryside within an easy day trip, feeding a steady year-round flow into the area."
+    ],
+    "kit_loc": "across the borough's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Arnold attraction or hotel group, a heritage site or a small independent activity centre in Carlton"
+  },
+  "Blyth": {
+    "region": "Blyth and the south east Northumberland coast",
+    "nearby": [
+      "Cramlington",
+      "Bedlington",
+      "Ashington"
+    ],
+    "s1_head": "Kitting the visitor economy of the Blyth coast",
+    "s1loc": [
+      "Blyth runs a seaside and quayside visitor economy on the south east Northumberland coast, led by its long South Beach, a 2.8-mile golden sweep from the pier to the dunes at Seaton Sluice, famous for its row of candy-coloured 1930s beach huts. The town's offshore wind heritage shows on the quayside, where the Spirit of the Staithes statue stands beside an operating wind turbine and the tall ship Williams II, marking Blyth's place as a pioneer of UK offshore energy.",
+      "The leisure and activity layer runs along the beach and the River Blyth estuary, with bathing, a surf school, jet-skiing and the Royal Northumberland Yacht Club drawing watersports visitors through the season. The Dave Stephens Centre serves the foreshore with changing rooms and a cafe, and the Blyth and Seaton Sluice links and dunes give walkers, cyclists and bird-spotters a long, open coastal route across the warmer months.",
+      "Heritage and culture centre on Blyth Battery, a scheduled monument and the most complete set of First World War coastal defence structures left on the British coast, open to visitors at weekends with guided tours of its gun emplacements and bunkers. The town's mining and shipbuilding past, the busy Blyth Market and a local events calendar along the quayside and beach give the resort a year-round cultural and seasonal draw.",
+      "The visitor trade leans on a town and coastal hotel and guest-house base and a guide scene built around the battery, the beach and the quayside. The port and marina add a working-waterfront draw, and good road links along the A189 and A19 put Newcastle, Cramlington and the wider Northumberland coast within an easy day trip, feeding a steady seasonal and weekend flow into the town. Blyth Battery, Ridley Park and the South Beach bathing huts add named draws along the seafront."
+    ],
+    "kit_loc": "across the coast's attractions, beaches and visitor sites",
+    "s2_intro": "Whether you are a major Blyth attraction or hotel group, a heritage site or a small independent activity centre in Cramlington"
+  }
+}
