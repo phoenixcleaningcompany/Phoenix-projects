@@ -281,12 +281,19 @@ S2TAIL_POOL=[
  ", it is polos, hi-vis and fleeces, plus waterproofs and aprons.",
 ]
 
+SNAP_TMPL=("iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and aprons to "
+ "charities, charity shops, foodbanks and volunteer groups across {t}, embroidered in-house with "
+ "the charity name. The sector runs from national charities with shops and branches to tiny local "
+ "groups on a shoestring, so a larger charity can run a trade account for managed reordering, while "
+ "a small group can order direct online with no account and no minimum.")
+KIT_LOC_DEFAULT="across the area's shops, foodbanks and community events"
+
 def s1_paras(town, T):
     if 's1loc' in T:
         present = PRESENT_POOL[pick(town,'pre',len(PRESENT_POOL))].format(t=town)
         narrow = NARROW_POOL[pick(town,'nar',len(NARROW_POOL))].format(t=town)
         own = OWNER_POOL[pick(town,'own',len(OWNER_POOL))]
-        kit = KIT_POOL[pick(town,'kit',len(KIT_POOL))].format(loc=T['kit_loc'])
+        kit = KIT_POOL[pick(town,'kit',len(KIT_POOL))].format(loc=T.get('kit_loc', KIT_LOC_DEFAULT))
         return list(T['s1loc']) + [own, present, narrow.rstrip()+' '+kit]
     return T['s1']
 
@@ -402,6 +409,20 @@ def _load_csv():
 def slugify(name):
     return re.sub(r'-+','-', re.sub(r"[^a-z0-9]+","-", name.lower().replace("&"," and "))).strip('-')
 
+_DISPLAY=None
+def _display_map():
+    global _DISPLAY
+    if _DISPLAY is None:
+        _DISPLAY={slugify(t): t for (_r,t,_n) in _load_csv()}
+    return _DISPLAY
+def town_display(key):
+    return _display_map().get(slugify(key)) or ' '.join(w.capitalize() for w in key.split())
+def _entry(town):
+    s=slugify(town)
+    for k,v in TOWNS.items():
+        if slugify(k)==s: return v
+    raise KeyError(town)
+
 def require_nearby(town, T):
     nb = T.get("nearby")
     if not nb or len(nb) < 3:
@@ -466,14 +487,14 @@ def build_head(town, slug, faqs, nearby):
 
 # === ASSEMBLE ==============================================================
 def assemble(slug, town):
-    T = TOWNS[town.lower()]
+    T = _entry(town)
     region = T.get("region", town)
     nearby = require_nearby(town, T)
     faqs = faq_for(town, region)
     P = lambda pool, salt: pool[pick(town, salt, len(pool))]
 
     trust   = T.get("trust", P(TRUST_POOL,'trust'))
-    snap    = T["snapshot"]
+    snap    = T.get("snapshot") or SNAP_TMPL.format(t=town)
     s1head  = T["s1_head"]
     s1ps    = s1_paras(town, T)
     s2intro = s2_local_text(town, T)
@@ -528,13 +549,14 @@ def main():
     os.makedirs(outdir, exist_ok=True)
     if not args:
         args=[t for t in TOWNS if t!='london']
+    known={slugify(k) for k in TOWNS}
     for town_key in args:
-        tk=town_key.lower()
-        if tk=='london': continue
-        if tk not in TOWNS:
+        s=slugify(town_key)
+        if s=='london': continue
+        if s not in known:
             print(f"SKIP {town_key}: not in TOWNS (must be web-researched first)"); continue
-        town=' '.join(w.capitalize() for w in tk.split())
-        slug=f"ch2-{slugify(town)}"
+        town=town_display(town_key)
+        slug=f"ch2-{s}"
         html=assemble(slug, town)
         path=os.path.join(outdir, f"{slug}.html")
         open(path,'w',encoding='utf-8').write(html)
