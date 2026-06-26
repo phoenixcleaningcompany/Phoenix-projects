@@ -1,0 +1,93 @@
+{
+  "Oldham": {
+    "region": "Oldham and the Saddleworth moors",
+    "nearby": ["Rochdale", "Ashton-under-Lyne", "Middleton"],
+    "s1_head": "Kitting the visitor economy of Oldham and Saddleworth",
+    "s1loc": [
+      "Oldham draws its biggest visitor numbers out at Dovestone Reservoir near Greenfield, where walking and sailing sit on the edge of the Peak District National Park. Gallery Oldham anchors the town centre cultural offer, while the Saddleworth Museum at Uppermill traces local history from Roman times through the textile era alongside the Huddersfield Narrow Canal and the Pennine hills beyond.",
+      "The leisure and activity layer runs through the picturesque Saddleworth villages of Uppermill, Delph and Dobcross, with traditional pubs, independent shops and countryside walks. Reservoir trails ranging from easy strolls to hill hikes, the towpaths of the narrow canal and the moorland edge keep activity operators and outdoor centres working hard across the warmer months and into the winter walking season.",
+      "Heritage and culture centre on Tommyfield Market, trading in some form since 1788 and now feeding the new Spindles retail and event space, with a five-acre town-centre park honouring the Tommyfield name. The Saddleworth Rush Cart Festival and the legendary Whit Friday Band Contests each June fill the villages with crowds, and Festival Oldham adds to a busy events calendar.",
+      "The visitor trade rests on a base of hotels, guest houses and country inns across the borough and the Saddleworth valleys, with the Metrolink tram line and the M60 carrying day-trippers in from Manchester. The surrounding moors, the Peak District fringe and the canal corridor give tour and activity operators a steady seasonal draw alongside Rochdale, Ashton-under-Lyne and Middleton."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Oldham attraction or hotel group, a heritage site or a small independent activity centre in Rochdale"
+  },
+  "Wigan": {
+    "region": "Wigan and the Greater Manchester flashes",
+    "nearby": ["Leigh", "Hindley", "Ashton-in-Makerfield"],
+    "s1_head": "Kitting the visitor economy of Wigan and Leigh",
+    "s1loc": [
+      "Wigan's marquee draw is Haigh Woodland Park, more than 250 acres around Haigh Hall with a golf course, high ropes and one of the best adventure playgrounds in North West England. The historic Wigan Pier on the Leeds and Liverpool Canal anchors the waterfront story, while the DW Stadium hosts Wigan Athletic and Wigan Warriors and brings event crowds into the town.",
+      "The leisure and activity layer is built around the Flashes of Wigan and Leigh, Greater Manchester's first National Nature Reserve, where Pennington Flash and the Three Sisters wetlands formed on former coal sites draw walkers and birdwatchers. The Three Sisters Racing Circuit at Ashton-in-Makerfield, Victorian Mesnes Park with its bandstand and Frederick's ice cream parlour add family days out across the year.",
+      "Heritage and culture run through Trencherfield Mill, a 1907 cotton mill beside the canal whose restored 2,500 horsepower steam engine runs in steam on selected dates. The Big Wigan Walk week and the Flashes of Nature Festival fill the calendar, with the New Wigan Way circular walk setting off from Trencherfield Mill near the iconic Wigan Pier and threading the borough's industrial past.",
+      "The visitor trade draws on hotels and inns across Wigan, Leigh and Hindley, with guides and tour operators working the canal corridor and the nature reserve. Strong rail links and the M6 carry day-trippers in, and the surrounding flashes, parks and sporting venues give operators a seasonal draw that runs alongside Leigh, Hindley and Ashton-in-Makerfield."
+    ],
+    "kit_loc": "across the borough's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Wigan attraction or hotel group, a heritage site or a small independent activity centre in Leigh"
+  },
+  "Sutton Coldfield": {
+    "region": "Sutton Coldfield and the north of Birmingham",
+    "nearby": ["Tamworth", "Lichfield", "Walsall"],
+    "s1_head": "Kitting the visitor economy of the Royal Town of Sutton Coldfield",
+    "s1loc": [
+      "The Royal Town of Sutton Coldfield, granted its title by Henry VIII in 1528, centres its visitor appeal on Sutton Park, one of the largest urban parks in Europe at 2,400 acres of woodland, heathland and lakes. New Hall, England's oldest listed inhabited moated house and once host to Henry VIII, and the medieval Holy Trinity Church on Church Hill add depth to the heritage draw.",
+      "The leisure and activity layer fills Sutton Park with walking, jogging, angling, nature watching, orienteering, play areas, bridle paths and cycle routes spread across its lakes and heaths. New Hall Mill, one of the few remaining watermills in the West Midlands, runs guided open days, and the wider parkland and surrounding countryside keep activity and outdoor operators busy through every season.",
+      "Heritage and culture run along the Sutton Coldfield Heritage Trail, taking in the historic town centre, the parkland gatehouses and the Royal Town's civic landmarks. The events calendar uses Sutton Park as a venue for shows and outdoor gatherings, and the leafy suburban character northeast of Birmingham gives the town a distinct identity within the West Midlands visitor map.",
+      "The visitor trade is led by New Hall Hotel and Spa and a wider base of hotels and guest houses, with tour and guide operators working the park and heritage trail. Rail links into Birmingham and easy reach of the M6 and M42 carry day-trippers in, and the surrounding draws of Tamworth, Lichfield and Walsall feed a steady seasonal flow into the Royal Town."
+    ],
+    "kit_loc": "across the town's park, attractions and visitor sites",
+    "s2_intro": "Whether you are a major Sutton Coldfield attraction or hotel group, a heritage site or a small independent activity centre in Tamworth"
+  },
+  "Lincoln": {
+    "region": "Lincoln and the Lincolnshire Wolds",
+    "nearby": ["Gainsborough", "Newark", "Retford"],
+    "s1_head": "Kitting the visitor economy of historic Lincoln",
+    "s1loc": [
+      "Lincoln is one of England's great cathedral cities, with Lincoln Cathedral towering over the county for more than 950 years as one of Europe's finest gothic buildings. Lincoln Castle, William the Conqueror's 1068 creation, offers wall walks and a vault holding a Magna Carta copy, while the Medieval Bishops' Palace stands almost in the cathedral's shadow with sweeping views over the ancient city.",
+      "The leisure and activity layer gathers around Brayford Pool, the lake on the River Witham where dragon boat racing, angling, kayaking and waterside bars and restaurants draw crowds beside Bishop Grosseteste University. Boat trips along the Witham, the cobbled climb of Steep Hill through the Cathedral Quarter and the open countryside of the Lincolnshire Wolds give operators a varied seasonal offer.",
+      "Heritage and culture run from the Museum of Lincolnshire Life, home to an original World War One tank, to the Usher Gallery with works by Turner, Lowry and Stubbs. The International Bomber Command Centre and its 31-metre Spire memorial draw visitors to the city edge, and the famous Lincoln Christmas Market tradition has long anchored the seasonal events calendar in the Cathedral Quarter.",
+      "The visitor trade rests on a base of city-centre hotels and guest houses, many within walking distance of the cathedral, castle and Usher Gallery, with guides leading walking tours up Steep Hill. Lincoln Central station and good road links carry day-trippers in, and the surrounding Wolds, the Witham valley and nearby Gainsborough, Newark and Retford feed a steady seasonal draw."
+    ],
+    "kit_loc": "across the city's attractions, heritage sites and visitor venues",
+    "s2_intro": "Whether you are a major Lincoln attraction or hotel group, a heritage site or a small independent activity centre in Gainsborough"
+  },
+  "Worcester": {
+    "region": "Worcester and the Severn valley",
+    "nearby": ["Malvern", "Droitwich", "Kidderminster"],
+    "s1_head": "Kitting the visitor economy of Worcester and the Severn valley",
+    "s1loc": [
+      "Worcester Cathedral rises beside the River Severn, holding royal tombs and the resting place of three-time Prime Minister Stanley Baldwin. The Museum of Royal Worcester on the former porcelain factory site holds the world's largest collection of Royal Worcester pieces, and the Commandery, a medieval hospital that became King Charles II's Civil War headquarters, tells the story of the city's pivotal battle.",
+      "The leisure and activity layer runs along the Severn, with riverside walks, boat trips and Worcestershire County Cricket Club at New Road, one of the most picturesque grounds in England with cathedral views and roots back to 1865. Worcester Racecourse hosts horseracing and family fun days, and the Diglis basin and canal towpaths give activity operators a riverside seasonal draw.",
+      "Heritage and culture fill the historic centre, from the timber-framed Greyfriars House and Garden and the Tudor House Museum on Friar Street to Cathedral Square and the lanes around Foregate Street. The Crowngate theatre and a calendar of festivals and city events bring crowds in, set against one of England's best-preserved medieval and Tudor streetscapes.",
+      "The visitor trade draws on city-centre hotels, riverside inns and guest houses, with guides and tour operators working the cathedral, the Civil War trail and the Severn waterfront. Worcester Foregate Street and Shrub Hill stations and the M5 carry day-trippers in, and the surrounding draws of Malvern, Droitwich and Kidderminster feed a steady seasonal flow into the valley."
+    ],
+    "kit_loc": "across the city's attractions, riverside and visitor sites",
+    "s2_intro": "Whether you are a major Worcester attraction or hotel group, a heritage site or a small independent activity centre in Malvern"
+  },
+  "Salford": {
+    "region": "Salford and the Manchester Ship Canal",
+    "nearby": ["Stretford", "Bolton", "Bury"],
+    "s1_head": "Kitting the visitor economy of Salford and the Quays",
+    "s1loc": [
+      "Salford Quays is one of Britain's biggest urban regeneration stories, rebuilt on the old docks of the Manchester Ship Canal into MediaCityUK. The Lowry holds the world's largest collection of L.S. Lowry paintings alongside its theatres, while the Imperial War Museum North, in Daniel Libeskind's striking shard-like building, explores modern conflict on the waterfront beside the canal.",
+      "The leisure and activity layer spreads across RHS Garden Bridgewater, a 154-acre showpiece garden, and the waterfront bars and food halls of the Quays, including the Central Bay quarter. Watersports on the docks, the towpaths of the Manchester Ship Canal and the green expanse of Buile Hill Park, the city's largest, keep activity and outdoor operators busy through the seasons.",
+      "Heritage and culture reach back to Ordsall Hall, a former manor house dating over 750 years, and Peel Park, said to be among the world's first public parks, opened in 1846. The Working Class Movement Library at Jubilee House preserves a unique collection, and the events calendar around MediaCityUK and the Lowry keeps a steady cultural draw on the waterfront.",
+      "The visitor trade is led by waterfront hotels around Salford Quays and MediaCityUK, with guides running Manchester Ship Canal and Ordsall Hall tours and tour operators working the regenerated docks. Metrolink trams from Manchester and the M60 motorway network carry day-trippers in, and the surrounding draws of Stretford, Bolton and Bury feed a busy year-round and seasonal flow into the city."
+    ],
+    "kit_loc": "across the city's attractions, waterfront and visitor sites",
+    "s2_intro": "Whether you are a major Salford attraction or hotel group, a heritage site or a small independent activity centre in Stretford"
+  },
+  "St Helens": {
+    "region": "St Helens and the Sankey valley",
+    "nearby": ["Widnes", "Prescot", "Wigan"],
+    "s1_head": "Kitting the visitor economy of St Helens",
+    "s1loc": [
+      "St Helens built its identity on glass, and the award-winning World of Glass on the Sankey Canal tells that story with live glassblowing, three art galleries and the walkable subterranean tunnels of the world's first regenerative glass furnace, built by William Windle Pilkington in 1887. Pilkington remains headquartered in the town, producing the UK's float glass and anchoring the heritage draw.",
+      "The leisure and activity layer runs along Sankey Valley Park and the St Helens Canal, opened in 1757 as one of England's oldest canals, now a green corridor for walking and nature trails. Nearby Knowsley Safari Park offers a five-mile drive through 550 acres with more than 750 animals, a foot safari and the Amur Tiger Trail, giving operators a major family seasonal draw.",
+      "Heritage and culture centre on rugby league, with the famous St Helens Saints founded in 1873 and playing at the modern Totally Wicked Stadium, holding 18,000 and drawing match crowds through the season. The Pilkington glassmaking story, the Sankey Canal heritage and the town's Victorian industrial landmarks give guides and cultural operators a distinct local narrative across the St Helens borough.",
+      "The visitor trade draws on hotels and guest houses across St Helens and the wider borough, with tour and activity operators working the canal, the glass heritage and the nearby safari park. Strong rail and motorway links between Liverpool and Manchester carry day-trippers in, and the surrounding draws of Widnes, Prescot and Wigan feed a steady seasonal flow."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major St Helens attraction or hotel group, a heritage site or a small independent activity centre in Widnes"
+  }
+}

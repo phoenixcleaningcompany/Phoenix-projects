@@ -1,0 +1,93 @@
+{
+  "Grimsby": {
+    "region": "Grimsby and North East Lincolnshire",
+    "nearby": ["Cleethorpes", "Scunthorpe", "Hull"],
+    "s1_head": "Kitting the visitor economy of North East Lincolnshire",
+    "s1loc": [
+      "Grimsby anchors a North East Lincolnshire visitor economy built on its great fishing past, and the Grimsby Fishing Heritage Centre remains the town's number one draw, taking visitors aboard the Ross Tiger sidewinder trawler. The Time Trap Museum in the old police cells of Grimsby Town Hall and the landmark Dock Tower over the Royal Dock keep the maritime story front and centre across the season.",
+      "The leisure and activity layer runs strongest on the seafront at neighbouring Cleethorpes, where the Pleasure Island legacy, the beach, the boating lake and the Cleethorpes Coast Light Railway pull family crowds through summer. Cleethorpes Leisure Centre tops 375,000 visits a year, and the Discovery Centre on the foreshore adds wildlife walks and activity days that keep operators busy beyond the peak months.",
+      "Heritage and culture reach inland from the docks, with Freshney Place at the retail heart of the town and the Grimsby Auditorium leading the area for music, theatre and comedy. The People's Park, the Minster of St James and the Corporation Road events draw local festival crowds, while the wider Lincolnshire Wolds and the Humber estuary frame day-trip and birdwatching routes for visiting guides.",
+      "The visitor trade itself leans on a working hotel and guest-house base across Grimsby and Cleethorpes, plus tour operators serving the docks, the Humber and the wider coast. Rail links run to Hull, Scunthorpe and beyond, the A180 carries day-trippers in, and Humberside Airport on the doorstep supports the seasonal intake of holiday and short-break visitors to the resort towns."
+    ],
+    "kit_loc": "across the coast's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Grimsby attraction or hotel group, a heritage site or a small independent activity centre in Cleethorpes"
+  },
+  "Southport": {
+    "region": "Southport and the Sefton coast",
+    "nearby": ["Formby", "Crosby", "Ormskirk"],
+    "s1_head": "Kitting the visitor economy of the Sefton coast",
+    "s1loc": [
+      "Southport runs one of the North West's best-known seaside visitor economies, led by Southport Pier, the second-longest pleasure pier in England at over 1,100 metres, and the grand Victorian boulevard of Lord Street said to have inspired the tree-lined avenues of Paris. The wide beach, the promenade and the Marine Lake frame a classic resort that draws crowds across the warmer season.",
+      "The leisure and activity layer is busy too, from Adventure Coast Southport on the old Pleasureland site to the Marine Lake watersports, Splash World and the boating and pitch-and-putt around King's Gardens. Pinfold pleasure boats, the model railway village and family activity venues keep operators working, while nearby Formby's pinewoods and red-squirrel reserve add coastal walks for visiting groups.",
+      "Heritage and culture run through The Atkinson on Lord Street, home to the town's museum, gallery and theatre, alongside the Victorian Botanic Gardens at Churchtown and the restored King's Gardens on Marine Lake. Hesketh Park, the Wayfarers Arcade and a festival calendar topped by the Southport Air Show and the British Musical Fireworks fill the events programme through the year.",
+      "The visitor trade itself sits on a deep hotel and guest-house base along the Promenade and Lord Street, with tour operators and golf-break guides serving Royal Birkdale and the championship links coast. Rail links run direct to Liverpool and Manchester, the Sefton coast road brings day-trippers from Crosby and Formby, and the surrounding area feeds a strong seasonal short-break intake."
+    ],
+    "kit_loc": "across the coast's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Southport attraction or hotel group, a heritage site or a small independent activity centre in Formby"
+  },
+  "Halifax": {
+    "region": "Halifax and Calderdale",
+    "nearby": ["Brighouse", "Huddersfield", "Bradford"],
+    "s1_head": "Kitting the visitor economy of Calderdale",
+    "s1loc": [
+      "Halifax anchors the Calderdale visitor economy around The Piece Hall, the magnificent Georgian cloth hall that has drawn over five million visitors since its 2017 restoration and now hosts shops, cafes and a major outdoor concert calendar. The Minster, the listed Halifax Town Hall and the surviving remains of the Halifax Gibbet add a deep historic backdrop in the heart of the town.",
+      "The leisure and activity layer centres on Eureka, the National Children's Museum beside the railway station, a hands-on attraction built entirely for families. Shibden Park surrounds the medieval Shibden Hall with its boating lake and miniature railway, while Manor Heath, the Calder and Hebble Navigation towpaths and the moorland walks above the valley keep activity operators busy across the year.",
+      "Heritage and culture reach well beyond the centre, with Dean Clough's vast Victorian mills now home to galleries and theatres, the Square Chapel Arts Centre and the restored Victoria Theatre staging a full programme. Shibden Hall's Anne Lister and Gentleman Jack story pulls visitors in, while nearby Hebden Bridge and Sowerby Bridge add independent shops, galleries and a lively festival scene up the valley.",
+      "The visitor trade itself runs on a growing hotel base around the town and the Piece Hall, with tour operators and guides working the Anne Lister trail and the wider Pennine routes. Halifax railway station links direct to Leeds, Bradford and Manchester, the M62 carries day-trippers in from across the region, and the Calderdale valleys feed a strong seasonal walking and events intake."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Halifax attraction or hotel group, a heritage site or a small independent activity centre in Brighouse"
+  },
+  "Eltham": {
+    "region": "Eltham and the Royal Borough of Greenwich",
+    "nearby": ["Woolwich", "Sidcup", "Lewisham"],
+    "s1_head": "Kitting the visitor economy of south-east Greenwich",
+    "s1loc": [
+      "Eltham is best known for Eltham Palace and Gardens, the English Heritage site where a dazzling Art Deco mansion built by Stephen and Virginia Courtauld stands beside the medieval Great Hall of a royal palace where Henry VIII spent his childhood. The moat, the Tudor bridge and the spectacular interiors make it the marquee draw for this corner of south-east London.",
+      "The leisure and activity layer centres on Well Hall Pleasaunce, a historic pleasure garden with formal Italian and rose gardens, water features, a bowling green and London's only surviving Tudor barn, now a restaurant and events venue. Avery Hill Park and its Winter Garden glasshouse, Eltham Park and the green walking routes towards Oxleas Wood give families and activity groups plenty across the season.",
+      "Heritage and culture run through the Tudor Barn and the Pleasaunce's literary links to E Nesbit, author of The Railway Children, who lived nearby and wove the setting into her work. Eltham's high street conservation area, the former Bob Hope Theatre and the events around Eltham Palace's gardens add a community festival layer alongside the area's music and theatre history.",
+      "The visitor trade itself feeds off central London's huge hotel base just minutes away by rail, with guides and tour operators running day trips out to Eltham Palace and the wider Greenwich attractions. Eltham and Mottingham stations link direct to London Bridge and Cannon Street, the A20 carries day-trippers in, and the Royal Borough of Greenwich anchors a strong year-round visitor intake nearby."
+    ],
+    "kit_loc": "across the area's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Eltham attraction or hotel group, a heritage site or a small independent activity centre in Woolwich"
+  },
+  "Hounslow": {
+    "region": "Hounslow and west London",
+    "nearby": ["Twickenham", "Feltham", "Hayes"],
+    "s1_head": "Kitting the visitor economy of west London",
+    "s1loc": [
+      "Hounslow sits at the heart of a west London visitor economy built around great country estates, led by Osterley Park and House, one of the last surviving country estates in the capital, rebuilt by Robert Adam with some of London's finest interiors. Syon Park and Syon House, the other Adam masterpiece nearby, anchor a heritage offer that pulls visitors out from the centre across the year.",
+      "The leisure and activity layer spreads across Boston Manor Park beside the Grand Union Canal, the wild heathland of Hounslow Heath with its walking trails and nature reserves, and the open space of Gunnersbury Park. Lampton Park, the canal walks and the family attractions of the borough keep activity operators and day-trip groups busy through the warmer months and beyond.",
+      "Heritage and culture run from the London Museum of Water and Steam at Kew Bridge, with its working beam engines, to Chiswick House, the Palladian villa built by the Earl of Burlington in 1728, and Boston Manor House, the restored Jacobean mansion. The borough's parks stage seasonal festivals and events, adding a cultural programme alongside the historic houses and gardens.",
+      "The visitor trade itself is shaped by Heathrow Airport on the doorstep, which feeds a deep hotel base across the west of the borough and a steady flow of business and transit visitors. The Piccadilly and District lines and South Western Railway link Hounslow into central London, neighbouring Twickenham Stadium and its World Rugby Museum draw event crowds, and the A4 carries day-trippers throughout the season."
+    ],
+    "kit_loc": "across the borough's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Hounslow attraction or hotel group, a heritage site or a small independent activity centre in Twickenham"
+  },
+  "Bromley": {
+    "region": "Bromley and the Kent borders of south-east London",
+    "nearby": ["Beckenham", "Orpington", "Sidcup"],
+    "s1_head": "Kitting the visitor economy of south-east London",
+    "s1loc": [
+      "Bromley heads one of London's greenest boroughs, stretching from Crystal Palace to the Kent countryside, with Crystal Palace Park and its famous Victorian dinosaur sculptures, maze and farm leading the visitor draw. Down House at Downe, the family home where Charles Darwin wrote On the Origin of Species, is a site of international significance and a marquee heritage attraction on the southern edge of the borough.",
+      "The leisure and activity layer runs through the 250-acre High Elms Country Park on the North Downs, with its woodland, chalk meadows, golf course and the BEECHE environmental education centre, alongside the underground labyrinth of Chislehurst Caves. The borough's hundred-plus parks and open spaces, from Norman Park to Kelsey Park in Beckenham, give activity operators and family groups room across the year.",
+      "Heritage and culture centre on the Churchill Theatre in Bromley town, seating around 780 for national tours, musicals and pantomime, while the area's famous past residents include H G Wells, David Bowie and Charles Darwin. The Bromley Museum legacy, the historic Bethlem Museum of the Mind and a calendar of seasonal events and festivals fill out the cultural offer for visitors.",
+      "The visitor trade itself benefits from central London's vast hotel base a short rail ride north, with tour operators and guides running the Darwin trail and the green Kent-border routes. Fast trains from Bromley South and Bromley North reach Victoria and London Bridge in minutes, the A21 carries day-trippers towards the Kent countryside, and the surrounding downs feed a steady seasonal walking intake."
+    ],
+    "kit_loc": "across the borough's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Bromley attraction or hotel group, a heritage site or a small independent activity centre in Beckenham"
+  },
+  "Nuneaton": {
+    "region": "Nuneaton and north Warwickshire",
+    "nearby": ["Bedworth", "Coventry", "Hinckley"],
+    "s1_head": "Kitting the visitor economy of north Warwickshire",
+    "s1loc": [
+      "Nuneaton sits at the heart of George Eliot country, and its marquee draw is Arbury Hall, the Elizabethan mansion with 12th-century monastic origins that was Gothicised by Sir Roger Newdegate into the finest example of early Gothic Revival architecture in England. The Hall and its gardens, the birthplace of the novelist born Mary Ann Evans, open on bank holiday weekends and anchor the town's literary tourism.",
+      "The leisure and activity layer runs through Riversley Park beside the River Anker, with its flower gardens and bandstand, and out to the 137-acre Hartshill Hayes Country Park, prized for its bluebell woods, viewpoints and walking trails. Pingles Leisure Centre, the surrounding canal towpaths of the Coventry Canal and family activity venues keep operators busy through the spring and summer season.",
+      "Heritage and culture centre on Nuneaton Museum and Art Gallery in Riversley Park, with its dedicated George Eliot gallery, alongside the medieval Astley Castle and nearby Astley Church on the edge of town. The town's market heritage, the Abbey Theatre amateur scene and the events calendar across Riversley Park and neighbouring Bedworth add a steady community festival layer for visiting groups.",
+      "The visitor trade itself draws on a working hotel base around Nuneaton and the wider north Warwickshire and Coventry market, with tour operators running the George Eliot and literary trails across the area. Nuneaton station links direct to Birmingham, Coventry and London on the West Coast Main Line, the A5 and M6 carry day-trippers in, and Bosworth and the Midlands attractions feed a strong seasonal intake."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Nuneaton attraction or hotel group, a heritage site or a small independent activity centre in Bedworth"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "Bootle": {
+    "region": "Bootle and the Sefton coast",
+    "nearby": ["Crosby", "Liverpool", "Formby"],
+    "s1_head": "Kitting the visitor economy of the Sefton coast",
+    "s1loc": [
+      "Bootle sits on the Mersey estuary at the heart of the Port of Liverpool, and its marquee draw is the Sefton coast just to the north, where Antony Gormley's Another Place plants one hundred life-size cast-iron figures along three kilometres of Crosby Beach, gazing out to sea. The Seaforth and Gladstone dock cranes, the Leeds and Liverpool Canal at Bootle and the wide foreshore give the town a working-waterfront character that anchors its visitor appeal.",
+      "The leisure and activity layer reaches along the shore and inland. Crosby Lakeside Adventure Centre offers a watersports lake, fitness suite and bistro beside the marine lake, while the Crosby Leisure Centre, Bootle Leisure Centre and the wide promenade keep families active across the seasons. North Park and South Park in Bootle provide green space and play areas, and the dune systems towards Formby draw walkers and birdwatchers to the protected coastline.",
+      "Heritage and culture run through Bootle's maritime story. The Bootle Times trail, St Leonard's Church and the Edwardian Bootle Town Hall recall the borough's civic past, while the nearby Liverpool waterfront, the Royal Albert Dock and the Maritime Museum tell the wider port history that shaped the town. Local festivals, the Crosby and Waterloo events calendar and the South Sefton arts scene round out a programme that leans on the estuary and the coast.",
+      "Underpinning it all are strong transport links that make Bootle a gateway for the coast. The Merseyrail Northern Line runs through New Strand, Oriel Road and Bootle stations to Liverpool and the seaside stops at Blundellsands and Waterloo, while the docks, the A565 and the cruise terminal feed visitors in. A hotel base across Liverpool and the seafront guest houses of Crosby and Waterloo serve the seasonal day-trip trade drawn to the Sefton shore."
+    ],
+    "kit_loc": "across the coast's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Bootle attraction or hotel group, a heritage site or a small independent activity centre in Crosby"
+  },
+  "Harrogate": {
+    "region": "Harrogate and the Yorkshire Dales gateway",
+    "nearby": ["Knaresborough", "Ripon", "York"],
+    "s1_head": "Kitting the visitor economy of spa-town Harrogate",
+    "s1loc": [
+      "Harrogate built its fame as a Victorian spa town, and its marquee draws still trade on that heritage. The Royal Pump Room Museum sits over Europe's strongest sulphur well, telling the story of the waters that made the town, while the 1897 Turkish Baths remain one of Britain's best-preserved Moorish-style bathing houses. The Royal Hall theatre, the Montpellier Quarter and the wide expanse of the Stray give the town centre a genteel, garden-town character year round.",
+      "The leisure and activity layer is led by gardens and green space. RHS Garden Harlow Carr spreads fifty-eight acres of borders, woodland walks and the streamside garden as one of the Royal Horticultural Society's flagship sites, while the Grade II listed Valley Gardens offer a boating lake, bandstand and play areas close to the centre. The surrounding Nidderdale countryside and the gateway to the Yorkshire Dales draw walkers, cyclists and day visitors through every season.",
+      "Heritage and culture run deep alongside the spa story. The Mercer Art Gallery, the Royal Hall and the Harrogate Theatre anchor a strong arts programme, while the town's reputation as a conference centre at the Harrogate Convention Centre brings exhibitions and events through the year. Nearby Knaresborough adds Mother Shipton's Cave and the viaduct over the Nidd, and Fountains Abbey and Studley Royal near Ripon provide a World Heritage anchor for the wider area.",
+      "Underpinning it all is one of the strongest hotel bases in the north, from grand spa-era houses to modern conference hotels clustered around the Convention Centre and the Stray. A wide tour-operator and guide scene works the Dales, the abbeys and the spa trail, while Harrogate station puts visitors on the line to Leeds and York and the A1 feeds day-trippers in. The surrounding market towns and Dales villages give the area a year-round seasonal draw."
+    ],
+    "kit_loc": "across the town's attractions, gardens and visitor sites",
+    "s2_intro": "Whether you are a major Harrogate attraction or hotel group, a heritage site or a small independent activity centre in Knaresborough"
+  },
+  "Maidenhead": {
+    "region": "Maidenhead and the Royal County of Berkshire",
+    "nearby": ["Windsor", "Slough", "Bracknell"],
+    "s1_head": "Kitting the visitor economy of riverside Berkshire",
+    "s1loc": [
+      "Maidenhead sits on the Thames in the Royal County of Berkshire, and its marquee draws cluster along the river. Boulter's Lock and Ray Mill Island form one of the most picturesque reaches on the Thames, while Brunel's Maidenhead Railway Bridge and the elegant eighteenth-century road bridge are landmarks in their own right. Just north, the National Trust's Cliveden estate rises on its Italianate terrace above the river, with its water garden, yew maze and grand house.",
+      "The leisure and activity layer revolves around the water and the green belt. Boat trips, paddling and the Thames Path draw visitors along the riverside, while Ray Mill Island offers a riverside park, cafe and playground beside the lock. The Magnet Leisure Centre, Braywick Park and the surrounding common land keep families active, and the wider Chilterns and Burnham Beeches countryside provide walking and cycling routes through every season.",
+      "Heritage and culture have a distinctive footing here. Nearby Cookham was the home of artist Sir Stanley Spencer, celebrated at the Stanley Spencer Gallery in a former Methodist chapel housing more than a hundred of his paintings. The Norden Farm Centre for the Arts anchors the town's performance programme, while the medieval streets, the riverside pubs and the Maidenhead Heritage Centre round out a cultural offer shaped by the Thames and its artists.",
+      "Underpinning it all is a hotel base that serves both business and the riverside leisure trade, with country-house hotels at Cliveden and Taplow drawing destination visitors. Maidenhead station sits on the Elizabeth line and the Great Western Main Line, putting central London and Reading within easy reach, while the M4 and the A4 feed day-trippers in. Windsor, Cliveden and Cookham give the surrounding area a strong year-round seasonal draw."
+    ],
+    "kit_loc": "across the town's attractions, parks and riverside sites",
+    "s2_intro": "Whether you are a major Maidenhead attraction or hotel group, a heritage site or a small independent activity centre in Windsor"
+  },
+  "Newcastle-under-Lyme": {
+    "region": "Newcastle-under-Lyme and north Staffordshire",
+    "nearby": ["Stoke-on-Trent", "Kidsgrove", "Biddulph"],
+    "s1_head": "Kitting the visitor economy of north Staffordshire",
+    "s1loc": [
+      "Newcastle-under-Lyme is an ancient market borough in north Staffordshire, distinct from Newcastle upon Tyne, and its marquee draws lean on industrial heritage. Apedale Community Country Park offers a heritage trail, a mining museum and an underground tour where visitors ride a narrow-gauge railway into the old workings, with a pit wheel memorial to Staffordshire's miners. The Brampton Museum and Art Gallery and the historic Guildhall anchor the town's civic and visitor heart.",
+      "The leisure and activity layer spreads across green space and the surrounding countryside. Apedale Country Park's valley trails draw walkers and cyclists, while Lyme Valley Parkway, Brampton Park and Westport Lake nearby provide lakes, play areas and waterside paths. The Hanley Forest Park and the wider Staffordshire moorland towards Biddulph and the Bridestones give families and outdoor visitors plenty of room across the seasons, with country-park days out a year-round draw.",
+      "Heritage and culture have a strong showing here. The New Vic Theatre, which opened in 1986 as Europe's first purpose-built theatre-in-the-round, is one of only a handful of its kind in the country and a regional cultural landmark. The Biddulph Grange Garden of the National Trust nearby, the Brampton gallery and the borough's market-town festivals add to a programme shaped by the Potteries on the doorstep and the industrial story of the coalfield.",
+      "Underpinning it all is a hotel and guest-house base serving both the Potteries trade and the surrounding countryside, with tour operators working the ceramic-heritage sites of neighbouring Stoke-on-Trent. The A500 and A34 link the borough to the M6, and Stoke-on-Trent station nearby puts visitors on the West Coast Main Line. The pottery towns, the Trentham estate and the moorland edge give the surrounding area a steady seasonal day-trip draw."
+    ],
+    "kit_loc": "across the borough's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Newcastle-under-Lyme attraction or hotel group, a heritage site or a small independent activity centre in Stoke-on-Trent"
+  },
+  "Burnley": {
+    "region": "Burnley and Pennine Lancashire",
+    "nearby": ["Nelson", "Colne", "Accrington"],
+    "s1_head": "Kitting the visitor economy of Pennine Lancashire",
+    "s1loc": [
+      "Burnley grew as a cotton town in the foothills of the Pennines, and its marquee draws trade on that industrial story. Towneley Hall, a historic house set in a parkland estate, has been an art gallery and museum since 1903, with collections of fine art, Egyptology and local history in its period rooms. Turf Moor, home of Burnley Football Club, draws crowds on match days as one of the oldest grounds in the English game.",
+      "The leisure and activity layer reaches across the parks and the surrounding moorland. Towneley Park offers woodland walks, a golf course and family trails on the edge of town, while Thompson Park and Queen's Park provide formal gardens and boating water. The Leeds and Liverpool Canal towpath, the Pendle Hill country towards Nelson and Colne, and the Singing Ringing Tree panopticon on the moors above the town give walkers and cyclists year-round routes.",
+      "Heritage and culture run deep in the Weavers' Triangle, one of the best-preserved Victorian industrial quarters in Britain, with cobbled streets, mill chimneys and canalside warehouses around Burnley Wharf and the Wharfmaster's House visitor centre. Queen Street Mill Textile Museum is the last working steam-powered weaving mill in the country, while the Burnley Mechanics theatre and the town's festivals anchor a programme shaped by the cotton heritage.",
+      "Underpinning it all is a hotel and guest-house base serving the Pennine and Forest of Bowland trade, with tour operators working the Bronte country and the canal heritage. The Burnley Manchester Road station puts visitors on the line to Manchester, while the M65, the A56 and the wider East Lancashire road network feed day-trippers in. Pendle, Colne and the surrounding moorland give the area a strong seasonal walking and visitor draw."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Burnley attraction or hotel group, a heritage site or a small independent activity centre in Nelson"
+  },
+  "Enfield": {
+    "region": "Enfield and north London",
+    "nearby": ["Cheshunt", "Barnet", "Potters Bar"],
+    "s1_head": "Kitting the visitor economy of north London",
+    "s1loc": [
+      "Enfield is a green north London borough on the edge of the Lee Valley, and its marquee draw is Forty Hall Estate, a Grade I listed Jacobean mansion of the early seventeenth century set in more than two hundred and seventy acres of parkland, gardens and farmland, with London's only commercial vineyard among its grounds. The borough's market town heart at Enfield Town and the New River walk give the area a distinctive historic character close to the capital.",
+      "The leisure and activity layer is led by some of London's largest green spaces. Trent Country Park spreads over four hundred acres of woodland, meadow and cycling paths, while Whitewebbs Park preserves nearly two hundred acres of ancient woodland from the old royal hunting grounds of Enfield Chase. The Lee Valley Regional Park brings watersports, walking and cycling along the River Lea, and Forty Hall's farm and lakes draw families across the seasons.",
+      "Heritage and culture have a strong footing here. The Whitewebbs Museum of Transport, housed in an 1898 pumping station, displays classic cars, motorcycles and fire engines, while Forty Hall's house museum tells the borough's Jacobean story. The Millfield Theatre, the Dugdale Centre arts venue and the borough's festivals anchor a cultural programme, with the historic neighbourhoods of Enfield Town, Bush Hill Park and Forty Hill adding to the visitor appeal.",
+      "Underpinning it all is a transport network that makes Enfield a green gateway to north London. Enfield Town, Enfield Chase and Southbury stations link to Liverpool Street and Moorgate, while the A10, the M25 and the Lee Valley feed visitors in. A hotel base across the borough and along the A10 corridor serves business and leisure trade, with the country parks, the Lee Valley and the Hertfordshire border giving the area a steady seasonal draw."
+    ],
+    "kit_loc": "across the borough's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Enfield attraction or hotel group, a heritage site or a small independent activity centre in Cheshunt"
+  },
+  "Gravesend": {
+    "region": "Gravesend and north Kent",
+    "nearby": ["Dartford", "Strood", "Rochester"],
+    "s1_head": "Kitting the visitor economy of north Kent",
+    "s1loc": [
+      "Gravesend sits on the Thames in north Kent, and its marquee draw is its remarkable riverside heritage. The statue of Pocahontas stands in the courtyard of St George's Church, where the Native American princess was buried in 1617, while the Town Pier of 1834 is one of the oldest surviving cast-iron piers in the world. The Gordon Promenade and the wide views over the estuary towards London give the town a strong waterfront identity.",
+      "The leisure and activity layer reaches along the river and into the surrounding countryside. The Riverside Leisure Area, the Gordon Memorial Gardens with their fountains and flower beds, and the promenade walks draw visitors to the Thames edge. Shorne Woods Country Park nearby offers two hundred and eighty-eight acres of woodland, lakes and wetlands with a visitor centre, fishing lakes and orienteering, and the wider Kent Downs provide walking and cycling routes through the seasons.",
+      "Heritage and culture run deep in the old town. Milton Chantry in the Riverside Leisure Area dates back to 1322 as the oldest building in Gravesend and now houses the Gravesham Heritage Centre, having served as a leper hospital, tavern and barracks across the centuries. St George's Church, the historic High Street and the town's Heritage Open Days, along with the New Tavern Fort gardens, anchor a programme shaped by the river and its long history.",
+      "Underpinning it all is a transport network that makes Gravesend a Thames gateway. Gravesend station and Ebbsfleet International nearby put visitors on HS1 minutes from London St Pancras, while the river ferry to Tilbury, the A2 and the A226 feed day-trippers in. A hotel base across the town and along the A2 corridor serves business and leisure trade, with Rochester, the Kent Downs and the Thames marshes giving the surrounding area a strong seasonal draw."
+    ],
+    "kit_loc": "across the town's attractions, parks and riverside sites",
+    "s2_intro": "Whether you are a major Gravesend attraction or hotel group, a heritage site or a small independent activity centre in Dartford"
+  }
+}

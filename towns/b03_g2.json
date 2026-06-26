@@ -1,0 +1,121 @@
+{
+  "Wembley": {
+    "region": "Wembley and north-west London",
+    "nearby": [
+      "Harrow",
+      "Edgware",
+      "Hounslow"
+    ],
+    "s1_head": "Kitting the visitor economy of Wembley Park",
+    "s1loc": [
+      "Wembley draws crowds on a national scale, led by Wembley Stadium, England's 90,000-seat home and the country's largest stadium, where match days, FA Cup finals and stadium tours down the players' tunnel and to the royal box pull visitors in year-round. Next door the OVO Arena Wembley runs over a hundred events a year, taking more than a million people through its doors for gigs, darts and boxing.",
+      "The leisure and activity layer spreads across Wembley Park, where Boxpark Wembley gathers twenty street-food traders, three bars and a Playbox floor of shuffleboard, pool and Bad Axe Throwing. The London Designer Outlet adds seventy stores and a cinema, while north of the stadium Fryent Country Park opens a hundred hectares of woodland, meadow and ponds with long views to the city skyline.",
+      "Heritage and culture run through the 2,000-seat Troubadour Wembley Park Theatre and the family-focused Punchdrunk Enrichment company, set among the regenerated boulevards and public squares of Wembley Park. The arch of the stadium and the white-walled Arena frame an events calendar of concerts, sport and seasonal markets that gives this corner of Brent a distinctive cultural pull.",
+      "The visitor trade rests on a fast-growing hotel base around the Park, built for event nights and conference stays, with a guide and hospitality scene geared to stadium and arena crowds. Wembley Park, Wembley Central and Wembley Stadium stations connect the Metropolitan, Jubilee and Bakerloo lines and Chiltern services, bringing visitors from Harrow, Edgware and across London for the big-event seasonal flow."
+    ],
+    "kit_loc": "across the area's stadium, arena and visitor sites",
+    "s2_intro": "Whether you are a major Wembley attraction or hotel group, a heritage site or a small independent activity centre in Harrow"
+  },
+  "Hemel Hempstead": {
+    "region": "Hemel Hempstead and west Hertfordshire",
+    "nearby": [
+      "Watford",
+      "St Albans",
+      "Berkhamsted"
+    ],
+    "s1_head": "Kitting the visitor economy of west Hertfordshire",
+    "s1loc": [
+      "Hemel Hempstead pairs a New Town built after the war with a genuine Tudor heart, its Old Town High Street charter granted by Henry VIII in 1539 and lined with two rows of listed and half-timbered buildings on yorkstone pavements. St Mary's Church, begun around 1140, and the Grade I 15th-century cottages at Piccotts End with their rare medieval wall paintings give the town its marquee heritage draws.",
+      "The leisure and activity layer is led by XC, an action centre with fourteen-metre climbing walls, bouldering, an indoor caving system and a high-ropes course, alongside Jarman Park's multi-screen cinema, bowling and restaurants. Gadebridge Park adds a walled garden, skate park and open fields, while the Grand Union Canal and the Boxmoor Trust meadows and woodlands open up walking and cycling through the season.",
+      "Heritage and culture reach out to the de Havilland Aircraft Heritage Centre, Britain's oldest aircraft museum, home to the prototype Mosquito, and the Elizabethan ruin of Old Gorhambury House nearby. The Old Town Hall theatre and a calendar of markets and events along the historic High Street give the borough a cultural layer that balances its modern street pattern with deep roots.",
+      "The visitor trade rests on a hotel and conference base serving business parks and the wider Dacorum draw, with a guide scene boosted by the Warner Bros. Studio Tour at nearby Leavesden, where Diagon Alley and the Great Hall pull Harry Potter fans from around the world. Hemel Hempstead station on the West Coast Main Line and the M1 and M25 bring visitors in from Watford, St Albans and Berkhamsted through the year."
+    ],
+    "kit_loc": "across the town's attractions, parks and heritage sites",
+    "s2_intro": "Whether you are a major Hemel Hempstead attraction or hotel group, a heritage site or a small independent activity centre in Watford"
+  },
+  "Watford": {
+    "region": "Watford and south-west Hertfordshire",
+    "nearby": [
+      "Hemel Hempstead",
+      "St Albans",
+      "Bushey"
+    ],
+    "s1_head": "Kitting the visitor economy of Watford and the Colne valley",
+    "s1loc": [
+      "Watford's marquee draw sits just outside town at Leavesden, where the Warner Bros. Studio Tour London - The Making of Harry Potter takes up to 6,000 visitors a day through the Great Hall, the cobbles of Diagon Alley, the Hogwarts Express on Platform 9 and three-quarters and an exhibition of authentic costumes, props and sets. Shuttle buses run the short hop from Watford Junction.",
+      "The leisure and activity layer centres on Cassiobury Park, a Green Flag former estate with a miniature railway, refurbished paddling pools, tennis courts, a bandstand and two cafes along the River Gade and the Grand Union Canal. The Atria shopping and leisure complex adds a nine-screen Cineworld with IMAX, Hollywood Bowl, Puttshack and Boom Battle Bar, keeping families and groups active across the year.",
+      "Heritage and culture run through Watford Museum on the High Street, the restored Edwardian Watford Palace Theatre carrying the touring programme and the gardens at Cheslyn House. Vicarage Road, home of Watford Football Club, draws match-day crowds, while a calendar of events around the town centre and the parks gives this part of Hertfordshire a steady cultural pull.",
+      "The visitor trade rests on a hotel base built for the studio-tour trade and business travel, with a guide scene focused on the Harry Potter draw and the Colne valley. Watford Junction on the West Coast Main Line, the London Overground, the Metropolitan line and the M1 and M25 bring visitors in from Hemel Hempstead, St Albans and Bushey, feeding a strong year-round and seasonal flow."
+    ],
+    "kit_loc": "across the town's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Watford attraction or hotel group, a heritage site or a small independent activity centre in Hemel Hempstead"
+  },
+  "Stockport": {
+    "region": "Stockport and south-east Greater Manchester",
+    "nearby": [
+      "Bramhall",
+      "Hyde",
+      "Denton"
+    ],
+    "s1_head": "Kitting the visitor economy of Stockport and the Goyt valley",
+    "s1loc": [
+      "Stockport built its visitor draw on a striking town centre, led by the Stockport Air Raid Shelters, a mile of tunnels carved into sandstone cliffs that recreate 1940s wartime life. Hat Works, the UK's only hat-making museum, celebrates the town's spell as the hatting capital of the world, while the 15th-century Staircase House and the great brick arches of Stockport Viaduct, Britain's largest brick structure, anchor the old core.",
+      "The leisure and activity layer reaches out to Bramall Hall, a black-and-white Tudor manor set in seventy acres of parkland with a lake and woodland walks, and to the new cultural venue at Merseyway. Vernon Park, the Goyt valley and the Peak District fringe open up walking and cycling, while indoor activity venues and the markets keep families and groups busy through the season.",
+      "Heritage and culture run through the Stockport Plaza, a 1932 Cine-Variety palace restored to host comedy, live music and theatre, and the cobbled Market Place and Underbanks quarter of independent traders. The town's covered Produce Hall and a calendar of festivals and events give Stockport a cultural identity rooted in its mills, hatting trade and Victorian streets.",
+      "The visitor trade rests on a growing hotel base around the regenerated centre and a guide scene built around the air-raid shelters, the viaduct and the heritage trail. Stockport station on the West Coast Main Line and the M60 and A6 bring visitors in, with the day-trip draw of Bramhall, Lyme Park and the Peak District feeding a steady seasonal flow into the borough."
+    ],
+    "kit_loc": "across the town's attractions, parks and heritage sites",
+    "s2_intro": "Whether you are a major Stockport attraction or hotel group, a heritage site or a small independent activity centre in Bramhall"
+  },
+  "Rochdale": {
+    "region": "Rochdale and the South Pennines",
+    "nearby": [
+      "Oldham",
+      "Middleton",
+      "Heywood"
+    ],
+    "s1_head": "Kitting the visitor economy of Rochdale and the Pennine fringe",
+    "s1loc": [
+      "Rochdale carries a heritage of global reach, led by the Rochdale Pioneers Museum on Toad Lane, the original 1844 shop where the Rochdale Society of Equitable Pioneers founded the modern co-operative movement. The grand Rochdale Town Hall, one of the finest Gothic Revival buildings in the country, and the medieval St Chad's Church on the hill above give the town its marquee landmarks.",
+      "The leisure and activity layer is led by Hollingworth Lake, a country park beauty spot on the edge of the Pennines built to feed the Rochdale Canal, with a 2.5-mile circular walk, sailing and kayaking on the water and the slopes of Blackstone Edge beyond. A network of reservoirs, canals and moorland trails keeps walkers, cyclists and watersports groups active across the warmer season.",
+      "Heritage and culture run through Touchstones Rochdale, the borough's arts and heritage centre with a museum, art gallery and local studies collection telling the story of cotton, engineering and figures from Gracie Fields to John Bright. The restored Rochdale Town Hall, the Pioneers' trail and a calendar of festivals and events give the town a cultural draw rooted in its industrial past.",
+      "The visitor trade rests on a hotel base serving the town and the Pennine routes, with a guide scene built around the co-operative story, the town hall and the lake. Rochdale station and the Metrolink tram link to Manchester, while the M62 and the moorland roads bring visitors in, with the day-trip draw of Oldham, Middleton, Heywood and the South Pennines feeding a steady seasonal flow."
+    ],
+    "kit_loc": "across the town's attractions, lakes and heritage sites",
+    "s2_intro": "Whether you are a major Rochdale attraction or hotel group, a heritage site or a small independent activity centre in Oldham"
+  },
+  "Hove": {
+    "region": "Hove and the Brighton seafront",
+    "nearby": [
+      "Brighton",
+      "Worthing",
+      "Shoreham-by-Sea"
+    ],
+    "s1_head": "Kitting the visitor economy of Hove and the Sussex coast",
+    "s1loc": [
+      "Hove gives the Brighton seafront its elegant western stretch, where the famous beach huts and the green Hove Lawns run beneath the Regency grandeur of Brunswick Square, Adelaide Crescent and Palmeira Square. The Hove Museum of Creativity celebrates the early cinema pioneers George Albert Smith and James Williamson, while the promenade out towards the British Airways i360 tower frames a marquee seafront draw.",
+      "The leisure and activity layer runs along the shore, with bookable beach huts, tennis courts and bowling greens on Hove Lawns and a wide pebble beach for swimming and watersports. Wish Park, St Ann's Well Gardens and the open Downs behind the town add green space, while paddlesports, sailing and the seafront cycle route keep active visitors busy through the warmer season.",
+      "Heritage and culture centre on the 1st Central County Ground, the historic home of Sussex County Cricket, and the famous mile of cafes and restaurants along Church Road and the avenues. The Brighton Open Air Theatre, the Booth Museum of Natural History nearby and a calendar of seafront festivals and events give Hove a cultural layer distinct from its larger neighbour.",
+      "The visitor trade rests on a hotel and guesthouse base spread along the Regency crescents and the seafront, from Lansdowne House to the Brunswick Town townhouses, with a guide scene built around architecture walks and the coast. Hove station and frequent rail to Brighton and London, plus the A23 and A27, bring visitors in, with the day-trip draw of Worthing, Shoreham-by-Sea and the South Downs feeding a strong seasonal flow."
+    ],
+    "kit_loc": "across the coast's attractions, seafront and activity sites",
+    "s2_intro": "Whether you are a major Hove attraction or hotel group, a heritage site or a small independent activity centre in Brighton"
+  },
+  "Ilford": {
+    "region": "Ilford and the London Borough of Redbridge",
+    "nearby": [
+      "Romford",
+      "Walthamstow",
+      "Hornchurch"
+    ],
+    "s1_head": "Kitting the visitor economy of Ilford and Redbridge",
+    "s1loc": [
+      "Ilford anchors the London Borough of Redbridge, and its marquee draw is Valentines Park, one of the largest parks in East London, with ornamental lakes, tree-lined paths and the restored 17th-century Valentines Mansion, built in 1696 and now showing period rooms and art exhibitions. The revamped Redbridge Museum in the Central Library traces Ilford's story from the Ice Age and its mammoth finds to modern times.",
+      "The leisure and activity layer spreads across the borough, from the bowling green, ornamental gardens and lakeside walks at Valentines Park to the 300 acres of Hainault Forest Country Park with its adventure play, cafe and petting zoo. South Park offers a quieter lake and flower beds, while Wanstead Park and the green corridors of the Roding valley keep families and walkers active through the season.",
+      "Heritage and culture run through the Kenneth More Theatre, Ilford's cultural hub for plays, musicals, comedy and dance, and the historic Cranbrook neighbourhood with its garden-suburb streets around Valentines. The grand parish church, the local markets and a calendar of community events and festivals give this corner of East London a cultural identity alongside its busy high street.",
+      "The visitor trade rests on a hotel base serving business and event travel, with The Exchange Ilford shopping centre and a wide independent dining scene drawing day visitors. Ilford station on the Elizabeth line puts central London and the West End minutes away, while the Central line at Gants Hill, the North Circular and the A12 bring visitors in from Romford, Walthamstow and Hornchurch all year."
+    ],
+    "kit_loc": "across the borough's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Ilford attraction or hotel group, a heritage site or a small independent activity centre in Romford"
+  }
+}
