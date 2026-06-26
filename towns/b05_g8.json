@@ -1,0 +1,86 @@
+{
+  "whitstable": {
+    "region": "Whitstable and east Kent",
+    "nearby": ["Herne Bay", "Canterbury", "Faversham"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Whitstable, embroidered in-house to brand guidelines. It is a compact professional and small-business base in east Kent, with accountancy and legal practices clustered around the town and Estuary View Business Park, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Whitstable's professional and small-business base",
+    "s1loc": [
+      "Whitstable carries a working professional-services base alongside its independent firms. Furley Page, the long-established Kent law firm, runs an office at Estuary View Business Park on the edge of town, and accountancy practices such as MPH Accountants on Canterbury Road and the Bubb Sherwin Partnership advise local SMEs, sole traders and owner-managed businesses. Estuary View itself groups professional, medical and commercial occupiers, and the wider corridor toward Canterbury adds consultancies, insurers and technology firms serving clients across east Kent.",
+      "The professional workforce here is modest but real, drawn from Whitstable, Herne Bay and Canterbury and feeding accountancy, legal and advisory practices around the town. People who work in suits at the desk still step into branded polos, softshells and fleeces for client visits, away days, conferences and sponsored community events. Office managers, partners and brand leads buy that kit and expect it to match the practice identity exactly, embroidered to the same colours and logo standards every time they reorder."
+    ],
+    "kit_loc": "across the town and Estuary View Business Park",
+    "s2_intro": "Whether you are a Whitstable accountancy, a law firm, a consultancy, an insurer or a technology company"
+  },
+  "strood": {
+    "region": "Strood and the Medway towns",
+    "nearby": ["Rochester", "Chatham", "Gravesend"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Strood, embroidered in-house to brand guidelines. It sits at the heart of the Medway business parks, with logistics, engineering and professional firms across Medway City Estate and the commercial corridors toward Rochester, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Strood and the Medway business parks",
+    "s1loc": [
+      "Strood anchors the western side of the Medway towns, with Medway City Estate and Lakeside Park forming one of the largest commercial areas in the region, around two million square feet developed since the 1980s. The estate mixes engineering, distribution and office occupiers alongside professional and trade firms, while the Commercial Road corridor and the Innovation Centre Medway add advisory, technology and start-up businesses. Its position beside the M2 and the river keeps logistics and engineering employers well represented across the area.",
+      "The professional workforce here draws on Strood, Rochester and Chatham, feeding accountancy, legal, consultancy and technology firms across the Medway towns. People who work in suits or at a desk still step into branded polos, softshells and fleeces for client visits, exhibitions, away days and sponsored community events. Office managers, partners and procurement leads buy that kit and expect it to match the company brand exactly, embroidered to the same logo and colour standards every time a team reorders."
+    ],
+    "kit_loc": "across Medway City Estate and the Strood business parks",
+    "s2_intro": "Whether you are a Strood engineering firm, a logistics business, an accountancy, a consultancy or a technology company"
+  },
+  "glossop": {
+    "region": "Glossop and Derbyshire",
+    "nearby": ["Hyde", "Stalybridge", "Denton"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Glossop, embroidered in-house to brand guidelines. It is a High Peak manufacturing-services centre, with established engineering and industrial firms feeding a base of professional and advisory practices, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Glossop's High Peak manufacturing-services base",
+    "s1loc": [
+      "Glossop sits at the edge of the High Peak with a long manufacturing and engineering tradition. TC Engineering (Glossop) has supplied fabrication and machining work for more than thirty years, while firms such as High Peak Steels, Pressure Tech and Pearwalk Engineering keep specialist industrial work in the area. The wider High Peak counts close to four thousand enterprises, and that manufacturing base feeds local accountancy, quality-consultancy, legal and advisory practices that support owner-managed engineering and industrial businesses across Derbyshire.",
+      "The professional workforce here draws on Glossop, Hyde and the Longdendale valley, supporting accountancy, consultancy, legal and technology firms tied to the manufacturing economy. People who work in suits or at an office desk still step into branded polos, softshells and fleeces for client visits, site visits, exhibitions and away days. Office managers, partners and procurement leads buy that kit and expect it to match the company brand exactly, embroidered to the same logo and colour standards every time a team reorders."
+    ],
+    "kit_loc": "across the town and the High Peak business estates",
+    "s2_intro": "Whether you are a Glossop engineering firm, an accountancy, a quality consultancy, an insurer or a technology company"
+  },
+  "stretford": {
+    "region": "Stretford and Greater Manchester",
+    "nearby": ["Urmston", "Manchester", "Altrincham"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Stretford, embroidered in-house to brand guidelines. It sits beside Trafford Park, one of the UK's largest industrial estates, home to logistics, engineering and advanced-manufacturing employers, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Stretford and Trafford Park",
+    "s1loc": [
+      "Stretford sits immediately south of Trafford Park, the world's first purpose-built industrial estate and now one of the largest in Europe, with around 1,400 companies employing roughly 40,000 people. The park is a designated hub for logistics, advanced manufacturing and engineering, and counts major occupiers such as Kellogg's, Adidas, Unilever, DHL and Amazon alongside a deep base of distribution, fabrication and supplier firms. Professional, technology and advisory businesses sit around the estate and along the corridor into Manchester.",
+      "The professional workforce here draws on Stretford, Urmston, Altrincham and Manchester, feeding accountancy, legal, consultancy and technology firms tied to the Trafford Park economy. People who work in suits or at a desk still step into branded polos, softshells and fleeces for client visits, exhibitions, away days and sponsored community events. Office managers, partners and procurement leads buy that kit and expect it to match the company brand exactly, embroidered to the same logo and colour standards every time a team reorders."
+    ],
+    "kit_loc": "across Stretford and the Trafford Park estate",
+    "s2_intro": "Whether you are a Stretford logistics business, an engineering firm, an accountancy, a consultancy or a technology company"
+  },
+  "dumfries": {
+    "region": "Dumfries and Galloway",
+    "nearby": ["Carlisle", "Ayr", "Kilmarnock"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Dumfries, embroidered in-house to brand guidelines. It is the regional business centre for south-west Scotland, with a long-standing professional-services base anchored by The Crichton business park, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Dumfries as a regional business centre",
+    "s1loc": [
+      "Dumfries is the main business centre for south-west Scotland and home to a deep professional-services base. Carson and Trotter, chartered accountants on Irish Street, have served the region for over ninety years, and Farries Kirk and McVean run accountancy and advisory work across Dumfries, Annan and Lockerbie. Law firms and Armstrong Watson sit alongside them, while The Crichton business park hosts more than a hundred organisations, including the Dumfries and Galloway Chamber of Commerce and a growing cluster of technology and advisory occupiers.",
+      "The professional workforce here serves a wide rural region, drawing on Dumfries and the surrounding Galloway towns to staff accountancy, legal, consultancy and technology firms. People who work in suits or at a desk still step into branded polos, softshells and fleeces for client visits, conferences, away days and sponsored community events. Office managers, partners and procurement leads buy that kit and expect it to match the firm brand exactly, embroidered to the same logo and colour standards every time a team reorders."
+    ],
+    "kit_loc": "across the town centre and The Crichton business park",
+    "s2_intro": "Whether you are a Dumfries accountancy, a law firm, a consultancy, an insurer or a technology company"
+  },
+  "motherwell": {
+    "region": "Motherwell and North Lanarkshire",
+    "nearby": ["Hamilton", "Wishaw", "Bellshill"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Motherwell, embroidered in-house to brand guidelines. It is the administrative heart of North Lanarkshire, with the council, engineering employers and the Eurocentral and Strathclyde business parks on its doorstep, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Motherwell at the heart of North Lanarkshire",
+    "s1loc": [
+      "Motherwell is the administrative centre of North Lanarkshire, with the council headquartered at the Civic Centre on Windmillhill Street and a workforce of more than ten thousand across the authority. Nearby, Eurocentral and the Maxim Office Park form one of the largest business locations in Scotland, just off the M8 between Glasgow and Edinburgh, mixing logistics, engineering, office and technology occupiers. Strathclyde Business Park adds further professional, advisory and distribution employers, supported by accountancy, legal and consultancy firms across the town.",
+      "The professional workforce here draws on Motherwell, Hamilton, Wishaw and Bellshill, feeding accountancy, legal, consultancy and technology firms tied to the council, engineering and business-park economy. People who work in suits or at a desk still step into branded polos, softshells and fleeces for client visits, conferences, away days and sponsored community events. Office managers, partners and procurement leads buy that kit and expect it to match the brand exactly, embroidered to the same logo and colour standards every time a team reorders."
+    ],
+    "kit_loc": "across the town centre, Eurocentral and Strathclyde Business Park",
+    "s2_intro": "Whether you are a Motherwell engineering firm, an accountancy, a consultancy, an insurer or a technology company"
+  },
+  "borehamwood": {
+    "region": "Borehamwood and Hertfordshire",
+    "nearby": ["Barnet", "Potters Bar", "Watford"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Borehamwood, embroidered in-house to brand guidelines. It is a media and professional-services town built around Elstree Studios and modern business parks, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Borehamwood, Elstree and its business parks",
+    "s1loc": [
+      "Borehamwood is best known for Elstree Studios on Shenley Road and the neighbouring BBC Elstree Centre, with Sky Studios Elstree the latest addition and a Production Village of more than forty specialist media-related companies on site. Around that screen economy sit modern business parks such as Centennial Park on Centennial Avenue, home to national and European headquarters, and The Waterfront, drawing in professional, technology, consultancy and finance occupiers served by strong links to the A1, M1 and M25.",
+      "The professional workforce here draws on Borehamwood, Barnet, Potters Bar and Watford, feeding accountancy, legal, consultancy, media and technology firms across the business parks. People who work in suits or at a desk still step into branded polos, softshells and fleeces for client visits, conferences, exhibitions and away days. Office managers, partners and procurement leads buy that kit and expect it to match the company brand exactly, embroidered to the same logo and colour standards every time a team reorders."
+    ],
+    "kit_loc": "across the town and Centennial Park",
+    "s2_intro": "Whether you are a Borehamwood media business, an accountancy, a consultancy, an insurer or a technology company"
+  }
+}

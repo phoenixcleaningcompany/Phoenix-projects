@@ -1,0 +1,86 @@
+{
+  "chester-le-street": {
+    "region": "Chester-le-Street and County Durham",
+    "nearby": ["Washington", "Stanley", "Houghton le Spring"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Chester-le-Street, embroidered in-house to brand guidelines. Sat on the A1 between Durham and Gateshead, it is a compact professional-services and business-park town serving the wider County Durham economy, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Chester-le-Street's business parks and professional core",
+    "s1loc": [
+      "Chester-le-Street's commercial activity clusters along the A1 corridor and on estates such as Drum Industrial Estate and the units around Picktree Lane, with serviced offices and accountancy, recruitment and consultancy practices in and around the town centre. Clive Owen LLP and other regional chartered accountants and business advisers serve clients here, while CDC Enterprise Agency on Bridge End supports the smaller firms. The Riverside ground hosts Durham Cricket and doubles as a meetings and conference venue for local business.",
+      "The town anchors a professional workforce that commutes easily to Durham, Gateshead and Newcastle, feeding solicitors, accountants, surveyors and IT firms from across the North East. People here work in suits and at desks, but step into branded polos, softshells and fleeces for away days, client and site visits, exhibitions and sponsored community events. Procurement, office and brand managers order the kit, and they want it matching the corporate identity exactly, embroidered cleanly to guidelines."
+    ],
+    "kit_loc": "across the town centre and its business parks",
+    "s2_intro": "Whether you are a Chester-le-Street bank, a law firm, an accountancy, a consultancy, an insurer or a technology company"
+  },
+  "wednesbury": {
+    "region": "Wednesbury and the Black Country",
+    "nearby": ["West Bromwich", "Bilston", "Walsall"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Wednesbury, embroidered in-house to brand guidelines. A Sandwell market town at the heart of the Black Country, it is a major logistics, manufacturing-services and business-park location, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Wednesbury's Black Country business and logistics base",
+    "s1loc": [
+      "Wednesbury sits in Sandwell where the A41 Black Country New Road meets the A461, ringed by Wednesbury Trading Estate, the Junction 9 estates and the IKEA site on the former F.H. Lloyd steelworks. The town is served by the West Midlands Metro at Wednesbury Parkway and Great Western Street, and home to operators such as Moran Logistics plus a dense base of manufacturing-services, distribution and engineering firms supported by accountants, recruiters and consultancies across the Black Country.",
+      "Wednesbury's workforce spans warehouse and engineering operations alongside the office, finance and professional staff who run them, drawing on the wider Sandwell and West Midlands labour market. The desk-based teams here trade their suits for branded polos, softshells and fleeces at supplier conferences, trade exhibitions, depot and client visits and sponsored community days. Procurement and office managers place the orders, insisting the embroidery and colours match the company brand precisely across every site and team."
+    ],
+    "kit_loc": "across the trading estates and business parks",
+    "s2_intro": "Whether you are a Wednesbury bank, a law firm, an accountancy, a consultancy, an insurer or a technology company"
+  },
+  "denton": {
+    "region": "Denton and Greater Manchester",
+    "nearby": ["Hyde", "Ashton-under-Lyne", "Stockport"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Denton, embroidered in-house to brand guidelines. A Tameside town east of Manchester, it is a busy commercial, manufacturing-services and business-park hub with strong motorway links, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Denton's Tameside commercial and business-park hub",
+    "s1loc": [
+      "Denton's commercial heart is Tameside Business Park off Windmill Lane, a mix of warehouse and office space close to the M60 and M67. Tenants and neighbours include engineering and precision firms such as D and S Engineering Services and optics makers like Northern Lenses and Pace Optics, alongside professional practices including Barlow Richards on accountancy and finance, Paragon Solutions in web and IT, and recruiters such as Fine Drive and Bennett Staff. The town is a key commercial and logistics point for Tameside.",
+      "Denton's professional and office workforce sits within Greater Manchester's wider talent pool, with easy reach to Stockport, Ashton-under-Lyne and central Manchester. Accountants, IT teams, surveyors and consultants here work at desks in business dress, then switch into branded polos, softshells and fleeces for away days, exhibitions, client and site visits and sponsored community events. The office and brand managers buying the kit care that every garment carries the logo and colours exactly as the brand guidelines set out."
+    ],
+    "kit_loc": "across Tameside Business Park and the town centre",
+    "s2_intro": "Whether you are a Denton bank, a law firm, an accountancy, a consultancy, an insurer or a technology company"
+  },
+  "port talbot": {
+    "region": "Port Talbot and South Wales",
+    "nearby": ["Neath", "Bridgend", "Swansea"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Port Talbot, embroidered in-house to brand guidelines. A South Wales steel and engineering town built around Tata Steel and Baglan Energy Park, it carries a deep base of industrial-services and professional firms, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Port Talbot's steel, engineering and professional firms",
+    "s1loc": [
+      "Port Talbot is dominated by Tata Steel, the town's largest employer and home to one of the UK's biggest steelworks, now mid-transition to electric-arc steelmaking under a 1.25 billion pound investment. Around it, Baglan Energy Park has become a premier business location hosting Ecolab, Intertissue, RWE, the Bay Technology Centre, the Baglan Bay Innovation Centre and the University of South Wales Hydrogen Centre. The town's professional and engineering-services firms, accountants and consultants support this industrial and R and D base.",
+      "Port Talbot's workforce blends heavy-industry engineering with the office, finance and technical professionals who run plants, projects and supply chains across the Swansea Bay area. These desk and technical teams keep business dress for clients, then move into branded polos, softshells and fleeces for conferences, supplier exhibitions, contractor inductions, site and client visits and sponsored community days. Procurement and brand managers order the kit and insist the embroidery, logo and colours match the corporate identity exactly across every team."
+    ],
+    "kit_loc": "across the steelworks, Baglan Energy Park and the town centre",
+    "s2_intro": "Whether you are a Port Talbot bank, a law firm, an accountancy, a consultancy, an insurer or a technology company"
+  },
+  "aldershot": {
+    "region": "Aldershot and Hampshire",
+    "nearby": ["Farnborough", "Farnham", "Camberley"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Aldershot, embroidered in-house to brand guidelines. Home of the British Army and twinned with Farnborough's aerospace cluster, it sits in a defence, professional-services and business-park belt in north-east Hampshire, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Aldershot's garrison, defence and professional belt",
+    "s1loc": [
+      "Aldershot Garrison is the town's defining institution, the British Army's home in Rushmoor employing thousands of service and Ministry of Defence civilian staff. A short hop away in Farnborough, the Aerospace Centre, Cody Technology Park and Farnborough Business Park host BAE Systems, QinetiQ, Boeing, Gulfstream, Lenovo, DXC and Gama Aviation. Aldershot's own town centre and estates carry the accountancy, recruitment, legal and consultancy firms that serve this defence and high-technology economy across north-east Hampshire.",
+      "Aldershot draws on a skilled labour market fed by Farnborough College of Technology and the universities of Surrey, Southampton and Portsmouth, supplying engineers, IT staff, accountants and consultants to defence and professional employers. These office-based teams wear business dress day to day, then step into branded polos, softshells and fleeces for away days, exhibitions, contractor and client visits and sponsored community events. The procurement and brand managers ordering the kit want it embroidered to match the corporate identity exactly."
+    ],
+    "kit_loc": "across the town centre and nearby business parks",
+    "s2_intro": "Whether you are an Aldershot bank, a law firm, an accountancy, a consultancy, an insurer or a technology company"
+  },
+  "airdrie": {
+    "region": "Airdrie and North Lanarkshire",
+    "nearby": ["Coatbridge", "Cumbernauld", "Motherwell"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Airdrie, embroidered in-house to brand guidelines. A North Lanarkshire town on the M8 corridor, it carries a strong base of business parks, manufacturing-services and professional firms in Scotland's central belt, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Airdrie's North Lanarkshire business and trade base",
+    "s1loc": [
+      "Airdrie's commercial activity centres on the Brownsburn Industrial Estate, Osprey Trade Park and the Airdrie Business Centre, which provides flexible office and meeting space for start-ups and established firms. Major local employers include Tarmac, Muller UK and the potato producer Albert Bartlett, which built an on-site frozen facility in the town. Around this manufacturing-services and distribution base sit accountancy, recruitment, legal and consultancy practices serving the wider North Lanarkshire economy along the M8 corridor.",
+      "Airdrie's services sector spans public administration, finance, IT and professional practice, drawing on North Lanarkshire's central-belt workforce with quick links to Glasgow and Edinburgh. The office and technical teams here work in business dress, then change into branded polos, softshells and fleeces for away days, supplier exhibitions, client and site visits and sponsored community events. Procurement and office managers order the kit, and they expect the logo, colours and embroidery to match the company brand precisely across every team."
+    ],
+    "kit_loc": "across the trade parks and the town centre",
+    "s2_intro": "Whether you are an Airdrie bank, a law firm, an accountancy, a consultancy, an insurer or a technology company"
+  },
+  "accrington": {
+    "region": "Accrington and Lancashire",
+    "nearby": ["Blackburn", "Burnley", "Rawtenstall"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Accrington, embroidered in-house to brand guidelines. The market town and administrative centre of Hyndburn in East Lancashire, it carries a deep engineering, manufacturing-services and professional base, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Accrington's Hyndburn engineering and professional base",
+    "s1loc": [
+      "Accrington is the administrative centre of Hyndburn, with commercial activity on estates such as Junction 7 Business Park on Blackburn Road at Clayton-le-Moors and at the Globe Centre on Enterprise Way. The Emerson and Renwick Technology Centre, a specialist in coatings and laminating machinery, anchors a strong advanced-engineering tradition, alongside mechanical engineers such as G and M Ward and Sons in Baxenden. Around this manufacturing base sit accountancy, recruitment, legal and IT firms serving the wider East Lancashire economy.",
+      "Accrington's workforce blends advanced engineering and manufacturing with the office, finance and technical professionals who support them, drawing on the Hyndburn and East Lancashire labour market with links to Blackburn, Burnley and Manchester. These desk-based teams keep business dress for clients, then switch into branded polos, softshells and fleeces for away days, trade exhibitions, supplier and site visits and sponsored community events. The procurement and brand managers ordering the kit insist it matches the corporate identity exactly, embroidered cleanly to guidelines."
+    ],
+    "kit_loc": "across the business parks and the town centre",
+    "s2_intro": "Whether you are an Accrington bank, a law firm, an accountancy, a consultancy, an insurer or a technology company"
+  }
+}

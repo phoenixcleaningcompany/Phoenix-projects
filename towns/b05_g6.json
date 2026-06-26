@@ -1,0 +1,86 @@
+{
+  "dover": {
+    "region": "Dover and east Kent",
+    "nearby": ["Folkestone", "Deal", "Canterbury"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Dover, embroidered in-house to brand guidelines. Built around the Port of Dover and a busy professional-services and freight-logistics economy, the town carries a steady base of accountancy, legal and advisory firms, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Dover's port economy and professional firms",
+    "s1loc": [
+      "The Port of Dover anchors the local economy, handling roll-on roll-off freight and the cross-Channel traffic that supports a dense cluster of haulage, customs and logistics operators along the Eastern Docks and the White Cliffs Business Park. The Dover Western Docks Revival reshaped the waterfront and cargo terminal, drawing in fresh investment. Professional firms work alongside them: MFW Chartered Accountants and Beverton and Co handle the books, while Setfords and Shelagh Vines cover legal and conveyancing work across the district.",
+      "Dover's professional workforce spans accountancy, law, insurance and the advisory firms serving the port supply chain and Dover District Council. Many are small and mid-sized practices whose people work in suits day to day, then step into branded kit for client visits, away days, conferences and the exhibitions and sponsored events that put a firm in front of its market. Office and brand managers order the polos, softshells and fleeces, and they care that every piece matches the brand exactly."
+    ],
+    "kit_loc": "across the town centre, the port and the White Cliffs Business Park",
+    "s2_intro": "Whether you are a Dover accountancy, a law firm, a logistics or freight operator, an insurer or a technology company"
+  },
+  "morecambe": {
+    "region": "Morecambe and Lancashire",
+    "nearby": ["Lancaster", "Fleetwood", "Kendal"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Morecambe, embroidered in-house to brand guidelines. Tied closely to Lancaster, the Heysham energy cluster and a growing regeneration economy, the town carries professional firms in accountancy, law and advisory work, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Morecambe's regeneration and energy economy",
+    "s1loc": [
+      "Morecambe sits beside Lancaster and the Heysham energy cluster, where EDF Energy runs the Heysham 1 and Heysham 2 power stations and a substantial engineering and contractor supply chain. The Eden Project Morecambe regeneration, delivered with Lancaster City Council, Lancaster University and Lancashire County Council, has pulled in design, accountancy, tax, valuation and consultancy firms led by WSP and Grimshaw. Local professional practices in accountancy, law and advisory work serve businesses across the bay and the wider Lancaster district.",
+      "The professional-services workforce here is fed by Lancaster University and the colleges supplying accountants, lawyers, surveyors and consultants to firms across Morecambe and Lancaster. These are people who wear suits in the office, then put on branded kit for conferences, away days, exhibitions, site and client visits and the sponsored and fundraising events that build a firm's profile. Procurement and brand managers place the orders, and they expect the polos, softshells and fleeces to match the brand precisely."
+    ],
+    "kit_loc": "across Morecambe, Heysham and the Lancaster business district",
+    "s2_intro": "Whether you are a Morecambe accountancy, a law firm, an energy-services contractor, a consultancy, an insurer or a technology company"
+  },
+  "trowbridge": {
+    "region": "Trowbridge and Wiltshire",
+    "nearby": ["Melksham", "Frome", "Chippenham"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Trowbridge, embroidered in-house to brand guidelines. As the Wiltshire county town and home to Wiltshire Council and Apetito, it carries an administrative-heavy professional base and the firms that serve it, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Trowbridge's county-town professional base",
+    "s1loc": [
+      "Trowbridge is the administrative heart of Wiltshire. Wiltshire Council runs the County Hall complex on Bythesea Road, employing around three thousand staff and feeding a sub-economy of legal, accountancy, consulting and IT firms. Apetito, the prepared-meals and care-catering business, is headquartered in the town and is its largest private employer. Professional practices including Monahans and Roger Hatherall and Co handle accountancy work, while Setfords covers legal services for businesses across Trowbridge and west Wiltshire.",
+      "The professional-services population clusters in the town centre and the supply chain around Wiltshire Council and Apetito, with accountants, solicitors, insurance brokers and consultants drawing on the wider Bath and Wiltshire talent pool. They work in suits, then step into branded kit for away days, conferences, exhibitions, client visits and the sponsored and fundraising events that raise a firm's profile. Office and brand managers order the polos, softshells and fleeces, and they want every piece embroidered exactly to the brand."
+    ],
+    "kit_loc": "across the town centre and the County Hall business district",
+    "s2_intro": "Whether you are a Trowbridge accountancy, a law firm, a consultancy, an insurance broker, a public-sector supplier or a technology company"
+  },
+  "barnstaple": {
+    "region": "Barnstaple and North Devon",
+    "nearby": ["Bideford", "Tiverton", "Exeter"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Barnstaple, embroidered in-house to brand guidelines. As the regional business centre for North Devon, with advanced manufacturing and a strong professional-services cluster, it draws firms from across the area, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Barnstaple as North Devon's business centre",
+    "s1loc": [
+      "Barnstaple is the regional business centre for North Devon, hosting the area's largest professional-services cluster alongside advanced manufacturing employers including Parker Hannifin, which makes filtration products, and Actavis. The town anchors business services for the wider northern Devon area. Accountancy firms run deep here: Streets, following its merger with the long-established Stevens and Willey, plus Westcotts, Simpkins Edwards and North Devon Accounts all operate from the town, serving clients across the region in tax, audit and advisory work.",
+      "The professional workforce spans accountancy, law, insurance, consultancy and the creative and business services that supply the North Devon manufacturing base. These are people who work in suits but reach for branded kit when they head out to conferences, away days, exhibitions, site and client visits and the sponsored and fundraising events that build a firm's reputation. Procurement and office managers place the orders for polos, softshells and fleeces, and they care that everything matches the brand exactly."
+    ],
+    "kit_loc": "across the town centre and the North Devon business parks",
+    "s2_intro": "Whether you are a Barnstaple accountancy, a law firm, a consultancy, an advanced-manufacturing supplier, an insurer or a technology company"
+  },
+  "sidcup": {
+    "region": "Sidcup and southeast London",
+    "nearby": ["Erith", "Orpington", "Bromley"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Sidcup, embroidered in-house to brand guidelines. A well-connected professional and commuter base in the London Borough of Bexley, it carries a strong accountancy and advisory cluster serving the southeast, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Sidcup's professional and commuter base",
+    "s1loc": [
+      "Sidcup is a professional and commuter hub in the London Borough of Bexley, with a dense accountancy and advisory cluster built around its rail links into central London. DJH works from Nexus House on Cray Road, close to Sidcup station, while Affinia operates on Main Road and Azets runs a team of more than thirty accountants in the town. Broughton and Co, a firm of chartered certified accountants, serves owner-managed businesses across southeast London, Kent, Surrey and Sussex from its Sidcup base.",
+      "The professional-services workforce here mixes accountants, solicitors, insurance and tax advisers and consultants, many commuting between Sidcup and the City while serving local owner-managed businesses. They wear suits in the office, then step into branded kit for client visits, away days, conferences, exhibitions and the sponsored and fundraising events that raise a firm's profile. Office and brand managers order the polos, softshells and fleeces, and they expect every piece embroidered exactly to brand guidelines."
+    ],
+    "kit_loc": "across the town centre and the Bexley business district",
+    "s2_intro": "Whether you are a Sidcup accountancy, a law firm, a tax or insurance adviser, a consultancy or a technology company"
+  },
+  "hyde": {
+    "region": "Hyde and Greater Manchester",
+    "nearby": ["Denton", "Ashton-under-Lyne", "Stalybridge"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Hyde, embroidered in-house to brand guidelines. A Tameside manufacturing-services town with substantial engineering employers and busy business parks, it carries firms serving precision industry and the wider professional base, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Hyde's engineering and business-park economy",
+    "s1loc": [
+      "Hyde is a Tameside manufacturing-services town with deep engineering roots. The Hyde Group, an east Manchester engineering business, runs precision manufacturing and surface-treatment sites supplying the aerospace, nuclear and defence sectors, with Hyde Aero Products among its operations. Newton Business Park on Talbot Road provides over 450,000 square feet of manufacturing and office space across seventeen acres, with East Tame Business Park adding further industrial accommodation. Accountancy practices including Hanley and Co and Prescient Accounting serve businesses across Hyde and the wider Tameside area.",
+      "The professional-services workforce supports this engineering base and the broader Tameside business community, with accountants, advisers and consultants drawn from across Greater Manchester. They work in suits, then put on branded kit for away days, conferences, exhibitions, client and site visits and the sponsored and fundraising events that lift a firm's profile. Procurement and office managers place the orders for polos, softshells and fleeces, and they want every piece to match the brand exactly."
+    ],
+    "kit_loc": "across the town centre and the Tameside business parks",
+    "s2_intro": "Whether you are a Hyde accountancy, a law firm, an engineering-services supplier, a consultancy, an insurer or a technology company"
+  },
+  "billingham": {
+    "region": "Billingham and the Tees Valley",
+    "nearby": ["Stockton-on-Tees", "Middlesbrough", "Hartlepool"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Billingham, embroidered in-house to brand guidelines. A Tees Valley town built on chemical and process industry and the engineering services around it, it carries advisory firms serving a major industrial base, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Billingham's process industry and engineering base",
+    "s1loc": [
+      "Billingham, on the north bank of the Tees in the Borough of Stockton-on-Tees, is one of Teesside's great chemical and process-industry centres, part of the NEPIC cluster that grew from the former ICI sites. CF Industries runs the Billingham Complex producing ammonia and nitric acid, while Fujifilm Diosynth Biologics employs over 550 people, many at graduate level, in pharmaceutical biotechnology. Accountancy firms including HMB Accountants and Wells Business Services serve businesses across Billingham, Stockton, Middlesbrough and Hartlepool.",
+      "The professional-services workforce here supports the process and engineering sector and the wider Tees Valley business community, with accountants, consultants, insurers and advisers drawn from across the region. They work in suits, then step into branded kit for away days, conferences, exhibitions, client and site visits and the sponsored and fundraising events that raise a firm's profile. Procurement and brand managers order the polos, softshells and fleeces, and they care that every piece is embroidered exactly to the brand."
+    ],
+    "kit_loc": "across the town centre and the Tees Valley industrial estates",
+    "s2_intro": "Whether you are a Billingham accountancy, a law firm, an engineering or process-industry supplier, a consultancy, an insurer or a technology company"
+  }
+}

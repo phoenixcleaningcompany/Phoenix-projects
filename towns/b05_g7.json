@@ -1,0 +1,86 @@
+{
+  "oldbury": {
+    "region": "Oldbury and the Black Country",
+    "nearby": ["West Bromwich", "Smethwick", "Halesowen"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Oldbury, embroidered in-house to brand guidelines. As Sandwell's administrative seat and a Black Country base with twice the national average of manufacturing firms feeding accountants, advisers and technical consultancies, it carries real professional-services demand, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Oldbury's Sandwell business and services base",
+    "s1loc": [
+      "Oldbury is the civic centre of the Sandwell borough, with the council's main offices on the High Street anchoring a working town wrapped around Sandwell Business Park and the Rounds Green Road estates. Engineering names such as voestalpine Metsec and HL Thorne sit alongside warehousing, distribution and the professional firms that serve them, with IT and cyber-security providers like CSCM among the local technical employers. Accountancies, solicitors and business advisers cluster here to support a dense manufacturing supply chain.",
+      "The town sits inside one of the most concentrated industrial economies in England, and its accountants, surveyors, recruiters and IT consultancies keep that base moving. People here mostly work in suits or on-site clothing, then step into branded polos, softshells and fleeces for away days, supplier conferences, trade exhibitions and sponsored community events. Sandwell office and brand managers buy that kit and care that the embroidered logo matches Black Country corporate guidelines exactly, every reorder."
+    ],
+    "kit_loc": "across the town centre and the Sandwell business parks",
+    "s2_intro": "Whether you are an Oldbury accountancy, a Black Country engineering consultancy, a law firm, an insurer or a technology company"
+  },
+  "irvine": {
+    "region": "Irvine and North Ayrshire",
+    "nearby": ["Kilmarnock", "Ayr", "Paisley"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Irvine, embroidered in-house to brand guidelines. As the largest town in North Ayrshire and home to the i3 life-sciences enterprise area, it carries a real cluster of science, manufacturing and the professional firms around them, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Irvine's i3 enterprise and services cluster",
+    "s1loc": [
+      "Irvine's economy is anchored by the i3 Enterprise Area on the eastern edge of town, a major life-sciences site where GSK runs its antibiotic plant producing potassium clavulanate alongside companies such as Booth Welsh, A.Vogel and DSM. Around that cluster sit engineering, advanced-manufacturing and the accountancies, law firms and IT consultancies that service them. As North Ayrshire's administrative base, the town also carries council, agency and professional-services employment across its central office quarter.",
+      "Irvine is the largest town in North Ayrshire, with a science and manufacturing workforce feeding accountants, surveyors, recruiters and technology suppliers across Ayrshire. These people work in lab coats, suits or site clothing day to day, then move into branded polos, softshells and fleeces for away days, science conferences, trade exhibitions and sponsored events. North Ayrshire office and brand managers order that kit and want the embroidered logo to match corporate colours and guidelines exactly on every reorder."
+    ],
+    "kit_loc": "across the town centre and the i3 enterprise area",
+    "s2_intro": "Whether you are an Irvine life-sciences firm, a North Ayrshire accountancy, a law firm, an insurer or a technology company"
+  },
+  "aberdare": {
+    "region": "Aberdare and the Cynon Valley",
+    "nearby": ["Merthyr Tydfil", "Pontypridd", "Caerphilly"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Aberdare, embroidered in-house to brand guidelines. As the most populous town in Rhondda Cynon Taf and the commercial heart of the Cynon Valley, it carries real public-sector and professional-services employment, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Aberdare's Cynon Valley business core",
+    "s1loc": [
+      "Aberdare is the most populous town in Rhondda Cynon Taf and the commercial centre of the Cynon Valley, where the High Street and the Rock Grounds offices inherited from the former Cynon Valley district anchor public-sector and professional employment. Rhondda Cynon Taf County Borough Council, with its main civic development at Llys Cadwyn in nearby Pontypridd, is one of the largest authorities in Wales, and accountancies, solicitors, surveyors and IT firms across the valley serve its supply chain and local businesses.",
+      "The town draws a professional-services workforce from across the Cynon Valley, supported by college and training links feeding accountants, advisers, recruiters and technology suppliers. People here work in suits or site clothing through the week, then move into branded polos, softshells and fleeces for away days, conferences, business exhibitions and sponsored community events. Cynon Valley office and brand managers order that kit and care that the embroidered logo matches their corporate guidelines exactly on every reorder."
+    ],
+    "kit_loc": "across the town centre and the Cynon Valley business parks",
+    "s2_intro": "Whether you are an Aberdare accountancy, a Cynon Valley public-sector body, a law firm, an insurer or a technology company"
+  },
+  "lichfield": {
+    "region": "Lichfield and Staffordshire",
+    "nearby": ["Tamworth", "Cannock", "Burton-on-Trent"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Lichfield, embroidered in-house to brand guidelines. As a compact Staffordshire cathedral city with a long-established legal and professional base and growing business parks nearby, it carries real professional-services demand, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Lichfield's professional and cathedral-city services",
+    "s1loc": [
+      "Lichfield carries a long-established professional base, with EPO Solicitors among the oldest and largest law firms in the city and GloverPriest, HCB and Gardner Champion also serving the area. Accountancies such as Stowe and Ager work with local businesses, while IT and cyber-security providers like Initial IT, based at Advantage House on Stowe Court near the cathedral, support regulated firms including solicitors, accountants, surveyors and financial advisers. Larger business parks at Fradley sit just to the north of the city.",
+      "This Staffordshire cathedral city draws a professional workforce into its compact centre and the surrounding business parks, with solicitors, accountants, advisers and technology suppliers serving a wide rural and commuter catchment. These people work in suits day to day, then step into branded polos, softshells and fleeces for away days, conferences, trade exhibitions and sponsored events. Lichfield office and brand managers order that kit and want the embroidered logo to match their corporate colours and guidelines exactly on every reorder."
+    ],
+    "kit_loc": "across the city centre and the Staffordshire business parks",
+    "s2_intro": "Whether you are a Lichfield law firm, a Staffordshire accountancy, a consultancy, an insurer or a technology company"
+  },
+  "letchworth": {
+    "region": "Letchworth Garden City and Hertfordshire",
+    "nearby": ["Hitchin", "Stevenage", "Welwyn Garden City"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Letchworth, embroidered in-house to brand guidelines. As the world's first garden city with a diverse manufacturing and professional base and a high share of scientific and technical employment, it carries real professional-services demand, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Letchworth's garden-city business base",
+    "s1loc": [
+      "Letchworth Garden City, the world's first garden city, keeps a diverse business base across its planned industrial and office estates. Major employers include Alliance Healthcare, the construction firm Willmott Dixon, Tyco Safety Products and Titan Logistics, with high-tech and chemical manufacturing both strongly represented. Around them sit accountancies, business advisers, printers and the professional firms that service a varied local economy, supported by the Letchworth Garden City Heritage Foundation's stewardship of the town's commercial property.",
+      "The professional, scientific and technical sector employs a notably high share of Letchworth residents, well above the England and Wales average, feeding accountants, advisers, recruiters and technology suppliers. These people work in suits or technical clothing through the week, then step into branded polos, softshells and fleeces for away days, conferences, trade exhibitions and sponsored community events. Hertfordshire office and brand managers order that kit and care that the embroidered logo matches their corporate guidelines exactly on every reorder."
+    ],
+    "kit_loc": "across the town centre and the garden-city business estates",
+    "s2_intro": "Whether you are a Letchworth manufacturer, a Hertfordshire accountancy, a law firm, an insurer or a technology company"
+  },
+  "haywards heath": {
+    "region": "Haywards Heath and West Sussex",
+    "nearby": ["Burgess Hill", "Crawley", "Horsham"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Haywards Heath, embroidered in-house to brand guidelines. As a Mid Sussex commuter town with a strong financial-services presence led by the insurer First Central and a cluster of professional firms, it carries real professional-services demand, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Haywards Heath's financial and professional cluster",
+    "s1loc": [
+      "Haywards Heath's commercial core runs along Perrymount Road and the central office quarter, where the insurer First Central is the town's biggest commercial employer with around 600 staff at Capital House. A top-five seller of new motor insurance in the UK, it anchors a financial-services presence supported by insurance brokers, accountancies and solicitors across the Mill Green and Bridge Road business estates. Around them sit the consultancies and IT firms that service a busy Mid Sussex professional economy.",
+      "This Mid Sussex commuter town sits on the London-to-Brighton line and draws a professional-services workforce into its central offices and surrounding estates. Insurers, accountants, advisers, recruiters and technology suppliers work in suits through the week, then step into branded polos, softshells and fleeces for away days, conferences, trade exhibitions and sponsored events. West Sussex office and brand managers order that kit and want the embroidered logo to match their corporate colours and guidelines exactly on every reorder."
+    ],
+    "kit_loc": "across the town centre and the Mid Sussex business estates",
+    "s2_intro": "Whether you are a Haywards Heath insurer, a West Sussex accountancy, a law firm, a consultancy or a technology company"
+  },
+  "uxbridge": {
+    "region": "Uxbridge and west London",
+    "nearby": ["Hayes", "Ruislip", "Slough"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Uxbridge, embroidered in-house to brand guidelines. As a west London corporate hub hosting major company headquarters and the Stockley Park business estate on its doorstep, it carries dense professional-services and technology employment, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Uxbridge's west London corporate hub",
+    "s1loc": [
+      "Uxbridge is a major west London corporate base, with Coca-Cola Europacific Partners headquartered at Pemberton House on Bakers Road and a string of company offices through the town centre. On its doorstep, the Stockley Park business estate hosts more than twenty corporations including Gilead Sciences, Canon, Sharp, Mitsubishi, Samsonite and Marks and Spencer, while Uxbridge Business Park adds further occupiers. Around these headquarters sit the banks, law firms, accountancies, consultancies and technology companies that serve a dense commercial economy.",
+      "As the civic centre of the London Borough of Hillingdon and a stop on the Metropolitan and Piccadilly lines, Uxbridge draws a large professional-services and technology workforce, supported by Brunel University nearby. These people work in suits or office clothing through the week, then step into branded polos, softshells and fleeces for away days, conferences, trade exhibitions, client visits and sponsored events. Hillingdon office and brand managers order that kit and want the embroidered logo to match corporate guidelines exactly on every reorder."
+    ],
+    "kit_loc": "across the town centre and the Stockley Park business estate",
+    "s2_intro": "Whether you are an Uxbridge corporate headquarters, a west London accountancy, a law firm, a consultancy or a technology company"
+  }
+}
