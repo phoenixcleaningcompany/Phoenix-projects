@@ -1,0 +1,70 @@
+{
+  "ryde": {
+    "region": "Ryde and the Isle of Wight",
+    "nearby": [
+      "Newport (Isle of Wight)",
+      "Cowes",
+      "Sandown"
+    ],
+    "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Ryde, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
+    "s1_head": "Kitting the events trade of the Isle of Wight",
+    "s1loc": [
+      "Ryde is the largest town on the Isle of Wight and the venue for some of the Island's biggest annual events. Ryde Theatre stages live shows through the year, while the Ryde Esplanade turns over to outdoor stages and displays each summer. The Isle of Wight Scooter Rally brings thousands of riders to the Esplanade over the August bank holiday, and Ryde Carnival, one of the oldest in the UK and dating to 1888, fills the streets with its main and illuminated processions.",
+      "And the trade runs at two sizes here. Ryde Theatre, the Scooter Rally and Carnival operators and the production companies staffing the Esplanade stages field large seasonal crews and reorder through a managed account, while independent promoters, carnival organisers and small crews around Ryde and across the Island want only a few branded pieces. A supplier on this patch has to dress the festival weekend and the single crew alike, so we run trade accounts and direct online ordering side by side with no account needed.",
+      "Island weather sets the spec. The Esplanade stages, the carnival parade and the open-air rally mean stewards, marshals and rigging crews working in hi-vis, waterproofs and warm fleeces against the wind off the Solent, then a clean embroidered polo for the Ryde Theatre front-of-house. We stitch the operator name in-house so a stewarding line, a stage crew and a box-office team all match, whether the job is an Esplanade show, a carnival day or a build over toward Newport, Cowes or Sandown."
+    ],
+    "kit_loc": "across the Island's venues, festivals and events",
+    "s2_intro": "Whether you are a major Ryde venue or festival, a production company or a small independent event crew across the Isle of Wight"
+  },
+  "cowes": {
+    "region": "Cowes and the Isle of Wight",
+    "nearby": [
+      "Newport (Isle of Wight)",
+      "Ryde",
+      "Shanklin"
+    ],
+    "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Cowes, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
+    "s1_head": "Kitting the events trade of the Isle of Wight",
+    "s1loc": [
+      "Cowes is the home of Cowes Week, the sailing regatta running since 1826 and one of the longest-standing sporting events in the British calendar, staging up to forty daily races and drawing huge crowds for the shoreside entertainment. The Parade carries the Regatta Village with its stages and live music, Cowes Yacht Haven and Shepards Wharf Marina run their own programmes, and the Trinity Theatre keeps a year-round bill of drama and shows in the town.",
+      "And the trade runs at two sizes here. Cowes Week, the marina and Regatta Village operators and the production companies staffing the Parade stages field large seasonal crews and reorder through a managed account, while independent promoters, race-night organisers and small crews around Cowes and East Cowes want only a few branded pieces. A supplier in this part of the Island has to dress the regatta week and the single crew alike, so we run trade accounts and direct online ordering side by side with no account needed.",
+      "The waterfront sets the spec. The Parade stages, the harbour-side displays and the open marina events mean stewards, marshals and rigging crews working in hi-vis, waterproofs and warm fleeces against the breeze off the Solent, then a clean embroidered polo for the Trinity Theatre front-of-house. We stitch the operator name in-house so a stewarding line, a stage crew and a box-office team all read as one outfit, whether the work is a Regatta Village shift, a theatre night or a build over toward Newport, Ryde or Shanklin."
+    ],
+    "kit_loc": "across the Island's venues, festivals and events",
+    "s2_intro": "Whether you are a major Cowes venue or festival, a production company or a small independent event crew across the Isle of Wight"
+  },
+  "shanklin": {
+    "region": "Shanklin and the Isle of Wight",
+    "nearby": [
+      "Sandown",
+      "Ryde",
+      "Newport (Isle of Wight)"
+    ],
+    "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Shanklin, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
+    "s1_head": "Kitting the events trade of the Isle of Wight",
+    "s1loc": [
+      "Shanklin runs a full events calendar on the Isle of Wight. Shanklin Theatre on Prospect Road, opened in 1874, keeps a year-round bill of music, comedy, theatre and a summer professional season. Rylstone Gardens on the clifftop hosts afternoon and evening events at its bandstand, with brass bands and singers through the summer, while the thatched Old Village anchors the town's heritage and the long-running Shanklin Regatta and Carnival fill the streets and beach with stages and processions.",
+      "And the trade runs at two sizes here. Shanklin Theatre, the Regatta and Carnival operators and the production companies staffing the Rylstone Gardens stages field seasonal crews and reorder through a managed account, while independent promoters, bandstand organisers and small crews around Shanklin and across the Island want only a few branded pieces. A supplier on this patch has to dress the festival weekend and the single crew alike, so we run trade accounts and direct online ordering side by side with no account needed.",
+      "The bigger Island fixtures sit a short run away. Shanklin crews work events across the Island, from the Isle of Wight Festival builds at Seaclose Park in Newport to shows over toward Sandown and Ryde, so kit has to carry from a Rylstone Gardens bandstand night to a main-stage call. We embroider the operator name in-house and hold the seasonal intake so stewards, rigging hands and front-of-house staff match through the summer outdoor run, the carnival season and the indoor theatre programme."
+    ],
+    "kit_loc": "across the Island's venues, festivals and events",
+    "s2_intro": "Whether you are a major Shanklin venue or festival, a production company or a small independent event crew across the Isle of Wight"
+  },
+  "sandown": {
+    "region": "Sandown and the Isle of Wight",
+    "nearby": [
+      "Shanklin",
+      "Ryde",
+      "Newport (Isle of Wight)"
+    ],
+    "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Sandown, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
+    "s1_head": "Kitting the events trade of the Isle of Wight",
+    "s1loc": [
+      "Sandown runs a busy events calendar in Sandown Bay. The Sandown Bay Regatta, an annual celebration dating back to 1857 and relaunched in 2022, brings free entertainment from the stage, a beach sports arena and a street market along Sandown Esplanade. Los Altos Park on Melville Street and Sandham Gardens give the town its open-air sites, while live-music rooms such as The Tap and The Caulkheads keep gigs running, and Sandown Carnival adds its parades through the season.",
+      "And the trade runs at two sizes here. The Bay Regatta, the carnival and the production companies staffing the Esplanade and bay stages field seasonal crews and reorder through a managed account, while independent promoters, music-room operators and small crews around Sandown and across the Island want only a few branded pieces. A supplier on this patch has to dress the bay event and the single crew alike, so we run trade accounts and direct online ordering side by side with no account needed.",
+      "The bigger Island fixtures sit a short run away. Sandown crews work events across the Island, from the Isle of Wight Festival builds at Seaclose Park in Newport to shows over toward Shanklin and Ryde, so kit has to carry from a bay-stage shift to a main-stage call. We embroider the operator name in-house and hold the seasonal intake so stewards, rigging hands and front-of-house staff match through the summer outdoor run, the carnival season and the indoor winter programme."
+    ],
+    "kit_loc": "across the Island's venues, festivals and events",
+    "s2_intro": "Whether you are a major Sandown venue or festival, a production company or a small independent event crew across the Isle of Wight"
+  }
+}
