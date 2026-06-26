@@ -1,0 +1,86 @@
+{
+  "guiseley": {
+    "region": "Guiseley, West Yorkshire",
+    "nearby": ["Leeds", "Bradford", "Yeadon"],
+    "s1_head": "Aireborough charities and foodbanks",
+    "s1loc": [
+      "Guiseley sits in the Aireborough corner of Leeds, where local need is met by a web of named projects. Otley Food Bank, run from Otley Parish Church, covers Guiseley and the surrounding villages, while the wider Leeds North and West Foodbank, founded by churches and community groups, feeds into the same patch. AVSED, the Aireborough seniors charity in Yeadon, works to keep older neighbours independent, and FareShare Yorkshire moves surplus food into community kitchens and pantries right across the district.",
+      "The sector here runs at every size. National and regional charities such as St Gemma's Hospice, Sue Ryder and Oxfam keep shops along Guiseley and Yeadon high streets, buying kit centrally through trade accounts. Alongside them sit small community groups, foodbanks, pantries and volunteer-run projects on a shoestring across Guiseley, Rawdon and Yeadon. The same supplier should serve the national charity and the one-room foodbank alike, with trade accounts for the big names and direct online ordering, no minimum, for the smallest group.",
+      "Beyond the foodbanks, Guiseley's volunteer life is broad. The Aireborough Civic Society draws residents from Guiseley, Rawdon and Yeadon into planning, heritage and local history, meeting at Rawdon Library. St Gemma's Hospice and Sue Ryder both recruit shop and warehouse volunteers from across the area, and church-run lunch clubs, befriending rounds and seasonal collections lean on the same pool of helpers. From Nethermoor and Tranmere Park to the parade around Guiseley Cross, the work is small, local and stitched together by people giving their own hours."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Guiseley, a FareShare Yorkshire-supplied community group or a small volunteer-run foodbank in Yeadon"
+  },
+  "rawtenstall": {
+    "region": "Rawtenstall, Lancashire",
+    "nearby": ["Burnley", "Accrington", "Bury"],
+    "s1_head": "Rossendale Valley charity and foodbank life",
+    "s1loc": [
+      "Rawtenstall is the heart of the Rossendale Valley, and its safety net is largely home-grown. The Raft Foundation, based at New Hall Hey, runs a fully volunteer-led foodbank that collects and delivers to homes right across the valley, drawing FareShare surplus from Tesco and Asda Rawtenstall and donations from faith and community groups. Positive Start Food Group works alongside Veterans In Communities to rescue food bound for waste, and the two together keep parcels flowing to households in crisis.",
+      "The sector here runs at every size. Regional charities such as Rossendale Hospice and the bigger names keep shops on Bank Street and beyond, buying kit centrally through trade accounts. Alongside them sit small community groups, foodbanks, pantries and volunteer-run projects on a shoestring across Rawtenstall, Bacup and Haslingden. The same supplier should serve the national charity and the one-room foodbank alike, offering trade accounts to the larger organisations and direct online ordering, no minimum, to the smallest valley project.",
+      "Rossendale Hospice anchors much of the local fundraising, caring for people living with cancer and other life-limiting conditions and running its Bank Street charity shop with a small army of volunteers, plus day therapy, befriending and bereavement support that all depend on unpaid hands. The Rossendale Community Directory points helpers towards dozens of openings, from the Whitaker museum and park to mutual-aid groups and church lunch clubs. Across Newchurch, Crawshawbooth and the New Hall Hey estates, the giving is steady, local and quietly run."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Rawtenstall, a Raft Foundation-supplied community group or a small volunteer-run foodbank in Accrington"
+  },
+  "hindley": {
+    "region": "Hindley, Greater Manchester",
+    "nearby": ["Wigan", "Leigh", "Bolton"],
+    "s1_head": "Hindley and Wigan borough charity life",
+    "s1loc": [
+      "Hindley sits just east of Wigan, and its crisis support leans on the borough's anti-poverty charity, The Brick. Rather than a traditional foodbank, The Brick runs a Food Community at St Georges Church on Water Street, laid out like a shop where members choose fresh, frozen and long-life items with dignity, alongside housing advice and homelessness support. FareShare Greater Manchester feeds surplus into the network, and Wigan and Leigh Hospice draws fundraising support from Hindley itself.",
+      "The sector here runs at every size. Regional charities such as Wigan and Leigh Hospice and Sue Ryder keep shops along Market Street in Hindley and across the borough, buying kit centrally through trade accounts. Alongside them sit small community groups, foodbanks, pantries and volunteer-run projects on a shoestring across Hindley, Platt Bridge and Abram. The same supplier should serve the national charity and the one-room foodbank alike, with trade accounts for the larger names and direct online ordering, no minimum, for the smallest group.",
+      "Wigan and Leigh Hospice runs stores in Hindley, Ashton, Atherton, Golborne, Leigh, Pemberton, Standish and Shevington, all staffed by volunteers sorting, steaming and serving on the till. The Brick recruits across its retail shops, the Food Community and its homeless project, and church-based lunch clubs and mutual-aid groups around Hindley Green and Bickershaw add to the rota. From Market Street to the Hindley All Saints parish, the work is steady, neighbourly and built on people giving their own time."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Hindley, a FareShare Greater Manchester-supplied community group or a small volunteer-run foodbank in Wigan"
+  },
+  "royton": {
+    "region": "Royton, Greater Manchester",
+    "nearby": ["Oldham", "Rochdale", "Middleton"],
+    "s1_head": "Royton and Oldham foodbank and charity work",
+    "s1loc": [
+      "Royton sits on the northern edge of Oldham, and its food support runs through several named projects. Bethesda Church established a community foodbank here, while FareShare sessions distribute surplus at Royton Library at Trinity Church on Radcliffe Street. The wider Oldham Foodbank, part of the Trussell network, and FareShare Greater Manchester, which supplies more than 280 charities and community groups across the area, keep parcels moving into Royton households facing crisis.",
+      "The sector here runs at every size. Regional charities such as Dr Kershaw's Hospice keep shops on Royton Market Square and across the district, buying kit centrally through trade accounts. Alongside them sit small community groups, foodbanks, pantries and volunteer-run projects on a shoestring across Royton, Shaw and Chadderton. The same supplier should serve the national charity and the one-room foodbank alike, offering trade accounts to the bigger names and direct online ordering, no minimum, to the smallest Royton project.",
+      "Dr Kershaw's Hospice is rooted in Royton, relying on community support and running charity shops in Royton, Lees and Shaw plus The Furniture Hub outlet, with hundreds of volunteers giving tens of thousands of hours each year. Action Together points helpers towards openings right across the borough, and church lunch clubs, mutual-aid groups and seasonal fayres lean on the same crowd. From Royton Market Square to Heyside and Thornham, the giving is local, sustained and quietly run by volunteers."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Royton, a FareShare Greater Manchester-supplied community group or a small volunteer-run foodbank in Oldham"
+  },
+  "clevedon": {
+    "region": "Clevedon, Somerset",
+    "nearby": ["Portishead", "Weston-super-Mare", "Bristol"],
+    "s1_head": "Clevedon and District charity and foodbank network",
+    "s1loc": [
+      "Clevedon, on the North Somerset coast, is served by the Clevedon and District Foodbank, a Trussell-network charity supplying emergency food parcels through a voucher referral system. It runs distribution points in Clevedon, Nailsea, Portishead and Yatton, working in partnership with local churches, schools, businesses and voluntary agencies. The Samaritans branch covering Clevedon, Portishead and Weston-super-Mare, and surplus-food redistribution feeding the network, round out the town's frontline support.",
+      "The sector here runs at every size. National and regional charities such as Weston Hospicecare keep shops on Hill Road and along the Clevedon high street, buying kit centrally through trade accounts. Alongside them sit small community groups, foodbanks, pantries and volunteer-run projects on a shoestring across Clevedon, Nailsea and Yatton. The same supplier should serve the national charity and the one-room foodbank alike, with trade accounts for the larger names and direct online ordering, no minimum, for the smallest coastal group.",
+      "Weston Hospicecare runs a furniture and general charity store on Hill Road in Clevedon, recently reopened after refurbishment and always recruiting volunteers for day-to-day work. The Clevedon and District Foodbank depends on local people for donations, money and the volunteer rota that staffs its Monday and Friday collections, and its Portishead site needs Friday helpers too. From the seafront and Hill Road shops to the Yatton and Nailsea distribution points, the giving is small-scale, neighbourly and volunteer-driven."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Clevedon, a Clevedon and District Foodbank-supplied community group or a small volunteer-run foodbank in Portishead"
+  },
+  "reigate": {
+    "region": "Reigate, Surrey",
+    "nearby": ["Redhill", "Horley", "Crawley"],
+    "s1_head": "Reigate and Banstead charity and foodbank life",
+    "s1loc": [
+      "Reigate's support sector centres on a cluster of named charities. Loveworks, established in 2010 and based in the borough, runs foodbanks at Merstham and Woodhatch, providing emergency parcels and fresh produce from its own allotments alongside local agencies and churches. Renewed Hope Trust, just over in Redhill, runs a weekday drop-in with hot meals and foodbank vouchers, while Surrey Food Bank and the wider Trussell network keep emergency food flowing to Reigate households in crisis.",
+      "The sector here runs at every size. National and regional charities such as St Catherine's Hospice and YMCA East Surrey keep shops on Bell Street and across the town, buying kit centrally through trade accounts. Alongside them sit small community groups, foodbanks, pantries and volunteer-run projects on a shoestring across Reigate, Redhill and Merstham. The same supplier should serve the national charity and the one-room foodbank alike, offering trade accounts to the bigger names and direct online ordering, no minimum, to the smallest group.",
+      "St Catherine's Hospice runs charity shops on Bell Street in Reigate and Station Road in Redhill, and YMCA East Surrey, supporting the community since 1870, gives free induction training to its volunteers. Voluntary Action Surrey East, formed by merging Tandridge Voluntary Action and Voluntary Action Reigate and Banstead, points helpers towards openings borough-wide, and Renewed Hope's drop-in and winter night shelter ran hundreds of volunteer-staffed sessions last year. From Bell Street to Woodhatch and Merstham, the work is local and volunteer-led."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Reigate, a Loveworks-supplied community group or a small volunteer-run foodbank in Redhill"
+  },
+  "horley": {
+    "region": "Horley, Surrey",
+    "nearby": ["Redhill", "Reigate", "Crawley"],
+    "s1_head": "Horley foodbank and community charity work",
+    "s1loc": [
+      "Horley's frontline food support is the Churches for Horley Foodbank, a non-profit run entirely by volunteers from Horley Methodist Church in the heart of town. Part of the wider network, it issues three days of emergency food against vouchers from referral agencies such as Citizens Advice, children's centres and health visitors, opening for collections on Wednesdays and Fridays. Loveworks, the Reigate-based foodbank charity, and Surrey Food Bank also reach into the Horley patch with parcels and surplus food.",
+      "The sector here runs at every size. National and regional charities such as St Catherine's Hospice and YMCA East Surrey keep shops across the area, buying kit centrally through trade accounts. Alongside them sit small community groups, foodbanks, pantries and volunteer-run projects on a shoestring across Horley, Redhill and Crawley. The same supplier should serve the national charity and the one-room foodbank alike, with trade accounts for the larger names and direct online ordering, no minimum, for the smallest Horley group.",
+      "The Horley Anglican Team Ministry helps run the town foodbank, which depends entirely on donations of food and money from local schools, churches, businesses and individuals. Get Volunteering lists a wide range of openings around Horley, from charity-shop shifts to befriending, and Refugees Welcome Crawley draws helpers from the same pool just to the south. From Horley Methodist Church and the town centre out to Langshott and Meath Green, the giving is small-scale, neighbourly and run by volunteers."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Horley, a Churches for Horley Foodbank-supplied community group or a small volunteer-run foodbank in Crawley"
+  }
+}

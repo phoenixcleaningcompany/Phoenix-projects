@@ -1,0 +1,86 @@
+{
+  "musselburgh": {
+    "region": "Musselburgh, East Lothian",
+    "nearby": ["Edinburgh", "Livingston", "Dunfermline"],
+    "s1_head": "Charity and volunteer kit for Musselburgh",
+    "s1loc": [
+      "Musselburgh leans on a busy local sector. The Musselburgh Community Pantry runs from the Musselburgh East Community Learning Centre and from Newbigging, offering dignity and choice without a referral, backed by a dedicated volunteer team. East Lothian Foodbank serves people in crisis across the county, while Volunteer Centre East Lothian connects residents to roles. The big food-redistribution and foodbank networks keep stock topped up, and the work depends on local goodwill the whole year round.",
+      "The sector here runs at every size. National and regional charities keep High Street shops with central buying behind them - Cancer Research UK, British Heart Foundation, the Salvation Army and Barnardo's all trade in the Honest Toun - while St Columba's Hospice Care runs shops and a furniture centre across the Lothians. Alongside them sit small community groups, the pantry and volunteer-run projects on a shoestring across Wallyford and Prestonpans. We are glad to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Around these anchors a wider web of help operates. St Columba's Hospice Care funds care through its Lothian shops, including its Ever After bridal shop in Musselburgh, and Edinburgh's Fresh Start helps people set up home with donated goods. Wallyford Community Centre and the Preston Links Centre at Prestonpans host community activity, and church-led groups and mutual-aid volunteers fill gaps between formal services. From the Fisherrow harbour side to Stoneyhill, ordinary people give time, sort donations and staff stalls, and they all need plain, hard-wearing kit that looks the part."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Musselburgh, an East Lothian Foodbank-supplied community group or a small volunteer-run foodbank in Edinburgh"
+  },
+  "penzance": {
+    "region": "Penzance, Cornwall",
+    "nearby": ["Camborne", "Falmouth", "Truro"],
+    "s1_head": "Charity and volunteer kit for Penzance",
+    "s1loc": [
+      "Penzance carries a strong volunteer tradition out at the far west. The CTIPA foodbank, run by Churches Together in Penzance Area, opens at The Store on the Treneere Estate and covers West Penwith from Sennen and St Just through to Newlyn. Growing Links runs a volunteer-led street food project most nights of the year for people facing homelessness and hardship. FareShare South West and the big food-redistribution and foodbank networks help keep local larders stocked, and proper nouns like these sit at the heart of the town's response.",
+      "The sector here runs at every size. National and regional charities hold shops on Market Jew Street and Causewayhead with central buying behind them, while Cornwall Hospice Care funds St Julia's and Mount Edgcumbe through a shop at Market Place and a furniture point at Jelbert Way, and Children's Hospice South West also trades in town. Against that sit small community groups and volunteer-run projects on a shoestring across Treneere, Newlyn and Heamoor. We are glad to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Further help threads through the town beyond the foodbank doors. Cornwall Hospice Care's shops and volunteers raise more than a million pound a year for hospice care, and charity shops cluster along the main streets and around the Wharfside. Church halls, the Salvation Army and community larder volunteers run sessions for families on tight budgets, and mutual-aid groups stepped up in hard times and stayed. From the Treneere and Gulval estates to Newlyn's harbour, people give hours sorting stock, cooking and driving, and every one of them needs kit that survives real work."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Penzance, a FareShare South West-supplied community group or a small volunteer-run foodbank in Camborne"
+  },
+  "melksham": {
+    "region": "Melksham, Wiltshire",
+    "nearby": ["Trowbridge", "Chippenham", "Bath"],
+    "s1_head": "Charity and volunteer kit for Melksham",
+    "s1loc": [
+      "Melksham relies on a tight band of local volunteers. Melksham Foodbank and Lifeline, run under the Melksham Family of Churches and now a registered CIO, provides emergency food and a drop-in centre where clients can chat over coffee and find a listening ear. Melksham Community Larder redistributes surplus food, and the Fighting Hunger team uses store donations to reach those most in need across Wiltshire. The big food-redistribution and foodbank networks support stock, and Wiltshire Together helps match people to volunteering.",
+      "The sector here runs at every size. National and regional charities keep Church Street and Bank Street shops with central buying behind them, while Dorothy House Hospice Care funds care through its Melksham clothing shop and a furniture and electrical shop on Church Street. Around them sit small community groups, the Lifeline drop-in, the larder and volunteer-run projects on a shoestring across the town and outlying villages. We are glad to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "More support gathers around the church-led core. Dorothy House shops and their volunteers feed money back into free palliative care, and the Melksham Assembly Hall and Canberra Centre host community sessions and fundraising. Mutual-aid and good-neighbour groups grew during hard times and kept going, signposting families to help, while charity shops along the high street and Bath Road give volunteers their first foothold. From Bowerhill to Forest, people give their evenings to sort, drive and serve, and they all want practical kit that wears well."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Melksham, a Melksham Community Larder-supplied community group or a small volunteer-run foodbank in Trowbridge"
+  },
+  "seaham": {
+    "region": "Seaham, County Durham",
+    "nearby": ["Sunderland", "Peterlee", "Houghton le Spring"],
+    "s1_head": "Charity and volunteer kit for Seaham",
+    "s1loc": [
+      "Seaham draws on a strong East Durham network. The East Durham Trust runs the FEED project, distributing thousands of emergency food parcels through a team of volunteers and paying their travel expenses, with drop-off points and its Community House at the heart of it. County Durham Foodbank serves people referred in crisis across the area. The big food-redistribution and foodbank networks help keep parcels stocked, and County Durham volunteering services connect residents to hands-on roles the whole year through.",
+      "The sector here runs at every size. National and regional charities trade on Church Street and Byron Place with central buying behind them, while St Benedict's Hospice runs charity shops and a retail warehouse in Seaham that funds its care. Alongside them sit small community groups, pantries and volunteer-run projects on a shoestring across Parkside, Deneside and Dawdon. We are glad to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Other help reaches across this former pit town and its terraces. St Benedict's Hospice depends on its Seaham warehouse and free furniture collections to raise funds, and the nearby St Cuthbert's and Willow Burn hospices add to North East charity retail. Community centres and church halls run lunch clubs and warm spaces, and mutual-aid volunteers carry parcels to doors. From the seafront and the Marina to New Seaham and Eastlea, residents give their time to sort, lift and deliver, and they need kit tough enough for it."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Seaham, an East Durham Trust-supplied community group or a small volunteer-run foodbank in Peterlee"
+  },
+  "horwich": {
+    "region": "Horwich, Greater Manchester",
+    "nearby": ["Bolton", "Chorley", "Wigan"],
+    "s1_head": "Charity and volunteer kit for Horwich",
+    "s1loc": [
+      "Horwich runs on a close-knit set of local groups. Horwich Foodshare operates from Rivington House, and the Horwich and District Hub provides food parcels as stop-gap support in serious need. The Horwich and Blackrod Over 50s Food Bank delivers to older residents who need a hand, while Bolton CVS connects volunteers to roles across the area. The big food-redistribution and foodbank networks help keep stock moving, and much of the effort rests on unpaid hands giving time week in, week out.",
+      "The sector here runs at every size. National and regional charities keep Lee Lane shops with central buying behind them, and across nearby Bolton groups like Urban Outreach, Bolton NICE and Emmaus Bolton run foodbanking and social enterprise staffed largely by volunteers. Against that sit small community groups, the over-50s food bank and volunteer-run projects on a shoestring around Horwich, Blackrod and Lostock. We are glad to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "More support spreads through the town below the moors. Bolton Hospice and its shops draw volunteers from across the borough, and charity shops along Lee Lane give people their first role sorting and serving. Church halls, community centres and mutual-aid groups run lunch clubs and warm spaces, and good-neighbour schemes carry shopping to those who cannot get out. From Horwich town centre and Brazley to Blackrod, residents give their time to stack, drive and welcome, and they all want kit that holds up to the work."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Horwich, an Urban Outreach-supplied community group or a small volunteer-run foodbank in Bolton"
+  },
+  "hailsham": {
+    "region": "Hailsham, East Sussex",
+    "nearby": ["Eastbourne", "Bexhill-on-Sea", "Hastings"],
+    "s1_head": "Charity and volunteer kit for Hailsham",
+    "s1loc": [
+      "Hailsham backs its sector with committed volunteers. Hailsham Foodbank, part of the Trussell network, opens at Market Square four mornings a week, with around forty trained volunteers preparing parcels and listening to clients. The Hailsham Volunteer Hub, a project run by the foodbank, helps other local groups find the help they need. The big food-redistribution and foodbank networks keep stock coming, and Community Action East Sussex links residents to roles across the district the year round.",
+      "The sector here runs at every size. National and regional charities hold Vicarage Field and George Street shops with central buying behind them, while St Wilfrid's Hospice in Eastbourne runs shops serving Hailsham, including a unit at The Quintins, to fund care across the area. Alongside them sit small community groups, the foodbank, pantries and volunteer-run projects on a shoestring across the town centre and Hawkswood. We are glad to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Further help reaches out from the market town across the Weald. St Wilfrid's Hospice raises much of its funding from local donations and its East Sussex shops, and charity shops cluster along the High Street and Vicarage Field. Church halls and community centres run lunch clubs and warm spaces, and mutual-aid and good-neighbour groups stepped up in hard times and stayed. From the town centre and Hellingly to Magham Down and Herstmonceux, people give hours to sort, drive and welcome, and they all need kit that copes with real days."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Hailsham, a St Wilfrid's Hospice-supplied community group or a small volunteer-run foodbank in Eastbourne"
+  },
+  "chesham": {
+    "region": "Chesham, Buckinghamshire",
+    "nearby": ["Hemel Hempstead", "Berkhamsted", "Aylesbury"],
+    "s1_head": "Charity and volunteer kit for Chesham",
+    "s1loc": [
+      "Chesham relies on a well-rooted local sector. Chiltern Foodbank, based on The Broadway off the High Street, gives three days of emergency food to people referred in crisis, covering Chesham, Amersham, the Chalfonts and beyond. The Chesham Community Fridge shares surplus food behind Broadway Baptist Church on Wednesday and Saturday mornings. The big food-redistribution and foodbank networks keep stock flowing, and Volunteer Bucks and the Buckinghamshire Food Partnership help match people to roles across the Chilterns.",
+      "The sector here runs at every size. National and regional charities keep High Street shops with central buying behind them, while Rennie Grove Peace Hospice Care runs a Chesham shop and the Hospice of St Francis trades at Greenway, both funding care across Bucks and Herts. Around them sit small community groups, the community fridge and volunteer-run projects on a shoestring across Newtown and Waterside. We are glad to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "More help threads through the valley town beyond the foodbank. Rennie Grove Peace Hospice Care welcomes volunteers from fourteen upwards into its Chesham shop, and the Hospice of St Francis puts every penny of its Greenway profits into hospice care. Charity shops line the High Street and the Broadway, and church halls and community centres run lunch clubs and warm spaces. Mutual-aid and good-neighbour groups grew in hard times and carried on. From Pond Park and Hilltop to Waterside, residents give time to sort, drive and serve, and they all want kit that lasts."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Chesham, a Chiltern Foodbank-supplied community group or a small volunteer-run foodbank in Hemel Hempstead"
+  }
+}

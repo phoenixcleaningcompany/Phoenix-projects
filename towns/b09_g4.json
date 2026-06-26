@@ -1,0 +1,86 @@
+{
+  "godalming": {
+    "region": "Godalming, Surrey",
+    "nearby": ["Guildford", "Farnham", "Aldershot"],
+    "s1_head": "Godalming charities and volunteers",
+    "s1loc": [
+      "Godalming and Villages Community Store runs as a foodbank with a difference, food and supplies for the community from the community, while Godalming Minster Foodbank distributes non-perishable food and household items to registered families. The big food-redistribution networks reach the area through FareShare Sussex and Surrey, whose roughly 170 volunteers supply more than 140 charities and community groups. Surrey Food Bank, Christopher's children's hospice in Guildford and Voluntary Action South West Surrey all draw local people into hands-on volunteering across the town.",
+      "The sector runs at every size here. National and regional charities keep shops and central buying behind them, from the British Red Cross shop and Age UK at 106 High Street to A Novel Idea, the volunteer-run charity book and record shop on Queen Street. Alongside them sit small community groups, the Minster foodbank, church-run pantries and volunteer-run projects working on a shoestring across the High Street, Farncombe and Busbridge. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online, no minimum.",
+      "Voluntary Action South West Surrey acts as the local volunteer centre, pointing residents toward roles from befriending to warehouse sorting. Christopher's, the Shooting Star children's hospice site near Guildford, relies on volunteers to assist its care team, and its charity shops feed the wider giving economy. Godalming Town Council lists the registered charities and charity shops clustered around the High Street and Church Street, while mutual-aid and church groups in Farncombe and Binscombe quietly back the foodbank rotas, collections and community meals that hold the town together."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Godalming, a FareShare Sussex and Surrey-supplied community group or a small volunteer-run foodbank in Guildford"
+  },
+  "sandhurst": {
+    "region": "Sandhurst, Berkshire",
+    "nearby": ["Camberley", "Bracknell", "Wokingham"],
+    "s1_head": "Sandhurst charities and volunteers",
+    "s1loc": [
+      "Sandhurst leans on a tight web of volunteer-run support. The Darby Green Foodbank Centre recruits volunteer duty drivers to collect and distribute food parcels, and Thames Hospice runs a Sandhurst shop staffed by volunteers. Sandhurst Day Centre, a registered charity created in 1989 to give older residents daily facilities, raises a large share of its income through its charity shop on the High Street. The big food-redistribution and foodbank networks back these efforts behind the scenes across the town.",
+      "The sector runs at every size. National and regional charities such as Sue Ryder and Thames Hospice keep shops and central buying behind them, while small community groups, the day centre, church pantries and volunteer-run projects work on a shoestring across College Town, Owlsmoor and Little Sandhurst. Nearby Camberley adds a Repair Cafe with front-desk and floater volunteers reflecting the area's mutual-aid culture. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online, no minimum.",
+      "Sandhurst sits on the Berkshire and Surrey edge, so its volunteers often share resources with Camberley and Yateley. Sue Ryder's Sandhurst shop welcomes people who can spare a few hours a week, the Sandhurst Day Centre keeps older residents connected, and the Darby Green centre anchors emergency food. Local churches in College Town and Owlsmoor host collection points and warm spaces, and Camberley Repair Cafe draws Sandhurst residents into fixing rather than binning, a quietly practical strand of the town's community and mutual-aid life."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Sandhurst, a FareShare-supplied community group or a small volunteer-run foodbank in Camberley"
+  },
+  "woodley": {
+    "region": "Woodley, Berkshire",
+    "nearby": ["Reading", "Wokingham", "Bracknell"],
+    "s1_head": "Woodley charities and volunteers",
+    "s1loc": [
+      "Woodley Foodbank, part of the Pilot Light Trust set up by the town's churches in 1997, distributes around 50 emergency food parcels a week, collected at the Baptist Church on Hurricane Way and donated to at Emmanuel Church on South Lake Crescent. Berkshire Community Foundation has backed the foodbank, and Woodley Town Council works with the Reading Road Tenants' Association and Launchpad on allotment plots whose produce reaches Reading foodbank Readifood. Volunteer rotas keep all of it running.",
+      "The sector runs at every size. National and regional charities keep shops and central buying behind them across Reading and Wokingham, while small community groups, the Pilot Light Trust foodbank, community fridges and volunteer-run projects work on a shoestring across Woodley Town Centre, Coronation Square, Earley and Loddon Bridge. Readifood and Launchpad redistribute fresh garden produce to foodbanks, soup kitchens and community fridges. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online, no minimum.",
+      "Woodley's giving network spreads through its churches and the wider Reading area. Reading Lions Club has supported the local community for years, Launchpad tackles homelessness across Reading, and the allotment growing scheme links corporate volunteers with vulnerable families. Donation points sit in shops around Coronation Square and Headley Road, while church groups at Emmanuel and the Baptist Church staff the foodbank rota. Mutual-aid and community fridge projects in Earley and Lower Earley round out a town that quietly feeds and supports its own neighbours."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Woodley, a Readifood-supplied community group or a small volunteer-run foodbank in Reading"
+  },
+  "crowborough": {
+    "region": "Crowborough, East Sussex",
+    "nearby": ["Tunbridge Wells", "Hailsham", "Haywards Heath"],
+    "s1_head": "Crowborough charities and volunteers",
+    "s1loc": [
+      "Crowborough Foodbank, part of the Trussell Trust network, relies on local donations, volunteers and finances, with warehouse volunteers weighing, sorting and storing food before it becomes parcels. Crowborough Community Pantry runs free, no-questions food sessions at Beechview Parade most days of the week. Hospice in the Weald, whose first permanent shop opened on Camden Road in Tunbridge Wells in 1985, runs a charity shop in Crowborough stocked with clothes, books, home decor and furniture and staffed by dedicated volunteers.",
+      "The sector runs at every size. National and regional charities such as Hospice in the Weald keep shops and central buying behind them, while small community groups, the Trussell-affiliated foodbank, the community pantry and volunteer-run projects work on a shoestring across Jarvis Brook, St John's and the town centre. Crowborough Town Council lists the groups, clubs and volunteering that hold it together. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online, no minimum.",
+      "Crowborough sits high on the edge of Ashdown Forest, and its volunteers draw on the wider Wealden and Tunbridge Wells networks. The Wealden Hub points residents toward local support, Hospice in the Weald's shops including Bargains and Treasures feed the giving economy, and the Beechview Parade pantry offers a warm, judgement-free welcome. Church and mutual-aid groups across Jarvis Brook and St John's staff the foodbank rotas and collections, while community larders and warm spaces in nearby Tunbridge Wells extend the safety net for families across the area."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Crowborough, a FareShare-supplied community group or a small volunteer-run foodbank in Tunbridge Wells"
+  },
+  "caterham": {
+    "region": "Caterham, Surrey",
+    "nearby": ["Redhill", "Reigate", "Croydon"],
+    "s1_head": "Caterham charities and volunteers",
+    "s1loc": [
+      "Caterham and District Foodbank, part of the Trussell Trust network, relies on local donations, volunteering and finances, operating from Caterham Baptist Church on Beechwood Road and Sacred Heart Church on Essendene Road. Voluntary Action Surrey East, formed from the merger of Tandridge Voluntary Action and Voluntary Action Reigate and Banstead, coordinates volunteers across the district. The big food-redistribution and foodbank networks back the parcels, while local people fill the warehouse and welcome-desk rotas week in, week out.",
+      "The sector runs at every size. National and regional charities keep shops and central buying behind them across Caterham, Redhill and Croydon, while small community groups, the district foodbank, church pantries and volunteer-run projects work on a shoestring across Caterham on the Hill, Caterham Valley, Whyteleafe and Warlingham. Loveworks supports families through food collections and volunteer days in the Reigate and Redhill area. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online, no minimum.",
+      "Caterham's parishes, Caterham on the Hill, Caterham Valley, Chaldon, Warlingham, Whyteleafe and Woldingham, share a busy voluntary life. East Surrey Domestic Abuse Services covers Mole Valley, Reigate and Banstead and Tandridge, Citizens Advice Tandridge District advises across the area, and Tandridge Voluntary Action backs the faith and community sectors. Neighbourhood Watch groups, church halls and mutual-aid networks across Whyteleafe and Warlingham host collections and warm spaces, while the Redhill foodbank at St Matthew's on Station Road extends help for families right across east Surrey."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Caterham, a FareShare-supplied community group or a small volunteer-run foodbank in Croydon"
+  },
+  "wellington": {
+    "region": "Wellington, Somerset",
+    "nearby": ["Taunton", "Bridgwater", "Tiverton"],
+    "s1_head": "Wellington charities and volunteers",
+    "s1loc": [
+      "The StoreHouse, Wellington and District Foodbank, operates from Wellington Pentecostal Church on Niles Street, handing out bread and baked goods, dairy, meat, fresh fruit and vegetables, non-perishable items and hygiene and infant supplies for free. The Best Before Food Store runs Tuesday afternoons at The Well Christian Centre in Rockwell Green, part of the Somerset Local Pantry network. That network grew from a partnership of Somerset Council, community groups and food charities FareShare South West and Action Against Hunger, and now works directly with FareShare South West.",
+      "The sector runs at every size. National and regional charities keep shops and central buying behind them, with St Margaret's Hospice running a big, well-stocked Wellington shop among its 32 Somerset shops, plus Children's Hospice South West and Sue Ryder shops in the town. Alongside them, small community groups, the StoreHouse foodbank, the Best Before store and volunteer-run projects work on a shoestring across Rockwell Green, Tonedale and the town centre. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online, no minimum.",
+      "Wellington's giving life threads through its churches and the wider Taunton Deane area. Taunton Foodbank, part of the Trussell Trust network, runs a Wellington distribution centre, and the Rowbarton Local Pantry in Taunton extends the same pantry model. St Margaret's Hospice and Children's Hospice South West shops anchor the High Street and Fore Street, raising income through volunteer hours. Church and mutual-aid groups in Rockwell Green and Tonedale staff the foodbank rotas, while the Samaritans of Taunton and Somerset support people in crisis right across the district."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Wellington, a FareShare South West-supplied community group or a small volunteer-run foodbank in Taunton"
+  },
+  "bathgate": {
+    "region": "Bathgate, West Lothian",
+    "nearby": ["Livingston", "Falkirk", "Airdrie"],
+    "s1_head": "Bathgate charities and volunteers",
+    "s1loc": [
+      "West Lothian Foodbank, part of the Trussell Trust network, has its headquarters on Inchmuir Road at the Whitehill Industrial Estate in Bathgate, running over 150 volunteers, seven distribution centres, warehouses and a charity shop. Started in 2012 by Whitburn Pentecostal Church, it provides three days of nutritionally balanced emergency food to people referred in crisis. The Voluntary Sector Gateway West Lothian, based on King Street in Bathgate, and Cyrenians West Lothian draw local people into hands-on volunteering across the town.",
+      "The sector runs at every size. National and regional charities keep shops and central buying behind them across Bathgate, Livingston and Armadale, while small community groups, the West Lothian Foodbank network, the School Bank West Lothian and volunteer-run projects work on a shoestring across George Street, the town centre and the surrounding villages. West Lothian Citizens Advice Bureau runs a Banking on the Basics scheme. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online, no minimum.",
+      "Bathgate sits at the heart of a busy West Lothian voluntary network. The Voluntary Sector Gateway West Lothian coordinates volunteering across the district, the Blackburn Foundation runs community projects and recruits volunteers nearby, and the School Bank West Lothian supplies clothing and essentials to families. Charity shops cluster in Livingston and the town centre, while church and mutual-aid groups across Armadale, Whitburn and Blackburn staff the foodbank distribution centres, collections and warm spaces that keep emergency food and support reaching people right across the county."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Bathgate, a FareShare-supplied community group or a small volunteer-run foodbank in Livingston"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "falmouth": {
+    "region": "Falmouth, Cornwall",
+    "nearby": ["Truro", "Penzance", "Camborne"],
+    "s1_head": "Falmouth charities and volunteer groups",
+    "s1loc": [
+      "Falmouth and neighbouring Penryn are served by the Penryn and Falmouth Foodbank, run since 2009 by Highway Church and Christian supporters and affiliated to the Trussell network, handing out emergency parcels to people referred in crisis. Donation boxes sit in Asda, the Natural Store, Falmouth Methodist Church and the Boslowick Co-op, with food gathered every Monday morning. Cornwall Hospice Care, FareShare South West surplus and the big food-redistribution and foodbank networks all feed into the local effort across the town.",
+      "The sector here runs at every size. National and regional charities keep shops and central buying behind them - Cornwall Hospice Care runs the largest charity shop in the town plus a Retro store, alongside RNLI on The Moor, Sue Ryder, Barnardo's and Cancer Research UK - while at the other end small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Boslowick, the town centre and Penryn. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online, no minimum.",
+      "Beyond the foodbank itself, Falmouth leans on the Cornwall Hospice Care donation point and Penryn shop on Commercial Road, whose volunteers help raise the more than one million pound a year that funds Mount Edgcumbe and St Julia's hospices. FX Plus students at the Penryn campus run regular foodbank collections, the Methodist and Baptist congregations host their own help, and mutual-aid and community fridge schemes thread through Boslowick and Falmouth town. It is a patchwork of named charities and tiny volunteer crews, each kitting out its own people."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Falmouth, a FareShare South West-supplied community group or a small volunteer-run foodbank in Truro"
+  },
+  "camborne": {
+    "region": "Camborne, Cornwall",
+    "nearby": ["Truro", "Falmouth", "Penzance"],
+    "s1_head": "Camborne charities and volunteer groups",
+    "s1loc": [
+      "Camborne sits at the heart of the CPR area, where Transformation CPR runs six foodbank sessions a week across three sites in Camborne and Redruth from the Centenary Centre on Centenary Street. The charity averages 400 families a month and 14,000 to 16,000 meals, and pairs its parcels with four Community Hubs that bring in advice and support. FareShare South West surplus and the big food-redistribution and foodbank networks help keep the shelves stocked for people in hardship.",
+      "The sector here runs at every size. National and regional charities carry shops and central buying - Cornwall Hospice Care keeps a store on Trelowarren Street whose volunteers help raise over one million pound a year for the county's two hospices - while at the other end small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Pool, Tuckingmill and the town centre. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online, no minimum.",
+      "Camborne's wider effort runs through the Centenary Methodist Church congregation and the Camborne, Redruth and Hayle Methodist Circuit, which host foodbank and community work, while Volunteer Cornwall lists the CPR Foodbank roles that keep it running. The Community Hubs draw in dozens of unpaid helpers for cooking, sorting and befriending, charity shops line Trelowarren Street and Commercial Street, and grassroots groups across Pool and Beacon top up the formal charities with hands-on neighbourly help."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Camborne, a FareShare South West-supplied community group or a small volunteer-run foodbank in Truro"
+  },
+  "tiverton": {
+    "region": "Tiverton, Devon",
+    "nearby": ["Exeter", "Exmouth", "Barnstaple"],
+    "s1_head": "Tiverton charities and volunteer groups",
+    "s1loc": [
+      "Tiverton's safety net is anchored by the Churches Housing Action Team, CHAT Mid Devon, whose foodbank runs five days a week from its Tiverton base alongside free housing, debt and money advice, reaching out to Crediton, Cullompton and Uffculme each week. The Tiverton Community Larder at Tiverton Library puts free food on the shelves most days for anyone in the community. FareShare surplus and the big food-redistribution and foodbank networks feed both the larder and the parcels handed out.",
+      "The sector here runs at every size. National and regional charities carry shops and central buying - Hospiscare runs the town's largest charity shop on Market Walk, with Children's Hospice South West, Sue Ryder, Marie Curie and the British Heart Foundation all keeping stores in the market town - while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Westexe, Elmore and the town centre. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online, no minimum.",
+      "Beyond CHAT and the library larder, Tiverton's charity shops form a fundraising spine, with Hospiscare welcoming volunteers for a few hours or a regular shift and Children's Hospice South West selling homeware, clothing and toys to fund family care. The Mid Devon community support directory threads together church-run groups, mutual-aid schemes and volunteer drivers across Tiverton, Cullompton and Crediton, so a tiny shoestring project and a county hospice retailer sit side by side in the same town."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Tiverton, a FareShare-supplied community group or a small volunteer-run foodbank in Exeter"
+  },
+  "stamford": {
+    "region": "Stamford, Lincolnshire",
+    "nearby": ["Peterborough", "Grantham", "Spalding"],
+    "s1_head": "Stamford charities and volunteer groups",
+    "s1loc": [
+      "Stamford's frontline help runs through Stamford and Oundle Foodbank, based at the All Saints and St John's Unity Centre on West Street and long run from St George's Church office, where volunteers are described as the life blood of the operation. Alongside it, Second Helpings runs a pay-what-you-feel cafe, pantry and Community Fridge under Stamford Methodist Church between Barn Hill and North Street, redistributing surplus from local suppliers and supermarkets. FareShare and the big food-redistribution and foodbank networks help keep both stocked.",
+      "The sector here runs at every size. National and regional charities carry shops and central buying - Sue Ryder runs its Thorpe Hall hospice shop and town stores, with Age UK Lindsey and other names raising funds through Stamford's many charity shops - while at the other end small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across the town centre, the Welland estate and the riverside. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online, no minimum.",
+      "Sue Ryder Thorpe Hall Hospice draws strong Stamford support, with the town's Santa Fun Run among the events raising money for its palliative care across Stamford, Rutland and Peterborough, and its courtyard shop in converted stone outbuildings staffed by volunteers. South Kesteven District Council's food help directory ties together church pantries, the community fridge and mutual-aid groups, while charity shops cluster along the High Street and St Mary's Street, each volunteer-run team backing causes from heart research to local hospice care."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Stamford, a FareShare-supplied community group or a small volunteer-run foodbank in Peterborough"
+  },
+  "retford": {
+    "region": "Retford, Nottinghamshire",
+    "nearby": ["Worksop", "Gainsborough", "Newark"],
+    "s1_head": "Retford charities and volunteer groups",
+    "s1loc": [
+      "Retford is one half of Bassetlaw Food Bank's patch, with a town distribution point at The Well and a Friday market stall on the square, alongside its sister site in Worksop. The charity hands out seven-day emergency food parcels for people in crisis, runs a mobile shop into rural Bassetlaw, a lunch club around Harworth and Bircotes, a community cafe and a fruit and veg box scheme with an allotment and poly tunnel project in Manton. FareShare surplus and the big food-redistribution and foodbank networks back the parcels.",
+      "The sector here runs at every size. National and regional charities carry shops and central buying - Bassetlaw Hospice runs charity shops in Retford and Worksop, with Barnardo's on Carolgate and the British Heart Foundation among the town-centre names - while at the other end small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Ordsall, Carolgate and the rural villages. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online, no minimum.",
+      "Bassetlaw Food Bank leans heavily on volunteer ambassadors, cooks, retail helpers on the Retford market stall and Grow It growers in its poly tunnel, with shifts running from an hour or two a week up to a full day, expenses and training provided. Bassetlaw Hospice shops sell clothes, bric-a-brac and books to fund local end-of-life care, North Notts BID promotes the foodbank's volunteering, and church-led and mutual-aid groups across Ordsall and the Carolgate end round out a town where named charities and tiny crews sit shoulder to shoulder."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Retford, a FareShare-supplied community group or a small volunteer-run foodbank in Worksop"
+  },
+  "belper": {
+    "region": "Belper, Derbyshire",
+    "nearby": ["Ripley", "Alfreton", "Derby"],
+    "s1_head": "Belper charities and volunteer groups",
+    "s1loc": [
+      "Belper's Food and Community Hub, run by Hope for Belper out of Belper Baptist Church, opens between noon and 2pm every Tuesday and Friday, offering a free shared meal or just a tea and a natter with neighbours. Most of its food comes from local people or from FareShare surplus redistributed by the charity's volunteers, and demand has climbed from around 20 to 30 families and individuals a week. Hope for Belper grew out of the nationwide Hope kindness initiative and the big food-redistribution and foodbank networks.",
+      "The sector here runs at every size. National and regional charities carry shops and central buying - Treetops Hospice opened its King Street store as its nineteenth Derbyshire shop, funding free day and home care for over 2,000 people with life-limiting illness - while at the other end small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across King Street, the Markeaton end and the riverside mills. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online, no minimum.",
+      "Treetops Hospice's Belper shop, staffed by volunteers, sits among a run of charity stores down King Street that bankroll care across central and southern Derbyshire, and St Peter's Parish backs both Treetops and Hope for Belper's hub. Hope for Belper's JustGiving community, church congregations and Amber Valley mutual-aid groups keep the free meals and food parcels going, so a county hospice retailer with central buying and a two-day-a-week church food hub draw on the same townsfolk in Belper."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Belper, a FareShare-supplied community group or a small volunteer-run foodbank in Ripley"
+  },
+  "dronfield": {
+    "region": "Dronfield, Derbyshire",
+    "nearby": ["Chesterfield", "Sheffield", "Belper"],
+    "s1_head": "Dronfield charities and volunteer groups",
+    "s1loc": [
+      "Dronfield's best-known charity presence is Ashgate Hospice, whose Ashgate by Design shop at The Forge on Church Street has run since 2009 and is kept going by a manager, a small staff and over 40 volunteers. Ashgate is an independent charity caring free of charge for patients across North Derbyshire at the hospice, in the community and at Chesterfield Royal Hospital, funded by donations, legacies and its shops. FareShare surplus and the big food-redistribution and foodbank networks support food help across the area.",
+      "The sector here runs at every size. National and regional charities carry shops and central buying - Ashgate Hospice runs 17 shops and two coffee shops across North Derbyshire, with Barnardo's in the Civic Centre precinct and a new Lighthouse store in town - while at the other end small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Gosforth Valley, Coal Aston and the town centre. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online, no minimum.",
+      "Beyond Ashgate's Forge shop, Dronfield Town Council runs community space at Gosforth Lodge and the Civic Hall that hosts groups and food projects, and Derbyshire County Council and Rural Action Derbyshire list the affordable-food schemes and foodbanks serving the town. The Forge precinct, the Civic Centre charity shops and church-led and mutual-aid groups across Gosforth Valley and Coal Aston knit together the big hospice retailer and the small volunteer crews into one local effort."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Dronfield, a FareShare-supplied community group or a small volunteer-run foodbank in Chesterfield"
+  }
+}

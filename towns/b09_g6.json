@@ -1,0 +1,86 @@
+{
+  "gainsborough": {
+    "region": "Gainsborough, West Lindsey, Lincolnshire",
+    "nearby": ["Retford", "Lincoln", "Scunthorpe"],
+    "s1_head": "Charity and volunteer life in Gainsborough",
+    "s1loc": [
+      "Gainsborough leans on a practical mix of food and welfare projects. The Gainsborough Salvation Army on Beaumont Street runs a food bank tied into the Lincolnshire Co-op network and the Greater Lincolnshire Food Partnership, which maps foodbanks, community larders and affordable cafes across the county. New Life Church Ministries runs a Community Larder, and West Lindsey District Council points residents toward food support and the big food-redistribution and foodbank networks that keep parcels moving to households in crisis across the town.",
+      "The sector here runs at every size. County-wide names such as St Barnabas Hospice operate charity shops with central buying and trade accounts, sitting alongside national-charity stores on Market Street and Silver Street. At the other end are small community groups, church-run larders, pantries and volunteer-run projects working on a shoestring across districts like Morton, Lea Road and the town centre. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Beyond food, Gainsborough has a steady base of voluntary action. The Trinity Arts Centre hosts community events and fundraisers, the Salvation Army and local churches run welfare drop-ins, and Voluntary Centre Services support smaller groups across West Lindsey with volunteer recruitment and governance. Charity shops along the high street raise money for hospice and national causes, while mutual-aid and befriending volunteers cover neighbourhoods such as Thonock and the riverside estates. It is a town where small, named, volunteer-led projects do a lot of the heavy lifting."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Gainsborough, a Greater Lincolnshire Food Partnership-supplied community group or a small volunteer-run foodbank in Lincoln"
+  },
+  "renfrew": {
+    "region": "Renfrew, Renfrewshire",
+    "nearby": ["Paisley", "Glasgow", "Clydebank"],
+    "s1_head": "Charity and volunteer life in Renfrew",
+    "s1loc": [
+      "Renfrew sits inside a strong Renfrewshire-wide support network. Renfrewshire Foodbank, with a small staff team and well over a hundred volunteers, distributes three-day emergency parcels and runs a Renfrew session at Renfrew Baptist Church on Paisley Road, alongside its Paisley and Johnstone points. It draws on the big food-redistribution and foodbank networks to keep its warehouse stocked, while ROAR supports older people with shopping, prescriptions and wellbeing calls right across the burgh.",
+      "The sector here works at every scale. National and regional charities run shops with central buying and trade accounts along Renfrew High Street and the Ferry area, while Engage Renfrewshire acts as the local hub for the third sector. Beneath them sit small community groups, church halls, pantries and volunteer-run projects stretching a thin budget across neighbourhoods like Blythswood, Moorpark and Dean Park. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Volunteering runs deep in Renfrew. Engage Renfrewshire brokers placements and supports constituted groups, while LEAP and other local resource projects connect residents to food, fuel and finance help. Church-based volunteers staff the Baptist Church distribution, community centres host warm spaces and lunch clubs, and mutual-aid networks formed during the pandemic still cover streets in Kirklandneuk and the town centre. Renfrew's charity life is a steady blend of established Renfrewshire-wide bodies and small, fiercely local, volunteer-led efforts."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Renfrew, a Renfrewshire Foodbank-supplied community group or a small volunteer-run foodbank in Paisley"
+  },
+  "bellshill": {
+    "region": "Bellshill, North Lanarkshire",
+    "nearby": ["Motherwell", "Hamilton", "Coatbridge"],
+    "s1_head": "Charity and volunteer life in Bellshill",
+    "s1loc": [
+      "Bellshill has built a tight, locally grown safety net. Communities Together runs a food bank from the YMCA building on Main Street, preparing parcels and essentials for collection across the Bellshill, Mossend and Thorniewood areas. Basics Food Bank, a Lanarkshire Christian charity, runs a dignity-led supermarket-voucher model with a base in Bellshill, while the Salvation Army on referral and the Orbiston Neighbourhood Centre food co-op add further routes for households needing emergency food and toiletries.",
+      "The sector here operates at every size. St Andrew's Hospice, the Lanarkshire palliative care charity, runs a shop on Hamilton Road in Bellshill with central buying and trade accounts, sitting alongside national-charity stores in the town centre. Smaller community groups, church halls, YMCA programmes and volunteer-run projects work on a shoestring across Mossend, Orbiston and Thorniewood. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Volunteering powers much of this. YMCA Bellshill and Mossend offers placements at its food bank and youth programmes, and North Lanarkshire's volunteer brokerage links residents to local roles. The Orbiston Neighbourhood Centre has hosted a low-cost food co-op for years, church-run drop-ins provide warm spaces, and mutual-aid groups formed in 2020 still cover streets in the town centre and Mossend. Bellshill's charity life leans heavily on small, named, volunteer-led projects working close to the people they serve."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Bellshill, a Basics Food Bank-supplied community group or a small volunteer-run foodbank in Motherwell"
+  },
+  "shoreham-by-sea": {
+    "region": "Shoreham-by-Sea, Adur, West Sussex",
+    "nearby": ["Worthing", "Brighton", "Hove"],
+    "s1_head": "Charity and volunteer life in Shoreham-by-Sea",
+    "s1loc": [
+      "Shoreham-by-Sea runs a genuinely grassroots food network. The Shoreham and Adur Community Foodbank, a registered charity with no paid staff, is run entirely by volunteers from Huntington Hall on the corner of Gordon Road and Buckingham Road, providing relief from food poverty and a delivery service to the most vulnerable. It works through the Adur and Worthing Food Partnership and the big food-redistribution and foodbank networks alongside Adur and Worthing Councils' wider food support listings.",
+      "The sector here works at every scale. National and regional charities run shops with central buying and trade accounts along Shoreham High Street and East Street, while community works bodies support the smaller groups. Beneath them sit church halls, pantries and volunteer-run projects stretching a tight budget across neighbourhoods like Southwick, Lancing and Shoreham Beach. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Voluntary effort holds it together. CommunityWorks supports constituted groups across Adur, the Adur and Worthing Food Partnership connects residents to food help, and church-based volunteers staff the foodbank's sessions and deliveries. Charity shops along the high street raise funds for hospice and national causes, warm spaces and lunch clubs run from community halls, and mutual-aid networks cover streets from Old Shoreham to the harbour. Shoreham's charity life is overwhelmingly volunteer-led, with small named projects doing the everyday work."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Shoreham-by-Sea, an Adur and Worthing Food Partnership-supplied community group or a small volunteer-run foodbank in Worthing"
+  },
+  "llandudno": {
+    "region": "Llandudno, Conwy, North Wales",
+    "nearby": ["Colwyn Bay", "Rhyl", "Prestatyn"],
+    "s1_head": "Charity and volunteer life in Llandudno",
+    "s1loc": [
+      "Llandudno carries an unusually busy charity scene for its size. Hope Restored, founded by Brenda Fogg and run by volunteers, operates a food bank from Builder Street seven days a week and supports homeless people, issuing hundreds of parcels a month. Conwy Foodbank delivers parcels and clothing from the West Shore, and the Rotary Club of Llandudno backs the Hope Restored appeal. These projects lean on the big food-redistribution and foodbank networks to keep emergency supplies moving across the town.",
+      "The sector here runs at every size. St David's Hospice, the Llandudno-based palliative care charity, runs donation hubs and shops across Conwy with central buying and trade accounts, sitting alongside national-charity stores on Mostyn Street. Smaller community groups, church halls, pantries and volunteer-run projects work on a shoestring across districts like Craig-y-Don, Penrhyn Bay and the West Shore. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Volunteering is the backbone here. Community and Voluntary Support Conwy (CVSC) develops and promotes voluntary action across the county, brokering placements and supporting small groups. St David's Hospice runs volunteer teams such as the Lawn Rangers tending patient gardens, the Rotary Club organises outings for hospice residents at Bodnant, and the Bryn Cadno Centre in Upper Colwyn Bay is a volunteer-run community charity. Llandudno's charity life blends a large hospice operation with tiny, named, volunteer-led food and welfare projects."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Llandudno, a Conwy Foodbank-supplied community group or a small volunteer-run foodbank in Colwyn Bay"
+  },
+  "poulton-le-fylde": {
+    "region": "Poulton-le-Fylde, Wyre, Lancashire",
+    "nearby": ["Blackpool", "Thornton Cleveleys", "Fleetwood"],
+    "s1_head": "Charity and volunteer life in Poulton-le-Fylde",
+    "s1loc": [
+      "Poulton-le-Fylde sits at the heart of a strong Fylde coast charity scene. Trinity Hospice, which provides specialist palliative and end-of-life care across the Fylde coast, has opened a charity shop in Poulton, and Poulton Friends of Trinity Hospice raise money through monthly meetings at Poulton Methodist Church on Queensway. Wyre Council lists local foodbanks and cost-of-living help, and residents lean on the big food-redistribution and foodbank networks for emergency parcels across the town and surrounding villages.",
+      "The sector here works at every size. Trinity Hospice and other national and regional charities run shops with central buying and trade accounts along Poulton's Market Place and Teanlowe Centre, while smaller groups fill the gaps. Beneath them sit church halls, pantries and volunteer-run projects stretching a tight budget across neighbourhoods like Carleton, Singleton and Hardhorn. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Voluntary effort runs throughout the town. Poulton Friends of Trinity Hospice is one of many fundraising support groups, while Wyre and Fylde councils signpost volunteering opportunities and Citizens Advice Lancashire West maps foodbank help. Charity shops around Market Place raise funds for hospice and national causes, church-based volunteers run warm spaces and lunch clubs, and community groups cover Carleton and the town centre. Poulton's charity life pairs a major Fylde coast hospice with small, named, volunteer-led food and welfare projects."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Poulton-le-Fylde, a Trinity Hospice-supplied community group or a small volunteer-run foodbank in Thornton Cleveleys"
+  },
+  "stourport-on-severn": {
+    "region": "Stourport-on-Severn, Wyre Forest, Worcestershire",
+    "nearby": ["Kidderminster", "Bromsgrove", "Droitwich"],
+    "s1_head": "Charity and volunteer life in Stourport-on-Severn",
+    "s1loc": [
+      "Stourport-on-Severn has a busy grassroots food scene. Food Share Wyre Forest and Community Cafe, run by volunteers, shares surplus food to cut waste from the Community Centre on Linden Avenue. The Wyre Forest Food Bank distributes referral-based food boxes through a volunteer delivery service, backed by the National Lottery Community Fund, the Household Support Fund and many local churches. Both lean on the big food-redistribution and foodbank networks to keep parcels and surplus stock moving across the town.",
+      "The sector here runs at every size. KEMP Hospice, the Kidderminster-based charity, runs a shop on Tan Lane in Stourport with central buying and trade accounts, sitting alongside national-charity stores on the High Street and Bridge Street. Smaller community groups, church halls, pantries and volunteer-run projects work on a shoestring across districts like Areley Kings, Lickhill and Wilden. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Volunteering holds this network together. KEMP Hospice describes volunteers as the heart of everything it does, staffing its Tan Lane shop and donation work, while the Wyre Forest Food Bank relies on volunteer drivers and packers. Local churches and the Linden Avenue community cafe run warm spaces and shared meals, and community groups cover Areley Kings and the riverside. Stourport's charity life mixes a county hospice operation with small, named, volunteer-led food-sharing and foodbank projects."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Stourport-on-Severn, a Wyre Forest Food Bank-supplied community group or a small volunteer-run foodbank in Kidderminster"
+  }
+}
