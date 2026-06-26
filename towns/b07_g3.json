@@ -1,0 +1,86 @@
+{
+  "loughton": {
+    "region": "Loughton, Essex",
+    "nearby": ["Romford", "Enfield", "Harlow"],
+    "s1_head": "Loughton charity and volunteer kit",
+    "s1loc": [
+      "Loughton sits in the Epping Forest district, and its charity sector leans on names like the Epping Forest Foodbank on Chigwell Lane, part of the Trussell network, and Loughton Voluntary Care, a volunteer-run charity supporting older and less mobile residents from Loughton Methodist Church for over fifty years. 3food4U runs a volunteer community hub handing out groceries and essentials, while Essex Community Foundation channels grants to small local projects. Volunteer Essex and Voluntary Action Epping Forest connect people to roles right across the district.",
+      "The sector here runs at every size. National charities such as Cancer Research UK and the British Heart Foundation keep shops on the High Road with central buying and trade accounts, alongside St Clare Hospice and Haven House Children's Hospice stores. Set against them are the tiny outfits: one-room foodbanks, a church-run pantry, and mutual-aid groups that run on a shoestring with a handful of volunteers. We are set up to serve the national charity and the one-room foodbank alike, with proper trade accounts and direct online ordering, no minimum.",
+      "Beyond the High Road, the picture fills out across Debden, Buckhurst Hill and Chigwell, where St Clare Hospice reopened its Debden Broadway shop and charity retail keeps a steady volunteer rota. St John the Baptist church runs a food bank ministry, and local churches feed referrals into the wider Epping Forest network. Loughton Town Council's community directory lists residents' groups and befriending schemes, and the Loughton Methodist base anchors several volunteer drivers and visiting projects. It is a mix of established hospice retail and small, neighbourhood-rooted volunteer effort."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Loughton, an Essex Community Foundation-supported community group or a small volunteer-run foodbank in Harlow"
+  },
+  "rutherglen": {
+    "region": "Rutherglen, South Lanarkshire",
+    "nearby": ["Glasgow", "Hamilton", "East Kilbride"],
+    "s1_head": "Rutherglen charity and volunteer kit",
+    "s1loc": [
+      "Rutherglen, on Glasgow's southern edge in South Lanarkshire, has a strong community-development tradition led by Healthy n Happy Community Development Trust, a community-owned charity working to make Rutherglen and Cambuslang the healthiest, happiest places in Scotland. The Rutherglen and Cambuslang Foodbank, part of the Trussell network, provides emergency food to people referred in crisis. Both are governed and run largely by local people, and they sit within a wider mesh of housing-association projects, including those linked to Rutherglen and Cambuslang Housing Association, tackling local inequality and deprivation.",
+      "The sector here runs at every size. National and Scotland-wide charities keep retail shops along Main Street with central buying and trade accounts, while a separate world of small community groups, the foodbank, pantries and volunteer-run projects operates on a shoestring across Burnside, Cambuslang and Halfway. Some are governed by a single committee of neighbours; others are arms of bigger bodies registered with OSCR. We are set up to serve the national charity and the one-room foodbank alike, with proper trade accounts and direct online ordering, no minimum.",
+      "Around the town, Healthy n Happy runs walking groups, youth work and wellbeing projects from community venues, drawing on a register of local volunteers. Church halls and the Trust's hubs host pantry sessions and warm spaces, and faith groups across Burnside and Fernhill feed referrals into the foodbank. South Lanarkshire's directory points residents to befriending and money-advice projects, and mutual-aid networks formed in recent years still run errands and food drops for isolated neighbours. It is grassroots Scottish community organising at its most local, sustained by volunteers."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Rutherglen, a Healthy n Happy-supported community group or a small volunteer-run foodbank in East Kilbride"
+  },
+  "epsom": {
+    "region": "Epsom, Surrey",
+    "nearby": ["Sutton", "Kingston upon Thames", "Croydon"],
+    "s1_head": "Epsom charity and volunteer kit",
+    "s1loc": [
+      "Epsom, in the borough of Epsom and Ewell in Surrey, is anchored by the Epsom and Ewell Foodbank, a Trussell-supported charity founded by local churches that runs centres five days a week in Epsom, Ewell, Banstead, Tadworth and Leatherhead from its Ruxley Lane depot. Princess Alice Hospice is a major local presence, with a busy charity-shop estate and volunteer drivers, while the Mary Frances Trust supports mental health and emotional wellbeing across Surrey. Good Company coordinates much of the food and poverty response locally.",
+      "The sector here runs at every size. National charities and Princess Alice Hospice keep shops on Church Street and across Epsom with central buying and trade accounts, while small community groups, the foodbank distribution centres, pantries and volunteer-run projects work on a shoestring across Ewell, Banstead and Tadworth. Some have paid coordinators; many are run entirely by volunteers weighing, sorting and handing out parcels. We are set up to serve the national charity and the one-room foodbank alike, with proper trade accounts and direct online ordering, no minimum.",
+      "Beyond the high street, Princess Alice Hospice recruits retail and driver volunteers from Epsom, Ewell, Ashtead and Tadworth, and its furniture store handles homeware donations. The foodbank fields ad-hoc drivers for collections and staffs stands at community events and charity collection days. Local churches across Stoneleigh and Worcester Park feed referrals in, and Surrey's volunteering networks point residents to befriending and advice roles. It is a blend of well-run hospice retail and small, neighbourhood-level volunteer projects sharing the same patch."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Epsom, a Good Company-supported community group or a small volunteer-run foodbank in Sutton"
+  },
+  "staines": {
+    "region": "Staines-upon-Thames, Surrey",
+    "nearby": ["Feltham", "Twickenham", "Slough"],
+    "s1_head": "Staines charity and volunteer kit",
+    "s1loc": [
+      "Staines-upon-Thames sits in the borough of Spelthorne in Surrey, where the MANNA Foodbank is a leading charity, delivering tailored food parcels of household essentials to local families and individuals in emergency need. Voluntary Support North Surrey connects volunteers to roles across Spelthorne and Runnymede, and Spelthorne RentStart works to combat homelessness. The council-coordinated Spelthorne Food and Welfare Network brings together the borough's five food banks with Surplus to Supper, Citizens Advice, Home-Start Spelthorne and Voluntary Support North Surrey to act as one voice for residents in need.",
+      "The sector here runs at every size. National charities keep retail shops along the Staines high street with central buying and trade accounts, while small community groups, the borough's food banks, pantries and volunteer-run projects operate on a shoestring across Ashford, Stanwell and Shepperton. Surplus to Supper rescues surplus food for redistribution; Staines Rotary and church teams run collections. We are set up to serve the national charity and the one-room foodbank alike, with proper trade accounts and direct online ordering, no minimum.",
+      "Across the borough, Voluntary Support North Surrey runs befriending, community-transport and food-bank donation drives, and Home-Start Spelthorne supports struggling families through home-visiting volunteers. The Food and Welfare Network streamlines referrals between the five food banks so people are not turned away, and warm-space and pantry sessions run from church halls in Stanwell and Sunbury. Mutual-aid groups that formed locally still help isolated neighbours. It is a coordinated but deeply volunteer-driven response, mixing borough-wide bodies with one-room projects."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Staines, a Surplus to Supper-supplied community group or a small volunteer-run foodbank in Feltham"
+  },
+  "chichester": {
+    "region": "Chichester, West Sussex",
+    "nearby": ["Bognor Regis", "Littlehampton", "Worthing"],
+    "s1_head": "Chichester charity and volunteer kit",
+    "s1loc": [
+      "Chichester, the cathedral city of West Sussex, hosts Stonepillow, a homelessness charity running since 1989 with day hubs in Chichester and Bognor Regis, hostels and supported accommodation across the district. The Chichester District Foodbank, part of the Trussell network, provides emergency food to people in crisis, and UKHarvest, founded near Chichester in 2017, rescues surplus food from farms, supermarkets and festivals to stock community food hubs and pop-up pantries. The Sussex Snowdrop Trust funds nursing for children with life-threatening illness across the area.",
+      "The sector here runs at every size. National charities and the British Heart Foundation keep shops in the city centre with central buying and trade accounts, while small community groups, the district foodbank, UKHarvest pantries and volunteer-run projects work on a shoestring across Selsey, Tangmere and Oving. Some have warehouses and rotas; others are a single church hall opening once a week. We are set up to serve the national charity and the one-room foodbank alike, with proper trade accounts and direct online ordering, no minimum.",
+      "Out across the district, UKHarvest runs pop-up pantries at Charles Avenue in Chichester, East Beach Evangelical Church in Selsey and Jubilee Hall in Oving, where people fill a bag for a suggested donation, plus community food hubs reusing rescued produce. Chichester Cathedral coordinates community support and food donations, and Stonepillow takes food gifts for its day hubs. Charity shops line North and South Street, and volunteer drivers, befrienders and pantry helpers keep the small projects running. It is food-rescue and grassroots volunteering working alongside established retail."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Chichester, a UKHarvest-supplied community group or a small volunteer-run foodbank in Bognor Regis"
+  },
+  "deal": {
+    "region": "Deal, Kent",
+    "nearby": ["Dover", "Ramsgate", "Canterbury"],
+    "s1_head": "Deal charity and volunteer kit",
+    "s1loc": [
+      "Deal, on the East Kent coast, is served by the Deal Area Foodbank and Pantry, a registered charity running from St Richard's Church and the Trussell network, providing emergency food and a pantry to local people in crisis. Pilgrims Hospices, East Kent's largest hospice charity, keeps a Deal shop and draws on a band of around 1,500 volunteers across the region, with retail staff trained in grief awareness. FareShare Kent redistributes surplus food to charities and community groups, and Pilgrims itself partners with FareShare to support patients and families.",
+      "The sector here runs at every size. National charities and Pilgrims Hospices keep shops along Deal's High Street with central buying and trade accounts, while small community groups, the Deal Area Foodbank and Pantry, and volunteer-run projects operate on a shoestring across Walmer, Mill Hill and Sholden. Some are arms of large regional bodies; others are a single committee opening a church hall. We are set up to serve the national charity and the one-room foodbank alike, with proper trade accounts and direct online ordering, no minimum.",
+      "Around the town, charity shops cluster in Walmer and along the High Street, and the Kent Community Pantry model and FareShare-supplied groups stretch food budgets for residents in need. Pilgrims Hospices recruits retail and support volunteers across the Deal and Sandwich area, while church-run collections feed the foodbank and pantry. Faith groups in Mill Hill and Sholden run warm spaces and food drops, and mutual-aid networks still help isolated neighbours along the coast. It is a coastal mix of regional hospice retail and tiny, neighbourhood-rooted volunteer projects."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Deal, a FareShare-supplied community group or a small volunteer-run foodbank in Dover"
+  },
+  "sevenoaks": {
+    "region": "Sevenoaks, Kent",
+    "nearby": ["Tonbridge", "Tunbridge Wells", "Orpington"],
+    "s1_head": "Sevenoaks charity and volunteer kit",
+    "s1loc": [
+      "Sevenoaks, in west Kent, is home to the Sevenoaks Loaves and Fishes Foodbank, run exclusively by volunteers from the Hall of St John the Baptist church on Quakers Hall Lane, set up over a decade ago by two mothers who found children arriving at school hungry. It hands out long-lasting and fresh food plus hygiene and cleaning products, and runs a free cafe where visiting charities offer further support. West Kent Mind supports mental health and wellbeing across the area, and Involve Kent connects residents to local volunteering roles.",
+      "The sector here runs at every size. National charities keep shops along Sevenoaks High Street with central buying and trade accounts, while small community groups, the Loaves and Fishes foodbank, pantries and volunteer-run projects operate on a shoestring across Riverhead, Dunton Green and Otford. Some are professionally staffed regional charities; others are wholly volunteer-run with a Thursday-afternoon opening. We are set up to serve the national charity and the one-room foodbank alike, with proper trade accounts and direct online ordering, no minimum.",
+      "Beyond the foodbank, charity shops line the High Street, and the Loaves and Fishes free cafe brings in weekly visitors from other charities offering advice. West Kent Mind runs wellbeing groups and recruits volunteers, while church and community teams across Riverhead and Otford run collections and warm spaces. Involve Kent points residents to befriending, driving and committee roles, and local mutual-aid networks still support isolated neighbours. It is a strongly volunteer-led town where a small foodbank and established charity retail share the same compact patch."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Sevenoaks, an Involve Kent-supported community group or a small volunteer-run foodbank in Tonbridge"
+  }
+}

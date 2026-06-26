@@ -1,0 +1,86 @@
+{
+  "burgess hill": {
+    "region": "Burgess Hill, West Sussex",
+    "nearby": ["Haywards Heath", "Crawley", "Horsham"],
+    "s1_head": "Charity and volunteer kit in Burgess Hill",
+    "s1loc": [
+      "Burgess Hill sits in Mid Sussex, and its charity sector is busy. Burgess Hill Community Food Bank, going since 2013, sorts donations and hands out parcels from its premises with satellite points in Hassocks and Hurstpierpoint, all run by volunteers. The Burgess Hill and District Pantry offers a dignified shopping experience, while UKHarvest runs a monthly Community Food Hub at The King's Church. The big food-redistribution and foodbank networks back the work, so demand for affordable, hard-wearing workwear runs through the town all year.",
+      "The sector here runs at every size. National and regional charities keep shops with central buying and trade accounts, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across St Andrews, Victoria, Leylands and Franklands. We are glad to outfit the national charity ordering in bulk and the one-room foodbank alike, with proper trade accounts for the larger names and direct online ordering with no minimum for the smallest group, keeping every pound off the cause.",
+      "There is real depth beyond the food banks. St Peter and St James Hospice runs its charity shop on Church Road, one of nine across Mid Sussex raising funds for community palliative care, and Neighbourly Care fields DBS-checked volunteers for shopping, prescriptions and befriending calls. Community People supports volunteering across the town, and the UKHarvest food hub draws over thirty support agencies. Mutual-aid groups and warm spaces across Hassocks and Hurstpierpoint lean on washable, low-cost kit that puts donors' money where it matters most."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Burgess Hill, a UKHarvest-supplied community group or a small volunteer-run foodbank in Haywards Heath"
+  },
+  "hucknall": {
+    "region": "Hucknall, Nottinghamshire",
+    "nearby": ["Nottingham", "Arnold", "Mansfield"],
+    "s1_head": "Charity and volunteer kit in Hucknall",
+    "s1loc": [
+      "Hucknall sits in the Ashfield district, and its charity sector is well established. Hucknall Engage runs an independent, community-based foodbank supplying food and household items to the town, while Hucknall Food Bank has supported local families for years, spending several hundred pound a week to help around a hundred households a month. St Mary Magdalene Church coordinates a Hucknall Donates collection. The big food-redistribution and foodbank networks back the work, so demand for affordable, hard-wearing workwear runs through the town all year.",
+      "The sector here runs at every size. National and regional charities keep shops along the High Street with central buying and trade accounts, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Beauvale, Titchfield, Broomhill and Butler's Hill. We are glad to outfit the national charity ordering in volume and the one-room foodbank alike, with proper trade accounts for the bigger names and direct online ordering with no minimum for the smallest group, so every pound stays with the cause.",
+      "There is genuine depth here too. Under One Roof, founded in 1998 and run largely by a volunteer management committee, gives community groups a base in the town, and the Hucknall Relief in Need Charity makes small grants to people in hardship in the former urban district. The Hucknall Beauvale Community and Youth Charity supports young people locally, and Nottinghamshire Hospice keeps a charity-shop presence across the county. Volunteer-run warm spaces and mutual-aid groups across Titchfield and Broomhill rely on washable, low-cost kit that keeps donors' money working."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Hucknall, a Hucknall Engage-supplied community group or a small volunteer-run foodbank in Arnold"
+  },
+  "brighouse": {
+    "region": "Brighouse, West Yorkshire",
+    "nearby": ["Halifax", "Huddersfield", "Mirfield"],
+    "s1_head": "Charity and volunteer kit in Brighouse",
+    "s1loc": [
+      "Brighouse has a committed, locally rooted charity scene in Calderdale. Brighouse Central Foodbank, set up by Central Methodist Church after a homeless charity closed, opens every Friday afternoon and covers the HD6 and HX3 postcodes, leaning on a strong team of church members, retired people and student volunteers. Building Bridges Food Hub runs an online social supermarket for a small registration fee. The big food-redistribution and foodbank networks back the work, so demand for affordable, hard-wearing workwear runs through the town all year.",
+      "The sector here runs at every size. National and regional charities keep shops with central buying and trade accounts, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Rastrick, Hipperholme, Clifton and Lightcliffe. We are glad to outfit the national charity ordering in bulk and the one-room foodbank alike, with proper trade accounts for the larger names and direct online ordering with no minimum for the smallest group, keeping every pound off the cause.",
+      "There is real depth beyond the food banks. Overgate Hospice runs four charity shops in Brighouse, including a furniture shop, a Little Stars children's shop and a designer boutique, part of a sixteen-shop network funding palliative care across Calderdale, and hosts a monthly Community Hub group at Hipperholme. Focus4Hope, a Brighouse charity, supports lonely, isolated and food-poor people, while the Salvation Army keeps a presence in the town. Mutual-aid groups and warm spaces across Rastrick and Clifton rely on washable, low-cost kit that puts donors' money where it matters most."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Brighouse, an Overgate Hospice-supplied community group or a small volunteer-run foodbank in Halifax"
+  },
+  "windsor": {
+    "region": "Windsor, Berkshire",
+    "nearby": ["Slough", "Maidenhead", "Bracknell"],
+    "s1_head": "Charity and volunteer kit in Windsor",
+    "s1loc": [
+      "Windsor sits in the Royal Borough of Windsor and Maidenhead, and its charity sector is active. Windsor Foodshare provides emergency food to neighbours in crisis through a volunteer-run distribution team, while RBWM Together signposts food and daily-essentials help across the borough and coordinates local volunteering. The big food-redistribution and foodbank networks back the work, and with major hospices rooted in the area, demand for affordable, hard-wearing workwear runs through the town all year round.",
+      "The sector here runs at every size. National and regional charities keep shops with central buying and trade accounts, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Dedworth, Clewer, Old Windsor and Eton. We are glad to outfit the national charity ordering in volume and the one-room foodbank alike, with proper trade accounts for the bigger names and direct online ordering with no minimum for the smallest group, so every pound stays with the cause.",
+      "There is genuine depth here too. Thames Hospice runs charity and specialist shops across the borough, raising funds for end-of-life care, while Alexander Devine Children's Hospice Service supports families of children with life-limiting conditions across Berkshire and recruits volunteers for its shop and events. RBWM Together draws together volunteering opportunities for the whole borough. Volunteer-run warm spaces and mutual-aid groups across Dedworth and Clewer rely on washable, low-cost kit that keeps donors' money working for the people it is meant to reach."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Windsor, a Windsor Foodshare-supplied community group or a small volunteer-run foodbank in Slough"
+  },
+  "pudsey": {
+    "region": "Pudsey, West Yorkshire",
+    "nearby": ["Leeds", "Bradford", "Guiseley"],
+    "s1_head": "Charity and volunteer kit in Pudsey",
+    "s1loc": [
+      "Pudsey sits in outer west Leeds, and its charity sector is busy. Pudsey Community Project, a volunteer-driven registered charity covering around 20,000 households, runs Pudsey Foodbank with six-day-a-week emergency parcels and a Community Pantry feeding over a hundred households a week, alongside a lunch club and a Reduce Reuse Kids' Clothes scheme. It has a formal agreement with Leeds City Council for the citywide Community Cares Hubs. The big food-redistribution and foodbank networks back the work, so demand for affordable workwear runs through the town all year.",
+      "The sector here runs at every size. National and regional charities keep shops with central buying and trade accounts, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Farsley, Calverley, Swinnow and Tyersal. We are glad to outfit the national charity ordering in bulk and the one-room foodbank alike, with proper trade accounts for the larger names and direct online ordering with no minimum for the smallest group, keeping every pound off the cause.",
+      "There is real depth here too. Sue Ryder runs its Pudsey charity shop, packed with fashion, books and household goods, raising funds for Wheatfields Hospice in Headingley and its expert palliative care. Pudsey Community Project has been recognised by the Lord Mayor of Leeds and the Leeds Compassionate City Awards and thanked by the Lord Lieutenant of West Yorkshire. Mutual-aid groups and warm spaces across Farsley, Rodley and Woodhall rely on washable, low-cost kit that puts donors' money where it matters most."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Pudsey, a Pudsey Community Project-supplied community group or a small volunteer-run foodbank in Leeds"
+  },
+  "bedworth": {
+    "region": "Bedworth, Warwickshire",
+    "nearby": ["Nuneaton", "Coventry", "Rugby"],
+    "s1_head": "Charity and volunteer kit in Bedworth",
+    "s1loc": [
+      "Bedworth sits in the borough of Nuneaton and Bedworth, and its charity sector is well established. Nuneaton Foodbank, launched in 2013, runs centres giving access five days a week to emergency parcels across the borough, while The Healthy Living Network delivers food support, a social supermarket and exercise programmes in priority neighbourhoods. A Warwickshire County Council and Feed the Hungry UK Community Pantry adds further help. The big food-redistribution and foodbank networks back the work, so demand for affordable, hard-wearing workwear runs through the town all year.",
+      "The sector here runs at every size. National and regional charities keep shops with central buying and trade accounts, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Bulkington, Exhall, Goodyers End and Collycroft. We are glad to outfit the national charity ordering in volume and the one-room foodbank alike, with proper trade accounts for the bigger names and direct online ordering with no minimum for the smallest group, so every pound stays with the cause.",
+      "There is genuine depth here too. Mary Ann Evans Hospice runs a charity shop on King Street in Bedworth, one of several across the area funding hospice care, and the Nicholas Chamberlaine Trusts maintain almshouses founded in 1715 for people in need in the town. Volunteer Friends connects people through social activity across Nuneaton and Bedworth, and the Volunteer Centre supports recruitment locally. Mutual-aid groups and warm spaces across Exhall and Goodyers End rely on washable, low-cost kit that keeps donors' money working."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Bedworth, a Healthy Living Network-supplied community group or a small volunteer-run foodbank in Nuneaton"
+  },
+  "rayleigh": {
+    "region": "Rayleigh, Essex",
+    "nearby": ["Wickford", "Basildon", "Southend-on-Sea"],
+    "s1_head": "Charity and volunteer kit in Rayleigh",
+    "s1loc": [
+      "Rayleigh sits in the Rochford district, and its charity sector is busy. Rayleigh Evangelical Church has run an independent foodbank since 2018, and a fortnightly Food Bank Pantry hands out emergency parcels in the town. RRAVS, the Rayleigh and Rochford District Association for Voluntary Service, promotes and supports voluntary groups across the district with grants, training and volunteer recruitment. The big food-redistribution and foodbank networks back the work, so demand for affordable, hard-wearing workwear runs through the town all year.",
+      "The sector here runs at every size. National and regional charities keep shops along the High Street with central buying and trade accounts, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Hockley, Hullbridge, Rochford and Ashingdon. We are glad to outfit the national charity ordering in bulk and the one-room foodbank alike, with proper trade accounts for the larger names and direct online ordering with no minimum for the smallest group, keeping every pound off the cause.",
+      "There is real depth here too. Havens Hospices runs a charity shop on Rayleigh High Street, part of a south and mid Essex network funding free local hospice care through Fair Havens and Little Havens, with a sister shop in nearby Hockley. The Salvation Army keeps a presence in the town, and the Hopeworx Food Hub takes on volunteers for sorting, labelling and collections. Mutual-aid groups and warm spaces across Hockley and Hullbridge rely on washable, low-cost kit that puts donors' money where it matters most."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Rayleigh, a Havens Hospices-supplied community group or a small volunteer-run foodbank in Wickford"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "shipley": {
+    "region": "Shipley, West Yorkshire",
+    "nearby": ["Bradford", "Keighley", "Bingley"],
+    "s1_head": "Charity and volunteer work in Shipley",
+    "s1loc": [
+      "Shipley sits in a busy charity landscape. Shipley Foodbank runs from Shipley Baptist Church as one of the centres of Bradford North Foodbank, a Trussell Trust member drawing volunteers from eight local churches. FareShare Yorkshire, founded in Barnsley in 1998, redistributes surplus food to hundreds of frontline charities and community groups across the region. Together with the wider Bradford emergency food providers listed by the council, these networks keep parcels and meals moving to households across Shipley and the Aire valley.",
+      "The sector here runs at every size. National and regional charities hold high-street shops and central buying accounts, from hospice retailers to the larger fundraising names, while small community groups, pantries and volunteer-run foodbanks work on a shoestring across Windhill, Saltaire and Frizinghall. Bradford North Foodbank alone fields over a hundred volunteers signposting, packing and running its warehouse. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Beyond the food networks, Shipley feeds a strong charity-retail scene. Sue Ryder runs shops in Shipley, Bingley and Keighley raising money for Sue Ryder Manorlands Hospice near Keighley, which cares for people across the Aire and Worth valleys. Carers' Resource supports unpaid carers and bereaved families locally, and the broader Bradford CVS network connects volunteer centres, mutual-aid groups and tiny projects across Windhill and Baildon. These hospices, charity shops and neighbourhood volunteers form a layer of support distinct from the foodbanks themselves."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Shipley, a FareShare Yorkshire-supplied community group or a small volunteer-run foodbank in Bingley"
+  },
+  "frome": {
+    "region": "Frome, Somerset",
+    "nearby": ["Trowbridge", "Bath", "Melksham"],
+    "s1_head": "Charity and volunteer work in Frome",
+    "s1loc": [
+      "Frome punches above its weight on community food and charity. The Community Fridge, run by Edventure Frome with Frome Town Council, was the very first of its kind in the UK back in 2015, with volunteers led by manager Terri Pitts collecting surplus daily for two larder sites at the Cattle Market car park and behind the Town Hall. Fair Frome runs an emergency Food Bank three mornings a week across the BA11 area, allocating parcels through local health, school and support-agency referrals.",
+      "The sector here runs at every size. National and regional charities keep high-street shops and central buying accounts, including Dorothy House Hospice Care with its furniture and electrical shop at Wessex Fields, while small community groups, pantries and volunteer-run foodbanks work on a shoestring across Keyford, Welshmill and the BA11 estates. Fair Frome's volunteers collect at supermarkets, sort, deliver parcels and run the furniture bank. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Frome's voluntary scene runs wider still. Fair Frome's Furniture Bank supplies beds, white goods and household basics, repairing cookers and washing machines through a local business, and runs a community garden and Food at 5 sessions. Edventure Frome trains people to start social enterprises across Frome and Taunton, and Frome Town Council's Volunteer Frome scheme links residents to dozens of small projects. Dorothy House's charity shops and the town's many independent charity shops add a retail layer distinct from the fridges and foodbank."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Frome, a Community Fridge-supplied volunteer group or a small volunteer-run foodbank in Trowbridge"
+  },
+  "gosforth": {
+    "region": "Gosforth, Newcastle upon Tyne",
+    "nearby": ["Newcastle upon Tyne", "Gateshead", "Whitley Bay"],
+    "s1_head": "Charity and volunteer work in Gosforth",
+    "s1loc": [
+      "Gosforth, a northern suburb of Newcastle upon Tyne, is home to St Oswald's Hospice, which cares for adults, young people and children across the North East and runs a flagship charity shop on Gosforth High Street alongside 23 shops region-wide. Newcastle Foodbank, an anti-poverty charity founded in 2013 in the city's west end, runs emergency food hubs and Community Pantries across the city. The Gosforth and Jesmond Community Minibus and the Gosforth Community Foundation give the suburb its own volunteer backbone.",
+      "The sector here runs at every size. National and regional charities keep high-street shops and central buying accounts, from St Oswald's and the larger fundraising names to FoodCycle community meals, while small community groups, pantries and volunteer-run foodbanks work on a shoestring across Gosforth, Jesmond, Byker and the West End. Newcastle Foodbank relies on volunteers to distribute parcels, run the warehouse and staff Pantry sessions. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Newcastle's wider voluntary scene reaches into Gosforth too. The People's Kitchen has served hot meals to people in need in the city for over thirty years, Volunteer Centre Newcastle matches residents to foodbank and community roles, and FoodCycle Byker cooks free community meals from surplus. St Oswald's runs furniture, books and electrical shops as well as fashion, and the Gosforth Community Foundation supports neighbourhood projects, giving the suburb a layer of hospices, charity shops and mutual-aid groups distinct from the city foodbanks."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Gosforth, a FareShare-supplied community group or a small volunteer-run foodbank in Newcastle upon Tyne"
+  },
+  "pontypool": {
+    "region": "Pontypool, Torfaen",
+    "nearby": ["Cwmbran", "Newport", "Pontypridd"],
+    "s1_head": "Charity and volunteer work in Pontypool",
+    "s1loc": [
+      "Pontypool sits at the heart of Torfaen's voluntary sector. Eastern Valley Foodbank provides emergency food and support to local people in crisis, working with Citizens Advice, Torfaen council and Bron Afon and Melin housing officers, with a centre at the Hope Centre in Pontnewynydd. Hope for the Community at Sharon Church on Osborne Road runs a FareShare Cymru hub offering free bags of groceries with no voucher needed. FareShare Cymru, founded in 2010, redistributes enough surplus for over two million meals across Wales.",
+      "The sector here runs at every size. National and regional charities keep high-street shops and central buying accounts, including St David's Hospice Care with its shop on Hanbury Road and around 34 shops across South East Wales, while small community groups, pantries and volunteer-run foodbanks work on a shoestring across Pontnewynydd, Trevethin and Griffithstown. Torfaen Voluntary Alliance helps these groups with funding, governance and volunteering. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Torfaen's support network reaches wider still. St David's Hospice Care, one of the UK's largest hospice-at-home providers, cares for over 3,700 patients and families a year across South East Wales. Connect Torfaen and Torfaen Voluntary Alliance list local foodbanks, pantries and FareShare hubs and recruit volunteers across the county, while Bron Afon brings community housing support into the mix. These hospices, charity shops and volunteer-run projects across Pontypool and the Eastern Valley sit distinct from the foodbank centres themselves."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Pontypool, a FareShare Cymru-supplied community group or a small volunteer-run foodbank in Cwmbran"
+  },
+  "bilston": {
+    "region": "Bilston, Wolverhampton, West Midlands",
+    "nearby": ["Wolverhampton", "Wednesbury", "Walsall"],
+    "s1_head": "Charity and volunteer work in Bilston",
+    "s1loc": [
+      "Bilston has a busy grassroots charity scene. The Excel Church Foodbank runs from Bilston People's Centre on Wolverhampton Street, opening Mondays on a referral basis with around a dozen volunteers who also deliver parcels to struggling households. Across the wider city, the council lists food banks and soup kitchens including the Good Shepherd, the Elias Mattu Foundation, The Well and FoodCycle Wolverhampton, a community dining charity sustained by volunteer cooks, hosts and food-collection teams who keep meals flowing to people in need.",
+      "The sector here runs at every size. National and regional charities keep high-street shops and central buying accounts, including Compton Care, whose sustainable-fashion shop sits by the Bilston indoor market on Market Way, while small community groups, pantries and volunteer-run foodbanks work on a shoestring across Bradley, Ettingshall and Coseley. Excel Church's small team and FoodCycle's volunteers carry much of the load. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Bilston's voluntary layer runs wider still. Compton Care provides hospice and palliative support for people in the area living with life-limiting conditions, raising funds through its Bilston and Coseley charity shops and recruiting volunteers with full training. FoodCycle Wolverhampton turns surplus into free community meals, and the city's network of churches and mutual-aid groups around Bradley and Ettingshall ran the local Coronavirus food deliveries. These hospices, charity shops and neighbourhood projects sit distinct from the foodbank centres themselves."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Bilston, a FareShare-supplied community group or a small volunteer-run foodbank in Wednesbury"
+  },
+  "sedgley": {
+    "region": "Sedgley, Dudley, West Midlands",
+    "nearby": ["Dudley", "Wolverhampton", "Bilston"],
+    "s1_head": "Charity and volunteer work in Sedgley",
+    "s1loc": [
+      "Sedgley sits within Dudley's strong voluntary sector. Black Country Foodbank helps families in crisis with emergency food and toiletries while longer-term support is arranged, and Provision House, formerly Loaves and Fishes, is a Christian charity relieving poverty across Dudley, Sandwell and the wider Black Country. FoodCycle Dudley serves free community meals cooked by local volunteers, and Dudley CVS connects residents to dozens of volunteering roles across the borough, including support groups based right here in Sedgley.",
+      "The sector here runs at every size. National and regional charities keep high-street shops and central buying accounts, including Mary Stevens Hospice with its shop on Dudley Street in Sedgley and over twenty shops across the West Midlands, while small community groups, pantries and volunteer-run foodbanks work on a shoestring across Upper Gornal, Lower Gornal and Woodsetton. Black Country Foodbank and FoodCycle lean heavily on local volunteers. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Sedgley's volunteer network reaches further still. Mary Stevens Hospice, at the heart of Dudley since 1991, funds free hospice care through its charity shops and furniture collection service across the borough, including Sedgley and Lower Gornal. Sedgley's Lifestyle Volunteers and Bus Buddies support visually impaired members at the local centre, and a neighbourhood volunteer group built around twenty local helpers grew up here during the Coronavirus response. These hospices, charity shops and mutual-aid projects sit distinct from the foodbanks themselves."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Sedgley, a FareShare-supplied community group or a small volunteer-run foodbank in Dudley"
+  },
+  "tipton": {
+    "region": "Tipton, Sandwell, West Midlands",
+    "nearby": ["Dudley", "West Bromwich", "Wednesbury"],
+    "s1_head": "Charity and volunteer work in Tipton",
+    "s1loc": [
+      "Tipton has a deep-rooted community sector. Black Country Foodbank runs a Tipton centre helping people in crisis with emergency food and toiletries, and Sandwell Churches Link coordinates food support services and lists what is going on across the town. Murray Hall Community Trust, a Sandwell charity since 1994, runs a food pantry, warm space and dementia and end-of-life support from its centre, The Bridge, in Tipton, and operates its own charity shop to raise funds for that work.",
+      "The sector here runs at every size. National and regional charities keep high-street shops and central buying accounts, from hospice retailers to the larger fundraising names, while small community groups, pantries and volunteer-run foodbanks work on a shoestring across Tividale, Princes End and Great Bridge. Murray Hall's pantry and the Black Country Foodbank centre rely on local volunteers to sort, pack and signpost. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Tipton's voluntary layer runs wider still. Murray Hall Community Trust supports all ages from new mothers to end-of-life care, hosting community groups, therapy sessions and networking from The Bridge, while Compton Care provides specialist palliative and bereavement support and runs charity shops across the Black Country. Sandwell Churches Link knits together the town's church-run food banks, pantries and volunteer projects around Great Bridge and Princes End. These hospices, charity shops and community trusts sit distinct from the foodbank centres themselves."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Tipton, a FareShare-supplied community group or a small volunteer-run foodbank in Wednesbury"
+  }
+}

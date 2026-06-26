@@ -1,0 +1,86 @@
+{
+  "tonbridge": {
+    "region": "Tonbridge, Kent",
+    "nearby": ["Tunbridge Wells", "Sevenoaks", "Maidstone"],
+    "s1_head": "Charity and volunteer kit in Tonbridge",
+    "s1loc": [
+      "Tonbridge has a busy charitable life, from the foodbank run out of Tonbridge Baptist Church on the High Street to Nourish Community Foodbank, which delivers emergency food across south Tonbridge and the wider area. FEAST runs three community larders branded Fresh around the town, and the big food-redistribution networks reach in too, with FareShare Kent supplying over 140 groups from its Ashford warehouses on the back of more than 200 volunteers giving thousands of hours.",
+      "The sector here runs at every size. National and regional charities keep shops and run on central buying, while small community groups, pantries and volunteer-run foodbanks work on a shoestring across districts like Cage Green, Trench, Higham Wood and the town centre. Hospice in the Weald, based near Tonbridge, runs its Tonbridge Superstore on the High Street and a long chain of charity shops. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Beyond the foodbanks, Tonbridge supports a wide spread of volunteer-led projects. Hospice in the Weald draws shop volunteers and fundraisers from across the area, while charity shops for heart, cancer and animal causes line the High Street and Quarry Hill. Open-house mornings at Tonbridge Baptist Church bring coffee, games and debt advice, and mutual-aid and church-run support runs through neighbourhoods such as Hadlow Road, Pembury Road and the Slade. Citizens Advice and local welfare groups round out a network that leans heavily on unpaid hands."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Tonbridge, a FareShare Kent-supplied community group or a small volunteer-run foodbank in Tunbridge Wells"
+  },
+  "rushden": {
+    "region": "Rushden, Northamptonshire",
+    "nearby": ["Wellingborough", "Kettering", "Corby"],
+    "s1_head": "Charity and volunteer kit in Rushden",
+    "s1loc": [
+      "Rushden's charitable backbone is Encompass Charity, which runs the Rushden and Higham Foodbank from Church Street alongside homeless accommodation, a rehab house, a day centre and a low-cost community cafe. The foodbank opens Tuesday and Thursday mornings and is delivered mainly by volunteers under a foodbank coordinator. Whitefriars Church supports it with emergency food, and SERVE Charity, headquartered in Rushden with a day centre in Higham Ferrers, adds further volunteer-led help for older and isolated residents.",
+      "The sector here runs at every size. National and regional charities such as Age UK Northamptonshire keep shops and warehouses and lean on central buying, including stores at Higham Ferrers and a furniture warehouse at Chowns Mill, while small community groups, pantries and volunteer-run foodbanks work on a shoestring across districts like Higham Ferrers, Raunds and Newton Road. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Rushden's wider voluntary scene takes in charity shops along the High Street, the Salvation Army presence at Higham Ferrers, and the Northamptonshire Community Foundation, which channels grants to grassroots groups across the county. Encompass extends its food banks to Raunds and Thrapston, and church-linked outreach runs through neighbourhoods such as Hayway, Wymington Road and the town centre. Volunteer drivers, sorters and cafe helpers keep these projects going, with much of the work resting on people giving their own time across the Nene valley towns."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Rushden, an Encompass Charity-supplied community group or a small volunteer-run foodbank in Wellingborough"
+  },
+  "pontefract": {
+    "region": "Pontefract, West Yorkshire",
+    "nearby": ["Castleford", "Normanton", "Featherstone"],
+    "s1_head": "Charity and volunteer kit in Pontefract",
+    "s1loc": [
+      "Pontefract and Knottingley Foodbank, part of the Trussell network, runs from Central Methodist Church on Newgate and works with Citizens Advice, children's centres and health visitors. The Prince of Wales Hospice anchors local fundraising and runs around ten charity shops across the Five Towns. The big food-redistribution networks reach in too, with FareShare Yorkshire moving surplus food to pantries, lunch clubs and shelters across the district on the strength of volunteer teams.",
+      "The sector here runs at every size. National and regional charities such as British Heart Foundation, RSPCA and YMCA keep shops in Pontefract and Castleford and run on central buying, while small community groups, pantries and volunteer-run foodbanks work on a shoestring across districts like Knottingley, Tanshelf and the town centre. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Across the Five Towns of Pontefract, Castleford, Knottingley, Normanton and Featherstone, projects such as Frontside and the Five Towns Christian Fellowship run hubs of practical help, and the Prince of Wales Hospice furniture shop in Castleford funds care for local people. Charity shops cluster along Pontefract's Market Place and Beastfair, and volunteer sorters, drivers and shop helpers keep both the hospice retail chain and the smaller mutual-aid efforts running across neighbourhoods like Carleton, Chequerfield and Glasshoughton."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Pontefract, a FareShare Yorkshire-supplied community group or a small volunteer-run foodbank in Castleford"
+  },
+  "camberley": {
+    "region": "Camberley, Surrey",
+    "nearby": ["Farnborough", "Aldershot", "Bracknell"],
+    "s1_head": "Charity and volunteer kit in Camberley",
+    "s1loc": [
+      "Camberley's frontline food help runs through The Besom, a referral-based, volunteer-staffed foodbank supported by local churches, supermarkets and Surrey Heath Borough Council, with referrals coming from Citizens Advice, schools, NHS teams and others. St Martin's Church at Old Dean runs food support sessions, and the Darby Green Foodbank Centre recruits volunteer drivers. Voluntary Support North Surrey coordinates donations to food banks across Surrey Heath, Runnymede and Spelthorne.",
+      "The sector here runs at every size. National and regional charities such as Phyllis Tuckwell Hospice Care, whose largest shop sits in Obelisk Way by The Mall, keep stores and run on central buying, while small community groups, pantries and volunteer-run foodbanks work on a shoestring across districts like Old Dean, Watchetts, Heatherside and Frimley. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Camberley's voluntary network is broad. Surrey Heath Age Concern runs its Cosy Corner tea room in the town centre with volunteer staff, Citizens Advice Surrey Heath helps people through money and benefit problems, and Phyllis Tuckwell adds a shop at The Parade in Frimley. Get Volunteering lists openings across the borough, and church-led and mutual-aid help reaches neighbourhoods such as Yorktown, York Town and Mytchett. Volunteer drivers, sorters and cafe helpers keep these shoestring projects and the hospice retail chain alike going."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Camberley, a Voluntary Support North Surrey-supplied community group or a small volunteer-run foodbank in Farnborough"
+  },
+  "kendal": {
+    "region": "Kendal, Cumbria",
+    "nearby": ["Lancaster", "Ulverston", "Morecambe"],
+    "s1_head": "Charity and volunteer kit in Kendal",
+    "s1loc": [
+      "Kendal's emergency food help centres on King's Food Bank, which makes up tailor-made food boxes for individuals and families referred to it, run by a small staffed core and a team of unpaid sorting and delivery volunteers. Manna House offers housing, benefits and advocacy support from the town. The big food-redistribution networks reach in too, with FareShare Lancashire and Cumbria supplying over 150 groups, from social supermarkets to breakfast clubs and hospices, on the back of 50-plus volunteers.",
+      "The sector here runs at every size. National and regional charities, including St Mary's Hospice with its chain of shops across South Cumbria, keep stores and run on central buying, while small community groups, pantries and volunteer-run foodbanks work on a shoestring across districts like Sandylands, Kirkbie Green and the town centre. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Kendal's wider voluntary life takes in charity shops along Stricklandgate, Stramongate and Highgate raising funds for hospice, animal and heart causes, plus St Mary's Hospice retail running through to Ulverston and a furniture warehouse serving the south of the county. Manna House and church-linked groups support people through housing and money worries, and mutual-aid and volunteer help reaches neighbourhoods such as Hallgarth, Castle and Far Cross. Volunteer drivers, sorters and shop helpers carry much of the load across Westmorland."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Kendal, a FareShare Lancashire and Cumbria-supplied community group or a small volunteer-run foodbank in Lancaster"
+  },
+  "ruislip": {
+    "region": "Ruislip, London Borough of Hillingdon",
+    "nearby": ["Uxbridge", "Harrow", "Hayes"],
+    "s1_head": "Charity and volunteer kit in Ruislip",
+    "s1loc": [
+      "Ruislip sits within the reach of Hillingdon Foodbank, part of the Trussell network, which runs a distribution centre at St Gregory the Great Catholic Church on Victoria Road in South Ruislip and is supported by 176 volunteers across the borough. St Paul's and St Martin's churches in Ruislip act as collection points and referral partners. In a single year the foodbank gave out more than 91,000kg of food to nearly 17,000 people through its voucher-partner network.",
+      "The sector here runs at every size. National and regional charities, including Michael Sobell Hospice and Harlington Hospice with shops at Eastcote and Northwood, keep stores and run on central buying, while small community groups, pantries and volunteer-run foodbanks work on a shoestring across districts like Ruislip Manor, Eastcote, South Ruislip and Ruislip Gardens. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Ruislip's voluntary scene leans on its churches and community-care groups. H4All coordinates volunteering and community care across Hillingdon, and charity shops on Ruislip Manor's Victoria Road and along the High Street raise funds for hospice and welfare causes. Emmanuel Church and St Gregory the Great feed the foodbank's referral process, and mutual-aid and faith-led help reaches neighbourhoods such as Eastcote, Ickenham edge and Northwood Hills. Volunteer drivers, sorters and shop helpers keep both the hospice retail and the smaller projects running."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Ruislip, a Hillingdon Foodbank-supplied community group or a small volunteer-run foodbank in Uxbridge"
+  },
+  "malvern": {
+    "region": "Malvern, Worcestershire",
+    "nearby": ["Worcester", "Hereford", "Droitwich"],
+    "s1_head": "Charity and volunteer kit in Malvern",
+    "s1loc": [
+      "Malvern Hills Foodbank, part of a national network, provides emergency three-day food packs through a referral process and is run solely by unpaid volunteers, averaging around 58 helpers through the year. St Richard's Hospice provides free specialist palliative care for people across Worcestershire and their families. The big food-redistribution networks reach in too, with FareShare moving surplus from major food companies to thousands of charities and community groups, foodbanks and hospices among them.",
+      "The sector here runs at every size. National and regional charities, including St Richard's Hospice with its Malvern Link department store and bookshop and Acorns Children's Hospice with its Court Road shop, keep stores and run on central buying, while small community groups, pantries and volunteer-run foodbanks work on a shoestring across districts like Malvern Link, Barnards Green and Great Malvern. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Malvern's wider voluntary life is well organised. Malvern Hills Volunteering helps residents find local roles, and charity shops cluster around Church Street, Barnards Green and the Malvern Link store selling furniture, books and homeware for hospice and welfare causes. St Richard's Hospice draws shop volunteers and fundraisers from across the Malverns, and church-linked and mutual-aid help reaches neighbourhoods such as Pickersleigh, Poolbrook and West Malvern. Volunteer drivers, sorters and shop helpers underpin both the hospice retail chain and the smaller projects."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Malvern, a FareShare-supplied community group or a small volunteer-run foodbank in Worcester"
+  }
+}

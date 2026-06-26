@@ -1,0 +1,86 @@
+{
+  "whitstable": {
+    "region": "Whitstable, Kent",
+    "nearby": ["Herne Bay", "Canterbury", "Faversham"],
+    "s1_head": "Whitstable charities and community projects",
+    "s1loc": [
+      "Whitstable sits within the reach of Canterbury Food Bank, a charity born from a group of local churches in 2011, which runs a distribution point in the town alongside Canterbury and Herne Bay. Churches Together distributes FareShare collections across Whitstable, redirecting surplus food that would otherwise go to waste. The Whitstable Umbrella Centre on Oxford Street runs a pay-it-forward cafe and supports voluntary, community and social enterprise groups with funding bids and volunteer training across the harbour town.",
+      "The local sector runs at every size. Pilgrims Hospices fills its Whitstable High Street, Tankerton Road and furniture shops with donated stock and a team of regular volunteers, drawing on central buying and trade accounts. Alongside them sit small community groups, the St John's Swalecliffe wardrobe project, church-run pantries and volunteer-led efforts working on a shoestring across Tankerton, Seasalter and Swalecliffe. We are glad to serve the national charity and the one-room foodbank alike, on trade accounts and direct online, with no minimum.",
+      "Further out, the Whitstable Community Wardrobe and the umbrella of churches that feed FareShare deliveries keep the donation chain moving, while charity shops along the High Street raise funds for hospice and disability causes. Pilgrims Hospices opened a first-of-its-kind concept store on Tankerton Road, and mutual-aid groups formed around the harbour and the Estuary View neighbourhoods continue to support older and isolated residents. Volunteer drivers ferry food parcels out to Seasalter and the villages, knitting the whole town together through unpaid hands."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Whitstable, a FareShare-supplied community group or a small volunteer-run foodbank in Herne Bay"
+  },
+  "strood": {
+    "region": "Strood, Medway, Kent",
+    "nearby": ["Rochester", "Chatham", "Gravesend"],
+    "s1_head": "Strood charities and volunteer groups",
+    "s1loc": [
+      "Strood is served by Medway Foodbank, run by the charity Help in the Community, which distributes three-day emergency parcels through churches in Strood, Rochester and Chatham from its warehouse on the Medway City Estate. Strood Community Project, founded by three local churches in 2006, runs an advice centre, youth mentoring and a foodbank distribution point to tackle hardship across the town. Strood Gospel Mission Church also operates its own food bank for neighbours in immediate crisis.",
+      "The sector here runs at every size. National and regional charities keep shops along Strood High Street and run on central buying and trade accounts, while small community groups, church pantries and volunteer-led projects work on a shoestring across Frindsbury, Wainscott and Temple. Medway Foodbank leans heavily on volunteers in its warehouse and distribution centres, with only a handful of paid staff. We are happy to serve the national charity and the one-room foodbank alike, on trade accounts and direct online, with no minimum.",
+      "Beyond the foodbank network, Strood's charity shops raise money for hospice, heart and cancer causes, and mutual-aid groups that formed across Frindsbury and Strood North continue to support older residents. Volunteers staff the distribution sessions at The Net community cafe in nearby Walderslade and at MidKent College, while community larders and church halls offer warm spaces and signposting. Citizens-advice signposters work alongside the parcels, and unpaid drivers move donated stock between the Riverside warehouse and the church centres that hand it out."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Strood, a Medway Foodbank-supplied community group or a small volunteer-run foodbank in Rochester"
+  },
+  "glossop": {
+    "region": "Glossop, High Peak, Derbyshire",
+    "nearby": ["Hyde", "Stalybridge", "Stockport"],
+    "s1_head": "Glossop charities and community groups",
+    "s1loc": [
+      "Glossop is anchored by Glossopdale Foodbank, a registered charity kept going by more than sixty volunteers who hand out around forty emergency parcels every week, with donation points in most local supermarkets. The foodbank runs a Foodbank Plus service through a dedicated adviser based at Citizens Advice in Glossop, helping people clear debt and lift incomes. The Bureau Glossop, the long-standing local volunteer centre, and High Peak CVS support charities and community groups across Glossopdale.",
+      "The local sector runs at every size. Hospice charities such as Willow Wood and Blythe House keep shops on High Street West, leaning on central buying and trade accounts, while small community groups, the Glossopdale Furniture Project and volunteer-run efforts work on a shoestring across Hadfield, Gamesley and Old Glossop. The Rotary Club of Glossop chips in alongside them. We are glad to serve the national charity and the one-room foodbank alike, on trade accounts and direct online, with no minimum.",
+      "Out across the dale, Hadfield Coming Together and the Gamesley Community Group run grassroots support and warm spaces, while charity shops and Cancer Research UK along the high street raise funds for national causes. The Glossopdale Furniture Project rehomes donated goods to families starting over, and mutual-aid networks that grew up around Old Glossop and Whitfield keep an eye on isolated neighbours. Volunteers staff every link in the chain, from supermarket collection points to the parcels themselves, with very little paid help behind them."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Glossop, a FareShare-supplied community group or a small volunteer-run foodbank in Hyde"
+  },
+  "stretford": {
+    "region": "Stretford, Trafford, Greater Manchester",
+    "nearby": ["Urmston", "Salford", "Altrincham"],
+    "s1_head": "Stretford charities and volunteer projects",
+    "s1loc": [
+      "Stretford is served by Stretford Foodbank, part of Trafford North Foodbank, which runs sessions on Tuesdays and Fridays and a warehouse on Winchester Road that depends on volunteers to sort donations and pack emergency parcels. Donation points sit at Sainsbury's Eden Square in Urmston, the One Stop on Stretford Road and the warehouse itself. Age UK Trafford supports the foodbank by distributing food boxes, running benefit checks and handing out the household support fund for fuel and essentials.",
+      "The sector here runs at every size. National and regional charities keep shops and run on central buying and trade accounts, while small community groups, the Hope Centre in nearby Partington and volunteer-led pantries work on a shoestring across Old Trafford, Gorse Hill and Lostock. The Age UK Urmston Hub lays on community meals for all ages. We are happy to serve the national charity and the one-room foodbank alike, on trade accounts and direct online, with no minimum.",
+      "Across Trafford, community hubs and mutual-aid groups that formed around Gorse Hill and Old Trafford continue to feed and warm local residents, while charity shops along Chester Road and Barton Road raise money for hospice and health causes. Thrive Trafford channels new volunteers into the foodbank and other projects, and church halls run warm spaces and food pantries through the colder months. Unpaid drivers move boxes between the Winchester Road warehouse and the distribution points that hand them out."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Stretford, a FareShare-supplied community group or a small volunteer-run foodbank in Urmston"
+  },
+  "dumfries": {
+    "region": "Dumfries, Dumfries and Galloway",
+    "nearby": ["Carlisle", "Workington", "Whitehaven"],
+    "s1_head": "Dumfries charities and community projects",
+    "s1loc": [
+      "Dumfries is served by Dumfriesshire Foodbank, run in partnership with local churches and facilitated by Apex Scotland, whose volunteers and staff help people prepare and receive parcels and find further support. The Summerhill Community Food Hub offers food access with dignity, while Third Sector Dumfries and Galloway and the Volunteer Dumfries and Galloway brand help residents find places to give their time. Dumfries and Galloway Citizens Advice signposts people in crisis towards the right doors.",
+      "The local sector runs at every size. National and regional charities such as Alzheimer Scotland, Shelter Scotland and Loreburn keep shops around the Loreburne Centre and the High Street on central buying and trade accounts, while small community groups, pantries and volunteer-run larders work on a shoestring across Lochside, Lincluden and Locharbriggs. Two not-for-profit community shops, the Exchange and the Extra, anchor work in Lochside. We are glad to serve the national charity and the one-room foodbank alike, on trade accounts and direct online, with no minimum.",
+      "Further out, the Dumfries and Galloway Sustainable Food Partnership links community food projects from Kate's Kitchen in Annan to the Stepping Stones larder in Castle Douglas, while Alzheimer Scotland runs its Brain Health and Dementia Resource Centre in the town. Charity shops along the High Street raise funds for national causes, and mutual-aid groups that grew up around Lochside and Lincluden keep watch over isolated neighbours. Volunteers staff the lot, from larder shelves to the community shops, with profit poured straight back into local projects."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Dumfries, a FareShare-supplied community group or a small volunteer-run foodbank in Carlisle"
+  },
+  "motherwell": {
+    "region": "Motherwell, North Lanarkshire",
+    "nearby": ["Wishaw", "Hamilton", "Bellshill"],
+    "s1_head": "Motherwell charities and volunteer groups",
+    "s1loc": [
+      "Motherwell is served by Basics Food Bank Lanarkshire, a Christian charity run by volunteers from the Maranatha Centre on Glencairn Street, which provides food parcels, toiletries and support to people in crisis. Since 2021 it has run a supermarket-voucher model it sees as a more dignified way to help families facing food poverty. Motherwell Food Bank operates locally too, and community larders such as the Dailies Community Larder in nearby Overtown and the Craigneuk Lifelong Learning Association add further reach.",
+      "The sector here runs at every size. St Andrew's Hospice, the Salvation Army and other national charities keep shops in Brandon Arcade and the Motherwell Shopping Centre on central buying and trade accounts, while small community groups, school-based larders and volunteer-run projects work on a shoestring across Forgewood, Craigneuk and Flemington. Basics Food Bank leans entirely on volunteers giving a few hours a week. We are happy to serve the national charity and the one-room foodbank alike, on trade accounts and direct online, with no minimum.",
+      "Across North Lanarkshire, the Orchard Primary School Parent Council in Wishaw runs its own foodbank and parent-led larders feed families through the holidays, while charity shops along Brandon Street raise money for hospice and health causes. St Andrew's Hospice draws fundraising from shops right across Lanarkshire, and mutual-aid groups that formed around Forgewood and Craigneuk keep an eye on older neighbours. Volunteers staff the food parcels, the vouchers and the shop tills, with very little paid help behind any of it."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Motherwell, a FareShare-supplied community group or a small volunteer-run foodbank in Wishaw"
+  },
+  "borehamwood": {
+    "region": "Borehamwood, Hertsmere, Hertfordshire",
+    "nearby": ["Barnet", "Edgware", "Bushey"],
+    "s1_head": "Borehamwood charities and community groups",
+    "s1loc": [
+      "Borehamwood is served by Borehamwood Foodbank, opened in 2013 and based at St Teresa's Church on Shenley Road, which hands out three-day emergency packs to vulnerable residents across Hertsmere along with toiletries and household goods. It offers holistic support through Citizens Advice, the British Red Cross and local Healthy Hubs, and lays on family lunches in the school holidays. WD6 Food Support runs alongside it, helping families in need across the town, with referrals flowing in from Community Action Hertsmere and council teams.",
+      "The local sector runs at every size. Rennie Grove Peace Hospice Care keeps a community-hub shop and a ReValued outlet on Shenley Road and Furzehill Parade on central buying and trade accounts, while small community groups, church pantries and volunteer-led projects work on a shoestring across Elstree, Cowley Hill and Borehamwood's estates. Volunteers sort donations and staff the tills six days a week. We are glad to serve the national charity and the one-room foodbank alike, on trade accounts and direct online, with no minimum.",
+      "Beyond the foodbank, Borehamwood's charity shops, including the British Heart Foundation and the Rennie Grove Peace hubs, raise funds for hospice and health causes along Shenley Road. Community Action Hertsmere supports voluntary groups and channels volunteers across the borough, and mutual-aid networks that grew up around Cowley Hill and Elstree keep watch over isolated residents. Church halls run warm spaces and holiday lunches, and unpaid hands staff every link, from the donation points to the parcels and the shop floors."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Borehamwood, a FareShare-supplied community group or a small volunteer-run foodbank in Barnet"
+  }
+}

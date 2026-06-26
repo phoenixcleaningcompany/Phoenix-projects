@@ -1,0 +1,86 @@
+{
+  "wishaw": {
+    "region": "Wishaw, North Lanarkshire",
+    "nearby": ["Motherwell", "Hamilton", "Bellshill"],
+    "s1_head": "Charity and volunteer kit in Wishaw",
+    "s1loc": [
+      "Wishaw Community Foodbank, launched on Good Friday in 2021 and now run by South Wishaw Parish Church, sits at the heart of the town's emergency food work, sharing space with the Wishaw Community Space and its CAB and LAMH mental health advisers. Basics Food Bank Lanarkshire runs from Wishaw Baptist Church on Belhaven Terrace and Coltness Memorial Church on the Kirkgate, while St Andrew's Hospice on Main Street and its shops anchor a long-standing charitable presence across the town.",
+      "The sector runs at every size here. National charities and regional names such as St Andrew's Hospice keep shops on Main Street and lean on central buying, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Coltness, Craigneuk, Pather and Netherton. Both ends matter, so we are set up to serve the national charity with a trade account and the one-room foodbank buying direct online, with no minimum order either way.",
+      "Beyond the food parcels, volunteers across Wishaw keep a wider web of help running. The Basics Food Bank teams take a Christian approach and give a few hours each week to sorting and handing out parcels, while church-run centres double as warm spaces and advice points. St Andrew's Hospice draws fundraisers and shop volunteers from across North Lanarkshire, and grassroots mutual-aid and befriending groups in Wishaw, Newmains and Cleland quietly fill gaps for older and isolated neighbours that the bigger names cannot always reach."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Wishaw, a Wishaw Community Foodbank-supplied community group or a small volunteer-run foodbank in Motherwell"
+  },
+  "nelson": {
+    "region": "Nelson, Lancashire",
+    "nearby": ["Burnley", "Colne", "Accrington"],
+    "s1_head": "Charity and volunteer kit in Nelson",
+    "s1loc": [
+      "Nelson sits at the centre of Pendle's food and charity work, with Pendle Food for All Food Club buying surplus food for members at the Pendle Family Hub on Leeds Road and St Philip's Church on the same road running a weekly foodbank. Nelson Community Mosque Foodbank delivers across Burnley and Pendle, and FareShare Lancashire and Cumbria moves redistributed food to more than 150 grassroots groups, social supermarkets, foodbanks and breakfast clubs in the area.",
+      "The sector runs at every size in Nelson. National charities and the regional Pendleside Hospice keep shops on Scotland Road and across Pendle with central buying behind them, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Bradley, Whitefield and Marsden. Both routes matter, so we are happy to serve the national charity on a trade account and the one-room foodbank buying direct online, with no minimum order either way.",
+      "Pendleside Hospice anchors much of the local charity retail, running nine shops across Burnley and Pendle that turned over more than 420,000 pound in surplus last year and rely on retail volunteers gaining new skills. Alongside it, West Craven Food Bank, Curry On The Street and a string of church and mosque pantries keep emergency help flowing, while volunteer drivers and sorters give a few hours each week. FareShare keeps the supply chain fed for the smallest projects in Nelson, Brierfield and the surrounding Pendle villages."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Nelson, a FareShare-supplied community group or a small volunteer-run foodbank in Colne"
+  },
+  "radcliffe": {
+    "region": "Radcliffe, Greater Manchester",
+    "nearby": ["Bury", "Bolton", "Whitefield"],
+    "s1_head": "Charity and volunteer kit in Radcliffe",
+    "s1loc": [
+      "Radcliffe has built a strong local food network, from Trinity Food Bank, started in 2017 by Sister Joan and her team at the GTR Centre on Westminster Avenue, to the Radcliffe Food Club running from the Community Hub at Bridge Community Church since 2022. Both feed into the Bury Community Support Network alongside Porch Boxes in Bury, while FareShare Greater Manchester and its 128 volunteers pick, pack and deliver surplus food across the borough.",
+      "The sector runs at every size in Radcliffe. National charities and regional names such as Bury Hospice keep shops on Blackburn Street and across the borough with central buying behind them, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Black Lane, Coppice and Outwood. Both ends count, so we are set up to serve the national charity on a trade account and the one-room foodbank buying direct online, with no minimum order either way.",
+      "Bury Hospice recently opened a new shop in Radcliffe and runs its e-commerce team from a base in the town, where volunteers photograph and list donated items online, part of a network of more than 150 hospice volunteers across the borough. Trinity Food Bank works hand in hand with Trinity Baptist Church and the local Corrie Gardeners community group, while the Radcliffe Food Club's 20-strong volunteer team, many of them former members, keeps the pantry open twice a week for around 100 households."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Radcliffe, a FareShare-supplied community group or a small volunteer-run foodbank in Bury"
+  },
+  "fleet": {
+    "region": "Fleet, Hampshire",
+    "nearby": ["Farnborough", "Aldershot", "Farnham"],
+    "s1_head": "Charity and volunteer kit in Fleet",
+    "s1loc": [
+      "Fleet is a hub for Hart's charitable work, home to Hart Foodbank, part of the Trussell network, with centres in Fleet, Darby Green, Hook and Odiham and a Fleet Community Pantry that marked its first year in 2024. Volunteers weigh, sort and store donations before parcels go out, and meet clients over a cup of tea to signpost further help, while Volunteer North Hampshire connects residents to roles across the district.",
+      "The sector runs at every size in Fleet. National charities and regional names such as Phyllis Tuckwell Hospice Care keep shops on Fleet Road with central buying behind them, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Church Crookham, Elvetham Heath and Crookham Village. Both routes matter, so we are happy to serve the national charity on a trade account and the one-room foodbank buying direct online, with no minimum order either way.",
+      "Phyllis Tuckwell Hospice Care, the main hospice for West Surrey and north-east Hampshire supporting over 250 patients a day, runs a shop on Fleet Road as part of around 20 outlets, with every penny of profit funding free care. Its retail volunteers receive donations, promote Gift Aid and serve customers on flexible shifts, while the Fleet Community Pantry offers a next step for households able to make a small contribution, and church and community volunteers across Hart keep the smaller projects ticking over."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Fleet, a Hart Foodbank-supplied community group or a small volunteer-run foodbank in Farnborough"
+  },
+  "witney": {
+    "region": "Witney, Oxfordshire",
+    "nearby": ["Oxford", "Abingdon", "Bicester"],
+    "s1_head": "Charity and volunteer kit in Witney",
+    "s1loc": [
+      "Witney is served by the Witney and West Oxfordshire Foodbank, a registered charity run by staff, volunteers and trustees from Cottsway House on Avenue Two, handing out emergency parcels to people referred by Citizens Advice, the Job Centre, health and education workers. Citizens Advice West Oxfordshire runs a face-to-face advice centre in the town, and Oxfordshire Community and Voluntary Action supports community groups right across the county.",
+      "The sector runs at every size in Witney. National charities and regional names keep charity shops across the town centre with central buying behind them, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Cogges, Madley Park and Smiths Estate. Both ends matter, so we are set up to serve the national charity on a trade account and the one-room foodbank buying direct online, with no minimum order either way.",
+      "Volunteer Link-Up, based in Witney, matches residents to roles across West Oxfordshire, while the foodbank describes its volunteers as its lifeblood and welcomes new help by email. West Oxfordshire District Council points struggling households to a web of community support, from church pantries to warm spaces, and Citizens Advice runs outreaches in Chipping Norton and Carterton alongside the Witney centre, so that the national charities and the tiniest volunteer-run projects in and around the town can both find someone to turn to."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Witney, a Witney and West Oxfordshire Foodbank-supplied community group or a small volunteer-run foodbank in Oxford"
+  },
+  "willenhall": {
+    "region": "Willenhall, West Midlands",
+    "nearby": ["Walsall", "Wolverhampton", "Wednesbury"],
+    "s1_head": "Charity and volunteer kit in Willenhall",
+    "s1loc": [
+      "Willenhall has a busy network of local help, from Bridging The Gap on Stafford Street, a community resource centre working in partnership with Black Country Foodbank, to the New Testament Church of God on Upper Lichfield Street running a weekly foodbank. Black Country Foodbank itself supplies three days of emergency food through distribution centres in Walsall, Dudley and Sandwell, while One Walsall coordinates volunteers and food donation collections across the area.",
+      "The sector runs at every size in Willenhall. National charities and regional names such as Acorns Children's Hospice keep shops across Walsall with central buying behind them, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Short Heath, New Invention and Bentley. Both routes matter, so we are happy to serve the national charity on a trade account and the one-room foodbank buying direct online, with no minimum order either way.",
+      "Living Water Willenhall has volunteers helping with shopping, prescription collection and a telephone Lifeline service for neighbours who cannot get out, a reminder that local charity here is about more than food. Acorns Children's Hospice draws over 1,000 volunteers into its shops and fundraising across the Black Country and recently reopened its refurbished Walsall hospice, and One Walsall lists roles from food parcel delivery to shop work, knitting together the national names and the smallest Willenhall projects under one volunteering banner."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Willenhall, a Black Country Foodbank-supplied community group or a small volunteer-run foodbank in Wednesbury"
+  },
+  "ashington": {
+    "region": "Ashington, Northumberland",
+    "nearby": ["Blyth", "Cramlington", "Bedlington"],
+    "s1_head": "Charity and volunteer kit in Ashington",
+    "s1loc": [
+      "Ashington is served by Wansbeck Valley Food Bank, the largest independent foodbank in Northumberland, which runs parcel distribution hubs at the YMCA and Hirst Welfare Centre in the town and relieves the consequences of poverty across the Wansbeck Valley. The Ashington Life Centre runs as a further food bank point, while Community and Voluntary Action Blyth Valley supports the wider voluntary sector across Blyth, Cramlington and Seaton Valley.",
+      "The sector runs at every size in Ashington. National charities and regional names keep charity shops across the town with central buying behind them, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Hirst, College and Sheepwash. Both ends matter, so we are set up to serve the national charity on a trade account and the one-room foodbank buying direct online, with no minimum order either way.",
+      "Beyond the food parcels, Ashington keeps a strong community tradition, from the Ashington and District Male Voice Choir, founded in 1916 to bring men in south-east Northumberland together, to Age UK Northumberland supporting older residents across the county. Wansbeck Valley Food Bank leans on volunteers to staff its Hirst and town-centre hubs, sorting donations and handing out parcels, while mutual-aid and befriending groups around Ashington, Newbiggin-by-the-Sea and Bedlington quietly help neighbours the larger charities cannot always reach."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Ashington, a Wansbeck Valley Food Bank-supplied community group or a small volunteer-run foodbank in Blyth"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "ashton-in-makerfield": {
+    "region": "Ashton-in-Makerfield, Greater Manchester",
+    "nearby": ["Wigan", "St Helens", "Leigh"],
+    "s1_head": "Charity and Volunteer Kit in Ashton-in-Makerfield",
+    "s1loc": [
+      "Ashton-in-Makerfield runs a busy local food network. Ashton Pantry opened in 2021 in the church hall at St Thomas and St Luke and takes intercepted surplus from FareShare Greater Manchester, local warehouses and supermarkets, working alongside other Church Wigan pantries. FareShare Greater Manchester is volunteer-driven and distributes surplus to more than 220 charities and community groups across the region, while the Wigan CAP Debt Centre, Green Doctors and Bounceback Food CIC sit alongside the pantry as everyday partners for residents.",
+      "The sector here runs at every size. National charities keep shops on Gerrard Street and across the borough and lean on central buying, while small community groups, the foodbank network and volunteer-run pantries get by on a shoestring across Bryn, Garswood and Stubshaw Cross. Some draw on trade accounts and bulk ordering, others count every pound. We serve the national charity and the one-room foodbank alike, with trade accounts for the big buyers and direct online ordering, no minimum, for everyone else.",
+      "Wigan and Leigh Hospice anchors the wider effort, running a charity shop at 13 Gerrard Street in Ashton-in-Makerfield as part of a chain of stores reaching Golborne, Hindley, Pemberton and Standish. The Brick supports people facing homelessness and hardship across the borough, and the Wigan Council Our Town directory lists dozens of mutual-aid and community groups. Volunteers staff the shops, pantry shifts and collection drives, and a simple branded polo or hi-vis keeps them recognisable on the door and at events."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Ashton-in-Makerfield, a FareShare Greater Manchester-supplied community group or a small volunteer-run foodbank in Wigan"
+  },
+  "heywood": {
+    "region": "Heywood, Greater Manchester",
+    "nearby": ["Rochdale", "Bury", "Middleton"],
+    "s1_head": "Charity and Volunteer Kit in Heywood",
+    "s1loc": [
+      "Heywood has a strong volunteer food sector. Heywood Foodbank is run by a team of volunteers with support from the Heywood SVP society, handing out parcels from Heywood Baptist Church on Rochdale Road. The wider Your Local Pantry model, first opened in Kirkholt in 2016 and supported across the borough by RBH, reaches Heywood too, while Action Together coordinates food-support signposting and the Kashmir Youth Project pantry offers culturally appropriate food at affordable prices nearby.",
+      "The sector here runs at every size. National and regional charities keep shops in the town centre and rely on central buying, while small community groups, the foodbank network and volunteer pantries operate on a shoestring across Back o th Moss, Hopwood and Darnhill. Some use trade accounts to kit out larger teams, others count every pound of donated money. We serve the national charity and the one-room foodbank alike, with trade accounts for the big buyers and direct online ordering, no minimum, for everyone else.",
+      "Springhill Hospice provides palliative care across Heywood, Middleton and Rochdale and runs a flagship store in the town, with every donated item and volunteered hour helping fund that care. Back o th Moss Community Centre has served Heywood for around 50 years through a board of volunteers, and the borough volunteer fairs at Number One Riverside bring together Petrus, the Samaritans, the Bond Board and Rochdale Mind. Branded polos and hi-vis help shop teams and pantry volunteers stand out at these community events."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Heywood, a FareShare-supplied community group or a small volunteer-run foodbank in Rochdale"
+  },
+  "littlehampton": {
+    "region": "Littlehampton, West Sussex",
+    "nearby": ["Worthing", "Bognor Regis", "Chichester"],
+    "s1_head": "Charity and Volunteer Kit in Littlehampton",
+    "s1loc": [
+      "Littlehampton has an active food-rescue and foodbank scene. UKHarvest, a perishable food-rescue and education charity, runs a monthly Community Food Hub at St James Church Hall on East Ham Road as part of seven hubs across West Sussex backed by the county council. Littlehampton and District Foodbank, a registered charity, distributes emergency parcels and recruits volunteers from Littlehampton Baptist Church on Fitzalan Road, working with churches and community partners right across the town.",
+      "The sector here runs at every size. National and regional charities keep shops on the high street and lean on central buying, while small community groups, the foodbank network and volunteer-run hubs get by on a shoestring across Wick, East Ham and Rustington. Some draw on trade accounts for larger teams, others count every pound. We serve the national charity and the one-room foodbank alike, with trade accounts for the big buyers and direct online ordering, no minimum, for everyone else.",
+      "St Barnabas House hospice, based in Worthing, runs charity shops in Littlehampton and nearby Wick and Rustington, with volunteers staffing the tills, the distribution centre and free furniture collections. Chestnut Tree House, the children's hospice, also maintains shops across the area, and the West Sussex food-waste partnership ties many of these efforts together. Volunteers move between shop floors, collection points and the monthly food hub, and a branded polo or hi-vis keeps them visible at busy events along the seafront and in town."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Littlehampton, a UKHarvest-supplied community group or a small volunteer-run foodbank in Worthing"
+  },
+  "darwen": {
+    "region": "Darwen, Lancashire",
+    "nearby": ["Blackburn", "Accrington", "Bolton"],
+    "s1_head": "Charity and Volunteer Kit in Darwen",
+    "s1loc": [
+      "Darwen has a determined local food sector. The Darwen Food Larder at Meeting Places on Croft Street offers emergency parcels through the week, while the Blackburn with Darwen Food Alliance coordinates provision from Oakenhurst Road in Blackburn. Blackburn Foodbank has supported well over a hundred thousand residents across the borough with hundreds of thousands of meals, and community fridges and pantries run by groups such as The Billy Project and SAMS round out the everyday support for Darwen families.",
+      "The sector here runs at every size. National and regional charities keep shops on Darwen high street and rely on central buying, while small community groups, the foodbank network and volunteer-run larders work on a shoestring across Sunnyhurst, Whitehall and Earcroft. Some use trade accounts for larger teams, others count every pound of donated cash. We serve the national charity and the one-room foodbank alike, with trade accounts for the big buyers and direct online ordering, no minimum, for everyone else.",
+      "East Lancashire Hospice runs a long-standing charity shop on Bridge Street in Darwen, with every donated item and volunteered hour supporting specialist care across Blackburn, Darwen, Hyndburn and the Ribble Valley. Community CVS coordinates Darwen volunteers across community gardens, youth groups and food projects, matching people to roles from driving and delivery to growing vegetables. Branded polos and hi-vis help shop teams, larder volunteers and drivers stay recognisable at these town and community events."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Darwen, a Blackburn with Darwen Food Alliance-supplied community group or a small volunteer-run foodbank in Blackburn"
+  },
+  "colwyn bay": {
+    "region": "Colwyn Bay, Conwy",
+    "nearby": ["Llandudno", "Rhyl", "Prestatyn"],
+    "s1_head": "Charity and Volunteer Kit in Colwyn Bay",
+    "s1loc": [
+      "Colwyn Bay has a busy community food sector. Colwyn Bay Community Hwb CIC and Foodbank is a non-profit independent foodbank and community hub on Rhiw Road, offering food aid and wider support to local residents. FareShare Cymru redistributes surplus food from Cardiff to community organisations across Wales, while Conwy Food Bank, part of the Sanctuary Trust and rooted in the early Cymru Community Food Share, and the volunteer-run Bags of Love project supporting around 100 households add depth to local provision.",
+      "The sector here runs at every size. National and regional charities keep shops on Station Road and across town and lean on central buying, while small community groups, the foodbank network and volunteer-run hubs get by on a shoestring across Old Colwyn, Rhos-on-Sea and Llanelian. Some draw on trade accounts, others count every pound. We serve the national charity and the one-room foodbank alike, with trade accounts for the big buyers and direct online ordering, no minimum, for everyone else.",
+      "St David's Hospice runs charity and furniture shops in Colwyn Bay, including a store on Station Road and a Rhos-on-Sea shop on Penrhyn Avenue, as part of a chain of more than twenty stores across Conwy, Gwynedd and Anglesey staffed largely by volunteers. St Kentigern Hospice also keeps a Colwyn Bay shop, and the Kind Bay Initiative grew out of community mutual aid during the pandemic. Branded polos and hi-vis keep shop teams and foodbank volunteers visible at events along the prom and in town."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Colwyn Bay, a FareShare Cymru-supplied community group or a small volunteer-run foodbank in Rhyl"
+  },
+  "pontypridd": {
+    "region": "Pontypridd, Rhondda Cynon Taf",
+    "nearby": ["Caerphilly", "Aberdare", "Merthyr Tydfil"],
+    "s1_head": "Charity and Volunteer Kit in Pontypridd",
+    "s1loc": [
+      "Pontypridd has a deep-rooted food and volunteer sector. Pontypridd Foodbank, part of the Trussell network, grew from a St Luke's Church project in Rhydyfelin and now has a permanent home at the old Riverside Day Centre in Treforest, supported by churches, schools, businesses and supermarkets. The Little Lounge runs a community pantry in Cilfynydd, St Catherine's Church operates a pantry through Cafe Connect, and Citizens Advice RCT delivers benefit checks and debt advice alongside the foodbank.",
+      "The sector here runs at every size. National and regional charities keep shops on Taff Street and across the precinct and rely on central buying, while small community groups, the foodbank network and volunteer-run pantries work on a shoestring across Graig, Rhydyfelin and Treforest. Some use trade accounts to kit out larger teams, others count every pound. We serve the national charity and the one-room foodbank alike, with trade accounts for the big buyers and direct online ordering, no minimum, for everyone else.",
+      "Interlink RCT, the County Voluntary Council based at Glenview House on Courthouse Street, supports volunteering and community organisations right across Rhondda Cynon Taf, listing hundreds of local roles. Tenovus Cancer Care and other named charities keep shops in the town, and Connect RCT matches residents to wellbeing and social-care volunteering. Volunteers move between shop floors, pantry shifts and community events, and branded polos and hi-vis keep them recognisable from Treforest up to the Graig."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Pontypridd, a FareShare Cymru-supplied community group or a small volunteer-run foodbank in Caerphilly"
+  },
+  "harpenden": {
+    "region": "Harpenden, Hertfordshire",
+    "nearby": ["St Albans", "Luton", "Hemel Hempstead"],
+    "s1_head": "Charity and Volunteer Kit in Harpenden",
+    "s1loc": [
+      "Harpenden is covered by a strong district food and welfare sector. St Albans and District Foodbank, a Trussell network charity started in 2014, provides thousands of parcels across the district including Harpenden and is supported by churches, community groups and individuals, currently recruiting volunteer van drivers and drivers mates. The Harpenden Trust offers local welfare grants and signposting, and Harpenden Helping Hand provides transport, shopping and befriending help to residents across the town.",
+      "The sector here runs at every size. National and regional charities keep shops on the High Street and lean on central buying, while small community groups, the foodbank network and volunteer-run projects get by on a shoestring across Southdown, Batford and Kinsbourne Green. Some draw on trade accounts for larger teams, others count every pound of donated money. We serve the national charity and the one-room foodbank alike, with trade accounts for the big buyers and direct online ordering, no minimum, for everyone else.",
+      "Rennie Grove Peace Hospice Care runs charity shops in Harpenden, including a High Street store and a Southdown shop on Piggottshill Lane plus a ReValued outlet, all staffed largely by volunteers and funding hospice care across West Hertfordshire. Grove House hosts Rennie Grove day services locally, and the St Albans Community Pantry adds membership food support nearby. Volunteers spread across shop floors, foodbank rotas, driving and befriending, and a branded polo or hi-vis keeps them visible at shops, collection points and community events."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Harpenden, a FareShare-supplied community group or a small volunteer-run foodbank in St Albans"
+  }
+}
