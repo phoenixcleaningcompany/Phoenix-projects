@@ -1,0 +1,86 @@
+{
+  "scarborough": {
+    "region": "Scarborough, North Yorkshire",
+    "nearby": ["Bridlington", "York", "Beverley"],
+    "s1_head": "Charity and volunteer kit in Scarborough",
+    "s1loc": [
+      "Scarborough's charity life leans on Saint Catherine's Hospice, whose donation hub on Queen Margaret's Road supplies a dozen shops across Falsgrave, Ramshill, Victoria Road and North Marine Road. Scarborough and District Foodbank works through local churches, while the big food-redistribution and foodbank networks, FareShare and Trussell, channel surplus and emergency parcels into the town. Tesco food collections call regularly for Scarborough volunteers, and Two Ridings Community Foundation backs grassroots projects right across this stretch of the North Yorkshire coast.",
+      "The sector here runs at every size. National and regional charities keep shops along Westborough and Newborough with central buying behind them, while small community groups, the one-room foodbank, mutual-aid pantries and volunteer-run projects work on a shoestring across Eastfield, Barrowcliff and the old town. Age UK and Scarborough Survivors sit alongside breakfast clubs and luncheon clubs fed by the redistribution networks. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Beyond the hospice, Scarborough hosts the Rainbow Centre supporting people facing homelessness, the SeaChange Wave foodbank and Coast and Vale Community Action, the local volunteer-support body that helps small groups find people and funding. Charity shops cluster on Aberdeen Walk and Castle Road, raising money for everything from the RNLI lifeboat crews to local hospice care. Around Newby, Scalby and the harbourside, residents' associations and church-run pantries quietly keep neighbours fed, clothed and supported through the leaner winter months."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Scarborough, a FareShare-supplied community group or a small volunteer-run foodbank in Bridlington"
+  },
+  "orpington": {
+    "region": "Orpington, London Borough of Bromley",
+    "nearby": ["Bromley", "Sidcup", "Sevenoaks"],
+    "s1_head": "Charity and volunteer kit in Orpington",
+    "s1loc": [
+      "Orpington anchors Bromley Borough Foodbank, run from Orpington Baptist Church on Station Road, which has handed out emergency parcels since 2010 and helped tens of thousands of local adults and children. Transform Bromley Borough runs a central food distribution hub in Orpington that stores dry, fresh and frozen stock for a dozen community food projects. The big food-redistribution and foodbank networks, FareShare and Trussell, feed the wider effort, while community fridges and church pantries keep the supply moving across the area.",
+      "The sector runs at every size in Orpington. National and regional charities hold shops along the High Street with central buying behind them, while small community groups, the one-room foodbank, pantries and volunteer-run projects work on a shoestring across Petts Wood, St Mary Cray, Crofton and Ramsden. Community Links Bromley supports the smaller groups, and breakfast clubs and luncheon clubs draw on the redistribution networks. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Bromley's hospice, St Christopher's, runs charity shops reaching into Orpington and raises funds for end-of-life care across the borough. The Salvation Army keeps a presence locally, and mutual-aid groups that grew up around Petts Wood and Chelsfield still run shopping rounds and befriending for isolated neighbours. Charity shops along Orpington High Street back causes from air ambulance to children's services, while Bromley's volunteer centre helps residents in Green Street Green and Farnborough find roles with the groups that need them most."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Orpington, a Transform Bromley Borough-supplied community group or a small volunteer-run foodbank in Bromley"
+  },
+  "wallasey": {
+    "region": "Wallasey, Wirral, Merseyside",
+    "nearby": ["Birkenhead", "Bebington", "Bootle"],
+    "s1_head": "Charity and volunteer kit in Wallasey",
+    "s1loc": [
+      "Wallasey sits at the heart of Wirral's charity effort. FareShare Merseyside and Wirral runs its base on Wheatland Lane in Wallasey, redistributing surplus food to more than a hundred charities and community groups, from breakfast clubs to refuges and luncheon clubs. Wirral Foodbank, with offices on Dock Road in nearby Birkenhead, keeps no-one going hungry across the peninsula, while Wirral Hospice St John's runs a charity shop in Wallasey Village. The big food-redistribution and foodbank networks, Trussell and FareShare, underpin the whole picture.",
+      "The sector runs at every size in Wallasey. National and regional charities keep shops along Liscard's Wallasey Road and Seaview Road with central buying behind them, while small community groups, the one-room foodbank, pantries and volunteer-run projects work on a shoestring across New Brighton, Seacombe, Egremont and Poulton. Feeding Birkenhead and local social supermarkets stretch every donation. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Beyond the hospice shops, Wallasey hosts community hubs and church pantries around Leasowe and Moreton, with Magenta Living and local housing groups backing food and welfare projects. Voluntary and Community Action Wirral supports smaller groups to find volunteers and funding, while charity shops in New Brighton raise money for everything from Claire House Children's Hospice to the RNLI. Mutual-aid networks built around Seacombe and Egremont still run shopping drops and befriending visits for older and isolated residents through the colder months."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Wallasey, a FareShare Merseyside and Wirral-supplied community group or a small volunteer-run foodbank in Birkenhead"
+  },
+  "hayes": {
+    "region": "Hayes, London Borough of Hillingdon",
+    "nearby": ["Uxbridge", "Hounslow", "Feltham"],
+    "s1_head": "Charity and volunteer kit in Hayes",
+    "s1loc": [
+      "Hayes is served by Hillingdon Foodbank, which launched in 2009 as the first foodbank in London and runs distribution points including St Edmund's in Hayes from its base on New Windsor Street, Uxbridge. Around 176 volunteers keep it going, collecting from supermarkets, churches and schools, while the big food-redistribution and foodbank networks, Trussell and FareShare, supply the wider effort. The Salvation Army's Hillingbridge presence and Harlington Hospice both back food and welfare work for families in and around Hayes.",
+      "The sector runs at every size in Hayes. National and regional charities keep shops along the Coldharbour Lane and Botwell parade with central buying behind them, while small community groups, the one-room foodbank, pantries and volunteer-run projects work on a shoestring across Yeading, Wood End, Townfield and Harlington. Uxbridge College and Brunel University students volunteer regularly, and community fridges stretch every donation. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Harlington Hospice runs care and charity-shop fundraising reaching into Hayes, while local women's groups, DASH and church-run pantries support specific communities around Botwell and Yeading. Hillingdon AHWP and the borough's volunteer-support network help small groups recruit and train people, and charity shops along Station Road raise money for causes from children's services to air ambulance. Mutual-aid groups formed around Wood End and Townfield still run shopping rounds and befriending for older neighbours, keeping people connected through quieter spells."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Hayes, a Hillingdon Foodbank-supplied community group or a small volunteer-run foodbank in Uxbridge"
+  },
+  "aylesbury": {
+    "region": "Aylesbury, Buckinghamshire",
+    "nearby": ["High Wycombe", "Hemel Hempstead", "Bicester"],
+    "s1_head": "Charity and volunteer kit in Aylesbury",
+    "s1loc": [
+      "Aylesbury Foodbank has handed out hundreds of thousands of meals to local residents since opening in 2016, working through churches and the big food-redistribution and foodbank networks, Trussell and FareShare. Aylesbury Vineyard Storehouse helps people on low incomes with food, furniture and clothing, while Youth Concern runs a youth foodbank at its drop-in centre for 13 to 25 year-olds. The Buckinghamshire Food Partnership ties these efforts together, and Tabitha foodbank opens at the New Testament Church of God on Rickford's Hill.",
+      "The sector runs at every size in Aylesbury. National and regional charities keep shops along the High Street and Kingsbury with central buying behind them, while small community groups, the one-room foodbank, pantries and volunteer-run projects work on a shoestring across Bedgrove, Southcourt and Quarrendon. Florence Nightingale Hospice Charity, with shops in town and a 400-strong volunteer team, sits alongside breakfast clubs fed by the networks. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Florence Nightingale Hospice on the Stoke Mandeville Hospital campus supports around 2,000 patients a year and runs charity shops across Aylesbury, Wendover, Haddenham and beyond. Community Impact Bucks helps smaller groups find volunteers and funding, while charity shops along Friars Square and the High Street raise money for causes from children's services to air ambulance. Mutual-aid networks built around Bedgrove and Southcourt still run shopping drops and befriending for isolated residents, and church-run pantries quietly support families across Quarrendon and Elmhurst."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Aylesbury, a Buckinghamshire Food Partnership-supplied community group or a small volunteer-run foodbank in High Wycombe"
+  },
+  "hereford": {
+    "region": "Hereford, Herefordshire",
+    "nearby": ["Malvern", "Worcester", "Gloucester"],
+    "s1_head": "Charity and volunteer kit in Hereford",
+    "s1loc": [
+      "Hereford Food Bank, a charitable incorporated organisation run by a committee and a small staff team with a band of volunteers, provides seven-day emergency parcels across the city and surrounding county. Most of its food is donated by local people and businesses, backed by the big food-redistribution and foodbank networks, Trussell and FareShare. HVOSS, the Herefordshire Voluntary Organisations Support Service, guides volunteers and small community groups, while St Michael's Hospice anchors care and fundraising right across this rural corner of the West Midlands.",
+      "The sector runs at every size in Hereford. National and regional charities keep shops along Eign Gate and Commercial Street with central buying behind them, while small community groups, the one-room foodbank, pantries and volunteer-run projects work on a shoestring across Whitecross, Tupsley, Belmont and the Whitecross Road parade. St Michael's runs eighteen shops countywide, including its Folly Lane pound shop near the colleges. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "St Michael's Hospice keeps shops on Whitecross Road, Holme Lacy Road and at its Whitestone superstore, raising money for patients and families across Herefordshire. Charity shops along Eign Gate back causes from air ambulance to children's services, while community pantries and church projects around Hunderton, Newton Farm and the Bishopstone villages keep neighbours fed. Mutual-aid groups formed in Whitecross and Tupsley still run shopping rounds and befriending for older residents, and HVOSS helps these small groups recruit and train the volunteers they rely on."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Hereford, a FareShare-supplied community group or a small volunteer-run foodbank in Malvern"
+  },
+  "merthyr tydfil": {
+    "region": "Merthyr Tydfil, South Wales",
+    "nearby": ["Aberdare", "Pontypridd", "Caerphilly"],
+    "s1_head": "Charity and volunteer kit in Merthyr Tydfil",
+    "s1loc": [
+      "Merthyr Cynon Foodbank serves Merthyr Tydfil through the Trussell network, backed by Merthyr Valleys Homes, Merthyr Tydfil Housing Association and Cynon Taf Community Housing so the service keeps running in the valleys. FareShare Cymru, based near Cardiff, redistributes surplus food to charities and community groups across South Wales. Voluntary Action Merthyr Tydfil supports the town's smaller groups, while the Merthyr Tydfil Food Prosperity Network develops Affordable Food Clubs offering nutritious food at low cost to local families.",
+      "The sector runs at every size in Merthyr Tydfil. National and regional charities keep shops along the High Street and St Tydfil's centre with central buying behind them, while small community groups, the one-room foodbank, pantries and volunteer-run projects work on a shoestring across Gurnos, Galon Uchaf, Penydarren and Dowlais. Age Connects Morgannwg and church-run pantries draw on the redistribution networks for breakfast clubs and luncheon clubs. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Beyond the foodbank, Voluntary Action Merthyr Tydfil helps small groups find volunteers and funding, and the Affordable Food Clubs and Pathways from Poverty projects reach families across the borough. Charity shops along Merthyr's High Street raise money for causes from air ambulance to children's services, while community hubs around Treharris, Bedlinog and Troedyrhiw run pantries and befriending. Mutual-aid networks built up in Gurnos and Penydarren still organise shopping drops for older and isolated residents, keeping people connected through the valleys' harder winter spells."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Merthyr Tydfil, a FareShare Cymru-supplied community group or a small volunteer-run foodbank in Aberdare"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "tynemouth": {
+    "region": "Tynemouth, North Tyneside, Tyne and Wear",
+    "nearby": ["North Shields", "Whitley Bay", "South Shields"],
+    "s1_head": "Charity and volunteer kit in Tynemouth",
+    "s1loc": [
+      "Tynemouth sits within a busy North Tyneside charity scene anchored by FareShare North East, the surplus-food charity that runs over 100 volunteers and staff and supplies more than 260 charities and community groups across Newcastle, Sunderland and the two Tyneside boroughs. The Bay Foodbank and other volunteer-run projects feed people in crisis nearby, while VODA, the borough's Voluntary Organisations Development Agency, has backed local charities and volunteers for over thirty years from its North Shields base.",
+      "The sector here runs at every size. National charities with shops along Front Street and central buying sit beside regional names like St Oswald's Hospice with its gardening volunteers, and beside small community groups, the one-room foodbank and volunteer-run pantries working on a shoestring across Cullercoats, North Shields and Whitley Bay. We serve the national charity and the one-room foodbank alike, with trade accounts for the big names and direct online ordering for everyone else, no minimum order.",
+      "Beyond the foodbanks, North Tyneside Big Local runs a community shop and cafe in Whitley Bay on the back of more than fifty regular volunteers, and St Mary's Church in Monkseaton hosts a repair cafe and charity-shop team. A British Red Cross shop trades in Whitley Bay, PDSA and Little1Stop run charity-shop volunteering in North Shields, and Whitley Bay and District Scouts pull in helpers too. From mutual-aid groups to the hospice gardens, this is a patchwork of small, proud, locally-run effort across the coast."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Tynemouth, a FareShare North East-supplied community group or a small volunteer-run foodbank in Whitley Bay"
+  },
+  "cannock": {
+    "region": "Cannock, Cannock Chase, Staffordshire",
+    "nearby": ["Walsall", "Stafford", "Burntwood"],
+    "s1_head": "Charity and volunteer kit in Cannock",
+    "s1loc": [
+      "Cannock's frontline against hardship is Cannock and District Foodbank, an entirely volunteer-run project in the Trussell network that hands out emergency food parcels by voucher, with a trained volunteer offering a warm welcome and a listening ear. The big food-redistribution and foodbank networks back local groups here, and Lichfield District Council points residents to a wider mesh of foodbanks and charities serving Cannock Chase and the towns around it.",
+      "The sector runs at every size. Katharine House Hospice runs around fourteen charity shops across Staffordshire with central buying, including its Big Shop in Cannock and a Market Street branch in Hednesford, and St Giles Hospice keeps its own shop network too. Beside them sit small community groups, the one-room foodbank and pantries kept going on a shoestring across Hednesford, Heath Hayes and Norton Canes. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum order.",
+      "There is plenty more local effort to clothe. Cannock Chase Shed offers community support and a workshop for people who would otherwise be isolated, while Burntwood and Cannock Chase Community First Responders give their own time to emergencies across the district. Volunteer-run charity shops dot Cannock town centre and Hednesford Market Street, mutual-aid and church-led groups gather donations, and the hospice shops draw in sorting and till volunteers of every age. From the Chase villages inward, this is small, proud, locally-run charity."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Cannock, a Trussell-supplied community group or a small volunteer-run foodbank in Burntwood"
+  },
+  "farnborough": {
+    "region": "Farnborough, Rushmoor, Hampshire",
+    "nearby": ["Aldershot", "Camberley", "Fleet"],
+    "s1_head": "Charity and volunteer kit in Farnborough",
+    "s1loc": [
+      "Farnborough Foodbank, part of the Trussell network, leans on its local community for donations, money and volunteers, who sort and date-check food before packing parcels of three days' balanced food for people referred in crisis. Rushmoor Borough Council points residents to food at sites across Farnborough and neighbouring Aldershot, and Rushmoor Voluntary Services helps match willing helpers to the borough's many causes, big and small.",
+      "The sector runs at every size. Phyllis Tuckwell Hospice Care, serving West Surrey and north-east Hampshire since 1979, runs high-street charity shops with central buying, including a Kingsmead branch in Farnborough and shops in Aldershot, Frimley and Ash Vale staffed by volunteers who sort, steam and price stock. Beside them sit small community groups, the one-room foodbank and volunteer-run projects on a shoestring across Cove, North Camp and Aldershot. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum order.",
+      "Other local charities round out the picture. Step by Step supports young people facing homelessness and hard times across the Rushmoor area, and a steady stream of charity-shop, befriending and homeless-support volunteering runs through Farnborough and Aldershot. Church halls and mutual-aid groups gather donations, the Rushmoor Link directory lists scores of small voluntary groups, and Phyllis Tuckwell's shops keep recruiting helpers. From Cove to North Camp, this is small, proud, locally-run effort alongside the national names."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Farnborough, a Trussell-supplied community group or a small volunteer-run foodbank in Aldershot"
+  },
+  "torquay": {
+    "region": "Torquay, Torbay, Devon",
+    "nearby": ["Paignton", "Newton Abbot", "Exeter"],
+    "s1_head": "Charity and volunteer kit in Torquay",
+    "s1loc": [
+      "Torquay's safety net is woven by the Torbay Food Alliance, a partnership of community foodbanks working across Torquay, Paignton and Brixham so no one in the bay goes hungry. Rowcroft Hospice, the independent Torbay and South Devon hospice based in Torquay, cares for more than 2,200 patients a year with the help of over 400 dedicated volunteers. The Salvation Army runs its own Torquay community work, and the big food-redistribution networks feed surplus into the local groups.",
+      "The sector runs at every size. Rowcroft and national charities run high-street shops with central buying, taking on volunteers from age sixteen, or fourteen in the shops, beside small community groups, the one-room foodbank and pantries kept going on a shoestring across Castle Circus, Ellacombe and St Marychurch. We serve the national charity and the one-room foodbank alike, with trade accounts for the big names and direct online ordering for the smallest project, no minimum order.",
+      "There is a wide spread of further local effort. Rowcroft's shops and warehouse pull in hundreds of helpers, from sorting donations to driving collections, and the hospice's home-care teams reach across South Devon. Community larders, church-run pantries and mutual-aid groups operate through Torre, Babbacombe and Chelston, and the Salvation Army adds food and family support. From the harbourside up the hills, this is a patchwork of small, proud, locally-run charity working alongside the household names."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Torquay, a Torbay Food Alliance-supplied community group or a small volunteer-run foodbank in Paignton"
+  },
+  "inverness": {
+    "region": "Inverness, Highland, Scotland",
+    "nearby": ["Elgin", "Aberdeen", "Perth"],
+    "s1_head": "Charity and volunteer kit in Inverness",
+    "s1loc": [
+      "Inverness anchors a Highland-wide charity effort. Highland Foodbank, now run by Inverness charity New Start Highland after a handover from Blythswood Care, distributes around 5,000 emergency food parcels a year through a small staff team and more than seventy committed volunteers serving Inverness, Nairn, Alness, Tain and Dingwall. Inverness Foodstuff runs from Ness Bank Church, and surplus-food logistics feed the wider network of community projects across the firth.",
+      "The sector runs at every size. Highland Hospice runs charity shops with central buying and an inpatient unit in Inverness, beside national charities with shops on Eastgate and the High Street, and beside small community groups, the one-room foodbank and volunteer-run projects on a shoestring across Merkinch, Hilton and the Crown. We serve the national charity and the one-room foodbank alike, with trade accounts for the big names and direct online ordering for the smallest group, no minimum order.",
+      "Other Highland charities widen the picture. New Start Highland's Training and Reuse Village in Merkinch runs a bike hub, pre-loved retail, a cafe and a training kitchen, supporting around 1,500 families a year, while Mikeysline, the Highland mental-health and suicide-prevention charity, takes its Hive on the Road vehicle out and runs a nightly textline with its own volunteers. The Highland Third Sector Interface matches helpers to causes, and church and mutual-aid groups gather donations. This is small, proud, locally-run effort beside the bigger names."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Inverness, a New Start Highland-supplied community group or a small volunteer-run foodbank in Elgin"
+  },
+  "wrexham": {
+    "region": "Wrexham, Wrexham County Borough, Wales",
+    "nearby": ["Buckley", "Oswestry", "Ellesmere Port"],
+    "s1_head": "Charity and volunteer kit in Wrexham",
+    "s1loc": [
+      "Wrexham Foodbank, open since 2012, runs eight distribution centres handing out thousands of food packages a year to families across the city and the towns around it, with volunteers at its heart. FareShare Cymru, founded in 2010, rescues surplus food and works with over 170 organisations tackling hunger across Wales, feeding the local groups. AVOW, the Association of Voluntary Organisations in Wrexham, is the county voluntary council that matches people to volunteering and backs the wider third sector.",
+      "The sector runs at every size. Hope House and Ty Gobaith children's hospices support more than 750 local families and run charity shops with central buying, including a branch on Charles Street, beside national charities with shops in the city centre, and beside small community groups, the one-room foodbank and volunteer-run projects on a shoestring across Caia Park, Hightown and Rhosddu. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum order.",
+      "There is plenty more local effort. Nightingale House Hospice provides free palliative care across Wrexham, Flintshire, east Denbighshire and the border towns including Oswestry, leaning on over 500 volunteers and its own shops. The Caia Park Partnership runs family support in one of the city's biggest estates, AVOW lists scores of small voluntary groups, and church and mutual-aid teams gather donations across Acton, Gwersyllt and the centre. This is small, proud, locally-run charity beside the household names."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Wrexham, a FareShare Cymru-supplied community group or a small volunteer-run foodbank in Buckley"
+  },
+  "loughborough": {
+    "region": "Loughborough, Charnwood, Leicestershire",
+    "nearby": ["Leicester", "Coalville", "Melton Mowbray"],
+    "s1_head": "Charity and volunteer kit in Loughborough",
+    "s1loc": [
+      "Loughborough Area Foodbank, part of the Trussell network, calls its volunteers the lifeblood of the operation as it feeds people referred in crisis across Charnwood. John Storer Charnwood acts as the Charnwood Community Action Hub and central foodbank, and its Your Store pantry stocks shelves with food from FareShare, supermarket and community donations alongside purchased stock, with members able to volunteer onto the team themselves. The big food-redistribution networks keep the supply flowing.",
+      "The sector runs at every size. Rainbows Hospice for children and young people runs charity shops with central buying, including a branch at Cattle Market in Loughborough, beside national charities with shops along Market Street, and beside small community groups, the one-room foodbank and volunteer-run pantries on a shoestring across Hastings, Shelthorpe and the town centre. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum order.",
+      "Further local effort fills the gaps. Rainbows draws volunteers into its shops and fundraising for families across Leicestershire and beyond, and Voluntary Action LeicesterShire matches helpers to causes across the county. The Leicestershire and Rutland Community Foundation channels emergency grants to grassroots groups, while church-run pantries and mutual-aid teams gather donations across Thorpe Acre, Mountfields and the town's estates. Your Store members can step in to volunteer and run the shelves themselves. From hospice shop to pantry, this is small, proud, locally-run charity working alongside the bigger national names."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Loughborough, a FareShare-supplied community group or a small volunteer-run foodbank in Coalville"
+  }
+}

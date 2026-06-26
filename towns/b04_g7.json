@@ -1,0 +1,86 @@
+{
+  "horsham": {
+    "region": "Horsham, West Sussex",
+    "nearby": ["Crawley", "Haywards Heath", "Burgess Hill"],
+    "s1_head": "Charity and volunteer kit across Horsham",
+    "s1loc": [
+      "Horsham's frontline runs on Horsham Matters, the Christian charity behind the Horsham District Community Foodbank at its Redkiln Close warehouse, working within the Trussell network and Horsham Churches Together. St Catherine's Hospice, with shops at East Street and across the district, leans on more than 600 volunteers, while the Sussex Community Foundation channels grants to small local groups. National names sit alongside parish-rooted projects, and the big food-redistribution and foodbank networks keep parcels moving to people in crisis right across the town.",
+      "The sector here runs at every size. Regional charities like St Catherine's Hospice and national names such as the British Heart Foundation hold high-street shops and buy kit centrally, while tiny community groups, pantries and volunteer-run projects scrape by on a shoestring across the Carfax, Roffey and Broadbridge Heath. From Redkiln Close to the town-centre charity rows, the mix is national charity plus one-room foodbank. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Beyond the foodbank, Horsham carries a deep voluntary layer. Community Southern and church-run drop-ins gather donations, the district's charity-shop cluster along West Street and the Carfax raises real money for hospice and air-ambulance causes, and volunteer centres co-ordinate befriending and warm-space rotas. Sussex Community Foundation backs grassroots mutual-aid and youth groups in Roffey, Southwater and Billingshurst, while St Catherine's collection points and the BHF store keep the resale chain busy. Every name here works on tight margins, with helpers giving time rather than wages."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Horsham, a Horsham Matters-supplied community group or a small volunteer-run foodbank in Crawley"
+  },
+  "washington": {
+    "region": "Washington, Tyne and Wear",
+    "nearby": ["Sunderland", "Gateshead", "Chester-le-Street"],
+    "s1_head": "Charity and volunteer kit across Washington",
+    "s1loc": [
+      "Washington's frontline is the Washington Community Food Project, a volunteer-run, independent foodbank with no paid staff covering the whole of Washington and Springwell. Alongside it, the County Durham and Sunderland Foodbank works within the Trussell network, founded by local churches and community groups. St Benedict's Hospice, caring for Sunderland and surrounding districts since 1984, runs charity shops across the area, and the Community Foundation Tyne and Wear and Northumberland funds small grassroots groups right across the town.",
+      "The sector here runs at every size. Regional charities like St Benedict's Hospice and national names hold high-street shops and buy kit centrally, while small community groups, pantries and volunteer-run projects manage on a shoestring across Concord, Sulgrave and Albany. From the Galleries area to estate church halls, the picture is national charity plus one-room foodbank side by side. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Washington's wider voluntary scene is busy too. The Washington Community Food Project leans entirely on volunteers for sorting and parcels, while befriending and warm-space rotas are co-ordinated through Sunderland's volunteer centres and church drop-ins. Charity shops across Concord and the Galleries raise income for hospice and heart causes, and the Community Foundation backs mutual-aid and youth projects in Biddick, Fatfield and Usworth. Every group here works on tight margins, with helpers giving hours rather than drawing pay, keeping food and support moving locally."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Washington, a County Durham and Sunderland Foodbank-supplied community group or a small volunteer-run foodbank in Chester-le-Street"
+  },
+  "hornchurch": {
+    "region": "Hornchurch, London Borough of Havering",
+    "nearby": ["Romford", "Upminster", "Ilford"],
+    "s1_head": "Charity and volunteer kit across Hornchurch",
+    "s1loc": [
+      "Hornchurch sits within Havering's voluntary network, where the Havering Volunteer Centre partners the borough's Trussell foodbanks at Collier Row and Romford, Harold Hill and Rainham. Saint Francis Hospice, serving Havering, Barking and Dagenham, Redbridge and Brentwood for over 40 years, runs a chain of charity shops including a High Street superstore in Hornchurch. Hundreds of volunteers keep these going, and the borough's Community Chest grants channel funds to small groups such as Rainham Foodbank.",
+      "The sector here runs at every size. Regional charities like Saint Francis Hospice and national names hold high-street shops and buy kit centrally, while tiny community groups, pantries and volunteer-run projects manage on a shoestring across Elm Park, Emerson Park and Ardleigh Green. From the Hornchurch High Street superstore to one-room church halls, it is national charity plus one-room foodbank together. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Hornchurch's voluntary layer reaches further still. The Havering Volunteer Centre runs a Check-in and Chat befriending service and co-ordinates helpers across the borough, while the Live Well Empowerment Service runs wellbeing hubs in Hornchurch, Rainham and Harold Hill. Saint Francis Hospice shops at Station Parade in Elm Park and on the High Street near Emerson Park keep the resale chain busy, and Havering and Brentwood Bereavement Counselling and mutual-aid groups give time freely, working on the tightest of margins."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Hornchurch, a Havering Volunteer Centre-supplied community group or a small volunteer-run foodbank in Upminster"
+  },
+  "kettering": {
+    "region": "Kettering, North Northamptonshire",
+    "nearby": ["Wellingborough", "Corby", "Rushden"],
+    "s1_head": "Charity and volunteer kit across Kettering",
+    "s1loc": [
+      "Kettering's frontline is the Kettering Foodbank at The Courtyard on Horsemarket, a registered charity ensuring no one in the area goes hungry, alongside the Salvation Army foodbank on Rockingham Road. The Kettering Community Unit runs foodbanks, low-cost shops and crisis aid to cut poverty, while the Northamptonshire Community Foundation channels grants to small local groups. National charities sit beside these grassroots projects, and the big food-redistribution and foodbank networks keep parcels moving to people in crisis across the town.",
+      "The sector here runs at every size. National and regional charities such as Home-Start Kettering Area and Citizens Advice North Northants hold shops and buy kit centrally, while small community groups, pantries and volunteer-run projects manage on a shoestring across Avondale, Northall and St Michael's. From the Horsemarket warehouse to estate church halls, it is national charity plus one-room foodbank together. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Kettering's wider voluntary scene runs deep. Groundwork Northants, Kettering Mind, Northamptonshire Carers and the volunteer-led Kettering Wombles all draw on local helpers, and the Town Council's volunteer fair gathers groups together each summer. Charity shops across the town centre raise income for health and welfare causes, the Rotary Club of Kettering and Home-Start give time freely, and the Northamptonshire Community Foundation backs mutual-aid and youth projects. Every group here works on tight margins, with helpers giving hours rather than wages."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Kettering, a Northamptonshire Community Foundation-supplied community group or a small volunteer-run foodbank in Corby"
+  },
+  "brierley hill": {
+    "region": "Brierley Hill, Dudley, West Midlands",
+    "nearby": ["Dudley", "Stourbridge", "Kingswinford"],
+    "s1_head": "Charity and volunteer kit across Brierley Hill",
+    "s1loc": [
+      "Brierley Hill is home to the Black Country Foodbank's central warehouse, the hub of a network of 26 foodbanks and more than 300 volunteers serving the Dudley, Sandwell and Walsall boroughs within the Trussell network. The town also hosts the Brierley Hill Baby Bank for families with young children and Provision House, the Christian poverty-relief charity once known as Loaves n Fishes. The Brierley Hill Samaritans branch and local building societies back the foodbank too.",
+      "The sector here runs at every size. National and regional charities hold high-street shops and buy kit centrally, while small community groups, pantries and volunteer-run projects manage on a shoestring across Quarry Bank, Pensnett and Amblecote. From the Black Country Foodbank warehouse to one-room church halls, it is national charity plus one-room foodbank together. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Brierley Hill's voluntary layer reaches across the Black Country. Dudley CVS co-ordinates volunteering opportunities right across the borough, the Black Country Foodbank leans on hundreds of helpers for sorting and parcels, and charity shops along the High Street and at the Merry Hill area raise income for hospice and welfare causes. Marie Curie supports families facing life-limiting illness, while mutual-aid and baby-bank groups in Quarry Bank and Withymoor give time freely, working on the tightest of margins to keep support local."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Brierley Hill, a Black Country Foodbank-supplied community group or a small volunteer-run foodbank in Kingswinford"
+  },
+  "corby": {
+    "region": "Corby, North Northamptonshire",
+    "nearby": ["Kettering", "Wellingborough", "Market Harborough"],
+    "s1_head": "Charity and volunteer kit across Corby",
+    "s1loc": [
+      "Corby's frontline is the Corby Foodbank, part of the Trussell network, running from St Peter and St Andrew's Church on Beanfield Avenue and taking referrals through Citizens Advice Corby. The Corby Church of Scotland runs a foodbank, homeless project and Street Pastors under its Recycled Teenagers banner, while Home-Start Corby sends volunteers to families with young children. The Northamptonshire Community Foundation channels grants to small local groups across the town.",
+      "The sector here runs at every size. National and regional charities such as Mind in Corby and Citizens Advice Corby hold shops and buy kit centrally, while small community groups, pantries and volunteer-run projects manage on a shoestring across Kingswood, Danesholme and Beanfield. From the Beanfield Avenue church hall to estate drop-ins, it is national charity plus one-room foodbank together. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Corby's wider voluntary scene runs deep. Community Companions sends volunteers to visit people with health needs or disabilities at home, Mind in Corby runs eco-therapy garden sessions, and the Town Council lists grassroots volunteer groups across the town. Charity shops in the town centre raise income for health and welfare causes, Home-Start and the Street Pastors give time freely, and the Northamptonshire Community Foundation backs mutual-aid and youth projects in Lloyds, Studfall and Oakley Vale, all working on tight margins."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Corby, a Northamptonshire Community Foundation-supplied community group or a small volunteer-run foodbank in Kettering"
+  },
+  "bracknell": {
+    "region": "Bracknell, Bracknell Forest, Berkshire",
+    "nearby": ["Wokingham", "Camberley", "Sandhurst"],
+    "s1_head": "Charity and volunteer kit across Bracknell",
+    "s1loc": [
+      "Bracknell's frontline is the Bracknell Foodbank, based at Kerith Community Church in the town centre and part of the Trussell network, packing three days of food per parcel. SHARE Bracknell redistributes surplus fresh food from supermarkets each Friday from its pop-up at St Andrew's in Priestwood. Involve is the central support body for voluntary, community and faith groups in Bracknell Forest, and Thames Hospice cares for people across East Berkshire with charity shops at Princess Square.",
+      "The sector here runs at every size. Regional charities like Thames Hospice and national names hold high-street shops and buy kit centrally, while small community groups, pantries and volunteer-run projects manage on a shoestring across Priestwood, Easthampstead and Bullbrook. From the Kerith church base to the Friday food-share at St Andrew's, it is national charity plus one-room foodbank together. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Bracknell's voluntary layer reaches further still. Involve and the Get Involved in Bracknell Forest portal co-ordinate hundreds of helpers across the borough, while Home-Start Bracknell Forest supports families with young children. Sebastian's Action Trust, the charity for families of seriously ill children, runs its Bas Books shop in Princess Square at The Lexicon, and Thames Hospice shops raise income for end-of-life care. Mutual-aid and warm-space groups in Priestwood, Hanworth and Wildridings give time freely, all working on the tightest of margins."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Bracknell, a SHARE Bracknell-supplied community group or a small volunteer-run foodbank in Wokingham"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "halesowen": {
+    "region": "Halesowen, Dudley borough, West Midlands",
+    "nearby": ["Stourbridge", "Dudley", "Smethwick"],
+    "s1_head": "Charity and volunteer kit across Halesowen",
+    "s1loc": [
+      "Halesowen sits in the Dudley borough, and its charity life leans heavily on the Black Country Foodbank, which runs a busy outlet at Lifecentral Church on Little Cornbow handing out emergency parcels three days a week. Halesowen Library doubles as a donation point, and the network feeds in from FareShare-style food redistribution across the region. Dudley CVS supports the wider voluntary scene, helping small community groups find volunteers and steady their footing in a town where every donated pound is counted.",
+      "The sector here runs at every size. National names like the British Heart Foundation and the Mary Stevens Hospice keep charity shops on the high street, ordering kit through trade accounts and central buying, while tiny volunteer-run projects, foodbanks and community pantries stretch a shoestring budget across Cradley, Hasbury and Halesowen town centre. We are set up to serve the national charity ordering for a chain of shops and the one-room foodbank ordering a handful of polos alike, with trade accounts and direct online ordering and no minimum.",
+      "Beyond the foodbank, the Mary Stevens Hospice anchors a wide retail estate, with shops and a furniture store at Cradley and Cradley Heath funding free specialist care across the Dudley borough. Charity shops cluster along Halesowen high street, and mutual-aid and church-led groups in Hasbury, Hayley Green and Quinton run warm spaces and collections on volunteer goodwill. Lifecentral Church coordinates much of the local effort, and small fundraising committees turn out for events that keep these one-room projects in food and basic kit through the year."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Halesowen, a Black Country Foodbank-supplied community group or a small volunteer-run foodbank in Stourbridge"
+  },
+  "tunbridge wells": {
+    "region": "Royal Tunbridge Wells, Kent",
+    "nearby": ["Tonbridge", "Sevenoaks", "Crowborough"],
+    "s1_head": "Charity and volunteer kit in Tunbridge Wells",
+    "s1loc": [
+      "Tunbridge Wells is home to Nourish Community Foodbank, an independent charity that provided close to 160,000 meals last year from its warehouse on the North Farm Industrial Estate at Kingstanding Way. Founded with seed funding from Town and Country Housing and matched money from the borough council, Nourish runs on sorting, packing and delivery volunteers. Community larders and warm spaces dot the town, and the big food-redistribution and foodbank networks keep surplus moving to the groups that need it across the borough.",
+      "The sector runs at every size here. Hospice in the Weald keeps a large retail estate, with a Camden Road shop dating to 1985 and superstores and furniture shops ordering through trade accounts and central buying, while national charities hold shops along the high street. Against that sit small community groups, foodbanks, pantries and volunteer-run projects on a shoestring across St John's, Sherwood and Showfields. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering and no minimum.",
+      "Hospice in the Weald sits at the centre of local giving, funding terminal care largely through its shops rather than government money, and recently opened a children's hospice shop in the heart of the town. National names such as the British Red Cross and Sue Ryder keep further charity shops trading, and mutual-aid groups, church larders and volunteer centres across Rusthall, Southborough and Pembury run collections and community meals. Reach Volunteering and local trustees help keep these small projects staffed and steady on tight budgets year-round."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Tunbridge Wells, a Nourish Community Foodbank-supplied community group or a small volunteer-run foodbank in Tonbridge"
+  },
+  "dunfermline": {
+    "region": "Dunfermline, Fife, Scotland",
+    "nearby": ["Kirkcaldy", "Glenrothes", "Livingston"],
+    "s1_head": "Charity and volunteer kit across Dunfermline",
+    "s1loc": [
+      "Dunfermline Foodbank works out of the Liberty Centre on Pitreavie Business Park, handing out three days of emergency food and signposting to advice, and recruiting volunteers it calls the lifeblood of the operation. The Cottage Family Centre is a long-standing local charity, drawing grants such as Fife Housing Group's Giving Something Back fund, and Fife Voluntary Action supports the wider voluntary scene. Surplus from the big food-redistribution networks keeps community pantries stocked across Scotland's old capital.",
+      "The sector here runs at every size. National charities such as the British Heart Foundation, the Salvation Army on the High Street, Sue Ryder near Pittencrieff Park and Chest Heart and Stroke Scotland keep shops trading on trade accounts and central buying, while small community groups, foodbanks, pantries and volunteer-run projects work a shoestring across Touch, Abbeyview and Duloch. Food For Your Future runs a pantry at Touch Community Centre. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering and no minimum.",
+      "Beyond the foodbank, CHAS keeps charity shops in the town funding children's hospice care, and the British Red Cross runs a shop at Duloch Park. Fife Voluntary Action lists volunteering across charity shops, community pantries and mutual-aid groups, and church-led projects in Abbeyview, Duloch and the town centre run warm spaces on volunteer goodwill. Small fundraising committees turn out for events around Pittencrieff Park, keeping these shoestring projects in food and basic kit through a long Fife winter."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Dunfermline, a Dunfermline Foodbank-supplied community group or a small volunteer-run foodbank in Kirkcaldy"
+  },
+  "livingston": {
+    "region": "Livingston, West Lothian, Scotland",
+    "nearby": ["Edinburgh", "Bathgate", "Falkirk"],
+    "s1_head": "Charity and volunteer kit across Livingston",
+    "s1loc": [
+      "Livingston is the hub for West Lothian Foodbank, which started in Whitburn in 2012 and now runs over 150 volunteers, seven distribution centres, warehouses and charity shops in Whitburn and Armadale. Livingston Old Parish hosts a distribution centre at St Andrew's Church Hall, and Livingston FC regularly runs collections. Surplus from the big food-redistribution networks keeps parcels moving, and the foodbank leans on volunteers it counts as vital to reaching families in crisis across the new town.",
+      "The sector here runs at every size. National charities keep shops trading at The Centre and across the district on trade accounts and central buying, while small community groups, foodbanks, pantries and volunteer-run projects stretch a shoestring across Craigshill, Howden, Knightsridge and Dedridge. Cyrenians runs OPAL community groups for older people alongside Carers of West Lothian at Sycamore House. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering and no minimum.",
+      "Beyond the foodbank, Carers of West Lothian supports unpaid carers from Quarrywood Court, and St Columba's Hospice runs charity shops that fund palliative care reaching the Lothians. National names keep further shops trading, and mutual-aid groups, church larders and volunteer centres across Ladywell, Eliburn and Deans run warm spaces and community meals on volunteer goodwill. Small fundraising committees and church teams turn out for events that keep these one-room projects in food and basic kit right through the year."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Livingston, a West Lothian Foodbank-supplied community group or a small volunteer-run foodbank in Bathgate"
+  },
+  "barrow-in-furness": {
+    "region": "Barrow-in-Furness, Cumbria",
+    "nearby": ["Ulverston", "Kendal", "Lancaster"],
+    "s1_head": "Charity and volunteer kit across Barrow",
+    "s1loc": [
+      "Barrow-in-Furness leans on Barrow Foodbank, run from Abbey Road Baptist Church and giving out three days of emergency food to people referred in crisis. The Well Communities have teamed up with FareShare to run Food Clubs at Barrow Christian Fellowship and the Bram Longstaffe Community Hub, where bags of groceries go for a small payment. A social supermarket on Dalton Road sells short-dated food at a fraction of retail price, and St Mary's Hospice anchors care on the Furness peninsula.",
+      "The sector here runs at every size. National charities keep shops trading on Dalton Road and across the town centre on trade accounts and central buying, while small community groups, foodbanks, food clubs and volunteer-run projects work a shoestring across Barrow Island, Walney, Ormsgill and Hindpool. St Mary's Hospice runs a Compassionate Community Hub on Duke Street powered by volunteers. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering and no minimum.",
+      "Beyond the foodbank, St Mary's Hospice keeps a wide retail estate funding free care across the Furness peninsula and South Lakes, with volunteers at its heart. National names keep further charity shops trading on Dalton Road, and mutual-aid groups, church larders and the Furness For You support hub list warm spaces and community projects across Walney, Roosecote and Barrow Island. Local backers such as Furness Building Society chip in, and small fundraising committees turn out for events that keep these shoestring projects in food and basic kit year-round."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Barrow-in-Furness, a FareShare-supplied community group or a small volunteer-run foodbank in Ulverston"
+  },
+  "bebington": {
+    "region": "Bebington, Wirral, Merseyside",
+    "nearby": ["Birkenhead", "Wallasey", "Bromborough"],
+    "s1_head": "Charity and volunteer kit across Bebington",
+    "s1loc": [
+      "Bebington sits on the Wirral, served by Wirral Foodbank, which runs emergency food from its base on Dock Road in Birkenhead and keeps donation points at Bebington Central Library and Asda Bromborough. FareShare Merseyside redistributes surplus food to around 200 charities and community groups across Merseyside and the Wirral, feeding thousands each week. The foodbank calls its volunteers the life blood of the work, and the town's church-led projects lean on the same network to reach families in crisis.",
+      "The sector here runs at every size. National charities and Age UK Wirral keep shops trading, with Age UK alone running sixteen across the borough on trade accounts and central buying, while small community groups, foodbanks, pantries and volunteer-run projects stretch a shoestring across Higher Bebington, New Ferry, Port Sunlight and Spital. Wirral Hospice St John's and Claire House keep shops in Bebington and Bromborough too. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering and no minimum.",
+      "Beyond the foodbank, Claire House Children's Hospice cares for children and young people from its Bebington site, and Wirral Hospice St John's funds free adult care largely through donations and a chain of charity shops. Age UK Wirral runs a shop on Church Road in Bebington, and mutual-aid groups, church larders and volunteer centres across New Ferry, Eastham and Port Sunlight run warm spaces on volunteer goodwill. Small fundraising committees turn out for events that keep these one-room projects in food and basic kit through the year."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Bebington, a FareShare Merseyside-supplied community group or a small volunteer-run foodbank in Bromborough"
+  },
+  "smethwick": {
+    "region": "Smethwick, Sandwell, West Midlands",
+    "nearby": ["West Bromwich", "Birmingham", "Oldbury"],
+    "s1_head": "Charity and volunteer kit across Smethwick",
+    "s1loc": [
+      "Smethwick is home to Brushstrokes Community Project, a charity running since 1999 that supports refugees, asylum seekers and migrants across Sandwell and West Birmingham and runs a foodbank on Tuesdays and Thursdays, depending heavily on its volunteers. Smethwick Foodbank, built on Christian values and part of the Smethwick CAN projects, helps people in crisis keep their dignity, while Sandwell Churches Link coordinates food support across the borough. The big food-redistribution and foodbank networks keep surplus moving to these groups.",
+      "The sector here runs at every size. National charities keep shops trading along Smethwick High Street and the Cape on trade accounts and central buying, while small community groups, foodbanks, pantries and volunteer-run projects work a shoestring across Bearwood, Cape Hill, Soho and Londonderry. The Salma Food Bank serves the area too, and Brushstrokes leans on a small staff team backed by many volunteers. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering and no minimum.",
+      "Beyond the foodbank, Sandwell Churches Link maps food support across the borough's six towns, and the Black Country Food Bank runs an Oldbury outlet at the New Testament Church of God on Church Street. National names keep further charity shops trading in Bearwood, and mutual-aid groups, church larders and volunteer centres across Cape Hill, Smethwick High Street and Londonderry run warm spaces and community meals on volunteer goodwill. Small fundraising committees turn out for events that keep these shoestring projects in food and basic kit through the year."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Smethwick, a Black Country Food Bank-supplied community group or a small volunteer-run foodbank in Oldbury"
+  }
+}

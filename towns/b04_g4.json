@@ -1,0 +1,86 @@
+{
+  "stourbridge": {
+    "region": "Stourbridge, Dudley borough, West Midlands",
+    "nearby": ["Halesowen", "Dudley", "Brierley Hill"],
+    "s1_head": "Charity and volunteer kit across Stourbridge",
+    "s1loc": [
+      "Stourbridge sits inside the Black Country Foodbank network, which runs emergency food provision across the Dudley borough alongside the big food-redistribution networks. Mary Stevens Hospice is the town's best-known charity, with its High Street shop, Coffee Stop and Community Companion volunteers providing free palliative care. Dudley CVS coordinates volunteering across the borough from its base, listing roles for the hospice and countless small groups, while local churches and community centres host pantries and crisis support for families in hardship.",
+      "The sector here runs at every size. National charities such as Age UK and Barnardo's keep High Street shops with central buying behind them, while regional players like Mary Stevens Hospice run their own chains across Stourbridge, Wollaston and Lye. Against that sit tiny community groups, the one-room foodbank sessions in church halls, pantries and volunteer-run projects scraping by on a shoestring across Norton, Amblecote and Wollescote. We serve the national charity and the one-room foodbank alike, on trade accounts and direct online, no minimum.",
+      "Beyond the foodbank and the hospice, Stourbridge has a deep bench of volunteer-led support. Mary Stevens Hospice shops reach into Stourbridge town centre, Kingswinford and Brierley Hill, raising the funds that pay for ward and community care. FoodCycle and Salvation Army teams run community meals, and mutual-aid groups in Wollaston and Old Quarter gather donations for neighbours in need. Dudley CVS, the local volunteer hub, threads it all together, matching willing helpers to the charity shops, pantries and warehouse roles that keep the town's safety net standing."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Stourbridge, a Black Country Foodbank-supplied community group or a small volunteer-run foodbank in Halesowen"
+  },
+  "ellesmere port": {
+    "region": "Ellesmere Port, Cheshire West and Chester",
+    "nearby": ["Bromborough", "Neston", "Birkenhead"],
+    "s1_head": "Charity and volunteer kit across Ellesmere Port",
+    "s1loc": [
+      "Ellesmere Port is served by West Cheshire Foodbank, which relieves poverty across Chester, Ellesmere Port and Neston as part of the big foodbank networks. The Salvation Army runs its own foodbank on Tuesdays and Fridays, and The People's Pantry at Wolverham Community Centre offers Saturday food support, breakfast and family activities. Claire House Children's Hospice recruits charity-shop volunteers in the town, while the Ellesmere Port and Neston Association of Voluntary and Community Organisations links residents to local volunteering across the borough.",
+      "The sector here runs at every size. National and regional charities such as Age UK Cheshire and the Chester District Federation for the Blind keep shops with central buying behind them, including the furniture project and the Whitby and Great Sutton charity shops. Against that sit small community groups, the one-room foodbank sessions, the pantries and volunteer-run projects working on a shoestring across Whitby, Great Sutton, Little Sutton and Wolverham. We serve the national charity and the one-room foodbank alike, on trade accounts and direct online, no minimum.",
+      "There is real depth beyond the foodbanks too. Age UK Cheshire's Ellesmere Port shop on the High Street funds services for older people across the county, powered entirely by volunteers handling donations, displays and the till. Wirral-based Claire House draws helpers in from this side of the estuary, and Wolverham Community Centre anchors family activity and food provision. The Volunteer Now Cheshire West service matches residents to charity shops, community-centre projects and pantry rotas across Westminster, Stanney and the wider port town, keeping local goodwill flowing where it counts."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Ellesmere Port, a West Cheshire Foodbank-supplied community group or a small volunteer-run foodbank in Neston"
+  },
+  "dewsbury": {
+    "region": "Dewsbury, Kirklees, West Yorkshire",
+    "nearby": ["Batley", "Mirfield", "Ossett"],
+    "s1_head": "Charity and volunteer kit across Dewsbury",
+    "s1loc": [
+      "Dewsbury sits within North Kirklees, served by Batley Food Bank, a registered charity open five days a week that has helped thousands since 2013, with a Dewsbury donation station at the Yorkshire Building Society branch. Fusion runs foodbank provision from its Dewsbury office, and the Boothroyd Baby Bank supports families with essentials. Community Plus coordinators cover the Dewsbury and Mirfield locality, while Third Sector Leaders Kirklees lists volunteering across the district, connecting the big foodbank networks with named local projects.",
+      "The sector here runs at every size. National and regional charities such as Oxfam, Barnardo's and The Kirkwood and Forget Me Not hospices keep shops with central buying behind them across the town. Against that sit small community groups, the one-room foodbank sessions, the pantries and volunteer-run projects scraping by on a shoestring across Ravensthorpe, Savile Town, Thornhill and Chickenley. We serve the national charity and the one-room foodbank alike, on trade accounts and direct online, no minimum.",
+      "The charity-shop and volunteer scene runs deep here. Forget Me Not Children's Hospice opened a Dewsbury shop in the Princess of Wales Shopping Centre, and Barnardo's trades from Ravensthorpe Shop Park on Huddersfield Road, both funding care across West Yorkshire. The Kirkwood hospice keeps shops nearby, and groups like Savile Town and Ravensthorpe community associations rally neighbours around food and welfare support. Third Sector Leaders Kirklees, the area's volunteer hub, matches residents to shop assistant, warehouse and pantry roles that hold the local safety net together."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Dewsbury, a Batley Food Bank-supplied community group or a small volunteer-run foodbank in Batley"
+  },
+  "widnes": {
+    "region": "Widnes, Halton, Cheshire",
+    "nearby": ["Runcorn", "Warrington", "Northwich"],
+    "s1_head": "Charity and volunteer kit across Widnes",
+    "s1loc": [
+      "Widnes is served by Widnes Foodbank, which provides emergency food parcels to local people in short-term crisis as part of the big foodbank networks, with volunteers meeting and greeting at the door, sorting and weighing donations in the warehouse and signposting further support. Halton Haven Hospice provides specialist palliative care across Widnes and Runcorn, with its own shops and volunteer fundraisers. Halton and St Helens VCA coordinates volunteering across the borough, and Halton Housing has backed the town's foodbanks with funding.",
+      "The sector here runs at every size. National and regional charities keep High Street shops with central buying behind them, and Halton Haven Hospice runs its own charity-shop chain across the area. Against that sit small community groups, the one-room foodbank sessions, the pantries and volunteer-run projects working on a shoestring across Hough Green, Ditton, Farnworth and West Bank. We serve the national charity and the one-room foodbank alike, on trade accounts and direct online, no minimum.",
+      "Beyond the foodbank and the hospice, Widnes has a steady network of volunteer-led support. Halton Haven Hospice shops raise the funds behind its free specialist care, staffed by fundraising volunteers who often go on to become trustees. Local frontline care agencies refer people in crisis to the foodbank, and church-based pantries and the Halton Fibromyalgia Support Group point residents to nearby help. Halton and St Helens VCA, the local volunteer centre, matches willing helpers to charity shops, warehouse rotas and community projects right across the town."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Widnes, a Halton Haven Hospice-supplied community group or a small volunteer-run foodbank in Runcorn"
+  },
+  "runcorn": {
+    "region": "Runcorn, Halton, Cheshire",
+    "nearby": ["Widnes", "Warrington", "Northwich"],
+    "s1_head": "Charity and volunteer kit across Runcorn",
+    "s1loc": [
+      "Runcorn is served by Runcorn and District Foodbank, which relieves poverty through food and toiletries for people in crisis, working with local frontline care agencies who refer clients, as part of the big foodbank networks. Halton Haven Hospice provides specialist palliative care across Runcorn and Widnes, with its own shops and volunteer fundraisers. Halton and St Helens VCA coordinates volunteering across the borough, and Halton Housing has donated to both the Runcorn and Widnes foodbanks to keep emergency provision running.",
+      "The sector here runs at every size. National and regional charities keep High Street shops with central buying behind them, and Halton Haven Hospice runs its own charity-shop chain across the area. Against that sit small community groups, the one-room foodbank sessions, the pantries and volunteer-run projects scraping by on a shoestring across Halton Lea, Castlefields, Murdishaw and Old Town. We serve the national charity and the one-room foodbank alike, on trade accounts and direct online, no minimum.",
+      "There is real depth beyond the foodbank too. Halton Haven Hospice shops fund the free specialist care it gives families across the district, staffed by volunteers whose roles grow over time. Local care agencies handle referrals into the foodbank, while church halls and community centres run pantries and meals for neighbours in hardship. Halton and St Helens VCA, the area's volunteer centre, threads it together, matching residents to charity-shop, warehouse and community-project roles that keep the town's safety net standing."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Runcorn, a Halton Haven Hospice-supplied community group or a small volunteer-run foodbank in Widnes"
+  },
+  "rochester": {
+    "region": "Rochester, Medway, Kent",
+    "nearby": ["Chatham", "Strood", "Maidstone"],
+    "s1_head": "Charity and volunteer kit across Rochester",
+    "s1loc": [
+      "Rochester sits within the Medway Towns, served by Medway Foodbank, run by the charity Help in the Community as part of the big foodbank networks, with its office and warehouse on the Medway City Estate at Sir Thomas Longley Road and distribution centres at Chatham's Magpie Centre and Strood. The charity depends heavily on volunteers for warehouse work, bookkeeping, stock movement and centre management. Medway Volunteer Centre and Medway Voluntary Action connect residents to charitable activity across Rochester, Chatham and Strood.",
+      "The sector here runs at every size. National and regional charities keep High Street shops with central buying behind them across the Medway Towns. Against that sit small community groups, the one-room foodbank sessions, the pantries and volunteer-run projects working on a shoestring across Strood, Borstal, Wainscott and Rochester city centre. We serve the national charity and the one-room foodbank alike, on trade accounts and direct online, no minimum.",
+      "There is real depth to the volunteer scene beyond the foodbank. Medway Voluntary Action runs cost-of-living support and points residents to food and welfare help across the borough, while Medway Volunteer Centre recruits helpers for charitable work spanning Chatham, Rochester and Strood. Church-based distribution points, community pantries and unpaid stewards keep emergency provision moving, and charity shops along Rochester High Street and the surrounding parishes raise the funds that hold it all together for families in hardship."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Rochester, a Medway Foodbank-supplied community group or a small volunteer-run foodbank in Strood"
+  },
+  "twickenham": {
+    "region": "Twickenham, London Borough of Richmond upon Thames",
+    "nearby": ["Hounslow", "Kingston upon Thames", "Feltham"],
+    "s1_head": "Charity and volunteer kit across Twickenham",
+    "s1loc": [
+      "Twickenham sits in the London Borough of Richmond upon Thames, served by Richmond Foodbank, part of Vineyard Community and the big foodbank networks, which runs seven centres across the borough including the Whitton Food Bank at Whitton Community Centre on Percy Road. SPEAR, the Richmond homelessness charity running since 1986, supports rough sleepers and vulnerable people, and the Vineyard Community Centre serves food, washing facilities and clothing to dozens of visitors each morning as an outreach hub for partner agencies.",
+      "The sector here runs at every size. National and regional charities keep High Street shops with central buying behind them across the borough, and Princess Alice Hospice collects furniture for resale around Twickenham. Against that sit small community groups, the one-room foodbank sessions, the pantries and volunteer-run projects working on a shoestring across Whitton, Hampton, St Margarets and Twickenham town centre. We serve the national charity and the one-room foodbank alike, on trade accounts and direct online, no minimum.",
+      "The volunteer network here is dense and well organised. Richmond Foodbank's centres reach Whitton, Hampton's YMCA White House and the Vineyard at Richmond, all run on voucher referrals and staffed by local helpers. SPEAR draws volunteers into outreach and resettlement work for homeless people, while Richmond CVS coordinates the borough's wider charitable effort and publishes the food-provision directory. Charity shops along Twickenham, St Margarets and Whitton, plus mutual-aid groups and church teams, raise the funds and gather the donations that keep neighbours supported."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Twickenham, a Richmond Foodbank-supplied community group or a small volunteer-run foodbank in Kingston upon Thames"
+  }
+}

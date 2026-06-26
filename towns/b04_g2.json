@@ -1,0 +1,86 @@
+{
+  "east kilbride": {
+    "region": "East Kilbride and South Lanarkshire",
+    "nearby": ["Glasgow", "Hamilton", "Rutherglen"],
+    "s1_head": "Charity and volunteer kit across East Kilbride",
+    "s1loc": [
+      "Loaves and Fishes EK hands out more than 250 food parcels a week along with clothing, toiletries and household items, while the East Kilbride Community Foodbank, run by local churches working together at East Mains Baptist Church, keeps a Monday drop-in going for families in crisis. FareShare moves surplus food from the trade out to community groups across Lanarkshire, and the East Kilbride Community Trust rallies volunteers around sport, health and learning for the town.",
+      "The sector here runs at every size. National and regional charities keep shops and central buying behind them, from the British Heart Foundation and Barnardo's Scotland stores to the big research names, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Westwood, Whitehills, the Murray and Lindsayfield. We are set up to serve the national charity with shops across East Kilbride and the one-room foodbank alike, with trade accounts for the big central buyers and direct online ordering, no minimum, for the smallest volunteer group.",
+      "Voluntary Action South Lanarkshire connects helpers to causes town-wide, and Universal Connections runs youth, family and community learning across East Kilbride, with volunteers training as Bikeability leaders. Barnardo's keeps a children's store on Lindsayfield Parade, charity shops cluster through the town centre, and re-established community councils in Westwood pull neighbours together, so the giving runs from a national retail chain right down to a single pantry kept going by volunteers in the Village and Calderwood."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across East Kilbride, a FareShare-supplied community group or a small volunteer-run foodbank in Hamilton"
+  },
+  "south shields": {
+    "region": "South Shields and Tyne and Wear",
+    "nearby": ["Tynemouth", "Jarrow", "Sunderland"],
+    "s1_head": "Charity and volunteer kit across South Shields",
+    "s1loc": [
+      "Hospitality and Hope, founded in 2002 by local church volunteers, runs community shops, the South Tyneside Food Bank and homelessness support across South Shields, while the Key to Life Foodbank feeds families and individuals through a team of volunteers. FareShare moves surplus food from the food industry out to charities and community groups across Tyneside, and Hospitality and Hope keeps a rota of volunteers with transport collecting from donation points town-wide for its food banks and community hubs.",
+      "The sector here runs at every size. National and regional charities keep shops and central buying behind them, from the British Red Cross to St Clare's Hospice and the big research names, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Westoe, Cleadon Park, Whitburn and Boldon. We are set up to serve the national charity with shops across South Shields and the one-room foodbank alike, with trade accounts for the big central buyers and direct online ordering, no minimum, for the smallest volunteer group.",
+      "St Clare's Hospice, based in Jarrow and caring for adults south of the Tyne since 1987, runs charity shops in South Shields and at the Viking Precinct in Jarrow, taking donated goods and offering free collection of larger items. South Tyneside Citizens Advice partners with grassroots groups, the Shields Gazette lists donation points town-wide, and church and mutual-aid projects keep emergency food flowing, so the giving runs from a hospice retail chain right down to a single volunteer-run pantry in Hebburn or Cleadon."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across South Shields, a FareShare-supplied community group or a small volunteer-run foodbank in Jarrow"
+  },
+  "burton-on-trent": {
+    "region": "Burton-on-Trent and Staffordshire",
+    "nearby": ["Tamworth", "Lichfield", "Burntwood"],
+    "s1_head": "Charity and volunteer kit across Burton-on-Trent",
+    "s1loc": [
+      "Burton YMCA, an independent Christian charity supporting homeless people across East Staffordshire, runs a food bank with a part-time coordinator and a team of volunteers, plus three furniture stores selling low-cost white goods and household essentials across Staffordshire and Derbyshire. Burton HOPE, made up entirely of volunteers, hands out three-day emergency food parcels, clothing, toiletries and help obtaining ID, while the Consolidated Charity of Burton upon Trent backs food bank donations and local good causes.",
+      "The sector here runs at every size. National and regional charities keep shops and central buying behind them, from St Giles Hospice with its High Street superstore to the big research names, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Stapenhill, Horninglow, Winshill and Shobnall. We are set up to serve the national charity with shops across Burton-on-Trent and the one-room foodbank alike, with trade accounts for the big central buyers and direct online ordering, no minimum, for the smallest volunteer group.",
+      "St Giles Hospice runs a superstore on the High Street and a shop on Station Street, taking donated clothing, homewares, electricals and books to fund its care, while a string of charity shops lines the town centre. The Burton Albion Community Trust runs grassroots projects across the borough, and church and mutual-aid groups keep emergency food and clothing flowing, so the giving runs from a hospice retail chain right down to a single volunteer-run parcel pack in Branston or Stretton."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Burton-on-Trent, a FareShare-supplied community group or a small volunteer-run foodbank in Lichfield"
+  },
+  "shrewsbury": {
+    "region": "Shrewsbury and Shropshire",
+    "nearby": ["Telford", "Oswestry", "Stafford"],
+    "s1_head": "Charity and volunteer kit across Shrewsbury",
+    "s1loc": [
+      "Shrewsbury Foodbank, run by Barnabas Community Projects, operates the Foodbank PLUS service from the Barnabas Church Centre at Longden Coleham and a second site at Hope Church, supporting people hit by debt, job loss, ill health or benefit delays. FareShare moves surplus food from the trade out to community groups across Shropshire, and the Shropshire Larder network points people to emergency food right across the county, with most clients referred in through partner agencies.",
+      "The sector here runs at every size. National and regional charities keep shops and central buying behind them, from Severn Hospice with its 32 stores to the big research names, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Castlefields, Harlescott, Monkmoor and Coleham. We are set up to serve the national charity with shops across Shrewsbury and the one-room foodbank alike, with trade accounts for the big central buyers and direct online ordering, no minimum, for the smallest volunteer group.",
+      "Severn Hospice gives free specialist care to families across Shropshire and North Powys, funded by a chain named Charity Retailer of the Year, including a superstore on Becalls Lane in Castlefields, and its volunteers are the bedrock of that care, sorting stock, working tills and running community bucket collections. Church-run projects keep food and encouragement flowing, and grassroots groups rally helpers, so the giving runs from a county-wide retail chain right down to a single volunteer-run pantry in Monkmoor or Meole Brace."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Shrewsbury, a FareShare-supplied community group or a small volunteer-run foodbank in Oswestry"
+  },
+  "rugby": {
+    "region": "Rugby and Warwickshire",
+    "nearby": ["Coventry", "Nuneaton", "Leamington Spa"],
+    "s1_head": "Charity and volunteer kit across Rugby",
+    "s1loc": [
+      "Hope4, which began as a soup kitchen in 2005, now runs the Hope Centre for people experiencing homelessness and Rugby Foodbank in the Trussell network, with more than 80 volunteers giving over 10,000 hours a year. In the last year the foodbank handed out over 7,000 parcels, four in ten to children, while the Hope Centre offers food, showers, clean clothing, laundry, health care and housing support to people sleeping rough or sofa surfing.",
+      "The sector here runs at every size. National and regional charities keep shops and central buying behind them, from the Myton Hospices with their Rugby stores to the big research names, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Hillmorton, Newbold, Brownsover and Benn. We are set up to serve the national charity with shops across Rugby and the one-room foodbank alike, with trade accounts for the big central buyers and direct online ordering, no minimum, for the smallest volunteer group.",
+      "The Myton Hospices, backed by almost 1,000 volunteers, run shops on Albert Street and Church Street, a furniture store in the Rugby Central Shopping Centre and a Support Hub for anyone living with or caring through a life-limiting illness. Hope4 has won the King's Award for Voluntary Service, Warwickshire County Council backs work on hunger and homelessness, and church and mutual-aid groups rally helpers, so the giving runs from a hospice retail chain right down to a single volunteer-run pantry in Brownsover or Bilton."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Rugby, a FareShare-supplied community group or a small volunteer-run foodbank in Nuneaton"
+  },
+  "stafford": {
+    "region": "Stafford and Staffordshire",
+    "nearby": ["Stoke-on-Trent", "Cannock", "Newcastle-under-Lyme"],
+    "s1_head": "Charity and volunteer kit across Stafford",
+    "s1loc": [
+      "House of Bread, an independent charity supporting vulnerable, homeless and isolated people in Stafford and surrounding villages, serves hot meals, runs a food bag scheme through its Cafe 43 and operates a toiletry bank, all leaning on a body of volunteers. Stafford Foodbank, in the Trussell network, feeds local people in crisis, while Signposts Services runs a foodbank at Rising Brook Community Church and Highfields hosts a signpost centre with a cafe and benefit-application help.",
+      "The sector here runs at every size. National and regional charities keep shops and central buying behind them, from Katharine House Hospice to Staffordshire Wildlife Trust stores and the big research names, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Highfields, Rising Brook, Holmcroft and Burton Square. We are set up to serve the national charity with shops across Stafford and the one-room foodbank alike, with trade accounts for the big central buyers and direct online ordering, no minimum, for the smallest volunteer group.",
+      "Katharine House Hospice cares for the families of mid-Staffordshire with over 200 staff and more than 580 volunteers sharing their skills across its services and shops. A foodbank hub spans Elim Hope Church, the Holmcroft Community Centre, the Elevate Centre on Auden Way and Staffordshire Women's Aid, the Frank Jordan Centre serves nearby Stone, and church and mutual-aid groups keep emergency food flowing, so the giving runs from a hospice retail chain right down to a single volunteer-run pantry in Castletown or Baswich."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Stafford, a FareShare-supplied community group or a small volunteer-run foodbank in Cannock"
+  },
+  "taunton": {
+    "region": "Taunton and Somerset",
+    "nearby": ["Bridgwater", "Yeovil", "Tiverton"],
+    "s1_head": "Charity and volunteer kit across Taunton",
+    "s1loc": [
+      "Taunton Foodbank gives seven-day food supplies to people in crisis, while Taunton Open Door, kept going by a team of volunteers, supported over 200 homeless clients in 2025, served more than 4,200 meals and handed out 4,200 items of clothing. The Somerset Community Foundation funds local causes and inspires giving across the county, and FareShare moves surplus food from the trade out to community groups, with the Samaritans of Taunton and Somerset adding a listening ear town-wide.",
+      "The sector here runs at every size. National and regional charities keep shops and central buying behind them, from St Margaret's Hospice Care with its 31 stores to the British Heart Foundation and the big research names, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Halcon, Priorswood and North Taunton. We serve the national charity with shops across Taunton and the one-room foodbank alike, with trade accounts for the big central buyers and direct online ordering, no minimum, for the smallest volunteer group.",
+      "St Margaret's Hospice Care gives free care to anyone facing a life-limiting illness in Somerset, with a hub and in-patient unit in Taunton funded by a chain of charity shops across the county. The North Taunton Partnership runs Priorswood Community Centre with advice surgeries, social groups and youth activities, Citizens Advice Taunton holds clinics at the Halcon Link Centre, and church and mutual-aid groups rally helpers, so the giving runs from a hospice retail chain right down to a single volunteer-run pantry in Halcon or North Taunton."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Taunton, a FareShare-supplied community group or a small volunteer-run foodbank in Bridgwater"
+  }
+}
