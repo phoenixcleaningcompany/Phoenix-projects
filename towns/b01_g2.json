@@ -1,0 +1,62 @@
+{
+  "Sheffield": {
+    "region": "Sheffield and South Yorkshire",
+    "nearby": ["Rotherham", "Barnsley", "Chesterfield"],
+    "s1_head": "Kitting the visitor economy of South Yorkshire",
+    "s1loc": [
+      "Sheffield draws millions of visits a year to a city-centre cluster that includes the Millennium Gallery with its Ruskin and Metalwork Collections, the Winter Garden glasshouse next to the Peace Gardens, the Graves Gallery and the Kelham Island Museum. Bramall Lane and Hillsborough run stadium tours, the Cathedral and the Crucible add to the draw, and the wider Steel City story keeps named museums and landmarks busy throughout the visitor season.",
+      "The leisure and activity layer is broad. The Crucible and Lyceum theatres, the Utilita Arena, Sheffield Botanical Gardens, Endcliffe Park and the Porter Valley, plus Magna Science Adventure Centre and Rother Valley Country Park nearby, all pull families and activity groups. The Peak District sits on the doorstep for walkers and climbers, while Meadowhall, Ecclesall Road and the Devonshire Quarter anchor shopping and leisure footfall across the year.",
+      "Heritage and hospitality round it out, from the Kelham Island quarter and Abbeydale Industrial Hamlet to Weston Park Museum and the Botanical Gardens pavilions. A deep city-centre and Ecclesall Road hotel trade, a busy guide and tour-operator scene, and good rail links via Sheffield station support the visitor flow, with neighbourhoods like Kelham Island, Nether Edge and the Cultural Industries Quarter drawing weekend crowds."
+    ],
+    "kit_loc": "across the city's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Sheffield attraction or hotel group, a heritage site or a small independent activity centre in Rotherham"
+  },
+  "Manchester": {
+    "region": "Greater Manchester",
+    "nearby": ["Salford", "Stockport", "Oldham"],
+    "s1_head": "Kitting the visitor economy of Greater Manchester",
+    "s1loc": [
+      "Manchester runs one of the UK's largest visitor economies, with the Science and Industry Museum on the site of the world's first passenger railway station, the Manchester Museum, the Whitworth and the People's History Museum among the marquee draws. Old Trafford and the Etihad Stadium both run popular tours, while the National Football Museum at Urbis and Manchester Cathedral pull steady visitor numbers into the city centre throughout the year.",
+      "The leisure and activity layer is huge. The AO Arena hosts well over a hundred shows a year, with the Bridgewater Hall, the Palace Theatre, the Opera House and HOME adding stage and screen draws. Heaton Park, one of Europe's largest municipal parks, Chill Factore and the Trafford Centre, plus festivals like the Manchester International Festival and the Christmas Markets, keep family attractions and event teams working hard across every season.",
+      "Heritage and hospitality round it out, from the Castlefield basin and Roman fort to the Northern Quarter, Ancoats and Spinningfields. A deep hotel trade, a busy tour-operator and walking-guide scene, and Manchester Airport plus Piccadilly station feed visitors into named quarters like Castlefield, the Gay Village and Deansgate, with MediaCityUK at Salford Quays drawing studio and waterfront visitors next door."
+    ],
+    "kit_loc": "across the city's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Manchester attraction or hotel group, a heritage site or a small independent activity centre in Salford"
+  },
+  "Leicester": {
+    "region": "Leicester and Leicestershire",
+    "nearby": ["Oadby", "Hinckley", "Loughborough"],
+    "s1_head": "Kitting the visitor economy of Leicestershire",
+    "s1loc": [
+      "Leicester's visitor economy turns on the King Richard III Visitor Centre and the nearby Leicester Cathedral, where the king was reburied, plus the multi-award-winning National Space Centre with its rocket tower and the UK's largest domed planetarium. The Jewry Wall Roman site, the New Walk Museum and Art Gallery and the Guildhall add depth, drawing heritage and family visitors into the city centre across the season.",
+      "The leisure and activity layer is strong. The Curve theatre and the Haymarket, the De Montfort Hall concert venue, Abbey Park and Watermead Country Park, plus King Power Stadium tours and the Highcross shopping quarter all pull crowds. Twycross Zoo and Bradgate Park sit close by, while the Diwali celebrations on the Golden Mile and the Caribbean Carnival give event teams and activity operators a packed calendar through the year.",
+      "Heritage and hospitality round it out, from the Roman and medieval city to the Lanes, St Martins and the Cultural Quarter around the Curve and LCB Depot. A solid city-centre hotel trade, a busy tour-operator and guide scene, and good rail links via Leicester station support the flow, with named neighbourhoods like the Golden Mile, Clarendon Park and the Old Town drawing steady visitor footfall."
+    ],
+    "kit_loc": "across the city's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Leicester attraction or hotel group, a heritage site or a small independent activity centre in Oadby"
+  },
+  "Bradford": {
+    "region": "Bradford and West Yorkshire",
+    "nearby": ["Keighley", "Shipley", "Halifax"],
+    "s1_head": "Kitting the visitor economy of West Yorkshire",
+    "s1loc": [
+      "Bradford, UK City of Culture 2025, anchors its visitor economy on the National Science and Media Museum, home to the UK's first IMAX, and the UNESCO World Heritage village of Saltaire with Salts Mill and its David Hockney collection. Cartwright Hall in Lister Park, Bolling Hall and the City Park mirror pool add to the draw, pulling heritage and family visitors into the district across the year.",
+      "The leisure and activity layer is busy. The Alhambra Theatre and St George's Hall, Lister Park and Peel Park, plus the Keighley and Worth Valley Railway and Bradford Industrial Museum at Eccleshill all draw crowds. Ilkley Moor and the Bronte country around Haworth sit close by, while the Bradford Literature Festival and a packed City of Culture programme keep event teams and activity operators working through every season.",
+      "Heritage and hospitality round it out, from the wool-trade Little Germany quarter and the Wool Exchange to Undercliffe Cemetery and Bolton Abbey nearby. A growing city-centre hotel trade, a busy tour-operator and guide scene, and rail links via Forster Square and Interchange stations support the flow, with named neighbourhoods like Saltaire, Little Germany and Manningham drawing steady visitor footfall throughout the year."
+    ],
+    "kit_loc": "across the district's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Bradford attraction or hotel group, a heritage site or a small independent activity centre in Keighley"
+  },
+  "Coventry": {
+    "region": "Coventry and Warwickshire",
+    "nearby": ["Nuneaton", "Bedworth", "Kenilworth"],
+    "s1_head": "Kitting the visitor economy of Warwickshire",
+    "s1loc": [
+      "Coventry's visitor economy turns on the ruins of the old Cathedral beside Sir Basil Spence's new Coventry Cathedral, and on the Coventry Transport Museum, which holds the largest publicly owned British vehicle collection and the world land-speed record cars. The Herbert Art Gallery and Museum, St Mary's Guildhall and the medieval Spon Street add to the draw, pulling heritage and family visitors into the city centre across the year.",
+      "The leisure and activity layer is broad. The Belgrade Theatre and the Albany, the War Memorial Park and the Coventry Canal Basin, plus the Coventry Building Society Arena and FarGo Village all pull crowds. The Wave waterpark and Coombe Abbey Country Park sit close by, while the city's UK City of Culture legacy events and the Godiva Festival give event teams and activity operators a full calendar through every season.",
+      "Heritage and hospitality round it out, from Lady Godiva and the medieval city walls to the Charterhouse and the Cathedral Quarter. A solid city-centre hotel trade, a busy tour-operator and guide scene, and strong transport links via Coventry station and nearby Birmingham Airport support the flow, with named areas like Spon Street, FarGo Village and Earlsdon drawing steady visitor footfall."
+    ],
+    "kit_loc": "across the city's attractions, parks and visitor sites",
+    "s2_intro": "Whether you are a major Coventry attraction or hotel group, a heritage site or a small independent activity centre in Nuneaton"
+  }
+}

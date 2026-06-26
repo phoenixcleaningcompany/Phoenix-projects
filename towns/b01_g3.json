@@ -1,0 +1,62 @@
+{
+  "Bristol": {
+    "region": "Bristol and the West of England",
+    "nearby": ["Weston-super-Mare", "Portishead", "Clevedon"],
+    "s1_head": "Kitting the visitor economy of the West of England",
+    "s1loc": [
+      "Bristol runs one of the South West's biggest visitor economies, with Brunel's SS Great Britain and the Being Brunel museum, the Clifton Suspension Bridge over the Avon Gorge, We The Curious on Millennium Square and the M Shed on the Harbourside among the marquee draws. Bristol Cathedral, St Mary Redcliffe and the Bristol Zoo Project at Wild Place all pull steady visitor numbers across the year, supported by Banksy street-art tours through Stokes Croft.",
+      "The leisure and activity layer is just as busy, from the Floating Harbour boat trips and the Bristol Aquarium to Ashton Court Estate and Brandon Hill with the Cabot Tower. The Bristol Hippodrome, the Bristol Beacon and the Bristol International Balloon Fiesta at Ashton Court keep event teams working, while Cabot Circus, the Wapping Wharf quarter and the SS Great Western Dockyard add shopping, watersports and family attractions to the mix.",
+      "Heritage and hospitality round it out, with the Georgian terraces of Clifton, the Old City and King Street, and the Arnolfini and Watershed arts venues on the harbour. A deep city-centre and Harbourside hotel trade, a wide tour-operator and guide scene and Bristol Airport at Lulsgate feed visitors into neighbourhoods like Bedminster, Bishopston and Redcliffe right across the season."
+    ],
+    "kit_loc": "across the city's attractions, harbour and visitor sites",
+    "s2_intro": "Whether you are a major Bristol attraction or hotel group, a heritage site or a small independent activity centre in Weston-super-Mare"
+  },
+  "Cardiff": {
+    "region": "Cardiff and South Wales",
+    "nearby": ["Barry", "Penarth", "Caerphilly"],
+    "s1_head": "Kitting the visitor economy of the Welsh capital",
+    "s1loc": [
+      "Cardiff anchors the Welsh visitor economy, with Cardiff Castle and its 2,000 years of history on Castle Street, the 74,500-seat Principality Stadium hosting rugby and stadium tours, and the National Museum Cardiff in Cathays Park. Cardiff Bay, one of Europe's largest waterfront developments, draws crowds to the Wales Millennium Centre, the Pierhead and the Senedd, with Llandaff Cathedral and Castell Coch adding to the marquee draws around the city.",
+      "The leisure and activity layer runs deep, from Techniquest in the Bay and the Doctor Who Worlds of Wonder experience to Bute Park, Roath Park and the Cardiff International White Water centre. The Utilita Arena, the New Theatre and the Wales National Pool Cardiff, plus St David's shopping quarter and the Victorian and Edwardian arcades, keep family attractions, watersports operators and event teams busy across the season.",
+      "Heritage and hospitality round it out, with the National History Museum at St Fagans, Cardiff Story and the Norwegian Church on the waterfront. A strong city-centre and Bay hotel trade, a wide tour-operator and guide scene and Cardiff Airport at Rhoose feed visitors into quarters like Cathays, Pontcanna, Roath and Mermaid Quay, with Cardiff Central station linking the capital to the Valleys lines throughout the year."
+    ],
+    "kit_loc": "across the capital's attractions, bay and visitor sites",
+    "s2_intro": "Whether you are a major Cardiff attraction or hotel group, a heritage site or a small independent activity centre in Barry"
+  },
+  "Nottingham": {
+    "region": "Nottingham and the East Midlands",
+    "nearby": ["Beeston", "Arnold", "Carlton"],
+    "s1_head": "Kitting the visitor economy of Nottinghamshire",
+    "s1loc": [
+      "Nottingham draws visitors with its Robin Hood legend at the heart of the offer, headed by the recently transformed Nottingham Castle and Ducal Palace, the City of Caves beneath the streets and Wollaton Hall and Deer Park, the Elizabethan mansion used as Wayne Manor in The Dark Knight Rises. The Galleries of Justice at the National Justice Museum and Nottingham Cathedral round out the marquee draws across the city centre.",
+      "The leisure and activity layer is busy too, from the Motorpoint Arena and the Theatre Royal and Royal Concert Hall to the National Water Sports Centre at Holme Pierrepont and the Goose Fair on the Forest Recreation Ground. Trent Bridge cricket ground and the City Ground, home of Nottingham Forest, run stadium tours, while the Victoria Centre and the lace-quarter bars in Hockley add shopping and family attractions through the year.",
+      "Heritage and hospitality complete the picture, with the Lace Market quarter, Ye Olde Trip to Jerusalem and the Green's Windmill at Sneinton. A solid city-centre hotel trade, a wide tour-operator and guide scene and good rail and tram links via Nottingham Station and NET feed visitors into neighbourhoods like the Park Estate, West Bridgford and Sneinton across the season."
+    ],
+    "kit_loc": "across the city's attractions, caves and visitor sites",
+    "s2_intro": "Whether you are a major Nottingham attraction or hotel group, a heritage site or a small independent activity centre in Beeston"
+  },
+  "Brighton": {
+    "region": "Brighton and the Sussex coast",
+    "nearby": ["Hove", "Worthing", "Shoreham-by-Sea"],
+    "s1_head": "Kitting the visitor economy of the Sussex coast",
+    "s1loc": [
+      "Brighton runs one of the South Coast's busiest visitor economies, headed by the Royal Pavilion, the Brighton Palace Pier dating from 1899 and the 162-metre Brighton i360 observation tower at the shore end of the West Pier. SEA LIFE Brighton, the world's oldest operating aquarium, sits opposite the pier, while the seafront, the beach and the Volk's Electric Railway pull steady crowds along the front across the year.",
+      "The leisure and activity layer is just as lively, from The Lanes and the North Laine shopping quarters to the Brighton Dome, Theatre Royal Brighton and the Komedia. Preston Park, the Brighton Festival and Brighton Pride, plus the Marina with its watersports and boat trips, keep family attractions, activity operators and event teams working hard, with the British Airways i360 beach decks and the seafront arches adding leisure space.",
+      "Heritage and hospitality round it out, with the Regency squares of Kemptown and Brunswick, the Brighton Museum and Art Gallery and the bandstand on the front. A deep seafront and city hotel trade, a wide tour-operator and guide scene and good rail links via Brighton Station feed visitors into quarters like Hove, Kemptown and the Marina throughout the season."
+    ],
+    "kit_loc": "across the coast's attractions, seafront and activity sites",
+    "s2_intro": "Whether you are a major Brighton attraction or hotel group, a heritage site or a small independent activity centre in Hove"
+  },
+  "Plymouth": {
+    "region": "Plymouth and South Devon",
+    "nearby": ["Saltash", "Newton Abbot", "Torquay"],
+    "s1_head": "Kitting the visitor economy of Britain's Ocean City",
+    "s1loc": [
+      "Plymouth anchors the South Devon visitor economy as Britain's Ocean City, headed by the National Marine Aquarium, the UK's largest, and Plymouth Hoe with its Smeaton's Tower lighthouse and sweeping views over Plymouth Sound. The historic Mayflower Steps, the Barbican's cobbled streets and The Box museum near Drake Circus carry the city's maritime story and draw visitors across the year.",
+      "The leisure and activity layer is busy too, from the Royal William Yard arts and dining quarter and the Plymouth Pavilions arena to Tinside Lido and the boat trips out across Plymouth Sound. The Theatre Royal Plymouth, Central Park and the National Marine Park, plus Drake Circus shopping and watersports along the waterfront, keep family attractions, activity operators and event teams working through the season.",
+      "Heritage and hospitality complete the picture, with the Elizabethan House, Saltram House and the Royal Citadel above the Barbican. A solid waterfront and city hotel trade, a wide tour-operator and guide scene and Brittany Ferries sailings from Millbay feed visitors into quarters like the Barbican, the Hoe, Stonehouse and Devonport, with Plymouth station linking the city along the Devon coast right across the year."
+    ],
+    "kit_loc": "across the city's attractions, waterfront and visitor sites",
+    "s2_intro": "Whether you are a major Plymouth attraction or hotel group, a heritage site or a small independent activity centre in Saltash"
+  }
+}
