@@ -1,0 +1,86 @@
+{
+  "shipley": {
+    "region": "Shipley and West Yorkshire",
+    "nearby": ["Bradford", "Bingley", "Keighley"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Shipley, embroidered in-house to brand guidelines. From the Salts Mill complex at Saltaire to the offices and studios along the Aire Valley, it carries a professional-services and creative base feeding Bradford and Leeds, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Salts Mill, Saltaire and the Aire Valley",
+    "s1loc": [
+      "Shipley's working core runs from the World Heritage Site at Saltaire, where Salts Mill houses technology, design and architecture firms alongside galleries, through to the office and industrial space along Saltaire Road and the Aire Valley corridor toward Bingley and Bradford. The Shipley Business Centre and the established estates host accountancies, surveyors, engineering-services firms and the professional advisers that grew up around the old Pace and Arris electronics presence, all within easy reach of the rail line into Leeds.",
+      "The workforce here is a mix of finance, technology, design and manufacturing-services people who work mostly in suits and smart-casual, but step into branded kit when the brand needs to travel. Firms across Saltaire and the Aire Valley send teams to conferences in Bradford and Leeds, exhibitions, client and site visits, away days and sponsored community events, and the office, brand and procurement managers placing those orders want polos, softshells and fleeces that carry the exact logo and colours every single time."
+    ],
+    "kit_loc": "across Saltaire, the town centre and the Aire Valley estates",
+    "s2_intro": "Whether you are a Shipley accountancy, a Saltaire design or technology studio, a professional-services firm or a manufacturing-services company"
+  },
+  "frome": {
+    "region": "Frome and Somerset",
+    "nearby": ["Trowbridge", "Melksham", "Bath"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Frome, embroidered in-house to brand guidelines. From the Marston Trading Estate to the independent studios and professional offices around the town centre, it carries a creative, engineering and professional-services base within easy reach of Bath and Trowbridge, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Marston Trading Estate and Frome's studios",
+    "s1loc": [
+      "Frome's commercial base sits on the Marston Trading Estate, the town's largest industrial and commercial area, where Frome Business Park hosts professional firms, engineering and manufacturing-services companies and growing technology businesses a short distance from the town centre and railway station. Around the historic streets and the Catherine Hill quarter, the town carries a dense cluster of independent design studios, accountancies, surveyors and consultancies, with bigger professional and financial services within commuting reach in Bath and Trowbridge.",
+      "Frome's workforce leans toward creative, engineering and professional-services people who dress smart day to day but reach for branded kit when the brand has to show up well. Firms from the Marston estate and the town studios head out to conferences and exhibitions in Bath and Bristol, client and site visits, away days and sponsored community events, and the office and brand managers placing those orders want polos, softshells and fleeces embroidered to match their identity exactly, order after order."
+    ],
+    "kit_loc": "across the Marston estate, the town centre and the studios",
+    "s2_intro": "Whether you are a Frome accountancy, a design or technology studio, a professional-services firm or a manufacturing-services company"
+  },
+  "gosforth": {
+    "region": "Gosforth and Tyneside",
+    "nearby": ["Newcastle upon Tyne", "North Shields", "Whitley Bay"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Gosforth, embroidered in-house to brand guidelines. From the Regent Centre to Newcastle Great Park and Gosforth Business Park, it carries one of Tyneside's strongest financial and professional clusters, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Regent Centre, Great Park and the Gosforth offices",
+    "s1loc": [
+      "Gosforth is one of Tyneside's heaviest concentrations of financial and professional employers. The Regent Centre is home to Virgin Money, now part of Nationwide, along with LNER and advisory firms such as FRP Advisory, while Gosforth Business Park houses BT, RMT Accountants and others. North of the town, Newcastle Great Park hosts Sage's large campus, and independent firms such as Gale and Phillipson add to a base of banks, accountancies, law firms and technology companies feeding directly into Newcastle's city economy.",
+      "The professional-services workforce here spans banking, software, accountancy and law, drawing graduates from Newcastle and Northumbria universities into offices that run on suits and smart-casual day to day. When the brand needs to travel, those same teams pull on branded kit for conferences, exhibitions, client and site visits, away days and sponsored community events, and the procurement, office and brand managers across the Regent Centre and Great Park want polos, softshells and fleeces that carry the exact logo and colours every time."
+    ],
+    "kit_loc": "across the Regent Centre, Great Park and the Gosforth business parks",
+    "s2_intro": "Whether you are a Gosforth bank, an accountancy, a law firm, a consultancy or a technology company"
+  },
+  "pontypool": {
+    "region": "Pontypool and Torfaen",
+    "nearby": ["Cwmbran", "Newport", "Pontypridd"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Pontypool, embroidered in-house to brand guidelines. From the Mamhilad Park Estate to the New Inn business parks, it carries a manufacturing-services and professional base at the head of Torfaen, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Mamhilad Park Estate and the New Inn parks",
+    "s1loc": [
+      "Pontypool's commercial weight sits on the Mamhilad Park Estate, the former British Nylon Spinners site built by ICI and Courtaulds, now a large mixed estate hosting NHS Wales Shared Services Partnership, financial advisers and a spread of professional and manufacturing-services firms. To the south at New Inn, the South Pontypool Industrial Park, Torfaen Business Centre and Panteg Way estates host engineering firms such as ZF and DJJ Precision Engineering, accountancies and the support businesses serving the wider Torfaen economy alongside Cwmbran and Newport.",
+      "The workforce around Pontypool mixes manufacturing, engineering and professional-services people who work in smart day-to-day clothing but reach for branded kit when the brand has to be seen. Firms from Mamhilad and the New Inn estates head out to conferences and exhibitions in Newport and Cardiff, client and site visits, away days and sponsored community events, and the office, brand and procurement managers placing those orders want polos, softshells and fleeces embroidered to match their identity exactly, every reorder."
+    ],
+    "kit_loc": "across Mamhilad, New Inn and the Torfaen estates",
+    "s2_intro": "Whether you are a Pontypool accountancy, a professional-services firm, a consultancy or a manufacturing-services company"
+  },
+  "bilston": {
+    "region": "Bilston and the Black Country",
+    "nearby": ["Wolverhampton", "Wednesbury", "Willenhall"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Bilston, embroidered in-house to brand guidelines. From Springvale Industrial Park to the regenerating Bilston Urban Village, it carries a dense manufacturing-services and small-business base on the Black Country Route, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Springvale, the Black Country Route and Bilston Urban Village",
+    "s1loc": [
+      "Bilston's working base runs along the A463 Black Country Route, with Springvale Industrial Park on Union Street holding dozens of production, engineering and warehousing firms within a few miles of Junction 10 of the M6 and Wolverhampton city centre. South of the High Street, the City of Wolverhampton Council's Bilston Urban Village is bringing new homes and employment space to a forty-hectare site, adding to a network of manufacturing-services companies, professional advisers and small businesses that work closely with Wolverhampton, Wednesbury and Willenhall.",
+      "The people behind these firms are engineers, manufacturers, accountants and support staff who dress smart for the office but switch to branded kit when the business needs to look the part. Companies along the Black Country Route send teams to trade exhibitions in Birmingham and the NEC, conferences, client and site visits, away days and sponsored community events, and the office and brand managers placing those orders want polos, softshells and fleeces that carry the exact logo and colours on every garment."
+    ],
+    "kit_loc": "across Springvale, the Black Country Route and the town centre",
+    "s2_intro": "Whether you are a Bilston manufacturing-services company, an accountancy, a professional-services firm or a consultancy"
+  },
+  "sedgley": {
+    "region": "Sedgley and the Black Country",
+    "nearby": ["Dudley", "Bilston", "Wolverhampton"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Sedgley, embroidered in-house to brand guidelines. Sitting in Dudley borough between Dudley and Wolverhampton, it carries a base of manufacturers, professional advisers and small businesses on long Black Country industrial roots, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Sedgley, Dudley borough and the Black Country",
+    "s1loc": [
+      "Sedgley sits in the Metropolitan Borough of Dudley, on the high ground between Dudley and Wolverhampton, with industrial roots in iron, nail-making and the old Baggeridge Colliery now giving way to a base of manufacturers, engineering-services firms and professional advisers. Long-established Black Country names such as Thomas Dudley, which employs around five hundred people across the West Midlands, anchor a wider network of accountancies, surveyors and small businesses served by the Black Country Chamber of Commerce and trading closely with Dudley, Bilston and Wolverhampton.",
+      "The workforce around Sedgley is full of engineers, manufacturers, accountants and support staff who keep things smart day to day but reach for branded kit when the brand has to show up. Local firms head out to exhibitions in Birmingham and the NEC, conferences, client and site visits, away days and sponsored community events, and the office, brand and procurement managers placing those orders want polos, softshells and fleeces embroidered to match the company identity exactly, every reorder."
+    ],
+    "kit_loc": "across Sedgley, Dudley borough and the Black Country",
+    "s2_intro": "Whether you are a Sedgley manufacturing-services company, an accountancy, a professional-services firm or a small business"
+  },
+  "tipton": {
+    "region": "Tipton and the Black Country",
+    "nearby": ["West Bromwich", "Dudley", "Wednesbury"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Tipton, embroidered in-house to brand guidelines. From Vaughan Park to Qualtronyc and Cleton business parks, it carries a busy manufacturing-services and logistics base in Sandwell, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Vaughan Park, Qualtronyc and the Tipton estates",
+    "s1loc": [
+      "Tipton sits in the Metropolitan Borough of Sandwell, a Black Country town whose old factories, including the former Bean Cars works, have given way to modern industrial estates. Vaughan Park is a twenty-eight-acre estate on the A457 Tipton Road with occupiers such as Dolphin Lifts and Viking Supply Net, while Qualtronyc Business Park and Cleton Business Park add industrial and office space. Together they host a base of manufacturing-services and logistics firms, engineering companies and the professional advisers serving Tipton, West Bromwich, Dudley and Wednesbury.",
+      "The people running these firms are engineers, manufacturers, accountants and support staff who dress smart in the office but switch to branded kit when the business needs to look the part. Companies on the Tipton estates send teams to exhibitions in Birmingham and the NEC, conferences, client and site visits, away days and sponsored community events, and the office and brand managers placing those orders want polos, softshells and fleeces that carry the exact logo and colours on every garment."
+    ],
+    "kit_loc": "across Vaughan Park, Qualtronyc and the Tipton estates",
+    "s2_intro": "Whether you are a Tipton manufacturing-services company, a logistics firm, an accountancy or a professional-services firm"
+  }
+}

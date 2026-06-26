@@ -1,0 +1,86 @@
+{
+  "tonbridge": {
+    "region": "Tonbridge and Kent",
+    "nearby": ["Tunbridge Wells", "Sevenoaks", "Maidstone"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Tonbridge, embroidered in-house to brand guidelines. Tonbridge is a busy professional-services and commuter base on the South Eastern Main Line, with a dense run of solicitors, accountants and advisers around the High Street, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Tonbridge's High Street professional core",
+    "s1loc": [
+      "Tonbridge's professional core sits around the High Street and the station on the South Eastern Main Line. Long-established law firms anchor it: Bailey and Cogger, founded over a century ago and now part of Hatten Wyatt, plus Warners Solicitors and Stephens and Son. Chartered accountants run alongside them, including LFF, Clark and Company, Loucas and the local Perrys office, with Cantium and Burns and Co serving owner-managed businesses across the wider Medway gap.",
+      "These firms draw a commuter workforce that runs daily into London Bridge and Charing Cross, with Tunbridge Wells, Sevenoaks and Maidstone all close by. Advisers, surveyors and consultants who wear suits in front of clients still step into branded kit for away days, client visits, exhibitions and sponsored events. Office, practice and brand managers across Tonbridge order that kit, and they care it carries the firm's exact logo and colours rather than reading as generic workwear."
+    ],
+    "kit_loc": "across the High Street and the station business district",
+    "s2_intro": "Whether you are a Tonbridge bank, law firm, accountancy, consultancy, insurer or a technology company"
+  },
+  "rushden": {
+    "region": "Rushden and Northamptonshire",
+    "nearby": ["Wellingborough", "Kettering", "Corby"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Rushden, embroidered in-house to brand guidelines. Rushden sits on the A45 logistics and distribution corridor, with a manufacturing-services base and the Rushden Lakes employment hub, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Rushden's A45 distribution corridor",
+    "s1loc": [
+      "Rushden sits on the A45 corridor, a prime spot for logistics, distribution and the professional firms that support them. Rushden Business Park, Sanders Lodge Industrial Estate and the newer Crown Park scheme house warehousing, transport and manufacturing operators, with KB Transport Solutions and CTS Transport Group among the distribution names working the Ditchford Road belt out toward the Nene. Rushden Lakes anchors a large retail and leisure employment hub beside the river.",
+      "Accountants, solicitors, surveyors and recruitment and HR consultancies serve this base, working closely with operators in Wellingborough, Kettering and Corby across the county. Managers, advisers and account handlers who deal with clients in business dress still need branded kit for away days, supplier visits, trade exhibitions and sponsored events. Office, HR and procurement managers across Rushden place those orders, and they want the firm's exact logo and colours embroidered to brand, not generic stock workwear."
+    ],
+    "kit_loc": "along the A45 corridor and the business parks",
+    "s2_intro": "Whether you are a Rushden bank, law firm, accountancy, consultancy, insurer or a technology company"
+  },
+  "pontefract": {
+    "region": "Pontefract and West Yorkshire",
+    "nearby": ["Castleford", "Featherstone", "Normanton"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Pontefract, embroidered in-house to brand guidelines. Pontefract is a manufacturing and logistics town anchored by Haribo, with a steady base of accountancy, legal and advisory firms, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Pontefract's manufacturing and advisory base",
+    "s1loc": [
+      "Pontefract's economy is anchored by Haribo, which runs sites in the town and at neighbouring Castleford and employs more than seven hundred people across the two, producing the bulk of the brand's UK sweets. Around that manufacturing and logistics backbone sit established accountancy practices, including Lofthouse and Co and HBH Chartered Accountants, alongside Pontefract solicitors handling commercial, property and employment work for businesses across the Five Towns district.",
+      "Castleford, Featherstone and Normanton form a tight working area, well placed on the M62 and A1 for distribution and manufacturing. The accountants, solicitors, surveyors and consultants serving these operators wear business dress day to day but step into branded kit for away days, client and site visits, trade exhibitions and sponsored events. Office, HR and brand managers across Pontefract order that kit, and they expect the firm's exact logo and colours embroidered cleanly to brand guidelines."
+    ],
+    "kit_loc": "across the town and the wider Five Towns district",
+    "s2_intro": "Whether you are a Pontefract bank, law firm, accountancy, consultancy, insurer or a technology company"
+  },
+  "camberley": {
+    "region": "Camberley and Surrey",
+    "nearby": ["Farnborough", "Aldershot", "Bracknell"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Camberley, embroidered in-house to brand guidelines. Camberley is a Surrey corporate-office centre on the M3 with established business parks and professional firms, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Camberley's Watchmoor Park business district",
+    "s1loc": [
+      "Camberley's corporate base clusters around Watchmoor Park, just off Junction 4 of the M3, with serviced and headquarters offices at Riverside Way and the Arena and Meadows business centres, plus suites along London Road, Frimley Road and Admiralty Way. Major employers in the area include Siemens, while the town centre Atrium and The Mall sit alongside a steady run of accountancy, legal, recruitment and technology firms serving Surrey and the wider Blackwater Valley.",
+      "Farnborough, Aldershot and Bracknell ring Camberley, giving the area a strong defence, engineering and technology workforce alongside its professional advisers. Consultants, accountants and account managers who meet clients in business dress still need branded kit for away days, conferences, exhibitions and sponsored events. Office, HR and brand managers across Camberley place those orders, and they care that every polo, softshell and fleece carries the firm's exact logo and colours embroidered to brand."
+    ],
+    "kit_loc": "around Watchmoor Park and the town centre",
+    "s2_intro": "Whether you are a Camberley bank, law firm, accountancy, consultancy, insurer or a technology company"
+  },
+  "kendal": {
+    "region": "Kendal and Cumbria",
+    "nearby": ["Lancaster", "Ulverston", "Barrow-in-Furness"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Kendal, embroidered in-house to brand guidelines. Kendal is a long-standing Cumbrian manufacturing town with a solid base of professional firms, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Kendal's manufacturing and professional base",
+    "s1loc": [
+      "Kendal's economy rests on established manufacturing names. Gilbert Gilkes and Gordon has built hydropower and pumping systems at Canal Head since the 1850s and employs over two hundred people, while James Cropper, the listed papermaking and advanced-materials company founded in 1845, has run its Burneside Mills site on the edge of town for generations through its advanced-materials and speciality papers arms. Accountants, solicitors and surveyors support this base across the southern Lakes.",
+      "Lancaster, Ulverston and Barrow-in-Furness frame Kendal's working area, with the town acting as the commercial gateway to the southern Lake District. The accountants, advisers, engineers and technology staff serving these employers wear business dress but step into branded kit for away days, client and site visits, trade exhibitions and sponsored events. Office, HR and brand managers across Kendal order that kit, and they want the firm's exact logo and colours embroidered to brand, not generic workwear."
+    ],
+    "kit_loc": "across the town and the southern Lakes",
+    "s2_intro": "Whether you are a Kendal bank, law firm, accountancy, consultancy, insurer or a technology company"
+  },
+  "ruislip": {
+    "region": "Ruislip and northwest London",
+    "nearby": ["Uxbridge", "Hayes", "Harrow"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Ruislip, embroidered in-house to brand guidelines. Ruislip is a Hillingdon professional and commuter base with nearby business parks and good central links, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Ruislip's Hillingdon commuter business base",
+    "s1loc": [
+      "Ruislip sits in the London Borough of Hillingdon, served by the Metropolitan, Piccadilly and Central lines into the City and West End. Offices and serviced suites cluster around the stations and along King Edwards Road and High Street, while larger schemes nearby, including Uxbridge Business Park off Sanderson Road, draw corporate tenants. Accountancy practices, solicitors, surveyors, recruitment firms and technology and consulting businesses run from the town and the wider Hillingdon professional base.",
+      "Uxbridge, Hayes and Harrow ring Ruislip, anchoring a large northwest London commuter and business workforce. Advisers, accountants and account managers who meet clients in business dress still need branded kit for away days, conferences, exhibitions and sponsored events. Office, HR and brand managers across Ruislip place those orders, and they care that every polo, softshell and fleece carries the firm's exact logo and colours embroidered to brand guidelines rather than reading as generic stock."
+    ],
+    "kit_loc": "around the stations and the Hillingdon business base",
+    "s2_intro": "Whether you are a Ruislip bank, law firm, accountancy, consultancy, insurer or a technology company"
+  },
+  "malvern": {
+    "region": "Malvern and Worcestershire",
+    "nearby": ["Worcester", "Droitwich", "Hereford"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Malvern, embroidered in-house to brand guidelines. Malvern is a Worcestershire cyber and defence-technology cluster built around the Science Park and QinetiQ, with professional firms alongside, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Malvern's cyber and defence-tech cluster",
+    "s1loc": [
+      "Malvern is one of the UK's unlikeliest technology hubs, built around Malvern Hills Science Park, which opened in 1999 next to QinetiQ, one of Europe's largest research organisations. The Park sits at the heart of the local Cyber Valley, home to more than seventy companies, the National Cyber Skills Centre and the BetaDen accelerator working across AI, biometrics, cyber and emerging technologies. Accountancy, legal and advisory firms support this cluster across the town.",
+      "Worcester, Droitwich and Hereford ring Malvern, and direct rail links run to Birmingham and London. The engineers, analysts, consultants and account managers across this cyber and defence-technology base wear business dress but step into branded kit for away days, conferences, exhibitions and sponsored events. Office, HR and brand managers across Malvern order that kit, and they want the firm's exact logo and colours embroidered to brand guidelines, reading as the company and not as generic workwear."
+    ],
+    "kit_loc": "around the Science Park and the town",
+    "s2_intro": "Whether you are a Malvern bank, law firm, accountancy, consultancy, insurer or a technology company"
+  }
+}

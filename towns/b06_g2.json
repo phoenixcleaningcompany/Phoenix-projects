@@ -1,0 +1,86 @@
+{
+  "loughton": {
+    "region": "Loughton and Essex",
+    "nearby": ["Walthamstow", "Enfield", "Romford"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Loughton, embroidered in-house to brand guidelines. Loughton sits on the London and Essex border beside Epping Forest with a deep base of professional firms and owner-managed businesses, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Loughton professional firms and small businesses",
+    "s1loc": [
+      "Loughton sits in the Epping Forest district on the London and Essex border, in Underground Zone 6 between the Roding valley and the ancient forest. It carries a dense professional base for its size: long-established accountancies including Haslers, on the London and Essex border for decades, alongside Cooper Paul, NRV Tax and Point Accountancy, plus solicitors, consultancies and property advisers along Forest Road and the High Road. These firms serve owner-managed businesses across Loughton, Walthamstow and Romford within easy reach of the Central line and the M11.",
+      "The professional-services workforce here draws on the commuter belt running into the City and on the wider north-east London and west Essex labour market reaching toward Enfield. These staff work in suits or business-casual most days, then step into branded polos, softshells and fleeces for client visits, conferences, exhibitions, away days and sponsored community events. Office and procurement managers across Loughton order that kit because it has to carry the firm's exact logo and colours, embroidered cleanly and reordered to match every time."
+    ],
+    "kit_loc": "across the High Road and the wider business district",
+    "s2_intro": "Whether you are a Loughton accountancy, a law firm, a business consultancy or a technology company"
+  },
+  "rutherglen": {
+    "region": "Rutherglen and South Lanarkshire",
+    "nearby": ["Glasgow", "East Kilbride", "Hamilton"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Rutherglen, embroidered in-house to brand guidelines. Rutherglen sits at the centre of the Clyde Gateway regeneration with new business parks drawing in firms and jobs, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Rutherglen, Clyde Gateway and professional firms",
+    "s1loc": [
+      "Rutherglen, in South Lanarkshire on the south bank of the Clyde, sits at the heart of the Clyde Gateway regeneration that has driven significant private investment across the area. The Rutherglen Links Business Park, beside junction 2A of the M74, has brought occupiers including SPIE, Clear Business Water, BT, Greencore and DHL onto former derelict land, with developers such as Harris Finance and Aberdeen Standard active there. That base supports professional firms including Clyde Business Services, serving clients across Rutherglen, Glasgow and Hamilton.",
+      "The professional-services workforce here draws on the wider Glasgow city-region labour market and on graduates from the University of Glasgow, Glasgow Caledonian University and South Lanarkshire College reaching toward East Kilbride. These staff work in business dress through the week, then move into branded polos, softshells and fleeces for site and client visits, conferences, exhibitions, away days and sponsored community events. Office and procurement managers across Rutherglen buy that kit because it has to match the brand precisely, embroidered to guideline and reordered consistently."
+    ],
+    "kit_loc": "across the town centre and Rutherglen Links Business Park",
+    "s2_intro": "Whether you are a Rutherglen accountancy, a law firm, a business consultancy or a technology company"
+  },
+  "epsom": {
+    "region": "Epsom and Surrey",
+    "nearby": ["Sutton", "Kingston upon Thames", "Croydon"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Epsom, embroidered in-house to brand guidelines. Epsom is a Surrey professional-services and financial centre with major corporate employers in and around the town, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Epsom professional services and corporate employers",
+    "s1loc": [
+      "Epsom, in Surrey south-west of London, carries a strong professional and corporate base for a market town. The engineering and project group AtkinsRealis is one of the largest employers, with staff at its Church Street offices, while Nuffield Health is also based in the town. Just south at Burgh Heath is the UK headquarters of Toyota GB and Toyota Financial Services. The High Street holds the major banks alongside law firms, financial-services providers and a growing cluster of software and AI businesses, advising clients across Epsom, Sutton and Croydon.",
+      "The professional-services workforce here is weighted toward scientific, technical and financial roles and draws on the commuter belt running into London and on the wider Surrey labour market reaching toward Kingston upon Thames. These staff work in suits or business-casual most days, then step into branded polos, softshells and fleeces for conferences, exhibitions, client and site visits, away days and sponsored community events. Office and procurement managers across Epsom order that kit because it has to carry the firm's exact logo and colours, embroidered to guideline and reordered to match."
+    ],
+    "kit_loc": "across the town centre and the Burgh Heath corporate cluster",
+    "s2_intro": "Whether you are an Epsom bank, a law firm, an accountancy or a technology company"
+  },
+  "staines": {
+    "region": "Staines-upon-Thames and Surrey",
+    "nearby": ["Feltham", "Windsor", "Walton-on-Thames"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Staines-upon-Thames, embroidered in-house to brand guidelines. Staines is a Surrey corporate-headquarters town with major employers and riverside business parks along the Thames, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Staines-upon-Thames corporate HQs and firms",
+    "s1loc": [
+      "Staines-upon-Thames, in Spelthorne on the M25 and M3 corridor near Heathrow, has become a notable corporate-headquarters location in Surrey. The town is home to large employers including Bupa, Samsung Electronics UK and the Samsung R and D Institute on South Street, the gases group BOC, and the energy business Centrica. Riverside and out-of-town schemes such as the Waterfront, Lotus Park and Causeway Park supply Grade A office space, supporting accountancies, law firms and consultancies advising clients across Staines, Feltham and Walton-on-Thames.",
+      "The professional-services and technology workforce here draws on the dense Thames Valley labour market around Heathrow and on commuters reaching toward Windsor and west London. These staff work in business dress through the week, then move into branded polos, softshells and fleeces for conferences, exhibitions, client and site visits, away days and sponsored community events. Office and procurement managers across Staines buy that kit because it has to match the brand precisely, embroidered to guideline and reordered consistently across every team."
+    ],
+    "kit_loc": "across the town centre and the riverside business parks",
+    "s2_intro": "Whether you are a Staines bank, a law firm, an accountancy or a technology company"
+  },
+  "chichester": {
+    "region": "Chichester and West Sussex",
+    "nearby": ["Bognor Regis", "Havant", "Littlehampton"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Chichester, embroidered in-house to brand guidelines. Chichester is the county centre of West Sussex with a strong professional sector and major employers nearby, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Chichester county firms and major employers",
+    "s1loc": [
+      "Chichester, the county centre of West Sussex, carries a long-established professional sector alongside major employers nearby. Just outside the city at Goodwood is Rolls-Royce Motor Cars, the BMW-owned plant employing more than 1,700 people, while the publisher John Wiley and Princes Food also operate sizeable sites in the area. The city itself holds law firms such as George Ide and Glanvilles and accountancies including Kreston Reeves, Blue Spire and the century-old Watling and Hirst, serving clients across Chichester, Havant and Littlehampton.",
+      "The professional-services workforce here is fed by the University of Chichester and Chichester College and by the wider coastal labour market reaching toward Bognor Regis. These staff work in suits or business-casual most days, then step into branded polos, softshells and fleeces for conferences, exhibitions, client and site visits, away days and sponsored community events. Office and procurement managers across Chichester order that kit because it has to carry the firm's exact logo and colours, embroidered to guideline and reordered to match every time."
+    ],
+    "kit_loc": "across the city centre and the Goodwood corridor",
+    "s2_intro": "Whether you are a Chichester bank, a law firm, an accountancy or a technology company"
+  },
+  "deal": {
+    "region": "Deal and east Kent",
+    "nearby": ["Dover", "Canterbury", "Folkestone"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Deal, embroidered in-house to brand guidelines. Deal anchors a professional and owner-managed business base in east Kent with the larger centres of Dover and Canterbury close at hand, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Deal professional firms and small businesses",
+    "s1loc": [
+      "Deal, in east Kent between Dover and Sandwich, supports a steady base of professional and owner-managed businesses serving the surrounding area. Accountancies including J and J Accountants and CGW Accountants advise local companies, with the wider Kent network of firms such as the TC Group and commercial solicitors including Whitehead Monckton and Kingsfords reaching into the town. The larger professional centres of Dover and Canterbury sit a short distance away, anchoring an east Kent business community with more than seventy thousand active firms across the county.",
+      "The professional-services workforce here draws on the east Kent labour market and on graduates from the University of Kent and Canterbury Christ Church University reaching toward Folkestone. These staff work in suits or business-casual most days, then step into branded polos, softshells and fleeces for client visits, conferences, exhibitions, away days and sponsored community events. Office and procurement managers across Deal order that kit because it has to carry the firm's exact logo and colours, embroidered cleanly and reordered to match every time."
+    ],
+    "kit_loc": "across the town centre and the east Kent business community",
+    "s2_intro": "Whether you are a Deal accountancy, a law firm, a business consultancy or a technology company"
+  },
+  "sevenoaks": {
+    "region": "Sevenoaks and Kent",
+    "nearby": ["Tonbridge", "Orpington", "Tunbridge Wells"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Sevenoaks, embroidered in-house to brand guidelines. Sevenoaks is an affluent Kent commuter town with a strong professional-services and financial sector, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Sevenoaks professional services and financial firms",
+    "s1loc": [
+      "Sevenoaks, an affluent commuter town in west Kent, carries a strong professional-services and financial base for its size. Chartered accountancies including Wilson Partners, Samuels LLP, Witton Metcalfe, Greenaway and the Tax Practice work in and around the High Street, alongside national firms such as Perrys and Brebners that run Sevenoaks offices beside their London bases. Solicitors including Setfords advise on commercial property, corporate and private-client matters, serving businesses across Sevenoaks, Tonbridge and Tunbridge Wells.",
+      "The professional-services and financial workforce here is weighted toward London commuters on the fast line into the City and on the wider west Kent labour market reaching toward Orpington. These staff work in suits or business-casual most days, then step into branded polos, softshells and fleeces for conferences, exhibitions, client and site visits, away days and sponsored community events. Office and procurement managers across Sevenoaks order that kit because it has to carry the firm's exact logo and colours, embroidered to guideline and reordered to match."
+    ],
+    "kit_loc": "across the High Street and the wider business district",
+    "s2_intro": "Whether you are a Sevenoaks bank, a law firm, an accountancy or a technology company"
+  }
+}

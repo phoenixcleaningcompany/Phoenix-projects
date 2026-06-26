@@ -1,0 +1,86 @@
+{
+  "hertford": {
+    "region": "Hertford and Hertfordshire",
+    "nearby": ["Hoddesdon", "Welwyn Garden City", "Stevenage"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Hertford, embroidered in-house to brand guidelines. As the county town of Hertfordshire it carries a professional, scientific and technical economy clustered around its serviced offices and business parks, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Hertford as the Hertfordshire county town",
+    "s1loc": [
+      "Hertford is the county town of Hertfordshire, with a professional-services base built around the Hertford Business Hub, High Oak Business Centres on the town centre, and Foxholes Business Park on Watermark Way. The town sits within the Hertfordshire Innovation Quarter corridor toward Welwyn Garden City, where Roche, Ocado and PayPoint anchor the wider county economy. Accountancy, legal, consultancy and technology firms cluster across these centres, served by the Herts Chamber of Commerce and strong links to Stevenage and the A10.",
+      "The professional workforce here draws on Hertford, Hoddesdon and Welwyn Garden City, feeding the professional, scientific and technical practices that dominate the local economy, mostly small owner-managed firms. People who work in suits or at a desk still step into branded polos, softshells and fleeces for client visits, conferences, away days and sponsored community events. Office managers, partners and procurement leads buy that kit and expect it to match the company brand exactly, embroidered to the same logo and colour standards every time a team reorders."
+    ],
+    "kit_loc": "across the town centre and Foxholes Business Park",
+    "s2_intro": "Whether you are a Hertford accountancy, a law firm, a consultancy, an insurer or a technology company"
+  },
+  "totton": {
+    "region": "Totton and Hampshire",
+    "nearby": ["Southampton", "Eastleigh", "Fareham"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Totton, embroidered in-house to brand guidelines. It is a Southampton-corridor manufacturing and logistics town, with engineering and distribution employers across its industrial estates feeding a base of professional and advisory firms, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Totton on the Southampton corridor",
+    "s1loc": [
+      "Totton sits just west of Southampton on the A35, with the South Hampshire Industrial Park and the larger Calmore Industrial Estate forming its commercial core, reached off junction 2 of the M27 via the Salisbury Road. The estates mix engineering, distribution and specialist manufacturing, with occupiers such as Red Box Tools and office space for firms like Dandara, alongside trade and supplier businesses. Professional, consultancy and technology firms sit around the estates and along the corridor into Southampton and Eastleigh.",
+      "The professional workforce here draws on Totton, Southampton, Eastleigh and Fareham, feeding accountancy, legal, consultancy and technology firms tied to the manufacturing and logistics economy of the Southampton corridor. People who work in suits or at a desk still step into branded polos, softshells and fleeces for client visits, site visits, exhibitions and away days. Office managers, partners and procurement leads buy that kit and expect it to match the company brand exactly, embroidered to the same logo and colour standards every time a team reorders."
+    ],
+    "kit_loc": "across the town and South Hampshire Industrial Park",
+    "s2_intro": "Whether you are a Totton engineering firm, a logistics business, an accountancy, a consultancy or a technology company"
+  },
+  "burntwood": {
+    "region": "Burntwood and Staffordshire",
+    "nearby": ["Cannock", "Lichfield", "Tamworth"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Burntwood, embroidered in-house to brand guidelines. It is a Staffordshire manufacturing-services town built around one of the area's largest business parks, feeding a base of professional and advisory firms, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Burntwood and its Staffordshire business park",
+    "s1loc": [
+      "Burntwood sits between Cannock and Lichfield, with Multipark Burntwood, the former Burntwood Business Park, forming its commercial core at over one million square feet on the A5190. The park benefits from direct access to the M6 Toll and the A5, six miles from junction 11 of the M6, and mixes warehousing, manufacturing and trade-counter occupiers across its zones. Professional, consultancy and technology firms sit around the park and along the corridor toward Lichfield, supported by Lichfield District as a business location.",
+      "The professional workforce here draws on Burntwood, Cannock, Lichfield and Tamworth, feeding accountancy, legal, consultancy and technology firms tied to the manufacturing and distribution economy of the business park. People who work in suits or at a desk still step into branded polos, softshells and fleeces for client visits, site visits, exhibitions and away days. Office managers, partners and procurement leads buy that kit and expect it to match the company brand exactly, embroidered to the same logo and colour standards every time a team reorders."
+    ],
+    "kit_loc": "across the town and Burntwood Business Park",
+    "s2_intro": "Whether you are a Burntwood manufacturing firm, a logistics business, an accountancy, a consultancy or a technology company"
+  },
+  "farnworth": {
+    "region": "Farnworth and Greater Manchester",
+    "nearby": ["Bolton", "Bury", "Leigh"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Farnworth, embroidered in-house to brand guidelines. It is a Bolton-area manufacturing-services town, with engineering and industrial firms feeding a base of accountancy, legal and advisory practices, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Farnworth in the Bolton manufacturing belt",
+    "s1loc": [
+      "Farnworth sits just south of Bolton, with a working professional-services base centred on Market Street and Miller House. Higsons provides specialist accountancy to businesses across Farnworth and Bolton with more than twenty years in the area, BCM Accountants run from Miller House, and SK Solicitors offer commercial and litigation work from the same building. Clough and Willis, a full-service law firm, advises businesses across Bolton and Bury, while consultancy and technology firms sit along the corridor into Greater Manchester serving the local manufacturing economy.",
+      "The professional workforce here draws on Farnworth, Bolton, Bury and Leigh, feeding accountancy, legal, consultancy and technology firms tied to the area's manufacturing and engineering businesses. People who work in suits or at a desk still step into branded polos, softshells and fleeces for client visits, site visits, away days and sponsored community events. Office managers, partners and procurement leads buy that kit and expect it to match the company brand exactly, embroidered to the same logo and colour standards every time a team reorders."
+    ],
+    "kit_loc": "across the town centre and the Bolton business corridor",
+    "s2_intro": "Whether you are a Farnworth manufacturing firm, an accountancy, a law firm, a consultancy or a technology company"
+  },
+  "jarrow": {
+    "region": "Jarrow and South Tyneside",
+    "nearby": ["South Shields", "Gateshead", "Washington"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Jarrow, embroidered in-house to brand guidelines. It is a riverside manufacturing and engineering town on the south bank of the Tyne, with an advanced-manufacturing base feeding professional and advisory firms, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Jarrow on the south bank of the Tyne",
+    "s1loc": [
+      "Jarrow sits on the south bank of the River Tyne, with the Manufacturing Zone at Jarrow Business Centre on Viking Business Park designed for advanced-manufacturing and offshore supply-chain SMEs serving tier 1 and tier 2 manufacturers. The town lies minutes from the Port of Tyne and the A19, close to the International Advanced Manufacturing Park shared between South Tyneside and Sunderland, and the Equinor and SSE Renewables base in South Shields. Engineering, distribution and technology firms sit across the area, supported by accountancy, legal and consultancy practices.",
+      "The professional workforce here draws on Jarrow, South Shields, Gateshead and Washington, feeding accountancy, legal, consultancy and technology firms tied to the riverside manufacturing and engineering economy. People who work in suits or at a desk still step into branded polos, softshells and fleeces for client visits, site visits, exhibitions and away days. Office managers, partners and procurement leads buy that kit and expect it to match the company brand exactly, embroidered to the same logo and colour standards every time a team reorders."
+    ],
+    "kit_loc": "across the town and Viking Business Park",
+    "s2_intro": "Whether you are a Jarrow engineering firm, a manufacturing business, an accountancy, a consultancy or a technology company"
+  },
+  "penarth": {
+    "region": "Penarth and the Vale of Glamorgan",
+    "nearby": ["Cardiff", "Barry", "Caerphilly"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Penarth, embroidered in-house to brand guidelines. It is an affluent commuter town on the south side of Cardiff Bay, with a professional-services base feeding the finance and technology employers of the Welsh capital, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Penarth beside Cardiff Bay",
+    "s1loc": [
+      "Penarth sits on the north shore of the Severn Estuary at the southern end of Cardiff Bay, a few miles from the Welsh capital and just twelve minutes from Cardiff Central by rail. It is one of the most affluent towns in the Vale of Glamorgan and a leading Cardiff commuter base, with its own professional-services firms. Naunton Jones Le Masurier run chartered accountancy from Cardiff, Barry and Penarth, while Bay Accountancy, COG Accountancy and Ian Walker advise SMEs and professional practices around the town centre.",
+      "The professional workforce here draws on Penarth, Cardiff, Barry and Caerphilly, with many residents commuting to the finance, legal and technology hubs of Cardiff Bay and the city centre. People who work in suits or at a desk still step into branded polos, softshells and fleeces for client visits, conferences, away days and sponsored community events. Office managers, partners and procurement leads buy that kit and expect it to match the firm brand exactly, embroidered to the same logo and colour standards every time a team reorders."
+    ],
+    "kit_loc": "across the town centre and the Cardiff Bay corridor",
+    "s2_intro": "Whether you are a Penarth accountancy, a law firm, a consultancy, an insurer or a technology company"
+  },
+  "congleton": {
+    "region": "Congleton and Cheshire",
+    "nearby": ["Macclesfield", "Sandbach", "Crewe"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Congleton, embroidered in-house to brand guidelines. It is a Cheshire manufacturing town anchored by Siemens and Senior Aerospace, with an engineering base feeding professional and advisory firms, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Congleton's Cheshire manufacturing base",
+    "s1loc": [
+      "Congleton is a Cheshire manufacturing town anchored by Siemens, which has built variable-speed drives here since 1971 and employs around 500 people across research, manufacturing, customer support and procurement, producing more than a million electrical devices a year. The Radnor Park Industrial Estate adds occupiers including Senior Aerospace, Boalloy Industries and Hans Lingl, while Congleton Business Park off Viking Road continues to expand. Professional, consultancy and technology firms sit around these sites, served by strong links to the M6 at junction 17.",
+      "The professional workforce here draws on Congleton, Macclesfield, Sandbach and Crewe, feeding accountancy, legal, consultancy and technology firms tied to the town's engineering and advanced-manufacturing economy. People who work in suits or at a desk still step into branded polos, softshells and fleeces for client visits, site visits, exhibitions and away days. Office managers, partners and procurement leads buy that kit and expect it to match the company brand exactly, embroidered to the same logo and colour standards every time a team reorders."
+    ],
+    "kit_loc": "across the town and Radnor Park Industrial Estate",
+    "s2_intro": "Whether you are a Congleton manufacturing firm, an engineering business, an accountancy, a consultancy or a technology company"
+  }
+}
