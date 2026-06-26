@@ -1,0 +1,86 @@
+{
+  "yeovil": {
+    "region": "Yeovil, Somerset",
+    "nearby": ["Taunton", "Bridgwater", "Dorchester"],
+    "s1_head": "Charity and volunteer kit in Yeovil",
+    "s1loc": [
+      "Yeovil's charity life leans on long-running volunteer effort. The Lord's Larder, run by Yeovil Christian Support Trust and Yeovil Community Church, has handed out emergency food parcels since 1991, with volunteers of every denomination working together. The Westfield Local Pantry at Westfield Community Centre lets members buy good food for a few pounds a week, and Somerset Community Foundation funds dozens of small local causes. The big food-redistribution and foodbank networks back this work behind the scenes.",
+      "The sector here runs at every size. St Margaret's Somerset Hospice carries shops across the county with central buying behind them, while tiny volunteer-run pantries and the Lord's Larder operate on a shoestring across districts such as Westfield, Houndstone and the town centre. Yeovil Opportunity Group supports pre-school children with extra needs, and church halls double as collection points. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Around them sits a wider web of local support. St Margaret's Hospice runs a furniture store on Court Ash and several high-street shops in Yeovil, drawing on volunteers across Mendip and East Somerset. The Somerset pantry network keeps surplus food moving, and mutual-aid groups and befriending schemes cover neighbourhoods from Preston to Pen Mill. Community foundation grants, Rotary backing and small fundraising stalls at events like the Yeovil Show all feed the same simple goal of keeping people fed and connected."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Yeovil, a Somerset Community Foundation-supported community group or a small volunteer-run foodbank in Taunton"
+  },
+  "welwyn garden city": {
+    "region": "Welwyn Garden City, Hertfordshire",
+    "nearby": ["Hatfield", "Hertford", "Stevenage"],
+    "s1_head": "Charity and volunteer kit in Welwyn Garden City",
+    "s1loc": [
+      "Welwyn Garden City's charity scene is anchored by Isabel Hospice, whose shops and donation centre run along Howardsgate, Stonehills and out at Haldens, all staffed by volunteers. Welwyn Hatfield CVS coordinates help-with-food schemes and points people to GoVolHerts for roles, while the Fountain of Life church on Howardsgate runs a midweek foodbank. Social-supermarket shifts across Welwyn Hatfield keep surplus moving, with the big food-redistribution and foodbank networks supplying the stock behind the scenes.",
+      "The sector here works at every scale. Isabel Hospice and other regional charities carry high-street shops with central buying, while small community groups, church foodbanks and pantries run on a shoestring across the Howardsgate centre, Haldens, Hollybush and Peartree. Mutual-aid groups and eco-minded food-rescue projects rescue food from landfill for people in need. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Beyond the foodbanks sits a busy volunteer network. Isabel Hospice runs a dedicated donation centre and a boutique womenswear shop in the town, supported by hundreds of volunteers and a 24-hour clinical advice line. GoVolHerts matches residents to local roles, and Pets As Therapy volunteers visit care homes and hospices with their dogs. Befriending groups, lunch clubs and small fundraising stalls run across neighbourhoods from Panshanger to Handside, all on modest budgets and goodwill."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Welwyn Garden City, an Isabel Hospice-supported community group or a small volunteer-run foodbank in Hatfield"
+  },
+  "carlton": {
+    "region": "Carlton, Gedling, Nottinghamshire",
+    "nearby": ["Nottingham", "Arnold", "West Bridgford"],
+    "s1_head": "Charity and volunteer kit in Carlton",
+    "s1loc": [
+      "Carlton's charity heart is the Carlton Community Hub, run by Hope Nottingham in the former Carlton Methodist Church since October 2021. It houses the Carlton Foodbank, a community cafe, befriending and a Food Club where a one-pound yearly membership buys a fifteen-pound food bag for four pounds. The Hub was a Pride of Gedling runner-up in 2023, and the launch drew in St John's Carlton, St John's Colwick and St Paul's Catholic churches. The big food-redistribution networks supply much of the stock.",
+      "The sector here runs at every size. Hope Nottingham pools volunteers and central buying across its Beeston and Carlton hubs and satellite foodbanks, while small church groups, pantries and volunteer-run projects work on a shoestring across districts such as Carlton Hill, Netherfield, Colwick and Gedling. Financial advice comes from The Ark, Gedling. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Around the Hub sits a strong volunteer base of roughly 370 people across Hope Nottingham's sites. Carlton's parade of charity shops raises funds for hospices and national causes, and Get Volunteering lists roles across Gedling, Newark and Sherwood. Friendship groups, arts-and-crafts sessions and lunch clubs run out of the Hub, while mutual-aid and church-hall projects cover neighbourhoods from Mapperley to Burton Joyce, all stretched budgets kept going by donations and willing hands."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Carlton, a Hope Nottingham-supplied community group or a small volunteer-run foodbank in Arnold"
+  },
+  "west bridgford": {
+    "region": "West Bridgford, Rushcliffe, Nottinghamshire",
+    "nearby": ["Nottingham", "Carlton", "Beeston"],
+    "s1_head": "Charity and volunteer kit in West Bridgford",
+    "s1loc": [
+      "West Bridgford gave Rushcliffe its first foodbank, started by Sewa Day Nottingham in a changing room at West Bridgford Colts FC and now serving around 120 people from Edwalton Church Hall with more than 40 volunteers. Parcels carry ambient and perishable food, toiletries, pet food and cleaning items, packed to family size. Sai Dham Nottingham, the Hindu Temple, Communities Working Together, FareShare Midlands and the Rotary Club of Rushcliffe all chip in behind the scenes.",
+      "The sector here runs at every size. Regional charities carry shops with central buying, while small community groups, the Rushcliffe foodbank and volunteer-run projects work on a shoestring across districts such as Lady Bay, Edwalton, Gamston and Compton Acres. Neighbourly, Aldi Edwalton and Morrisons donate surplus, and Rushcliffe Borough Council lends support. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Beyond the foodbank sits a broad volunteer network. The Rushcliffe Volunteer Centre matches people to roles and supports groups in good practice, while West Bridgford's Central Avenue charity shops raise funds for hospices and national causes. Sports clubs like West Bridgford Colts host fundraisers, and Ladybay community groups, befriending schemes and lunch clubs run across neighbourhoods from Trent Bridge to Wilford, all on modest budgets and the goodwill of local volunteers."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across West Bridgford, a FareShare Midlands-supplied community group or a small volunteer-run foodbank in Beeston"
+  },
+  "beckenham": {
+    "region": "Beckenham, London Borough of Bromley",
+    "nearby": ["Bromley", "Croydon", "Lewisham"],
+    "s1_head": "Charity and volunteer kit in Beckenham",
+    "s1loc": [
+      "Beckenham's charity life leans on St Christopher's Hospice, whose shops on Beckenham High Street, in Penge and across Bromley raise funds for end-of-life care in south-east London, staffed by enthusiastic volunteers. Bromley Borough Foodbank, open since 2010, has helped tens of thousands of adults and children, with Waitrose food drives in Bromley and Beckenham collecting stock. Food+ Bromley, launched by Citygate Church in 2012, runs an independent foodbank. The big food-redistribution networks supply much of the surplus.",
+      "The sector here works at every scale. St Christopher's Hospice and other national charities carry high-street shops with central buying behind them, while small community groups, church foodbanks and pantries run on a shoestring across districts such as Beckenham, Penge, Anerley and Elmers End. Living Well Bromley and mutual-aid groups add local muscle. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Around them sits a wide volunteer base. St Christopher's runs over twenty shops across south-east London, Bromley and Croydon, drawing on volunteers for sorting and serving. Food+ Bromley supports refugees, domestic-abuse survivors and people facing physical and mental challenges, and the council's volunteering pages list roles across the borough. Befriending schemes, lunch clubs and fundraising stalls run across neighbourhoods from Clock House to Eden Park, all on tight budgets kept going by donations and local volunteers."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Beckenham, a St Christopher's Hospice-supported community group or a small volunteer-run foodbank in Bromley"
+  },
+  "sutton": {
+    "region": "Sutton, London Borough of Sutton",
+    "nearby": ["Croydon", "Epsom", "Kingston upon Thames"],
+    "s1_head": "Charity and volunteer kit in Sutton",
+    "s1loc": [
+      "Sutton's charity scene runs deep. Sutton Foodbank has served people in food crisis since 2009, while Sutton Community Works, based at Highfield Hall on Carshalton Road, tackles food insecurity, isolation and homelessness with a busy volunteer team. The Sutton Community Project hands out fresh food boxes and reduces food waste. St Raphael's Hospice carries eleven shops across Sutton and Merton. The big food-redistribution networks supply surplus behind the scenes.",
+      "The sector here works at every scale. St Raphael's Hospice and national charities carry high-street and clearance shops with central buying, while small community groups, foodbanks and volunteer-run projects run on a shoestring across districts such as Carshalton, Cheam, Wallington and Sutton town centre. Volunteer Centre Sutton and Community Action Sutton at Granfers Community Centre match people to roles. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Beyond the foodbanks sits a strong volunteer network. St Raphael's Hospice runs boutique, high-street and five-pound clearance shops in Cheam Village, Carshalton High Street and Sutton, all raising funds for its care. Sutton Community Project gives people a place to connect and learn new skills, while befriending schemes, lunch clubs and mutual-aid groups cover neighbourhoods from Belmont to Worcester Park, all on modest budgets and the goodwill of local volunteers."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Sutton, a St Raphael's Hospice-supported community group or a small volunteer-run foodbank in Croydon"
+  },
+  "banbury": {
+    "region": "Banbury, Cherwell, Oxfordshire",
+    "nearby": ["Bicester", "Leamington Spa", "Daventry"],
+    "s1_head": "Charity and volunteer kit in Banbury",
+    "s1loc": [
+      "Banbury Foodbank was founded by local churches and community groups and hands out three days of emergency food from St Joseph's Church, The Peoples Church on the Horsefair and St Francis Church in the Highlands. Banbury Charities, a group of eight registered charities, relieves hardship across the town, and Citizens Advice, GP surgeries and schools refer those in crisis. Katharine House Hospice runs shops in Banbury and the surrounding towns. The big food-redistribution networks supply much of the stock.",
+      "The sector here works at every scale. Katharine House Hospice and national charities carry high-street shops with central buying behind them, while small community groups, church foodbanks and volunteer-run projects run on a shoestring across districts such as Neithrop, Grimsbury, Easington and the town centre. The Salvation Army and Good Food Oxfordshire add support. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Around the foodbanks sits a busy voluntary network. The Banbury Young Homelessness Project has supported 13- to 25-year-olds for over thirty years, the Sunshine Centre runs childcare and family classes, and Dogs for Good trains assistance dogs from its Banbury base. Oxfordshire Community Foundation and OCVA fund and match volunteers, while befriending schemes, lunch clubs and Katharine House charity shops run across neighbourhoods from Bretch Hill to Hardwick, all on modest budgets and willing hands."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Banbury, a Good Food Oxfordshire-supported community group or a small volunteer-run foodbank in Bicester"
+  }
+}

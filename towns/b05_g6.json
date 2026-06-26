@@ -1,0 +1,86 @@
+{
+  "hinckley": {
+    "region": "Hinckley, Leicestershire",
+    "nearby": ["Nuneaton", "Leicester", "Coalville"],
+    "s1_head": "Charity and volunteering across Hinckley",
+    "s1loc": [
+      "Hinckley Area Foodbank, part of the Trussell network, is run by local people and works out of St John's and other church centres, handing out three-day emergency parcels on a voucher referral and leaning on the big food-redistribution and foodbank networks for stock. It depends entirely on community donations, volunteer rotas and finances. Trussell and the wider surplus-food schemes feed in supplies, while supermarket collection points keep the shelves stocked across the town.",
+      "The sector here runs at every size. National and regional charities such as Cancer Research UK, the British Red Cross and Age UK Leicester Shire and Rutland keep high-street shops with central buying behind them, while small community groups, church-led foodbanks, pantries and volunteer-run projects work on a shoestring across districts like Earl Shilton, Barwell and Burbage. A good supplier serves the national charity and the one-room foodbank alike, on trade accounts and direct online, with no minimum.",
+      "Hinckley sits within the catchment of the Mary Ann Evans Hospice in nearby Nuneaton, whose shops in Nuneaton, Atherstone, Bedworth, Coleshill and Coventry fund its care and wellbeing centre. LOROS, the Leicestershire hospice, also runs a Hinckley shop. Add Age UK and Red Cross outlets on the high street, parish-led clothing and food banks, and volunteer befriending and fundraising rotas, and the picture is a busy mix of regional names and tiny neighbourhood efforts kitting out helpers week to week."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Hinckley, a Trussell-supplied community group or a small volunteer-run foodbank in Nuneaton"
+  },
+  "middleton": {
+    "region": "Middleton, Greater Manchester (Rochdale borough)",
+    "nearby": ["Rochdale", "Oldham", "Heywood"],
+    "s1loc": [
+      "Middleton Central Foodbank, founded and run by the local charity Inspire Middleton in partnership with several Middleton churches, works from the Middleton Shopping Centre and issues vouchers through partner agencies. Alongside it, Middleton Food Pantry offers members up to ten items of fresh, frozen and cupboard food for a small weekly fee, and Action Together coordinates food-support signposting across Rochdale borough. The big food-redistribution and foodbank networks keep both supplied with surplus and donated stock.",
+      "The sector here runs at every size. National and regional charities run high-street shops with central buying behind them, while small community groups, church-led foodbanks, pantries and volunteer-run projects work on a shoestring across districts like Langley, Alkrington, Hollins and Rhodes. Action Together backs grassroots groups and mutual-aid efforts borough-wide. A good supplier serves the national charity and the one-room foodbank alike, on trade accounts and direct online, with no minimum.",
+      "Middleton's voluntary scene leans on the Rochdale-borough infrastructure run by Action Together, the third-sector support body, which lists food clubs, warm spaces and community pantries across the area. Inspire Middleton ties churches and volunteers together for the foodbank, while charity shops on Long Street and around the shopping centre fund national and hospice causes. Volunteer cooks, sorters, drivers and befrienders keep pantries and lunch clubs running in Langley and Hollins, a patchwork of named brands and tiny shoestring projects side by side."
+    ],
+    "s1_head": "Charity and volunteering across Middleton",
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Middleton, a FareShare-supplied community group or a small volunteer-run foodbank in Heywood"
+  },
+  "ashton-under-lyne": {
+    "region": "Ashton-under-Lyne, Greater Manchester (Tameside)",
+    "nearby": ["Oldham", "Stalybridge", "Hyde"],
+    "s1_head": "Charity and volunteering across Ashton-under-Lyne",
+    "s1loc": [
+      "Tameside East Foodbank hands out three days of emergency food from sites in Ashton-under-Lyne, Stalybridge and Dukinfield, taking referrals from local statutory and voluntary agencies. FareShare Greater Manchester redistributes surplus food to hundreds of charities, schools and community groups across the conurbation, and Action Together, the borough third-sector body, runs food-support signposting and a community-activity directory. Together they keep Ashton's parcels and pantries stocked through donated and rescued food.",
+      "The sector here runs at every size. National and regional charities such as Age UK Tameside keep high-street shops with central buying behind them, while small community groups, church-led foodbanks, pantries and volunteer-run projects work on a shoestring across districts like Hurst, Smallshaw, Waterloo and Hartshead. A good supplier serves the national charity and the one-room foodbank alike, on trade accounts and direct online, with no minimum.",
+      "Willow Wood Hospice, serving Tameside and Glossop from Ashton, funds its care through charity shops in Ashton on Old Street and at Waterloo, plus a Stalybridge donation point and an eBay store, all staffed by volunteers. Age UK Tameside runs offices and day services in the town with volunteer roles in food preparation, befriending and admin, and Action Together connects mutual-aid and grassroots groups across the borough. Charity shops along the Ashton high street back national and local causes side by side."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Ashton-under-Lyne, a FareShare-supplied community group or a small volunteer-run foodbank in Stalybridge"
+  },
+  "sutton-in-ashfield": {
+    "region": "Sutton-in-Ashfield, Nottinghamshire",
+    "nearby": ["Mansfield", "Hucknall", "Alfreton"],
+    "s1_head": "Charity and volunteering across Sutton-in-Ashfield",
+    "s1loc": [
+      "Sutton Foodbank, founded by local churches and community groups, runs a voucher referral system and depends on community donations and volunteer rotas. FoodCycle Sutton-in-Ashfield takes a different tack, cooking free community meals from surplus food every Wednesday evening at the Magdalene Centre, served around shared tables by volunteers. The Parochial Church Council of St Mary Magdalene runs a foodbank and clothing bank too, and the big food-redistribution networks feed surplus stock into all of them.",
+      "The sector here runs at every size. National and regional charities run high-street shops with central buying behind them, while small community groups, church-led foodbanks, pantries and volunteer-run projects work on a shoestring across districts like Stanton Hill, Skegby, Huthwaite and Kirkby-in-Ashfield. A good supplier serves the national charity and the one-room foodbank alike, on trade accounts and direct online, with no minimum.",
+      "Sutton Community Works and the wider church-and-volunteer network tie the town's food and clothing support together, and Hope Nottingham coordinates foodbank volunteering across the county. FoodCycle's cooks, hosts and food-collection volunteers, all over eighteen, keep the Wednesday community meal going, while charity shops along Outram Street and Low Street fund national and hospice causes. The mix runs from familiar high-street brands to one-room volunteer-run projects across Stanton Hill and Huthwaite, all kitting people out week to week."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Sutton-in-Ashfield, a FareShare-supplied community group or a small volunteer-run foodbank in Mansfield"
+  },
+  "chippenham": {
+    "region": "Chippenham, Wiltshire",
+    "nearby": ["Trowbridge", "Melksham", "Bath"],
+    "s1_head": "Charity and volunteering across Chippenham",
+    "s1loc": [
+      "Chippenham Foodbank, run by The Salvation Army on a voucher system, anchors emergency food in the town, while the Chippenham FoodBox collects surplus from local stores and tops it up with bought food for parcels. One Chippenham lists the local food-support providers, and a Fighting Hunger group of around fifty volunteers turns supermarket and public donations into parcels across Wiltshire. In partnership with FareShare South West they distributed over a hundred tonnes of food to dozens of foodbanks and community groups.",
+      "The sector here runs at every size. National and regional charities such as Dorothy House Hospice keep high-street shops with central buying behind them, while small community groups, church-led foodbanks, pantries and volunteer-run projects work on a shoestring across districts like Pewsham, Monkton Park, Sheldon and Lowden. A good supplier serves the national charity and the one-room foodbank alike, on trade accounts and direct online, with no minimum.",
+      "Doorway, a Chippenham drop-in charity for people who are homeless or facing complex needs, offers cooked food, showers and activities through a pool of around fifty rota volunteers acting as cooks, kitchen assistants and befrienders. Dorothy House Hospice runs furniture, electrical and clothing shops on Station Hill and The Bridge, funding its care, and Rooted Chippenham signposts help with food. Wiltshire Together lists volunteer roles across the area, knitting national names and tiny shoestring projects into one busy local scene."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Chippenham, a FareShare-supplied community group or a small volunteer-run foodbank in Melksham"
+  },
+  "caerphilly": {
+    "region": "Caerphilly, South Wales",
+    "nearby": ["Cardiff", "Pontypridd", "Newport"],
+    "s1_head": "Charity and volunteering across Caerphilly",
+    "s1loc": [
+      "Caerphilly Foodbank, a welcoming group of volunteers working in partnership with the Trussell network and Connect Life Church, fed more than two thousand two hundred people in 2024 to 2025, providing nutritionally balanced three-day emergency parcels. FareShare Cymru, founded in 2010 and based in Cardiff, redistributes surplus food to more than a hundred and seventy organisations across Wales, many of them in the valleys. The Parish Trust's CARE Project adds further food and community support around the town.",
+      "The sector here runs at every size. National and regional charities run high-street shops with central buying behind them, while small community groups, church-led foodbanks, pantries and volunteer-run projects work on a shoestring across districts like Bargoed, Ystrad Mynach, Risca and Bedwas. A good supplier serves the national charity and the one-room foodbank alike, on trade accounts and direct online, with no minimum.",
+      "GAVO, the Gwent Association of Voluntary Organisations, supports Caerphilly's third sector, helping community groups build resilience and recruit volunteers. Children's hospice Ty Hafan and St David's Hospice Care both serve families across the county borough through care and charity shops, and housing-and-care charities like Llamau and Hafod run local projects. From familiar high-street brands to one-room volunteer-run foodbanks across Bargoed and Ystrad Mynach, the mix kits people out across the valleys week to week."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Caerphilly, a FareShare-supplied community group or a small volunteer-run foodbank in Pontypridd"
+  },
+  "coatbridge": {
+    "region": "Coatbridge, North Lanarkshire",
+    "nearby": ["Airdrie", "Glasgow", "Cumbernauld"],
+    "s1_head": "Charity and volunteering across Coatbridge",
+    "s1loc": [
+      "Coatbridge Community Foodbank, based on Coatbank Street and run by volunteers, opens three days a week and issues a week's supply of food on referral from doctors, social workers, the citizens advice bureau, churches and police. The People's Pantry, run from St Augustine's, adds a low-cost membership pantry alongside it. The big food-redistribution and surplus-food networks across Lanarkshire keep both supplied, and donations from the public top up the shelves through the year.",
+      "The sector here runs at every size. National and regional charities such as St Andrew's Hospice keep high-street shops with central buying behind them, while small community groups, church-led foodbanks, pantries and volunteer-run projects work on a shoestring across districts like Whifflet, Townhead, Old Monkland and Bargeddie. A good supplier serves the national charity and the one-room foodbank alike, on trade accounts and direct online, with no minimum.",
+      "St Andrew's Hospice runs around fourteen stores across North and South Lanarkshire, including a large shopping outlet and a Main Street shop in Coatbridge, all relying on volunteers to fund patient care. Voluntary Action North Lanarkshire, the third-sector interface, backs community and voluntary groups across the area with support and volunteer recruitment. Coatbridge Citizens Advice ties into the People's Pantry foodbank, and charity shops along Main Street fund national and hospice causes, mixing big brands with tiny shoestring projects."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Coatbridge, a FareShare-supplied community group or a small volunteer-run foodbank in Airdrie"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "crosby": {
+    "region": "Crosby, Sefton, Merseyside",
+    "nearby": ["Bootle", "Liverpool", "Formby"],
+    "s1_head": "Crosby and the Sefton charity network",
+    "s1loc": [
+      "Crosby sits within a busy Sefton charity scene anchored by the South Sefton and Crosby Foodbank, which runs from St Leonard's Youth and Community Centre on Peel Road in nearby Bootle on a Trussell voucher referral system. FareShare Merseyside redistributes surplus food to more than 200 charities and community groups across the borough and the Wirral with a team of around 100 volunteers, while Sefton CVS and Volunteer Centre Sefton, based at Burlington House on Crosby Road North in Waterloo, support the wider voluntary and faith sector.",
+      "The sector runs at every size here. National charities such as the Salvation Army and the big hospice retailers hold shops along Crosby village and South Road in Waterloo and buy kit centrally, while small community groups, the Trussell-linked foodbank sites and volunteer-run pantries operate on a shoestring across Bootle, Litherland and Seaforth. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Beyond the food projects, Queenscourt Hospice runs a chain of charity shops reaching Formby and Southport, and Crosby Housing Association operates its own charity shop close to the seafront. The Crosby Lions Club organises the annual Crosby Carnival and Fun Day across Crosby, Litherland and Bootle, and faith and mutual-aid groups working with Sefton CVS, Sefton Council and local councillors have spread foodbank provision into pockets across the borough. Waterloo, Seaforth and Blundellsands all field their own volunteer-run collections, fundraisers and community events through the year."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Crosby, a FareShare Merseyside-supplied community group or a small volunteer-run foodbank in Bootle"
+  },
+  "keighley": {
+    "region": "Keighley, City of Bradford, West Yorkshire",
+    "nearby": ["Bradford", "Bingley", "Shipley"],
+    "s1_head": "Keighley and the Bradford district sector",
+    "s1loc": [
+      "Keighley has a well-organised food-aid scene led by the Keighley Foodbank Partnership, which shares a common referral process across four foodbanks in the town, working with the Job Centre, Citizens Advice, local schools, GP surgeries, Keighley Asian Women and Children's Centre, Roshni Ghar, Keighley Healthy Living and Project 6. FareShare Yorkshire, founded in Barnsley in 1998, supplies surplus food to hundreds of frontline groups, and Good Food Keighley is a newer partnership pulling organisations together to tackle food poverty.",
+      "The sector runs at every size across the district. National and regional charities such as the Salvation Army in Keighley keep charity shops and buy kit through central accounts, while small community groups, the partnership foodbanks and volunteer-run projects work on a shoestring across Keighley, Haworth, Oxenhope and Cross Roads, with collection points at Sainsbury's, Morrisons and several Co-op stores. We are built to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Volunteer Bradford District coordinates volunteering across Bradford and Keighley, listing roles from food projects to befriending. Leeds Community Foundation has funded holiday clubs across both Bradford and Keighley, and Horton Bank Top Community Foodbank serves the BD6 and BD7 areas nearby. Worth Valley villages such as Haworth and Oxenhope field church-run and mutual-aid collections, and the wider district hosts hospice retailers and air-ambulance shops alongside the grassroots pantries, so kit needs run from a handful of polos for a church team to bulk orders for a district-wide charity."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Keighley, a FareShare Yorkshire-supplied community group or a small volunteer-run foodbank in Bingley"
+  },
+  "eastleigh": {
+    "region": "Eastleigh, Hampshire",
+    "nearby": ["Southampton", "Winchester", "Fareham"],
+    "s1_head": "Eastleigh and the Hampshire charity scene",
+    "s1loc": [
+      "Eastleigh's food-aid effort centres on the Eastleigh Basics Bank, which runs a shop in Wells Place in the town centre several days a week, alongside the community pantries, fridges and low-cost food schemes signposted by Eastleigh Borough Council. FareShare Southern Central, established in 2014 and warehoused in nearby Southampton, supplies good-quality surplus food to around 150 charities and community organisations across Hampshire and the Isle of Wight, from breakfast clubs and pantries to lunch clubs, day centres and community cafes, with a large volunteer team.",
+      "The sector runs at every size in the borough. National charities such as Naomi House and Jacksplace, whose children's hospice shop sits on Market Street, and Countess Mountbatten Hospice Charity, with shops in Eastleigh and Chandlers Ford, keep retail estates and buy kit centrally, while small community groups, the Basics Bank and volunteer-run pantries operate on a shoestring across Bishopstoke, Chandlers Ford and Hedge End. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Beyond food, the borough fields a broad mix of volunteer-run causes. The hospice retailers draw shop volunteers from across Eastleigh to sort donations, work the till and dress windows, while community gardens, befriending schemes and church-led projects fill the gaps. Chandlers Ford, Bishopstoke and Fair Oak each support their own fundraising groups and collections, and the wider Hampshire network ties Eastleigh into Southampton and Winchester causes, so kit demand ranges from a single team's polos to bulk orders for a county-wide hospice charity."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Eastleigh, a FareShare Southern Central-supplied community group or a small volunteer-run foodbank in Southampton"
+  },
+  "lancaster": {
+    "region": "Lancaster, Lancashire",
+    "nearby": ["Morecambe", "Kendal", "Preston"],
+    "s1_head": "Lancaster and the Morecambe Bay sector",
+    "s1loc": [
+      "Lancaster shares a busy food-aid scene with neighbouring Morecambe, led by the Morecambe Bay Foodbank, which provides emergency food across Lancaster, Morecambe and the surrounding area. FareShare Lancashire and Cumbria delivers surplus food to more than 150 groups, from social supermarkets and foodbanks to school breakfast clubs, homeless shelters and hospices, supported by upwards of fifty volunteers. The Olive Branch on Heysham Road in Morecambe and the local food-redistribution charity Eggcup add further volunteer-driven support across the district.",
+      "The sector runs at every size around the Bay. National and regional charities keep charity shops along the city centre and Penny Street and buy kit through central accounts, while small community groups, the foodbank and volunteer-run pantries work on a shoestring across the West End, Skerton and Heysham. Morecambe Pantry was set up by Morecambe Parish Church with Great Places Housing Group, FareShare and Eggcup. We are built to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Lancaster City Council signposts a wider web of food banks and essentials help, and the city's student and faith communities add their own collections and mutual-aid efforts. Hospice retailers and air-ambulance shops sit alongside the grassroots pantries, and outlying communities such as Heysham and the villages toward Kendal field church-run and volunteer-led groups. From a handful of polos for a parish pantry to bulk hi-vis for a district-wide redistribution charity, the kit needs across this part of Lancashire span every scale."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Lancaster, a FareShare Lancashire and Cumbria-supplied community group or a small volunteer-run foodbank in Morecambe"
+  },
+  "macclesfield": {
+    "region": "Macclesfield, Cheshire East",
+    "nearby": ["Congleton", "Wilmslow", "Stockport"],
+    "s1_head": "Macclesfield and the Cheshire East sector",
+    "s1loc": [
+      "Macclesfield's food-aid scene centres on the Silklife Foodbank, set up in December 2010 by Silklife Church to provide on-the-spot emergency food boxes, each holding five days of supplies, now stocked through church members and the wider community. Cre8 runs a food pantry around the Moss Rose estate open to local residents, and CVS Cheshire East supports the broader voluntary sector through its Volunteering Hub, helping both new and established groups across the town and the wider borough.",
+      "The sector runs at every size in Cheshire East. National and regional charities and the East Cheshire Hospice keep charity shops and buy kit centrally, while small community groups, the foodbank and volunteer-run pantries operate on a shoestring across the Moss Rose, Hurdsfield and Weston estates. Space4Autism, co-founded in Macclesfield in 2005, opened its first charity shop, Space Launchpad, in 2025 as a training centre for autistic adults. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "East Cheshire Hospice serves Macclesfield, Congleton, Knutsford, Poynton and Wilmslow, and runs volunteer support groups across all of those towns to raise funds and awareness. In neighbouring Wilmslow, Wilmslow Girls Crafts for Charity holds sales for the Christie and East Cheshire Hospice, and Wilmslow Community Market Gardens, part of Transition Wilmslow, runs three growing sites. Bollington and the surrounding villages field their own collection points and fundraisers, so kit needs run from a few polos for a church foodbank team to bulk orders for a hospice retail estate."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Macclesfield, a FareShare-supplied community group or a small volunteer-run foodbank in Wilmslow"
+  },
+  "cumbernauld": {
+    "region": "Cumbernauld, North Lanarkshire, Scotland",
+    "nearby": ["Glasgow", "Falkirk", "Coatbridge"],
+    "s1_head": "Cumbernauld and the North Lanarkshire sector",
+    "s1loc": [
+      "Cumbernauld's food-aid scene is led by the Cumbernauld Foodbank, part of the Trussell network and reliant on its volunteers, alongside Cumbernauld Resilience, a volunteer-run registered charity that set up its own drop-in, non-referral foodbank for Monday-night sessions. Voluntary Action North Lanarkshire, the area's Third Sector Interface, supports the wider community and voluntary sector, while Coatbridge Community Foodbank on Coatbank Street in nearby Coatbridge hands out week-long family hampers across the eastern part of the authority.",
+      "The sector runs at every size across North Lanarkshire. National charities such as the Salvation Army, which runs a charity shop in Cumbernauld, and the big hospice retailers keep shops and buy kit centrally, while small community groups, the Trussell-linked foodbank and volunteer-run projects work on a shoestring across Kildrum, Abronhill, Carbrain and the Village. The Cumbernauld and Carbrain Community Hub adds further grassroots support. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Beyond the foodbanks, Voluntary Action North Lanarkshire brokers volunteering across the authority, connecting people to projects from befriending to community events. Freedom City Church runs its Take Heart support work, and mutual-aid and resilience groups born during recent crises continue to field volunteer-led collections. Town House and Carbrain host community hubs, and the new-town districts of Seafar, Greenfaulds and Condorrat each field their own local groups and fundraisers, so kit demand spans a few polos for a church team to bulk orders for a borough-wide charity."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Cumbernauld, a FareShare-supplied community group or a small volunteer-run foodbank in Coatbridge"
+  },
+  "perth": {
+    "region": "Perth, Perth and Kinross, Scotland",
+    "nearby": ["Dundee", "Kirkcaldy", "Glenrothes"],
+    "s1_head": "Perth and the Perth and Kinross sector",
+    "s1loc": [
+      "Perth has a strong voluntary backbone in PKAVS, the Perth and Kinross Association of Voluntary Service, a charity helping families since 1972 that runs carers support, mental-health and wellbeing projects, Shopmobility and the Big Hoose Project delivering essential household items to people in poverty, supported by around 100 volunteers as the area's Third Sector Interface. The Perth and Kinross Foodbank works through referral agencies including the Letham St Marks Church Centre, and CHAS supports families across the region.",
+      "The sector runs at every size across Perth and Kinross. National and regional charities and hospice retailers keep charity shops through the city centre and buy kit centrally, while small community groups, the foodbank and volunteer-run projects work on a shoestring across Letham, Tulloch, Muirton and the North Inch area. Letham Climate Challenge on Garth Avenue runs a furniture store and swap shop, and Letham4all supports local people to get involved. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Volunteering across the area is brokered through PKAVS and the Be The Change Perth and Kinross platform, listing roles from day services to community projects. CHAS, Children's Hospices Across Scotland, runs Rachel House in nearby Kinross providing respite and family support, and its shops and fundraising draw volunteers from across Perthshire. The Crieff Road, Scone and Bridgend communities field their own collections and groups, so kit needs run from a few polos for a single foodbank session to bulk orders for a region-wide charity with a retail estate."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Perth, a FareShare-supplied community group or a small volunteer-run foodbank in Dundee"
+  }
+}

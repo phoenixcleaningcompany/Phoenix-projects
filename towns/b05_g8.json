@@ -1,0 +1,86 @@
+{
+  "boston": {
+    "region": "Boston, Lincolnshire",
+    "nearby": ["Skegness", "Spalding", "Grantham"],
+    "s1_head": "Charity and volunteer kit in Boston",
+    "s1loc": [
+      "Boston Foodbank, part of the Trussell network, gets emergency parcels to local people in crisis from its base off Red Lion Street, leaning on the big food-redistribution and foodbank networks for its stock. The town also hosts Centrepoint Outreach, a Christian charity at Belmont House collecting, storing and re-distributing furniture and household goods within roughly ten miles, and St Barnabas Hospice, whose Market Place shop is one of more than twenty across Lincolnshire raising funds for free end-of-life care.",
+      "The sector here runs at every size. National and regional charities like St Barnabas and Centrepoint Outreach hold high-street shops and buy kit centrally, while small community groups, pantries and volunteer-run projects work on a shoestring across the Market Place, Wide Bargate and the surrounding villages. Mutual-aid groups and church-run drop-ins sit alongside the big names. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, and no minimum.",
+      "Beyond the headline names, Boston is home to a busy charity-shop trade up Strait Bargate and West Street, with hospice and cancer-research outlets sitting next to Centrepoint Outreach's own shop. Age UK Lindsey supports older residents across the borough, the Voluntary Centre Services network signposts would-be volunteers, and church congregations around St Botolph's run collections and warm spaces through winter. These volunteer-led efforts, from food sorting to furniture re-use, keep the town's most vulnerable people supported week in, week out."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Boston, a Trussell-supplied community group or a small volunteer-run foodbank in Spalding"
+  },
+  "newbury": {
+    "region": "Newbury, West Berkshire",
+    "nearby": ["Thatcham", "Reading", "Andover"],
+    "s1_head": "Charity and volunteer kit in Newbury",
+    "s1loc": [
+      "West Berks Foodbank, part of the Trussell network, relieves people in hardship across West Berkshire with free food, drawing on the big food-redistribution and foodbank networks, with distribution points around South Newbury at St George's, St John's and St Michael's. Loose Ends Newbury, run entirely by unpaid volunteers, gives a hot meal and a welcome to anyone homeless, lonely or vulnerable, while the Newbury Food Pantry offers a members' shop for households on tight budgets.",
+      "The sector here runs at every size. National and regional charities such as Naomi House and Jacksplace children's hospice hold charity shops and buy kit through central contracts, while small community groups, pantries and volunteer-run projects scrape by on a shoestring across Wash Common, Shaw, Speenhamland and the town centre. Volunteer Centre West Berkshire matches local people to local need. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, and no minimum.",
+      "Volunteer Centre West Berkshire is the borough's volunteering hub, running the Volunteer Car and driver scheme, the Newbury Handybus and the Newbury Shopmobility service. The town's charity shops fund causes from children's hospice care to cancer research along Northbrook Street and the Kennet Centre, and a new shop has been recruiting volunteers for hospice care for children and young people. Church congregations and mutual-aid groups across Newbury and neighbouring Thatcham keep food collections, warm spaces and befriending rounds going year-round."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Newbury, a FareShare-supplied community group or a small volunteer-run foodbank in Thatcham"
+  },
+  "cleethorpes": {
+    "region": "Cleethorpes, North East Lincolnshire",
+    "nearby": ["Grimsby", "Scunthorpe", "Hull"],
+    "s1_head": "Charity and volunteer kit in Cleethorpes",
+    "s1loc": [
+      "St Peter's Foodbank supports the community around St Peter's Avenue in Cleethorpes, handing out food parcels and running a hot-drink drop-in, while neighbouring Grimsby Foodbank covers the East Marsh and Willows estates several days a week, both leaning on the big food-redistribution and foodbank networks. CARE, a North East Lincolnshire charity, offers crisis help with poverty, homelessness, debt and mental health from sites in Cleethorpes and Grimsby, taking furniture donations and welcoming volunteers.",
+      "The sector here runs at every size. National and regional charities like Age UK North East Lincolnshire and Andy's Children's Hospice hold high-street shops and buy kit centrally, while small community groups, pantries and volunteer-run projects manage on a shoestring across the resort, Sidney Park and the wider Grimsby estates. Mutual-aid pages and church drop-ins sit beside the big names. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, and no minimum.",
+      "Age UK North East Lincolnshire fields more than a hundred volunteers delivering services for older people across Cleethorpes and Grimsby. The Samaritans of Grimsby, Cleethorpes and District run a listening branch staffed by volunteers, while We Are ONE Foundation reaches out to people in crisis across the borough. Charity shops fund hospice and welfare causes along Cleethorpes' St Peter's Avenue and Sea View Street, and church congregations near the seafront keep collections, warm spaces and befriending rounds going through the year."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Cleethorpes, a FareShare-supplied community group or a small volunteer-run foodbank in Grimsby"
+  },
+  "bicester": {
+    "region": "Bicester, Oxfordshire",
+    "nearby": ["Banbury", "Oxford", "Aylesbury"],
+    "s1_head": "Charity and volunteer kit in Bicester",
+    "s1loc": [
+      "Bicester Foodbank has worked with the local community for two decades, exchanging referral vouchers for emergency parcels of non-perishable food and leaning on the big food-redistribution and foodbank networks for its stock. The Bicester Good Neighbour Scheme befriends older and vulnerable residents through dozens of local volunteers, while Katharine House Hospice runs its Market Square shop, one of a string across north Oxfordshire funding free palliative and end-of-life care for local people.",
+      "The sector here runs at every size. National and regional charities like Katharine House Hospice and Sue Ryder hold high-street shops and buy kit through central contracts, while small community groups, pantries and volunteer-run projects work on a shoestring across the Garth, Langford Village and the surrounding estates. SOFEA brings in FareShare surplus to keep larders stocked. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, and no minimum.",
+      "SOFEA, the Oxfordshire food charity, channels FareShare supplies from major supermarkets into pantries and larders across the county, including projects serving Bicester. Katharine House Hospice draws volunteers into its Bicester shop and fundraising team, while church-led breakfast clubs at venues like community centres in the town offer warm meals to those who need them. Charity shops along Sheep Street and the town centre fund hospice and welfare causes, and good-neighbour volunteers keep befriending and transport rounds running for isolated residents."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Bicester, a FareShare-supplied community group or a small volunteer-run foodbank in Oxford"
+  },
+  "ramsgate": {
+    "region": "Ramsgate, Thanet, Kent",
+    "nearby": ["Margate", "Broadstairs", "Canterbury"],
+    "s1_head": "Charity and volunteer kit in Ramsgate",
+    "s1loc": [
+      "The Thanet Family Food Bank runs from the Pie Factory Music venue at Ramsgate Youth Centre on the High Street, while Thanet's Families in Need operates a seven-day food bank alongside rough-sleeper and housing support, both leaning on the big food-redistribution and foodbank networks. Pilgrims Hospices runs a Ramsgate charity shop whose volunteers receive grief-awareness and compassionate-conversations training, funding hospice care across east Kent.",
+      "The sector here runs at every size. National and regional charities like Pilgrims Hospices, Shelter and Cancer Research UK hold high-street shops and buy kit centrally, while small community groups, pantries and volunteer-run projects work on a shoestring across the harbour, St Lawrence and Newington. Mutual-aid pages and church drop-ins sit beside the big names. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, and no minimum.",
+      "Shelter runs a community shop in Ramsgate alongside Cancer Research UK's high-street outlet, both signing up volunteers to sort donations and serve customers. Kent Coast Volunteering keeps a Thanet volunteer role directory backed by the district council and runs a community transport service crying out for volunteer drivers. Church congregations and the Pilgrims Hospices shop team keep collections, befriending and fundraising going year-round, supporting Ramsgate's most vulnerable residents from the harbourside up to the town centre."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Ramsgate, a FareShare-supplied community group or a small volunteer-run foodbank in Broadstairs"
+  },
+  "margate": {
+    "region": "Margate, Thanet, Kent",
+    "nearby": ["Ramsgate", "Broadstairs", "Herne Bay"],
+    "s1_head": "Charity and volunteer kit in Margate",
+    "s1loc": [
+      "Margate Independent Foodbank, open to everyone in Thanet, runs shops on the High Street and Ramsgate Road and welcomes volunteers to its Cliftonville site, leaning on the big food-redistribution and foodbank networks. The Thanet Family Food Bank operates from the Margate and Cliftonville Family Hubs, while the Kitchen Social and Cookery Club in Cliftonville helps low-income households with ingredients, cookery skills and budgeting over a six-month programme.",
+      "The sector here runs at every size. National and regional charities like Pilgrims Hospices and East Kent Mind hold high-street shops and buy kit centrally, while small community groups, pantries and volunteer-run projects manage on a shoestring across Cliftonville, Dane Valley and the Old Town. Mutual-aid pages and church drop-ins sit beside the big names. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, and no minimum.",
+      "Pilgrims Hospices funds local end-of-life care through its lottery and a network of east Kent shops, while East Kent Mind supports mental health across the isle. The Margate Sea Cadets, Blues community trust and a clutch of mutual-aid groups draw in volunteers, and Kent Coast Volunteering keeps a Thanet role directory and community transport service. Charity shops along the High Street and Northdown Road in Cliftonville fund hospice and welfare causes, with church congregations running warm spaces and food collections through the colder months."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Margate, a FareShare-supplied community group or a small volunteer-run foodbank in Broadstairs"
+  },
+  "sittingbourne": {
+    "region": "Sittingbourne, Swale, Kent",
+    "nearby": ["Faversham", "Maidstone", "Chatham"],
+    "s1_head": "Charity and volunteer kit in Sittingbourne",
+    "s1loc": [
+      "Swale Foodbank, part of the Trussell network, runs distribution from the Woodgrove Family Hub on Johnson Road and a Church Street site in Sittingbourne, exchanging referral vouchers for emergency food and leaning on the big food-redistribution and foodbank networks. The Swale Community Care Project, a local charity, delivers food parcels and runs a community cafe in the town, having teamed up with the Sittingbourne, Milton and district Scouts to reach families in need.",
+      "The sector here runs at every size. National and regional charities hold high-street shops and buy kit through central contracts, while small community groups, pantries and volunteer-run projects work on a shoestring across Murston, Milton Regis and Kemsley. FareShare Kent feeds surplus into charities including Pilgrims Hospices, and church drop-ins sit beside the big names. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, and no minimum.",
+      "Citizens Advice Swale issues food-bank referral vouchers for households who cannot afford to eat, while the Swale Family Food Bank runs from local family hubs. FareShare Kent redistributes surplus food to charities including Pilgrims Hospices across the region. Charity shops along Sittingbourne High Street and the Forum fund hospice and welfare causes, and church congregations across Milton Regis and neighbouring Faversham keep collections, warm spaces and the Swale Community Care Project's cafe and parcels going through the year."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Sittingbourne, a FareShare-supplied community group or a small volunteer-run foodbank in Faversham"
+  }
+}

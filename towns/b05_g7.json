@@ -1,0 +1,86 @@
+{
+  "lytham st annes": {
+    "region": "Lytham St Annes, Lancashire",
+    "nearby": ["Blackpool", "Poulton-le-Fylde", "Preston"],
+    "s1_head": "Charity and volunteer kit in Lytham St Annes",
+    "s1loc": [
+      "Lytham St Annes sits at the heart of a busy Fylde coast charity scene. Fylde Foodbank, part of the Trussell network, runs donation points at St Annes and through Citizens Advice Fylde in Kirkham, while the Fylde Food Community Hub holds a Saturday food bank at Saltcotes Community Centre. Trinity Hospice and its children's service Brian House raise funds through shops along Clifton Street in Lytham and St Albans Road in St Annes, and the big food-redistribution networks pass surplus on to local groups.",
+      "The sector here runs at every size. National charities such as Trinity Hospice and Brian House keep shops across the town and buy kit centrally, while small community groups, volunteer-run food projects and church-based pantries work on a shoestring across St Annes, Lytham, Ansdell and Kirkham. We serve the national charity stocking a row of shops and the one-room foodbank running on donated time alike, with trade accounts for the larger names and direct online ordering, no minimum, for the smallest.",
+      "Beyond the foodbank and hospice shops, Fylde Council and Progress Housing Group point residents toward community cafes, food hubs and mutual-aid groups dotted across the borough, and volunteers staff supermarket collections and donation barrels week in, week out. Charity shops for Cancer Research, the British Heart Foundation and Age UK line the high streets, and small volunteer-run projects around Ansdell and Fairhaven keep neighbours fed and connected, each needing a few polos or fleeces rather than a warehouse order."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Lytham St Annes, a FareShare-supplied community group or a small volunteer-run foodbank in Blackpool"
+  },
+  "worksop": {
+    "region": "Worksop, Nottinghamshire",
+    "nearby": ["Retford", "Mansfield", "Chesterfield"],
+    "s1_head": "Charity and volunteer kit in Worksop",
+    "s1loc": [
+      "Worksop anchors the charity sector across Bassetlaw. Bassetlaw Food Bank runs a community cafe in the town, a mobile shop in rural areas, a Harworth and Bircotes lunch club and a fruit-and-veg box scheme with an allotment project in Manton, providing tens of thousands of meals a year. Bassetlaw Hospice keeps charity shops in Worksop and Retford, Rhubarb Farm CIC runs food hubs drawing on the big food-redistribution networks, and Aurora Wellbeing Centres support people living with cancer from the Old Library building.",
+      "The sector runs at every size here. National and regional charities such as Bassetlaw Hospice hold shops and buy kit centrally, while small community groups, volunteer-run pantries and warm spaces work on a shoestring across Manton, Kilton, Worksop town centre and the outlying villages. Bassetlaw CVS, the accredited volunteer centre, ties them together. We serve the national charity and the one-room foodbank alike, with trade accounts for the larger names and direct online ordering, no minimum, for the smallest.",
+      "Bassetlaw Community and Voluntary Service, based at the Old Abbey School on Priorswell Road, backs hundreds of voluntary and community groups with volunteering, funding advice and a warm-spaces network across Worksop and the villages. The Conservation Volunteers tend the Willow Community Garden and Manton Pitt Wood, and Aurora's wellbeing hub on Memorial Avenue runs heritage and self-care activities. Charity shops for Bassetlaw Hospice and national names line Bridge Street, each kitting out a handful of volunteers rather than placing bulk orders."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Worksop, a FareShare-supplied community group or a small volunteer-run foodbank in Retford"
+  },
+  "leigh": {
+    "region": "Leigh, Greater Manchester",
+    "nearby": ["Wigan", "Bolton", "Atherton"],
+    "s1_head": "Charity and volunteer kit in Leigh",
+    "s1loc": [
+      "Leigh sits on the east side of the Wigan borough and shares its charity backbone with neighbouring Atherton. Atherton and Leigh Foodbank, founded by local churches and part of the Trussell network, runs four centres, two of them in Leigh, plus sites at Atherton and Platt Bridge, and has worked against food crisis here for more than a decade. Wigan and Leigh Hospice serves the whole borough and funds its care through charity shops in Leigh, Atherton, Hindley and beyond, drawing surplus from the big food-redistribution networks.",
+      "The sector here runs at every size. Regional charities such as Wigan and Leigh Hospice keep a chain of shops and buy kit centrally, while small community groups, pantries and volunteer-run projects work on a shoestring across Leigh town centre, Bedford, Pennington and Platt Bridge. The Wigan Borough Volunteering Hub links people to roles across them. We serve the regional charity and the one-room foodbank alike, with trade accounts for the larger names and direct online ordering, no minimum, for the smallest.",
+      "Across the borough the council's food-pantry network and the Wigan Borough Volunteer Hub list dozens of grassroots projects, from Annie's Pantry to church-run larders, that keep neighbours fed. Wigan and Leigh Hospice volunteers staff shops in Leigh, Atherton, Golborne, Standish and Shevington, sorting stock and serving customers, while mutual-aid and community groups around Pennington and Bedford run on donated time. Each needs a few polos, hi-vis tabletop jackets or fleeces rather than a pallet of stock."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Leigh, a FareShare-supplied community group or a small volunteer-run foodbank in Atherton"
+  },
+  "bexhill-on-sea": {
+    "region": "Bexhill-on-Sea, East Sussex",
+    "nearby": ["Hastings", "Eastbourne", "Hailsham"],
+    "s1_head": "Charity and volunteer kit in Bexhill-on-Sea",
+    "s1loc": [
+      "Bexhill-on-Sea has a busy charity and volunteer scene across Rother. Bexhill Foodbank packs and distributes emergency parcels with a team of Friday-afternoon volunteers, while St Michael's Hospice runs charity shops on the high street as part of its Hastings and Rother chain. Emmaus Hastings and Rother operates a Bexhill shop and supports formerly homeless companions, and Save the Children keeps a community shop in the town, with surplus food reaching local groups through the big food-redistribution networks.",
+      "The sector here runs at every size. National and regional charities such as St Michael's Hospice, Emmaus, Mind and Save the Children hold shops and buy kit centrally, while small community groups, larders and volunteer-run pantries work on a shoestring across Sidley, the Old Town and Central Bexhill. Rother Voluntary Action champions and connects them. We serve the national charity and the one-room foodbank alike, with trade accounts for the larger names and direct online ordering, no minimum, for the smallest.",
+      "Rother Voluntary Action, based in Bexhill, supports community groups, charities and social enterprises across the district with training and volunteer matching. The Bexhill Family Collective runs a community pantry behind the Sidley Family Hub, saving food from waste for a small suggested donation, and The Marketplace community larder meets at Freedom Church in the town. Charity shops for the British Heart Foundation, Mind and others line Devonshire Road and Western Road, each kitting out a small volunteer team rather than placing bulk orders."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Bexhill-on-Sea, a FareShare-supplied community group or a small volunteer-run foodbank in Hastings"
+  },
+  "altrincham": {
+    "region": "Altrincham, Greater Manchester",
+    "nearby": ["Stretford", "Urmston", "Wilmslow"],
+    "s1_head": "Charity and volunteer kit in Altrincham",
+    "s1loc": [
+      "Altrincham sits in the south of Trafford with a well-established charity sector. Trafford South Foodbank, part of the Trussell network, runs centres at Sale Moor, Sale West, Broadheath, Partington and Timperley with a paid manager and a large volunteer team staffing centres, the warehouse and supermarket collections. St Ann's Hospice raises funds through its Moya Cole shop on Stamford New Road, and FareShare Greater Manchester redistributes surplus food to hundreds of charities and community groups across the city-region.",
+      "The sector here runs at every size. National and regional charities such as St Ann's Hospice, Sue Ryder, Age UK and the British Heart Foundation hold shops and buy kit centrally, while small community groups, pantries and volunteer-run projects work on a shoestring across Broadheath, Timperley, Hale and the town centre. We serve the national charity and the one-room foodbank alike, with trade accounts for the larger names and direct online ordering, no minimum, for the smallest.",
+      "FareShare Greater Manchester runs a volunteer-driven warehouse picking and packing surplus food for more than 280 community organisations, from breakfast clubs to homeless shelters. Trafford South Foodbank volunteers staff its five centres every weekday, and charity shops for Oxfam, Scope, Barnardo's, Cancer Research and Headway cluster around George Street and Stamford New Road. Smaller mutual-aid groups and church pantries around Broadheath and Timperley run on donated time, each needing a few polos or fleeces rather than a warehouse order."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Altrincham, a FareShare-supplied community group or a small volunteer-run foodbank in Urmston"
+  },
+  "urmston": {
+    "region": "Urmston, Greater Manchester",
+    "nearby": ["Stretford", "Altrincham", "Salford"],
+    "s1_head": "Charity and volunteer kit in Urmston",
+    "s1loc": [
+      "Urmston sits in the north of Trafford with a close-knit charity scene. Trafford North Foodbank, part of the Trussell network, draws regular donations through St Michael's in Flixton and welcomes new volunteers across its centres. Age UK Trafford runs a community meal at its Urmston Hub on Mondays, the Hope Centre supports residents through the Trafford community hubs, and FareShare Greater Manchester passes surplus food to hundreds of charities and community groups across the city-region.",
+      "The sector here runs at every size. National and regional charities hold shops and buy kit centrally, while small community groups, pantries and volunteer-run projects work on a shoestring across Urmston, Flixton, Davyhulme and Partington. St Michael's Flixton collects and delivers donations to the foodbank, and Trafford's community-hub network ties the groups together. We serve the national charity and the one-room foodbank alike, with trade accounts for the larger names and direct online ordering, no minimum, for the smallest.",
+      "Age UK Trafford's Urmston Hub welcomes all ages for a shared Monday lunch, and the Trafford community hubs link residents to advice, food and friendship across the north of the borough. FareShare Greater Manchester's volunteer-run warehouse keeps surplus food flowing to breakfast clubs, community centres and shelters, while charity shops and church-based larders around Flixton and Davyhulme run on donated time. Each kits out a small volunteer team with a few polos, hi-vis or fleeces rather than placing a bulk order."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Urmston, a FareShare-supplied community group or a small volunteer-run foodbank in Stretford"
+  },
+  "grantham": {
+    "region": "Grantham, Lincolnshire",
+    "nearby": ["Newark", "Stamford", "Boston"],
+    "s1_head": "Charity and volunteer kit in Grantham",
+    "s1loc": [
+      "Grantham has a long-rooted charity sector across South Kesteven. Grantham Foodbank, part of the Trussell network, grew from work begun in 2010 by Churches Together in Grantham and District and has involved well over two hundred volunteers, with food banks at the Jubilee Church Life Centre on London Road and St John's Church in Spitalgate. St Barnabas Hospice keeps a charity shop on Welby Street, and FareShare delivers surplus to charities and community groups across Lincolnshire and the surrounding counties.",
+      "The sector here runs at every size. National and regional charities such as St Barnabas Hospice hold shops and buy kit centrally, while small community groups, pantries and volunteer-run food projects work on a shoestring across the town centre, Harrowby and the outlying villages. South Kesteven District Council points residents to referral-based food banks throughout the area. We serve the national charity and the one-room foodbank alike, with trade accounts for the larger names and direct online ordering, no minimum, for the smallest.",
+      "St Barnabas Hospice runs more than twenty shops across Lincolnshire, its Grantham branch on Welby Street staffed by volunteer teams sorting and selling donated stock, and provides a wellbeing centre in the town for people with life-limiting illness. Grantham Foodbank's volunteer base of more than two hundred staffs collections and parcel-packing, while church-based larders and mutual-aid groups around Harrowby and Earlesfield keep neighbours fed. Each kits out a small team with a few polos or fleeces rather than a bulk order."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Grantham, a FareShare-supplied community group or a small volunteer-run foodbank in Newark"
+  }
+}

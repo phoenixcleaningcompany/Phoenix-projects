@@ -1,0 +1,86 @@
+{
+  "cheshunt": {
+    "region": "Cheshunt, Hertfordshire (Borough of Broxbourne)",
+    "nearby": ["Enfield", "Hoddesdon", "Hertford"],
+    "s1_head": "Cheshunt charity and volunteer kit",
+    "s1loc": [
+      "Cheshunt sits within the Borough of Broxbourne, and Broxbourne Foodbank anchors local crisis support as part of the Trussell network, taking food donations and recruiting volunteers across the town. Isabel Hospice cares for hundreds of people each year across eastern Hertfordshire and runs a charity shop on Turners Hill in Cheshunt. The big food-redistribution and foodbank networks keep shelves stocked, while groups like Age Concern and the Alzheimer's Society gathered at a Broxbourne volunteers fair at the Laura Trott Leisure Centre.",
+      "The local sector runs at every size. National charities such as Isabel Hospice and Age Concern hold shops along Cheshunt and Waltham Cross high streets and buy kit centrally, while small community groups, Trussell-supplied foodbanks, pantries and volunteer-run projects work on a shoestring across Cheshunt, Waltham Cross, Goffs Oak and Wormley. The Community Alliance Broxbourne and East Herts ties them together. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Beyond the foodbank and hospice shops, Borough of Broxbourne volunteering listings point residents to mutual-aid and good-neighbour schemes across Cheshunt and the wider district. Isabel Hospice retail extends into Broxbourne and Hoddesdon, and the hospice runs community hubs alongside its in-patient unit. Health and charity teams come together through the Herts and West Essex partnership, and local churches and the Salvation Army back food collections. Volunteer drivers, befrienders and shop assistants across Theobalds, Flamstead End and Bury Green keep these tiny projects going."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Cheshunt, a FareShare-supplied community group or a small volunteer-run foodbank in Hoddesdon"
+  },
+  "wellingborough": {
+    "region": "Wellingborough, North Northamptonshire",
+    "nearby": ["Kettering", "Rushden", "Northampton"],
+    "s1_head": "Wellingborough charity and volunteer kit",
+    "s1loc": [
+      "Wellingborough and District Foodbank gives emergency food to people in financial hardship across the town, taking donations at Bradfield Road on the Finedon Road Industrial Estate. The Daylight Centre works against homelessness, poverty and social exclusion in Wellingborough and runs its own charity shop of clothing, household goods and toys. The big food-redistribution and foodbank networks supply local projects, while Wellingborough Mind, Home-Start and Blackthorn Good Neighbours offer support, friendship and practical help to residents who are struggling.",
+      "The sector here runs at every size. National and regional charities such as Cransley Hospice Trust hold shops and buy kit centrally, while small community groups, Trussell-linked foodbanks, pantries and volunteer-run projects work on a shoestring across Wellingborough, Finedon, Croyland and Hemmingwell. West Northamptonshire and North Northamptonshire councils list the voluntary directory, and Support Northamptonshire links members. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Cransley Hospice Trust raises funds for specialist end-of-life care and runs charity shops including Curated by Cransley over in Kettering, with donation points serving the wider area. The Daylight Centre Fellowship adds a drop-in and food provision alongside its retail. Citizens Advice acts as a referral partner, and warm-space and good-neighbour schemes operate across Croyland, Queensway and Redwell. Volunteer shop assistants, drivers and befrienders across the town and out toward Finedon keep these small, donation-funded projects running day to day."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Wellingborough, a FareShare-supplied community group or a small volunteer-run foodbank in Rushden"
+  },
+  "kingston upon thames": {
+    "region": "Kingston upon Thames, Royal Borough of Kingston upon Thames, Greater London",
+    "nearby": ["Twickenham", "Sutton", "Epsom"],
+    "s1_head": "Kingston charity and volunteer kit",
+    "s1loc": [
+      "Kingston Foodbank provides three-day emergency food to people in crisis across the Royal Borough, taking donations and recruiting volunteers. Kingston Voluntary Action runs the Surplus Food Hub at The Malden Centre, collecting surplus food and redistributing it to foodbanks and community groups. Princess Alice Hospice cares for local people and runs several charity shops on Clarence Street and Old London Road. Volunteering Kingston and Connected Kingston point residents to projects, while RBKares brings volunteers together across the borough.",
+      "The sector here runs at every size. National charities such as Princess Alice Hospice hold shops on Clarence Street, Old London Road and a London Road furniture store and buy kit centrally, while small community groups, foodbanks, pantries and volunteer-run projects work on a shoestring across Kingston, Surbiton, New Malden, Norbiton and Chessington. The big food-redistribution networks supply them. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Beyond the hospice retail, RBKares runs entirely on volunteers, pooling limited resources and staffing its own shops. Kingston Voluntary Action coordinates community food work alongside the Surplus to Supper hub, and Volunteering Kingston lists opportunities through Community Works. Princess Alice operates a free furniture collection service feeding its London Road store. Foodbank volunteers are trained to signpost local services, and warm-space, befriending and mutual-aid schemes run across Tudor, Tolworth and Coombe to keep small donation-funded projects going."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Kingston upon Thames, a FareShare-supplied community group or a small volunteer-run foodbank in Twickenham"
+  },
+  "andover": {
+    "region": "Andover, Hampshire (Test Valley)",
+    "nearby": ["Basingstoke", "Salisbury", "Winchester"],
+    "s1_head": "Andover charity and volunteer kit",
+    "s1loc": [
+      "Andover Foodbank, started in 2006, runs emergency food boxes with more than 60 volunteers and works with over 70 local charities and agencies, adding market vouchers, fresh eggs from a local supplier and weekly bread from the Co-op. Test Valley Citizens Advice acts as a referral partner. The Salvation Army in Andover backs food and crisis support, while Unity, based at Andover bus station, supports voluntary and community action across Test Valley with recruitment, governance and funding help.",
+      "The sector here runs at every size. National charities such as Naomi House and Jacksplace children's hospice hold a shop on Bridge Street and buy kit centrally, while small community groups, the Trussell-linked foodbank, pantries and volunteer-run projects work on a shoestring across Andover, Charlton, Picket Twenty and the wider Test Valley. The big food-redistribution networks supply them. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Naomi House and Jacksplace funds hospice care for life-limited children across Hampshire through 21 shops, including the Andover Bridge Street store staffed by volunteers. The Salvation Army runs its own Andover charity shop, and Unity adds a mobility equipment hire service from its Andover offices alongside its volunteer brokerage. Test Valley Borough Council lists food banks, community pantries and volunteering, and first-kitchen kits help people moving into new homes. Volunteer drivers, shop staff and befrienders across Andover keep these small projects running."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Andover, a FareShare-supplied community group or a small volunteer-run foodbank in Basingstoke"
+  },
+  "llanelli": {
+    "region": "Llanelli, Carmarthenshire, Wales",
+    "nearby": ["Swansea", "Neath", "Port Talbot"],
+    "s1_head": "Llanelli charity and volunteer kit",
+    "s1loc": [
+      "Llanelli Foodbank works on a voucher referral system as part of the Trussell network, relying on local food donations and volunteers. FareShare Cymru rescues surplus food and supplies six community food projects in Llanelli, from community cafes to older people's lunch clubs and school meals. Foothold Cymru on Trostre Road tackles the causes of food poverty, and the Llanelli Community Fridge runs from the CETMA centre on Station Road. CAVS supports the Carmarthenshire Food Network across the area.",
+      "The sector here runs at every size. National and regional charities such as Ty Bryngwyn Hospice and Tenovus Cancer Care hold shops and buy kit centrally, while small community groups, the Trussell foodbank, pantries and FareShare-supplied volunteer-run projects work on a shoestring across Llanelli, Tyisha, Bynea, Felinfoel and Llwynhendy. CAVS and Volunteering Wales link them up. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Ty Bryngwyn Hospice in the grounds of Prince Philip Hospital provides specialist palliative care for Carmarthenshire, with a long-running fund-raising committee backed by Llanelli Rural Council. The Llanelli-Dinefwr Hospice Appeal Fund and Macmillan nurses support families at home through the Hospice at Home scheme. Healthy Life Activities and other small projects take donations directly, while Carmarthenshire Volunteering Wales lists shop, driving and befriending roles. Volunteer-run cafes and lunch clubs across the town centre, Glanymor and Seaside keep these donation-funded projects going."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Llanelli, a FareShare Cymru-supplied community group or a small volunteer-run foodbank in Neath"
+  },
+  "neath": {
+    "region": "Neath, Neath Port Talbot, Wales",
+    "nearby": ["Port Talbot", "Swansea", "Llanelli"],
+    "s1_head": "Neath charity and volunteer kit",
+    "s1loc": [
+      "Neath Foodbank works on a voucher referral system as part of the Trussell network, supporting people in crisis across the town. The PANTRY Foodbank in Pontardawe assesses needs without always requiring a referral. Neath Port Talbot Community Voluntary Service promotes and develops community groups and the wider voluntary sector, listing monthly volunteering opportunities. Referral partners include Tai Tarian, Citizens Advice, Adferiad, Calan DVS, Citadel and Melyn Community Trust, and the big food-redistribution networks keep local projects supplied.",
+      "The sector here runs at every size. National and regional charities such as Ty Olwen and Tenovus Cancer Care hold shops and buy kit centrally, while small community groups, Trussell foodbanks, the Pontardawe pantry and volunteer-run projects work on a shoestring across Neath, Briton Ferry, Skewen, Melyn and Cimla. NPTCVS ties the sector together. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "Ty Olwen, the Swansea Bay palliative care unit, serves Neath Port Talbot through its trust and fund-raising volunteers, with the Maggie's centre and Tenovus Cancer Care supporting patients and families. NPTCVS brokers roles from event setup to youth volunteering and awareness raising. Warm spaces, community cafes and good-neighbour schemes run across Briton Ferry, Skewen and Cimla, taking donations directly. Volunteer shop assistants, drivers and befrienders across Melyn and the town centre keep these small, donation-funded projects running."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Neath, a FareShare Cymru-supplied community group or a small volunteer-run foodbank in Port Talbot"
+  },
+  "bridgend": {
+    "region": "Bridgend, Bridgend County Borough, Wales",
+    "nearby": ["Maesteg", "Barry", "Pontypridd"],
+    "s1_head": "Bridgend charity and volunteer kit",
+    "s1loc": [
+      "Bridgend Foodbank supports people in crisis across the county borough as part of the Trussell network, with distribution centres including North Cornelly run by volunteers. The Bridgend Association of Voluntary Organisations, based on Commercial Street in Maesteg, is the county voluntary council and gives free support to community groups, not-for-profits and social enterprises. The Cwtch Mawr Multibank, developed by Faith in Families, redistributes surplus goods to struggling families, and warm spaces run across the borough.",
+      "The sector here runs at every size. National and regional charities such as the Sandville Self Help Foundation hold shops and buy kit centrally, while small community groups, Trussell foodbanks, pantries and volunteer-run projects work on a shoestring across Bridgend, Brackla, Pencoed, Porthcawl and Maesteg. The big food-redistribution networks supply them and BAVO links them up. We serve the national charity and the one-room foodbank alike, with trade accounts and direct online ordering, no minimum.",
+      "The Sandville Self Help Foundation at Kenfig supports people with life-limiting and life-changing conditions, running the Friends of Sandville charity shop plus a cafe, therapy centre and garden staffed by volunteers. The Wallich runs a Solutions Centre in Bridgend for people facing homelessness or housing difficulty. BAVO publishes a Christmas support guide and volunteers' stories, and the Bridgend Centre runs its own charity shop. Volunteer drivers, shop staff and befrienders across Brackla, Pencoed and Porthcawl keep these small donation-funded projects going."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Bridgend, a FareShare Cymru-supplied community group or a small volunteer-run foodbank in Maesteg"
+  }
+}

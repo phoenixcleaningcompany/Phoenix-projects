@@ -1,0 +1,86 @@
+{
+  "winchester": {
+    "region": "Winchester, Hampshire",
+    "nearby": ["Eastleigh", "Southampton", "Andover"],
+    "s1_head": "Charity and volunteer work across Winchester",
+    "s1loc": [
+      "Winchester Basics Bank provides emergency food and clothing to families across the city, while the Winchester Food Partnership runs its Share Our Surplus scheme to move good food to where it is needed. FareShare Southern Central redistributes surplus stock to frontline groups throughout Hampshire, and Unit 12 runs a Community Food Pantry for households making every pound stretch. These named projects sit alongside the wider food-redistribution and foodbank networks that keep the city fed.",
+      "The sector here runs at every size. National charities such as Naomi House and Jacksplace keep shops in the centre and a donation warehouse in Winnall, buying kit centrally, while small community groups, pantries and volunteer-run projects work on a shoestring across Stanmore, Weeke and Winnall. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts for the big buyers and direct online ordering with no minimum for the smallest group.",
+      "Beyond food, Trinity Winchester has supported people affected by homelessness, isolation and domestic abuse for over forty years, and Two Saints runs accommodation and outreach for rough sleepers in the city. Naomi House and Jacksplace operate charity shops on St Georges Street and beyond, staffed by volunteers sorting donations and serving on the till. The Hampshire Cultural Trust and Winchester City of Sanctuary draw in further volunteers, rounding out a busy mix of hospice retail, homelessness support and community fundraising."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Winchester, a FareShare Southern Central-supplied community group or a small volunteer-run foodbank in Eastleigh"
+  },
+  "beeston": {
+    "region": "Beeston, Nottinghamshire",
+    "nearby": ["Nottingham", "West Bridgford", "Long Eaton"],
+    "s1_head": "Charity and volunteer work across Beeston",
+    "s1loc": [
+      "Hope Nottingham runs its one-stop community support hub from Hope House in Beeston, working in partnership with local churches and agencies. As part of the East and West Nottingham Foodbank, it operates within the wider food-redistribution and foodbank networks and works with Trussell, churches and a library to issue emergency parcels by referral. Around 370 volunteers staff the Beeston and Carlton hubs and satellite foodbanks, sorting donations, making up parcels and cooking breakfasts for drop-in guests.",
+      "The sector here runs at every size. National charities keep shops along the High Road with central buying, while small community groups, pantries and volunteer-run projects work on a shoestring across Beeston, Chilwell and Bramcote. Hope Nottingham even runs an allotment growing team on Tuesday mornings at the Beeston allotment. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts for the big buyers and direct online ordering with no minimum for the smallest group.",
+      "Beeston sits close enough to the city that its volunteers move easily between projects, helping at monthly community meals, drop-in cafes and donation-sorting sessions. The Hope House team welcomes, befriends and feeds guests while linking them to debt, housing and benefits advice, and student volunteers from the nearby university join the rota through the union. Charity shops, mutual-aid groups and church-run pantries fill out a network that leans heavily on local goodwill and modest, hard-working budgets."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Beeston, a Hope Nottingham-supplied community group or a small volunteer-run foodbank in West Bridgford"
+  },
+  "ayr": {
+    "region": "Ayr, South Ayrshire",
+    "nearby": ["Kilmarnock", "Irvine", "Glasgow"],
+    "s1_head": "Charity and volunteer work across Ayr",
+    "s1loc": [
+      "South Ayrshire Foodbank, part of the Trussell network, runs a voucher referral scheme from sites including the Southside Church charity shop on Ayr High Street. Voluntary Action South Ayrshire, or VASA, runs the first Food Pantry in South Ayrshire from the town centre, a membership scheme helping people cut their shopping bills, alongside its Christmas Companions project. These named groups work within the wider food-redistribution and foodbank networks that supply the town.",
+      "The sector here runs at every size. National charities keep shops along the High Street with central buying, while small community groups, pantries and volunteer-run projects work on a shoestring across Newton, Wallacetown and Prestwick. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts for the big buyers and direct online ordering with no minimum for the smallest group, keeping every pound off the shopping bill and on the cause.",
+      "The Ayrshire Hospice anchors much of the local fundraising, with therapeutic support volunteers helping at its Ayr centre and a chain of shops feeding its retail income. The Rotary Club of Ayr backs the Newton Primary School foodbank and the Living Essentials Hub, while the Ayr Pantry at the Book and Bun adds another low-cost food option in the town. VASA also acts as the third-sector interface, matching volunteers to projects and building capacity for the smallest community-run groups."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Ayr, a VASA-supplied community group or a small volunteer-run foodbank in Kilmarnock"
+  },
+  "kilmarnock": {
+    "region": "Kilmarnock, East Ayrshire",
+    "nearby": ["Irvine", "Ayr", "Glasgow"],
+    "s1_head": "Charity and volunteer work across Kilmarnock",
+    "s1loc": [
+      "Ayrshire (East) Foodbank runs four distribution centres and hands out three-day emergency parcels, distributing roughly two and a half tonnes of food every month with the help of dedicated volunteers. Donation points sit in Tesco, Asda, Lidl and the Burns Mall in Kilmarnock, and the foodbank works within the wider food-redistribution and foodbank networks. RC Kilmarnock also runs a parish foodbank, adding to the town's referral-based food support.",
+      "The sector here runs at every size. National charities keep shops along King Street with central buying, while small community groups, larders, pantries and volunteer-run projects work on a shoestring across Kilmarnock, Galston and Auchinleck. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts for the big buyers and direct online ordering with no minimum for the smallest group, keeping every pound off the shopping bill and on the cause.",
+      "CVO East Ayrshire acts as the local third-sector interface, connecting volunteers to opportunities and helping community organisations manage and train their teams. The Ayrshire Hospice runs a centre in Kilmarnock where therapeutic support volunteers help visitors, and East Ayrshire Council keeps a directory of larders and foodbanks across the area. Charity shops, church halls and mutual-aid groups complete a network that depends on neighbourly volunteering and very modest budgets, with donated stock and goodwill stretched to cover as much of the town as the funds will allow."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Kilmarnock, an Ayrshire (East) Foodbank-supplied community group or a small volunteer-run foodbank in Irvine"
+  },
+  "bridgwater": {
+    "region": "Bridgwater, Somerset",
+    "nearby": ["Taunton", "Weston-super-Mare", "Yeovil"],
+    "s1_head": "Charity and volunteer work across Bridgwater",
+    "s1loc": [
+      "Bridgwater Foodbank, part of the Trussell network, relies on local food donations, volunteers and finances to support people in crisis. The Somerset Local Pantry network began in Bridgwater as a partnership between Somerset Council, community groups and the food charities FareShare South West and Action Against Hunger, distributing in-date fresh food at low cost that would otherwise go to waste. These projects sit within the wider food-redistribution and foodbank networks serving the town.",
+      "The sector here runs at every size. National charities such as St Margaret's Hospice keep shops and a furniture store on the High Street and Cornhill with central buying, while small community groups, pantries and volunteer-run projects work on a shoestring across Sydenham, Hamp and Eastover. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts for the big buyers and direct online ordering with no minimum for the smallest group.",
+      "The East Bridgwater pantry runs at the Sydenham Community Hub and the South Bridgwater pantry at the Recreation Community Centre in Hamp, both staffed by volunteers. Diversity Voice and other local groups coordinate food and support across the surrounding communities, and St Margaret's Hospice shops draw volunteers to sort stock, move furniture and serve customers. Marie Curie and Dorothy House fundraising groups add to a busy mix of hospice retail, low-cost pantries and church-led food projects across the town."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Bridgwater, a FareShare South West-supplied community group or a small volunteer-run foodbank in Taunton"
+  },
+  "salisbury": {
+    "region": "Salisbury, Wiltshire",
+    "nearby": ["Andover", "Amesbury", "Trowbridge"],
+    "s1_head": "Charity and volunteer work across Salisbury",
+    "s1loc": [
+      "Salisbury Foodbank holds a special place in the sector as the original Trussell Trust foodbank, running for more than twenty years and supporting thousands of people each year through its time of crisis. Voucher holders include GPs, schools, Job Centre Plus and local charities such as Alabare and the Salisbury Trust for the Homeless. The foodbank works within the wider food-redistribution and foodbank networks that supply the city.",
+      "The sector here runs at every size. National charities keep shops in the city centre with central buying, while small community groups, pantries and volunteer-run projects work on a shoestring across Bemerton Heath, Harnham and Bishopdown. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts for the big buyers and direct online ordering with no minimum for the smallest group, keeping every pound off the shopping bill and on the cause.",
+      "Alabare, a local Christian charity, supports homeless and marginalised people with accommodation and skills across the city, while Salisbury Hospice runs an ambitious fundraising programme to meet its annual costs. A new Salisbury food network coordinates support between the council, churches and community groups, and charity shops, mutual-aid teams and volunteer centres fill out a sector that leans on local goodwill, donated stock and carefully stretched budgets across Fisherton, the Friary and the wider city."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Salisbury, an Alabare-supplied community group or a small volunteer-run foodbank in Amesbury"
+  },
+  "havant": {
+    "region": "Havant, Hampshire",
+    "nearby": ["Portsmouth", "Fareham", "Gosport"],
+    "s1_head": "Charity and volunteer work across Havant",
+    "s1loc": [
+      "Beacon Food Bank, run by Beacon Church from the Meridian Centre, serves people in genuine need across the Borough of Havant on referral, with hampers given out all year round. FoodCycle Havant turns surplus food into free community meals, relying on volunteer cooks, hosts and food collectors. The Feed Havant alliance and the borough's Community Food Support Network link these projects into the wider food-redistribution and foodbank networks that keep local households fed.",
+      "The sector here runs at every size. National charities such as Rowans Hospice keep shops in Leigh Park, Emsworth and Waterlooville with central buying, while small community groups, pantries and volunteer-run projects work on a shoestring across Leigh Park, Bedhampton and Emsworth. We are set up to serve the national charity and the one-room foodbank alike, with trade accounts for the big buyers and direct online ordering with no minimum for the smallest group.",
+      "Rowans Hospice provides palliative care for south-east Hampshire and runs a Living Well Centre next to the hospice, with much of its income coming from legacies, fundraising and its retail shops. The Roberts Centre supports families and people facing homelessness, and Havant's charity shop trail along the town centre draws regular volunteers to sort and sell donated stock. Church halls, the Beacon Lounge and mutual-aid groups round out a network built on neighbourly help and tight community budgets."
+    ],
+    "kit_loc": "across the town's shops, foodbanks and community events",
+    "s2_intro": "Whether you are a national charity with shops across Havant, a FoodCycle Havant-supplied community group or a small volunteer-run foodbank in Fareham"
+  }
+}
