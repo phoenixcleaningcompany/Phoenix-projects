@@ -1,7 +1,11 @@
 {
   "bootle": {
     "region": "Bootle and Merseyside",
-    "nearby": ["Liverpool", "Crosby", "Southport"],
+    "nearby": [
+      "Liverpool",
+      "Crosby",
+      "Southport"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Bootle, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of the Sefton waterfront",
     "s1loc": [
@@ -13,7 +17,11 @@
   },
   "harrogate": {
     "region": "Harrogate and North Yorkshire",
-    "nearby": ["Knaresborough", "York", "Ripon"],
+    "nearby": [
+      "Knaresborough",
+      "York",
+      "Ripon"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Harrogate, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of North Yorkshire",
     "s1loc": [
@@ -25,31 +33,45 @@
   },
   "maidenhead": {
     "region": "Maidenhead and Berkshire",
-    "nearby": ["Slough", "Windsor", "High Wycombe"],
+    "nearby": [
+      "Slough",
+      "Windsor",
+      "High Wycombe"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Maidenhead, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of east Berkshire",
     "s1loc": [
       "Maidenhead carries a steady live programme. Norden Farm Centre for the Arts is the town's purpose-built venue, running gigs across jazz, folk, blues and tribute acts plus comedy and film, while the Desborough Theatre takes performances during the town's Christmas Market and Lights Switch-On. The Maidenhead Festival builds its main summer event with stages and a fun day, the Desborough Park Community Festival fills the park with live music and stalls, and the Norden Farm Kite Festival draws crowds to Boyn Grove Park.",
-      "And the trade runs at every size. Norden Farm, the festival operators and production companies field large seasonal crews and buy through procurement, while independent event crews, promoters and entertainers around the town centre and the wider Royal Borough need just a few branded pieces. A workwear supplier here has to serve the Maidenhead Festival and the single crew alike, which is why we run trade accounts for managed reordering and direct online ordering side by side across Berkshire."
+      "And the trade runs at every size. Norden Farm, the festival operators and production companies field large seasonal crews and buy through procurement, while independent event crews, promoters and entertainers around the town centre and the wider Royal Borough need just a few branded pieces. A workwear supplier here has to serve the Maidenhead Festival and the single crew alike, which is why we run trade accounts for managed reordering and direct online ordering side by side across Berkshire.",
+      "Maidenhead runs much of its programme by the Thames. Kidwells Park hosts the Maidenhead Festival and community days, the riverside at Boulter's Lock and Ray Mill Island draws summer events, and Norden Farm anchors the year-round arts side. With Windsor and the Cliveden estate close by and fast links into London, the town sits in a dense Thames Valley events catchment that keeps crews and front-of-house teams busy through the season."
     ],
     "kit_loc": "across the city's venues, festivals and events",
     "s2_intro": "Whether you are a major Maidenhead venue or festival, a production company or a small independent event crew across east Berkshire"
   },
   "newcastle-under-lyme": {
     "region": "Newcastle-under-Lyme and Staffordshire",
-    "nearby": ["Stoke-on-Trent", "Kidsgrove", "Congleton"],
+    "nearby": [
+      "Stoke-on-Trent",
+      "Kidsgrove",
+      "Congleton"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Newcastle-under-Lyme, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of north Staffordshire",
     "s1loc": [
       "Newcastle-under-Lyme is built around the New Vic Theatre on Etruria Road, the first purpose-built theatre in-the-round in Europe, which produces its own plays in an intimate six-hundred-seat auditorium alongside one-night concerts and touring shows. Jubilee2 hosts events and community shows in the town centre, and the New Vic surrounds its stage with seating on every side. The Newcastle-under-Lyme Jazz and Blues Festival fills pubs, bars and the museum with dozens of gigs across a July weekend.",
-      "And the trade runs at every size. The New Vic, Jubilee2, festival operators and production companies field large seasonal crews and buy through procurement, while independent event crews, promoters and entertainers around the town and neighbouring Stoke-on-Trent need just a few branded pieces. A workwear supplier here has to serve the Jazz and Blues Festival and the single crew alike, which is why we run trade accounts for managed reordering and direct online ordering side by side across Staffordshire."
+      "And the trade runs at every size. The New Vic, Jubilee2, festival operators and production companies field large seasonal crews and buy through procurement, while independent event crews, promoters and entertainers around the town and neighbouring Stoke-on-Trent need just a few branded pieces. A workwear supplier here has to serve the Jazz and Blues Festival and the single crew alike, which is why we run trade accounts for managed reordering and direct online ordering side by side across Staffordshire.",
+      "Newcastle-under-Lyme leans on Keele and its civic venues. Keele University on the edge of town brings a steady run of student gigs and outdoor events, the New Vic theatre-in-the-round and the Jubilee2 venue anchor the centre, and the Guildhall and the historic market square host community days and seasonal festivals. Sitting beside Stoke-on-Trent and the Potteries, the borough keeps crews and front-of-house teams busy across north Staffordshire."
     ],
     "kit_loc": "across the city's venues, festivals and events",
     "s2_intro": "Whether you are a major Newcastle-under-Lyme venue or festival, a production company or a small independent event crew across north Staffordshire"
   },
   "burnley": {
     "region": "Burnley and Lancashire",
-    "nearby": ["Nelson", "Accrington", "Blackburn"],
+    "nearby": [
+      "Nelson",
+      "Accrington",
+      "Blackburn"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Burnley, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of east Lancashire",
     "s1loc": [
@@ -61,7 +83,11 @@
   },
   "enfield": {
     "region": "Enfield and north London",
-    "nearby": ["Cheshunt", "Barnet", "Walthamstow"],
+    "nearby": [
+      "Cheshunt",
+      "Barnet",
+      "Walthamstow"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Enfield, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of north London",
     "s1loc": [
@@ -73,7 +99,11 @@
   },
   "gravesend": {
     "region": "Gravesend and Kent",
-    "nearby": ["Dartford", "Strood", "Rochester"],
+    "nearby": [
+      "Dartford",
+      "Strood",
+      "Rochester"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Gravesend, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Gravesham",
     "s1loc": [

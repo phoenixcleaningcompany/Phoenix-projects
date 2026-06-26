@@ -1,7 +1,11 @@
 {
   "wembley": {
     "region": "Wembley and northwest London",
-    "nearby": ["Harrow", "Edgware", "Watford"],
+    "nearby": [
+      "Harrow",
+      "Edgware",
+      "Watford"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Wembley, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events district of Wembley",
     "s1loc": [
@@ -13,7 +17,11 @@
   },
   "hemel hempstead": {
     "region": "Hemel Hempstead and Hertfordshire",
-    "nearby": ["Watford", "St Albans", "Berkhamsted"],
+    "nearby": [
+      "Watford",
+      "St Albans",
+      "Berkhamsted"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Hemel Hempstead, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Hemel Hempstead",
     "s1loc": [
@@ -25,7 +33,11 @@
   },
   "watford": {
     "region": "Watford and Hertfordshire",
-    "nearby": ["Hemel Hempstead", "Bushey", "St Albans"],
+    "nearby": [
+      "Hemel Hempstead",
+      "Bushey",
+      "St Albans"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Watford, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Watford",
     "s1loc": [
@@ -37,7 +49,11 @@
   },
   "stockport": {
     "region": "Stockport and Greater Manchester",
-    "nearby": ["Manchester", "Bramhall", "Denton"],
+    "nearby": [
+      "Manchester",
+      "Bramhall",
+      "Denton"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Stockport, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Stockport",
     "s1loc": [
@@ -49,7 +65,11 @@
   },
   "rochdale": {
     "region": "Rochdale and Greater Manchester",
-    "nearby": ["Oldham", "Heywood", "Middleton"],
+    "nearby": [
+      "Oldham",
+      "Heywood",
+      "Middleton"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Rochdale, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Rochdale",
     "s1loc": [
@@ -61,7 +81,11 @@
   },
   "hove": {
     "region": "Hove and the Brighton and Hove area",
-    "nearby": ["Brighton", "Worthing", "Shoreham-by-Sea"],
+    "nearby": [
+      "Brighton",
+      "Worthing",
+      "Shoreham-by-Sea"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Hove, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Hove",
     "s1loc": [
@@ -73,12 +97,17 @@
   },
   "ilford": {
     "region": "Ilford and the London Borough of Redbridge",
-    "nearby": ["Romford", "Walthamstow", "Hornchurch"],
+    "nearby": [
+      "Romford",
+      "Walthamstow",
+      "Hornchurch"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Ilford, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Ilford",
     "s1loc": [
       "Ilford has a steady cultural calendar in the heart of Redbridge. The Kenneth More Theatre, open since 1975 in the town centre, programmes plays, musicals and the annual Kenny Awards, with its foyers and studio spaces in regular use for events. Valentines Park, one of the largest parks in east London, hosts the open-air bills, and Redbridge Outdoor Arts brings free theatre, circus, music and dance to Ilford Town Centre and Barkingside High Street through the year.",
-      "And the trade runs at every size. The theatre and festival operators, the council arts teams and the production companies field big seasonal crews and buy through procurement, while independent event crews, stewards and promoters across Redbridge and the wider east of London want just a few branded pieces. A workwear supplier here has to serve the park festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side."
+      "And the trade runs at every size. The theatre and festival operators, the council arts teams and the production companies field big seasonal crews and buy through procurement, while independent event crews, stewards and promoters across Redbridge and the wider east of London want just a few branded pieces. A workwear supplier here has to serve the park festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side.",
+      "Ilford anchors a busy Redbridge events scene. Valentines Mansion and Park host heritage and community days, the Exchange and the town centre take seasonal celebrations, and the borough's diverse calendar brings large Diwali, Eid and Vaisakhi events, while Fairlop Waters out toward Barkingside stages the bigger open-air festivals. From Gants Hill to Seven Kings, crews and front-of-house teams stay busy across the year."
     ],
     "kit_loc": "across the city's venues, festivals and events",
     "s2_intro": "Whether you are a major Ilford venue or festival, a production company or a small independent event crew around Valentines Park"

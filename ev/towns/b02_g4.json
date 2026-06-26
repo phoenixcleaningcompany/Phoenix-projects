@@ -1,19 +1,28 @@
 {
   "grimsby": {
     "region": "Grimsby and North East Lincolnshire",
-    "nearby": ["Cleethorpes", "Scunthorpe", "Hull"],
+    "nearby": [
+      "Cleethorpes",
+      "Scunthorpe",
+      "Hull"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Grimsby, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of North East Lincolnshire",
     "s1loc": [
       "Grimsby anchors the events trade of North East Lincolnshire. The Grimsby Auditorium is the area's leading venue for touring shows, concerts, comedy and pantomime, Yardbirds Rock Club keeps a grassroots live-music room running, and just over the boundary the Meridian Showground at Cleethorpes hosts The Gathering Festival across a summer Saturday. Add civic events and seasonal shows along the wider Humber bank and the crew, stage and front-of-house work fills the calendar through the warmer months.",
-      "And the trade runs at every size. The bigger venues, festival operators and production companies field large seasonal teams and buy through procurement, while independent event crews, promoters and entertainers around Grimsby and across to Scunthorpe and Hull want only a few branded pieces. A workwear supplier here has to serve the festival on the showground and the single crew alike, which is why we run trade accounts for managed reordering and direct online ordering side by side."
+      "And the trade runs at every size. The bigger venues, festival operators and production companies field large seasonal teams and buy through procurement, while independent event crews, promoters and entertainers around Grimsby and across to Scunthorpe and Hull want only a few branded pieces. A workwear supplier here has to serve the festival on the showground and the single crew alike, which is why we run trade accounts for managed reordering and direct online ordering side by side.",
+      "Grimsby builds its events around the auditorium and its parks. The Grimsby Auditorium takes the touring concerts and shows, People's Park and the town centre host community days and seasonal festivals, and the historic fishing docks and the Fishing Heritage Centre bring heritage events to the waterfront. With Cleethorpes and its big summer calendar right next door, the area keeps production and front-of-house crews busy across the season."
     ],
     "kit_loc": "across the area's venues, festivals and events",
     "s2_intro": "Whether you are a major Grimsby venue or festival, a production company or a small independent event crew on the Humber bank"
   },
   "southport": {
     "region": "Southport and Merseyside",
-    "nearby": ["Formby", "Crosby", "Bootle"],
+    "nearby": [
+      "Formby",
+      "Crosby",
+      "Bootle"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Southport, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Southport",
     "s1loc": [
@@ -25,7 +34,11 @@
   },
   "halifax": {
     "region": "Halifax and West Yorkshire",
-    "nearby": ["Brighouse", "Huddersfield", "Bradford"],
+    "nearby": [
+      "Brighouse",
+      "Huddersfield",
+      "Bradford"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Halifax, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of Calderdale",
     "s1loc": [
@@ -37,7 +50,11 @@
   },
   "eltham": {
     "region": "Eltham and the Royal Borough of Greenwich",
-    "nearby": ["Woolwich", "Lewisham", "Sidcup"],
+    "nearby": [
+      "Woolwich",
+      "Lewisham",
+      "Sidcup"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Eltham, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of south-east London",
     "s1loc": [
@@ -49,7 +66,11 @@
   },
   "hounslow": {
     "region": "Hounslow and west London",
-    "nearby": ["Feltham", "Twickenham", "Hayes"],
+    "nearby": [
+      "Feltham",
+      "Twickenham",
+      "Hayes"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Hounslow, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of west London",
     "s1loc": [
@@ -61,7 +82,11 @@
   },
   "bromley": {
     "region": "Bromley and south-east London",
-    "nearby": ["Beckenham", "Orpington", "Lewisham"],
+    "nearby": [
+      "Beckenham",
+      "Orpington",
+      "Lewisham"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Bromley, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of south-east London",
     "s1loc": [
@@ -73,12 +98,17 @@
   },
   "nuneaton": {
     "region": "Nuneaton and Warwickshire",
-    "nearby": ["Bedworth", "Coventry", "Hinckley"],
+    "nearby": [
+      "Bedworth",
+      "Coventry",
+      "Hinckley"
+    ],
     "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Nuneaton, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
     "s1_head": "Kitting the events trade of north Warwickshire",
     "s1loc": [
       "Nuneaton carries a steady events calendar for north Warwickshire. The Abbey Theatre is the town's home for live theatre, music, comedy and community arts, staging touring acts, local showcases and pantomime alongside work-in-progress nights for emerging performers, while Riversley Park hosts open-air events and family festival days through the year. Civic and seasonal shows keep stage, rigging and front-of-house crews working right across the warmer months in the town and the wider district.",
-      "And the trade runs at every size. The bigger venues, festival operators and production companies field large seasonal teams and buy through procurement, while independent event crews, promoters and entertainers around Nuneaton and across to Bedworth, Coventry and Hinckley want only a few branded pieces. A workwear supplier here has to serve the festival in Riversley Park and the single crew alike, which is why we run trade accounts for managed reordering and direct online ordering side by side."
+      "And the trade runs at every size. The bigger venues, festival operators and production companies field large seasonal teams and buy through procurement, while independent event crews, promoters and entertainers around Nuneaton and across to Bedworth, Coventry and Hinckley want only a few branded pieces. A workwear supplier here has to serve the festival in Riversley Park and the single crew alike, which is why we run trade accounts for managed reordering and direct online ordering side by side.",
+      "Nuneaton, George Eliot's home town, runs a steady local events calendar. Riversley Park and the museum host community days and the town's carnival, the Abbey Theatre and the Co-op Hall cover the amateur and touring stage, and Arbury Hall and the surrounding Warwickshire estates bring outdoor and heritage events, so crews and front-of-house teams work across the north Warwickshire towns through the year."
     ],
     "kit_loc": "across the town's venues, festivals and events",
     "s2_intro": "Whether you are a major Nuneaton venue or festival, a production company or a small independent event crew across Warwickshire"
