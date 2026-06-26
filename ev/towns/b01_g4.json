@@ -1,0 +1,86 @@
+{
+  "warrington": {
+    "region": "Warrington and Cheshire",
+    "nearby": ["Widnes", "Runcorn", "St Helens"],
+    "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Warrington, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
+    "s1_head": "Kitting the events trade of Warrington and Cheshire",
+    "s1loc": [
+      "Warrington runs a busy live-events calendar. Parr Hall on Palmyra Square is the town's surviving professional concert hall, paired with the Pyramid Arts Centre under Culture Warrington for music, comedy and theatre, while grassroots band nights and the Comedy Store fill the smaller rooms. Outdoors, Neighbourhood Weekender brings indie headliners to Victoria Park each May, and Creamfields turns the Daresbury Estate into one of the country's biggest dance festivals, putting large seasonal crews on the ground across Cheshire.",
+      "And the trade runs at every size. Major venues, festival operators and production companies field big crews and large seasonal teams and buy through procurement, while independent event crews, promoters and entertainers around Warrington and the wider Cheshire towns need just a few branded pieces. A workwear supplier here has to serve the big festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side."
+    ],
+    "kit_loc": "across the city's venues, festivals and events",
+    "s2_intro": "Whether you are a major Warrington venue or festival, a production company or a small independent event crew in Cheshire"
+  },
+  "slough": {
+    "region": "Slough and Berkshire",
+    "nearby": ["Maidenhead", "Windsor", "Reading"],
+    "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Slough, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
+    "s1_head": "Kitting the events trade of Slough and Berkshire",
+    "s1loc": [
+      "Slough's events scene centres on the Curve Venue, the purpose-built performance space inside The Curve on William Street that runs gigs, comedy and family shows alongside the town's library and museum. The Slough Mela fills a town-centre park each summer with music, dance and food stalls celebrating the town's South Asian community, while just over the Berkshire border Summertime Live brings stages of live music and DJs to Windsor Racecourse, drawing crews from across the area.",
+      "And the trade runs at every size. Major venues, festival operators and production companies field big crews and large seasonal teams and buy through procurement, while independent event crews, promoters and entertainers around Slough and the wider Berkshire towns need just a few branded pieces. A workwear supplier here has to serve the big festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side."
+    ],
+    "kit_loc": "across the city's venues, festivals and events",
+    "s2_intro": "Whether you are a major Slough venue or festival, a production company or a small independent event crew in Berkshire"
+  },
+  "huddersfield": {
+    "region": "Huddersfield and West Yorkshire",
+    "nearby": ["Dewsbury", "Halifax", "Brighouse"],
+    "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Huddersfield, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
+    "s1_head": "Kitting the events trade of Huddersfield and West Yorkshire",
+    "s1loc": [
+      "Huddersfield punches above its weight for live performance. The grand Huddersfield Town Hall and the Lawrence Batley Theatre anchor the town's stages, with St Paul's Hall hosting concerts on the university campus. Each November the Huddersfield Contemporary Music Festival, hcmf//, spreads across these venues for ten days of new and experimental music that draws international audiences, while the Huddersfield Literature Festival and folk and beer events keep crews working the rooms through the year.",
+      "And the trade runs at every size. Major venues, festival operators and production companies field big crews and large seasonal teams and buy through procurement, while independent event crews, promoters and entertainers around Huddersfield and the wider West Yorkshire towns need just a few branded pieces. A workwear supplier here has to serve the big festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side."
+    ],
+    "kit_loc": "across the city's venues, festivals and events",
+    "s2_intro": "Whether you are a major Huddersfield venue or festival, a production company or a small independent event crew in West Yorkshire"
+  },
+  "telford": {
+    "region": "Telford and Shropshire",
+    "nearby": ["Shrewsbury", "Cannock", "Stafford"],
+    "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Telford, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
+    "s1_head": "Kitting the events trade of Telford and Shropshire",
+    "s1loc": [
+      "Telford carries a full events calendar. The Telford International Centre stages exhibitions, conferences and large concerts as one of the Midlands' biggest event spaces, while Telford Theatre at Oakengates, the former Oakengates Town Hall, runs music, comedy and pantomime year round. Out in Telford Town Park, the Parklands Festival fills the QEII Arena with house and drum and bass acts, and the Telford Balloon Fiesta brings a live-music stage and family entertainment to the same green space.",
+      "And the trade runs at every size. Major venues, festival operators and production companies field big crews and large seasonal teams and buy through procurement, while independent event crews, promoters and entertainers around Telford and the wider Shropshire towns need just a few branded pieces. A workwear supplier here has to serve the big festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side."
+    ],
+    "kit_loc": "across the city's venues, festivals and events",
+    "s2_intro": "Whether you are a major Telford venue or festival, a production company or a small independent event crew in Shropshire"
+  },
+  "newport": {
+    "region": "Newport and Gwent",
+    "nearby": ["Cardiff", "Cwmbran", "Pontypool"],
+    "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Newport, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
+    "s1_head": "Kitting the events trade of Newport and Gwent",
+    "s1loc": [
+      "Newport has a proud live-music story. The Riverfront on Bristol Packet Wharf, beside the River Usk, is the city's main theatre and arts centre, with the Newport Centre long serving as the town's bigger concert and event hall. The grassroots heritage runs deep too: the legendary TJ's on Clarence Place launched bands from the Manic Street Preachers outward under John Sicolo. Each July the Big Splash street-theatre festival turns the Riverfront and the city streets into an outdoor stage.",
+      "And the trade runs at every size. Major venues, festival operators and production companies field big crews and large seasonal teams and buy through procurement, while independent event crews, promoters and entertainers around Newport and the wider Gwent towns need just a few branded pieces. A workwear supplier here has to serve the big festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side."
+    ],
+    "kit_loc": "across the city's venues, festivals and events",
+    "s2_intro": "Whether you are a major Newport venue or festival, a production company or a small independent event crew in Gwent"
+  },
+  "oxford": {
+    "region": "Oxford and Oxfordshire",
+    "nearby": ["Abingdon", "Bicester", "Witney"],
+    "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Oxford, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
+    "s1_head": "Kitting the events trade of Oxford and Oxfordshire",
+    "s1loc": [
+      "Oxford packs a varied live scene into a small city. The New Theatre Oxford takes the big touring shows, the O2 Academy Oxford runs the main band nights, and the Bullingdon on the Cowley Road keeps the grassroots gig calendar busy, while the historic Sheldonian Theatre and the Oxford Playhouse host concerts and ceremonies. Out on the streets, the Cowley Road Carnival fills the summer with a long parade and stages, putting seasonal crews to work across the city.",
+      "And the trade runs at every size. Major venues, festival operators and production companies field big crews and large seasonal teams and buy through procurement, while independent event crews, promoters and entertainers around Cowley and the wider Oxfordshire towns need just a few branded pieces. A workwear supplier here has to serve the big festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side."
+    ],
+    "kit_loc": "across the city's venues, festivals and events",
+    "s2_intro": "Whether you are a major Oxford venue or festival, a production company or a small independent event crew in Oxfordshire"
+  },
+  "poole": {
+    "region": "Poole and Dorset",
+    "nearby": ["Bournemouth", "Christchurch", "Ferndown"],
+    "snapshot": "iNeedWorkwear supplies branded polos, hi-vis, fleeces, waterproofs and safety boots to concert venues, festival operators, event production companies, theatres and independent event crews across Poole, embroidered in-house with the operator name. The trade runs from big venues and festivals with large seasonal crews to small independent crews and promoters, so a larger operator can run a trade account for managed reordering and seasonal intake, while a small crew can order direct online with no account.",
+    "s1_head": "Kitting the events trade of Poole and Dorset",
+    "s1loc": [
+      "Poole's events trade revolves around Lighthouse, the largest arts centre in the country outside London. Its 1,500-seat Concert Hall is home to the Bournemouth Symphony Orchestra, alongside a theatre, studio and cinema running music, dance, comedy and pantomime through the year. Down on Poole Quay the calendar fills out with the Poole Harbour Festival and waterside events, while the Poole Arts Festival adds workshops and community staging, keeping production crews busy across the season.",
+      "And the trade runs at every size. Major venues, festival operators and production companies field big crews and large seasonal teams and buy through procurement, while independent event crews, promoters and entertainers around Poole Quay and the wider Dorset towns need just a few branded pieces. A workwear supplier here has to serve the big festival and the single crew alike, which is why we run trade accounts and direct online ordering side by side."
+    ],
+    "kit_loc": "across the city's venues, festivals and events",
+    "s2_intro": "Whether you are a major Poole venue or festival, a production company or a small independent event crew in Dorset"
+  }
+}
