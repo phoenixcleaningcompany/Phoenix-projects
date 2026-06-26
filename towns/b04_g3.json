@@ -1,0 +1,86 @@
+{
+  "yeovil": {
+    "region": "Yeovil and Somerset",
+    "nearby": ["Taunton", "Bridgwater", "Dorchester"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Yeovil, embroidered in-house to brand guidelines. A south Somerset town built around aerospace and defence engineering, with an advanced-manufacturing base worth hundreds of millions a year, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Yeovil aerospace and its engineering supply chain",
+    "s1loc": [
+      "Yeovil has been the home of British helicopters since the Westland works opened in 1915, and Leonardo, formerly AgustaWestland, still designs, builds and tests rotary aircraft here as the UK's only end-to-end manufacturer, employing more than 3,000 people. Its New Medium Helicopter contract safeguards thousands of jobs across the supply chain. The iAero centre on Bunford Lane backs the wider aerospace and advanced-engineering sector, which is worth more than 730 million pounds a year to the local economy.",
+      "Around that engineering core sits a settled base of accountancies, law firms, surveyors, recruiters and technology suppliers serving the defence supply chain across south Somerset. The people running these practices and corporate offices wear suits or work clothes day to day, then step into branded polos, softshells and fleeces for a client site visit, a trade exhibition, a conference or a sponsored community event. Office and procurement managers place the orders and expect the embroidery to match the brand precisely."
+    ],
+    "kit_loc": "across the town centre and the south Somerset business parks",
+    "s2_intro": "Whether you are a Yeovil aerospace firm, an engineering consultancy, an accountancy, a law firm or a technology company"
+  },
+  "welwyn garden city": {
+    "region": "Welwyn Garden City and Hertfordshire",
+    "nearby": ["Hatfield", "Hertford", "Stevenage"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Welwyn Garden City, embroidered in-house to brand guidelines. A Hertfordshire garden city that hosts a national supermarket headquarters and a cluster of corporate and pharmaceutical offices, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Welwyn Garden City corporate offices and Shire Park",
+    "s1loc": [
+      "Welwyn Garden City is anchored by Shire Park in the north-east of the town, where Tesco runs its global head office after consolidating from its old Cheshunt base. The same office campus is home to Roche, the pharmaceutical group, alongside Willis Towers Watson, Morgan Sindall, Regus and the payments group PayPoint, whose registered office sits at 1 The Boulevard. The Plus Building adds modern workspace to a district built around large corporate and professional employers.",
+      "Twenty miles north of London in the Welwyn Hatfield district, the town draws on a workforce across finance, pharmaceuticals, retail head-office functions, professional services and technology. Accountancies, law firms, consultancies and insurers serving these employers wear suits day to day, then step into branded polos, softshells and fleeces for a conference, an away day, an exhibition or a sponsored event. Office and brand managers, with fast rail links into King's Cross, place the orders and expect the embroidery to match their brand exactly."
+    ],
+    "kit_loc": "across the town centre and the Shire Park business district",
+    "s2_intro": "Whether you are a Welwyn Garden City corporate office, an accountancy, a law firm, a consultancy or a technology company"
+  },
+  "carlton": {
+    "region": "Carlton and Nottinghamshire",
+    "nearby": ["Nottingham", "Arnold", "West Bridgford"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Carlton, embroidered in-house to brand guidelines. A Gedling-borough town on the eastern edge of Nottingham with a settled base of professional firms and small businesses, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Carlton firms and the Gedling business base",
+    "s1loc": [
+      "Carlton sits in the Borough of Gedling on the eastern edge of Nottingham, with business activity centred around the town and the wider Greater Carlton area, which has been allocated a 20 million pound neighbourhood budget over ten years. Gedling is home to around 6,220 active businesses, most of them micro-enterprises spanning professional services, construction and a growing digital sector, supported through the Create Growth N2 programme and the borough's economic development strategy.",
+      "That base of accountancies, law practices, surveyors, recruiters and technology firms serves Carlton, Netherfield and the commuter belt into Nottingham, three miles west. The people running these practices and small businesses wear suits or work clothes day to day, then step into branded polos, softshells and fleeces for a trade exhibition, an away day, a conference or a sponsored community event. Office and brand managers place the orders and expect the embroidery to match their brand exactly."
+    ],
+    "kit_loc": "across the town and the Gedling business hubs",
+    "s2_intro": "Whether you are a Carlton accountancy, a law firm, a consultancy, a small business or a technology company"
+  },
+  "west bridgford": {
+    "region": "West Bridgford and Nottinghamshire",
+    "nearby": ["Nottingham", "Beeston", "Carlton"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across West Bridgford, embroidered in-house to brand guidelines. The Rushcliffe administrative centre on the south bank of the Trent, with a dense base of professional and financial-services firms, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "West Bridgford professional firms and Rushcliffe",
+    "s1loc": [
+      "West Bridgford is the administrative centre of the Borough of Rushcliffe, set on the south bank of the Trent across from Nottingham, and carries a dense base of professional firms. Chartered accountants such as Bexons and Bridgford Accountants work from the town centre, alongside RWB Chartered Accountants and law firms including Setfords serving business and commercial clients. Many are members of the D2N2 partnership covering Derby, Derbyshire, Nottingham and Nottinghamshire, and the Rushcliffe Borough Partnership.",
+      "The town's accountancies, solicitors, financial-services firms, surveyors and technology suppliers serve owner-managed businesses across Rushcliffe and the wider Nottingham economy. The people running these practices and corporate offices wear suits day to day, then step into branded polos, softshells and fleeces for a conference, an away day, an exhibition or a sponsored community event. Office and brand managers place the orders and expect the embroidery to match the brand exactly, across every office and team."
+    ],
+    "kit_loc": "across the town centre and the Rushcliffe business base",
+    "s2_intro": "Whether you are a West Bridgford accountancy, a law firm, a financial-services firm, a consultancy or a technology company"
+  },
+  "beckenham": {
+    "region": "Beckenham and southeast London",
+    "nearby": ["Bromley", "Lewisham", "Orpington"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Beckenham, embroidered in-house to brand guidelines. A southeast London commuter town in the Bromley borough with a settled base of professional firms, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Beckenham professional firms and its commuter base",
+    "s1loc": [
+      "Beckenham sits in the London Borough of Bromley, with professional offices clustered around the High Street and Beckenham Junction. Judge and Priestley runs a Beckenham office at the junction of the High Street and Manor Road, while Tinklin Springall has practised across Bromley and Beckenham since 1983. Chartered accountancies including Mat and Co, established in 1995, and Numbers and Beyond serve business clients across Beckenham, Bromley and Chislehurst, covering taxation, audit, consultancy and commercial advice.",
+      "As a well-connected commuter town, Beckenham supports a base of accountancies, solicitors, surveyors, recruiters and technology suppliers serving owner-managed businesses across the Bromley borough and southeast London. The people running these practices and corporate offices wear suits day to day, then step into branded polos, softshells and fleeces for a conference, an away day, an exhibition or a sponsored community event. Office and brand managers, with fast links into central London, place the orders and expect the embroidery to match the brand exactly."
+    ],
+    "kit_loc": "across the High Street and the Bromley borough business base",
+    "s2_intro": "Whether you are a Beckenham accountancy, a law firm, a consultancy, a financial-services firm or a technology company"
+  },
+  "sutton": {
+    "region": "Sutton and south London",
+    "nearby": ["Epsom", "Croydon", "Kingston upon Thames"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Sutton, embroidered in-house to brand guidelines. A south London borough centre building a major life-sciences district around cancer research alongside a settled professional base, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Sutton life sciences and the London Cancer Hub",
+    "s1loc": [
+      "Sutton is home to the London Cancer Hub, a collaboration between the Institute of Cancer Research and the London Borough of Sutton, backed by the Royal Marsden NHS Foundation Trust and the Greater London Authority. The one billion pound development, brought forward by the insurer Aviva and developer Socius, will deliver around a million square feet of laboratory and research space for life-sciences companies. Once complete, the district is expected to support around 13,000 jobs and add 1.2 billion pounds in value.",
+      "Around that emerging science district sits a settled professional community of accountancies, law firms, surveyors, recruiters, insurers and technology suppliers, alongside the borough offices serving south London. The people in these practices and corporate offices wear suits day to day, then step into branded polos, softshells and fleeces for a conference, an away day, an exhibition or a sponsored event. Office and procurement managers place the orders and expect the embroidery to match the brand precisely, across every team and office."
+    ],
+    "kit_loc": "across the town centre and the south London business base",
+    "s2_intro": "Whether you are a Sutton life-sciences firm, an accountancy, a law firm, a consultancy or a technology company"
+  },
+  "banbury": {
+    "region": "Banbury and Oxfordshire",
+    "nearby": ["Bicester", "Leamington Spa", "Oxford"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Banbury, embroidered in-house to brand guidelines. An Oxfordshire market town on the M40 with a base of motorsport engineering, advanced manufacturing and logistics employers, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Banbury engineering and its M40 employers",
+    "s1loc": [
+      "Banbury is built on engineering and manufacturing, led by Prodrive, whose purpose-built headquarters on Chalker Way brings together motorsport, advanced engineering and technology across more than 110,000 square feet and over 500 staff. Norbar Torque Tools, now part of Snap-on, manufactures torque tools from a 170,000 square foot site, and the long-running Jacobs Douwe Egberts works in the Ruscote ward marked decades of coffee processing on the River Cherwell. The M40 puts Birmingham and London within easy reach.",
+      "Around that industrial base sits a service economy of accountancies, law firms, surveyors, recruiters, insurers and technology suppliers serving manufacturers and logistics operators across the Cherwell district. The people running these practices and corporate offices wear suits or work clothes day to day, then step into branded polos, softshells and fleeces for a client site visit, a trade exhibition, a conference or a sponsored event. Office and procurement managers place the orders and expect the embroidery to match the brand precisely."
+    ],
+    "kit_loc": "across the town centre and the Cherwell business parks",
+    "s2_intro": "Whether you are a Banbury engineering firm, a manufacturer, an accountancy, a law firm or a technology company"
+  }
+}

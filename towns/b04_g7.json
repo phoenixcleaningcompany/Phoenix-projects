@@ -1,0 +1,86 @@
+{
+  "boston": {
+    "region": "Boston and Lincolnshire",
+    "nearby": ["Spalding", "Skegness", "Grantham"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Boston, embroidered in-house to brand guidelines. As a market and port town anchoring the food-and-agriculture economy of Greater Lincolnshire, Boston carries professional firms advising on produce, logistics and land, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Boston's food-and-agriculture professional core",
+    "s1loc": [
+      "Boston sits at the heart of Greater Lincolnshire's food economy, a region that grows a large share of England's vegetables and houses much of the country's fish processing. The Port of Boston handles agricultural cargo, and the National Centre for Food Manufacturing anchors the wider UK Food Valley work. Around this base sit accountancies, solicitors and consultants advising growers, processors and logistics operators, alongside the recruitment, land-agency and insurance firms that serve the produce supply chain across the Fens.",
+      "The professional workforce here is shaped by agri-business, food manufacturing and the Wash trade, with the University of Lincoln's food and fresh-produce work feeding skills into the cluster. Accountants, lawyers and brokers in Boston dress in suits day to day, then step into branded polos and softshells for grower shows, county events, supplier visits and away days. Office and brand managers buy that kit and care it carries the firm's exact logo and colours, embroidered cleanly and reordered to match."
+    ],
+    "kit_loc": "across the town centre, the port and the surrounding agri-business district",
+    "s2_intro": "Whether you are a Boston accountancy, a Fens land agent, an agri-business consultancy, a produce-sector insurer or a technology company"
+  },
+  "newbury": {
+    "region": "Newbury and Berkshire",
+    "nearby": ["Thatcham", "Reading", "Basingstoke"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Newbury, embroidered in-house to brand guidelines. As the corporate base for Vodafone UK and a cluster of technology and life-sciences employers in west Berkshire, Newbury carries a substantial professional workforce, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Newbury's corporate and technology base",
+    "s1loc": [
+      "Newbury is the long-standing UK headquarters of Vodafone, whose campus on the edge of town is the area's largest employer, and it has hosted the UK bases of National Instruments and Stryker alongside the local Newbury Building Society. A new business campus at the Vodafone site is being shaped to draw corporate tenants in life sciences, research and development and technology. Around these employers sit the accountancies, law firms, consultancies and insurers of west Berkshire that advise corporate clients.",
+      "The professional workforce here is anchored by major corporate and technology occupiers and the supplier firms that orbit them, drawing skills from across the Thames Valley toward Reading and Basingstoke. Advisers, engineers and consultants in Newbury work in suits or corporate dress, then move into branded polos, softshells and fleeces for conferences, exhibitions, client visits and away days. Procurement and brand managers buy that kit and insist it matches the corporate identity exactly, embroidered to guidelines and reordered consistently."
+    ],
+    "kit_loc": "across the town centre and the corporate campuses on its edge",
+    "s2_intro": "Whether you are a Newbury technology company, a corporate headquarters, a Berkshire accountancy, a consultancy or an insurer"
+  },
+  "cleethorpes": {
+    "region": "Cleethorpes and North East Lincolnshire",
+    "nearby": ["Grimsby", "Scunthorpe", "Hull"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Cleethorpes, embroidered in-house to brand guidelines. As part of the North East Lincolnshire economy and close to the Humber's offshore-energy and food-processing clusters, Cleethorpes carries professional firms serving corporate clients, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Cleethorpes and the North East Lincolnshire economy",
+    "s1loc": [
+      "Cleethorpes shares its professional economy with neighbouring Grimsby, where Forrester Boyd accountants and law firms such as Wilkin Chapman serve businesses across North East Lincolnshire. The wider Humber base is shaped by food processing, with Heinz and Mars Food among the major employers, and by offshore-energy operations and maintenance run from the port by operators including Orsted and Siemens. Solicitors, accountancies and consultancies in the area advise these corporate clients on land, contracts, finance and energy work.",
+      "The professional workforce here draws on the food, engineering and renewable-energy clusters of the South Humber bank, with skills feeding in from across North East Lincolnshire. Accountants, lawyers and consultants in Cleethorpes wear suits to the office, then step into branded polos, softshells and fleeces for conferences, supplier days, site visits and sponsored events. Office and brand managers buy that kit and want it carrying the firm's exact logo and colours, embroidered to guidelines and reordered to stay consistent."
+    ],
+    "kit_loc": "across the resort centre and the wider North East Lincolnshire business district",
+    "s2_intro": "Whether you are a Cleethorpes accountancy, a North East Lincolnshire law firm, an energy-sector consultancy, an insurer or a technology company"
+  },
+  "bicester": {
+    "region": "Bicester and Oxfordshire",
+    "nearby": ["Banbury", "Oxford", "Aylesbury"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Bicester, embroidered in-house to brand guidelines. As a fast-growing Oxfordshire town with the Bicester Motion mobility estate, logistics operators and a rising professional base, Bicester carries firms advising corporate clients, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Bicester's mobility and logistics economy",
+    "s1loc": [
+      "Bicester Motion, a 444-acre mobility estate within Oxfordshire's Motorsport Valley, is home to more than fifty businesses working across past, present and future mobility technology, with an Innovation Quarter delivering new HQ buildings for research, development and light assembly. Bicester also carries warehousing and distribution operators served by its road links, and the accountancies, law firms and consultancies of north Oxfordshire advise these engineering, logistics and technology clients on contracts, finance and growth.",
+      "The professional workforce here sits within the Oxford-Cambridge growth corridor, drawing engineering and technical skills from the Oxford economy and the motorsport supply chain toward Banbury. Advisers, engineers and consultants in Bicester work in corporate dress day to day, then move into branded polos, softshells and fleeces for exhibitions, conferences, client visits and away days. Procurement and brand managers buy that kit and insist it matches the company identity exactly, embroidered to guidelines and reordered consistently across teams."
+    ],
+    "kit_loc": "across the town centre, the mobility estate and the surrounding business parks",
+    "s2_intro": "Whether you are a Bicester technology company, a mobility-sector engineer, an Oxfordshire accountancy, a logistics operator or a consultancy"
+  },
+  "ramsgate": {
+    "region": "Ramsgate and east Kent",
+    "nearby": ["Margate", "Broadstairs", "Canterbury"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Ramsgate, embroidered in-house to brand guidelines. As an east Kent town with the Port of Ramsgate, offshore-energy support work and an established professional base, Ramsgate carries firms advising corporate clients, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Ramsgate's port and professional firms",
+    "s1loc": [
+      "Ramsgate has the only Royal Harbour in the country and the working Port of Ramsgate, with operators based by the harbour servicing the offshore wind installations east of the town. Professional firms here include Whitehead Monckton and Robinson Allfree solicitors and the long-established Boys and Maughan practice, alongside accountancies such as Spurling Cannon out at Westwood. The Marlowe Innovation Centre off Marlowe Way houses business and advisory occupiers serving corporate clients across the Isle of Thanet.",
+      "The professional workforce here draws on the Thanet economy and the energy-support work running through the port, with firms across Ramsgate, Broadstairs and Canterbury sharing clients and staff. Accountants, lawyers and consultants work in suits at the office, then step into branded polos, softshells and fleeces for conferences, supplier days, site visits and sponsored events. Office and brand managers buy that kit and want it carrying the firm's exact logo and colours, embroidered to guidelines and reordered to stay consistent."
+    ],
+    "kit_loc": "across the harbour, the town centre and the Westwood business district",
+    "s2_intro": "Whether you are a Ramsgate law firm, a Thanet accountancy, an energy-support operator, a consultancy or a technology company"
+  },
+  "margate": {
+    "region": "Margate and east Kent",
+    "nearby": ["Ramsgate", "Broadstairs", "Herne Bay"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Margate, embroidered in-house to brand guidelines. As an east Kent town with a growing cluster of creative and digital studios alongside an established professional base, Margate carries firms advising corporate clients, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Margate's creative, digital and professional base",
+    "s1loc": [
+      "Margate has built a notable creative and digital cluster, with studios such as Margate Digital, Margate Media and TRACE Creative working in branding, web design and marketing across the Old Town quarter behind King Street and Market Place. The town's professional base includes the Boys and Maughan law firm and accountancies serving the wider Thanet area, while regeneration in Cliftonville continues to draw designers and independent businesses. These firms advise corporate, creative and digital clients on contracts, finance and growth.",
+      "The professional and creative workforce here is shaped by an alternative economy of affordable studio space and a steady draw of designers and agency staff from London, with skills shared across Margate, Ramsgate and Broadstairs. Designers, accountants and consultants work in their own dress, then move into branded polos, softshells and fleeces for exhibitions, client pitches, conferences and away days. Brand and office managers buy that kit and insist it matches the studio identity exactly, embroidered to guidelines and reordered consistently."
+    ],
+    "kit_loc": "across the Old Town, the town centre and the Cliftonville business district",
+    "s2_intro": "Whether you are a Margate creative studio, a digital agency, a Thanet law firm, an accountancy or a technology company"
+  },
+  "sittingbourne": {
+    "region": "Sittingbourne and Kent",
+    "nearby": ["Faversham", "Chatham", "Maidstone"],
+    "snapshot": "iNeedWorkwear supplies branded polos, shirts, softshells and fleeces to banks, law firms, accountancies, consultancies, insurers and technology companies across Sittingbourne, embroidered in-house to brand guidelines. As a Kent town anchored by Kent Science Park and the large Eurolink business park, Sittingbourne carries manufacturing, logistics and professional firms, and we run it as a managed account: a single point of contact, your brand pack held on file, and reorders kept consistent across every office, team and event.",
+    "s1_head": "Sittingbourne's science park and Eurolink",
+    "s1loc": [
+      "Sittingbourne hosts Kent Science Park, a base for agritech, biotech and biopharma businesses, and the large Eurolink business park, which is home to around 280 companies employing some 6,000 people across research and development, light industrial, manufacturing and distribution. Strong road links via the A249 to the M2, M20 and Sheerness give the town real logistics weight. The accountancies, law firms and consultancies of mid-Kent advise these science, manufacturing and distribution employers on finance, contracts and growth.",
+      "The professional workforce here is shaped by the science-park and manufacturing clusters, with skills feeding in from across mid-Kent toward Maidstone and Chatham. Advisers, scientists and consultants in Sittingbourne work in corporate dress or lab coats, then move into branded polos, softshells and fleeces for exhibitions, conferences, site visits and away days. Procurement and brand managers buy that kit and insist it matches the company identity exactly, embroidered to guidelines and reordered consistently across teams and sites."
+    ],
+    "kit_loc": "across the town centre, the science park and the Eurolink business district",
+    "s2_intro": "Whether you are a Sittingbourne science-park company, a manufacturer, a Kent accountancy, a logistics operator or a consultancy"
+  }
+}
