@@ -259,6 +259,28 @@ You already have the exemplar. Do for iNeedWorkwear what Phoenix Duct Clean did 
 - **`noindex` until proven** for experimental families.
 - **Sitemaps segmented by page type** to monitor how Google treats each family.
 
+### 6.4 Staging & safe launch (build in the open, invisible to Google)
+
+You can build the whole site publicly and preview it as you go — the trick is *how* you hide it.
+
+**Don't rely on `robots.txt` `Disallow` alone.** It blocks crawling, not indexing: a disallowed URL
+can still be indexed as a bare link, and — critically — if a page is disallowed, Google can't read a
+`noindex` tag on it, so the two cancel out. Use one of the two correct methods instead:
+
+| Method | Publicly reachable? | In Google's index? | Use when |
+|--------|---------------------|--------------------|----------|
+| **Password (HTTP auth)** — cPanel → *Directory Privacy* | No (login required) | Never | Private team/stakeholder preview — **recommended** |
+| **Site‑wide `noindex`** — `X-Robots-Tag: noindex` header or `<meta name="robots" content="noindex">` in every page head, **robots.txt left open** so Google can read it | Yes | No | You want a shareable public URL |
+
+- **cPanel note:** password protection is **Directory Privacy** (a login wall), *not* file‑permission
+  codes (`644`/`755`). Leave permissions at the web defaults — `700` on a folder just breaks the site.
+- **Build on a staging subdomain/domain** (e.g. `staging.ineedworkwear.co.uk`), not the live path, so
+  no half‑built signals ever touch the production domain.
+- **Go‑live checklist (per tranche):** the #1 SEO disaster is launching with `noindex`/auth still on.
+  Before lifting the block for a tranche: content live **and** matching Shopify collections live · no
+  dead links · titles/meta/canonical/schema correct · then remove the block, submit the segmented
+  sitemap in Search Console, and confirm indexing.
+
 ---
 
 ## 7. Dealing with the existing pages
