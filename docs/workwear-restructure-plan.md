@@ -1,237 +1,305 @@
-# Workwear Site — Complete Restructure & Rebuild Plan
+# iNeedWorkwear — Complete Restructure & Rebuild Plan (v2)
 
-**Status:** Draft plan for review
-**Author:** Prepared for Damien, Phoenix Cleaning Company
+**Status:** Plan for review — now grounded in the actual build
+**Prepared for:** Damien, Phoenix Cleaning Company
 **Date:** 2026-07-07
-**Goal:** Rebuild a large (thousands → tens of thousands of pages) non‑ecommerce workwear
-content site that safely funnels visitors to the ecommerce store, **without** duplicate/thin/
-unhelpful‑content risk to either domain.
+**Goal:** Rebuild the iNeedWorkwear content site so it can safely reach thousands →
+tens of thousands of genuinely useful pages that funnel to the (not‑yet‑built) ecommerce
+store, without duplicate/thin/doorway‑content risk to *either* domain.
 
-> **Note on scope:** This repo currently contains only a README — the existing workwear build
-> is not in it. This document is therefore a strategy + architecture plan written from your
-> description. Where it assumes a tech stack or data source, that's flagged as an
-> **[ASSUMPTION]** so we can correct it once the current build is available.
-
----
-
-## 0. TL;DR — the one idea that fixes all three problems
-
-The current site failed because pages were generated as **prose from a template**: same skeleton,
-lightly reworded body copy, keyword swapped per batch. Google's systems now explicitly target
-exactly this pattern ("scaled content abuse", March 2024 spam policy) regardless of whether a
-human or AI wrote it.
-
-The fix is to **stop generating prose and start rendering data.** Every page must be built from a
-**structured dataset** (real standards, real product specs, real role/hazard requirements), so that:
-
-- **Uniqueness is a by‑product of the data**, not something we try to "spin" into copy.
-- **Structure varies because the data varies** — a page about a flame‑resistance standard genuinely
-  looks different from a garment‑care page, because it *contains different things.*
-- **Every page earns its existence** by adding information a searcher can't easily get elsewhere
-  ("information gain").
-
-You *can* build tens of thousands of pages safely. It is not about the number — it's about the
-**value density** (average usefulness per page) and never publishing a page that has no reason to exist.
+> **v2 note:** This version replaces the earlier assumptions‑based draft. I've now reviewed a
+> 400‑file sample of the real workwear build, the `CW Hybrid Series Planning Matrix`, and four
+> pages from the cleaning site (Phoenix Duct Clean) that you hold up as the better build. The
+> findings below are measured from those files, not assumed.
 
 ---
 
-## 1. Diagnosis — name the actual risk, so we fix the right thing
+## 0. Headline recommendation: start fresh — but harvest three assets
 
-There is no generic "duplicate content penalty." The real exposure is four specific mechanisms:
+You asked whether to rebuild, edit, or scrap. **Scrap the current workwear pages as a live site.**
+They are a net liability, not a foundation — and editing 10,000 pages to fix problems baked into
+the template and the topic list costs more than rebuilding and leaves the risk signals in place.
 
-| # | Mechanism | What it is | How the current build trips it |
-|---|-----------|-----------|-------------------------------|
-| 1 | **Scaled content abuse** (spam policy, Mar 2024) | Producing many pages *primarily to rank*, with little value per page — AI or human, doesn't matter. | Batches of 300/500/1000 templated pages with reworded copy. This is the textbook definition. |
-| 2 | **Site‑level quality classifier** (helpful‑content signals, now part of core ranking) | Google scores the *whole site's* average quality. A large body of thin pages drags down even the good pages. | Thousands of near‑duplicate pages set a low site‑wide baseline. |
-| 3 | **Doorway pages** policy | Pages that exist mainly to funnel users onward to another destination, without standalone value. | A non‑ecommerce site whose purpose is to push visitors to an ecommerce store is *structurally* at risk here — this is the single biggest cross‑site danger. |
-| 4 | **Duplicate clustering / crawl‑budget waste** | Google canonicalises near‑duplicates together; only one ranks, the rest waste crawl budget and dilute signals. | Batch pages that differ only by keyword collapse into one cluster. |
+But "start fresh" does **not** mean start from nothing. Harvest three things from what exists:
 
-**Cross‑site (the "penalise both sites" fear):** the risk is *not* that linking transmits a virus.
-It's that (a) a site judged as a **doorway/low‑value funnel** has its outbound links devalued and
-its referrals discounted, and (b) if the workwear site is publicly associated with the brand, its
-low quality is a **reputational/E‑E‑A‑T** drag. The cleaning‑services site "exposed" this because
-it cleared the bar the workwear site doesn't.
+1. **The design‑system discipline of the cleaning site.** Phoenix Duct Clean already proves your
+   team can build one coherent, well‑branded system (one palette, one type system, schema markup,
+   consistent chrome). That *is* the model. The workwear site's core failure is that it never had one.
+2. **The industry taxonomy** in the planning matrix (construction, healthcare, automotive, plumbing…
+   with product mappings). The *entity model* is sound; the *town‑multiplication* on top of it is not.
+3. **A handful of genuine editorial guides** (e.g. "best safety boots for concrete floors"). These
+   can be rebuilt as real, deep buying guides — the seed of the useful‑content layer.
 
-**Design/branding is also a ranking‑adjacent signal.** Inconsistent, un‑branded pages that "don't
-look like real website pages" hurt **Trust** (the T in E‑E‑A‑T), increase pogo‑sticking/bounce, and
-read to a quality rater as low‑effort. Branding is not cosmetic here — it's part of the quality story.
+Everything else — the town‑swapped industry pages and, urgently, the off‑topic traffic‑net pages —
+should not be migrated. Redirect or `410` them (see §7).
 
 ---
 
-## 2. Governing principle — the "unit of unique value" test
+## 1. What the actual build shows (evidence)
 
-**No page ships unless it passes at least one of these three tests.** This single gate prevents
-the combinatorial explosion of near‑duplicates.
+### 1.1 Branding — no system at all (your problem #1, confirmed)
 
-1. **Unique information** — contains facts, data, specs, or synthesis a searcher can't trivially
-   get from the top results already (real standard clauses, real GSM/fabric specs, real role hazards).
-2. **Unique utility** — *does something*: a selector, calculator, checklist generator, comparison
-   engine, size tool. Interactivity is inherently non‑duplicable.
-3. **Unique intent** — serves a genuinely distinct search need, not a synonym of an existing page.
-   ("Class 2 vs Class 3 hi‑vis" ≠ "high‑visibility clothing classes" — decide which one page owns
-   that intent and consolidate the rest.)
+The cleaning site uses **one** design‑token block on every page:
+`--steel:#0E1620; --amber:#D4762A; --teal:#3FA89B`, fonts `Saira Condensed / Inter / Space Mono`.
+Every page is unmistakably the same site.
 
-If a proposed page passes *none* of these, **it must not be built** — this is how we get to tens of
-thousands of *safe* pages instead of thousands of risky ones.
+The workwear site has **a different palette and often different fonts per series**:
+
+| Series | Sample colour | Fonts |
+|--------|--------------|-------|
+| `am-` (automotive) | `#1c2024` dark + amber | Lora / Source Sans |
+| `bh-` (hair & beauty) | `#271f33` purple | Lora / Source Sans |
+| `festival-` | `#7c3aed` violet | Lora / Source Sans |
+| `restaurant-` | `#2c2a27` | **Playfair Display / DM Sans** |
+| `blog-` | `#063a09` green | (varies) |
+| `eat-` | `#13251a` green | Lora / Source Sans |
+
+There is no shared header/nav, no shared footer identity, no tokens. Each batch looks like a
+different website. This is exactly the "doesn't look like real website pages" problem — and it's
+the single clearest difference from the cleaning site.
+
+### 1.2 Uniqueness — spun content around a fixed skeleton (your problem #2, confirmed)
+
+Measured on two pages from the same series (`am-aberdeen` vs `am-abingdon`, both "Garage and
+Mechanic Workwear Supplier"):
+
+- **77% shared vocabulary** (2,216 of ~2,880 word tokens common to both).
+- **7 of 8 `<h2>` headings identical, word‑for‑word.** Only the opening "local flavour" heading
+  differs ("The energy city's fleet and 4x4 trade" vs "The MG factory and the Radley Road trade").
+- Body sentences reworded around the same fixed structure.
+
+That is the classic **spun‑content signature**: same skeleton, same topic, lightly reworded prose,
+one town swapped in. Google's systems detect this as near‑duplication even when exact phrase overlap
+is low, and cluster the pages together.
+
+### 1.3 Templating — duplication by design (your problem #3, confirmed)
+
+The `CW Hybrid Series Planning Matrix` sets out the intended system:
+
+- **~37 industry series**, most at **500 towns** each (some 200), tiered for build order.
+- Rendered through **two templates** — "A (Concierge)" and "B (Self‑checkout)" — plus a hybrid.
+- The declared uniqueness lever is a "Local Variation: High/Medium/Low" column — i.e. **town‑name
+  substitution.** "Towns: 500" against each industry.
+
+That's **~10,000+ near‑identical pages across 2–3 templates.** The matrix is, in effect, a
+blueprint for the exact pattern ("scaled content abuse") that Google's March 2024 spam policy targets.
+
+### 1.4 The fourth problem — topical sprawl / doorway pages (not on your list; the biggest risk)
+
+The sample contains large programmatic series with **nothing to do with workwear**, each keyword‑
+stuffed and linking to the shop:
+
+| Page | Words | "workwear" mentions | Shop links |
+|------|------:|--------------------:|-----------:|
+| `world-cup-bulgaria` (Bulgaria's WC history) | 2,882 | 31 | 11 |
+| `festival-2000-trees` (music festival guide) | 2,794 | 43 | 17 |
+| `eat-barnet` ("best places to eat") | 2,516 | 45 | 12 |
+| `best-youth-clubs-harrow` | 2,625 | 12 | 5 |
+| `restaurant-carlton` ("launch a restaurant") | 3,058 | 21 | 6 |
+
+Others in the set: town criers, nurseries, festivals A–Z, "eat" guides by town, world‑cup by nation.
+A World Cup history page on a workwear domain that mentions "workwear" 31 times and pushes 11 shop
+links is a textbook **doorway page**. This is the content most likely to get the domain classified as
+a low‑value funnel — and because these pages link to the ecommerce store, that judgement is what
+puts **both** sites at risk. **This series must be deleted, not fixed.**
+
+### 1.5 A caution about the cleaning site (the "good" build)
+
+The cleaning site is genuinely better — one design system, real local specifics (street names,
+councils, local history), useful editorial. **But do not simply clone its location‑page pattern at
+10,000× scale**, because it carries two latent risks that only bite at scale:
+
+- **Repeated fixed "stats"** ("4,287 canopies degreased", "54,754 hours on site") appear identical
+  on every page. If those numbers aren't literally true, that's an E‑E‑A‑T/trust problem; at scale
+  it's a duplication signal too.
+- **"On the ground" job anecdotes and testimonials** (e.g. the "bacon rolls" story) read as
+  per‑town template slots. If they're not real, that's a trust risk on a page type Google scrutinises.
+
+The cleaning site works because it is **small and tightly on‑topic** (a few hundred pages in one
+niche). The workwear ambition is 20–50× larger and was topically sprawling — the same location‑page
+recipe that passes at cleaning‑site scale would trip the **site‑level quality classifier** at
+workwear scale. That gap is the heart of your question, and §2 is the answer to it.
 
 ---
 
-## 3. Content architecture — where genuine uniqueness comes from at scale
+## 2. Can you build tens of thousands of pages safely? Yes — but not this way
 
-The engine of the rebuild is a **structured dataset**, not a copy template. Model workwear as
-entities and attributes, then *render* pages from them.
+The honest answer: **there is no safe page count — there is only safe value density.** 50,000
+genuinely useful pages is fine; 5,000 town‑swapped ones is not. Google scores the *average* quality
+of the site, so the constraint is: *every page must add something a searcher can't easily get elsewhere.*
 
-### 3.1 The data model (entities)
+The current build fails because its only uniqueness lever is the town name. To scale safely,
+uniqueness has to come from **real, structured data and real utility** — things that genuinely differ
+page to page. The rest of this plan is how to get there.
 
-- **Garments:** hi‑vis vest, coverall, work trouser, FR jacket, safety boot, chef whites, scrub,
-  lab coat, tabard, softshell, waterproof, etc.
-- **Sectors:** construction, healthcare/NHS, catering/hospitality, warehousing/logistics,
-  manufacturing, automotive, electrical, rail, highways, agriculture, cleaning, security.
-- **Roles:** electrician, welder, chef, warehouse operative, mechanic, scaffolder, groundworker, nurse…
-- **Standards/certifications (the richest unique‑data seam):** EN ISO 20471 (hi‑vis),
-  EN ISO 11612 (heat/flame), EN 343 (rain), EN ISO 20345 (safety footwear), IEC 61482 (arc flash),
-  EN 1149 (antistatic), EN 13034 (chemical), rail GO/RT, etc.
-- **Attributes:** fabric, GSM/weight, colour, reflective‑tape class, features (knee‑pad pockets),
-  care/wash temperature, sizing.
-- **Intents:** buying guide, "what to wear for X", compliance explainer, care/maintenance, sizing,
-  comparison, cost, branding/embroidery.
+### The governing rule — the "unit of unique value" test
 
-### 3.2 The unique‑data backbone: your ecommerce catalogue **[ASSUMPTION: catalogue data is accessible]**
+**No page ships unless it passes at least one of these three tests:**
 
-Your ecommerce product catalogue is the asset the competition can't copy: **real** fabric,
-GSM, certifications, colours, price bands, sizing. Spec‑driven pages built from it are:
+1. **Unique information** — real facts a searcher can't trivially get from the current top results
+   (a specific safety standard's clauses, real garment specs, a real role's hazard profile).
+2. **Unique utility** — it *does something*: a selector, calculator, checklist generator, comparison
+   engine. Interactivity is inherently non‑duplicable.
+3. **Unique intent** — it serves a genuinely distinct search need, not a synonym of another page.
 
-- Genuinely unique (real numbers in real tables, not prose).
-- Naturally, *relevantly* linked to the store — which is the **antidote to the doorway problem**
-  (the link is a citation of real data, not a funnel CTA).
-- Cheap to keep fresh (regenerate when the catalogue changes).
+A town‑swapped "Garage Workwear in [Town]" page passes none of these. A "Bulgaria World Cup" page
+passes none of these *for a workwear site*. Both are retired. This one gate is what converts a
+10,000‑page liability into a 10,000‑page asset.
+
+---
+
+## 3. Where genuine uniqueness comes from (the engine)
+
+Stop generating **prose from a template**. Start rendering **data through a component library.**
+Uniqueness then becomes a by‑product of the data, and structure varies because the data varies.
+
+### 3.1 The data model (entities), not the town list
+
+- **Garments:** hi‑vis, coverall, work trouser, FR jacket, safety boot, chef whites, scrub, tabard,
+  softshell, waterproof…
+- **Sectors:** construction, healthcare, hospitality, warehousing, automotive, plumbing/electrical,
+  landscaping, FM/cleaning, manufacturing… *(reuse the matrix's taxonomy)*
+- **Roles:** welder, electrician, chef, warehouse operative, groundworker, mechanic, nurse…
+- **Standards (the richest unique‑data seam):** EN ISO 20471 (hi‑vis), EN ISO 11612 (heat/flame),
+  EN 343 (rain), EN ISO 20345 (safety footwear), IEC 61482 (arc flash), EN 1149 (antistatic),
+  EN 13034 (chemical), rail GO/RT…
+- **Attributes:** fabric, GSM, colour, tape class, features, wash/care temperature, sizing.
+- **Intents:** buying guide, "what to wear for X", compliance explainer, care, sizing, comparison,
+  cost, embroidery/branding.
+
+### 3.2 The supplier‑DAM trap (critical — this changes the strategy)
+
+You told me catalogue data and imagery will come from **workwear suppliers' digital asset libraries.**
+That means the raw specs and photos are **identical to every other reseller** pulling the same DAM —
+the *opposite* of a unique asset. Rules that follow directly:
+
+- **Never publish supplier copy or specs as page text.** Treat the DAM as *raw input to transform* —
+  synthesise your own spec tables, comparisons, and standard/hazard mappings on top of it.
+- **Differentiate imagery.** Raw DAM photos will be image‑deduped by Google against dozens of rivals.
+  Plan for own photography where feasible, or at minimum processed/annotated/composited images.
+- **The unique value lives in the layer you add** — standards analysis, role/hazard mapping, care
+  guidance, tools, comparisons. No supplier feed contains those. That layer is your moat.
 
 ### 3.3 Discipline against combinatorial near‑duplicates
 
-`sector × garment × role × region` is millions of combinations — and 95% of them would be
-near‑duplicates. Rules:
+`sector × garment × role × town` is millions of combinations, ~95% near‑duplicate. So:
 
-- **Only materialise a combination when the data differs meaningfully.** "FR workwear for welders"
-  is real (arc flash + heat + spatter). "Hi‑vis vests in Swindon" is a doorway — **do not build
-  pure geo‑programmatic pages** unless backed by real local data (stockists, local regs, delivery).
-- **Variable depth:** high‑value nodes become full pages; thin nodes become a *section within* a
-  parent page or a filtered view, never a standalone URL.
-- **Cap each series by value, not by a target count.** Kill the "build 1000" mindset — build "build
-  every node that passes §2, and no more."
-
----
-
-## 4. Page taxonomy & template families (fixing the "not enough structural variation" problem)
-
-The old build used ~1 template per series. The rebuild uses **many distinct template families**,
-each with genuinely different DOM/structure because each renders different data:
-
-| Page type | Purpose | Why it's structurally distinct | Rough scale |
-|-----------|---------|-------------------------------|-------------|
-| **Standard/regulation explainer** | Explain EN ISO 20471 etc. | Clause tables, class diagrams, "does this apply to me" logic | 1 per standard (dozens) |
-| **Sector guide** (hub) | Workwear for construction, NHS… | Hazard matrix, role list, required standards, seasonal | 1 per sector (~15–25) |
-| **Role guide** | What a welder/electrician wears | Hazard→garment→standard mapping, layering | 1 per meaningful role (100s) |
-| **Garment spec/comparison** | Polycotton vs cotton; Class 2 vs 3 | Spec tables, decision tables, pros/cons from real data | 100s |
-| **Care & maintenance** | Wash FR coveralls without losing FR | Step lists, temp/care tables, do/don't — high utility | 100s |
-| **Sizing & fit** | Size guides per garment/brand | Measurement tables, fit diagrams | 100s |
-| **Interactive tools** | Hi‑vis class selector, "which coverall", PPE checklist, embroidery cost, size calculator | Pure JS utility — inherently unique | 5–15 flagship tools |
-| **Glossary/definitions** | Define terms/standards/fabrics | Short, interlinked, schema‑marked | 100s |
-| **Editorial/blog** | News, seasonal, deep how‑tos, case studies | Human‑led, opinion/experience (E‑E‑A‑T) | ongoing |
-
-**Structural‑variation rules baked into the generator:**
-- Each family has **3–5 layout variants**, and block order/inclusion is **driven by which data
-  fields are present**, so no two pages in a series share an identical skeleton.
-- A **component library** (spec table, hazard matrix, comparison grid, callout, FAQ, tool embed,
-  related‑links) assembled by rules — not a fixed sequence.
-- **Machine‑similarity ceiling:** the QA gate (§6) rejects any page whose structure/copy exceeds a
-  similarity threshold vs its siblings.
+- **Only build a combination when the data genuinely differs.** "FR coveralls for welders" is real
+  (arc + spatter + radiant heat). "Garage workwear in Abingdon" is not — it's a town swap.
+- **Kill the town‑multiplication default.** Do **not** build 500 town variants per industry. Build
+  *one strong industry/role guide*, and create a local page **only** where real local data exists
+  (a physical stockist, local regulation, real delivery/lead‑time info) — otherwise it's a doorway.
+- **Variable depth:** thin nodes become a *section within* a parent page or a filtered view, never a
+  standalone URL.
+- **Cap by value, not by a target count.** Retire "build 500" thinking. Build every node that passes
+  §2, and no more.
 
 ---
 
-## 5. Branding & design system (fixing "doesn't look like a real website")
+## 4. Page taxonomy & template families (fixes the over‑templating)
 
-Build **one** design system before any page is generated. Every page renders through it, so
-consistency is automatic, not manual.
+The old build: 2–3 templates for everything. The rebuild: **many families, each structurally
+distinct because each renders different data**, and each with 3–5 layout variants.
 
-- **Design tokens:** a defined colour palette (primary/secondary/neutral/semantic), type scale,
-  spacing scale, radii, shadows — in one tokens file.
-- **Global chrome:** one header, nav, footer, breadcrumb pattern on every page.
-- **Component library:** buttons, cards, tables, callouts, tool shells — all themed from tokens.
-- **Imagery/iconography system:** consistent treatment; real photography where possible over
-  generic stock (helps E‑E‑A‑T and originality).
-- **Accessibility baked in** (contrast, focus states, semantic HTML) — also a quality signal.
-- **Deliverable:** a short brand/design spec + a live component/style guide page.
+| Page type | Example | Why structurally distinct |
+|-----------|---------|---------------------------|
+| **Standard/regulation explainer** | "EN ISO 20471 hi‑vis classes explained" | Clause tables, class diagrams, applicability logic |
+| **Sector guide (hub)** | "Workwear for construction" | Hazard matrix, role list, required standards |
+| **Role guide** | "What a welder should wear" | Hazard → garment → standard mapping |
+| **Garment comparison** | "Class 2 vs Class 3 hi‑vis" | Decision tables, spec grids from real data |
+| **Care & maintenance** | "Washing FR coveralls without losing FR" | Step lists, temperature/care tables — high utility |
+| **Sizing & fit** | Per‑garment size guides | Measurement tables, fit diagrams |
+| **Interactive tools** | Hi‑vis class selector; "which coverall?"; PPE checklist; embroidery cost; size calculator | Pure utility — inherently unique |
+| **Glossary** | Standards/fabric definitions | Short, interlinked, schema‑marked |
+| **Editorial/blog** | Buying guides, deep how‑tos | Human‑led, real experience (E‑E‑A‑T) |
 
-> If you have brand assets from the ecommerce store, we mirror its palette/type so the two sites
-> feel like one family — reinforcing trust across the funnel.
+**Structural‑variation rules in the generator:** block order and inclusion driven by *which data
+fields are present*, so no two pages in a series share an identical skeleton; a component library
+(spec table, hazard matrix, comparison grid, callout, FAQ, tool embed) assembled by rules; and a
+QA gate (§6) that rejects any page too similar to its siblings.
 
 ---
 
-## 6. Build system & quality gates (the part that makes scale safe)
+## 5. Branding & design system (fixes problem #1) — systematise the cleaning site
 
-### 6.1 Recommended stack **[ASSUMPTION — confirm/replace]**
-- **Static‑site generator** (Astro or Next.js) — fast, indexable, component‑driven.
-- **Content as data:** the entity dataset in structured files/DB; pages rendered from it via the
-  component library and template families. Editorial in MDX/CMS.
-- **Clean separation:** `data/` (facts) — `templates/` (families) — `components/` (blocks) —
-  `content/` (editorial). Copy is never hand‑duplicated across pages.
+You already have the exemplar. Do for iNeedWorkwear what Phoenix Duct Clean did — **once, centrally**
+— and render every page through it:
 
-### 6.2 Pre‑publish QA gates (automated — nothing ships that fails)
-1. **Uniqueness / similarity check** — embeddings or shingling (e.g. SimHash/MinHash) to compare
-   each page against its siblings; **reject** above a similarity threshold.
-2. **Thin‑content check** — minimum genuine information density (not just word count): must contain
-   real data blocks (spec table, hazard matrix, tool, etc.), not just prose.
-3. **§2 value‑test gate** — each page tagged with which of the three tests it passes; untagged = blocked.
-4. **Doorway check** — CTA‑to‑content ratio ceiling; a page can't be mostly "buy now" links.
-5. **Technical SEO** — unique title/meta/H1, correct canonical, schema.org markup (Product, FAQ,
-   HowTo, Definition as appropriate), internal links present, no orphan pages.
-6. **Design/lint** — passes design‑system + accessibility + Core Web Vitals budget.
+- **One token file:** palette (primary/secondary/neutral/semantic), type scale, spacing, radii,
+  shadows. One palette for the whole site, chosen to sit alongside the future store.
+- **Global chrome:** one header, nav, footer, breadcrumb on every page.
+- **Component library** themed from tokens (buttons, cards, tables, callouts, tool shells).
+- **Imagery system** (see §3.2 — differentiate from DAM stock).
+- **Accessibility + Core Web Vitals** budgets baked in (both are quality signals).
+- **Deliverable:** a brand spec + a live style‑guide page, before any content page is generated.
+
+---
+
+## 6. Build system & QA gates (what makes scale safe)
+
+### 6.1 Stack **[to confirm]**
+- **Static‑site generator** (Astro or Next.js) — component‑driven, fast, indexable.
+- **Content as data:** the entity dataset in structured files/DB, rendered via template families and
+  the component library; editorial in MDX/CMS. Copy is never hand‑duplicated across pages.
+- **Clean separation:** `data/` (facts) · `templates/` (families) · `components/` (blocks) ·
+  `content/` (editorial).
+
+### 6.2 Pre‑publish gates (automated in CI — nothing ships that fails)
+1. **Similarity gate** — embeddings or SimHash/MinHash vs siblings; reject above a threshold. *(This
+   alone would have blocked the `am-aberdeen`/`am-abingdon` pattern.)*
+2. **Thin‑content gate** — must contain real data blocks (spec table, hazard matrix, tool), not just prose.
+3. **§2 value‑test gate** — each page tagged with which test it passes; untagged = blocked.
+4. **Doorway gate** — CTA/shop‑link‑to‑content ratio ceiling. *(This would have blocked the World Cup pages.)*
+5. **Topical‑relevance gate** — page must map to a workwear entity; off‑topic = blocked.
+6. **Technical SEO** — unique title/meta/H1, correct canonical, schema.org, internal links, no orphans.
+7. **Design/lint** — design‑system + accessibility + CWV budgets.
 
 ### 6.3 Index management
-- **Phased publishing** — release in tranches; watch indexation and rankings before the next tranche.
-- **noindex until proven** for experimental series; promote to index only once quality is confirmed.
-- **XML sitemaps segmented by page type** so we can monitor how Google treats each family.
+- **Phased publishing** in tranches; watch indexation and rankings before the next tranche.
+- **`noindex` until proven** for experimental families.
+- **Sitemaps segmented by page type** to monitor how Google treats each family.
 
 ---
 
-## 7. Dealing with the existing pages (don't just leave them)
+## 7. Dealing with the existing pages
 
-The old pages are actively dragging the site‑wide score. Audit and triage **every** URL:
+They are actively dragging any shared quality signal. Triage every URL:
 
-1. **Crawl + score** existing pages: traffic, impressions, similarity cluster, thinness.
-2. **Triage into four buckets:**
-   - **Keep & upgrade** — has intent value; rebuild on the new data model.
-   - **Consolidate** — merge near‑duplicate clusters into one strong canonical page; 301 the rest.
-   - **Prune** — no value, no traffic, no unique intent → **410/redirect**. Removing thin pages
-     *raises* the site‑wide average; this is a known recovery lever.
-   - **Rewrite as editorial** — salvage genuinely useful topics as human‑led content.
-3. **Migration map** with 301s so equity is preserved and no soft‑404s remain.
+1. **Off‑topic traffic‑net series** (world cup, festivals, eat, youth clubs, restaurants, nurseries,
+   town criers): **delete → `410`** (or redirect to the closest relevant hub only where one exists).
+   Do not migrate. These are pure liability.
+2. **Town‑swapped industry pages:** **retire the town variants.** Keep the *industry topic*; rebuild
+   as a smaller set of deep sector/role guides on the new system. 301 each dead town URL to its
+   sector hub.
+3. **Genuine editorial** (real buying guides): **rebuild** as deep, first‑hand editorial. Keep the URL
+   where it has any equity.
+4. **Migration map** with 301s; no soft‑404s left behind.
 
-> Expect to *delete a large share* of the current pages. That is a feature, not a loss.
+> Expect to delete the large majority of current URLs. Removing thin/off‑topic pages *raises* the
+> site's average quality — it's a recovery lever, not a loss.
 
 ---
 
-## 8. Cross‑site linking strategy (protect both domains)
+## 8. Cross‑site linking (protect both domains)
 
-- **Every outbound link to the store is a relevant citation** ("this coverall meets EN ISO 11612 —
-  view specs/buy"), not a blanket funnel CTA. Relevance is what separates a resource from a doorway.
-- **The workwear site must stand alone** — genuinely useful with zero purchases made. If it passes
-  §2 on its own merits, it is not a doorway by definition.
-- **Reasonable link density** — content first, commercial links secondary and contextual.
-- **Consistent brand association** so trust flows both ways once quality is established.
-- Follow links to your own store are fine; the protection is the *quality of the linking page*,
-  not link attributes.
+- **Every link to the store is a relevant citation** ("coveralls certified to EN ISO 11612 →
+  view specs"), never a blanket funnel CTA. Relevance is what separates a resource from a doorway.
+- **The content site must stand alone** — useful with zero purchases. If a page passes §2 on its own
+  merits, it is not a doorway by definition.
+- **Content first, commercial links secondary** (the opposite of the current World Cup pages).
+- Because the store isn't built yet, **design both around one brand system now** so they read as one
+  family when the store launches.
 
 ---
 
 ## 9. Metrics & governance
 
-- **Value density** — % of indexed pages passing §2 (target: 100%; this is the north star).
-- **Indexation ratio** — indexed / submitted per page‑type sitemap (near‑duplicate families show low ratios).
-- **Similarity distribution** — internal duplicate‑cluster report, tracked over time.
-- **Organic performance** — impressions/clicks per page family; funnel referrals to the store.
-- **Core Web Vitals + design conformance** — automated budgets.
-- **Editorial calendar** for the human‑led layer (ongoing freshness + E‑E‑A‑T).
+- **Value density** — % of indexed pages passing §2 (north star; target 100%).
+- **Indexation ratio** per page‑type sitemap (near‑duplicate families show low ratios).
+- **Internal similarity distribution** — duplicate‑cluster report over time.
+- **Organic performance** per family + funnel referrals to the store.
+- **CWV + design conformance** — automated budgets.
+- **Editorial calendar** for the human‑led layer (freshness + E‑E‑A‑T).
 
 ---
 
@@ -239,26 +307,29 @@ The old pages are actively dragging the site‑wide score. Audit and triage **ev
 
 | Phase | Outcome | Key deliverables |
 |-------|---------|------------------|
-| **0. Audit & decisions** | Know the current state; lock the stack & data sources | URL inventory + triage buckets; confirm catalogue data access; confirm SSG stack |
-| **1. Foundations** | The "one site" exists | Design system + tokens + component library; brand spec; base SSG scaffold |
-| **2. Data model** | Facts, not prose | Entity dataset; standards/spec data ingested from catalogue; §2 tagging schema |
+| **0. Decommission risk** | Stop the bleeding | Delete/`410` off‑topic series; 301 town pages to hubs; migration map |
+| **1. Foundations** | "One site" exists | Design system + tokens + component library (systematise the cleaning site); brand spec |
+| **2. Data model** | Facts, not prose | Entity dataset (reuse matrix taxonomy); standards data; DAM‑transform pipeline; §2 tagging |
 | **3. Template families** | Structural variety | 3–5 layout variants per page type; component‑assembly rules |
-| **4. QA harness** | Scale becomes safe | Similarity, thin‑content, doorway, technical‑SEO, design gates in CI |
-| **5. Pilot tranche** | Prove the model | Build 1–2 high‑value families (e.g. standards explainers + sector guides), index, monitor |
-| **6. Old‑page cleanup** | Raise site‑wide average | Execute consolidate/prune/redirect migration map |
-| **7. Scale out** | Thousands → tens of thousands, safely | Roll out remaining families in monitored tranches |
-| **8. Editorial + tools** | E‑E‑A‑T + utility moat | Flagship interactive tools; ongoing editorial calendar |
+| **4. QA harness** | Scale becomes safe | Similarity, thin, doorway, relevance, technical‑SEO, design gates in CI |
+| **5. Pilot tranche** | Prove the model | Build 1–2 high‑value families (standards explainers + sector guides), index, monitor |
+| **6. Scale out** | Thousands, safely | Roll out remaining families in monitored tranches |
+| **7. Tools + editorial** | Utility + E‑E‑A‑T moat | Flagship interactive tools; ongoing editorial |
 
 ---
 
-## 11. Open questions to confirm before Phase 1
+## 11. Open questions before Phase 1
 
-1. **Where is the current build**, and what stack was it generated in? (Determines migration effort.)
-2. **Can we access the ecommerce product catalogue as structured data?** (This is the uniqueness engine.)
-3. **Preferred stack** — is Astro/Next acceptable, or is there an existing platform to stay on?
-4. **Brand assets** — do we have the ecommerce store's palette/type/logo to mirror?
-5. **URL/domain** — same domain rebuild, or new structure with redirects?
-6. **Scale ambition & timeline** — realistic first‑tranche size and go‑live target?
+1. **Scope of the cull** — are you comfortable deleting the off‑topic series outright (my strong
+   recommendation), or do you want a page‑by‑page review first?
+2. **Stack** — Astro/Next acceptable, or an existing platform (the current pages look hand‑built/
+   cPanel‑hosted) to stay on?
+3. **Imagery** — can we commission any own photography, or is it DAM‑only at launch? (Sets how hard
+   we must work on image differentiation.)
+4. **Are the cleaning site's stats/testimonials real?** (Determines whether that pattern is safe to
+   carry into the workwear system.)
+5. **URL/domain** — rebuild on the same `iNeedWorkwear` domain with redirects, or fresh structure?
+6. **First‑tranche scope & timeline.**
 
 ---
 
@@ -266,15 +337,16 @@ The old pages are actively dragging the site‑wide score. Audit and triage **ev
 
 **Topic:** "Flame‑resistant coveralls for welders"
 
-- **Passes §2:** unique information (welding hazards: arc, spatter, radiant heat → EN ISO 11612 +
-  IEC 61482 requirements) **and** unique utility (embedded "FR standard finder" tool).
-- **Data rendered:** required standards table, fabric/GSM options from catalogue, care rules that
-  preserve FR properties, layering guidance, sizing.
-- **Structure:** hazard matrix → standards table → real product specs → care do/don't → tool → FAQ.
-  *Different DOM from a sizing page because it contains different data.*
-- **Outbound link:** contextual — "coveralls certified to EN ISO 11612 in the catalogue" (citation,
-  not funnel).
-- **Result:** genuinely useful with zero purchase; not thin; not duplicate; not a doorway.
+- **Passes §2:** unique information (welding hazards → EN ISO 11612 + IEC 61482) **and** unique
+  utility (embedded FR‑standard finder).
+- **Data rendered:** required‑standards table, fabric/GSM options (transformed from DAM, not pasted),
+  care rules that preserve FR properties, layering, sizing.
+- **Structure:** hazard matrix → standards table → spec comparison → care do/don't → tool → FAQ.
+  A different DOM from a sizing page, because it contains different data.
+- **Outbound link:** contextual — "coveralls certified to EN ISO 11612 →" (citation, not funnel).
+- **Result:** useful with zero purchase; not thin, not duplicate, not a doorway.
 
-Contrast the old build: a template that said "Looking for FR coveralls for [ROLE]? We have a great
-range…" with the role swapped — thin, duplicative, doorway. **That page type is retired.**
+**Contrast with the retired pattern:** `am-abingdon` — "Garage and Mechanic Workwear Supplier"
+with the town swapped and 7/8 headings identical to `am-aberdeen`; or `world-cup-bulgaria` — a
+football‑history essay stuffed with 31 "workwear" mentions and 11 shop links. Both fail all three
+tests. **That is the build we are replacing.**
