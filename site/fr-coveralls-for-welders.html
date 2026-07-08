@@ -266,7 +266,7 @@ table.data td b{color:var(--ink)}
 <div class="haz"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><path d="M12 2c1 3-2 4-2 7a4 4 0 108 0c0-3-3-4-2-7M9 22h6"/></svg><h3>Radiant &amp; convective heat</h3><p>Sustained heat from the arc and workpiece. Rated by how long the fabric delays heat transfer to the skin.</p><span class="std">EN ISO 11611 — RHT / heat</span></div>
 <div class="haz"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><path d="M4 6h16M6 6l2 12h8l2-12M10 10v4M14 10v4"/></svg><h3>Molten metal splash</h3><p>Heavy processes shed larger volumes of molten metal — covered by a dedicated code letter for molten iron.</p><span class="std">EN ISO 11612 — code E</span></div>
 </div>
-<div class="cite-box">Only some welders face a fourth hazard — an <strong>electric arc</strong> — when they also work on or near live equipment. That's a separate standard (IEC 61482), and the finder below tells you whether it applies. <a href="https://www.ineedworkwear.com/collections/fr-coveralls">Browse FR coveralls certified to EN ISO 11611 &rarr;</a></div>
+<div class="cite-box">Only some welders face a fourth hazard — an <strong>electric arc</strong> — when they also work on or near live equipment. That's a separate standard (IEC 61482), and the finder below tells you whether it applies. <a href="https://www.ineedworkwear.com/collections/flame-retardant">Browse FR coveralls certified to EN ISO 11611 &rarr;</a></div>
 </div></section>
 
 <!-- STANDARDS TABLE -->
@@ -349,7 +349,7 @@ table.data td b{color:var(--ink)}
 <li><span class="k">Best for</span><span class="v">Occasional / lighter use</span></li>
 </ul></div>
 </div>
-<div class="cite-box">Match the class from the finder to the fabric type here, then shop the shortlist. <a href="https://www.ineedworkwear.com/collections/fr-coveralls?std=11611-class2">See EN ISO 11611 Class 2 coveralls &rarr;</a></div>
+<div class="cite-box">Match the class from the finder to the fabric type here, then shop the shortlist. <a href="https://www.ineedworkwear.com/collections/flame-retardant?std=11611-class2">See EN ISO 11611 Class 2 coveralls &rarr;</a></div>
 </div></section>
 
 <!-- CARE -->
@@ -390,7 +390,7 @@ table.data td b{color:var(--ink)}
 <section class="cta"><div class="wrap">
 <div><h2>Kit your welders out right</h2><p>Match the standard from the finder to a certified garment — and add embroidery, sizing and trade-account ordering in the shop.</p></div>
 <div class="cta-actions">
-<a class="btn btn-white btn-lg" href="https://www.ineedworkwear.com/collections/fr-coveralls">Shop FR coveralls</a>
+<a class="btn btn-white btn-lg" href="https://www.ineedworkwear.com/collections/flame-retardant">Shop FR coveralls</a>
 <a class="btn btn-dark btn-lg" href="standards.html">Read the standards guide</a></div>
 </div></section>
 
@@ -444,7 +444,7 @@ table.data td b{color:var(--ink)}
     if(arc.checked) lines.push('<p>You flagged live-electrical work, so add <b>IEC 61482</b> arc protection (check the ATPV in cal/cm² or the APC class) — 11611 alone does not cover arc flash.</p>');
     if(atex.checked) lines.push('<p>In a flammable atmosphere, add <b>EN 1149-5</b> antistatic to avoid a static ignition source.</p>');
     var q=proc.value==='tig'&&!overhead.checked?'11611-class1':'11611-class2';
-    lines.push('<a class="cite" href="https://www.ineedworkwear.com/collections/fr-coveralls?std='+q+'">See matching coveralls &rarr;</a>');
+    lines.push('<a class="cite" href="https://www.ineedworkwear.com/collections/flame-retardant?std='+q+'">See matching coveralls &rarr;</a>');
     rbody.innerHTML=lines.join('');
   }
   [proc,overhead,arc,atex].forEach(function(el){el.addEventListener('change',render);el.addEventListener('input',render);});
