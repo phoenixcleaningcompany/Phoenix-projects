@@ -1,0 +1,15 @@
+Week,Date,Sitemap segment,Submitted URLs,Indexed,Indexed %,Crawled - not indexed,Discovered - not indexed,Duplicate (any),Impressions (28d),Clicks (28d),Avg position,site: count,Manual action?,Notes
+0,YYYY-MM-DD,ALL (baseline),3000,0,0%,0,0,0,0,0,,,No,"Baseline at launch - sitemaps submitted, no indexing requested"
+0,YYYY-MM-DD,locations,,,,,,,,,,,No,Record per-segment baseline counts
+0,YYYY-MM-DD,editorial,,,,,,,,,,,No,
+0,YYYY-MM-DD,core,,,,,,,,,,,No,
+1,YYYY-MM-DD,ALL,3000,,,,,,,,,,No,"Expect low index week 1 - trend matters, not the number"
+2,YYYY-MM-DD,ALL,3000,,,,,,,,,,No,
+3,YYYY-MM-DD,ALL,3000,,,,,,,,,,No,First impressions may appear
+4,YYYY-MM-DD,ALL,3000,,,,,,,,,,No,End Phase 1 - is indexation climbing?
+6,YYYY-MM-DD,ALL,3000,,,,,,,,,,No,
+8,YYYY-MM-DD,ALL,3000,,,,,,,,,,No,"PROVISIONAL CHECKPOINT - apply GREEN/AMBER/RED thresholds"
+8,YYYY-MM-DD,locations,,,,,,,,,,,No,Which segment indexes/ranks best?
+8,YYYY-MM-DD,editorial,,,,,,,,,,,No,
+12,YYYY-MM-DD,ALL,3000,,,,,,,,,,No,
+16,YYYY-MM-DD,ALL,3000,,,,,,,,,,No,"FINAL CONFIRMATION - durability + any core update behaviour"
