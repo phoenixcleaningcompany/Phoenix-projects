@@ -1,0 +1,9 @@
+# ============================================================
+# STAGING PROTECTION — optional belt-and-braces
+# To use: rename this file to  .htaccess  while previewing.
+# DELETE IT ENTIRELY AT LAUNCH (launch checklist item #1).
+# Primary protection should be cPanel -> Directory Privacy.
+# ============================================================
+<IfModule mod_headers.c>
+Header set X-Robots-Tag "noindex, nofollow"
+</IfModule>
