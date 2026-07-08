@@ -1,0 +1,135 @@
+Status,Family,Cluster,Page title,Slug,Links to collection(s),Notes
+LIVE,Home / navigation,—,Home,index,—,
+LIVE,Shop directory,—,Shop workwear by category,kit,all 67,Scanner fast lane
+LIVE,Section hub,—,Guides hub,guides,—,
+LIVE,Section hub,—,Standards hub,standards,—,
+LIVE,Section hub,—,Roles hub,roles,—,
+LIVE,Section hub,—,Sectors hub,sectors,—,
+LIVE,Section hub,—,Areas hub,areas,—,
+LIVE,Section hub,—,Care hub,care,—,
+LIVE,Content hub,Hi-vis,"Hi-vis workwear: classes, standards & how to choose",hi-vis-workwear-guide,hi-vis,Pillar
+LIVE,Standard explainer,Hi-vis,EN ISO 20471 explained,en-iso-20471-hi-vis-classes-explained,hi-vis,
+LIVE,Comparison,Hi-vis,Class 2 vs Class 3 hi-vis,class-2-vs-class-3-hi-vis,hi-vis,
+LIVE,Role guide + tool,FR / welding,FR coveralls for welders (standard finder),fr-coveralls-for-welders,flame-retardant | welding-workwear,Interactive
+LIVE,Care guide,FR / welding,How to wash FR coveralls,how-to-wash-fr-coveralls,flame-retardant,HowTo
+LIVE,Area guide,Local,Workwear in Aberdeen,workwear-aberdeen,offshore-clothing | flame-retardant | hi-vis,Offshore economy
+LIVE,Area guide,Local,Workwear in Corby,workwear-corby,hi-vis | footwear | coldstore,Logistics economy
+LIVE,Area guide,Local,Workwear in Harrogate,workwear-harrogate,chefswear | hospitality | scrubs,Hospitality economy
+T1,Content hub,FR / protective,Flame-resistant workwear: the complete guide,fr-workwear-guide,flame-retardant,Pillar for FR/arc/antistatic
+T1,Standard explainer,FR / protective,EN ISO 11612 explained (heat & flame codes A–F),en-iso-11612-explained,flame-retardant,
+T1,Standard explainer,FR / protective,IEC 61482 arc flash explained (ATPV & APC),iec-61482-arc-flash-explained,arc-flash,
+T1,Standard explainer,FR / protective,EN 1149-5 antistatic explained,en-1149-5-antistatic-explained,anti-static-esd,
+T1,Comparison,FR / protective,Inherent vs treated FR fabric,inherent-vs-treated-fr,flame-retardant,Standalone of welders section
+T1,Content hub,Footwear,Safety footwear: the complete guide,safety-footwear-guide,footwear,Pillar
+T1,Standard explainer,Footwear,Safety boot codes S1–S7 explained (EN ISO 20345),safety-boot-codes-explained,footwear,PROMISED on guides hub
+T1,Comparison,Footwear,Composite vs steel toe caps,composite-vs-steel-toe-caps,footwear,
+T1,Care guide,Footwear,Safety boot care,safety-boot-care,footwear,PROMISED on care hub
+T1,Content hub,Gloves,Work gloves: the complete guide,work-gloves-guide,gloves-ppe | gloves-winter,Pillar
+T1,Standard explainer + tool,Gloves,EN 388 explained + glove marking decoder,en-388-glove-decoder,gloves-ppe,Interactive
+T1,Comparison,Hi-vis,Yellow vs orange hi-vis,yellow-vs-orange-hi-vis,hi-vis | rail-spec,
+T1,Standard explainer,Hi-vis / rail,Rail spec workwear: RIS-3279-TOM explained,rail-spec-workwear-explained,rail-spec,Low competition
+T1,Care guide,Hi-vis,Caring for hi-vis (wash limits & compliance),caring-for-hi-vis,hi-vis,PROMISED on care hub
+T1,Care guide,Care,Reproofing waterproofs,reproofing-waterproofs,coats-jackets,PROMISED on care hub
+T1,Care guide,Care,Getting oil & grease out of workwear,oil-grease-out-of-workwear,coveralls | flame-retardant,PROMISED on care hub
+T1,Care guide,Care,Washing embroidered & branded workwear,washing-embroidered-workwear,polo-shirts | sweatshirts,PROMISED on care hub
+T1,Sector hub,Sectors,Construction workwear guide,construction-workwear-guide,construction | hi-vis | footwear,PROMISED on sectors hub
+T1,Sector hub,Sectors,Warehousing & logistics workwear guide,warehouse-logistics-workwear-guide,hi-vis | footwear | coldstore,PROMISED on sectors hub
+T1,Sector hub,Sectors,Manufacturing & engineering workwear guide,manufacturing-workwear-guide,coveralls | gloves-ppe | flame-retardant,PROMISED on sectors hub
+T1,Sector hub,Sectors,Healthcare & care workwear guide,healthcare-workwear-guide,healthcare | scrubs | tunics,PROMISED on sectors hub
+T1,Sector hub,Sectors,Hospitality & catering workwear guide,hospitality-workwear-guide,hospitality | chefswear | aprons,PROMISED on sectors hub
+T1,Sector hub,Sectors,Energy & offshore workwear guide,energy-offshore-workwear-guide,offshore-clothing | flame-retardant,PROMISED on sectors hub
+T1,Role guide,Roles,Kit for warehouse operatives,workwear-for-warehouse-operatives,hi-vis | footwear | coldstore,PROMISED on roles hub
+T1,Role guide,Roles,PPE for electricians (arc flash),ppe-for-electricians,arc-flash | flame-retardant,PROMISED on roles hub
+T1,Role guide,Roles,What a chef actually wears,what-chefs-wear,chefswear | aprons | footwear,PROMISED on roles hub
+T1,Role guide,Roles,Groundworker kit list,groundworker-kit-list,hi-vis | coats-jackets | footwear,PROMISED on roles hub
+T1,Role guide,Roles,Tunics & scrubs for care staff,workwear-for-care-staff,scrubs | tunics | healthcare,PROMISED on roles hub
+T1,Role guide,Roles,Workwear for mechanics,workwear-for-mechanics,coveralls | gloves-ppe | footwear,PROMISED on roles hub
+T1,Role guide,Roles,Kit for rail trackside workers,workwear-for-rail-trackside,rail-spec | hi-vis,
+T1,Role guide,Roles,Chainsaw & forestry operator kit (EN ISO 11393),chainsaw-forestry-kit,chainsaw-and-forestry | helmets,
+T1,Area guide,Local,Workwear in Sheffield,workwear-sheffield,per archetype,PROMISED on areas hub
+T1,Area guide,Local,Workwear in Grimsby,workwear-grimsby,per archetype,PROMISED on areas hub
+T1,Area guide,Local,Workwear in Crawley,workwear-crawley,per archetype,PROMISED on areas hub
+T1,Trust,—,About iNeedWorkwear,about,—,E-E-A-T before launch
+T1,Trust,—,Contact,contact,—,Phone/email already site-wide
+T2,Standard explainer,Standards,EN 343 waterproofs explained,en-343-waterproofs-explained,coats-jackets,
+T2,Standard explainer,Standards,EN 342 cold protection explained,en-342-cold-protection-explained,coldstore | thermals-base-layers,
+T2,Standard explainer,Standards,EN 397 safety helmets explained,en-397-helmets-explained,helmets,
+T2,Standard explainer,Standards,EN 149 face masks & FFP ratings explained,en-149-ffp-ratings-explained,face-masks-covers | disposable,
+T2,Standard explainer,Standards,EN 166 safety specs & eye protection explained,en-166-eye-protection-explained,ppe,PPE umbrella per Damien
+T2,Standard explainer,Standards,EN 13034 chemical splash explained,en-13034-chem-splash-explained,chem-splash,
+T2,Standard explainer,Standards,EN 511 winter gloves explained,en-511-winter-gloves-explained,gloves-winter,
+T2,Standard explainer,Standards,EN 407 heat-resistant gloves explained,en-407-heat-gloves-explained,gloves-ppe,
+T2,Standard explainer,Standards,EN ISO 20347 occupational footwear explained,en-iso-20347-explained,footwear,
+T2,Comparison,Comparisons,Hoodie vs sweatshirt for team kit,hoodie-vs-sweatshirt,hoodies | sweatshirts,
+T2,Comparison,Comparisons,Softshell vs fleece,softshell-vs-fleece,softshell-jackets | fleece-jackets,
+T2,Comparison,Comparisons,Coverall vs bib & brace,coverall-vs-bib-and-brace,coveralls | bib-brace-overalls,
+T2,Comparison,Comparisons,Embroidery vs print for branded workwear,embroidery-vs-print,polo-shirts,
+T2,Comparison,Comparisons,Disposable vs reusable PPE,disposable-vs-reusable-ppe,disposable | consumables,Consumables clarified
+T2,Comparison,Comparisons,Tunic vs scrubs,tunic-vs-scrubs,tunics | scrubs,
+T2,Buying guide,Buying guides,Choosing polos for a team uniform,choosing-team-polos,polo-shirts,
+T2,Buying guide,Buying guides,"Work trousers guide (cargo, holster, stretch)",work-trousers-guide,trousers,
+T2,Buying guide,Buying guides,Thermals & base layers guide,base-layers-guide,thermals-base-layers,
+T2,Buying guide,Buying guides,Sustainable workwear guide,sustainable-workwear-guide,sustainable,Category differentiator
+T2,Buying guide,Buying guides,Maternity workwear guide,maternity-workwear-guide,maternity,Under-served niche
+T2,Buying guide,Buying guides,Disposable PPE buying guide,disposable-ppe-guide,disposable | consumables,
+T2,Buying guide,Buying guides,Best safety boots for concrete floors,best-safety-boots-concrete-floors,footwear,Rebuild of old guide
+T2,Sector hub,Sectors,Rail workwear guide,rail-workwear-guide,rail-spec,
+T2,Sector hub,Sectors,Forestry & arb workwear guide,forestry-workwear-guide,chainsaw-and-forestry,
+T2,Sector hub,Sectors,Cleaning & FM workwear guide,cleaning-fm-workwear-guide,cleaning | tabards,
+T2,Sector hub,Sectors,Security uniform guide,security-uniform-guide,security,
+T2,Sector hub,Sectors,Schoolwear guide,schoolwear-guide,schoolwear,
+T2,Sector hub,Sectors,Sports & teamwear guide,sports-teamwear-guide,sports-teamwear,
+T2,Sector hub,Sectors,Painter & decorator workwear guide,painter-decorator-workwear-guide,painter-decorator-clothing,
+T2,Sector hub,Sectors,Food processing workwear guide,food-processing-workwear-guide,disposable | coldstore,
+T2,Role guide,Roles,Workwear for plumbers,workwear-for-plumber,per role,
+T2,Role guide,Roles,Workwear for carpenters,workwear-for-carpenter,per role,
+T2,Role guide,Roles,Workwear for bricklayers,workwear-for-bricklayer,per role,
+T2,Role guide,Roles,Workwear for roofers,workwear-for-roofer,per role,
+T2,Role guide,Roles,Workwear for painter decorators,workwear-for-painter-decorator,per role,
+T2,Role guide,Roles,Workwear for security guards,workwear-for-security-guard,per role,
+T2,Role guide,Roles,Workwear for cleaners,workwear-for-cleaner,per role,
+T2,Role guide,Roles,Workwear for delivery drivers,workwear-for-delivery-driver,per role,
+T2,Role guide,Roles,Workwear for forklift drivers,workwear-for-forklift-driver,per role,
+T2,Role guide,Roles,Workwear for landscapers,workwear-for-landscaper,per role,
+T2,Role guide,Roles,Workwear for kitchen porters,workwear-for-kitchen-porter,per role,
+T2,Role guide,Roles,Workwear for nurse hcas,workwear-for-nurse-hca,per role,
+T2,Interactive tool,Tools,Hi-vis class selector,hi-vis-class-selector,hi-vis,
+T2,Interactive tool,Tools,Boot S-code finder,boot-code-finder,footwear,
+T2,Interactive tool,Tools,Embroidery cost estimator,embroidery-cost-estimator,polo-shirts,
+T2,Interactive tool,Tools,PPE kit checklist builder,ppe-checklist-builder,ppe,
+T2,Employer / compliance,Compliance,PPE at Work Regulations 2022 explained,ppe-regulations-2022-explained,ppe,
+T2,Employer / compliance,Compliance,Who pays for workwear & PPE?,who-pays-for-ppe,—,
+T2,Employer / compliance,Compliance,Uniform tax relief explained,uniform-tax-relief,—,
+T2,Care guide,Care,Washing chef whites,washing-chef-whites,chefswear | scrubs,
+T2,Care guide,Care,Laundering scrubs for infection control,laundering-scrubs,chefswear | scrubs,
+T2,Area guide,Local,Workwear in Sunderland,workwear-sunderland,per archetype,H-confidence town
+T2,Area guide,Local,Workwear in Middlesbrough,workwear-middlesbrough,per archetype,H-confidence town
+T2,Area guide,Local,Workwear in Hull,workwear-hull,per archetype,H-confidence town
+T2,Area guide,Local,Workwear in Doncaster,workwear-doncaster,per archetype,H-confidence town
+T2,Area guide,Local,Workwear in Rotherham,workwear-rotherham,per archetype,H-confidence town
+T2,Area guide,Local,Workwear in Scunthorpe,workwear-scunthorpe,per archetype,H-confidence town
+T2,Area guide,Local,Workwear in Immingham,workwear-immingham,per archetype,H-confidence town
+T2,Area guide,Local,Workwear in Telford,workwear-telford,per archetype,H-confidence town
+T2,Area guide,Local,Workwear in Coventry,workwear-coventry,per archetype,H-confidence town
+T2,Area guide,Local,Workwear in Solihull,workwear-solihull,per archetype,H-confidence town
+T2,Area guide,Local,Workwear in Derby,workwear-derby,per archetype,H-confidence town
+T2,Area guide,Local,Workwear in Leicester,workwear-leicester,per archetype,H-confidence town
+T2,Area guide,Local,Workwear in Northampton,workwear-northampton,per archetype,H-confidence town
+T2,Area guide,Local,Workwear in Daventry,workwear-daventry,per archetype,H-confidence town
+T2,Area guide,Local,Workwear in Milton Keynes,workwear-milton-keynes,per archetype,H-confidence town
+T2,Area guide,Local,Workwear in Peterborough,workwear-peterborough,per archetype,H-confidence town
+T2,Area guide,Local,Workwear in Warrington,workwear-warrington,per archetype,H-confidence town
+T2,Area guide,Local,Workwear in Ellesmere Port,workwear-ellesmere-port,per archetype,H-confidence town
+T2,Area guide,Local,Workwear in Runcorn,workwear-runcorn,per archetype,H-confidence town
+T2,Area guide,Local,Workwear in Crewe,workwear-crewe,per archetype,H-confidence town
+T2,Area guide,Local,Workwear in Felixstowe,workwear-felixstowe,per archetype,H-confidence town
+T2,Area guide,Local,Workwear in Southampton,workwear-southampton,per archetype,H-confidence town
+T2,Area guide,Local,Workwear in Portsmouth,workwear-portsmouth,per archetype,H-confidence town
+T2,Area guide,Local,Workwear in Swindon,workwear-swindon,per archetype,H-confidence town
+T2,Area guide,Local,Workwear in Port Talbot,workwear-port-talbot,per archetype,H-confidence town
+T3,Standard explainers,Standards,"Remaining standards (~20 more incl. EN 352, EN 14404, EN 12477...)",—,various,Enumerated in page-architecture.csv
+T3,Role guides,Roles,Remaining roles (~150 from entity list),—,per role,
+T3,Area guides,Local,"Remaining towns (~200–450, M/L verified vs ONS first)",—,per archetype,Gated by canary + verification
+T3,Buying guides,Buying guides,Remaining category guides (~50 across the 67 categories),—,various,
+T3,Glossary,Glossary,Term/fabric/standard definitions (~220),—,contextual,
+ONGOING,Editorial,Editorial,Seasonal & news-led guides (~150/yr),—,various,E-E-A-T layer
