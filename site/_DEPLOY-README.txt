@@ -18,10 +18,24 @@ LAUNCH CHECKLIST (per plan section 6.4):
 
 CURRENT SHOP LINK TARGETS (create these on Shopify, or tell Claude the
 real handles and we re-point the links):
-  https://www.ineedworkwear.com/collections/hi-vis
-  https://www.ineedworkwear.com/collections/fr-coveralls
-  https://www.ineedworkwear.com/collections/offshore-coveralls
-  https://www.ineedworkwear.com/collections/cold-store-thermal
-  https://www.ineedworkwear.com/collections/hospitality
+  https://www.ineedworkwear.com/collections/aprons
   https://www.ineedworkwear.com/collections/chef-whites
+  https://www.ineedworkwear.com/collections/cold-store-thermal
+  https://www.ineedworkwear.com/collections/coveralls
+  https://www.ineedworkwear.com/collections/fleeces
+  https://www.ineedworkwear.com/collections/fr-coveralls
+  https://www.ineedworkwear.com/collections/healthcare-scrubs
+  https://www.ineedworkwear.com/collections/hi-vis
+  https://www.ineedworkwear.com/collections/hoodies
+  https://www.ineedworkwear.com/collections/hospitality
+  https://www.ineedworkwear.com/collections/jackets
+  https://www.ineedworkwear.com/collections/offshore-coveralls
+  https://www.ineedworkwear.com/collections/polo-shirts
+  https://www.ineedworkwear.com/collections/safety-footwear
+  https://www.ineedworkwear.com/collections/shorts
+  https://www.ineedworkwear.com/collections/softshells
+  https://www.ineedworkwear.com/collections/t-shirts
+  https://www.ineedworkwear.com/collections/waterproofs
+  https://www.ineedworkwear.com/collections/work-gloves
+  https://www.ineedworkwear.com/collections/work-trousers
   https://www.ineedworkwear.com/pages/trade-accounts
