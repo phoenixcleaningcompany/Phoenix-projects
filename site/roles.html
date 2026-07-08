@@ -30,7 +30,9 @@ h1,h2,h3{font-family:var(--disp);color:var(--ink);text-transform:uppercase;line-
 .nav .shop{border:1px solid rgba(255,255,255,.28);padding:.42rem .85rem;border-radius:var(--r)}@media(max-width:860px){.nav a:not(.shop){display:none}}
 .hero{background:var(--navy);color:#D5DAE2;position:relative;overflow:hidden}
 .hero:before{content:"";position:absolute;inset:0;background:radial-gradient(58% 90% at 84% 18%,rgba(228,87,31,.15),transparent 60%);pointer-events:none}
-.hero-in{max-width:var(--maxw);margin:0 auto;padding:52px 24px 46px;position:relative;z-index:2}
+.hero-in{max-width:var(--maxw);margin:0 auto;padding:52px 24px 46px;position:relative;z-index:2;display:grid;grid-template-columns:1.12fr .88fr;gap:46px;align-items:center}
+@media(max-width:840px){.hero-in{grid-template-columns:1fr;padding:40px 24px 38px}.hero-art{max-width:400px;margin:0 auto}}
+.hero-art svg{width:100%;height:auto;filter:drop-shadow(0 18px 40px rgba(0,0,0,.35))}
 .crumbs{font-family:var(--mono);font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;color:var(--mute);margin-bottom:1rem}.crumbs a{color:var(--orange)}
 .eyebrow{font-family:var(--mono);font-size:.72rem;letter-spacing:.2em;text-transform:uppercase;color:var(--orange);margin-bottom:1rem}
 .hero h1{font-size:clamp(2.2rem,4.8vw,3.4rem);color:#fff;margin-bottom:.9rem;max-width:20ch}
@@ -44,7 +46,7 @@ h1,h2,h3{font-family:var(--disp);color:var(--ink);text-transform:uppercase;line-
 .card{display:block;background:#fff;border:1px solid var(--line);border-top:3px solid var(--orange);border-radius:var(--r);padding:22px;transition:.15s}
 a.card:hover{transform:translateY(-2px);box-shadow:0 14px 30px -20px rgba(21,27,38,.4);border-color:var(--orange)}
 .card .t{font-family:var(--mono);font-size:.66rem;letter-spacing:.12em;text-transform:uppercase;color:var(--mute);margin-bottom:.45rem}
-.card h3{font-size:1.25rem;margin-bottom:.35rem;text-transform:none;font-family:var(--disp);text-transform:uppercase}
+.card h3{font-size:1.25rem;margin-bottom:.35rem;font-family:var(--disp);text-transform:uppercase}
 .card p{font-size:.9rem;color:var(--slate);margin-bottom:.6rem}
 .card .go{font-family:var(--mono);font-size:.78rem;color:var(--orange-d);font-weight:500}
 .card.soon{border-top-color:var(--line);opacity:.75}
@@ -65,10 +67,34 @@ a.card:hover{transform:translateY(-2px);box-shadow:0 14px 30px -20px rgba(21,27,
 <a class="brand" href="index.html"><svg class="mk" viewBox="0 0 32 32" fill="none" aria-hidden="true"><rect x="3" y="11" width="26" height="18" rx="2" stroke="#E4571F" stroke-width="2"/><path d="M11 11 V7 a5 5 0 0 1 10 0 v4" stroke="#C6D92E" stroke-width="2"/><path d="M13 18 h6 M16 18 v7" stroke="#E4571F" stroke-width="2"/></svg>iNeed<span>Workwear</span></a>
 <nav class="nav"><a href="sectors.html">Sectors</a><a href="roles.html">Roles</a><a href="standards.html">Standards</a><a href="areas.html">Areas</a><a href="guides.html">Guides</a><a href="kit.html">Kit</a><a class="shop mono" href="https://www.ineedworkwear.com">Shop &rarr;</a></nav></div></header>
 <section class="hero"><div class="hero-in">
+<div>
 <div class="crumbs"><a href="index.html">Home</a> / Roles</div>
 <p class="eyebrow">Kit by trade</p>
 <h1>Workwear by role.</h1>
 <p class="lede">The job decides the kit — spatter and radiant heat for a welder, forklifts and freezer aisles for a warehouse operative. These guides map each role’s real hazards to the garments and standards that answer them.</p>
+</div>
+<div class="hero-art"><svg viewBox="0 0 460 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Worker figure with kit mapped to standards: helmet EN 397, hi-vis EN ISO 20471, gloves EN 388, boots EN ISO 20345">
+<defs><linearGradient id="pg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1a2332"/><stop offset="1" stop-color="#121a26"/></linearGradient></defs>
+<rect width="460" height="420" rx="8" fill="url(#pg)" stroke="#26344a" stroke-width="1"/><text x="26" y="38" font-family="'IBM Plex Mono',monospace" font-size="11" letter-spacing="3" fill="#C6D92E">DRESSED FOR THE JOB</text>
+<!-- figure -->
+<circle cx="230" cy="108" r="24" fill="#1f2a3a" stroke="#4a5a72" stroke-width="2"/>
+<path d="M202 104 a28 16 0 0 1 56 0" fill="#E4571F" stroke="#E4571F"/>
+<rect x="196" y="140" width="68" height="104" rx="10" fill="#E4571F" opacity=".92"/>
+<g stroke="#F4F5F7" stroke-width="7" opacity=".9"><line x1="196" y1="172" x2="264" y2="172"/><line x1="196" y1="206" x2="264" y2="206"/></g>
+<line x1="196" y1="150" x2="164" y2="212" stroke="#1f2a3a" stroke-width="12" stroke-linecap="round"/>
+<line x1="264" y1="150" x2="296" y2="212" stroke="#1f2a3a" stroke-width="12" stroke-linecap="round"/>
+<circle cx="160" cy="220" r="9" fill="#C6D92E"/><circle cx="300" cy="220" r="9" fill="#C6D92E"/>
+<rect x="204" y="244" width="22" height="76" fill="#233042"/><rect x="234" y="244" width="22" height="76" fill="#233042"/>
+<path d="M198 320 h30 v16 h-38 z" fill="#33425c"/><path d="M232 320 h30 v16 h38 z" transform="scale(-1,1) translate(-524,0)" fill="#33425c"/>
+<!-- callouts -->
+<g font-family="'IBM Plex Mono',monospace" font-size="10" fill="#E7EBF1">
+<circle cx="252" cy="96" r="4" fill="#C6D92E"/><line x1="256" y1="96" x2="330" y2="80" stroke="#4a5a72" stroke-width="1.5"/><text x="334" y="84">EN 397</text><text x="334" y="97" fill="#8A94A3" font-size="8">HELMET</text>
+<circle cx="196" cy="188" r="4" fill="#C6D92E"/><line x1="192" y1="188" x2="112" y2="170" stroke="#4a5a72" stroke-width="1.5"/><text x="38" y="162">EN ISO 20471</text><text x="38" y="175" fill="#8A94A3" font-size="8">HI-VIS CLASS 2/3</text>
+<circle cx="300" cy="220" r="4" fill="#E4571F"/><line x1="306" y1="220" x2="352" y2="232" stroke="#4a5a72" stroke-width="1.5"/><text x="356" y="236">EN 388</text><text x="356" y="249" fill="#8A94A3" font-size="8">GLOVES</text>
+<circle cx="214" cy="330" r="4" fill="#C6D92E"/><line x1="208" y1="330" x2="140" y2="340" stroke="#4a5a72" stroke-width="1.5"/><text x="44" y="336">EN ISO 20345</text><text x="44" y="349" fill="#8A94A3" font-size="8">S3 BOOTS</text>
+</g>
+<text x="26" y="398" font-family="'IBM Plex Mono',monospace" font-size="10" letter-spacing="2" fill="#5C6675">EVERY ROLE MAPS HAZARDS → GARMENTS → STANDARDS</text>
+</svg></div>
 </div></section>
 <section class="section"><div class="wrap">
 <p class="klabel">By role</p>
@@ -89,5 +115,5 @@ a.card:hover{transform:translateY(-2px);box-shadow:0 14px 30px -20px rgba(21,27,
 <div><div class="fb">iNeed<span>Workwear</span></div><p style="max-width:40ch;font-size:.92rem">Independent workwear guidance by sector, role, standard and area — matched to certified kit. Buy through <a href="https://www.ineedworkwear.com" style="color:#D5DAE2">ineedworkwear.com</a>.</p><p class="mono" style="margin-top:1rem;font-size:.85rem"><a href="tel:01597730142" style="color:#fff">01597 730142</a> &middot; <a href="mailto:hello@ineedworkwear.com" style="color:#C6D92E">hello@ineedworkwear.com</a></p></div>
 <div><h5>Explore</h5><ul><li><a href="sectors.html">By sector</a></li><li><a href="roles.html">By role</a></li><li><a href="standards.html">By standard</a></li><li><a href="areas.html">By area</a></li><li><a href="care.html">Care &amp; maintenance</a></li><li><a href="guides.html">All guides</a></li></ul></div>
 <div><h5>Popular guides</h5><ul><li><a href="hi-vis-workwear-guide.html">Hi-vis hub</a></li><li><a href="en-iso-20471-hi-vis-classes-explained.html">EN ISO 20471 explained</a></li><li><a href="class-2-vs-class-3-hi-vis.html">Class 2 vs Class 3</a></li><li><a href="fr-coveralls-for-welders.html">FR coveralls for welders</a></li><li><a href="how-to-wash-fr-coveralls.html">Washing FR coveralls</a></li></ul></div>
-</div><div class="legal"><span>&copy; 2026 iNeedWorkwear</span><span>Guidance: ineedworkwear.uk · Shop: ineedworkwear.com</span></div></div></footer>
+</div><div class="legal"><span>&copy; 2026 iNeedWorkwear</span><span>Guidance: ineedworkwear.uk &middot; Shop: ineedworkwear.com</span></div></div></footer>
 </body></html>

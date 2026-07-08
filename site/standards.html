@@ -30,7 +30,9 @@ h1,h2,h3{font-family:var(--disp);color:var(--ink);text-transform:uppercase;line-
 .nav .shop{border:1px solid rgba(255,255,255,.28);padding:.42rem .85rem;border-radius:var(--r)}@media(max-width:860px){.nav a:not(.shop){display:none}}
 .hero{background:var(--navy);color:#D5DAE2;position:relative;overflow:hidden}
 .hero:before{content:"";position:absolute;inset:0;background:radial-gradient(58% 90% at 84% 18%,rgba(228,87,31,.15),transparent 60%);pointer-events:none}
-.hero-in{max-width:var(--maxw);margin:0 auto;padding:52px 24px 46px;position:relative;z-index:2}
+.hero-in{max-width:var(--maxw);margin:0 auto;padding:52px 24px 46px;position:relative;z-index:2;display:grid;grid-template-columns:1.12fr .88fr;gap:46px;align-items:center}
+@media(max-width:840px){.hero-in{grid-template-columns:1fr;padding:40px 24px 38px}.hero-art{max-width:400px;margin:0 auto}}
+.hero-art svg{width:100%;height:auto;filter:drop-shadow(0 18px 40px rgba(0,0,0,.35))}
 .crumbs{font-family:var(--mono);font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;color:var(--mute);margin-bottom:1rem}.crumbs a{color:var(--orange)}
 .eyebrow{font-family:var(--mono);font-size:.72rem;letter-spacing:.2em;text-transform:uppercase;color:var(--orange);margin-bottom:1rem}
 .hero h1{font-size:clamp(2.2rem,4.8vw,3.4rem);color:#fff;margin-bottom:.9rem;max-width:20ch}
@@ -44,7 +46,7 @@ h1,h2,h3{font-family:var(--disp);color:var(--ink);text-transform:uppercase;line-
 .card{display:block;background:#fff;border:1px solid var(--line);border-top:3px solid var(--orange);border-radius:var(--r);padding:22px;transition:.15s}
 a.card:hover{transform:translateY(-2px);box-shadow:0 14px 30px -20px rgba(21,27,38,.4);border-color:var(--orange)}
 .card .t{font-family:var(--mono);font-size:.66rem;letter-spacing:.12em;text-transform:uppercase;color:var(--mute);margin-bottom:.45rem}
-.card h3{font-size:1.25rem;margin-bottom:.35rem;text-transform:none;font-family:var(--disp);text-transform:uppercase}
+.card h3{font-size:1.25rem;margin-bottom:.35rem;font-family:var(--disp);text-transform:uppercase}
 .card p{font-size:.9rem;color:var(--slate);margin-bottom:.6rem}
 .card .go{font-family:var(--mono);font-size:.78rem;color:var(--orange-d);font-weight:500}
 .card.soon{border-top-color:var(--line);opacity:.75}
@@ -65,10 +67,37 @@ a.card:hover{transform:translateY(-2px);box-shadow:0 14px 30px -20px rgba(21,27,
 <a class="brand" href="index.html"><svg class="mk" viewBox="0 0 32 32" fill="none" aria-hidden="true"><rect x="3" y="11" width="26" height="18" rx="2" stroke="#E4571F" stroke-width="2"/><path d="M11 11 V7 a5 5 0 0 1 10 0 v4" stroke="#C6D92E" stroke-width="2"/><path d="M13 18 h6 M16 18 v7" stroke="#E4571F" stroke-width="2"/></svg>iNeed<span>Workwear</span></a>
 <nav class="nav"><a href="sectors.html">Sectors</a><a href="roles.html">Roles</a><a href="standards.html">Standards</a><a href="areas.html">Areas</a><a href="guides.html">Guides</a><a href="kit.html">Kit</a><a class="shop mono" href="https://www.ineedworkwear.com">Shop &rarr;</a></nav></div></header>
 <section class="hero"><div class="hero-in">
+<div>
 <div class="crumbs"><a href="index.html">Home</a> / Standards</div>
 <p class="eyebrow">Standards decoded</p>
 <h1>Workwear standards, in plain English.</h1>
 <p class="lede">Every certified garment carries codes — EN ISO 20471, 11611, 20345. Each one is a promise about what the garment can withstand. These guides decode them, class by class.</p>
+</div>
+<div class="hero-art"><svg viewBox="0 0 460 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="A garment swing tag magnified, listing EN standards with class boxes and a UKCA mark">
+<defs><linearGradient id="pg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1a2332"/><stop offset="1" stop-color="#121a26"/></linearGradient></defs>
+<rect width="460" height="420" rx="8" fill="url(#pg)" stroke="#26344a" stroke-width="1"/><text x="26" y="38" font-family="'IBM Plex Mono',monospace" font-size="11" letter-spacing="3" fill="#C6D92E">ON THE LABEL</text>
+<!-- swing tag -->
+<g transform="rotate(-4 230 220)">
+<rect x="120" y="90" width="220" height="260" rx="10" fill="#F4F5F7" stroke="#4a5a72" stroke-width="2"/>
+<circle cx="230" cy="116" r="9" fill="#121a26" stroke="#4a5a72" stroke-width="2"/>
+<path d="M230 108 q40 -44 92 -30" fill="none" stroke="#8A94A3" stroke-width="2" stroke-dasharray="4 4"/>
+<text x="140" y="156" font-family="'Barlow Condensed',sans-serif" font-size="20" font-weight="700" fill="#151B26">CERTIFIED TO:</text>
+<g font-family="'IBM Plex Mono',monospace" font-size="12" fill="#151B26">
+<text x="140" y="186">EN ISO 20471</text>
+<g stroke="#8A94A3" fill="none"><rect x="272" y="174" width="14" height="14"/><rect x="290" y="174" width="14" height="14"/><rect x="308" y="174" width="14" height="14"/></g>
+<rect x="272" y="174" width="14" height="14" fill="#E4571F"/><rect x="290" y="174" width="14" height="14" fill="#E4571F"/>
+<text x="140" y="218">EN ISO 11612</text><text x="272" y="218" fill="#C0430F">A1 B1 C1</text>
+<text x="140" y="250">EN 343</text><text x="272" y="250" fill="#C0430F">4 : 1</text>
+<text x="140" y="282">MAX WASH</text><text x="272" y="282" fill="#C0430F">50 CYCLES</text>
+</g>
+<rect x="140" y="300" width="58" height="32" fill="none" stroke="#151B26" stroke-width="2"/>
+<text x="148" y="322" font-family="'Barlow Condensed',sans-serif" font-size="18" font-weight="700" fill="#151B26">UKCA</text>
+</g>
+<!-- magnifier -->
+<circle cx="330" cy="292" r="52" fill="none" stroke="#E4571F" stroke-width="5"/>
+<line x1="368" y1="330" x2="404" y2="366" stroke="#E4571F" stroke-width="9" stroke-linecap="round"/>
+<text x="26" y="398" font-family="'IBM Plex Mono',monospace" font-size="10" letter-spacing="2" fill="#5C6675">EVERY CODE IS A PROMISE — WE DECODE THEM ALL</text>
+</svg></div>
 </div></section>
 <section class="section"><div class="wrap">
 <p class="klabel">By standard</p>
@@ -89,5 +118,5 @@ a.card:hover{transform:translateY(-2px);box-shadow:0 14px 30px -20px rgba(21,27,
 <div><div class="fb">iNeed<span>Workwear</span></div><p style="max-width:40ch;font-size:.92rem">Independent workwear guidance by sector, role, standard and area — matched to certified kit. Buy through <a href="https://www.ineedworkwear.com" style="color:#D5DAE2">ineedworkwear.com</a>.</p><p class="mono" style="margin-top:1rem;font-size:.85rem"><a href="tel:01597730142" style="color:#fff">01597 730142</a> &middot; <a href="mailto:hello@ineedworkwear.com" style="color:#C6D92E">hello@ineedworkwear.com</a></p></div>
 <div><h5>Explore</h5><ul><li><a href="sectors.html">By sector</a></li><li><a href="roles.html">By role</a></li><li><a href="standards.html">By standard</a></li><li><a href="areas.html">By area</a></li><li><a href="care.html">Care &amp; maintenance</a></li><li><a href="guides.html">All guides</a></li></ul></div>
 <div><h5>Popular guides</h5><ul><li><a href="hi-vis-workwear-guide.html">Hi-vis hub</a></li><li><a href="en-iso-20471-hi-vis-classes-explained.html">EN ISO 20471 explained</a></li><li><a href="class-2-vs-class-3-hi-vis.html">Class 2 vs Class 3</a></li><li><a href="fr-coveralls-for-welders.html">FR coveralls for welders</a></li><li><a href="how-to-wash-fr-coveralls.html">Washing FR coveralls</a></li></ul></div>
-</div><div class="legal"><span>&copy; 2026 iNeedWorkwear</span><span>Guidance: ineedworkwear.uk · Shop: ineedworkwear.com</span></div></div></footer>
+</div><div class="legal"><span>&copy; 2026 iNeedWorkwear</span><span>Guidance: ineedworkwear.uk &middot; Shop: ineedworkwear.com</span></div></div></footer>
 </body></html>
