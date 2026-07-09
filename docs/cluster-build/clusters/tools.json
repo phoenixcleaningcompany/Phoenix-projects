@@ -87,6 +87,47 @@
         {"q":"What if my site just says 'S3 boots required'?","a":"Then S3 it is — site rules override risk-based logic, and many principal contractors mandate S3 with ankle support as a blanket policy. The tool is most useful where nobody has specified anything and someone has to decide."},
         {"q":"Are safety trainers a code of their own?","a":"No — a safety trainer is a style, not a rating. An S1P trainer carries exactly the same certified toe cap and midsole as an S1P boot. What you give up is ankle coverage and weather resistance, which is why trainers suit the dry-indoor answers."}
       ]
+    },
+    {
+      "slug": "ppe-checklist-builder",
+      "role": "spoke",
+      "spokeType": "Interactive tool",
+      "navLabel": "PPE checklist builder",
+      "cardTitle": "PPE kit checklist builder",
+      "cardBlurb": "Tick the hazards a job actually has — get a head-to-toe kit checklist with the standard behind every item.",
+      "crumbTail": "Tools",
+      "kicker": "Interactive tool · PPE checklist",
+      "h1": "Build a PPE checklist from the hazards.",
+      "metaTitle": "PPE Kit Checklist Builder | iNeedWorkwear",
+      "metaDesc": "Tick the hazards a job involves — vehicles, wet, cold, dust, chemicals, noise, kneeling, hygiene — and get a head-to-toe kit checklist naming the standard behind each item.",
+      "lede": "Kit lists usually start from a job title and argue from there. This tool starts where risk assessments start — the hazards — and assembles the head-to-toe list, with the standard named next to every item so nothing is on the list by vibes.",
+      "heroMeta": [ {"n":"9 hazards","l":"Tick what applies"}, {"n":"Standards named","l":"Every item earns its place"}, {"n":"Not an RA","l":"Your risk assessment governs"} ],
+      "schema": { "type": "Article" },
+      "blocks": [
+        { "type":"prose", "variant":"alt", "klabel":"The tool", "h2":"Tick the hazards",
+          "html":"<div style=\"background:#fff;border:1.5px solid var(--line);border-left:4px solid var(--orange);border-radius:6px;padding:24px;max-width:680px\"><form id=\"pcq\" style=\"display:grid;grid-template-columns:1fr 1fr;gap:10px\"><label><input type=\"checkbox\" name=\"hz\" value=\"veh\"> Vehicles or plant moving</label><label><input type=\"checkbox\" name=\"hz\" value=\"impact\"> Heavy items that can drop</label><label><input type=\"checkbox\" name=\"hz\" value=\"wet\"> Outdoor weather / wet work</label><label><input type=\"checkbox\" name=\"hz\" value=\"cold\"> Cold store or winter static work</label><label><input type=\"checkbox\" name=\"hz\" value=\"dust\"> Dust from cutting or sanding</label><label><input type=\"checkbox\" name=\"hz\" value=\"chem\"> Cleaning or process chemicals</label><label><input type=\"checkbox\" name=\"hz\" value=\"noise\"> Loud tools or plant</label><label><input type=\"checkbox\" name=\"hz\" value=\"knee\"> Kneeling work</label><label><input type=\"checkbox\" name=\"hz\" value=\"hyg\"> Food or hygiene zone</label></form><div id=\"pcout\" style=\"margin-top:16px;border-top:1px solid var(--line);padding-top:16px;font-size:.95rem;color:var(--slate)\"><em>Tick at least one hazard…</em></div></div><script>(function(){var f=document.getElementById('pcq');var out=document.getElementById('pcout');var M={veh:['Hi-vis to EN ISO 20471 — class via the <a href=\"hi-vis-class-selector.html\">class selector</a>'],impact:['Safety footwear with 200 J toe cap — code via the <a href=\"boot-code-finder.html\">S-code finder</a>','Hard hat to <a href=\"en-397-helmets-explained.html\">EN 397</a> where drops come from height'],wet:['Waterproof jacket to <a href=\"en-343-waterproofs-explained.html\">EN 343</a> — both class numbers healthy','Wicking <a href=\"base-layers-guide.html\">base layer</a> — never cotton next to skin'],cold:['Cold kit to <a href=\"en-342-cold-protection-explained.html\">EN 342</a> below −5 °C; EN 14058 for chill','Winter gloves rated under <a href=\"en-511-winter-gloves-explained.html\">EN 511</a> — water digit first outdoors'],dust:['FFP mask graded to the dust — <a href=\"en-149-ffp-ratings-explained.html\">EN 149</a>; FFP3 for silica','Sealed eye protection — <a href=\"en-166-eye-protection-explained.html\">EN 166</a> fields 4/5 for fine dust'],chem:['Chemical gloves to EN ISO 374 — chosen from the substance\\u2019s safety data sheet','Splash protection — <a href=\"en-13034-chem-splash-explained.html\">EN 13034 Type 6</a> for incidental splash only','Eye protection with liquid field 3 — <a href=\"en-166-eye-protection-explained.html\">EN 166</a>'],noise:['Hearing protection — defenders or plugs per the noise assessment'],knee:['Trousers with <a href=\"work-trousers-guide.html\">EN 14404 knee-pad pockets</a> — pads fitted, spares ordered'],hyg:['Washable slip-rated footwear — <a href=\"en-iso-20347-explained.html\">O2/S2 by handling risk</a>','Hairnets, aprons and gloves per the hygiene policy — <a href=\"disposable-ppe-guide.html\">the disposables guide</a>']};var base=['Gloves matched to the handling — <a href=\"en-388-glove-ratings-decoder.html\">EN 388 decoder</a>'];function go(){var c=f.querySelectorAll('input:checked');if(!c.length){out.innerHTML='<em>Tick at least one hazard…</em>';return}var items=[];c.forEach(function(b){(M[b.value]||[]).forEach(function(i){if(items.indexOf(i)<0)items.push(i)})});base.forEach(function(i){if(items.indexOf(i)<0)items.push(i)});out.innerHTML='<div style=\"font-family:var(--disp);font-size:1.3rem;color:#151B26;text-transform:uppercase\">The checklist</div><ul style=\"margin:.6rem 0 0 1.1rem\">'+items.map(function(i){return '<li style=\"margin-bottom:.45rem\">'+i+'</li>'}).join('')+'</ul><p style=\"margin-top:10px;font-size:.8rem\"><em>A starting checklist, not a risk assessment — your assessment and site rules govern, and PPE is the last control after safer ways of working.</em></p>'}f.addEventListener('change',go)})();</script><p style=\"margin-top:14px;font-size:.85rem\"><em>No JavaScript? Every mapping the tool knows is in the table below.</em></p>" },
+        { "type":"table", "klabel":"The logic on paper", "h2":"Hazard → kit, as a table",
+          "head":["Hazard ticked","Adds to the list","The standard"],
+          "rows":[
+            ["Vehicles or plant","Hi-vis, class by environment","<span class='code'>EN ISO 20471</span>"],
+            ["Dropped-object risk","Toe-cap footwear; hard hat if from height","<span class='code'>EN ISO 20345 · EN 397</span>"],
+            ["Weather / wet work","Rated waterproof + wicking base layer","<span class='code'>EN 343</span>"],
+            ["Cold","Rated cold kit and winter gloves","<span class='code'>EN 342 · EN 511</span>"],
+            ["Cutting dust","Graded FFP mask + sealed eyewear","<span class='code'>EN 149 · EN 166</span>"],
+            ["Chemicals","SDS-matched gloves, splash kit, sealed eyewear","<span class='code'>EN ISO 374 · EN 13034 · EN 166</span>"],
+            ["Noise","Hearing protection per assessment","Noise regs"],
+            ["Kneeling","Knee-pad trousers with pads","<span class='code'>EN 14404</span>"],
+            ["Hygiene zone","Washable slip-rated footwear, disposables","<span class='code'>EN ISO 20347</span>"]
+          ] },
+        { "type":"citebox", "html":"Every item links to its explainer — and the employer-side duties behind the list live in <a href='ppe-regulations-2022-explained.html'>the PPE regulations guide</a>." },
+        { "type":"clusternav" },
+        { "type":"faq", "klabel":"Questions", "h2":"Checklist FAQ" }
+      ],
+      "faq":[
+        {"q":"Is this checklist a risk assessment?","a":"No — it's the kit consequence of hazards you already know about, with the right standard named per item. The risk assessment itself identifies and prioritises hazards, considers controls before PPE, and governs what's actually required."},
+        {"q":"Why does every item name a standard?","a":"Because 'gloves' isn't a specification — EN 388 cut level C is. Naming the standard turns a checklist into an orderable list and stops the classic failure of buying kit that pattern-matches the hazard without actually being rated for it."},
+        {"q":"What if my job's hazard isn't listed?","a":"The tool covers the nine most common workwear-relevant hazards. Specialist risks — arc flash, chainsaw work, molten metal, work at height — have their own guides on this site and their own certified kit; start from the standards hub or ask us."}
+      ]
     }
   ]
 }
