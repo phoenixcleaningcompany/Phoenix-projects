@@ -132,7 +132,7 @@
           "items":[
             {"n":"From stock","l":"Metal-free footwear, hi-vis and uniform shipped nationwide next-day"},
             {"n":"Embroidered","l":"Corporate and FOH kit branded before dispatch"},
-            {"n":"Trade accounts","l":"Handlers, FM firms and hotels on rolling orders"}
+            {"n":"Trade accounts","l":"Handlers, FM firms and hotels on one account"}
           ] },
         { "type":"clusternav" },
         { "type":"faq", "klabel":"Questions", "h2":"Crawley kit FAQ" }
