@@ -1,0 +1,323 @@
+{
+  "cluster": {
+    "id": "roles-t2",
+    "topic": "Role guides",
+    "shopLabel": "workwear",
+    "shopUrl": "https://www.ineedworkwear.com",
+    "baseUrl": "https://www.ineedworkwear.uk",
+    "date": "2026-07-09",
+    "externalHub": { "slug": "roles", "navLabel": "Roles hub", "title": "Workwear by role", "cardTitle": "Workwear by role" },
+    "trust": ["Head-to-toe kit lists", "Standards named per item", "Certified stock to match", "Embroidery & trade accounts"],
+    "cta": { "h2": "Kitting this role out?", "p": "Send the headcount — the kit list comes back priced, embroidered and sized.", "actions": [ {"label":"Contact us","href":"contact.html","style":"white"}, {"label":"Browse the kit directory","href":"kit.html","style":"dark"} ] }
+  },
+  "pages": [
+    {
+      "slug": "workwear-for-security-guards",
+      "role": "spoke",
+      "spokeType": "Role guide",
+      "navLabel": "Security guard",
+      "cardTitle": "Workwear for security guards",
+      "cardBlurb": "Twelve static hours in all weathers — the layering list, the smart-but-durable uniform line, and warm feet that stay awake.",
+      "crumbTail": "Security",
+      "kicker": "Role guide · Security",
+      "h1": "Security guard kit: dressed for the twelve-hour stand.",
+      "metaTitle": "Security Guard Workwear: The Kit List | iNeedWorkwear",
+      "metaDesc": "Kit for security officers — the static-work layering problem, smart-but-durable uniform, footwear for standing shifts, and hi-vis where patrols meet vehicles.",
+      "lede": "Security is the trade the layering charts forget: hours of standing still generate almost no heat, so kit that works for a moving trade fails on a gatehouse at 3am. The list below is built around the static problem.",
+      "heroMeta": [ {"n":"Static","l":"The forgotten cold problem"}, {"n":"Smart + tough","l":"The uniform brief"}, {"n":"12 hr","l":"On the same two feet"} ],
+      "schema": { "type": "Article" },
+      "blocks": [
+        { "type":"table", "klabel":"The list", "h2":"Head to toe",
+          "head":["Item","Spec","Why"],
+          "rows":[
+            ["Uniform shirt or polo ×3","Dark, embroidered, wicking blend","Presentable at hour one and hour twelve"],
+            ["Softshell or blouson","Uniform-coded, wind-resistant","The corporate-legible warm layer"],
+            ["Winter parka","Longline, insulated, hood","Static cold demands more insulation than any moving trade"],
+            ["Trousers ×2","Smart-cut cargo or stretch","Pockets that don't read as site kit"],
+            ["Footwear","Cushioned, <span class='code'>O2/S1 style</span> by site","Standing is harder on feet than walking"],
+            ["Hi-vis vest","<span class='code'>Class 2</span>, over everything","Car parks, gatehouses, traffic marshalling"],
+            ["Beanie & gloves","Uniform-dark, thin enough to work radios","Extremities go first when static"]
+          ] },
+        { "type":"prose", "narrow":true, "klabel":"The static problem", "h2":"Standing still is a cold-weather sport",
+          "html":"<p>A patrol officer walking generates several times the heat of one posted static — which is why the same jacket that overheats a groundworker leaves a gatehouse officer shivering. The static answer is <strong>more insulation than looks reasonable</strong>: a longline insulated parka over a mid-layer over a <a href='base-layers-guide.html'>proper base layer</a>, warm footwear with room for circulation (tight boots on cold concrete are a misery machine), and covered head and hands from the first cold hour.</p><p>The other half of the brief is <strong>looking like authority rather than trades</strong>: dark uniform colours, embroidered branding, and a silhouette that reads corporate. Where duties include traffic or car parks, a <a href='hi-vis-class-selector.html'>Class 2 vest</a> goes over the lot — visibility and identity in one garment.</p>" },
+        { "type":"keyfacts", "variant":"dark", "klabel":"Details", "h2":"Three details posts get wrong",
+          "items":[
+            {"n":"Boot room","l":"Half a size up for winter socks — circulation is insulation"},
+            {"n":"Two shirts on site","l":"A spare shirt rescues a spilled-coffee shift"},
+            {"n":"Radio-friendly gloves","l":"Gloves that can't press a PTT button come off — and stay off"}
+          ] },
+        { "type":"clusternav" },
+        { "type":"faq", "klabel":"Questions", "h2":"Security kit FAQ" }
+      ],
+      "faq":[
+        {"q":"What do security guards wear in winter?","a":"More than a moving trade needs: base layer, mid layer and a longline insulated parka, with warm loose-fitting footwear, hat and gloves — static posts generate almost no body heat, so the insulation has to do all the work."},
+        {"q":"Do security officers need safety footwear?","a":"Depends on the site: gatehouse and retail posts usually suit cushioned occupational footwear (comfort first), while industrial sites with vehicle and goods movement often mandate a toe cap — S1 or the site's stated spec. The assignment instructions decide."},
+        {"q":"Do security staff need hi-vis?","a":"Wherever duties meet vehicles — car parks, gatehouses, traffic marshalling — a Class 2 vest over the uniform is standard. It doubles as instant identification, which is half its value on a busy site."}
+      ]
+    },
+    {
+      "slug": "workwear-for-cleaners",
+      "role": "spoke",
+      "spokeType": "Role guide",
+      "navLabel": "Cleaner",
+      "cardTitle": "Workwear for cleaners",
+      "cardBlurb": "Tunics or polos, gloves that survive chemicals, and the slip-rated shoes that matter more than anything else on the list.",
+      "crumbTail": "Cleaning",
+      "kicker": "Role guide · Cleaning",
+      "h1": "Cleaner's kit: built around wet floors and chemicals.",
+      "metaTitle": "Workwear for Cleaners: The Kit List | iNeedWorkwear",
+      "metaDesc": "Kit for cleaning staff — slip-rated washable footwear first, chemical-appropriate gloves, tunic vs polo uniform, and knee protection for the floors nobody thinks about.",
+      "lede": "Cleaning kit gets bought as an afterthought and worn around the two most persistent hazards in any building: wet floors and chemicals. Get the shoes and the gloves right and the rest of the list is straightforward.",
+      "heroMeta": [ {"n":"SR soles","l":"The non-negotiable item"}, {"n":"EN 374","l":"Gloves matched to chemicals"}, {"n":"Wash-hard","l":"Uniform that survives bleach splash"} ],
+      "schema": { "type": "Article" },
+      "blocks": [
+        { "type":"table", "klabel":"The list", "h2":"Head to toe",
+          "head":["Item","Spec","Why"],
+          "rows":[
+            ["Footwear","Washable upper, <span class='code'>SR</span> slip-rated sole","The cleaner works ON the wet floor everyone else avoids"],
+            ["Tunic or polo ×3","Dark or colour-coded, hot-washable","Bleach splash writes off pale cheap fabric"],
+            ["Trousers ×2","Stretch, hot-washable","Constant bending, kneeling, reaching"],
+            ["Chemical gloves","<span class='code'>EN ISO 374</span> gauntlets for dilution & dosing","Skin contact with cleaning chemistry is a dermatitis plan"],
+            ["Disposable nitrile","Boxed, for general tasks","The everyday barrier layer"],
+            ["Knee pads or mat","Strap-on or kneeler","Floor-level work adds up across a career"],
+            ["Apron","Polythene or PVC by task","Sustained wet work protects the uniform"]
+          ] },
+        { "type":"prose", "narrow":true, "klabel":"The two that matter", "h2":"Shoes and gloves do the protecting",
+          "html":"<p><strong>Footwear</strong> is the serious purchase: cleaners spend their shift on the wet side of the warning cone, so a <a href='en-iso-20347-explained.html'>slip-rated occupational shoe</a> with a washable upper isn't a comfort item — it's the primary PPE of the job. <strong>Gloves</strong> split by chemistry: thin disposable nitrile handles routine wiping; <strong>dilution, dosing and anything the safety data sheet flags gets EN ISO 374 chemical gauntlets</strong>. Repeated \"just this once\" bare-handed chemical contact is how cleaning teams end up with occupational dermatitis — barrier cream and after-work moisturiser are the unglamorous back-up that dermatology nurses would put on this list themselves.</p><p>Uniform-wise, colour-coded tunics or polos matched to the <a href='healthcare-workwear-guide.html'>healthcare pattern</a> suit contract cleaning in clinical and care settings; embroidered polos read better in offices and retail.</p>" },
+        { "type":"keyfacts", "variant":"dark", "klabel":"Details", "h2":"Three habits worth institutionalising",
+          "items":[
+            {"n":"Gloves by SDS","l":"The chemical's data sheet names the glove — not the nearest box"},
+            {"n":"Rotate the shoes","l":"Washable uppers need drying time; two pairs outlast three singles"},
+            {"n":"Skin checks","l":"Dermatitis caught early is manageable; ignored, it's career-changing"}
+          ] },
+        { "type":"clusternav" },
+        { "type":"faq", "klabel":"Questions", "h2":"Cleaner kit FAQ" }
+      ],
+      "faq":[
+        {"q":"What shoes should cleaners wear?","a":"Washable uppers with slip-rated (SR) soles and real cushioning — cleaners work standing on the wet floors everyone else walks around. Occupational styles without toe caps suit most cleaning; add a cap only where goods handling justifies it."},
+        {"q":"What gloves do cleaners need?","a":"Two tiers: disposable nitrile for routine tasks, and EN ISO 374 chemical-resistant gauntlets for diluting, dosing and anything the product's safety data sheet flags. Repeated bare-hand chemical contact is the main route to occupational dermatitis in cleaning."},
+        {"q":"Why do cleaning uniforms use colour coding?","a":"In clinical and care settings, colour-coded uniforms (and equipment) separate clean and dirty areas and identify contract staff at a glance — mirroring healthcare's infection-control conventions. In offices and retail it's simpler: an embroidered polo identifies the team."}
+      ]
+    },
+    {
+      "slug": "workwear-for-delivery-drivers",
+      "role": "spoke",
+      "spokeType": "Role guide",
+      "navLabel": "Delivery driver",
+      "cardTitle": "Workwear for delivery drivers",
+      "cardBlurb": "A hundred cab-exits a day — kit for the in-and-out pattern, doorstep-presentable branding and all-weather footwear.",
+      "crumbTail": "Delivery",
+      "kicker": "Role guide · Delivery driver",
+      "h1": "Delivery driver kit: a hundred exits a day.",
+      "metaTitle": "Delivery Driver Workwear: The Kit List | iNeedWorkwear",
+      "metaDesc": "Kit for multi-drop and courier drivers — layering for a hundred cab exits, hi-vis for depots and kerbsides, all-weather footwear that grips tail lifts, and doorstep-presentable branding.",
+      "lede": "Multi-drop driving is a hundred small weather transitions a day: warm cab, cold kerb, wet tail lift, repeat. Kit built for either climate fails at the boundary — the list below is built for the transition itself.",
+      "heroMeta": [ {"n":"100×","l":"Cab-to-kerb transitions"}, {"n":"Class 2","l":"Depot and kerbside default"}, {"n":"Doorstep","l":"You are the brand at the door"} ],
+      "schema": { "type": "Article" },
+      "blocks": [
+        { "type":"table", "klabel":"The list", "h2":"Head to toe",
+          "head":["Item","Spec","Why"],
+          "rows":[
+            ["Polo or tee ×3","Wicking, embroidered","The cab runs warm; cotton runs wet"],
+            ["Softshell","Wind-resistant, unlined-to-light","The transition layer — warm enough out, cool enough in"],
+            ["Hi-vis","<span class='code'>Class 2</span> vest or jacket","Depots, loading bays, kerbside at dusk"],
+            ["Waterproof","Light <span class='code'>EN 343</span> shell, stowed in the cab","For the drops when it's hammering"],
+            ["Trousers or shorts","Stretch cargo; shorts policy varies","In-and-out all day rewards freedom of movement"],
+            ["Footwear","<span class='code'>S1P/O2</span> trainer style, grippy wet-rated sole","Tail lifts, wet kerbs, van steps — grip is the hazard list"],
+            ["Gloves","Thin coated, phone-compatible","Cages and totes strip fingertips; screens still need signing"]
+          ] },
+        { "type":"prose", "narrow":true, "klabel":"The pattern", "h2":"Dress for the kerb, not the cab",
+          "html":"<p>The cab takes care of itself — it's heated. The exposure is the <strong>ninety seconds per drop</strong> outside, times a hundred: which is why the working uniform is a wicking layer plus a <a href='softshell-vs-fleece.html'>softshell</a>, with a real waterproof <em>stowed</em> rather than worn. Sweating inside a rain jacket for a dry mile then chilling at the next drop is the classic multi-drop mistake.</p><p><strong>Footwear carries the injury risk:</strong> tail lifts, wet metal steps and kerb edges are where delivery injuries actually happen, so a trainer-style boot with a genuinely grippy wet-rated sole (and a toe cap where cages and heavy parcels feature) is the considered buy. And since the driver is the only human the customer meets, <strong>embroidered, presentable kit is the brand</strong> — a point <a href='workwear-crawley.html'>logistics employers</a> increasingly spec for.</p>" },
+        { "type":"keyfacts", "variant":"dark", "klabel":"Details", "h2":"Three drops-per-day details",
+          "items":[
+            {"n":"Sunglasses & peak","l":"Low sun through a windscreen is a daily hazard, not an accessory question"},
+            {"n":"Spare top in the van","l":"Rain, coffee or a split bag — the doorstep doesn't care why"},
+            {"n":"Night parcels = tape","l":"Evening rounds make the hi-vis layer non-optional, not seasonal"}
+          ] },
+        { "type":"clusternav" },
+        { "type":"faq", "klabel":"Questions", "h2":"Driver kit FAQ" }
+      ],
+      "faq":[
+        {"q":"Do delivery drivers need hi-vis?","a":"In depots and loading bays, almost always — and kerbside work at dawn, dusk and night makes a Class 2 vest or jacket the sensible default year-round. Many carriers mandate it as part of the uniform."},
+        {"q":"What shoes are best for delivery driving?","a":"Trainer-style safety or occupational footwear with a genuinely grippy wet-rated sole — tail lifts, van steps and wet kerbs are the real hazard list. Add a toe cap (S1P style) where cages, kegs or heavy parcels are part of the round."},
+        {"q":"What should multi-drop drivers wear in winter?","a":"Layer for the transition, not the extremes: wicking base, softshell mid, and a stowed waterproof for the worst drops. A hundred heated-cab-to-cold-kerb cycles punish both a big coat (sweat) and a thin one (chill) — the mid-weight layer system wins."}
+      ]
+    },
+    {
+      "slug": "workwear-for-forklift-drivers",
+      "role": "spoke",
+      "spokeType": "Role guide",
+      "navLabel": "Forklift driver",
+      "cardTitle": "Workwear for forklift drivers",
+      "cardBlurb": "Seated in a draught all shift — the FLT-specific kit logic: visibility, seated warmth, and boots for the dismount.",
+      "crumbTail": "Forklift",
+      "kicker": "Role guide · Forklift driver",
+      "h1": "Forklift driver kit: seated, draughty, visible.",
+      "metaTitle": "Forklift Driver Workwear: The Kit List | iNeedWorkwear",
+      "metaDesc": "Kit for FLT and counterbalance drivers — hi-vis that stays visible seated, warmth for dock draughts, S1P boots for the dismount, and cold-store truck kit.",
+      "lede": "Forklift work has a kit profile all of its own: seated (so trunk warmth beats mobility), permanently in vehicle lanes (so hi-vis is identity), and punctuated by dismounts onto concrete (which is where the boots earn their keep).",
+      "heroMeta": [ {"n":"Seated","l":"Changes the warmth maths"}, {"n":"Always in lanes","l":"Hi-vis is the uniform"}, {"n":"The dismount","l":"Where injuries live"} ],
+      "schema": { "type": "Article" },
+      "blocks": [
+        { "type":"table", "klabel":"The list", "h2":"Head to toe",
+          "head":["Item","Spec","Why"],
+          "rows":[
+            ["Hi-vis","<span class='code'>Class 2</span> vest or bodywarmer, always on","The truck is visible; the driver on foot must be too"],
+            ["Bodywarmer / gilet","Insulated, over a sweatshirt","Seated warmth without sleeve bulk at the wheel"],
+            ["Sweatshirt or fleece ×2","Mid-layer weight","Docks run cold and draughty year-round"],
+            ["Trousers","Stretch or jogger-style work trousers","Hours seated punish stiff waistbands"],
+            ["Boots","<span class='code'>S1P</span>, cushioned heel","The step-down onto concrete, hundreds of times"],
+            ["Gloves","Thin coated, grippy","Wheel, levers, and the occasional pallet fix"],
+            ["Beanie","Under any bump-cap rule","Heat leaves seated bodies from the top"]
+          ] },
+        { "type":"prose", "narrow":true, "klabel":"The seated problem", "h2":"Draughts beat temperatures",
+          "html":"<p>Dock levellers and open roller doors put FLT drivers in a <strong>permanent draught</strong> — and seated bodies can't walk themselves warm. The kit answer is core insulation that doesn't restrict arms: the <strong>gilet-over-sweatshirt</strong> combination is practically the trade uniform, with a <a href='base-layers-guide.html'>wicking base layer</a> underneath in winter rather than a bulkier coat on top. Cold-store trucks push the whole list into <a href='en-342-cold-protection-explained.html'>EN 342 territory</a> — cab heaters help, but the picking aisles don't.</p><p><strong>The dismount is the injury moment:</strong> hundreds of step-downs onto concrete per shift, often backwards, sometimes onto debris. Cushioned-heel <a href='safety-boot-codes-explained.html'>S1P boots</a> with real ankle support, laced properly, are the difference-maker — and the reason \"trainers are fine, I'm sat down\" misses the point of the job.</p>" },
+        { "type":"keyfacts", "variant":"dark", "klabel":"Details", "h2":"Three FLT-specific details",
+          "items":[
+            {"n":"Nothing dangling","l":"Scarves and loose hoods near masts and moving chains — same rule as machine shops"},
+            {"n":"Grip both ways","l":"Boot soles clean of pallet-wrap film grip pedals as well as floors"},
+            {"n":"Seated sizing","l":"Try trousers and gilets sitting down — that's the working position"}
+          ] },
+        { "type":"clusternav" },
+        { "type":"faq", "klabel":"Questions", "h2":"FLT kit FAQ" }
+      ],
+      "faq":[
+        {"q":"Do forklift drivers need hi-vis?","a":"Yes — the standing convention is a Class 2 vest or hi-vis bodywarmer worn whenever on site, because drivers spend their day in vehicle lanes and become pedestrians the moment they dismount. Many operations treat it as non-negotiable uniform."},
+        {"q":"What boots are best for forklift driving?","a":"S1P with a cushioned heel and decent ankle support — the hazard isn't the seat, it's the hundreds of dismounts onto concrete. A puncture midsole covers warehouse debris; toe caps cover the pallet and load work between drives."},
+        {"q":"How do forklift drivers keep warm in winter?","a":"Core-first: gilet over sweatshirt over a wicking base layer keeps the trunk warm without sleeve bulk at the controls. Docks are draught alleys, so windproofing matters as much as insulation — and cold-store trucks step the whole kit up to EN 342-rated gear."}
+      ]
+    },
+    {
+      "slug": "workwear-for-landscapers",
+      "role": "spoke",
+      "spokeType": "Role guide",
+      "navLabel": "Landscaper",
+      "cardTitle": "Workwear for landscapers",
+      "cardBlurb": "Four seasons outdoors on your knees — abrasion-first trousers, layered weather kit and the strimmer-day PPE.",
+      "crumbTail": "Landscaping",
+      "kicker": "Role guide · Landscaping & grounds",
+      "h1": "Landscaper kit: four seasons, one pair of knees.",
+      "metaTitle": "Landscaper & Grounds Workwear: The Kit List | iNeedWorkwear",
+      "metaDesc": "Kit for landscapers and grounds teams — knee-first trousers, layered weather system, boots that survive mud, and the eye/ear/leg PPE that strimming and blowing days demand.",
+      "lede": "Landscaping runs on the most weather-exposed kit list outside farming — and adds a twist most outdoor trades don't have: petrol tools that throw debris. The list splits into the everyday layer system and the strimmer-day PPE that goes over it.",
+      "heroMeta": [ {"n":"All weathers","l":"The office is outside"}, {"n":"Knees & knuckles","l":"Where the wear lands"}, {"n":"Tool days","l":"Eyes and ears join the list"} ],
+      "schema": { "type": "Article" },
+      "blocks": [
+        { "type":"table", "klabel":"The list", "h2":"Head to toe",
+          "head":["Item","Spec","Why"],
+          "rows":[
+            ["Trousers","Heavy or ripstop, <span class='code'>EN 14404 knee pockets</span>","Planting and paving live at knee height"],
+            ["Layers","Base + fleece + <span class='code'>EN 343</span> waterproof","The classic outdoor stack, worked hard"],
+            ["Boots","<span class='code'>S3</span>, deep cleats; wellingtons for the wet months","Mud is the default floor"],
+            ["Gloves","Thorn-resistant leather-palm + coated grip pairs","Two glove problems: thorns and tools"],
+            ["Eye protection","<span class='code'>EN 166 F</span> specs; mesh visor for strimming","Flung stones and wire are the trade's projectiles"],
+            ["Ear defenders","On every petrol-tool day","Blowers and strimmers are hearing-loss dose machines"],
+            ["Hi-vis","<span class='code'>Class 2–3</span> for roadside & verge work","Grounds teams work kerbsides more than they plan to"]
+          ] },
+        { "type":"prose", "narrow":true, "klabel":"The split", "h2":"Everyday kit and tool-day PPE are two lists",
+          "html":"<p>The everyday list is classic outdoor trade: <a href='base-layers-guide.html'>base layers</a> under fleece under a <a href='reproofing-waterproofs.html'>maintained waterproof</a>, knee-protected trousers, and boots chosen for mud. The <strong>tool-day list goes over it</strong>: strimmers, blowers and hedge cutters add flying debris and sustained noise, so EN 166-rated eyes (a mesh visor for sustained strimming), ear defenders and gloves become mandatory kit rather than judgement calls. Chainsaw work is its own world with its own certified clothing — <a href='chainsaw-forestry-kit.html'>covered separately</a> — and no amount of general landscaping kit substitutes for it.</p><p>Roadside and verge work quietly adds a third list: <a href='hi-vis-class-selector.html'>Class 2 minimum, Class 3 by the carriageway</a> — grounds contracts put teams on kerbs far more often than the job title suggests.</p>" },
+        { "type":"keyfacts", "variant":"dark", "klabel":"Details", "h2":"Three seasons-hardened details",
+          "items":[
+            {"n":"Two boot strategy","l":"S3 leathers plus wellingtons — winter grounds work is a wet trade"},
+            {"n":"Thorn-proof ≠ grip","l":"Keep leather-palm and coated pairs both in the van; they solve different days"},
+            {"n":"Dry kit box","l":"Spare socks, gloves and a fleece in the van rescue more afternoons than any single garment"}
+          ] },
+        { "type":"clusternav" },
+        { "type":"faq", "klabel":"Questions", "h2":"Landscaper kit FAQ" }
+      ],
+      "faq":[
+        {"q":"What PPE do you need for strimming?","a":"Rated eye protection (EN 166 impact grade F, or a mesh visor for sustained work), ear defenders, gloves, sturdy trousers and boots — strimmers fling stones and wire at eye height and deliver a hearing-damaging noise dose over a working day."},
+        {"q":"What trousers are best for landscaping?","a":"Heavyweight or ripstop work trousers with EN 14404 knee-pad pockets — planting, edging and paving all happen at knee height, and knee protection is the highest-value feature on the garment. Waterproof over-trousers cover the wet months."},
+        {"q":"Do landscapers need hi-vis?","a":"For roadside verges, kerbside work and anywhere plant operates, yes — Class 2 as the baseline and Class 3 alongside live carriageways. Grounds maintenance contracts put teams next to traffic far more than the job title suggests."}
+      ]
+    },
+    {
+      "slug": "workwear-for-kitchen-porters",
+      "role": "spoke",
+      "spokeType": "Role guide",
+      "navLabel": "Kitchen porter",
+      "cardTitle": "Workwear for kitchen porters",
+      "cardBlurb": "The wettest job in the building — waterproof aprons, S2 footwear for keg-and-crate reality, and kit that survives the plonge.",
+      "crumbTail": "Kitchen porter",
+      "kicker": "Role guide · Kitchen porter",
+      "h1": "Kitchen porter kit: the wettest job in the building.",
+      "metaTitle": "Kitchen Porter Workwear: The Kit List | iNeedWorkwear",
+      "metaDesc": "Kit for kitchen porters — waterproof bib aprons for the pot wash, S2 washable footwear for kegs and crates, grip gloves for hot wet handling, and quick-dry basics underneath.",
+      "lede": "The KP works the corner of the kitchen the whites catalogue forgets: standing spray at the pot wash, floors at their wettest, and the heaviest lifting in the building — kegs, crates, stock deliveries. The kit list is short, wet-rated and unglamorous, and every item earns its place.",
+      "heroMeta": [ {"n":"Plonge","l":"Standing spray, all service"}, {"n":"S2","l":"Kegs & crates say cap, washdown says washable"}, {"n":"Quick-dry","l":"Everything underneath"} ],
+      "schema": { "type": "Article" },
+      "blocks": [
+        { "type":"table", "klabel":"The list", "h2":"Head to toe",
+          "head":["Item","Spec","Why"],
+          "rows":[
+            ["Waterproof bib apron","PVC, full length","Cotton soaks in minutes at the sink; PVC sheds all shift"],
+            ["Tee or lightweight chef top ×3","Quick-dry, dark","It will get wet; the question is how fast it dries"],
+            ["Chef or work trousers ×2","Loose, hot-washable","Scald logic applies at the pot wash too"],
+            ["Footwear","<span class='code'>S2</span> washable, <span class='code'>SR</span> sole","Wettest floors in the building + kegs and crates = cap and grip"],
+            ["Grip gloves","Heat-tolerant rubber for hot wet handling","Trays out of the washer arrive scalding and slippery"],
+            ["Nitrile gauntlets","<span class='code'>EN ISO 374</span> for chemicals","Machine chemicals and degreasers are proper chemistry"],
+            ["Skull cap / hairnet","Per hygiene policy","Same rules as the cooks, less ceremony"]
+          ] },
+        { "type":"prose", "narrow":true, "klabel":"The reality", "h2":"Why the KP's footwear outranks the chef's",
+          "html":"<p>Kitchens injure people at the floor, and the KP owns the wettest floor plus the heaviest loads — the barrel-and-crate work that puts this role, unusually for hospitality, in <strong>toe-cap territory</strong>: an <a href='en-iso-20347-explained.html'>S2 washable shoe or boot</a> rather than the O2 the rest of the brigade wears. Same slip rating, same washable upper, plus the cap the cellar run justifies.</p><p>The other KP-specific truth: <strong>everything gets wet, so everything must dry</strong>. Quick-dry synthetics under a PVC bib beat cotton whites at this station, gloves live in pairs (hot-wet grip for the washer, <a href='workwear-for-cleaners.html'>chemical gauntlets</a> for the machine chemistry), and a spare dry top at the half is worth more than any premium garment. The chef-side wardrobe logic lives in <a href='what-chefs-wear.html'>what chefs wear</a> — the KP list is its wet-weather sibling.</p>" },
+        { "type":"keyfacts", "variant":"dark", "klabel":"Details", "h2":"Three plonge-hardened details",
+          "items":[
+            {"n":"Apron hygiene","l":"PVC wipes down and hangs dry — a soaked cotton apron is a bacteria farm"},
+            {"n":"Two-glove rule","l":"Washer chemicals and hot trays are different hazards — different gloves"},
+            {"n":"Dry socks at the half","l":"The cheapest morale item in any kitchen"}
+          ] },
+        { "type":"clusternav" },
+        { "type":"faq", "klabel":"Questions", "h2":"KP kit FAQ" }
+      ],
+      "faq":[
+        {"q":"What do kitchen porters wear?","a":"Quick-dry basics under a full-length PVC bib apron, hot-washable trousers, washable slip-rated footwear — with a toe cap (S2) where keg and crate work features — plus grip gloves for hot wet handling and chemical gauntlets for machine chemistry."},
+        {"q":"Do kitchen porters need safety shoes?","a":"They're the strongest case in the kitchen: the wettest floors plus the heaviest handling (kegs, crates, deliveries). An S2 washable shoe adds the toe cap to the slip-rated washable spec the whole kitchen wears — the cellar run justifies it."},
+        {"q":"What gloves for the pot wash?","a":"Two kinds: heat-tolerant rubber grip gloves for scalding wet trays and pans, and EN ISO 374 chemical gauntlets for handling dishwasher chemicals and degreasers. One pair doing both jobs does neither properly."}
+      ]
+    },
+    {
+      "slug": "workwear-for-nurses-hcas",
+      "role": "spoke",
+      "spokeType": "Role guide",
+      "navLabel": "Nurse / HCA",
+      "cardTitle": "Workwear for nurses & HCAs",
+      "cardBlurb": "The 12-hour clinical shift, itemised — scrubs or tunics by workplace, the footwear that carries it, and the pocket economy.",
+      "crumbTail": "Nursing",
+      "kicker": "Role guide · Nurses & HCAs",
+      "h1": "Nurse & HCA kit: the 12-hour shift, itemised.",
+      "metaTitle": "Nurse & HCA Workwear: The Kit List | iNeedWorkwear",
+      "metaDesc": "Kit for nurses and healthcare assistants — scrubs vs tunics by setting, the footwear that decides a 12-hour shift, bare-below-the-elbow layering, and the pocket economy.",
+      "lede": "Clinical kit lists get written by uniform policies; this one is written by the shift. Twelve hours, mostly standing, bare below the elbows, everything washed hot after every wear — the items below are chosen against exactly that.",
+      "heroMeta": [ {"n":"12 hr","l":"Mostly on your feet"}, {"n":"3–5 sets","l":"The rotation that works"}, {"n":"Pockets","l":"The ward's real currency"} ],
+      "schema": { "type": "Article" },
+      "blocks": [
+        { "type":"table", "klabel":"The list", "h2":"Head to toe",
+          "head":["Item","Spec","Why"],
+          "rows":[
+            ["Scrubs or tunic ×3–5","Poly-cotton, <span class='code'>60 °C-washable</span>","Setting decides which — <a href='tunic-vs-scrubs.html'>the fork explained</a>"],
+            ["Trousers ×2–3","Comfort-stretch, hot-washable","Hoisting and floor-level care are gym movements"],
+            ["Footwear","Washable, <span class='code'>SR</span> sole, cushioned","The single biggest comfort decision of the shift"],
+            ["Compression socks","Graduated, 2–3 pairs","Twelve standing hours show up in the calves first"],
+            ["Cardigan or fleece","Uniform-coded, off during care","Corridors and handovers are cold; care tasks are bare-below-elbow"],
+            ["Fob watch","Pin-on","Wristwatches fail bare-below-the-elbow"],
+            ["ID + lanyard per policy","Breakaway type","Grabbable neckwear is a clinical-setting hazard"]
+          ] },
+        { "type":"prose", "narrow":true, "klabel":"The two decisions", "h2":"Footwear and sets — get these right first",
+          "html":"<p><strong>Footwear decides the shift.</strong> Hard flooring for twelve hours is a repetitive-strain machine, and the spec that survives it is boring and right: washable upper (spills are clinical reality), slip-rated sole, genuine cushioning, and replaced insoles when they flatten. Many ward staff run <strong>two pairs alternated</strong> — cushioning recovers between shifts, exactly like the <a href='safety-boot-care.html'>boot-rotation logic</a> elsewhere on this site.</p><p><strong>Sets are policy infrastructure:</strong> washing after every shift only works with <strong>three to five sets</strong> in rotation, and the under-issued wardrobe is the most common way uniform policy fails in practice. The employer-side view — laundering benchmarks, colour coding, support roles — lives in the <a href='healthcare-workwear-guide.html'>healthcare sector guide</a>; the <strong>pocket economy</strong> is the wearer-side detail worth shopping for: tunic and scrub designs differ wildly in pocket layout, and a shift's worth of gloves, tape, pens, phone and keys has to live somewhere.</p>" },
+        { "type":"keyfacts", "variant":"dark", "klabel":"Details", "h2":"Three ward-tested details",
+          "items":[
+            {"n":"Change at work","l":"Commute clothes and clinical kit stay separate — issue enough sets to make it real"},
+            {"n":"Breakaway lanyards","l":"Anything around a neck in clinical settings must give way when grabbed"},
+            {"n":"Fob, not wrist","l":"Bare below the elbow includes the watch — pin-on fobs exist for exactly this"}
+          ] },
+        { "type":"clusternav" },
+        { "type":"faq", "klabel":"Questions", "h2":"Nurse & HCA kit FAQ" }
+      ],
+      "faq":[
+        {"q":"What shoes are best for a 12-hour nursing shift?","a":"Washable uppers, slip-rated soles, closed toes and serious cushioning — then rotate two pairs so the cushioning recovers between shifts and replace insoles when they flatten. Footwear is the single biggest comfort decision in clinical work."},
+        {"q":"How many sets of scrubs does a nurse need?","a":"Three to five, assuming a hot wash after every shift as policy requires. Fewer than three breaks the rotation the first time a shift gets messy — under-issuing sets is how uniform policies fail in practice."},
+        {"q":"Why can't nurses wear wristwatches?","a":"Bare-below-the-elbow policies: forearms and wrists must be clear for effective handwashing and to avoid transfer between patients. The pin-on fob watch exists precisely to keep time-telling compliant."}
+      ]
+    }
+  ]
+}
