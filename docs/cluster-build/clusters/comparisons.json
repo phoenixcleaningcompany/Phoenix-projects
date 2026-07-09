@@ -1,0 +1,263 @@
+{
+  "cluster": {
+    "id": "comparisons",
+    "topic": "Comparisons",
+    "shopLabel": "workwear",
+    "shopUrl": "https://www.ineedworkwear.com",
+    "baseUrl": "https://www.ineedworkwear.uk",
+    "date": "2026-07-09",
+    "externalHub": { "slug": "guides", "navLabel": "All guides", "title": "The guide library", "cardTitle": "The guide library" },
+    "trust": ["Honest trade-offs, not sales copy", "Standards cited where they apply", "Both options usually in stock", "Trade accounts"],
+    "cta": { "h2": "Decision made?", "p": "Both sides of every comparison are one click away — or ask a human to settle it for your team.", "actions": [ {"label":"Browse the kit directory","href":"kit.html","style":"white"}, {"label":"Contact us","href":"contact.html","style":"dark"} ] }
+  },
+  "pages": [
+    {
+      "slug": "softshell-vs-fleece",
+      "role": "spoke",
+      "spokeType": "Comparison",
+      "navLabel": "Softshell vs fleece",
+      "cardTitle": "Softshell vs fleece",
+      "cardBlurb": "Wind decides it: what each layer actually does, and when a bodywarmer beats both.",
+      "crumbTail": "Comparison",
+      "kicker": "Comparison · Mid-layers",
+      "h1": "Softshell vs fleece: wind decides it.",
+      "metaTitle": "Softshell vs Fleece for Work: Which & When | iNeedWorkwear",
+      "metaDesc": "Softshell blocks wind and light rain; fleece breathes and insulates harder per gram. Which mid-layer suits your work — and when a bodywarmer beats both.",
+      "lede": "Fleece is warmer for its weight; softshell keeps the weather honest. The right answer depends on one question most buyers never ask: how much wind gets to where you work?",
+      "heroMeta": [ {"n":"Wind","l":"The deciding factor"}, {"n":"Per gram","l":"Fleece wins on warmth"}, {"n":"3rd option","l":"The bodywarmer compromise"} ],
+      "schema": { "type": "Article" },
+      "blocks": [
+        { "type":"prose", "narrow":true, "klabel":"What each one is", "h2":"Two different jobs wearing similar names",
+          "html":"<p><strong>Fleece</strong> is insulation: a brushed polyester pile that traps air brilliantly and breathes freely. That breathability is also its weakness — wind blows straight through, taking the trapped warmth with it. Indoors, or under a shell, fleece is the most warmth per gram and per pound you can buy.</p><p><strong>Softshell</strong> is a woven, membrane-backed fabric that trades some insulation for <strong>wind resistance and light-shower protection</strong>, usually with a light fleece backing for warmth. It's a jacket in its own right where fleece is really a layer.</p><p>The buying error is treating them as interchangeable: a fleece worn as an outdoor windbreak disappoints; a softshell worn as pure insulation under a shell adds bulk for less warmth.</p>" },
+        { "type":"table", "variant":"alt", "klabel":"Head to head", "h2":"The trade-offs, honestly",
+          "head":["","Fleece","Softshell"],
+          "rows":[
+            ["Warmth per gram","<span class='code'>Wins</span> — best-in-class insulation","Good, but the membrane costs loft"],
+            ["Wind","Blows straight through","<span class='code'>Wins</span> — wind-resistant by construction"],
+            ["Light rain","Soaks it up","Sheds showers (not a waterproof — <a href='en-343-waterproofs-explained.html'>that's EN 343</a>)"],
+            ["Breathability under effort","<span class='code'>Wins</span> — hard work stays comfortable","Can run warm on the move"],
+            ["As an embroidered team layer","Classic, budget-friendly","Smarter face, holds a logo crisply"],
+            ["Under a hi-vis shell","Ideal mid-layer","Bulkier than needed"]
+          ] },
+        { "type":"prose", "klabel":"The verdict", "h2":"Pick by exposure — and consider the third option", "narrow":true,
+          "html":"<p><strong>Mostly indoors or layered under a shell?</strong> Fleece — maximum warmth, minimum money, breathes when the work gets physical. <strong>In and out of buildings, vans and yards all day?</strong> Softshell — it's the one that copes with the wind between doors, and it reads smarter on customer-facing trades.</p><p>The third option earns its place when your arms do the work: a <strong>bodywarmer or gilet</strong> keeps the core warm with total arm freedom, layered over either of the other two in deep winter. Plenty of trades run fleece-plus-gilet as their whole cold-season system.</p><p>One site-specific caveat: none of the three is hi-vis. If the warm layer is your outer layer where vehicles move, the warm layer needs to be a <a href='caring-for-hi-vis.html'>certified hi-vis garment</a>, with the fleece or softshell underneath.</p>" },
+        { "type":"clusternav" },
+        { "type":"faq", "klabel":"Questions", "h2":"Mid-layer FAQ" }
+      ],
+      "faq":[
+        {"q":"Is a softshell warmer than a fleece?","a":"Weight for weight, no — fleece traps more air and insulates better. Softshell wins outdoors because it blocks the wind that strips a fleece's warmth away. Indoors or under a shell, fleece is the warmer, cheaper choice."},
+        {"q":"Are softshell jackets waterproof?","a":"No — they shed light showers thanks to a membrane and DWR finish, but they're not certified waterproofs. Sustained rain needs an EN 343-rated jacket; the softshell's job is wind and drizzle between buildings and vans."},
+        {"q":"When is a bodywarmer better than either?","a":"When your arms need full freedom — lifting, reaching, tool work. A gilet insulates the core without restricting the sleeves, and layers neatly over a fleece or softshell in deep winter. Many trades run it as their standard cold-season combination."}
+      ]
+    },
+    {
+      "slug": "hoodie-vs-sweatshirt",
+      "role": "spoke",
+      "spokeType": "Comparison",
+      "navLabel": "Hoodie vs sweatshirt",
+      "cardTitle": "Hoodie vs sweatshirt for team kit",
+      "cardBlurb": "Same fabric, one hood — but drawcords, printing space and site rules split them further than you'd think.",
+      "crumbTail": "Comparison",
+      "kicker": "Comparison · Team kit",
+      "h1": "Hoodie vs sweatshirt for team kit.",
+      "metaTitle": "Hoodie vs Sweatshirt for Work Team Kit | iNeedWorkwear",
+      "metaDesc": "Hoodies and sweatshirts share fabric but split on drawcords near machinery, hood-up rules on site, branding space and who actually wears them — the honest comparison for team orders.",
+      "lede": "It looks like the smallest decision on the uniform order — same fleece-backed cotton, one has a hood. But machine-shop rules, hood-up site policies and where the logo sits all push the answer around more than the price difference does.",
+      "heroMeta": [ {"n":"Same fabric","l":"The difference is the details"}, {"n":"Drawcords","l":"The machinery question"}, {"n":"Logo real estate","l":"Sweatshirt wins it"} ],
+      "schema": { "type": "Article" },
+      "blocks": [
+        { "type":"prose", "narrow":true, "klabel":"The real differences", "h2":"One hood, three consequences",
+          "html":"<p>Fabric-wise they're twins — brushed-back cotton-rich jersey, warm, washable, cheap to brand. The hood changes three practical things:</p><ul><li><strong>Drawcords.</strong> Many workshops ban them near rotating machinery, full stop — a dangling cord is a snag hazard. Cordless-hood designs exist, but a crew-neck sweatshirt sidesteps the rule entirely.</li><li><strong>Hood-up policies.</strong> Sites and warehouses with cameras and banksman sightlines often prohibit hoods up (peripheral vision, identification). The hood becomes decoration you paid for.</li><li><strong>Weather utility.</strong> For outdoor trades between jobs, that hood is genuinely useful — a rain-shrug that's always with you.</li></ul>" },
+        { "type":"table", "variant":"alt", "klabel":"Head to head", "h2":"The team-kit view",
+          "head":["","Sweatshirt","Hoodie"],
+          "rows":[
+            ["Machine shops & rotating plant","<span class='code'>Safe default</span>","Often banned (cords) — check the rules"],
+            ["Back-of-neck logo / large back print","<span class='code'>Clean canvas</span>","Hood interrupts the print area"],
+            ["Outdoor trades","Fine under a shell","<span class='code'>The hood earns its keep</span>"],
+            ["Customer-facing smartness","Reads as uniform","Reads more casual — brand call"],
+            ["Warmth","Identical fabric, identical warmth","Hood adds a little at the neck"],
+            ["Price & branding cost","Slightly cheaper","Slightly more, same embroidery"]
+          ] },
+        { "type":"keyfacts", "variant":"dark", "klabel":"Ordering", "h2":"Three team-order rules of thumb",
+          "items":[
+            {"n":"Ask the workshop","l":"One machinery rule can settle the whole order — find it before you buy"},
+            {"n":"Embroider the chest","l":"Stitching survives industrial washing; save print for big back designs"},
+            {"n":"Mix is fine","l":"Hoodies for the outdoor crew, sweats for the workshop — same colour, one brand"}
+          ] },
+        { "type":"citebox", "html":"Keeping either looking sharp through the wash cycle: <a href='washing-embroidered-workwear.html'>washing branded workwear</a>." },
+        { "type":"clusternav" },
+        { "type":"faq", "klabel":"Questions", "h2":"Team kit FAQ" }
+      ],
+      "faq":[
+        {"q":"Why do some workplaces ban hoodies?","a":"Two reasons: drawcords are a snag hazard around rotating machinery, and hoods worn up restrict peripheral vision and make identification harder on camera-monitored sites. Cordless designs solve the first; policy usually still covers the second."},
+        {"q":"Are hoodies or sweatshirts better for embroidery?","a":"Both embroider well on the chest. For large back designs the sweatshirt's uninterrupted panel prints better — the hood seam breaks up the top of a back print. Either way, stitch the logo rather than printing it on kit that's washed hard."},
+        {"q":"Can you mix hoodies and sweatshirts in one team order?","a":"Yes, and it's often the right answer — hoodies for outdoor crews who use the hood, crew-necks for workshop staff under drawcord rules. Same colour and logo keeps the uniform reading as one team."}
+      ]
+    },
+    {
+      "slug": "coverall-vs-bib-and-brace",
+      "role": "spoke",
+      "spokeType": "Comparison",
+      "navLabel": "Coverall vs bib & brace",
+      "cardTitle": "Coverall vs bib & brace",
+      "cardBlurb": "Full coverage or ventilation and layers — how the two workshop classics actually divide the trades.",
+      "crumbTail": "Comparison",
+      "kicker": "Comparison · Workshop kit",
+      "h1": "Coverall vs bib & brace.",
+      "metaTitle": "Coverall vs Bib & Brace: Which Workwear & When | iNeedWorkwear",
+      "metaDesc": "Coveralls give one-garment full coverage; bib and brace gives ventilation, layering freedom and trouser-level access. How mechanics, painters and agricultural trades actually split.",
+      "lede": "Both solve the same problem — protecting everything above the boot without a gap at the waist — and they solve it differently enough that most trades have a firm allegiance. Here's the split, and the logic behind it.",
+      "heroMeta": [ {"n":"No waist gap","l":"What both exist to fix"}, {"n":"Coverage vs cool","l":"The core trade"}, {"n":"By trade","l":"Allegiances are real"} ],
+      "schema": { "type": "Article" },
+      "blocks": [
+        { "type":"prose", "narrow":true, "klabel":"The shapes", "h2":"One garment or a garment and a half",
+          "html":"<p>The <strong>coverall</strong> (boilersuit) is total: sleeves to ankles in one zip, nothing rides up, nothing gaps when you reach or crawl. That's why it owns the under-vehicle and spray-adjacent world — <a href='workwear-for-mechanics.html'>mechanics</a>, machine maintenance, anywhere splash and grime come from every direction.</p><p><strong>Bib &amp; brace</strong> is trousers plus a chest panel on braces: your own shirt or tee up top, full protection below plus the chest. The open back and sides dump heat that a coverall traps, layers change with the seasons without changing the garment, and the bib pocket sits exactly where a rule, pencil and phone want to live. Painters, joiners, agricultural and outdoor trades lean this way.</p>" },
+        { "type":"table", "variant":"alt", "klabel":"Head to head", "h2":"The honest split",
+          "head":["","Coverall","Bib & brace"],
+          "rows":[
+            ["Coverage","<span class='code'>Total</span> — splash from any angle","Chest and legs; arms are your own layer"],
+            ["Hot work / summer","Traps heat","<span class='code'>Ventilates</span> — the open back earns it"],
+            ["Layering through seasons","Fixed — you layer inside it","Swap the top layer freely"],
+            ["Crawling & reaching","Nothing rides up","Bib holds the front; back relies on your layer"],
+            ["Getting in and out","One zip, but it's everything off","Trousers stay on; top changes fast"],
+            ["Classic trades","Mechanics, maintenance, spraying","Painters, joiners, agriculture"]
+          ] },
+        { "type":"prose", "klabel":"The verdict", "h2":"Choose by where the mess comes from", "narrow":true,
+          "html":"<p>If contamination arrives from <strong>above and every side</strong> — under vehicles, machine guts, spray mist — the coverall's total envelope wins and no ventilation argument beats it. If the mess is mostly <strong>waist-down and in front</strong> — kneeling trades, paint, workshop benches — bib &amp; brace protects what actually gets hit and stays wearable through summer.</p><p>Whichever side you land, the workshop fit rules travel with you: <a href='manufacturing-workwear-guide.html'>snug cuffs and nothing loose near anything that spins</a>, and for oil-heavy work, the <a href='oil-grease-out-of-workwear.html'>two-garment rotation with proper laundering</a>.</p>" },
+        { "type":"clusternav" },
+        { "type":"faq", "klabel":"Questions", "h2":"Coverall vs bib FAQ" }
+      ],
+      "faq":[
+        {"q":"Why do mechanics wear coveralls but painters wear bib and brace?","a":"Direction of mess. Under a vehicle, oil and grime arrive from every angle, so the coverall's total coverage wins. Painting and kneeling trades take mess mostly on the front and legs — the bib covers exactly that while venting heat out the open back."},
+        {"q":"Is a bib and brace cooler than a coverall?","a":"Noticeably — the open back and sides dump the heat a coverall traps, and you choose your own top layer by season. It's the main reason outdoor and summer trades lean bib and brace."},
+        {"q":"Do coveralls and bib and brace come in FR versions?","a":"Yes — both cuts exist in flame-resistant fabrics for welding and hot works, certified under the FR standards. The cut choice follows the same coverage logic; the fabric and certification follow the hazard."}
+      ]
+    },
+    {
+      "slug": "embroidery-vs-print",
+      "role": "spoke",
+      "spokeType": "Comparison",
+      "navLabel": "Embroidery vs print",
+      "cardTitle": "Embroidery vs print for branded workwear",
+      "cardBlurb": "Stitch or film? Decided by garment, wash cycle, design size and budget — with a table that settles most orders.",
+      "crumbTail": "Comparison",
+      "kicker": "Comparison · Branding",
+      "h1": "Embroidery vs print for branded workwear.",
+      "metaTitle": "Embroidery vs Print for Workwear Branding | iNeedWorkwear",
+      "metaDesc": "Embroidery outlasts industrial washing; print handles waterproofs, big designs and fine detail. How garment type, wash cycle and design size decide the branding method.",
+      "lede": "Every uniform order hits this fork. The good news: it's rarely a matter of taste — the garment, the wash cycle and the design usually make the decision for you.",
+      "heroMeta": [ {"n":"Stitch","l":"Survives the wash cycle"}, {"n":"Film","l":"Handles membranes & murals"}, {"n":"Both","l":"What most fleets actually use"} ],
+      "schema": { "type": "Article" },
+      "blocks": [
+        { "type":"prose", "narrow":true, "klabel":"How each works", "h2":"Thread through fabric vs film on fabric",
+          "html":"<p><strong>Embroidery</strong> stitches the logo into the garment — thousands of threads through a stabilised patch. It reads premium, holds colour for the garment's life, and shrugs off the industrial laundering that kills lesser branding. Its limits: fine gradients and small text turn to mush in thread, big designs get heavy and stiff, and needles perforate whatever they pass through.</p><p><strong>Print</strong> (heat-applied transfers and direct methods) bonds a film to the surface. It renders detail and gradients perfectly, scales to full-back designs, and — critically — <strong>doesn't puncture waterproof membranes or insulation</strong>. Its weakness is heat and flexing over time: hot washes and tumble-drying age it, edges lift, folds crack.</p>" },
+        { "type":"table", "variant":"alt", "klabel":"The decision", "h2":"Garment by garment",
+          "head":["Garment / need","Use","Because"],
+          "rows":[
+            ["Polos, sweats, fleeces — washed hard, worn daily","<span class='code'>Embroidery</span>","Stitching outlasts hundreds of cycles"],
+            ["Waterproof shells & padded jackets","<span class='code'>Print</span>","Needles compromise membranes and fill"],
+            ["Full-back designs, gradients, small text","<span class='code'>Print</span>","Detail and scale thread can't render"],
+            ["Hi-vis garments","<span class='code'>Either — placed correctly</span>","Decoration must stay off certified areas"],
+            ["FR garments","<span class='code'>Supplier-applied only</span>","Threads, films and process must be FR-compatible"],
+            ["Tight budget, short garment life","<span class='code'>Print</span>","Cheaper per unit on kit that won't see 100 washes"]
+          ] },
+        { "type":"keyfacts", "variant":"dark", "klabel":"In practice", "h2":"What real fleets do",
+          "items":[
+            {"n":"Both, by garment","l":"Embroidered polos and fleeces, printed shells — one logo, two methods"},
+            {"n":"Chest stitch + back print","l":"The classic combination on the same garment"},
+            {"n":"Digitise once","l":"Good embroidery starts with a properly digitised logo file — worth doing right the first time"}
+          ] },
+        { "type":"citebox", "html":"Once it's on the garment, keep it there: <a href='washing-embroidered-workwear.html'>washing embroidered &amp; printed workwear</a> covers the laundering habits that protect both methods." },
+        { "type":"clusternav" },
+        { "type":"faq", "klabel":"Questions", "h2":"Branding FAQ" }
+      ],
+      "faq":[
+        {"q":"Is embroidery or print better for workwear?","a":"For garments washed hard and often — polos, sweatshirts, fleeces — embroidery, which outlasts print by hundreds of cycles. For waterproof shells (needles perforate membranes), large back designs and fine detail, print. Most fleets sensibly use both across the wardrobe."},
+        {"q":"Why can't you embroider a waterproof jacket?","a":"Every stitch is a needle hole through the waterproof membrane. Some makers seal small embroidered areas, but the standard answer for rated rainwear is a heat-applied transfer, which bonds to the surface without puncturing anything."},
+        {"q":"Does embroidery damage hi-vis or FR clothing?","a":"It can if done carelessly. On hi-vis, decoration must stay clear of the certified fluorescent and tape areas; on FR garments, threads and processes must be FR-compatible. Both are reasons to brand safety kit through the workwear supplier rather than a generic print shop."}
+      ]
+    },
+    {
+      "slug": "tunic-vs-scrubs",
+      "role": "spoke",
+      "spokeType": "Comparison",
+      "navLabel": "Tunic vs scrubs",
+      "cardTitle": "Tunic vs scrubs",
+      "cardBlurb": "The care-sector fork: structured and public-facing, or pooled and practical — decided by workflow, not fashion.",
+      "crumbTail": "Comparison",
+      "kicker": "Comparison · Healthcare & care",
+      "h1": "Tunic vs scrubs: a workflow decision.",
+      "metaTitle": "Tunic vs Scrubs: Which for Your Care Setting | iNeedWorkwear",
+      "metaDesc": "Tunics suit public-facing care with role colour-coding; scrubs suit pooled hot laundering and on-site changing. The workflow questions that decide it, setting by setting.",
+      "lede": "Care providers rarely agonise over this one — their workflow has usually already decided it. But if you're setting up fresh or reviewing uniform policy, the fork is worth understanding properly, because swapping later means re-kitting everyone.",
+      "heroMeta": [ {"n":"Workflow","l":"Not fashion — the real decider"}, {"n":"60 °C","l":"Both must survive it"}, {"n":"Re-kit cost","l":"Why it's worth deciding once"} ],
+      "schema": { "type": "Article" },
+      "blocks": [
+        { "type":"prose", "narrow":true, "klabel":"The fork", "h2":"Where each one comes from",
+          "html":"<p><strong>Scrubs</strong> grew up in hospitals: loose, unisex, pocketed two-pieces designed to be <strong>changed into at work and pooled through hot laundry</strong>. Nobody owns \"their\" scrubs in a theatre suite; sets circulate. They're cheap per set, cut for movement, and anonymous by design.</p><p><strong>Tunics</strong> come from the clinic side: structured, fitted, worn over your own trousers, <strong>owned by the wearer and presented to the public</strong> all shift. Piping and trim colours code the role — the difference between a nurse, a senior carer and housekeeping at a glance down a corridor — and they hold their shape through a 12-hour shift in a way a scrub top doesn't try to.</p>" },
+        { "type":"table", "variant":"alt", "klabel":"Head to head", "h2":"Setting by setting",
+          "head":["Your situation","Points to","Why"],
+          "rows":[
+            ["On-site changing, pooled laundry","<span class='code'>Scrubs</span>","Built for exactly that cycle"],
+            ["Public-facing all shift (care home, clinic)","<span class='code'>Tunics</span>","Structure and role colour-coding"],
+            ["Domiciliary rounds","<span class='code'>Tunic or polo</span>","Presentable at the door, layers for the car"],
+            ["Role identification matters to residents","<span class='code'>Tunics</span>","Trim colours read instantly"],
+            ["Tight budget, high garment turnover","<span class='code'>Scrubs</span>","Cheapest compliant sets to rotate"],
+            ["Mixed estate (clinical + FOH)","<span class='code'>Both</span>","Scrubs behind the doors, tunics in front"]
+          ] },
+        { "type":"prose", "klabel":"The constants", "h2":"What doesn't change either way", "narrow":true,
+          "html":"<p>Whichever side of the fork you take: the fabric must survive the <strong>laundering policy</strong> (commonly a 60&nbsp;°C benchmark — poly-cotton blends built for it), <strong>bare-below-the-elbow</strong> policies favour short sleeves during care tasks, staff need <strong>three to five sets</strong> for the rotation to actually work, and <a href='workwear-for-care-staff.html'>footwear does half the comfort</a> of a long shift. The full employer-side picture is in the <a href='healthcare-workwear-guide.html'>healthcare sector guide</a>.</p>" },
+        { "type":"clusternav" },
+        { "type":"faq", "klabel":"Questions", "h2":"Tunic vs scrubs FAQ" }
+      ],
+      "faq":[
+        {"q":"What's the practical difference between tunics and scrubs?","a":"Scrubs are loose pooled two-pieces built for on-site changing and hot communal laundering; tunics are structured, personally-issued garments worn over your own trousers, with trim colours that code roles for residents and visitors. Workflow — pooled vs public-facing — decides it."},
+        {"q":"Can care homes use scrubs instead of tunics?","a":"Yes, and some do, particularly for night staff and heavy-care units. The trade-off is presentation: tunics read as professional and colour-code roles at a glance, which matters where families and residents interact with staff all day."},
+        {"q":"How many tunics or scrub sets does each staff member need?","a":"Three to five, assuming a wash after every shift as most policies require. Under-issuing is the most common failure — one soiled shift with two sets breaks the rotation and the policy with it."}
+      ]
+    },
+    {
+      "slug": "disposable-vs-reusable-ppe",
+      "role": "spoke",
+      "spokeType": "Comparison",
+      "navLabel": "Disposable vs reusable PPE",
+      "cardTitle": "Disposable vs reusable PPE",
+      "cardBlurb": "When single-use is genuinely right, when it's just habit — and the arithmetic that decides between them.",
+      "crumbTail": "Comparison",
+      "kicker": "Comparison · PPE",
+      "h1": "Disposable vs reusable PPE.",
+      "metaTitle": "Disposable vs Reusable PPE: When Each Is Right | iNeedWorkwear",
+      "metaDesc": "Single-use PPE is right for contamination, hygiene and visitor kit; reusable wins on cost-per-use and quality everywhere else. The decision logic, with the honest arithmetic.",
+      "lede": "Disposable PPE exists for good reasons — contamination, hygiene, one-off visitors. But plenty of it gets bought from habit, at a cost-per-use that would embarrass any procurement review. Here's where each genuinely belongs.",
+      "heroMeta": [ {"n":"Cost per use","l":"The honest metric"}, {"n":"Contamination","l":"Where single-use wins outright"}, {"n":"Habit","l":"The expensive default"} ],
+      "schema": { "type": "Article" },
+      "blocks": [
+        { "type":"prose", "narrow":true, "klabel":"The logic", "h2":"Single-use is a feature, not a price point",
+          "html":"<p>Disposable PPE earns its place where the <strong>disposal is the point</strong>: gloves that carry contamination you don't want travelling (food handling, healthcare, chemicals, used oil), coveralls worn once over clean clothes for a dirty task, masks whose filters are spent by definition, hairnets and overshoes in hygiene zones, and kit for <strong>visitors and one-off contractors</strong> who'll never wear it twice.</p><p>Everywhere else, the disposable option is usually the expensive one wearing a cheap price tag. A box of disposable gloves used daily costs more per month than a rotation of quality <a href='work-gloves-guide.html'>coated work gloves</a> — and protects less, fits worse and tears sooner. The honest comparison is always <strong>cost per use at the protection level the task needs</strong>, not price per unit.</p>" },
+        { "type":"table", "variant":"alt", "klabel":"The split", "h2":"Where each belongs",
+          "head":["Situation","Right call","Why"],
+          "rows":[
+            ["Food prep, healthcare, chemical handling","<span class='code'>Disposable</span> nitrile","Contamination must leave with the glove"],
+            ["General handling, trades, site work","<span class='code'>Reusable</span> coated gloves","Better protection, small fraction of the cost per use"],
+            ["One-off dirty task over clean clothes","<span class='code'>Disposable</span> coverall","Cheaper than laundering a contaminated garment"],
+            ["Daily workshop wear","<span class='code'>Reusable</span> coveralls in rotation","Laundering beats landfill on every metric"],
+            ["Dust masks","<span class='code'>Disposable FFP-rated</span> — or reusable half-mask for regular use","Filters are consumable either way; frequency decides the format"],
+            ["Visitor & induction kit","<span class='code'>Disposable</span>","Hygiene and sizing chaos otherwise"]
+          ] },
+        { "type":"keyfacts", "variant":"dark", "klabel":"Worth knowing", "h2":"Three procurement truths",
+          "items":[
+            {"n":"Rated is rated","l":"Disposable doesn't mean uncertified — FFP masks and nitrile gloves carry real standards; check them like any PPE"},
+            {"n":"Fit still matters","l":"A baggy disposable glove wrecks dexterity — the removal-and-injury cycle applies here too"},
+            {"n":"Waste has a cost","l":"Bins full of single-use kit are a line item and, increasingly, a client question"}
+          ] },
+        { "type":"clusternav" },
+        { "type":"faq", "klabel":"Questions", "h2":"Disposable vs reusable FAQ" }
+      ],
+      "faq":[
+        {"q":"When should PPE be disposable?","a":"When disposal is the protection: contamination that must leave with the kit (food, healthcare, chemicals, used oil), one-off dirty tasks, hygiene zones, and visitor kit. For daily repeated work, reusable rated equipment protects better and costs less per use."},
+        {"q":"Are disposable gloves cheaper than work gloves?","a":"Per unit, yes; per month of daily use, almost never. A quality coated work glove survives days of what a disposable survives minutes of. The fair comparison is cost per use at the required protection level — disposables win it only where contamination forces single use."},
+        {"q":"Is disposable PPE certified to the same standards?","a":"Disposable PPE carries its own certifications — FFP ratings on masks, EN 374 on chemical gloves, food-contact approvals on nitrile. Single-use doesn't mean unrated; check the standard against the task exactly as you would with reusable kit."}
+      ]
+    }
+  ]
+}
