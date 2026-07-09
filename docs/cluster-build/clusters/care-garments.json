@@ -121,6 +121,109 @@
         {"q":"Can you use normal detergent on waterproof jackets?","a":"Avoid biological detergents and never use fabric softener — both degrade the DWR finish and can affect the membrane's performance. Use a technical cleaner or pure soap, rinse thoroughly, and reproof after washing if beading has stopped."},
         {"q":"What do the EN 343 numbers on a jacket mean?","a":"Two classes, each 1–4: the first is resistance to water penetration, the second is breathability. Higher is better in both. A jacket rated 4:4 is the top spec; a high first number with a low second keeps rain out but traps sweat."}
       ]
+    },
+    {
+      "slug": "oil-grease-out-of-workwear",
+      "role": "care",
+      "spokeType": "Care guide",
+      "navLabel": "Oil & grease removal",
+      "cardTitle": "Oil & grease out of workwear",
+      "cardBlurb": "Why hydrocarbons laugh at a normal wash, the pre-treat routine that works, and why it's a safety job on FR kit.",
+      "crumbTail": "Care",
+      "kicker": "Care guide · Stains & contamination",
+      "h1": "Getting oil & grease out of workwear.",
+      "metaTitle": "Oil & Grease Out of Workwear: What Actually Works | iNeedWorkwear",
+      "metaDesc": "Why oil survives a normal wash cycle, the pre-treat-then-hot-wash routine that shifts it, and why oil removal is a safety requirement — not a cosmetic one — on FR garments.",
+      "lede": "Oil beats an ordinary wash for a simple reason: it isn't water-soluble, and a 40-degree cycle with everyday detergent mostly just spreads it around. Getting it out is a two-step job — dissolve first, then wash hot. And on flame-resistant kit, it isn't optional.",
+      "heroMeta": [ {"n":"Pre-treat","l":"The step everyone skips"}, {"n":"Hottest safe wash","l":"Per the garment label"}, {"n":"FR rule","l":"Oily FR kit isn't FR"} ],
+      "schema": { "type": "HowTo", "steps": [
+        {"name":"Scrape and blot fresh contamination","text":"Lift what sits on the surface with a blunt edge and blot with paper or rag. Don't rub it deeper into the weave."},
+        {"name":"Pre-treat while the stain is fresh","text":"Work a solvent-based degreaser or neat washing-up liquid into the mark and give it 15–30 minutes. This step dissolves what the wash alone can't."},
+        {"name":"Wash hot, per the label, with a heavy-duty detergent","text":"Use the hottest cycle the care label allows and don't overload the drum. Heavy-duty liquid detergents carry the surfactant load that oils need."},
+        {"name":"Check before it dries","text":"Air-dry and inspect. Heat-drying a garment with oil still in it sets the stain — and on any garment, repeat treatment beats a tumble-dried mistake."},
+        {"name":"Repeat once — then make the call","text":"A second pre-treat-and-hot-wash shifts most survivors. What remains after that is in the fibre for good: cosmetic on a polo, disqualifying on FR kit."}
+      ] },
+      "blocks": [
+        { "type":"prose", "narrow":true, "klabel":"Why it survives the wash", "h2":"Oil doesn't dissolve in water — so the wash needs help",
+          "html":"<p>Detergents bridge oil and water, but an everyday low-temperature cycle gives them too little to work with: not enough heat to soften the grease, not enough chemistry to dissolve it. The fix isn't a stronger machine — it's <strong>pre-treatment</strong>: getting a degreasing agent into the stain <em>before</em> the wash, so the cycle has something it can actually rinse away.</p><p>Speed matters more than product choice. Fresh oil sits in the weave; week-old oil has oxidised into it. The crews whose kit stays presentable treat marks at the end of the shift, not at the end of the month.</p>" },
+        { "type":"steps", "narrow":true, "klabel":"The routine", "h2":"The two-step that actually works",
+          "items":[
+            {"h3":"Scrape, then blot — never rub","html":"Lift surface grease with a blunt edge and blot with rag or paper. Rubbing drives oil deeper and spreads the mark."},
+            {"h3":"Pre-treat and wait","html":"Work a solvent-based degreaser (or neat washing-up liquid — it's a kitchen-grade degreaser) into the stain. Leave it <strong>15–30 minutes</strong> to dissolve the oil. <span class='warn'>Skipping this step is why the stain survives.</span>"},
+            {"h3":"Hot wash, heavy-duty detergent","html":"The hottest cycle the <em>care label</em> allows, a heavy-duty liquid detergent, and room in the drum for the garment to move. Cold cycles preserve oil beautifully."},
+            {"h3":"Air-dry and inspect","html":"Tumble heat sets any oil still in the fabric. Check clean before any heat drying — if in doubt, line-dry."},
+            {"h3":"One repeat, then decide","html":"Run the pre-treat and hot wash once more if needed. Still marked after two rounds? On uniform kit that's cosmetic. On FR kit, see below — it's retirement."}
+          ] },
+        { "type":"warnbar", "html":"<strong>On FR garments, oil removal is a safety requirement.</strong> A flame-resistant coverall soaked with hydrocarbons can ignite and burn regardless of its rating — the fuel is in the fabric. Oily FR kit comes off shift for proper laundering, and a garment that won't come clean is retired, not tolerated. The full washing rules are in the <a href='how-to-wash-fr-coveralls.html' style='color:#fff;text-decoration:underline'>FR wash guide</a>." },
+        { "type":"table", "variant":"alt", "klabel":"Know when to stop", "h2":"Shift it, live with it, or retire it",
+          "head":["Situation","Verdict"],
+          "rows":[
+            ["Fresh oil on poly-cotton polos, trousers, coveralls","<span class='code'>Shifts</span> — pre-treat + hot wash, usually first time"],
+            ["Old, oxidised staining on uniform kit","<span class='code'>Cosmetic</span> — fabric is clean after washing even if shadowed; demote to dirty-work kit if looks matter"],
+            ["Any oil saturation on FR / arc / antistatic kit","<span class='code'>Launder properly or retire</span> — contamination defeats the protection"],
+            ["Oil on hi-vis fluorescent panels that won't lift","<span class='code'>Retire</span> — stains mask fluorescence where it's measured"]
+          ] },
+        { "type":"clusternav" },
+        { "type":"faq", "klabel":"Questions", "h2":"Oil & grease FAQ" }
+      ],
+      "faq":[
+        {"q":"How do you get engine oil out of work clothes?","a":"Blot off the surface oil, pre-treat with a degreaser or neat washing-up liquid for 15–30 minutes, then wash on the hottest cycle the care label allows with a heavy-duty detergent. Air-dry and check before tumble-drying — heat sets any oil left in the fabric."},
+        {"q":"Why won't oil come out in a normal wash?","a":"Oil isn't water-soluble, and a cool cycle with everyday detergent lacks both the heat and the chemistry to dissolve it. Without pre-treatment the wash mostly redistributes the oil — which is why the mark 'survives' laundering."},
+        {"q":"Is it safe to wear oil-stained FR workwear?","a":"No. Hydrocarbon contamination makes flame-resistant fabric ignitable regardless of its certified rating — the oil is fuel held against your body. Oily FR garments need proper laundering before reuse, and kit that won't come clean gets retired."},
+        {"q":"Does washing-up liquid really work on oil stains?","a":"Yes — it's formulated to cut kitchen grease and works the same way on workshop oil as a pre-treatment. Work it in neat, wait 20 minutes, then machine wash hot. For heavy or repeated contamination a purpose-made solvent degreaser is stronger."}
+      ]
+    },
+    {
+      "slug": "washing-embroidered-workwear",
+      "role": "care",
+      "spokeType": "Care guide",
+      "navLabel": "Washing branded kit",
+      "cardTitle": "Washing embroidered & branded workwear",
+      "cardBlurb": "Keeping stitched logos sharp and printed ones attached through hundreds of industrial washes.",
+      "crumbTail": "Care",
+      "kicker": "Care guide · Embroidery & print",
+      "h1": "Washing embroidered & printed workwear.",
+      "metaTitle": "Washing Embroidered & Printed Workwear Properly | iNeedWorkwear",
+      "metaDesc": "How to launder branded workwear so stitched logos stay sharp and printed ones stay attached — inside-out washing, temperature rules, and why print and embroidery age differently.",
+      "lede": "A logo is the hardest-working part of a uniform: it goes through every wash the garment does, and it fails in public. Embroidery and print age differently — stitching frays and puckers, print cracks and peels — but the laundering habits that protect them are nearly identical.",
+      "heroMeta": [ {"n":"Inside out","l":"The one habit that matters most"}, {"n":"40 °C","l":"The branded-kit sweet spot"}, {"n":"No iron","l":"Directly on either decoration"} ],
+      "schema": { "type": "HowTo", "steps": [
+        {"name":"Close fastenings and turn inside out","text":"Drum abrasion is what dulls embroidery and cracks print. Inside out, the garment's own fabric takes the friction instead of the decoration."},
+        {"name":"Wash at 40 °C on a normal cycle","text":"Hot enough for workwear soil, cool enough for rayon threads and transfer adhesives. Go hotter only if both garment and decoration specs allow it."},
+        {"name":"Use standard detergent — skip bleach and softener","text":"Bleach strips thread colour; softener coats print and helps it lift at the edges."},
+        {"name":"Line-dry or tumble cool","text":"High tumble heat is the number-one killer of heat-applied transfers and shrinks stitched areas into puckering."},
+        {"name":"Iron around, never across","text":"If pressing is needed, iron the fabric around the decoration, or press on the reverse with a cloth over embroidery. A hot plate directly on print re-melts it."}
+      ] },
+      "blocks": [
+        { "type":"prose", "narrow":true, "klabel":"Two failure modes", "h2":"Embroidery frays; print peels",
+          "html":"<p><strong>Embroidery</strong> is thousands of thread stitches through a stabilised patch of fabric. It fails by <em>abrasion and heat</em>: threads dull and fuzz where the drum grinds them, and aggressive drying shrinks the fabric behind the stitches so the logo puckers. It is, however, the tougher of the two — which is why it's the default for kit washed constantly.</p><p><strong>Printed and heat-transferred logos</strong> are a film bonded to the fabric surface. They fail by <em>heat and flexing</em>: hot washes and hot tumbles soften the adhesive, edges lift, and the film cracks along fold lines. Print earns its place on garments where stitching doesn't work — waterproof shells (needle holes compromise membranes) and large-format designs.</p><p>Same protective habits either way — the routine below — plus one purchasing note: on <a href='caring-for-hi-vis.html'>hi-vis</a> and FR kit, decoration placement and process affect certification, so brand through your supplier rather than a high-street press.</p>" },
+        { "type":"steps", "narrow":true, "klabel":"The routine", "h2":"Five habits that keep logos sharp",
+          "items":[
+            {"h3":"Inside out, fastenings closed","html":"The single highest-value habit: the drum abrades the garment's inside instead of the logo. Velcro closed — it grabs threads and transfer edges alike."},
+            {"h3":"40 °C, normal cycle","html":"The branded-kit compromise: hot enough for real soil, gentle enough for threads and adhesives. Check both the garment label and the decoration spec before going hotter."},
+            {"h3":"No bleach, no softener","html":"Bleach takes the colour out of thread; softener leaves a film that lifts print edges and dulls stitching. Standard detergent does the job."},
+            {"h3":"Cool drying","html":"<span class='warn'>Hot tumbling is the top cause of peeled transfers.</span> Line-dry where possible; tumble low where not."},
+            {"h3":"Iron with respect","html":"Never run a hot plate across a printed logo — it re-melts. Press around decorations, or on the reverse through a cloth for embroidered areas."}
+          ] },
+        { "type":"table", "variant":"alt", "klabel":"Choosing", "h2":"Embroidery or print — decided by the garment",
+          "head":["Garment","Better choice","Why"],
+          "rows":[
+            ["Polos, sweatshirts, fleeces","<span class='code'>Embroidery</span>","Survives hundreds of washes; premium look"],
+            ["Waterproof & padded jackets","<span class='code'>Print / transfer</span>","Stitching perforates membranes and fill"],
+            ["Hi-vis garments","<span class='code'>Either — placed correctly</span>","Decoration must not cover certified fluoro or tape areas"],
+            ["FR garments","<span class='code'>Supplier-applied only</span>","Threads, films and processes must be FR-compatible"],
+            ["Large back designs","<span class='code'>Print</span>","Embroidery at that scale is heavy and stiff"]
+          ] },
+        { "type":"citebox", "html":"Ordering embroidered kit for a team? Placement, thread colours and wash-grade all get decided up front — <a href='contact.html'>talk to us</a> before the garments are made, not after." },
+        { "type":"clusternav" },
+        { "type":"faq", "klabel":"Questions", "h2":"Branded kit FAQ" }
+      ],
+      "faq":[
+        {"q":"How do you wash clothes with embroidered logos?","a":"Inside out with fastenings closed, at 40 °C on a normal cycle, with standard detergent — no bleach, no softener. Line-dry or tumble cool, and never iron directly over the stitching. The inside-out habit alone prevents most embroidery wear."},
+        {"q":"Why is my printed logo cracking and peeling?","a":"Heat. Hot washes and hot tumble-drying soften the transfer adhesive and the film itself; edges lift, then folds crack. Wash at 40 °C, dry cool, and never iron across the print — pressed correctly, a quality transfer lasts years of weekly washing."},
+        {"q":"Is embroidery or printing better for workwear?","a":"Embroidery for anything washed hard and often — polos, sweats, fleeces — because stitching outlasts film. Print for waterproof shells (stitching makes needle holes through the membrane), large designs, and fine detail. Many uniforms sensibly use both across the wardrobe."},
+        {"q":"Can you embroider hi-vis and FR workwear?","a":"Yes, with rules: on hi-vis the decoration must not encroach on the certified fluorescent background or tape areas, and on FR garments the threads and process must be FR-compatible. That's why branding safety kit should go through the workwear supplier rather than a generic print shop."}
+      ]
     }
   ]
 }

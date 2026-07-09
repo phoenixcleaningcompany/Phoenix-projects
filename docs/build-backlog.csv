@@ -30,14 +30,14 @@ LIVE,Comparison,Hi-vis,Yellow vs orange hi-vis,yellow-vs-orange-hi-vis,hi-vis | 
 LIVE,Standard explainer,Hi-vis / rail,Rail spec workwear: RIS-3279-TOM explained,rail-spec-workwear-explained,rail-spec,Low competition
 LIVE,Care guide,Hi-vis,Caring for hi-vis (wash limits & compliance),caring-for-hi-vis,hi-vis,PROMISED on care hub
 LIVE,Care guide,Care,Reproofing waterproofs,reproofing-waterproofs,coats-jackets,PROMISED on care hub
-T1,Care guide,Care,Getting oil & grease out of workwear,oil-grease-out-of-workwear,coveralls | flame-retardant,PROMISED on care hub
-T1,Care guide,Care,Washing embroidered & branded workwear,washing-embroidered-workwear,polo-shirts | sweatshirts,PROMISED on care hub
-T1,Sector hub,Sectors,Construction workwear guide,construction-workwear-guide,construction | hi-vis | footwear,PROMISED on sectors hub
-T1,Sector hub,Sectors,Warehousing & logistics workwear guide,warehouse-logistics-workwear-guide,hi-vis | footwear | coldstore,PROMISED on sectors hub
-T1,Sector hub,Sectors,Manufacturing & engineering workwear guide,manufacturing-workwear-guide,coveralls | gloves-ppe | flame-retardant,PROMISED on sectors hub
-T1,Sector hub,Sectors,Healthcare & care workwear guide,healthcare-workwear-guide,healthcare | scrubs | tunics,PROMISED on sectors hub
-T1,Sector hub,Sectors,Hospitality & catering workwear guide,hospitality-workwear-guide,hospitality | chefswear | aprons,PROMISED on sectors hub
-T1,Sector hub,Sectors,Energy & offshore workwear guide,energy-offshore-workwear-guide,offshore-clothing | flame-retardant,PROMISED on sectors hub
+LIVE,Care guide,Care,Getting oil & grease out of workwear,oil-grease-out-of-workwear,coveralls | flame-retardant,PROMISED on care hub
+LIVE,Care guide,Care,Washing embroidered & branded workwear,washing-embroidered-workwear,polo-shirts | sweatshirts,PROMISED on care hub
+LIVE,Sector hub,Sectors,Construction workwear guide,construction-workwear-guide,construction | hi-vis | footwear,PROMISED on sectors hub
+LIVE,Sector hub,Sectors,Warehousing & logistics workwear guide,warehouse-logistics-workwear-guide,hi-vis | footwear | coldstore,PROMISED on sectors hub
+LIVE,Sector hub,Sectors,Manufacturing & engineering workwear guide,manufacturing-workwear-guide,coveralls | gloves-ppe | flame-retardant,PROMISED on sectors hub
+LIVE,Sector hub,Sectors,Healthcare & care workwear guide,healthcare-workwear-guide,healthcare | scrubs | tunics,PROMISED on sectors hub
+LIVE,Sector hub,Sectors,Hospitality & catering workwear guide,hospitality-workwear-guide,hospitality | chefswear | aprons,PROMISED on sectors hub
+LIVE,Sector hub,Sectors,Energy & offshore workwear guide,energy-offshore-workwear-guide,offshore-clothing | flame-retardant,PROMISED on sectors hub
 T1,Role guide,Roles,Kit for warehouse operatives,workwear-for-warehouse-operatives,hi-vis | footwear | coldstore,PROMISED on roles hub
 T1,Role guide,Roles,PPE for electricians (arc flash),ppe-for-electricians,arc-flash | flame-retardant,PROMISED on roles hub
 T1,Role guide,Roles,What a chef actually wears,what-chefs-wear,chefswear | aprons | footwear,PROMISED on roles hub
