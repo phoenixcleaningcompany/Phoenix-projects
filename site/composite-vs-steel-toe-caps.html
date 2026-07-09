@@ -1,29 +1,20 @@
-// iNeedWorkwear cluster renderer — turns a cluster JSON (hub + spokes as data)
-// into self-contained, on-brand HTML pages, auto-wiring interlinks + schema.
-// No dependencies. Usage: node render.mjs clusters/hi-vis.json [outDir]
-import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
-import { dirname, resolve, join } from 'node:path';
-
-const args = process.argv.slice(2);
-const cfgPath = resolve(args[0] || 'clusters/hi-vis.json');
-const outDir = resolve(args[1] || 'out');
-const C = JSON.parse(readFileSync(cfgPath, 'utf8'));
-mkdirSync(outDir, { recursive: true });
-
-const cl = C.cluster;
-const pages = C.pages;
-// A cluster normally contains its own hub page. externalHub lets spokes attach
-// to a hub that already exists on the site (e.g. the care hub) instead.
-const hub = pages.find(p => p.role === 'hub') || { ...cl.externalHub, role: 'hub', external: true };
-const spokes = pages.filter(p => p.role !== 'hub');
-const url = slug => `${cl.baseUrl || 'https://www.ineedworkwear.uk'}/${slug}.html`;
-
-// ---------- helpers ----------
-const esc = s => String(s ?? '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
-const spokeLabel = p => p.role === 'care' ? 'Care guide' : (p.spokeType || 'Guide');
-
-// ---------- design system (one token set, every page) ----------
-const CSS = `
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Composite vs Steel Toe Caps: Which to Choose | iNeedWorkwear</title>
+<meta name="description" content="Steel and composite toe caps both meet the same 200 J standard — the real differences are weight, cold, metal detectors, cap profile and post-impact behaviour.">
+<link rel="canonical" href="https://www.ineedworkwear.uk/composite-vs-steel-toe-caps.html">
+<meta property="og:title" content="Composite vs Steel Toe Caps: Which to Choose | iNeedWorkwear"><meta property="og:description" content="Steel and composite toe caps both meet the same 200 J standard — the real differences are weight, cold, metal detectors, cap profile and post-impact behaviour."><meta property="og:type" content="article">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Article","headline":"Composite vs steel toe caps.","description":"Steel and composite toe caps both meet the same 200 J standard — the real differences are weight, cold, metal detectors, cap profile and post-impact behaviour.","author":{"@type":"Organization","name":"iNeedWorkwear","url":"https://www.ineedworkwear.uk"},"publisher":{"@type":"Organization","name":"iNeedWorkwear","url":"https://www.ineedworkwear.uk"},"datePublished":"2026-07-09","dateModified":"2026-07-09"}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Is a steel toe cap stronger than composite?","acceptedAnswer":{"@type":"Answer","text":"No. Both must pass the identical EN ISO 20345 tests — 200 J impact and 15 kN compression — to be sold as safety footwear. Steel achieves it in a thinner cap; composite needs more material but weighs less. Certified protection is the same."}},{"@type":"Question","name":"Are composite toe caps OK in cold weather?","acceptedAnswer":{"@type":"Answer","text":"They're the better choice — composite doesn't conduct heat away from the toes the way steel does. For winter site work and cold stores, composite caps (ideally with a CI cold-insulation sole mark) keep feet noticeably warmer."}},{"@type":"Question","name":"Do composite toe caps go through airport security?","acceptedAnswer":{"@type":"Answer","text":"A fully metal-free composite boot generally clears detector archways, which is why they're standard for airside workers, secure facilities and frequent flyers. Check the whole boot is metal-free — some composite-cap boots still use a steel midsole; look for PL or PS midsole marks instead of P."}},{"@type":"Question","name":"When should a boot be replaced after an impact?","acceptedAnswer":{"@type":"Answer","text":"After any impact heavy enough that the cap did its job — regardless of material. Steel deforms visibly; composite can fracture internally with no outward sign. The cap's rating is for a single major event, so the boot is retired."}}]}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.ineedworkwear.uk/"},{"@type":"ListItem","position":2,"name":"Footwear hub","item":"https://www.ineedworkwear.uk/safety-footwear-guide.html"},{"@type":"ListItem","position":3,"name":"Composite vs steel","item":"https://www.ineedworkwear.uk/composite-vs-steel-toe-caps.html"}]}
+</script>
+<style>
 :root{--ink:#151B26;--steel:#232C3A;--slate:#5C6675;--mute:#8A94A3;--paper:#F4F5F7;--white:#fff;--line:#E1E4EA;--navy:#111823;
 --orange:#E4571F;--orange-d:#C0430F;--hivis:#8A9A00;--hivis-bright:#C6D92E;--ok:#1F7A4D;--warn:#B0341E;
 --disp:'Barlow Condensed','Arial Narrow',sans-serif;--body:'Inter',-apple-system,'Segoe UI',sans-serif;--mono:'IBM Plex Mono',ui-monospace,Menlo,monospace;--maxw:1160px;--r:6px;}
@@ -87,7 +78,7 @@ table.data tbody tr:nth-child(even){background:var(--paper)}.code{font-family:va
 .clusternav li a{display:inline-block;font-size:.9rem;font-weight:600;color:#E7EBF1;background:var(--navy);border:1px solid #2d3846;border-radius:20px;padding:.4rem .9rem}.clusternav li.hub a{border-color:var(--orange);color:var(--orange)}
 .faq{margin-top:28px;border-top:1px solid var(--line)}.faq details{border-bottom:1px solid var(--line)}
 .faq summary{cursor:pointer;font-family:var(--disp);font-size:1.28rem;color:var(--ink);text-transform:uppercase;padding:18px 0;list-style:none;display:flex;justify-content:space-between;gap:1rem}
-.faq summary::-webkit-details-marker{display:none}.faq summary::after{content:"+";font-family:var(--mono);color:var(--orange);font-size:1.3rem}.faq details[open] summary::after{content:"\\2013"}
+.faq summary::-webkit-details-marker{display:none}.faq summary::after{content:"+";font-family:var(--mono);color:var(--orange);font-size:1.3rem}.faq details[open] summary::after{content:"\2013"}
 .faq details p{padding:0 0 20px;font-size:.97rem;max-width:76ch;color:var(--slate)}
 .cta{background:var(--orange);color:#fff;padding:48px 0}.cta .wrap{display:flex;align-items:center;justify-content:space-between;gap:28px;flex-wrap:wrap}
 .cta h2{color:#fff;font-size:1.8rem}.cta p{color:rgba(255,255,255,.92);margin-top:.3rem;max-width:50ch}.cta-actions{display:flex;gap:.6rem;flex-wrap:wrap}
@@ -98,88 +89,23 @@ table.data tbody tr:nth-child(even){background:var(--paper)}.code{font-family:va
 .foot ul{list-style:none}.foot li{margin-bottom:.5rem}.foot a{color:#98A2B0;font-size:.92rem}.foot a:hover{color:var(--orange)}
 .foot .legal{padding-top:20px;font-size:.8rem;color:var(--mute);display:flex;justify-content:space-between;gap:1rem;flex-wrap:wrap;font-family:var(--mono)}
 :focus-visible{outline:3px solid var(--hivis-bright);outline-offset:2px}@media(prefers-reduced-motion:reduce){*{transition:none!important}}
-`;
-
-// ---------- block renderers (the component library) ----------
-const V = b => b.variant === 'alt' ? ' alt' : b.variant === 'dark' ? ' dark' : '';
-const W = b => b.narrow ? ' narrow' : '';
-const head = (b) => `${b.klabel ? `<p class="klabel">${esc(b.klabel)}</p>` : ''}${b.h2 ? `<h2 class="h2">${esc(b.h2)}</h2>` : ''}${b.lead ? `<p class="lead">${b.lead}</p>` : ''}`;
-
-const BLOCKS = {
-  prose: (b) => `<section class="section${V(b)}"><div class="wrap${W(b)}">${head(b)}<div class="prose">${b.html}</div></div></section>`,
-  keyfacts: (b) => `<section class="section${V(b)}"><div class="wrap${W(b)}">${head(b)}<div class="keyfacts">${b.items.map(i=>`<div class="kf"><div class="n">${esc(i.n)}</div><div class="l">${esc(i.l)}</div></div>`).join('')}</div></div></section>`,
-  cards: (b) => `<section class="section${V(b)}"><div class="wrap">${head(b)}<div class="kit">${b.items.map(i=>`<div class="c${i.hot?' hot':''}">${i.s?`<div class="s">${esc(i.s)}</div>`:''}<h3>${esc(i.h3)}</h3>${i.area?`<div class="area">${esc(i.area)}</div>`:''}<p>${i.p}</p></div>`).join('')}</div></div></section>`,
-  table: (b) => `<section class="section${V(b)}"><div class="wrap">${head(b)}<div class="tbl-scroll"><table class="data"><thead><tr>${b.head.map(h=>`<th>${h}</th>`).join('')}</tr></thead><tbody>${b.rows.map(r=>`<tr>${r.map(c=>`<td>${c}</td>`).join('')}</tr>`).join('')}</tbody></table></div></div></section>`,
-  steps: (b) => `<section class="section${V(b)}"><div class="wrap${W(b)}">${head(b)}<div class="steps">${b.items.map(i=>`<div class="step"><div><h3>${esc(i.h3)}</h3><p>${i.html}</p></div></div>`).join('')}</div></div></section>`,
-  warnbar: (b) => `<section class="section${V(b)}"><div class="wrap${W(b)}">${head(b)}<div class="warnbar">${b.html}</div></div></section>`,
-  citebox: (b) => `<section class="section${V(b)}"><div class="wrap${W(b)}"><div class="citebox">${b.html}</div></div></section>`,
-  // auto blocks — content derived from the cluster graph, not authored:
-  spokes: (b, ctx) => `<section class="section${V(b)}"><div class="wrap">${head(b)}<div class="spokes">${ctx.spokes.map(s=>`<a class="spoke" href="${s.slug}.html"><div class="t">${esc(spokeLabel(s))}</div><h3>${esc(s.cardTitle||s.h1||s.title)}</h3><p>${esc(s.cardBlurb||s.metaDesc||'')}</p><span class="go">Read the guide &rarr;</span></a>`).join('')}</div></div></section>`,
-  clusternav: (b, ctx) => `<section class="section${V(b)}"><div class="wrap"><div class="clusternav"><div class="t">In this cluster</div><ul><li class="hub"><a href="${ctx.hub.slug}.html">◆ ${esc(ctx.hub.navLabel||'Hub')}</a></li>${ctx.spokes.filter(s=>s.slug!==ctx.page.slug).map(s=>`<li><a href="${s.slug}.html">${esc(s.navLabel||s.cardTitle||s.title)}</a></li>`).join('')}<li><a href="${cl.shopUrl}">Shop ${esc(cl.shopLabel||cl.topic)}</a></li></ul></div></div></section>`,
-  faq: (b, ctx) => `<section class="section${V(b)}"><div class="wrap${W(b)}"><p class="klabel">${esc(b.klabel||'Questions')}</p><h2 class="h2">${esc(b.h2||'FAQ')}</h2><div class="faq">${(ctx.page.faq||[]).map((f,i)=>`<details${i===0?' open':''}><summary>${esc(f.q)}</summary><p>${f.a}</p></details>`).join('')}</div></div></section>`,
-};
-
-// ---------- JSON-LD ----------
-function jsonld(page){
-  const org = { "@type":"Organization", name:"iNeedWorkwear", url: cl.baseUrl };
-  const blocks = [];
-  if (page.schema?.type === 'HowTo') {
-    blocks.push({ "@context":"https://schema.org","@type":"HowTo", name: page.h1||page.title, description: page.metaDesc,
-      step: (page.schema.steps||[]).map(s=>({ "@type":"HowToStep", name:s.name, text:s.text })) });
-  } else {
-    blocks.push({ "@context":"https://schema.org","@type":"Article", headline: page.h1||page.title, description: page.metaDesc, author: org, publisher: org, datePublished: cl.date, dateModified: cl.date });
-  }
-  if (page.faq?.length) blocks.push({ "@context":"https://schema.org","@type":"FAQPage", mainEntity: page.faq.map(f=>({ "@type":"Question", name:f.q, acceptedAnswer:{ "@type":"Answer", text: f.a.replace(/<[^>]+>/g,'') } })) });
-  const crumbs = [{name:"Home",item:cl.baseUrl+"/"}];
-  if (page.role !== 'hub') crumbs.push({name: hub.navLabel||hub.title, item: url(hub.slug)});
-  crumbs.push({name: page.navLabel||page.h1||page.title, item: url(page.slug)});
-  blocks.push({ "@context":"https://schema.org","@type":"BreadcrumbList", itemListElement: crumbs.map((c,i)=>({ "@type":"ListItem", position:i+1, name:c.name, item:c.item })) });
-  return blocks.map(b=>`<script type="application/ld+json">\n${JSON.stringify(b)}\n</script>`).join('\n');
-}
-
-// ---------- page assembly ----------
-function renderPage(page){
-  const ctx = { cluster: cl, hub, spokes, page };
-  const trust = (page.trust || cl.trust || []).map(t=>`<span><b>&#10003;</b> ${esc(t)}</span>`).join('');
-  const heroMeta = (page.heroMeta||[]).map(m=>`<div><div class="n">${esc(m.n)}</div><div class="l">${esc(m.l)}</div></div>`).join('');
-  const crumbLink = page.role==='hub' ? `${esc(cl.topic)}` : `<a href="${hub.slug}.html">${esc(hub.navLabel||'Hub')}</a> / ${esc(page.crumbTail||spokeLabel(page))}`;
-  const cta = page.cta || cl.cta || { h2:`Shop ${cl.topic}`, p:`Certified stock, embroidery and trade accounts.`, actions:[{label:`Shop ${cl.shopLabel||cl.topic}`,href:cl.shopUrl,style:'white'},{label:'Back to hub',href:`${hub.slug}.html`,style:'dark'}] };
-  const body = (page.blocks||[]).map(b=>{ const fn = BLOCKS[b.type]; if(!fn) throw new Error(`Unknown block type: ${b.type}`); return fn(b, ctx); }).join('\n');
-
-  const footCluster = [hub, ...spokes].map(p=>`<li><a href="${p.slug}.html">${esc(p.navLabel||p.cardTitle||p.title)}</a></li>`).join('')+`<li><a href="${cl.shopUrl}">Shop ${esc(cl.shopLabel||cl.topic)}</a></li>`;
-
-  return `<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>${esc(page.metaTitle)}</title>
-<meta name="description" content="${esc(page.metaDesc)}">
-<link rel="canonical" href="${url(page.slug)}">
-<meta property="og:title" content="${esc(page.metaTitle)}"><meta property="og:description" content="${esc(page.metaDesc)}"><meta property="og:type" content="article">
-<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
-${jsonld(page)}
-<style>${CSS}</style></head><body>
+</style></head><body>
 <header class="top"><div class="top-in"><a class="brand" href="index.html"><svg class="mk" viewBox="0 0 32 32" fill="none" aria-hidden="true"><rect x="3" y="11" width="26" height="18" rx="2" stroke="#E4571F" stroke-width="2"/><path d="M11 11 V7 a5 5 0 0 1 10 0 v4" stroke="#C6D92E" stroke-width="2"/><path d="M13 18 h6 M16 18 v7" stroke="#E4571F" stroke-width="2"/></svg>iNeed<span>Workwear</span></a>
 <nav class="nav"><a href="sectors.html">Sectors</a><a href="roles.html">Roles</a><a href="standards.html">Standards</a><a href="guides.html">Guides</a><a href="kit.html">Kit</a><a class="shop mono" href="https://www.ineedworkwear.com">Shop &rarr;</a></nav></div></header>
-<section class="hero"><div class="hero-in"><div class="crumbs">${crumbLink}</div><p class="eyebrow">${esc(page.kicker)}</p><h1>${esc(page.h1||page.title)}</h1><p class="lede">${page.lede}</p>
-${page.heroCta?`<div class="hero-cta">${page.heroCta.map(a=>`<a class="btn btn-${a.style||'orange'} btn-lg" href="${a.href}">${esc(a.label)}</a>`).join('')}</div>`:''}
-${heroMeta?`<div class="hero-meta">${heroMeta}</div>`:''}</div></section>
-${trust?`<div class="trust"><div class="trust-in">${trust}</div></div>`:''}
-${body}
-<section class="cta"><div class="wrap"><div><h2>${esc(cta.h2)}</h2><p>${esc(cta.p)}</p></div><div class="cta-actions">${cta.actions.map(a=>`<a class="btn btn-${a.style==='white'?'white':'dark'} btn-lg" href="${a.href}">${esc(a.label)}</a>`).join('')}</div></div></section>
-<footer class="foot"><div class="wrap"><div class="foot-grid"><div><div class="fb">iNeed<span>Workwear</span></div><p style="max-width:44ch;font-size:.92rem">Independent workwear guidance by sector, role, standard and area — matched to certified kit. Nationwide supplier; buy through the iNeedWorkwear shop.</p><p class="mono" style="margin-top:1rem;font-size:.85rem"><a href="tel:01597730142" style="color:#fff">01597 730142</a> &middot; <a href="mailto:hello@ineedworkwear.com" style="color:#C6D92E">hello@ineedworkwear.com</a></p></div>
-<div><h5>${esc(cl.topic)} cluster</h5><ul>${footCluster}</ul></div>
-<div><h5>Explore</h5><ul><li><a href="standards.html">By standard</a></li><li><a href="roles.html">By role</a></li><li><a href="sectors.html">By sector</a></li><li><a href="guides.html">All guides</a></li><li><a href="about.html">About</a></li><li><a href="contact.html">Contact</a></li></ul></div></div>
-<div class="legal"><span>&copy; ${(cl.date||'2026').slice(0,4)} iNeedWorkwear</span><span>${esc(cl.topic)} · ${esc(page.role)}</span></div></div></footer>
-</body></html>\n`;
-}
+<section class="hero"><div class="hero-in"><div class="crumbs"><a href="safety-footwear-guide.html">Footwear hub</a> / Comparison</div><p class="eyebrow">Comparison · Toe cap materials</p><h1>Composite vs steel toe caps.</h1><p class="lede">This one has a myth to kill first: a steel cap is not "stronger". Both materials must pass exactly the same 200-joule impact and 15 kN compression tests to be sold as safety footwear. The genuine differences are in weight, temperature, security gates — and what happens after a big hit.</p>
 
-// ---------- run ----------
-const built = [];
-for (const page of pages){
-  const htmlText = renderPage(page);
-  const outPath = join(outDir, page.slug + '.html');
-  writeFileSync(outPath, htmlText);
-  built.push({ slug: page.slug, role: page.role, bytes: htmlText.length });
-}
-console.log(`Rendered cluster "${cl.id}" → ${outDir}`);
-for (const b of built) console.log(`  ${b.role.padEnd(6)} ${b.slug}.html  (${(b.bytes/1024).toFixed(1)} KB)`);
-writeFileSync(join(outDir, '_manifest.json'), JSON.stringify({ cluster: cl.id, externalHub: cl.externalHub || null, pages: built }, null, 2));
+<div class="hero-meta"><div><div class="n">200 J</div><div class="l">Both. Identical.</div></div><div><div class="n">~30–50%</div><div class="l">Cap weight saving, composite</div></div><div><div class="n">0 metal</div><div class="l">Composite clears detectors</div></div></div></div></section>
+<div class="trust"><div class="trust-in"><span><b>&#10003;</b> EN ISO 20345 certified stock</span><span><b>&#10003;</b> SB to S7</span><span><b>&#10003;</b> Steel, composite &amp; aluminium caps</span><span><b>&#10003;</b> Boots, shoes &amp; trainers</span><span><b>&#10003;</b> Trade accounts</span></div></div>
+<section class="section"><div class="wrap narrow"><p class="klabel">The level playing field</p><h2 class="h2">Protection is a tie — by definition</h2><div class="prose"><p>EN ISO 20345 doesn't care what the cap is made of. Steel, aluminium, fibreglass, carbon composite — every cap must stop the same falling 200-joule mass and the same 15&nbsp;kN squeeze. A composite S3 boot and a steel S3 boot are, in certification terms, equally protective.</p><p>So the decision is about everything else: how the boot carries, how it behaves in heat and cold, whether it sets off an archway, and how each material fails. Those differences are real — and for some jobs they decide the purchase outright.</p></div></div></section>
+<section class="section alt"><div class="wrap"><p class="klabel">Head to head</p><h2 class="h2">The honest trade-offs</h2><div class="tbl-scroll"><table class="data"><thead><tr><th></th><th>Steel</th><th>Composite</th></tr></thead><tbody><tr><td>Impact & compression</td><td><span class='code'>200 J / 15 kN</span> — identical</td><td><span class='code'>200 J / 15 kN</span> — identical</td></tr><tr><td>Cap weight</td><td>Heavier — noticeable over a 10-hour shift</td><td>Typically 30–50% lighter than the same-size steel cap</td></tr><tr><td>Cap profile</td><td>Thin — sleeker toe shape</td><td>Thicker for the same strength — slightly bulkier toe</td></tr><tr><td>Cold weather</td><td>Conducts cold straight to the toes</td><td>Insulates — the usual pick for winter and cold stores</td></tr><tr><td>Metal detectors / security</td><td>Triggers archways</td><td>Metal-free — airports, prisons, secure sites</td></tr><tr><td>Electrical environments</td><td>Conductive metal in the boot</td><td>Non-conductive cap material</td></tr><tr><td>After a major impact</td><td>Dents visibly — damage is obvious</td><td>Damage can be internal and invisible</td></tr><tr><td>Price</td><td>Usually the cheaper option</td><td>Typically costs more, gap narrowing</td></tr></tbody></table></div></div></section>
+<section class="section"><div class="wrap"><div class="warnbar"><strong>After any serious impact, both caps are spent.</strong> A cap is certified for one 200-joule event, not a career of them. Steel at least shows the dent; a composite cap can look perfect with fractured structure inside. Either way: an impact that would have hurt your foot means the boot gets replaced — no exceptions.</div></div></section>
+<section class="section"><div class="wrap narrow"><p class="klabel">Decision</p><h2 class="h2">Who should pick which</h2><div class="prose"><p><strong>Pick composite</strong> if you're outdoors through winter, on your feet all shift, pass through security archways, or work near live electrical systems. The weight and thermal differences are the ones people actually feel day to day.</p><p><strong>Pick steel</strong> if budget leads, you want the slimmest toe profile, or you like that impact damage announces itself. In heavy plant and scrap environments some wearers prefer steel precisely because a dented cap is unambiguous.</p><p><strong>Aluminium</strong> sits between the two — nearly as thin as steel, close to composite weight — but it's still metal, so it solves neither the detector nor the conductivity problem. It suits wearers chasing lightness who don't need metal-free.</p></div></div></section>
+<section class="section dark"><div class="wrap"><p class="klabel">Remember</p><h2 class="h2">Three things that settle most arguments</h2><div class="keyfacts"><div class="kf"><div class="n">Same 200 J</div><div class="l">&quot;Steel is stronger&quot; is folklore — certification is identical</div></div><div class="kf"><div class="n">Cold toes = steel</div><div class="l">Thermal conduction is the difference wearers notice most</div></div><div class="kf"><div class="n">One impact, then bin</div><div class="l">Applies to both materials equally</div></div></div></div></section>
+<section class="section"><div class="wrap"><div class="clusternav"><div class="t">In this cluster</div><ul><li class="hub"><a href="safety-footwear-guide.html">◆ Footwear hub</a></li><li><a href="safety-boot-codes-explained.html">Boot codes S1–S7</a></li><li><a href="safety-boot-care.html">Boot care</a></li><li><a href="https://www.ineedworkwear.com/collections/footwear">Shop safety footwear</a></li></ul></div></div></section>
+<section class="section"><div class="wrap"><p class="klabel">Questions</p><h2 class="h2">Toe cap FAQ</h2><div class="faq"><details open><summary>Is a steel toe cap stronger than composite?</summary><p>No. Both must pass the identical EN ISO 20345 tests — 200 J impact and 15 kN compression — to be sold as safety footwear. Steel achieves it in a thinner cap; composite needs more material but weighs less. Certified protection is the same.</p></details><details><summary>Are composite toe caps OK in cold weather?</summary><p>They're the better choice — composite doesn't conduct heat away from the toes the way steel does. For winter site work and cold stores, composite caps (ideally with a CI cold-insulation sole mark) keep feet noticeably warmer.</p></details><details><summary>Do composite toe caps go through airport security?</summary><p>A fully metal-free composite boot generally clears detector archways, which is why they're standard for airside workers, secure facilities and frequent flyers. Check the whole boot is metal-free — some composite-cap boots still use a steel midsole; look for PL or PS midsole marks instead of P.</p></details><details><summary>When should a boot be replaced after an impact?</summary><p>After any impact heavy enough that the cap did its job — regardless of material. Steel deforms visibly; composite can fracture internally with no outward sign. The cap's rating is for a single major event, so the boot is retired.</p></details></div></div></section>
+<section class="cta"><div class="wrap"><div><h2>Know your S-code? Shop it.</h2><p>EN ISO 20345 boots, shoes and safety trainers from stock — S1P and S3 always available, with trade-account ordering for teams.</p></div><div class="cta-actions"><a class="btn btn-white btn-lg" href="https://www.ineedworkwear.com/collections/footwear">Shop safety footwear</a><a class="btn btn-dark btn-lg" href="guides.html">Back to the guides</a></div></div></section>
+<footer class="foot"><div class="wrap"><div class="foot-grid"><div><div class="fb">iNeed<span>Workwear</span></div><p style="max-width:44ch;font-size:.92rem">Independent workwear guidance by sector, role, standard and area — matched to certified kit. Nationwide supplier; buy through the iNeedWorkwear shop.</p><p class="mono" style="margin-top:1rem;font-size:.85rem"><a href="tel:01597730142" style="color:#fff">01597 730142</a> &middot; <a href="mailto:hello@ineedworkwear.com" style="color:#C6D92E">hello@ineedworkwear.com</a></p></div>
+<div><h5>Safety footwear cluster</h5><ul><li><a href="safety-footwear-guide.html">Footwear hub</a></li><li><a href="safety-boot-codes-explained.html">Boot codes S1–S7</a></li><li><a href="composite-vs-steel-toe-caps.html">Composite vs steel</a></li><li><a href="safety-boot-care.html">Boot care</a></li><li><a href="https://www.ineedworkwear.com/collections/footwear">Shop safety footwear</a></li></ul></div>
+<div><h5>Explore</h5><ul><li><a href="standards.html">By standard</a></li><li><a href="roles.html">By role</a></li><li><a href="sectors.html">By sector</a></li><li><a href="guides.html">All guides</a></li><li><a href="about.html">About</a></li><li><a href="contact.html">Contact</a></li></ul></div></div>
+<div class="legal"><span>&copy; 2026 iNeedWorkwear</span><span>Safety footwear · spoke</span></div></div></footer>
+</body></html>

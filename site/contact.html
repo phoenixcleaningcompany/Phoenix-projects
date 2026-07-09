@@ -1,29 +1,20 @@
-// iNeedWorkwear cluster renderer — turns a cluster JSON (hub + spokes as data)
-// into self-contained, on-brand HTML pages, auto-wiring interlinks + schema.
-// No dependencies. Usage: node render.mjs clusters/hi-vis.json [outDir]
-import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
-import { dirname, resolve, join } from 'node:path';
-
-const args = process.argv.slice(2);
-const cfgPath = resolve(args[0] || 'clusters/hi-vis.json');
-const outDir = resolve(args[1] || 'out');
-const C = JSON.parse(readFileSync(cfgPath, 'utf8'));
-mkdirSync(outDir, { recursive: true });
-
-const cl = C.cluster;
-const pages = C.pages;
-// A cluster normally contains its own hub page. externalHub lets spokes attach
-// to a hub that already exists on the site (e.g. the care hub) instead.
-const hub = pages.find(p => p.role === 'hub') || { ...cl.externalHub, role: 'hub', external: true };
-const spokes = pages.filter(p => p.role !== 'hub');
-const url = slug => `${cl.baseUrl || 'https://www.ineedworkwear.uk'}/${slug}.html`;
-
-// ---------- helpers ----------
-const esc = s => String(s ?? '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
-const spokeLabel = p => p.role === 'care' ? 'Care guide' : (p.spokeType || 'Guide');
-
-// ---------- design system (one token set, every page) ----------
-const CSS = `
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Contact iNeedWorkwear: Phone, Email & Trade Enquiries</title>
+<meta name="description" content="Talk to iNeedWorkwear — 01597 730142 or hello@ineedworkwear.com — for kit advice, quotes, embroidery and trade accounts. Orders go through the shop at ineedworkwear.com.">
+<link rel="canonical" href="https://www.ineedworkwear.uk/contact.html">
+<meta property="og:title" content="Contact iNeedWorkwear"><meta property="og:description" content="Talk to iNeedWorkwear — 01597 730142 or hello@ineedworkwear.com — for kit advice, quotes, embroidery and trade accounts. Orders go through the shop at ineedworkwear.com."><meta property="og:type" content="website">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"ContactPage","name":"Contact iNeedWorkwear","url":"https://www.ineedworkwear.uk/contact.html"}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Organization","name":"iNeedWorkwear","url":"https://www.ineedworkwear.uk","telephone":"+441597730142","email":"hello@ineedworkwear.com","sameAs":["https://www.ineedworkwear.com"],"contactPoint":[{"@type":"ContactPoint","telephone":"+441597730142","email":"hello@ineedworkwear.com","contactType":"customer service","areaServed":"GB"}]}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.ineedworkwear.uk/"},{"@type":"ListItem","position":2,"name":"Contact","item":"https://www.ineedworkwear.uk/contact.html"}]}
+</script>
+<style>
 :root{--ink:#151B26;--steel:#232C3A;--slate:#5C6675;--mute:#8A94A3;--paper:#F4F5F7;--white:#fff;--line:#E1E4EA;--navy:#111823;
 --orange:#E4571F;--orange-d:#C0430F;--hivis:#8A9A00;--hivis-bright:#C6D92E;--ok:#1F7A4D;--warn:#B0341E;
 --disp:'Barlow Condensed','Arial Narrow',sans-serif;--body:'Inter',-apple-system,'Segoe UI',sans-serif;--mono:'IBM Plex Mono',ui-monospace,Menlo,monospace;--maxw:1160px;--r:6px;}
@@ -87,7 +78,7 @@ table.data tbody tr:nth-child(even){background:var(--paper)}.code{font-family:va
 .clusternav li a{display:inline-block;font-size:.9rem;font-weight:600;color:#E7EBF1;background:var(--navy);border:1px solid #2d3846;border-radius:20px;padding:.4rem .9rem}.clusternav li.hub a{border-color:var(--orange);color:var(--orange)}
 .faq{margin-top:28px;border-top:1px solid var(--line)}.faq details{border-bottom:1px solid var(--line)}
 .faq summary{cursor:pointer;font-family:var(--disp);font-size:1.28rem;color:var(--ink);text-transform:uppercase;padding:18px 0;list-style:none;display:flex;justify-content:space-between;gap:1rem}
-.faq summary::-webkit-details-marker{display:none}.faq summary::after{content:"+";font-family:var(--mono);color:var(--orange);font-size:1.3rem}.faq details[open] summary::after{content:"\\2013"}
+.faq summary::-webkit-details-marker{display:none}.faq summary::after{content:"+";font-family:var(--mono);color:var(--orange);font-size:1.3rem}.faq details[open] summary::after{content:"\2013"}
 .faq details p{padding:0 0 20px;font-size:.97rem;max-width:76ch;color:var(--slate)}
 .cta{background:var(--orange);color:#fff;padding:48px 0}.cta .wrap{display:flex;align-items:center;justify-content:space-between;gap:28px;flex-wrap:wrap}
 .cta h2{color:#fff;font-size:1.8rem}.cta p{color:rgba(255,255,255,.92);margin-top:.3rem;max-width:50ch}.cta-actions{display:flex;gap:.6rem;flex-wrap:wrap}
@@ -98,88 +89,39 @@ table.data tbody tr:nth-child(even){background:var(--paper)}.code{font-family:va
 .foot ul{list-style:none}.foot li{margin-bottom:.5rem}.foot a{color:#98A2B0;font-size:.92rem}.foot a:hover{color:var(--orange)}
 .foot .legal{padding-top:20px;font-size:.8rem;color:var(--mute);display:flex;justify-content:space-between;gap:1rem;flex-wrap:wrap;font-family:var(--mono)}
 :focus-visible{outline:3px solid var(--hivis-bright);outline-offset:2px}@media(prefers-reduced-motion:reduce){*{transition:none!important}}
-`;
 
-// ---------- block renderers (the component library) ----------
-const V = b => b.variant === 'alt' ? ' alt' : b.variant === 'dark' ? ' dark' : '';
-const W = b => b.narrow ? ' narrow' : '';
-const head = (b) => `${b.klabel ? `<p class="klabel">${esc(b.klabel)}</p>` : ''}${b.h2 ? `<h2 class="h2">${esc(b.h2)}</h2>` : ''}${b.lead ? `<p class="lead">${b.lead}</p>` : ''}`;
-
-const BLOCKS = {
-  prose: (b) => `<section class="section${V(b)}"><div class="wrap${W(b)}">${head(b)}<div class="prose">${b.html}</div></div></section>`,
-  keyfacts: (b) => `<section class="section${V(b)}"><div class="wrap${W(b)}">${head(b)}<div class="keyfacts">${b.items.map(i=>`<div class="kf"><div class="n">${esc(i.n)}</div><div class="l">${esc(i.l)}</div></div>`).join('')}</div></div></section>`,
-  cards: (b) => `<section class="section${V(b)}"><div class="wrap">${head(b)}<div class="kit">${b.items.map(i=>`<div class="c${i.hot?' hot':''}">${i.s?`<div class="s">${esc(i.s)}</div>`:''}<h3>${esc(i.h3)}</h3>${i.area?`<div class="area">${esc(i.area)}</div>`:''}<p>${i.p}</p></div>`).join('')}</div></div></section>`,
-  table: (b) => `<section class="section${V(b)}"><div class="wrap">${head(b)}<div class="tbl-scroll"><table class="data"><thead><tr>${b.head.map(h=>`<th>${h}</th>`).join('')}</tr></thead><tbody>${b.rows.map(r=>`<tr>${r.map(c=>`<td>${c}</td>`).join('')}</tr>`).join('')}</tbody></table></div></div></section>`,
-  steps: (b) => `<section class="section${V(b)}"><div class="wrap${W(b)}">${head(b)}<div class="steps">${b.items.map(i=>`<div class="step"><div><h3>${esc(i.h3)}</h3><p>${i.html}</p></div></div>`).join('')}</div></div></section>`,
-  warnbar: (b) => `<section class="section${V(b)}"><div class="wrap${W(b)}">${head(b)}<div class="warnbar">${b.html}</div></div></section>`,
-  citebox: (b) => `<section class="section${V(b)}"><div class="wrap${W(b)}"><div class="citebox">${b.html}</div></div></section>`,
-  // auto blocks — content derived from the cluster graph, not authored:
-  spokes: (b, ctx) => `<section class="section${V(b)}"><div class="wrap">${head(b)}<div class="spokes">${ctx.spokes.map(s=>`<a class="spoke" href="${s.slug}.html"><div class="t">${esc(spokeLabel(s))}</div><h3>${esc(s.cardTitle||s.h1||s.title)}</h3><p>${esc(s.cardBlurb||s.metaDesc||'')}</p><span class="go">Read the guide &rarr;</span></a>`).join('')}</div></div></section>`,
-  clusternav: (b, ctx) => `<section class="section${V(b)}"><div class="wrap"><div class="clusternav"><div class="t">In this cluster</div><ul><li class="hub"><a href="${ctx.hub.slug}.html">◆ ${esc(ctx.hub.navLabel||'Hub')}</a></li>${ctx.spokes.filter(s=>s.slug!==ctx.page.slug).map(s=>`<li><a href="${s.slug}.html">${esc(s.navLabel||s.cardTitle||s.title)}</a></li>`).join('')}<li><a href="${cl.shopUrl}">Shop ${esc(cl.shopLabel||cl.topic)}</a></li></ul></div></div></section>`,
-  faq: (b, ctx) => `<section class="section${V(b)}"><div class="wrap${W(b)}"><p class="klabel">${esc(b.klabel||'Questions')}</p><h2 class="h2">${esc(b.h2||'FAQ')}</h2><div class="faq">${(ctx.page.faq||[]).map((f,i)=>`<details${i===0?' open':''}><summary>${esc(f.q)}</summary><p>${f.a}</p></details>`).join('')}</div></div></section>`,
-};
-
-// ---------- JSON-LD ----------
-function jsonld(page){
-  const org = { "@type":"Organization", name:"iNeedWorkwear", url: cl.baseUrl };
-  const blocks = [];
-  if (page.schema?.type === 'HowTo') {
-    blocks.push({ "@context":"https://schema.org","@type":"HowTo", name: page.h1||page.title, description: page.metaDesc,
-      step: (page.schema.steps||[]).map(s=>({ "@type":"HowToStep", name:s.name, text:s.text })) });
-  } else {
-    blocks.push({ "@context":"https://schema.org","@type":"Article", headline: page.h1||page.title, description: page.metaDesc, author: org, publisher: org, datePublished: cl.date, dateModified: cl.date });
-  }
-  if (page.faq?.length) blocks.push({ "@context":"https://schema.org","@type":"FAQPage", mainEntity: page.faq.map(f=>({ "@type":"Question", name:f.q, acceptedAnswer:{ "@type":"Answer", text: f.a.replace(/<[^>]+>/g,'') } })) });
-  const crumbs = [{name:"Home",item:cl.baseUrl+"/"}];
-  if (page.role !== 'hub') crumbs.push({name: hub.navLabel||hub.title, item: url(hub.slug)});
-  crumbs.push({name: page.navLabel||page.h1||page.title, item: url(page.slug)});
-  blocks.push({ "@context":"https://schema.org","@type":"BreadcrumbList", itemListElement: crumbs.map((c,i)=>({ "@type":"ListItem", position:i+1, name:c.name, item:c.item })) });
-  return blocks.map(b=>`<script type="application/ld+json">\n${JSON.stringify(b)}\n</script>`).join('\n');
-}
-
-// ---------- page assembly ----------
-function renderPage(page){
-  const ctx = { cluster: cl, hub, spokes, page };
-  const trust = (page.trust || cl.trust || []).map(t=>`<span><b>&#10003;</b> ${esc(t)}</span>`).join('');
-  const heroMeta = (page.heroMeta||[]).map(m=>`<div><div class="n">${esc(m.n)}</div><div class="l">${esc(m.l)}</div></div>`).join('');
-  const crumbLink = page.role==='hub' ? `${esc(cl.topic)}` : `<a href="${hub.slug}.html">${esc(hub.navLabel||'Hub')}</a> / ${esc(page.crumbTail||spokeLabel(page))}`;
-  const cta = page.cta || cl.cta || { h2:`Shop ${cl.topic}`, p:`Certified stock, embroidery and trade accounts.`, actions:[{label:`Shop ${cl.shopLabel||cl.topic}`,href:cl.shopUrl,style:'white'},{label:'Back to hub',href:`${hub.slug}.html`,style:'dark'}] };
-  const body = (page.blocks||[]).map(b=>{ const fn = BLOCKS[b.type]; if(!fn) throw new Error(`Unknown block type: ${b.type}`); return fn(b, ctx); }).join('\n');
-
-  const footCluster = [hub, ...spokes].map(p=>`<li><a href="${p.slug}.html">${esc(p.navLabel||p.cardTitle||p.title)}</a></li>`).join('')+`<li><a href="${cl.shopUrl}">Shop ${esc(cl.shopLabel||cl.topic)}</a></li>`;
-
-  return `<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>${esc(page.metaTitle)}</title>
-<meta name="description" content="${esc(page.metaDesc)}">
-<link rel="canonical" href="${url(page.slug)}">
-<meta property="og:title" content="${esc(page.metaTitle)}"><meta property="og:description" content="${esc(page.metaDesc)}"><meta property="og:type" content="article">
-<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
-${jsonld(page)}
-<style>${CSS}</style></head><body>
+.contact-cards{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:32px}@media(max-width:680px){.contact-cards{grid-template-columns:1fr}}
+.ccard{background:#fff;border:1px solid var(--line);border-top:3px solid var(--orange);border-radius:var(--r);padding:26px}
+.ccard .t{font-family:var(--mono);font-size:.68rem;letter-spacing:.12em;text-transform:uppercase;color:var(--mute);margin-bottom:.6rem}
+.ccard .big{font-family:var(--disp);font-size:1.7rem;font-weight:700;color:var(--ink);text-transform:none}
+.ccard .big a{color:var(--ink)}.ccard .big a:hover{color:var(--orange-d)}
+.ccard p{font-size:.93rem;color:var(--slate);margin-top:.5rem}
+</style></head><body>
 <header class="top"><div class="top-in"><a class="brand" href="index.html"><svg class="mk" viewBox="0 0 32 32" fill="none" aria-hidden="true"><rect x="3" y="11" width="26" height="18" rx="2" stroke="#E4571F" stroke-width="2"/><path d="M11 11 V7 a5 5 0 0 1 10 0 v4" stroke="#C6D92E" stroke-width="2"/><path d="M13 18 h6 M16 18 v7" stroke="#E4571F" stroke-width="2"/></svg>iNeed<span>Workwear</span></a>
 <nav class="nav"><a href="sectors.html">Sectors</a><a href="roles.html">Roles</a><a href="standards.html">Standards</a><a href="guides.html">Guides</a><a href="kit.html">Kit</a><a class="shop mono" href="https://www.ineedworkwear.com">Shop &rarr;</a></nav></div></header>
-<section class="hero"><div class="hero-in"><div class="crumbs">${crumbLink}</div><p class="eyebrow">${esc(page.kicker)}</p><h1>${esc(page.h1||page.title)}</h1><p class="lede">${page.lede}</p>
-${page.heroCta?`<div class="hero-cta">${page.heroCta.map(a=>`<a class="btn btn-${a.style||'orange'} btn-lg" href="${a.href}">${esc(a.label)}</a>`).join('')}</div>`:''}
-${heroMeta?`<div class="hero-meta">${heroMeta}</div>`:''}</div></section>
-${trust?`<div class="trust"><div class="trust-in">${trust}</div></div>`:''}
-${body}
-<section class="cta"><div class="wrap"><div><h2>${esc(cta.h2)}</h2><p>${esc(cta.p)}</p></div><div class="cta-actions">${cta.actions.map(a=>`<a class="btn btn-${a.style==='white'?'white':'dark'} btn-lg" href="${a.href}">${esc(a.label)}</a>`).join('')}</div></div></section>
-<footer class="foot"><div class="wrap"><div class="foot-grid"><div><div class="fb">iNeed<span>Workwear</span></div><p style="max-width:44ch;font-size:.92rem">Independent workwear guidance by sector, role, standard and area — matched to certified kit. Nationwide supplier; buy through the iNeedWorkwear shop.</p><p class="mono" style="margin-top:1rem;font-size:.85rem"><a href="tel:01597730142" style="color:#fff">01597 730142</a> &middot; <a href="mailto:hello@ineedworkwear.com" style="color:#C6D92E">hello@ineedworkwear.com</a></p></div>
-<div><h5>${esc(cl.topic)} cluster</h5><ul>${footCluster}</ul></div>
-<div><h5>Explore</h5><ul><li><a href="standards.html">By standard</a></li><li><a href="roles.html">By role</a></li><li><a href="sectors.html">By sector</a></li><li><a href="guides.html">All guides</a></li><li><a href="about.html">About</a></li><li><a href="contact.html">Contact</a></li></ul></div></div>
-<div class="legal"><span>&copy; ${(cl.date||'2026').slice(0,4)} iNeedWorkwear</span><span>${esc(cl.topic)} · ${esc(page.role)}</span></div></div></footer>
-</body></html>\n`;
-}
+<section class="hero"><div class="hero-in"><div class="crumbs"><a href="index.html">Home</a> / Contact</div><p class="eyebrow">Contact</p><h1>Talk to us.</h1><p class="lede">Kit advice, quotes for teams, embroidery and print, trade accounts — one phone number and one inbox cover all of it.</p></div></section>
 
-// ---------- run ----------
-const built = [];
-for (const page of pages){
-  const htmlText = renderPage(page);
-  const outPath = join(outDir, page.slug + '.html');
-  writeFileSync(outPath, htmlText);
-  built.push({ slug: page.slug, role: page.role, bytes: htmlText.length });
-}
-console.log(`Rendered cluster "${cl.id}" → ${outDir}`);
-for (const b of built) console.log(`  ${b.role.padEnd(6)} ${b.slug}.html  (${(b.bytes/1024).toFixed(1)} KB)`);
-writeFileSync(join(outDir, '_manifest.json'), JSON.stringify({ cluster: cl.id, externalHub: cl.externalHub || null, pages: built }, null, 2));
+<section class="section"><div class="wrap narrow"><p class="klabel">Direct lines</p><h2 class="h2">Two ways in</h2>
+<div class="contact-cards">
+<div class="ccard"><div class="t">Phone</div><div class="big"><a href="tel:01597730142">01597 730142</a></div><p>Fastest for kit advice, sizing questions and talking through an order for a team.</p></div>
+<div class="ccard"><div class="t">Email</div><div class="big"><a href="mailto:hello@ineedworkwear.com">hello@ineedworkwear.com</a></div><p>Best for quotes, logo artwork for embroidery or print, and trade-account enquiries — attach what you have.</p></div>
+</div></div></section>
+
+<section class="section alt"><div class="wrap narrow"><p class="klabel">Point in the right direction</p><h2 class="h2">What to contact us about</h2>
+<div class="prose">
+<ul>
+<li><strong>Ordering &amp; stock</strong> — orders themselves go through <a href="https://www.ineedworkwear.com">the shop</a>; call or email if you want a hand picking before you buy.</li>
+<li><strong>Kitting out a team</strong> — send the headcount and the roles, and we'll come back with a kit list and quote, including embroidery or print.</li>
+<li><strong>Trade accounts</strong> — regular ordering for a business? Ask about a trade account.</li>
+<li><strong>Standards questions</strong> — if a guide on this site didn't answer it, ask a human. If the question's common, we'll turn the answer into a page.</li>
+<li><strong>Corrections</strong> — spotted an error in a guide? We'd genuinely like to know.</li>
+</ul>
+</div></div></section>
+
+<section class="cta"><div class="wrap"><div><h2>Know what you need already?</h2><p>Skip the conversation — every category is one click away.</p></div><div class="cta-actions"><a class="btn btn-white btn-lg" href="kit.html">Browse the kit directory</a><a class="btn btn-dark btn-lg" href="https://www.ineedworkwear.com">Go to the shop</a></div></div></section>
+<footer class="foot"><div class="wrap"><div class="foot-grid">
+<div><div class="fb">iNeed<span>Workwear</span></div><p style="max-width:44ch;font-size:.92rem">Independent workwear guidance by sector, role, standard and area — matched to certified kit. Nationwide supplier; buy through the iNeedWorkwear shop.</p><p class="mono" style="margin-top:1rem;font-size:.85rem"><a href="tel:01597730142" style="color:#fff">01597 730142</a> &middot; <a href="mailto:hello@ineedworkwear.com" style="color:#C6D92E">hello@ineedworkwear.com</a></p></div>
+<div><h5>This site</h5><ul><li><a href="guides.html">All guides</a></li><li><a href="kit.html">Kit directory</a></li><li><a href="about.html">About</a></li><li><a href="https://www.ineedworkwear.com">The shop</a></li></ul></div>
+<div><h5>Explore</h5><ul><li><a href="standards.html">By standard</a></li><li><a href="roles.html">By role</a></li><li><a href="sectors.html">By sector</a></li><li><a href="guides.html">All guides</a></li><li><a href="about.html">About</a></li><li><a href="contact.html">Contact</a></li></ul></div>
+</div><div class="legal"><span>&copy; 2026 iNeedWorkwear</span><span>Contact iNeedWorkwear</span></div></div></footer>
+</body></html>

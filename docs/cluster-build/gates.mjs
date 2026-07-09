@@ -32,7 +32,7 @@ const pages = manifest.pages.map(p => {
     jsonld: (html.match(/application\/ld\+json/g) || []).length,
     breadcrumb: /"BreadcrumbList"/.test(html),
     dataBlocks: (html.match(/class="tbl-scroll"|class="kit"|class="steps"|class="keyfacts"/g) || []).length,
-    shopLinks: (html.match(/shop\.ineedworkwear/g) || []).length,
+    shopLinks: (html.match(/ineedworkwear\.com/g) || []).length,
     internalLinks: (html.match(/href="[a-z0-9-]+\.html"/g) || []).length,
   };
 });
@@ -58,16 +58,19 @@ for (const p of pages) {
 const titles = pages.map(p => (p.html.match(/<title>([^<]*)<\/title>/) || [])[1]);
 add('cluster', 'titles-distinct', new Set(titles).size === titles.length, `${new Set(titles).size}/${titles.length} distinct`);
 
-// hub<->spoke interlinking wired both ways
-const hub = pages.find(p => p.role === 'hub');
+// hub<->spoke interlinking wired both ways.
+// Clusters with an external hub (an existing site page) can only be checked
+// spoke→hub here; the hub→spoke links are added on the live hub page itself.
+const hub = pages.find(p => p.role === 'hub') || (manifest.externalHub ? { ...manifest.externalHub, external: true } : undefined);
+if (!hub) throw new Error('No hub page in manifest and no externalHub declared');
 const spokes = pages.filter(p => p.role !== 'hub');
 let wired = true, wireDetail = [];
 for (const s of spokes) {
   const spokeToHub = s.html.includes(`href="${hub.slug}.html"`);
-  const hubToSpoke = hub.html.includes(`href="${s.slug}.html"`);
+  const hubToSpoke = hub.external ? true : hub.html.includes(`href="${s.slug}.html"`);
   if (!spokeToHub || !hubToSpoke) { wired = false; wireDetail.push(`${s.slug}: ->hub=${spokeToHub} hub->=${hubToSpoke}`); }
 }
-add('cluster', 'hub-spoke-wired', wired, wired ? 'all spokes ↔ hub' : wireDetail.join(' | '));
+add('cluster', 'hub-spoke-wired', wired, wired ? (hub.external ? `all spokes → external hub ${hub.slug}.html` : 'all spokes ↔ hub') : wireDetail.join(' | '));
 
 // pairwise similarity (8-gram Jaccard)
 let maxSim = 0, maxPair = '';

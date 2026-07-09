@@ -1,0 +1,126 @@
+{
+  "cluster": {
+    "id": "care-garments",
+    "topic": "Garment care",
+    "shopLabel": "workwear",
+    "shopUrl": "https://www.ineedworkwear.com",
+    "baseUrl": "https://www.ineedworkwear.uk",
+    "date": "2026-07-09",
+    "externalHub": { "slug": "care", "navLabel": "Care hub", "title": "Care & compliance hub", "cardTitle": "Care & compliance hub" },
+    "trust": ["Care that keeps certification valid", "Label-first guidance", "Hi-vis · waterproofs · FR", "Replacement triggers, not guesswork"],
+    "cta": { "h2": "Worn past saving?", "p": "When care can't bring a garment back to compliance, replace it — certified hi-vis and weatherproofs from stock, with embroidery for teams.", "actions": [ {"label":"Shop hi-vis","href":"https://www.ineedworkwear.com/collections/hi-vis","style":"white"}, {"label":"Shop coats & jackets","href":"https://www.ineedworkwear.com/collections/coats-jackets","style":"dark"} ] }
+  },
+  "pages": [
+    {
+      "slug": "caring-for-hi-vis",
+      "role": "care",
+      "spokeType": "Care guide",
+      "navLabel": "Caring for hi-vis",
+      "cardTitle": "Caring for hi-vis",
+      "cardBlurb": "Wash limits, tape damage and the point where a faded garment stops being compliant.",
+      "crumbTail": "Care",
+      "kicker": "Care guide · High-visibility",
+      "h1": "Caring for hi-vis: wash limits & compliance.",
+      "metaTitle": "Caring for Hi-Vis: Wash Limits, Fading & Compliance | iNeedWorkwear",
+      "metaDesc": "Hi-vis carries a maximum wash count and its certification dies with the colour — how to wash it, what ruins tape and fluoro, and when a faded garment must be retired.",
+      "lede": "A hi-vis vest is the only garment in the wash basket with an expiry counter printed on the label. EN ISO 20471 certification is tested up to a maximum number of washes — past that count, or past a certain amount of fading, the garment is workwear-shaped but no longer hi-vis in law.",
+      "heroMeta": [ {"n":"25","l":"Typical max wash count"}, {"n":"2 materials","l":"Fluoro + tape, both perishable"}, {"n":"Faded = failed","l":"Colour is the certification"} ],
+      "schema": { "type": "HowTo", "steps": [
+        {"name":"Check the wash count on the label","text":"Next to the care symbols is a maximum number of wash cycles — commonly 25. The garment's certification was tested to that count; keep rough track, especially on kit washed weekly."},
+        {"name":"Close fastenings and turn inside out","text":"Velcro is the number-one shredder of retroreflective tape in a drum. Close every strip, zip the zips, turn the garment inside out."},
+        {"name":"Wash cool on a gentle cycle","text":"Follow the label temperature — typically 40 °C or below. No bleach, no fabric softener, no optical-brightener detergents: all three coat or strip the fluorescent dye and dull the tape."},
+        {"name":"Dry on the line, iron never near the tape","text":"Line-dry or tumble cool if the label allows. Direct iron contact melts retroreflective tape on contact — if you must press the fabric, keep the iron off the tape entirely."},
+        {"name":"Inspect against daylight before it goes back on","text":"Fluoro should still look electric next to a new garment; tape should be intact and mirror-bright. Grey-tinged fabric, cracked or peeling tape, rips or heavy oil staining mean retirement."}
+      ] },
+      "blocks": [
+        { "type":"prose", "narrow":true, "klabel":"The idea", "h2":"You're washing the certification, not just the garment",
+          "html":"<p>High-visibility clothing earns its EN ISO 20471 badge with two materials: <strong>fluorescent background fabric</strong> that reacts with daylight, and <strong>retroreflective tape</strong> that returns headlight beams. Both are consumables. Every wash, every month of UV, every scrape takes a little performance off each — and the standard certifies the garment only up to a stated number of care cycles.</p><p>That's why hi-vis care is different from ordinary laundry: the goal isn't keeping it looking nice, it's keeping it <em>legally conspicuous</em>. The routine below protects both materials; the checklist after it tells you when protection has run out.</p>" },
+        { "type":"steps", "narrow":true, "klabel":"The routine", "h2":"Washing hi-vis without killing it",
+          "items":[
+            {"h3":"Find the wash count on the label","html":"Alongside the care icons is a maximum wash-cycle number — <strong>25 is typical</strong>, some heavier garments carry 50. Certification was tested at that count. For kit washed every week, that's an expiry measured in months — keep rough track."},
+            {"h3":"Close every fastening, turn it inside out","html":"<span class='warn'>Open velcro in a drum shreds retroreflective tape faster than anything else on this page.</span> Close the strips, zip up, turn inside out so the tape rides against the garment's own lining."},
+            {"h3":"Cool, gentle, and no additives","html":"Wash at the label temperature — usually 40&nbsp;°C or lower — on a gentle cycle. Skip bleach, fabric softener and \"whiter-than-white\" detergents with optical brighteners: they strip fluorescent dye or leave films that dull both fabric and tape."},
+            {"h3":"Line-dry; keep irons away from tape","html":"Heat is the enemy of tape adhesive and fluoro dye alike. Line-dry where possible, tumble only cool and only if the label allows, and never run an iron over retroreflective strips."},
+            {"h3":"Daylight check before reuse","html":"Hold it next to a newer garment outdoors. The background should still jump out; the tape should be unbroken and brilliant. If either fails the eye test, it fails the road test."}
+          ] },
+        { "type":"table", "variant":"alt", "klabel":"Retirement", "h2":"When hi-vis stops being hi-vis", "lead":"Each of these is a compliance failure, not a cosmetic one.",
+          "head":["What you see","Why it fails","Verdict"],
+          "rows":[
+            ["Fluoro faded toward grey or pastel","Below the standard's colour performance — invisible by day","<span class='code'>Retire</span>"],
+            ["Tape cracked, peeling or dull","Retroreflection gone — invisible at night","<span class='code'>Retire</span>"],
+            ["Past the label's max wash count","Certification tested only to that count","<span class='code'>Retire</span>"],
+            ["Rips, burns or missing panels","Minimum visible area no longer met","<span class='code'>Retire</span>"],
+            ["Oil or paint staining that won't wash out","Stains mask fluorescence exactly where it's needed","<span class='code'>Retire</span>"]
+          ] },
+        { "type":"warnbar", "html":"<strong>A faded vest is worse than no vest</strong> — it changes the wearer's behaviour (\"I'm wearing hi-vis\") without changing what the driver sees. If a garment wouldn't pass the side-by-side daylight comparison against new stock, take it off the van." },
+        { "type":"citebox", "html":"Not sure which class you should be replacing it with? <a href='class-2-vs-class-3-hi-vis.html'>Class 2 vs Class 3 — which do you need? &rarr;</a> Or start at the <a href='hi-vis-workwear-guide.html'>hi-vis hub</a>." },
+        { "type":"clusternav" },
+        { "type":"faq", "klabel":"Questions", "h2":"Hi-vis care FAQ" }
+      ],
+      "faq":[
+        {"q":"How many times can you wash hi-vis?","a":"Check the garment label — EN ISO 20471 certification is tested to a stated maximum number of wash cycles, commonly 25. Beyond that count the garment's performance is no longer certified, even if it still looks reasonable."},
+        {"q":"Why can't you use fabric softener on hi-vis?","a":"Softener leaves a film that dulls the fluorescent dye and coats the retroreflective tape, cutting both daytime and night-time performance. Bleach and optical-brightener detergents damage the dye directly. Plain detergent, cool wash, gentle cycle."},
+        {"q":"When should a hi-vis vest be replaced?","a":"When the fluorescent colour has visibly faded toward grey, the tape is cracked, peeling or dull, the garment is ripped or heavily stained, or it has passed the wash count on its label. Any one of those alone is enough — the certification depends on all of them holding."},
+        {"q":"Can you tumble-dry hi-vis?","a":"Only if the label allows it, and then only on a cool setting. Heat degrades both the fluorescent dye and the adhesive bonding the retroreflective tape, so line-drying is the safer default — and never iron over the tape."}
+      ]
+    },
+    {
+      "slug": "reproofing-waterproofs",
+      "role": "care",
+      "spokeType": "Care guide",
+      "navLabel": "Reproofing waterproofs",
+      "cardTitle": "Reproofing waterproofs",
+      "cardBlurb": "Why jackets \"leak\" when the membrane is fine, and the wash-in fix that restores the beading.",
+      "crumbTail": "Care",
+      "kicker": "Care guide · Waterproofs",
+      "h1": "Reproofing waterproofs: bring the beading back.",
+      "metaTitle": "Reproofing Waterproof Jackets: DWR, Wetting Out & EN 343 | iNeedWorkwear",
+      "metaDesc": "Most \"leaking\" waterproofs have a worn DWR coating, not a failed membrane — how to tell, how to wash and reproof the jacket, and when it genuinely is dead.",
+      "lede": "Nine \"leaking\" work jackets out of ten haven't failed — their invisible outer coating has. When rain stops beading and the face fabric soaks dark, the fix is a washing machine and a bottle of reproofer, not a replacement. Here's the diagnosis, the fix, and the honest signs a jacket really is done.",
+      "heroMeta": [ {"n":"DWR","l":"The coating that wears off"}, {"n":"EN 343","l":"The waterproof rating"}, {"n":"~£10","l":"Wash-in fix vs new jacket"} ],
+      "schema": { "type": "HowTo", "steps": [
+        {"name":"Diagnose: wet face fabric or wet inside?","text":"Fabric soaking dark and feeling heavy is wetting-out — worn DWR, fixable. Water pooling inside along seams or through the body with the outer merely damp points at seams or membrane."},
+        {"name":"Wash the jacket clean first","text":"Dirt and body oils are what killed the DWR. Wash per the label with pure soap or a technical cleaner — never softener or bio detergent — and rinse twice."},
+        {"name":"Apply a wash-in reproofer","text":"Run a second cycle with a wash-in DWR treatment, dosed per the bottle. Spray-on products suit garments with wicking liners you don't want coated."},
+        {"name":"Heat-activate if the label allows","text":"Most reproofers cure with gentle heat — a cool tumble cycle or a warm iron over a cloth, per the garment label. Skip this only if the label forbids all heat."},
+        {"name":"Test and repeat seasonally","text":"Sprinkle water on the sleeve: it should bead and roll. Plan on reproofing once or twice a year for daily-wear outdoor kit — sooner whenever beading stops."}
+      ] },
+      "blocks": [
+        { "type":"prose", "narrow":true, "klabel":"The diagnosis", "h2":"Wetting out is not leaking",
+          "html":"<p>A waterproof work jacket keeps rain out with a <strong>membrane or coating</strong> bonded inside the fabric. But it stays comfortable thanks to something else: a <strong>DWR</strong> (durable water repellent) finish on the outer face that makes rain bead up and roll off.</p><p>DWR wears away — abraded by straps and tool belts, clogged by mud and body oils, stripped by harsh detergents. When it goes, the face fabric drinks water and the jacket <em>feels</em> like it's leaking: heavy, cold and clammy, because the soaked outer kills breathability and chills you through. The membrane underneath is usually still doing its job.</p><p>That distinction decides everything. <strong>Wet, dark, heavy face fabric = wetting out</strong> — restore the DWR and the jacket comes back. <strong>Water genuinely pooling inside</strong> while the outer stays merely damp — that's seams or membrane, and reproofing won't help.</p>" },
+        { "type":"steps", "narrow":true, "klabel":"The fix", "h2":"Reproofing in five steps",
+          "items":[
+            {"h3":"Confirm it's wetting out","html":"Sprinkle water on the shoulder. If it soaks flat into the fabric instead of beading, the DWR is gone. If it beads but you're still getting wet inside, jump to the last section — the problem is elsewhere."},
+            {"h3":"Wash it properly clean","html":"Reproofer bonds to clean fibre, and the dirt is half the problem anyway. Wash per the care label with a technical cleaner or pure soap. <span class='warn'>No fabric softener, no bio detergent</span> — both strip or block DWR. Rinse twice to clear residue."},
+            {"h3":"Run the reproofer through","html":"Wash-in DWR treatments go in the drawer for a second cycle, dosed per the bottle. Use spray-on instead if the jacket has a wicking mesh liner you don't want coated — spray the outer only, evenly, while damp."},
+            {"h3":"Cure with gentle heat","html":"Most treatments need warmth to bond: a cool tumble-dry or a warm iron over a tea towel, whichever the garment label permits. This step is where most home reproofing jobs succeed or fail."},
+            {"h3":"Test the beading","html":"Water on the sleeve should sit up in beads and roll. For a jacket worn daily outdoors, expect to repeat once or twice a year — the trigger is beading stopping, not the calendar."}
+          ] },
+        { "type":"keyfacts", "variant":"dark", "klabel":"The rating", "h2":"What EN 343 tells you on the label",
+          "items":[
+            {"n":"Class X","l":"First figure: resistance to water penetration, class 1–4 — higher survives heavier, longer rain"},
+            {"n":"Class Y","l":"Second figure: breathability, class 1–4 — higher moves sweat out faster"},
+            {"n":"4:4 top spec","l":"A 4:1 keeps rain out but boils you; daily outdoor work wants both figures healthy"}
+          ] },
+        { "type":"table", "variant":"alt", "klabel":"Beyond saving", "h2":"When reproofing won't fix it", "lead":"DWR restores the outer. These failures are structural.",
+          "head":["Symptom","What's failed","Verdict"],
+          "rows":[
+            ["Wet lines inside along the seams","Seam tape lifting or cracked","<span class='code'>Repair tape or replace</span>"],
+            ["Inner coating peeling, flaking or sticky","Membrane/laminate delaminating — end of life","<span class='code'>Replace</span>"],
+            ["Torn fabric, burn holes","Hole through the membrane itself","<span class='code'>Patch small; replace large</span>"],
+            ["Leaks at the zip in driving rain","Zip or storm flap worn out","<span class='code'>Repair if the jacket merits it</span>"],
+            ["Reproofed twice, still soaks instantly","Face fabric abraded past holding DWR","<span class='code'>Replace</span>"]
+          ] },
+        { "type":"warnbar", "html":"<strong>Hi-vis waterproofs: check the wash count too.</strong> A hi-vis rain jacket is certified under EN ISO 20471 as well as EN 343 — it carries a maximum wash-cycle rating, and every cleaning-and-reproofing round counts against it. Care rules for the fluoro and tape are covered in <a href='caring-for-hi-vis.html' style='color:#fff;text-decoration:underline'>caring for hi-vis</a>." },
+        { "type":"clusternav" },
+        { "type":"faq", "klabel":"Questions", "h2":"Reproofing FAQ" }
+      ],
+      "faq":[
+        {"q":"Why does my waterproof jacket soak through but not leak?","a":"That's wetting out: the DWR coating on the face fabric has worn off, so the outer soaks up water and feels cold and clammy even though the membrane inside is still waterproof. Washing the jacket clean and applying a wash-in reproofer restores it."},
+        {"q":"How often should you reproof a work jacket?","a":"When water stops beading on the surface — for daily outdoor wear that's typically once or twice a year. Always wash the jacket clean first; reproofer over dirt and body oils won't bond."},
+        {"q":"Can you use normal detergent on waterproof jackets?","a":"Avoid biological detergents and never use fabric softener — both degrade the DWR finish and can affect the membrane's performance. Use a technical cleaner or pure soap, rinse thoroughly, and reproof after washing if beading has stopped."},
+        {"q":"What do the EN 343 numbers on a jacket mean?","a":"Two classes, each 1–4: the first is resistance to water penetration, the second is breathability. Higher is better in both. A jacket rated 4:4 is the top spec; a high first number with a low second keeps rain out but traps sweat."}
+      ]
+    }
+  ]
+}

@@ -20,16 +20,16 @@ T1,Standard explainer,FR / protective,EN ISO 11612 explained (heat & flame codes
 T1,Standard explainer,FR / protective,IEC 61482 arc flash explained (ATPV & APC),iec-61482-arc-flash-explained,arc-flash,
 T1,Standard explainer,FR / protective,EN 1149-5 antistatic explained,en-1149-5-antistatic-explained,anti-static-esd,
 T1,Comparison,FR / protective,Inherent vs treated FR fabric,inherent-vs-treated-fr,flame-retardant,Standalone of welders section
-T1,Content hub,Footwear,Safety footwear: the complete guide,safety-footwear-guide,footwear,Pillar
-T1,Standard explainer,Footwear,Safety boot codes S1–S7 explained (EN ISO 20345),safety-boot-codes-explained,footwear,PROMISED on guides hub
-T1,Comparison,Footwear,Composite vs steel toe caps,composite-vs-steel-toe-caps,footwear,
-T1,Care guide,Footwear,Safety boot care,safety-boot-care,footwear,PROMISED on care hub
+LIVE,Content hub,Footwear,Safety footwear: the complete guide,safety-footwear-guide,footwear,Pillar
+LIVE,Standard explainer,Footwear,Safety boot codes S1–S7 explained (EN ISO 20345),safety-boot-codes-explained,footwear,PROMISED on guides hub
+LIVE,Comparison,Footwear,Composite vs steel toe caps,composite-vs-steel-toe-caps,footwear,
+LIVE,Care guide,Footwear,Safety boot care,safety-boot-care,footwear,PROMISED on care hub
 T1,Content hub,Gloves,Work gloves: the complete guide,work-gloves-guide,gloves-ppe | gloves-winter,Pillar
 T1,Standard explainer + tool,Gloves,EN 388 explained + glove marking decoder,en-388-glove-decoder,gloves-ppe,Interactive
 T1,Comparison,Hi-vis,Yellow vs orange hi-vis,yellow-vs-orange-hi-vis,hi-vis | rail-spec,
 T1,Standard explainer,Hi-vis / rail,Rail spec workwear: RIS-3279-TOM explained,rail-spec-workwear-explained,rail-spec,Low competition
-T1,Care guide,Hi-vis,Caring for hi-vis (wash limits & compliance),caring-for-hi-vis,hi-vis,PROMISED on care hub
-T1,Care guide,Care,Reproofing waterproofs,reproofing-waterproofs,coats-jackets,PROMISED on care hub
+LIVE,Care guide,Hi-vis,Caring for hi-vis (wash limits & compliance),caring-for-hi-vis,hi-vis,PROMISED on care hub
+LIVE,Care guide,Care,Reproofing waterproofs,reproofing-waterproofs,coats-jackets,PROMISED on care hub
 T1,Care guide,Care,Getting oil & grease out of workwear,oil-grease-out-of-workwear,coveralls | flame-retardant,PROMISED on care hub
 T1,Care guide,Care,Washing embroidered & branded workwear,washing-embroidered-workwear,polo-shirts | sweatshirts,PROMISED on care hub
 T1,Sector hub,Sectors,Construction workwear guide,construction-workwear-guide,construction | hi-vis | footwear,PROMISED on sectors hub
@@ -49,8 +49,8 @@ T1,Role guide,Roles,Chainsaw & forestry operator kit (EN ISO 11393),chainsaw-for
 T1,Area guide,Local,Workwear in Sheffield,workwear-sheffield,per archetype,PROMISED on areas hub
 T1,Area guide,Local,Workwear in Grimsby,workwear-grimsby,per archetype,PROMISED on areas hub
 T1,Area guide,Local,Workwear in Crawley,workwear-crawley,per archetype,PROMISED on areas hub
-T1,Trust,—,About iNeedWorkwear,about,—,E-E-A-T before launch
-T1,Trust,—,Contact,contact,—,Phone/email already site-wide
+LIVE,Trust,—,About iNeedWorkwear,about,—,E-E-A-T before launch
+LIVE,Trust,—,Contact,contact,—,Phone/email already site-wide
 T2,Standard explainer,Standards,EN 343 waterproofs explained,en-343-waterproofs-explained,coats-jackets,
 T2,Standard explainer,Standards,EN 342 cold protection explained,en-342-cold-protection-explained,coldstore | thermals-base-layers,
 T2,Standard explainer,Standards,EN 397 safety helmets explained,en-397-helmets-explained,helmets,
