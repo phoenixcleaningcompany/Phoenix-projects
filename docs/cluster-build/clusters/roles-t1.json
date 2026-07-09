@@ -1,0 +1,357 @@
+{
+  "cluster": {
+    "id": "roles-t1",
+    "topic": "Role guides",
+    "shopLabel": "workwear",
+    "shopUrl": "https://www.ineedworkwear.com",
+    "baseUrl": "https://www.ineedworkwear.uk",
+    "date": "2026-07-09",
+    "externalHub": { "slug": "roles", "navLabel": "Roles hub", "title": "Workwear by role", "cardTitle": "Workwear by role" },
+    "trust": ["Head-to-toe kit lists", "Standards named per item", "Certified stock to match", "Embroidery & trade accounts"],
+    "cta": { "h2": "One person or a whole crew?", "p": "Either way the kit list is the same — send the role and the headcount and we'll price it, embroidered.", "actions": [ {"label":"Contact us","href":"contact.html","style":"white"}, {"label":"Browse the kit directory","href":"kit.html","style":"dark"} ] }
+  },
+  "pages": [
+    {
+      "slug": "workwear-for-warehouse-operatives",
+      "role": "spoke",
+      "spokeType": "Role guide",
+      "navLabel": "Warehouse operative",
+      "cardTitle": "Kit for warehouse operatives",
+      "cardBlurb": "The 15-km-a-shift kit list — trainers that earn their keep, layers for the aisle you're posted to, and what to buy first.",
+      "crumbTail": "Warehouse operative",
+      "kicker": "Role guide · Warehouse operative",
+      "h1": "Warehouse operative kit: dressed for 15 km a day.",
+      "metaTitle": "Warehouse Operative Workwear: The Kit List | iNeedWorkwear",
+      "metaDesc": "A picker's head-to-toe kit list — S1P safety trainers, the hi-vis vest rule, layers by aisle temperature and the small buys (socks, insoles) that save a shift.",
+      "lede": "A picker on a decent shift walks the distance of a half-marathon on concrete. That single fact should drive every kit decision — footwear first, fabric second, and nothing that chafes at kilometre twelve.",
+      "heroMeta": [ {"n":"15 km","l":"A normal picking shift"}, {"n":"S1P","l":"Trainer, not boot"}, {"n":"Layers","l":"Aisles have climates"} ],
+      "schema": { "type": "Article" },
+      "blocks": [
+        { "type":"table", "klabel":"The list", "h2":"Head to toe", "lead":"The whole kit in one pass — details below the table.",
+          "head":["Item","Spec","Why this one"],
+          "rows":[
+            ["Safety trainers","<span class='code'>S1P</span> — toe cap + midsole","Boot protection at trainer weight; your feet log the miles"],
+            ["Hi-vis vest","<span class='code'>Class 1–2</span>, per site rule","On wherever MHE runs — usually everywhere past the door"],
+            ["Polo shirts ×3","Wicking poly-cotton, embroidered","Cotton-only soaks and chafes on a walking shift"],
+            ["Sweatshirt or fleece","Mid-layer, not a coat","Ambient DCs sit cool year-round; big coats snag racking"],
+            ["Work trousers","Stretch fabric, minimal dangle","Kneeling to low bins all day; belt loops beat baggy"],
+            ["Handling gloves","Thin coated, <span class='code'>abrasion 3+</span>","Cartons strip bare fingertips by mid-week"],
+            ["Work socks ×5","Cushioned, wicking","The cheapest comfort upgrade on this page"]
+          ] },
+        { "type":"prose", "narrow":true, "klabel":"Feet first", "h2":"Spend the budget where the miles are",
+          "html":"<p>If the budget only stretches to one good item, make it the <strong>S1P safety trainer</strong> — certified toe cap and midsole in a package light enough to walk all shift (<a href='safety-boot-codes-explained.html'>what the codes mean</a>). Add <strong>cushioned wicking socks</strong> and replace insoles when they flatten; a £10 insole outperforms a £70 trainer with a dead one.</p><p>Posted to chill or freezer aisles? That's a different kit problem — lined trousers, thermal base layer, insulated gloves, and for freezer work a rated coldstore suit. The <a href='warehouse-logistics-workwear-guide.html'>warehouse sector guide</a> maps kit to every zone.</p>" },
+        { "type":"keyfacts", "variant":"dark", "klabel":"Mistakes", "h2":"Three that show up by Friday",
+          "items":[
+            {"n":"Cotton tees","l":"Soaked by break one, cold after — wicking blends exist for a reason"},
+            {"n":"The big coat","l":"Snags racking, overheats in ten minutes; a mid-layer does the job"},
+            {"n":"One pair of socks","l":"Rotating five pairs beats two 'good' pairs that never dry out"}
+          ] },
+        { "type":"clusternav" },
+        { "type":"faq", "klabel":"Questions", "h2":"Warehouse kit FAQ" }
+      ],
+      "faq":[
+        {"q":"What footwear is best for warehouse picking?","a":"An S1P safety trainer — the same certified toe cap and midsole as a boot at a fraction of the weight, which matters when a picking shift covers 15 km on concrete. Add cushioned wicking socks and refresh the insoles regularly."},
+        {"q":"Do warehouse operatives need hi-vis?","a":"Almost always — most operations mandate at least a Class 1 or 2 vest anywhere mechanical handling equipment runs, which in practice means everywhere past the entrance. The site induction sets the exact class; the vest-on-at-the-door rule is standard."},
+        {"q":"What should I wear for a cold store shift?","a":"Chill aisles: thermal base layer, lined trousers and insulated gloves over the standard kit. Freezer chambers (−18 °C and below) need a rated EN 342 coldstore suit, insulated CI-rated footwear and covered ears — that kit is normally employer-issued."}
+      ]
+    },
+    {
+      "slug": "ppe-for-electricians",
+      "role": "spoke",
+      "spokeType": "Role guide",
+      "navLabel": "Electrician (arc flash)",
+      "cardTitle": "PPE for electricians",
+      "cardBlurb": "Where arc-flash clothing actually applies, what the IEC 61482 label tells you, and the melt-layer rule that voids it all.",
+      "crumbTail": "Electrician",
+      "kicker": "Role guide · Electrician",
+      "h1": "PPE for electricians: the arc-flash line.",
+      "metaTitle": "PPE for Electricians: Arc Flash Clothing Explained | iNeedWorkwear",
+      "metaDesc": "When electricians need arc-rated clothing, what IEC 61482 classes and ATPV values mean on a label, the no-synthetics layering rule, and the kit list either side of the line.",
+      "lede": "Most domestic and commercial electrical work never meets an arc-flash risk assessment — and some industrial work meets it every day. Electricians' kit splits cleanly along that line, so this guide covers both sides of it and the label that marks the boundary.",
+      "heroMeta": [ {"n":"IEC 61482","l":"The arc standard"}, {"n":"APC 1 / 2","l":"The box-test classes"}, {"n":"No synthetics","l":"Next to skin, ever"} ],
+      "schema": { "type": "Article" },
+      "blocks": [
+        { "type":"prose", "narrow":true, "klabel":"The line", "h2":"Which side of it are you on?",
+          "html":"<p><strong>Below the line</strong> — installation, second fix, domestic and most commercial work on dead, isolated circuits: the kit is ordinary quality trade wear. Stretch work trousers, polos, S1P or S3 footwear, and dexterity-first gloves. Safe isolation is the protection; the clothing just has to work.</p><p><strong>Above the line</strong> — live testing and fault-finding on industrial systems, switchgear operation, work near energised LV/HV equipment where the employer's risk assessment identifies arc-flash potential: clothing becomes PPE in the legal sense. That means <strong>arc-rated garments to IEC 61482</strong>, worn as a complete system.</p><p>Who decides? The risk assessment, not the wearer. If your work order involves energised switchgear, the arc assessment (and the PPE it specifies) should arrive with it.</p>" },
+        { "type":"table", "variant":"alt", "klabel":"The label", "h2":"Reading an arc-rated garment", "lead":"Two test routes appear on labels — a garment may carry either or both.",
+          "head":["Marking","Test behind it","What it tells you"],
+          "rows":[
+            ["<span class='code'>APC Class 1</span>","Box test, 4 kA arc","Protection benchmark for lower-energy exposures"],
+            ["<span class='code'>APC Class 2</span>","Box test, 7 kA arc","The common spec for utility and industrial switching"],
+            ["<span class='code'>ATPV (cal/cm²)</span>","Open-arc test","Rated thermal performance — matched to the calculated incident energy of your task"],
+            ["<span class='code'>EN ISO 11612 + EN 1149-5</span>","Heat/flame + antistatic","Usually certified alongside arc on multi-norm garments"]
+          ] },
+        { "type":"warnbar", "html":"<strong>The layer under the arc kit can undo the arc kit.</strong> Synthetic base layers melt at arc temperatures — inside the garment that just protected you. Under arc-rated clothing wear arc-rated or natural-fibre layers only, and that includes the T-shirt. The same rule runs through all FR work — the <a href='energy-offshore-workwear-guide.html' style='color:#fff;text-decoration:underline'>energy sector guide</a> covers the system." },
+        { "type":"prose", "klabel":"The rest of the kit", "h2":"Beyond the clothing", "narrow":true,
+          "html":"<p>Arc-rated clothing protects the body; the task-specific items are their own standards: <strong>insulating gloves</strong> for live work certify separately (with leather over-protectors and periodic retest), <strong>face shields and balaclavas</strong> carry their own arc ratings, and <strong>footwear</strong> for electrical environments avoids exposed metal — many electricians run composite-cap, metal-free boots as standard anyway (<a href='composite-vs-steel-toe-caps.html'>the cap comparison</a>).</p><p>For the everyday tools-and-testing kit below the line: hard-wearing trousers with holster pockets, embroidered polos for the customer-facing side, and gloves you'll actually keep on — the <a href='en-388-glove-ratings-decoder.html'>EN 388 decoder</a> sorts those.</p>" },
+        { "type":"clusternav" },
+        { "type":"faq", "klabel":"Questions", "h2":"Electrician PPE FAQ" }
+      ],
+      "faq":[
+        {"q":"Do all electricians need arc flash clothing?","a":"No — the requirement follows the risk assessment, not the trade. Work on dead, isolated circuits doesn't create arc PPE requirements; live testing, fault-finding and switchgear operation on industrial systems commonly do. If the assessment identifies arc risk, it must also specify the rated clothing."},
+        {"q":"What does ATPV mean on arc flash clothing?","a":"Arc Thermal Performance Value, in calories per square centimetre — the incident energy at which the garment gives a 50% probability of preventing a second-degree burn. The employer's arc calculation for the task sets the cal/cm² the clothing must meet or exceed."},
+        {"q":"What is the difference between APC Class 1 and Class 2?","a":"Both come from the IEC 61482 box test: Class 1 tests against a 4 kA arc, Class 2 against 7 kA. Class 2 is the common specification for utility switching and industrial LV work — but the right class comes from the risk assessment."},
+        {"q":"Can I wear a normal T-shirt under arc-rated overalls?","a":"Only if it's natural fibre — cotton at minimum, arc-rated ideally. Polyester and blends melt at arc temperatures and cause severe injury inside otherwise-intact protective clothing. The no-synthetics rule applies to every layer, base included."}
+      ]
+    },
+    {
+      "slug": "what-chefs-wear",
+      "role": "spoke",
+      "spokeType": "Role guide",
+      "navLabel": "Chef",
+      "cardTitle": "What a chef actually wears",
+      "cardBlurb": "The working wardrobe from skull cap to SR soles — how many of each, and what to buy first on a commis budget.",
+      "crumbTail": "Chef",
+      "kicker": "Role guide · Chef",
+      "h1": "What a chef actually wears.",
+      "metaTitle": "What Chefs Wear: The Working Kit List | iNeedWorkwear",
+      "metaDesc": "A chef's real wardrobe — how many jackets, which trousers, the apron rotation, slip-rated footwear and headwear, plus the buy-first list for a commis starting out.",
+      "lede": "Ask a working chef about their whites and you'll get laundry logistics before style: how many jackets survive a week, which trousers breathe at the pass, and why the shoes matter more than any of it. Here's the wardrobe as it's actually worn.",
+      "heroMeta": [ {"n":"×3","l":"Jackets minimum for a full week"}, {"n":"SR","l":"The sole rating that matters"}, {"n":"40 °C+","l":"At the pass — fabric weight counts"} ],
+      "schema": { "type": "Article" },
+      "blocks": [
+        { "type":"table", "klabel":"The wardrobe", "h2":"Head to toe, with quantities", "lead":"Quantities assume five shifts and a home wash cycle.",
+          "head":["Item","How many","The working spec"],
+          "rows":[
+            ["Chef jacket","<span class='code'>3+</span>","Cotton-rich, double-breasted; lighter weave for the pass, heavier for the grill (<a href='hospitality-workwear-guide.html'>why the design works</a>)"],
+            ["Chef trousers","<span class='code'>2–3</span>","Loose cut — pulls away from a scald instead of pressing it in"],
+            ["Apron","<span class='code'>2–3</span>","By station: heavy bib on grill, waist at the pass"],
+            ["Kitchen shoes","<span class='code'>1 good pair</span>","Closed, liquid-shedding, <span class='code'>SR</span> slip-rated sole — the injury-prevention item"],
+            ["Headwear","<span class='code'>2</span>","Skull cap or net per hygiene policy"],
+            ["Side towels","<span class='code'>lots</span>","The real workhorse — never the apron, never the cloth that touched raw"]
+          ] },
+        { "type":"prose", "narrow":true, "klabel":"Priorities", "h2":"The commis buy-first list",
+          "html":"<p>Starting out and buying your own? The order that pays: <strong>shoes first</strong> — a slip on a wet tile ends more kitchen careers than any burn, and a proper SR-soled kitchen shoe is the one item with no cheap substitute. <strong>Jackets second</strong>, three of them, because a chef in a stained jacket gets judged before the food does. <strong>Trousers third</strong> — two pairs get you through while you learn what cut suits the heat of your section. Everything else can be house-issued or accumulated.</p><p>On the laundering that keeps whites white and logos intact through the boil washes: the <a href='washing-embroidered-workwear.html'>branded-kit wash guide</a> covers it.</p>" },
+        { "type":"keyfacts", "variant":"dark", "klabel":"Heat management", "h2":"Dressing for 40 °C at the pass",
+          "items":[
+            {"n":"Weave weight","l":"Lightweight jackets with vented backs exist — grill sections still want the heavier shield"},
+            {"n":"Cotton logic","l":"Synthetics conduct heat and melt; cotton insulates and survives the wash — same reason as industry FR"},
+            {"n":"Rotation","l":"A dry jacket after the lunch rush beats any technical fabric claim"}
+          ] },
+        { "type":"clusternav" },
+        { "type":"faq", "klabel":"Questions", "h2":"Chef kit FAQ" }
+      ],
+      "faq":[
+        {"q":"How many chef jackets do you need?","a":"Three is the working minimum for a five-shift week with home laundering — one on, one in the wash, one dry. Busy kitchens and doubles push it to four or five. Trousers follow at two to three pairs."},
+        {"q":"What shoes do chefs wear?","a":"Closed shoes with liquid-shedding uppers and a slip-rated (SR) sole — wet, greasy floors are the kitchen's biggest injury source. Clog and trainer styles both work; the sole rating and the closed top are the non-negotiables."},
+        {"q":"Why do chefs wear loose trousers?","a":"Scald protection: loose fabric pulls away from the leg when hot liquid hits, while tight fabric presses it against skin. Add the airflow benefit at a 40 °C pass and the traditional baggy cut earns its look."},
+        {"q":"What should a commis chef buy first?","a":"Slip-rated kitchen shoes, then three jackets, then trousers. Shoes prevent the injury that ends shifts; jackets carry your presentability; everything else can accumulate or be house-issued."}
+      ]
+    },
+    {
+      "slug": "groundworker-kit-list",
+      "role": "spoke",
+      "spokeType": "Role guide",
+      "navLabel": "Groundworker",
+      "cardTitle": "Groundworker kit list",
+      "cardBlurb": "The muckiest job on site, dressed properly — two-boot strategy, waterproofs that survive, and knees that last a career.",
+      "crumbTail": "Groundworker",
+      "kicker": "Role guide · Groundworker",
+      "h1": "Groundworker kit: built for the muckiest job on site.",
+      "metaTitle": "Groundworker Kit List: Boots, Waterproofs & Knees | iNeedWorkwear",
+      "metaDesc": "The groundworker's head-to-toe list — the S3-plus-S5 two-boot strategy, waterproof trousers that survive aggregate, cut-rated gloves for kerbs, and knee protection that matters at 50.",
+      "lede": "Groundworks is the trade the weather actually reaches: open trenches, standing water, concrete pours, kerbs and cables. The kit list is longer than most trades' and earns its keep daily — especially the second pair of boots.",
+      "heroMeta": [ {"n":"2 boots","l":"S3 + S5 wellington"}, {"n":"Class 3","l":"Plant and deliveries all day"}, {"n":"Knees","l":"The career-length decision"} ],
+      "schema": { "type": "Article" },
+      "blocks": [
+        { "type":"table", "klabel":"The list", "h2":"Head to toe",
+          "head":["Item","Spec","Why"],
+          "rows":[
+            ["Site boots","<span class='code'>S3</span>, ankle support","The everyday boot between pours"],
+            ["Safety wellingtons","<span class='code'>S5</span> — midsole + cleats","Concrete, mud and standing water beat any leather boot"],
+            ["Hi-vis","<span class='code'>Class 3</span> jacket or vest + trousers combo","Constant plant, deliveries and reversing tippers"],
+            ["Waterproof trousers","Heavy-duty, over or instead of standard","Kneeling in wet aggregate destroys ordinary trousers"],
+            ["Gloves","Cut level <span class='code'>B–C</span>, grippy when wet","Kerbs, blocks, tying wire and cable draw all bite"],
+            ["Knee pads","Insert or strap-on, worn from day one","The item most regretted at 50 for not buying at 25"],
+            ["Thermal base layers","Wicking, autumn to spring","The trench is colder than the site"]
+          ] },
+        { "type":"prose", "narrow":true, "klabel":"The two-boot strategy", "h2":"S3 for the site, S5 for the hole",
+          "html":"<p>No single boot survives groundworks. The <strong>S3 leather boot</strong> handles the general site day — walking, machine spotting, kerb lines. The moment the work goes into water, wet concrete or serious mud, it's the <strong>S5 safety wellington</strong>: waterproof by construction, with the same toe cap, midsole and cleated sole (<a href='safety-boot-codes-explained.html'>codes explained</a>). Wet concrete specifically is a chemical burn hazard — wellingtons with trousers over the top, not tucked in, is the pour-day setup.</p><p>Both pairs die faster in this trade than any other: mud draws the oils out of leather, so the <a href='safety-boot-care.html'>boot-care routine</a> — mud off same day, never radiator-dried — is worth reading twice.</p>" },
+        { "type":"keyfacts", "variant":"dark", "klabel":"Weather", "h2":"Wet kit rules the trade",
+          "items":[
+            {"n":"Reproof, don't replace","l":"Waterproofs that wet out usually need treatment, not binning"},
+            {"n":"Hi-vis over everything","l":"If the warm layer covers the fluoro, the warm layer must be hi-vis"},
+            {"n":"Spare socks in the van","l":"The cheapest morale insurance in construction"}
+          ] },
+        { "type":"citebox", "html":"The employer-side view — baselines and trade tables — lives in the <a href='construction-workwear-guide.html'>construction sector guide</a>; jacket recovery in <a href='reproofing-waterproofs.html'>reproofing waterproofs</a>." },
+        { "type":"clusternav" },
+        { "type":"faq", "klabel":"Questions", "h2":"Groundworker kit FAQ" }
+      ],
+      "faq":[
+        {"q":"What boots do groundworkers need?","a":"Two pairs: S3 leather boots for general site work, and S5 safety wellingtons for excavations, mud and concrete pours. Wet concrete is a chemical burn hazard as well as a soaking — wellingtons with waterproof trousers over the top is the pour-day standard."},
+        {"q":"Why do groundworkers wear Class 3 hi-vis?","a":"The trade lives around moving plant — excavators slewing, tippers reversing, deliveries arriving — often in poor light and weather. Class 3's larger fluorescent and reflective areas fit that exposure, and many groundworks contractors mandate it with hi-vis trousers."},
+        {"q":"Are knee pads worth it for groundworks?","a":"They're the item veterans most wish they'd worn from day one. Kerb laying, ducting and drainage mean hours kneeling on aggregate; trouser-insert pads or strap-ons prevent the cumulative damage that shows up years later."}
+      ]
+    },
+    {
+      "slug": "workwear-for-care-staff",
+      "role": "spoke",
+      "spokeType": "Role guide",
+      "navLabel": "Care staff",
+      "cardTitle": "Tunics & scrubs for care staff",
+      "cardBlurb": "Kit for care homes and community rounds — tunic vs scrubs by setting, bare-below-the-elbow, and enough sets to make policy possible.",
+      "crumbTail": "Care staff",
+      "kicker": "Role guide · Care staff",
+      "h1": "Tunics & scrubs for care staff.",
+      "metaTitle": "Care Staff Workwear: Tunics, Scrubs & Footwear | iNeedWorkwear",
+      "metaDesc": "Workwear for care home and domiciliary staff — tunic vs scrubs by setting, bare-below-the-elbow in practice, washable footwear for double shifts, and how many sets you really need.",
+      "lede": "Care work is a twelve-hour physical job done at close quarters with vulnerable people — the uniform has to survive hoisting and hot washes, meet infection-control policy, and still look approachable at a resident's breakfast table. That's a real specification, and here's the kit that meets it.",
+      "heroMeta": [ {"n":"3–5","l":"Sets per person, minimum"}, {"n":"60 °C","l":"The wash the fabric must take"}, {"n":"Bare below","l":"The elbow, during care tasks"} ],
+      "schema": { "type": "Article" },
+      "blocks": [
+        { "type":"table", "klabel":"The list", "h2":"The working wardrobe",
+          "head":["Item","Spec","Notes"],
+          "rows":[
+            ["Tunic or scrub top ×3–5","Poly-cotton rated for <span class='code'>60 °C</span> washing","Tunics for resident-facing homes; scrubs where changing on site"],
+            ["Trousers ×2–3","Comfort-stretch, full movement","Hoisting and floor work are gym movements — cut for them"],
+            ["Footwear","Washable upper, slip-rated sole, cushioned","Twelve hours on hard flooring; spills happen"],
+            ["Fleece or cardigan","Uniform-coded, removable","For corridors and breaks — off during personal care"],
+            ["Community layer","Softshell + ID visibility","Domiciliary rounds make the car part of the workplace"]
+          ] },
+        { "type":"prose", "narrow":true, "klabel":"The policy items", "h2":"Bare below the elbow, and what it means for kit",
+          "html":"<p>Most care providers run a <strong>bare-below-the-elbow</strong> policy during personal care: short sleeves, no wristwatch, minimal rings — because forearms and cuffs are what touch people and surfaces, and they're what handwashing has to reach. For the wardrobe, that means <strong>short-sleeved tunics as the base garment</strong> and warm layers designed to come off easily and go back on between tasks, not knitwear worn through care duties.</p><p>The other policy reality is laundering: uniforms need washing at the temperature policy states — commonly 60&nbsp;°C — which is why care tunics are poly-cotton blends built for it, and why <strong>three to five sets</strong> isn't generous, it's the minimum that lets a worker change after a soiled shift and still have kit for tomorrow.</p>" },
+        { "type":"keyfacts", "variant":"dark", "klabel":"Often missed", "h2":"Three details that matter in practice",
+          "items":[
+            {"n":"Colour = role","l":"Trim and colour coding tell residents and families who's who at a glance"},
+            {"n":"Pockets earn rent","l":"Phones, gloves, pens, keys — tunic pocket layout is a genuine selection criterion"},
+            {"n":"Names embroidered","l":"Printed name badges peel in hot washes; stitched names don't"}
+          ] },
+        { "type":"citebox", "html":"The employer-side view — settings, laundering benchmarks and support-staff kit — is in the <a href='healthcare-workwear-guide.html'>healthcare sector guide</a>. For team orders with colour-coding and embroidery, <a href='contact.html'>talk to us</a>." },
+        { "type":"clusternav" },
+        { "type":"faq", "klabel":"Questions", "h2":"Care staff kit FAQ" }
+      ],
+      "faq":[
+        {"q":"How many tunics do care staff need?","a":"Three to five, assuming uniforms are washed after each shift as most policies require. Fewer than three means a single soiled shift breaks the rotation. Trousers follow at two to three pairs."},
+        {"q":"What does bare below the elbow mean?","a":"During personal care tasks: short sleeves, no wristwatch or bracelets, and minimal rings, so hands and forearms can be washed effectively and cuffs don't transfer between people. Kit-wise it means short-sleeved tunics as standard and warm layers that come off easily between tasks."},
+        {"q":"What shoes are best for care work?","a":"Washable uppers, slip-rated soles, closed toes and real cushioning. Care shifts run long on hard floors and involve spills — trainers-style washable shoes purpose-made for healthcare do the job; fabric fashion trainers don't survive the mop-bucket reality."},
+        {"q":"Can care staff wear cardigans or fleeces?","a":"Usually yes for corridors, handover and breaks — coded to the uniform — but off during personal care under bare-below-the-elbow policies. Buy layers on that assumption: easy on, easy off, washable with the rest of the kit."}
+      ]
+    },
+    {
+      "slug": "workwear-for-mechanics",
+      "role": "spoke",
+      "spokeType": "Role guide",
+      "navLabel": "Mechanic",
+      "cardTitle": "Workwear for mechanics",
+      "cardBlurb": "Coverall or two-piece, gloves that survive oil, and why nothing loose goes near anything that spins.",
+      "crumbTail": "Mechanic",
+      "kicker": "Role guide · Mechanic",
+      "h1": "Workwear for mechanics: oil, edges & things that spin.",
+      "metaTitle": "Mechanic Workwear: Coveralls, Gloves & Boots | iNeedWorkwear",
+      "metaDesc": "A mechanic's kit list — coverall vs two-piece, nitrile gloves for oil, S1P footwear, the no-loose-clothing rule near rotating assemblies, and getting the oil out afterwards.",
+      "lede": "A workshop hands you three hazards on rotation: oil on everything, edges under everything, and assemblies that spin. The kit list answers all three — and the golden rule is that nothing loose goes near the third one.",
+      "heroMeta": [ {"n":"Nitrile","l":"The only coating oil respects"}, {"n":"Snug cuffs","l":"Near anything rotating"}, {"n":"Pre-treat","l":"How the oil comes out later"} ],
+      "schema": { "type": "Article" },
+      "blocks": [
+        { "type":"table", "klabel":"The list", "h2":"Head to toe",
+          "head":["Item","Spec","Why"],
+          "rows":[
+            ["Coverall ×2 (or two-piece)","Poly-cotton, <span class='code'>snug cuffs</span>, covered zip","One on, one in the wash — always"],
+            ["Work trousers + polo (alt.)","Stretch, holster pockets","The two-piece route for MOT bays and customer-facing work"],
+            ["Gloves","<span class='code'>Nitrile-coated</span>, abrasion 4","Nitrile grips through oil where PU and latex give up"],
+            ["Boots","<span class='code'>S1P</span> workshop / <span class='code'>S3</span> if yard work","Dropped tools and trolley jacks answer the toe-cap question"],
+            ["Knee protection","Pads or a creeper","Concrete floors collect a career's worth of kneeling"],
+            ["Beanie / bump cap","Under-ramp work","Ramps and sills win every head-height argument"]
+          ] },
+        { "type":"prose", "narrow":true, "klabel":"The golden rule", "h2":"Nothing loose near anything that spins",
+          "html":"<p>Serpentine belts, prop shafts, wheel balancers, bench grinders — a workshop is full of assemblies that grab. The rule is absolute: <strong>cuffs closed, zips done, no dangling drawstrings, no rings, and gloves off at specific rotating machines</strong> where a snagged glove pulls the hand in. It's why proper workshop coveralls have elasticated or stud cuffs and covered zips, and why the baggy-hoodie look has no place under a ramp.</p><p>On the oil itself: it's coming for the kit regardless. Two coveralls in rotation, washed hot with a degreaser pre-treat — the <a href='oil-grease-out-of-workwear.html'>oil &amp; grease guide</a> is written for exactly this wardrobe. Kit that stays saturated stops being workwear and starts being a skin-contact problem; engine oils and dermatitis are a known pair, which is also why the gloves matter beyond grip.</p>" },
+        { "type":"keyfacts", "variant":"dark", "klabel":"Worth knowing", "h2":"Three habits of tidy workshops",
+          "items":[
+            {"n":"Two-coverall rotation","l":"A washed coverall weekly beats one worn to saturation"},
+            {"n":"Barrier cream + gloves","l":"Mineral oil on skin daily is a dermatitis plan — interrupt it"},
+            {"n":"Nitrile disposables in the box","l":"For fluids work — brake cleaner and used oil aren't handwash"}
+          ] },
+        { "type":"clusternav" },
+        { "type":"faq", "klabel":"Questions", "h2":"Mechanic kit FAQ" }
+      ],
+      "faq":[
+        {"q":"Should mechanics wear coveralls or trousers and top?","a":"Coveralls win under ramps and inside engine bays — one garment, no waist gap, snug cuffs, industrial-washable. Two-piece suits MOT testing and customer-facing bays. Either way: two sets in rotation, because oil accumulates faster than one wash cycle."},
+        {"q":"What gloves are best for mechanics?","a":"Nitrile-coated work gloves for general spannering — nitrile keeps grip through oil where PU and latex fail — plus disposable nitrile for fluids. At specific rotating machinery, gloves come off entirely: a snagged glove pulls the hand in."},
+        {"q":"How do you get oil out of mechanic overalls?","a":"Pre-treat with a degreaser (neat washing-up liquid works), wait 20–30 minutes, then wash on the hottest cycle the label allows with heavy-duty detergent. Air-dry and check before tumble-drying — heat sets residual oil. Saturated kit that won't come clean gets retired."},
+        {"q":"Do mechanics need safety boots?","a":"Yes — dropped tools, brake discs and trolley jack handles settle the argument. S1P covers workshop floors; step up to S3 if the job includes yards and recovery work in the weather. Metal-free composite caps suit anyone working around live electrics on EVs."}
+      ]
+    },
+    {
+      "slug": "workwear-for-rail-trackside",
+      "role": "spoke",
+      "spokeType": "Role guide",
+      "navLabel": "Rail trackside",
+      "cardTitle": "Kit for rail trackside workers",
+      "cardBlurb": "All-orange from vest to trousers — the full trackside kit list and the condition checks that pass an induction.",
+      "crumbTail": "Rail trackside",
+      "kicker": "Role guide · Rail trackside",
+      "h1": "Rail trackside kit: orange from collar to boot.",
+      "metaTitle": "Rail Trackside Workwear: The Kit List | iNeedWorkwear",
+      "metaDesc": "The trackside worker's head-to-toe list — orange Class 3 jacket and trousers to the rail spec, S3 boots for ballast, layers that stay compliant, and the checks inductions run.",
+      "lede": "Rail is the one environment where the wardrobe colour is decided for you — orange, throughout — and where a faded garment gets you turned away at the access point. The kit list is short and strict, which at least makes it easy to get right.",
+      "heroMeta": [ {"n":"Orange","l":"Every visible layer"}, {"n":"Class 3","l":"The practical default"}, {"n":"Ballast-proof","l":"S3 with ankle support"} ],
+      "schema": { "type": "Article" },
+      "blocks": [
+        { "type":"table", "klabel":"The list", "h2":"Head to toe",
+          "head":["Item","Spec","Why"],
+          "rows":[
+            ["Hi-vis jacket","Orange, <span class='code'>Class 3</span>, rail spec","The garment inductions look at first (<a href='rail-spec-workwear-explained.html'>the spec explained</a>)"],
+            ["Hi-vis trousers","Orange, commonly mandated","Two-piece orange is the working default on possessions"],
+            ["Vest / polo layer","Orange rail-spec for summer working","A compliant warm-weather option beats a stripped jacket"],
+            ["Boots","<span class='code'>S3</span>, ankle support","Ballast turns ankles; midsoles stop the through-tread"],
+            ["Base layers","Wicking, dark","Nights are cold even in June; sweat then wind-chill is the pattern"],
+            ["Gloves & head","Per task and PC rules","Hard hat with possession-specific requirements"]
+          ] },
+        { "type":"prose", "narrow":true, "klabel":"Condition", "h2":"The kit check that happens at the gate",
+          "html":"<p>Trackside access controls actually inspect clothing, and the failures are predictable: <strong>faded orange</strong> that's drifted toward peach, <strong>cracked or peeling tape</strong>, and jackets past their wash count. The <a href='caring-for-hi-vis.html'>hi-vis care rules</a> apply with extra teeth here — velcro closed in the wash, no softener, retire on fade — because the garment isn't just PPE, it's your ticket through the gate.</p><p>Layering follows the same logic as everywhere else with one rail twist: <strong>every visible layer is orange</strong>. A yellow vest over an orange jacket, or a black fleece zipped over the lot, both fail. Warm layers go under the certified orange shell.</p>" },
+        { "type":"keyfacts", "variant":"dark", "klabel":"Buying", "h2":"Three rail-buying rules",
+          "items":[
+            {"n":"Spec, then buy","l":"Confirm class and trouser requirements with the PC before ordering"},
+            {"n":"Two of everything","l":"Wet possessions and no drying time — rotation is compliance"},
+            {"n":"Badge carefully","l":"Logos must stay clear of certified areas on rail garments too"}
+          ] },
+        { "type":"clusternav" },
+        { "type":"faq", "klabel":"Questions", "h2":"Trackside kit FAQ" }
+      ],
+      "faq":[
+        {"q":"What hi-vis do you need for trackside rail work?","a":"Orange garments certified to EN ISO 20471 meeting the rail spec (RIS-3279-TOM) — in practice a Class 3 orange jacket, with orange trousers mandated by most principal contractors on possessions. Yellow is non-compliant on or near the line."},
+        {"q":"What boots are best for ballast?","a":"S3 boots with genuine ankle support — ballast is the ankle-turning surface, and the S3 midsole handles the through-sole hazards of trackside debris. Waterproof versions (S7 or S3 WR) earn their price on night possessions."},
+        {"q":"Can you wear a fleece over rail hi-vis?","a":"Not over it — covering the orange removes the certified visible area, and access controls will pick it up. Warm layers go underneath; if the outer layer is the warm layer, it must itself be certified orange rail-spec."}
+      ]
+    },
+    {
+      "slug": "chainsaw-forestry-kit",
+      "role": "spoke",
+      "spokeType": "Role guide",
+      "navLabel": "Chainsaw & forestry",
+      "cardTitle": "Chainsaw & forestry operator kit",
+      "cardBlurb": "EN ISO 11393 protection explained — trouser types and classes, chainsaw boots, and the helmet system that comes as a set.",
+      "crumbTail": "Chainsaw & forestry",
+      "kicker": "Role guide · Chainsaw & forestry",
+      "h1": "Chainsaw & forestry kit: protection with a class number.",
+      "metaTitle": "Chainsaw & Forestry Kit: EN ISO 11393 Explained | iNeedWorkwear",
+      "metaDesc": "Chainsaw PPE decoded — EN ISO 11393 trouser types A and C, protection classes by chain speed, chainsaw boots, and the helmet-visor-ear-defender system worn as one unit.",
+      "lede": "Chainsaw clothing is unusual among PPE: it's designed to be destroyed. The layers inside a protective trouser exist to pull out, clog the sprocket and stall the chain in the fraction of a second before it reaches the leg. That design has types and classes — and choosing them wrong defeats the idea.",
+      "heroMeta": [ {"n":"EN ISO 11393","l":"The chainsaw standard"}, {"n":"Type A / C","l":"Coverage patterns"}, {"n":"Class 1–3","l":"By chain speed"} ],
+      "schema": { "type": "Article" },
+      "blocks": [
+        { "type":"prose", "narrow":true, "klabel":"How it works", "h2":"Clothing that fights the saw",
+          "html":"<p>Inside chainsaw-protective garments sit layers of long, loose fibres. On contact, the chain rips them out and drags them into the drive sprocket, jamming the saw to a stop — sacrificing the garment to save the limb. Three consequences follow:</p><ul><li><strong>One contact and the garment is finished.</strong> Even a nick that doesn't reach skin has pulled the protective layers; it's replaced, not sewn up.</li><li><strong>Protection is rated to chain speed</strong> — the classes below — because faster chains need more fibre and more stopping.</li><li><strong>It only works where the layers are.</strong> That's the difference between the trouser types: coverage pattern.</li></ul>" },
+        { "type":"table", "variant":"alt", "klabel":"Types & classes", "h2":"The two decisions on the label",
+          "head":["Decision","Options","How to choose"],
+          "rows":[
+            ["Coverage (trousers)","<span class='code'>Type A</span> — front of legs · <span class='code'>Type C</span> — all-round","Type A for ground work with escape routes; Type C for climbing, platform and utility work where the saw can reach the back of the leg"],
+            ["Protection class","<span class='code'>Class 1</span> (20 m/s) · <span class='code'>Class 2</span> (24 m/s) · <span class='code'>Class 3</span> (28 m/s)","Match to the saw's chain speed — Class 1 covers most ground-based forestry saws; professional users check the saw's plate"],
+            ["Boots","<span class='code'>EN ISO 17249</span> chainsaw boots","Toe cap plus chainsaw-protective layers over the vamp — ordinary S3 boots are not chainsaw boots"],
+            ["Gloves","Chainsaw-protective left hand (common design)","The left hand rides nearest the bar on most saws"]
+          ] },
+        { "type":"prose", "klabel":"Up top", "h2":"The helmet is a system, worn complete", "narrow":true,
+          "html":"<p>The forestry helmet set — <strong>shell, mesh visor, ear defenders</strong> — is designed as one unit and worn as one: chip strike, noise and canopy debris arrive together. Hi-vis shells are the forestry norm so ground crews stay visible among the trees, and helmets carry a service life (check the moulding date) that outdoor UV shortens.</p><p>Around the protective kit goes ordinary outdoor workwear logic: wicking base layers, hi-vis where extraction machinery operates, and <a href='reproofing-waterproofs.html'>waterproofs maintained</a> so a wet day doesn't end the layering system. Cut-resistant gloves for the non-saw handling — sharpening, dragging brash — follow the <a href='en-388-glove-ratings-decoder.html'>EN 388 ratings</a>.</p>" },
+        { "type":"warnbar", "html":"<strong>Training is part of the PPE.</strong> Chainsaw clothing assumes competent technique — it's the last line, not the plan. UK chainsaw users need appropriate training and assessment (Lantra/NPTC routes are the recognised ones), and employers must provide both the kit and the competence. A Class 3 trouser on an untrained operator is not a safety system." },
+        { "type":"clusternav" },
+        { "type":"faq", "klabel":"Questions", "h2":"Chainsaw kit FAQ" }
+      ],
+      "faq":[
+        {"q":"What is the difference between Type A and Type C chainsaw trousers?","a":"Coverage: Type A protects the front of the legs and is the ground-work standard; Type C wraps protection all round the leg for climbing, platform and utility arborists where the saw can reach from any angle. Type C is hotter and heavier — that's the trade."},
+        {"q":"What do chainsaw protection classes mean?","a":"They're rated stopping speeds under EN ISO 11393: Class 1 to 20 m/s of chain speed, Class 2 to 24, Class 3 to 28. Match the class to the saw you run — Class 1 covers most ground-based forestry work; check the saw's specification plate."},
+        {"q":"Can you repair chainsaw trousers after a cut?","a":"No — any chain contact that pulls the internal fibres has spent the protection, even if the outer looks repairable. The garment is replaced. Sewing up the shell hides the fact that the layers underneath are gone."},
+        {"q":"Do you need special boots for chainsaw work?","a":"Yes — chainsaw boots certified to EN ISO 17249, which add chainsaw-protective layers over the vulnerable areas on top of a standard safety-boot toe cap. Ordinary S3 site boots provide no chain protection at all."}
+      ]
+    }
+  ]
+}

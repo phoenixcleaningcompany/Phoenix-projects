@@ -38,14 +38,14 @@ LIVE,Sector hub,Sectors,Manufacturing & engineering workwear guide,manufacturing
 LIVE,Sector hub,Sectors,Healthcare & care workwear guide,healthcare-workwear-guide,healthcare | scrubs | tunics,PROMISED on sectors hub
 LIVE,Sector hub,Sectors,Hospitality & catering workwear guide,hospitality-workwear-guide,hospitality | chefswear | aprons,PROMISED on sectors hub
 LIVE,Sector hub,Sectors,Energy & offshore workwear guide,energy-offshore-workwear-guide,offshore-clothing | flame-retardant,PROMISED on sectors hub
-T1,Role guide,Roles,Kit for warehouse operatives,workwear-for-warehouse-operatives,hi-vis | footwear | coldstore,PROMISED on roles hub
-T1,Role guide,Roles,PPE for electricians (arc flash),ppe-for-electricians,arc-flash | flame-retardant,PROMISED on roles hub
-T1,Role guide,Roles,What a chef actually wears,what-chefs-wear,chefswear | aprons | footwear,PROMISED on roles hub
-T1,Role guide,Roles,Groundworker kit list,groundworker-kit-list,hi-vis | coats-jackets | footwear,PROMISED on roles hub
-T1,Role guide,Roles,Tunics & scrubs for care staff,workwear-for-care-staff,scrubs | tunics | healthcare,PROMISED on roles hub
-T1,Role guide,Roles,Workwear for mechanics,workwear-for-mechanics,coveralls | gloves-ppe | footwear,PROMISED on roles hub
-T1,Role guide,Roles,Kit for rail trackside workers,workwear-for-rail-trackside,rail-spec | hi-vis,
-T1,Role guide,Roles,Chainsaw & forestry operator kit (EN ISO 11393),chainsaw-forestry-kit,chainsaw-and-forestry | helmets,
+LIVE,Role guide,Roles,Kit for warehouse operatives,workwear-for-warehouse-operatives,hi-vis | footwear | coldstore,PROMISED on roles hub
+LIVE,Role guide,Roles,PPE for electricians (arc flash),ppe-for-electricians,arc-flash | flame-retardant,PROMISED on roles hub
+LIVE,Role guide,Roles,What a chef actually wears,what-chefs-wear,chefswear | aprons | footwear,PROMISED on roles hub
+LIVE,Role guide,Roles,Groundworker kit list,groundworker-kit-list,hi-vis | coats-jackets | footwear,PROMISED on roles hub
+LIVE,Role guide,Roles,Tunics & scrubs for care staff,workwear-for-care-staff,scrubs | tunics | healthcare,PROMISED on roles hub
+LIVE,Role guide,Roles,Workwear for mechanics,workwear-for-mechanics,coveralls | gloves-ppe | footwear,PROMISED on roles hub
+LIVE,Role guide,Roles,Kit for rail trackside workers,workwear-for-rail-trackside,rail-spec | hi-vis,
+LIVE,Role guide,Roles,Chainsaw & forestry operator kit (EN ISO 11393),chainsaw-forestry-kit,chainsaw-and-forestry | helmets,
 T1,Area guide,Local,Workwear in Sheffield,workwear-sheffield,per archetype,PROMISED on areas hub
 T1,Area guide,Local,Workwear in Grimsby,workwear-grimsby,per archetype,PROMISED on areas hub
 T1,Area guide,Local,Workwear in Crawley,workwear-crawley,per archetype,PROMISED on areas hub
