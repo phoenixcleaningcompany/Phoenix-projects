@@ -1,0 +1,109 @@
+# iNeedWorkwear
+
+> Independent UK workwear guidance — safety standards decoded in plain English, kit lists by sector and role, and care guides that keep certified garments compliant. The companion shop is at https://www.ineedworkwear.com. Phone 01597 730142 · hello@ineedworkwear.com.
+
+Facts on this site are checked against the published EN/ISO standards they describe; each page names the specific classes and test values so claims can be verified.
+
+## Standards decoded
+- [EN 1149-5 Antistatic Workwear Explained](https://www.ineedworkwear.uk/en-1149-5-antistatic-explained.html)
+- [EN 13034 Type 6 Chemical Splash Explained](https://www.ineedworkwear.uk/en-13034-chem-splash-explained.html)
+- [EN 149 FFP Mask Ratings Explained: FFP1/2/3](https://www.ineedworkwear.uk/en-149-ffp-ratings-explained.html)
+- [EN 166 Eye Protection Explained: Specs &amp; Goggles](https://www.ineedworkwear.uk/en-166-eye-protection-explained.html)
+- [EN 342 Cold Protection Explained](https://www.ineedworkwear.uk/en-342-cold-protection-explained.html)
+- [EN 343 Explained: Waterproof Jacket Ratings](https://www.ineedworkwear.uk/en-343-waterproofs-explained.html)
+- [EN 397 Safety Helmets Explained](https://www.ineedworkwear.uk/en-397-helmets-explained.html)
+- [EN 407 Heat Glove Ratings Explained](https://www.ineedworkwear.uk/en-407-heat-gloves-explained.html)
+- [EN 511 Winter Glove Ratings Explained](https://www.ineedworkwear.uk/en-511-winter-gloves-explained.html)
+- [EN ISO 11612 Explained: Heat &amp; Flame Codes A–F](https://www.ineedworkwear.uk/en-iso-11612-explained.html)
+- [EN ISO 20347 Occupational Footwear Explained](https://www.ineedworkwear.uk/en-iso-20347-explained.html)
+- [EN ISO 20471 Explained: Hi-Vis Classes, Areas & Certification](https://www.ineedworkwear.uk/en-iso-20471-hi-vis-classes-explained.html)
+- [Flame-Resistant Workwear: The Complete Guide](https://www.ineedworkwear.uk/fr-workwear-guide.html)
+- [Hi-Vis Workwear: Classes, Standards & How to Choose](https://www.ineedworkwear.uk/hi-vis-workwear-guide.html)
+- [IEC 61482 Arc Flash Explained: ATPV, ELIM &amp; APC](https://www.ineedworkwear.uk/iec-61482-arc-flash-explained.html)
+- [Rail Spec Workwear: RIS-3279-TOM Explained](https://www.ineedworkwear.uk/rail-spec-workwear-explained.html)
+- [Safety Boot Codes S1–S7 Explained (EN ISO 20345)](https://www.ineedworkwear.uk/safety-boot-codes-explained.html)
+- [Safety Footwear Guide: Boot Codes, Toe Caps &amp; Choosing](https://www.ineedworkwear.uk/safety-footwear-guide.html)
+- [Work Gloves Guide: Types, EN 388 Ratings &amp; Choosing](https://www.ineedworkwear.uk/work-gloves-guide.html)
+
+## Sector guides
+- [Construction Workwear Guide: Site Kit by Trade](https://www.ineedworkwear.uk/construction-workwear-guide.html)
+- [Energy &amp; Offshore Workwear Guide: Multi-Norm FR](https://www.ineedworkwear.uk/energy-offshore-workwear-guide.html)
+- [Healthcare &amp; Care Workwear Guide: Scrubs &amp; Tunics](https://www.ineedworkwear.uk/healthcare-workwear-guide.html)
+- [Hospitality &amp; Catering Workwear Guide](https://www.ineedworkwear.uk/hospitality-workwear-guide.html)
+- [Manufacturing &amp; Engineering Workwear Guide](https://www.ineedworkwear.uk/manufacturing-workwear-guide.html)
+- [Warehouse &amp; Logistics Workwear Guide: Kit by Zone](https://www.ineedworkwear.uk/warehouse-logistics-workwear-guide.html)
+
+## Role kit lists
+- [Chainsaw &amp; Forestry Kit: EN ISO 11393 Explained](https://www.ineedworkwear.uk/chainsaw-forestry-kit.html)
+- [Groundworker Kit List: Boots, Waterproofs &amp; Knees](https://www.ineedworkwear.uk/groundworker-kit-list.html)
+- [PPE for Electricians: Arc Flash Clothing Explained](https://www.ineedworkwear.uk/ppe-for-electricians.html)
+- [What Chefs Wear: The Working Kit List](https://www.ineedworkwear.uk/what-chefs-wear.html)
+- [Care Staff Workwear: Tunics, Scrubs &amp; Footwear](https://www.ineedworkwear.uk/workwear-for-care-staff.html)
+- [Workwear for Cleaners: The Kit List](https://www.ineedworkwear.uk/workwear-for-cleaners.html)
+- [Delivery Driver Workwear: The Kit List](https://www.ineedworkwear.uk/workwear-for-delivery-drivers.html)
+- [Forklift Driver Workwear: The Kit List](https://www.ineedworkwear.uk/workwear-for-forklift-drivers.html)
+- [Kitchen Porter Workwear: The Kit List](https://www.ineedworkwear.uk/workwear-for-kitchen-porters.html)
+- [Landscaper &amp; Grounds Workwear: The Kit List](https://www.ineedworkwear.uk/workwear-for-landscapers.html)
+- [Mechanic Workwear: Coveralls, Gloves &amp; Boots](https://www.ineedworkwear.uk/workwear-for-mechanics.html)
+- [Nurse &amp; HCA Workwear: The Kit List](https://www.ineedworkwear.uk/workwear-for-nurses-hcas.html)
+- [Rail Trackside Workwear: The Kit List](https://www.ineedworkwear.uk/workwear-for-rail-trackside.html)
+- [Security Guard Workwear: The Kit List](https://www.ineedworkwear.uk/workwear-for-security-guards.html)
+- [Warehouse Operative Workwear: The Kit List](https://www.ineedworkwear.uk/workwear-for-warehouse-operatives.html)
+
+## Care & compliance guides
+- [Workwear Care &amp; Maintenance: Keep Protective Kit Compliant](https://www.ineedworkwear.uk/care.html)
+- [Caring for Hi-Vis: Wash Limits, Fading &amp; Compliance](https://www.ineedworkwear.uk/caring-for-hi-vis.html)
+- [How to Wash FR Coveralls Without Ruining the Flame Resistance](https://www.ineedworkwear.uk/how-to-wash-fr-coveralls.html)
+- [Laundering Scrubs for Infection Control](https://www.ineedworkwear.uk/laundering-scrubs.html)
+- [Oil &amp; Grease Out of Workwear: What Actually Works](https://www.ineedworkwear.uk/oil-grease-out-of-workwear.html)
+- [Reproofing Waterproof Jackets: DWR, Wetting Out &amp; EN 343](https://www.ineedworkwear.uk/reproofing-waterproofs.html)
+- [Safety Boot Care: Drying, Cleaning &amp; When to Replace](https://www.ineedworkwear.uk/safety-boot-care.html)
+- [Washing Chef Whites: Stains, Temperature &amp; Routine](https://www.ineedworkwear.uk/washing-chef-whites.html)
+- [Washing Embroidered &amp; Printed Workwear Properly](https://www.ineedworkwear.uk/washing-embroidered-workwear.html)
+
+## Interactive tools
+- [Boot S-Code Finder: S1 to S7 in Three Questions](https://www.ineedworkwear.uk/boot-code-finder.html)
+- [EN 388 Explained: Glove Ratings &amp; Marking Decoder](https://www.ineedworkwear.uk/en-388-glove-ratings-decoder.html)
+- [Flame-Resistant Coveralls for Welders: Standards, Classes & Kit Guide](https://www.ineedworkwear.uk/fr-coveralls-for-welders.html)
+- [Hi-Vis Class Selector: Which Class Do You Need?](https://www.ineedworkwear.uk/hi-vis-class-selector.html)
+- [PPE Kit Checklist Builder](https://www.ineedworkwear.uk/ppe-checklist-builder.html)
+
+## Guides, comparisons & buying advice
+- [Thermals &amp; Base Layers for Work: Buying Guide](https://www.ineedworkwear.uk/base-layers-guide.html)
+- [Choosing Team Polo Shirts: The Buying Guide](https://www.ineedworkwear.uk/choosing-team-polos.html)
+- [Class 2 vs Class 3 Hi-Vis: Which Do You Need?](https://www.ineedworkwear.uk/class-2-vs-class-3-hi-vis.html)
+- [Composite vs Steel Toe Caps: Which to Choose](https://www.ineedworkwear.uk/composite-vs-steel-toe-caps.html)
+- [Coverall vs Bib &amp; Brace: Which Workwear &amp; When](https://www.ineedworkwear.uk/coverall-vs-bib-and-brace.html)
+- [Disposable PPE Buying Guide: Gloves, Masks &amp; More](https://www.ineedworkwear.uk/disposable-ppe-guide.html)
+- [Disposable vs Reusable PPE: When Each Is Right](https://www.ineedworkwear.uk/disposable-vs-reusable-ppe.html)
+- [Embroidery vs Print for Workwear Branding](https://www.ineedworkwear.uk/embroidery-vs-print.html)
+- [Hoodie vs Sweatshirt for Work Team Kit](https://www.ineedworkwear.uk/hoodie-vs-sweatshirt.html)
+- [Inherent vs Treated FR Fabric: The Honest Trade-Offs](https://www.ineedworkwear.uk/inherent-vs-treated-fr.html)
+- [Maternity Workwear Guide: What Exists &amp; What Adapts](https://www.ineedworkwear.uk/maternity-workwear-guide.html)
+- [PPE at Work Regulations 2022 Explained](https://www.ineedworkwear.uk/ppe-regulations-2022-explained.html)
+- [Softshell vs Fleece for Work: Which &amp; When](https://www.ineedworkwear.uk/softshell-vs-fleece.html)
+- [Sustainable Workwear: An Honest Buying Guide](https://www.ineedworkwear.uk/sustainable-workwear-guide.html)
+- [Tunic vs Scrubs: Which for Your Care Setting](https://www.ineedworkwear.uk/tunic-vs-scrubs.html)
+- [Uniform Tax Relief Explained: Who Can Claim](https://www.ineedworkwear.uk/uniform-tax-relief.html)
+- [Who Pays for Workwear &amp; PPE? The Rules](https://www.ineedworkwear.uk/who-pays-for-ppe.html)
+- [Work Trousers Guide: Cargo, Holster &amp; Stretch](https://www.ineedworkwear.uk/work-trousers-guide.html)
+- [Yellow vs Orange Hi-Vis: Which Colour &amp; When](https://www.ineedworkwear.uk/yellow-vs-orange-hi-vis.html)
+
+## Local area guides
+- [Workwear in Aberdeen: Offshore, Energy & Trade Kit](https://www.ineedworkwear.uk/workwear-aberdeen.html)
+- [Workwear in Corby: Logistics, Cold-Store & Warehouse Kit](https://www.ineedworkwear.uk/workwear-corby.html)
+- [Workwear in Crawley: Airport, Logistics &amp; Uniforms](https://www.ineedworkwear.uk/workwear-crawley.html)
+- [Workwear in Grimsby: Seafood, Ports &amp; Wind Kit](https://www.ineedworkwear.uk/workwear-grimsby.html)
+- [Workwear in Harrogate: Hospitality, Catering & Care Uniforms](https://www.ineedworkwear.uk/workwear-harrogate.html)
+- [Workwear in Sheffield: Steel, Forging &amp; Trades Kit](https://www.ineedworkwear.uk/workwear-sheffield.html)
+
+## Site
+- [About iNeedWorkwear: Who We Are & How the Guides Work](https://www.ineedworkwear.uk/about.html)
+- [Workwear by Area: What Your Town’s Trades Wear](https://www.ineedworkwear.uk/areas.html)
+- [Contact iNeedWorkwear: Phone, Email & Trade Enquiries](https://www.ineedworkwear.uk/contact.html)
+- [Workwear Guides: Standards, Roles, Care &amp; Comparisons](https://www.ineedworkwear.uk/guides.html)
+- [iNeedWorkwear — What to Wear for Work: Guides by Sector, Role & Standard](https://www.ineedworkwear.uk/index.html)
+- [Workwear by Role: What Each Trade Actually Needs](https://www.ineedworkwear.uk/roles.html)
+- [Workwear by Sector: Construction, Logistics, Healthcare &amp; More](https://www.ineedworkwear.uk/sectors.html)
+- [Workwear Safety Standards Explained: EN ISO 20471, 11611 &amp; More](https://www.ineedworkwear.uk/standards.html)
+- [Shop Workwear by Category](https://www.ineedworkwear.uk/kit.html)
