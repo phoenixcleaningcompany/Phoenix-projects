@@ -26,11 +26,16 @@ Facts on this site are checked against the published EN/ISO standards they descr
 - [Work Gloves Guide: Types, EN 388 Ratings &amp; Choosing](https://www.ineedworkwear.uk/work-gloves-guide.html)
 
 ## Sector guides
+- [Cleaning &amp; FM Workwear Guide](https://www.ineedworkwear.uk/cleaning-fm-workwear-guide.html)
 - [Construction Workwear Guide: Site Kit by Trade](https://www.ineedworkwear.uk/construction-workwear-guide.html)
 - [Energy &amp; Offshore Workwear Guide: Multi-Norm FR](https://www.ineedworkwear.uk/energy-offshore-workwear-guide.html)
+- [Food Processing Workwear Guide](https://www.ineedworkwear.uk/food-processing-workwear-guide.html)
+- [Forestry &amp; Arb Workwear Guide](https://www.ineedworkwear.uk/forestry-workwear-guide.html)
 - [Healthcare &amp; Care Workwear Guide: Scrubs &amp; Tunics](https://www.ineedworkwear.uk/healthcare-workwear-guide.html)
 - [Hospitality &amp; Catering Workwear Guide](https://www.ineedworkwear.uk/hospitality-workwear-guide.html)
 - [Manufacturing &amp; Engineering Workwear Guide](https://www.ineedworkwear.uk/manufacturing-workwear-guide.html)
+- [Painter &amp; Decorator Workwear Guide](https://www.ineedworkwear.uk/painter-decorator-workwear-guide.html)
+- [Rail Workwear Guide: Trackside to Depot](https://www.ineedworkwear.uk/rail-workwear-guide.html)
 - [Warehouse &amp; Logistics Workwear Guide: Kit by Zone](https://www.ineedworkwear.uk/warehouse-logistics-workwear-guide.html)
 
 ## Role kit lists
@@ -38,7 +43,9 @@ Facts on this site are checked against the published EN/ISO standards they descr
 - [Groundworker Kit List: Boots, Waterproofs &amp; Knees](https://www.ineedworkwear.uk/groundworker-kit-list.html)
 - [PPE for Electricians: Arc Flash Clothing Explained](https://www.ineedworkwear.uk/ppe-for-electricians.html)
 - [What Chefs Wear: The Working Kit List](https://www.ineedworkwear.uk/what-chefs-wear.html)
+- [Bricklayer Workwear: The Kit List](https://www.ineedworkwear.uk/workwear-for-bricklayers.html)
 - [Care Staff Workwear: Tunics, Scrubs &amp; Footwear](https://www.ineedworkwear.uk/workwear-for-care-staff.html)
+- [Carpenter &amp; Joiner Workwear: The Kit List](https://www.ineedworkwear.uk/workwear-for-carpenters.html)
 - [Workwear for Cleaners: The Kit List](https://www.ineedworkwear.uk/workwear-for-cleaners.html)
 - [Delivery Driver Workwear: The Kit List](https://www.ineedworkwear.uk/workwear-for-delivery-drivers.html)
 - [Forklift Driver Workwear: The Kit List](https://www.ineedworkwear.uk/workwear-for-forklift-drivers.html)
@@ -46,7 +53,10 @@ Facts on this site are checked against the published EN/ISO standards they descr
 - [Landscaper &amp; Grounds Workwear: The Kit List](https://www.ineedworkwear.uk/workwear-for-landscapers.html)
 - [Mechanic Workwear: Coveralls, Gloves &amp; Boots](https://www.ineedworkwear.uk/workwear-for-mechanics.html)
 - [Nurse &amp; HCA Workwear: The Kit List](https://www.ineedworkwear.uk/workwear-for-nurses-hcas.html)
+- [Painter &amp; Decorator Workwear: The Kit List](https://www.ineedworkwear.uk/workwear-for-painter-decorators.html)
+- [Plumber Workwear: The Kit List](https://www.ineedworkwear.uk/workwear-for-plumbers.html)
 - [Rail Trackside Workwear: The Kit List](https://www.ineedworkwear.uk/workwear-for-rail-trackside.html)
+- [Roofer Workwear: The Kit List](https://www.ineedworkwear.uk/workwear-for-roofers.html)
 - [Security Guard Workwear: The Kit List](https://www.ineedworkwear.uk/workwear-for-security-guards.html)
 - [Warehouse Operative Workwear: The Kit List](https://www.ineedworkwear.uk/workwear-for-warehouse-operatives.html)
 
@@ -70,6 +80,7 @@ Facts on this site are checked against the published EN/ISO standards they descr
 
 ## Guides, comparisons & buying advice
 - [Thermals &amp; Base Layers for Work: Buying Guide](https://www.ineedworkwear.uk/base-layers-guide.html)
+- [Best Safety Boots for Concrete Floors](https://www.ineedworkwear.uk/best-safety-boots-concrete-floors.html)
 - [Choosing Team Polo Shirts: The Buying Guide](https://www.ineedworkwear.uk/choosing-team-polos.html)
 - [Class 2 vs Class 3 Hi-Vis: Which Do You Need?](https://www.ineedworkwear.uk/class-2-vs-class-3-hi-vis.html)
 - [Composite vs Steel Toe Caps: Which to Choose](https://www.ineedworkwear.uk/composite-vs-steel-toe-caps.html)
@@ -81,7 +92,10 @@ Facts on this site are checked against the published EN/ISO standards they descr
 - [Inherent vs Treated FR Fabric: The Honest Trade-Offs](https://www.ineedworkwear.uk/inherent-vs-treated-fr.html)
 - [Maternity Workwear Guide: What Exists &amp; What Adapts](https://www.ineedworkwear.uk/maternity-workwear-guide.html)
 - [PPE at Work Regulations 2022 Explained](https://www.ineedworkwear.uk/ppe-regulations-2022-explained.html)
+- [Schoolwear Guide: Embroidered Uniform That Lasts](https://www.ineedworkwear.uk/schoolwear-guide.html)
+- [Security Uniform Guide](https://www.ineedworkwear.uk/security-uniform-guide.html)
 - [Softshell vs Fleece for Work: Which &amp; When](https://www.ineedworkwear.uk/softshell-vs-fleece.html)
+- [Sports &amp; Teamwear Guide: Club Kit Done Properly](https://www.ineedworkwear.uk/sports-teamwear-guide.html)
 - [Sustainable Workwear: An Honest Buying Guide](https://www.ineedworkwear.uk/sustainable-workwear-guide.html)
 - [Tunic vs Scrubs: Which for Your Care Setting](https://www.ineedworkwear.uk/tunic-vs-scrubs.html)
 - [Uniform Tax Relief Explained: Who Can Claim](https://www.ineedworkwear.uk/uniform-tax-relief.html)

@@ -250,6 +250,49 @@
         {"q":"Do disposable gloves expire?","a":"Yes — polymers age. Nitrile stiffens and loses elasticity, typically over a few years and much faster in heat and UV. Store boxes cool, dark and dry, rotate first-in-first-out, and treat brittle or discoloured gloves as expired."},
         {"q":"What sizes of disposable gloves should we stock?","a":"A spread from S to XL, weighted to your workforce — a 1:2:2:1 starting ratio is common, then adjust from real usage. Fit matters even on disposables: baggy gloves wreck dexterity and tight ones tear on donning."}
       ]
+    },
+    {
+      "slug": "best-safety-boots-concrete-floors",
+      "role": "spoke",
+      "spokeType": "Answer page",
+      "navLabel": "Boots for concrete floors",
+      "cardTitle": "Best safety boots for concrete floors",
+      "cardBlurb": "Concrete's problem is fatigue, not impact — the cushioning-first spec that saves feet, knees and backs.",
+      "crumbTail": "Buying guides",
+      "kicker": "Answer page · Footwear",
+      "h1": "The best safety boots for concrete floors.",
+      "metaTitle": "Best Safety Boots for Concrete Floors | iNeedWorkwear",
+      "metaDesc": "Concrete floors punish feet through fatigue, not impact — the spec that matters: cushioned midsoles, energy-absorbing heels, replaced insoles and rotation, with the right S-code around it.",
+      "lede": "Ask what boot suits concrete and the honest answer starts with what concrete actually does: it returns every step's shock straight back up the leg, eight hours a day. The spec that matters isn't the toe cap — it's everything between your heel and the floor.",
+      "heroMeta": [ {"n":"Zero give","l":"Concrete returns every step"}, {"n":"Cushioning","l":"The spec that matters"}, {"n":"2 pairs","l":"Rotation keeps foam alive"} ],
+      "schema": { "type": "Article" },
+      "blocks": [
+        { "type":"prose", "narrow":true, "klabel":"The problem", "h2":"Concrete injures slowly",
+          "html":"<p>Concrete's hazard isn't dramatic — it's <strong>cumulative</strong>: plantar fasciitis, knee and hip wear, lower-back fatigue, all downstream of a surface with zero give. Warehouse pickers, factory staff and workshop trades feel it as burning feet by hour six. The boot's job on concrete is <strong>shock management</strong>, and four features do it:</p><ul><li><strong>A genuinely cushioned midsole</strong> — EVA or PU foam with real depth, not a token layer under a rigid boot.</li><li><strong>The energy-absorbing heel</strong> that's built into every code from S1 up — one reason plain SB boots are a false economy on hard floors.</li><li><strong>A replaceable, cushioned insole</strong> — the component that actually dies first, and the cheapest to renew.</li><li><strong>Weight discipline</strong> — every gram is lifted thousands of times a shift, which is why <a href='composite-vs-steel-toe-caps.html'>composite caps</a> and trainer-style builds suit concrete so well.</li></ul>" },
+        { "type":"table", "variant":"alt", "klabel":"The spec", "h2":"Concrete-floor spec by job",
+          "head":["Where","The pick","Why"],
+          "rows":[
+            ["Warehouse & factory floors","<span class='code'>S1P</span> safety trainer, cushioned","Light, foamy, midsole for stray fixings — the concrete default"],
+            ["Workshops with heavier handling","<span class='code'>S1P/S3</span> boot, PU-midsole build","More structure, same cushioning priority"],
+            ["Wet-process concrete floors","<span class='code'>S2</span> washable + <span class='code'>SR</span>","Cushioning and washdown together"],
+            ["Standing posts (assembly, machining)","Any of the above + anti-fatigue matting","The floor can be fixed as well as the boot"]
+          ] },
+        { "type":"prose", "klabel":"The routine", "h2":"Cushioning is a consumable", "narrow":true,
+          "html":"<p>Foam compresses; that's how it works and how it dies. The habits that keep concrete tolerable: <strong>replace insoles</strong> the moment they flatten (months, not years — a fresh insole revives a tired boot for a tenth of its price), <strong>rotate two pairs</strong> so the foam recovers between shifts, and <strong>retire on dead cushioning</strong> even when the uppers look fine — a boot that has stopped absorbing is transmitting. The full replacement checklist lives in <a href='safety-boot-care.html'>boot care</a>, and the code logic around these picks in the <a href='safety-boot-codes-explained.html'>S-code guide</a>.</p>" },
+        { "type":"keyfacts", "variant":"dark", "klabel":"Quick answers", "h2":"The three-line version",
+          "items":[
+            {"n":"S1P trainer","l":"The concrete-floor default for dry indoor work"},
+            {"n":"Fresh insoles","l":"The highest-value pound spent on hard floors"},
+            {"n":"Two pairs","l":"Foam needs recovery time as much as feet do"}
+          ] },
+        { "type":"clusternav" },
+        { "type":"faq", "klabel":"Questions", "h2":"Concrete-floor FAQ" }
+      ],
+      "faq":[
+        {"q":"What safety boots are best for standing on concrete all day?","a":"Cushioning-first builds: an S1P safety trainer or PU-midsole boot with a deep foam layer, energy-absorbing heel and a fresh replaceable insole — kept alive by rotating two pairs. The toe cap spec follows the job; the cushioning spec follows the floor."},
+        {"q":"Why do my feet burn after a shift on concrete?","a":"Concrete returns every step's impact — burning feet, plantar fascia pain and knee fatigue are the cumulative result. Renewed insoles, genuinely cushioned midsoles, boot rotation and anti-fatigue matting at static posts each remove a share of the load."},
+        {"q":"Are safety trainers OK on concrete floors?","a":"They're often the best choice — S1P trainers carry the same certified cap and midsole as boots with far less weight to lift each step, and their trainer-style foam handles concrete's shock better than many rigid boots. Step up to boots where ankle support or weather demands it."}
+      ]
     }
   ]
 }
