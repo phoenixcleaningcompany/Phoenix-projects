@@ -97,11 +97,11 @@ LIVE,Interactive tool,Tools,Hi-vis class selector,hi-vis-class-selector,hi-vis,
 LIVE,Interactive tool,Tools,Boot S-code finder,boot-code-finder,footwear,
 T2,Interactive tool,Tools,Embroidery cost estimator,embroidery-cost-estimator,polo-shirts,
 T2,Interactive tool,Tools,PPE kit checklist builder,ppe-checklist-builder,ppe,
-T2,Employer / compliance,Compliance,PPE at Work Regulations 2022 explained,ppe-regulations-2022-explained,ppe,
-T2,Employer / compliance,Compliance,Who pays for workwear & PPE?,who-pays-for-ppe,—,
-T2,Employer / compliance,Compliance,Uniform tax relief explained,uniform-tax-relief,—,
-T2,Care guide,Care,Washing chef whites,washing-chef-whites,chefswear | scrubs,
-T2,Care guide,Care,Laundering scrubs for infection control,laundering-scrubs,chefswear | scrubs,
+LIVE,Employer / compliance,Compliance,PPE at Work Regulations 2022 explained,ppe-regulations-2022-explained,ppe,
+LIVE,Employer / compliance,Compliance,Who pays for workwear & PPE?,who-pays-for-ppe,—,
+LIVE,Employer / compliance,Compliance,Uniform tax relief explained,uniform-tax-relief,—,
+LIVE,Care guide,Care,Washing chef whites,washing-chef-whites,chefswear | scrubs,
+LIVE,Care guide,Care,Laundering scrubs for infection control,laundering-scrubs,chefswear | scrubs,
 T2,Area guide,Local,Workwear in Sunderland,workwear-sunderland,per archetype,H-confidence town
 T2,Area guide,Local,Workwear in Middlesbrough,workwear-middlesbrough,per archetype,H-confidence town
 T2,Area guide,Local,Workwear in Hull,workwear-hull,per archetype,H-confidence town

@@ -1,0 +1,129 @@
+{
+  "cluster": {
+    "id": "compliance",
+    "topic": "Employer compliance",
+    "shopLabel": "workwear",
+    "shopUrl": "https://www.ineedworkwear.com",
+    "baseUrl": "https://www.ineedworkwear.uk",
+    "date": "2026-07-09",
+    "externalHub": { "slug": "guides", "navLabel": "All guides", "title": "The guide library", "cardTitle": "The guide library" },
+    "trust": ["Plain-English summaries", "Principle-level, always check current rules", "Kit to meet the duty, in stock", "Trade accounts"],
+    "cta": { "h2": "Duty understood — kit the team.", "p": "Whatever the risk assessment says the team needs, it's stocked, certified and priced for volume.", "actions": [ {"label":"Browse the kit directory","href":"kit.html","style":"white"}, {"label":"Contact us","href":"contact.html","style":"dark"} ] }
+  },
+  "pages": [
+    {
+      "slug": "ppe-regulations-2022-explained",
+      "role": "spoke",
+      "spokeType": "Compliance guide",
+      "navLabel": "PPE Regulations 2022",
+      "cardTitle": "PPE at Work Regulations 2022 explained",
+      "cardBlurb": "What the 2022 amendment changed — casual workers brought inside the duty — and what employers must actually do.",
+      "crumbTail": "Compliance",
+      "kicker": "Compliance · PPE at Work Regulations",
+      "h1": "The PPE at Work Regulations, updated for 2022.",
+      "metaTitle": "PPE at Work Regulations 2022 Explained | iNeedWorkwear",
+      "metaDesc": "What the PPE at Work (Amendment) Regulations 2022 changed — extending employer PPE duties to casual 'limb (b)' workers — and the practical checklist of what employers must do.",
+      "lede": "The 2022 amendment to the PPE at Work Regulations made one change with wide ripples: the duty to provide protective equipment no longer stops at employees. If your workforce includes casual or gig-style workers, the rules very likely now include them.",
+      "heroMeta": [ {"n":"2022","l":"The amendment year"}, {"n":"Limb (b)","l":"Casual workers now covered"}, {"n":"Free","l":"PPE is never charged for"} ],
+      "schema": { "type": "Article" },
+      "blocks": [
+        { "type":"prose", "narrow":true, "klabel":"The change", "h2":"One word — workers — did the work",
+          "html":"<p>The original 1992 regulations placed PPE duties on employers toward their <strong>employees</strong>. The <strong>2022 amendment</strong> extended those same duties to <strong>\"limb (b)\" workers</strong> — people with casual, irregular or gig-style arrangements who work under a contract personally and aren't running their own business. Zero-hours bar staff, casual warehouse labour, some couriers: if the risk assessment says the job needs PPE, they're now owed it on the same terms as employees.</p><p>The duties themselves didn't change, they just cover more people: <strong>assess the risk, provide suitable PPE free of charge where the risk requires it, maintain and replace it, store it properly, train workers in its use — and workers must use it as trained</strong>.</p>" },
+        { "type":"table", "variant":"alt", "klabel":"Checklist", "h2":"The employer's practical list",
+          "head":["Duty","In practice"],
+          "rows":[
+            ["Risk-assess first","PPE is the last resort after other controls — the assessment names what's needed"],
+            ["Provide free of charge","No charges, no deposits, no wage deductions for required PPE"],
+            ["Suitable means suitable","Correct spec for the hazard AND a fit for the wearer — including <a href='maternity-workwear-guide.html'>maternity fit</a>"],
+            ["Maintain & replace","Worn-out PPE replaced at employer cost — the <a href='care.html'>care hub</a> covers what 'worn out' looks like"],
+            ["Include casual workers","Limb (b) workers are inside the duty since April 2022"],
+            ["Train and record","Workers shown how to use, wear and store it — and expected to comply"]
+          ] },
+        { "type":"warnbar", "html":"<strong>This page is a plain-English summary, not legal advice.</strong> The regulations, HSE guidance and your sector's specifics govern — and rules evolve. For anything contentious (worker status especially), check HSE's current guidance or take advice. What this page can promise: if the duty applies, the kit side is straightforward — certified stock, sized to the wearer, replaced when worn." },
+        { "type":"clusternav" },
+        { "type":"faq", "klabel":"Questions", "h2":"PPE regulations FAQ" }
+      ],
+      "faq":[
+        {"q":"What did the PPE at Work (Amendment) Regulations 2022 change?","a":"They extended employers' PPE duties beyond employees to 'limb (b)' workers — casual and gig-style workers under a personal work contract. Where a risk assessment requires PPE, those workers must now receive it free, maintained and with training, on the same basis as employees."},
+        {"q":"Can an employer charge for PPE?","a":"No — PPE required by the risk assessment must be provided free of charge, and that includes replacements when kit wears out. Charging, deposits or wage deductions for required PPE aren't permitted."},
+        {"q":"Who counts as a limb (b) worker?","a":"Broadly: someone who contracts to do work personally, isn't an employee, but also isn't genuinely running their own business toward your organisation as a client. Status questions can be genuinely tricky — where it matters, check HSE guidance or take advice rather than guessing."}
+      ]
+    },
+    {
+      "slug": "who-pays-for-ppe",
+      "role": "spoke",
+      "spokeType": "Compliance guide",
+      "navLabel": "Who pays for PPE?",
+      "cardTitle": "Who pays for workwear & PPE?",
+      "cardBlurb": "The clean split: required PPE is always the employer's cost; uniform is a policy question — with rules around the edges.",
+      "crumbTail": "Compliance",
+      "kicker": "Compliance · Paying for kit",
+      "h1": "Who pays for workwear & PPE?",
+      "metaTitle": "Who Pays for Workwear & PPE? The Rules | iNeedWorkwear",
+      "metaDesc": "The employer/employee split on paying for work clothing — required PPE is always employer-funded, uniform is contractual, and wage deductions have a minimum-wage floor.",
+      "lede": "One question, two very different answers depending on what the garment is. Protective equipment the job requires: the employer pays, no exceptions. Branded uniform and everyday workwear: a policy question — with legal guard-rails people forget.",
+      "heroMeta": [ {"n":"PPE","l":"Employer pays. Always."}, {"n":"Uniform","l":"Contract decides"}, {"n":"NMW floor","l":"The guard-rail on deductions"} ],
+      "schema": { "type": "Article" },
+      "blocks": [
+        { "type":"prose", "narrow":true, "klabel":"The split", "h2":"First sort the garment into its legal box",
+          "html":"<p><strong>PPE</strong> — anything the risk assessment requires for protection: safety boots, hi-vis, gloves, FR kit, eye protection. The law is blunt: the employer provides it <strong>free</strong>, maintains it and replaces it (<a href='ppe-regulations-2022-explained.html'>the 2022 rules</a>). \"We'll deduct the boots from your first wage\" is not a lawful policy for required PPE.</p><p><strong>Uniform and ordinary workwear</strong> — branded polos, smart trousers, the non-protective wardrobe: no general legal duty to fund it. Most employers do (it's their brand on the chest), some operate purchase or contribution schemes, and the contract or policy sets the terms. The edges are where trouble lives: <strong>required purchases and deductions must not take pay below the National Minimum Wage</strong> in the relevant pay period — a rule that has caught major employers with \"buy black shoes\" dress codes — and deductions from wages need a contractual basis or written consent.</p>" },
+        { "type":"table", "variant":"alt", "klabel":"Quick answers", "h2":"Common cases, sorted",
+          "head":["The item","Who pays","Why"],
+          "rows":[
+            ["Safety boots the site mandates","<span class='code'>Employer</span>","Required PPE — free by law"],
+            ["Replacement for worn-out hi-vis","<span class='code'>Employer</span>","Maintenance duty travels with PPE"],
+            ["Branded polos","<span class='code'>Policy</span> — usually employer","Brand asset, not PPE; contract decides"],
+            ["'Wear smart black trousers'","<span class='code'>Usually the worker</span> — with the NMW floor","Dress code, not uniform — but forced costs can't undercut minimum wage"],
+            ["A better boot than the issued one","<span class='code'>Worker's choice</span>","Upgrades are personal; the free option must still exist"],
+            ["Lost or deliberately damaged kit","<span class='code'>Policy territory</span>","Reasonable, contractual recovery terms — tread carefully"]
+          ] },
+        { "type":"warnbar", "html":"<strong>Summary, not legal advice</strong> — employment contracts, sector agreements and current HMRC/HSE/ACAS guidance govern the specifics, and edge cases (agency staff, deposits, leaver deductions) genuinely vary. The safe defaults: never charge for required PPE, put uniform terms in writing, and keep any worker cost above the minimum-wage floor." },
+        { "type":"clusternav" },
+        { "type":"faq", "klabel":"Questions", "h2":"Who-pays FAQ" }
+      ],
+      "faq":[
+        {"q":"Can my employer make me pay for safety boots?","a":"Not if the job requires them — PPE identified by the risk assessment must be provided free, including replacements. Employers can offer optional upgrades workers pay toward, but a free compliant option must always exist."},
+        {"q":"Do employers have to pay for uniforms?","a":"There's no general legal duty to fund non-protective uniform — the contract or policy decides, and most employers fund branded kit. The guard-rail: required clothing costs or deductions must not take pay below the National Minimum Wage in the pay period."},
+        {"q":"Can an employer deduct uniform costs from wages?","a":"Only with a contractual basis or prior written agreement, and never below the minimum-wage floor for required items. Deductions for lost or damaged kit are policy territory that needs the same footing — and required PPE can't be charged for at all."}
+      ]
+    },
+    {
+      "slug": "uniform-tax-relief",
+      "role": "spoke",
+      "spokeType": "Compliance guide",
+      "navLabel": "Uniform tax relief",
+      "cardTitle": "Uniform tax relief explained",
+      "cardBlurb": "The modest-but-real HMRC allowance for washing your own uniform — who qualifies, what it's worth, how to claim free.",
+      "crumbTail": "Compliance",
+      "kicker": "Compliance · Uniform tax relief",
+      "h1": "Uniform tax relief: small, real, and free to claim.",
+      "metaTitle": "Uniform Tax Relief Explained: Who Can Claim | iNeedWorkwear",
+      "metaDesc": "HMRC's flat-rate allowance for maintaining a recognisable uniform or protective clothing at your own expense — who qualifies, roughly what it's worth, and how to claim without paying an agent.",
+      "lede": "If you wash, repair or replace a recognisable uniform or protective clothing at your own expense, HMRC operates a flat-rate tax allowance for it. It's modest money — but it's real, backdateable, and free to claim directly. Never pay a claims firm a cut of it.",
+      "heroMeta": [ {"n":"Flat rate","l":"A fixed yearly allowance"}, {"n":"4 years","l":"Typically backdateable"}, {"n":"£0","l":"What claiming direct costs"} ],
+      "schema": { "type": "Article" },
+      "blocks": [
+        { "type":"prose", "narrow":true, "klabel":"Who qualifies", "h2":"The three tests, roughly",
+          "html":"<p>The employee version of the relief works when three things line up: you wear a <strong>recognisable uniform or protective clothing</strong> for work (branded kit, hi-vis, chef whites, scrubs — not ordinary clothes you also wear to work); your employer <strong>requires</strong> it; and you <strong>bear the maintenance cost yourself</strong> — washing at home rather than employer-laundered. Miss any leg (employer launders it, or the \"uniform\" is just a dress code) and the claim fails.</p><p>The mechanics: HMRC publishes <strong>flat-rate expenses</strong> by occupation — a standard rate for most uniformed workers, with higher rates for listed trades — and the relief is that allowance times your tax rate, adjusted through your tax code. It's tens of pounds a year, not hundreds: worth claiming, not worth paying anyone to claim.</p>" },
+        { "type":"table", "variant":"alt", "klabel":"The route", "h2":"Claiming it, in four short steps",
+          "head":["Step","What happens"],
+          "rows":[
+            ["Check the flat rate for your job","HMRC's published list names trades and rates — the standard rate covers everyone else with a qualifying uniform"],
+            ["Claim direct with HMRC","Online (or by post) — the process is designed to be done without help"],
+            ["Backdate","Claims can typically cover the past four tax years in one go"],
+            ["It sticks","Once granted, the allowance usually rolls forward in your tax code automatically"]
+          ] },
+        { "type":"warnbar", "html":"<strong>Two warnings that save money.</strong> First: rates and rules are HMRC's and change — check the current figures on gov.uk before relying on any number, including ours. Second: an industry of claims firms exists to file this trivially simple claim for 25–40% of your refund — some aggressively. The claim is free, short and designed for ordinary people; keep the whole refund." },
+        { "type":"prose", "klabel":"Adjacent cases", "h2":"Self-employed, and what doesn't qualify", "narrow":true,
+          "html":"<p><strong>Self-employed</strong> workers deduct genuinely protective clothing and true uniform as business expenses through their accounts instead — the flat-rate employee route above isn't theirs, but the principle (protective and branded kit is claimable; everyday clothing isn't) carries over.</p><p><strong>What never qualifies:</strong> ordinary clothes worn for work (the classic dark-suit case), kit your employer launders, and PPE — because <a href='who-pays-for-ppe.html'>required PPE must be employer-funded</a> in the first place, there should be no worker cost to relieve.</p>" },
+        { "type":"clusternav" },
+        { "type":"faq", "klabel":"Questions", "h2":"Tax relief FAQ" }
+      ],
+      "faq":[
+        {"q":"Can I claim tax relief for washing my work uniform?","a":"If you wear a recognisable uniform or protective clothing your employer requires, and you maintain it at your own expense, generally yes — via HMRC's flat-rate expense allowance, claimed directly and typically backdateable four tax years. Check current rates and rules on gov.uk."},
+        {"q":"How much is uniform tax relief worth?","a":"Modest money: the relief is the flat-rate allowance for your occupation multiplied by your tax rate — tens of pounds a year for most people, more for some listed trades. Real enough to claim in five minutes; never worth paying a claims firm a percentage of."},
+        {"q":"Does a dress code count as a uniform for tax relief?","a":"No — 'wear smart black clothes' doesn't qualify, because the clothing isn't a recognisable uniform. Branded kit, protective clothing, and clearly uniform garments (whites, scrubs, hi-vis) are what the relief covers, and only when you bear the upkeep cost."}
+      ]
+    }
+  ]
+}
