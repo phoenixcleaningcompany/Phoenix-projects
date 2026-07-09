@@ -1,0 +1,102 @@
+{
+  "cluster": {
+    "id": "weather-standards",
+    "topic": "Weather standards",
+    "shopLabel": "coats & jackets",
+    "shopUrl": "https://www.ineedworkwear.com/collections/coats-jackets",
+    "baseUrl": "https://www.ineedworkwear.uk",
+    "date": "2026-07-09",
+    "externalHub": { "slug": "standards", "navLabel": "Standards hub", "title": "Standards decoded", "cardTitle": "Standards decoded" },
+    "trust": ["EN 343 rated stock", "EN 342 coldstore kit", "Hi-vis weather options", "Embroidery & trade accounts"],
+    "cta": { "h2": "Working through a British winter?", "p": "EN 343 waterproofs, EN 342 cold-store kit and hi-vis winter jackets from stock — embroidered before dispatch.", "actions": [ {"label":"Shop coats & jackets","href":"https://www.ineedworkwear.com/collections/coats-jackets","style":"white"}, {"label":"Shop coldstore kit","href":"https://www.ineedworkwear.com/collections/coldstore","style":"dark"} ] }
+  },
+  "pages": [
+    {
+      "slug": "en-343-waterproofs-explained",
+      "role": "spoke",
+      "spokeType": "Standard explainer",
+      "navLabel": "EN 343 (rain)",
+      "cardTitle": "EN 343 waterproofs explained",
+      "cardBlurb": "The two numbers on every rated rain jacket — water penetration and breathability — and why the second one decides comfort.",
+      "crumbTail": "Standards",
+      "kicker": "Standard explainer · EN 343",
+      "h1": "EN 343: what \"waterproof\" actually promises.",
+      "metaTitle": "EN 343 Explained: Waterproof Jacket Ratings | iNeedWorkwear",
+      "metaDesc": "EN 343's two class numbers decoded — water penetration (1–4) and breathability (1–4) — why a 4:1 jacket soaks you from inside, and how to pick classes by exposure.",
+      "lede": "\"Waterproof\" on a work jacket is a certified claim with two numbers behind it: how hard the fabric resists rain getting in, and how well it lets sweat get out. Most buying mistakes come from reading only the first one.",
+      "heroMeta": [ {"n":"X : Y","l":"Penetration : breathability"}, {"n":"1–4","l":"Each class scale"}, {"n":"4:1 trap","l":"Dry outside, soaked inside"} ],
+      "schema": { "type": "Article" },
+      "blocks": [
+        { "type":"prose", "narrow":true, "klabel":"The two numbers", "h2":"Keeping rain out is half the job",
+          "html":"<p>EN 343 rates protective clothing against rain with two classes, shown together on the garment pictogram:</p><ul><li><strong>X — resistance to water penetration</strong> (class 1–4): how much water pressure the fabric and seams withstand before leaking. Class 4, added in the current revision, is tested after pre-treatment that simulates wear.</li><li><strong>Y — water vapour resistance</strong> (class 1–4): breathability. Higher class = sweat vapour escapes more easily.</li></ul><p>The second number is where comfort lives. A worker generating heat inside a non-breathable shell gets wet from their own sweat as surely as from rain — colder, clammier and slower to dry. That's the <strong>4:1 trap</strong>: maximum penetration resistance, minimum breathability, miserable by mid-morning if the work is physical.</p>" },
+        { "type":"table", "variant":"alt", "klabel":"Choosing", "h2":"Classes by exposure", "lead":"Pick both numbers to the work, not just the rain.",
+          "head":["Work pattern","Sensible spec","Why"],
+          "rows":[
+            ["Occasional showers, mostly sheltered","<span class='code'>2:2</span> and up","Everyday site cover without shell prices"],
+            ["Outdoor trades, full shifts in weather","<span class='code'>3:3</span>","The workhorse spec — real rain, real effort"],
+            ["Static roles in driving rain (traffic, security, plant)","<span class='code'>4 : 2+</span>","Low exertion tolerates lower breathability; penetration matters most"],
+            ["High-output work in rain (groundworks, rail)","<span class='code'>3–4 : 3–4</span>","Breathability stops the inside-out soaking"]
+          ] },
+        { "type":"prose", "klabel":"Keeping it rated", "h2":"EN 343 performance is maintained, not just bought", "narrow":true,
+          "html":"<p>The certified performance assumes the garment's <strong>DWR coating</strong> is alive and its seams intact. When rain stops beading and the face fabric wets out, breathability collapses and the jacket \"leaks\" without leaking — the fix is cleaning and reproofing, covered step-by-step in <a href='reproofing-waterproofs.html'>reproofing waterproofs</a>.</p><p>On hi-vis waterproofs, remember the garment is certified twice over — the rain rating <em>and</em> <a href='caring-for-hi-vis.html'>EN ISO 20471 visibility</a> — and each wash counts against the hi-vis wash limit. Buy once, maintain deliberately.</p>" },
+        { "type":"keyfacts", "variant":"dark", "klabel":"Label literacy", "h2":"Three things the pictogram won't tell you",
+          "items":[
+            {"n":"Seams count","l":"Certification covers taped seams — a torn tape line fails the garment, not just the spot"},
+            {"n":"R = rain tower","l":"Some current-revision garments carry an optional whole-garment rain test mark"},
+            {"n":"Not cold rating","l":"EN 343 says nothing about warmth — that's EN 342, next guide over"}
+          ] },
+        { "type":"clusternav" },
+        { "type":"faq", "klabel":"Questions", "h2":"EN 343 FAQ" }
+      ],
+      "faq":[
+        {"q":"What do the EN 343 numbers mean?","a":"Two classes, each 1–4: the first is resistance to water penetration (how hard rain is kept out), the second is water vapour resistance (breathability — how easily sweat escapes). Higher is better in both; the current revision added class 4 penetration, tested after simulated wear."},
+        {"q":"Is a class 4 EN 343 jacket the best?","a":"Only if the breathability class is healthy too. A 4:1 garment keeps rain out and sweat in — fine for static roles, miserable for physical work. For high-output outdoor trades, aim for 3 or 4 in both positions."},
+        {"q":"Why does my EN 343 jacket feel like it leaks?","a":"Usually it's wetting out, not leaking: the DWR coating has worn off, the face fabric soaks up water, and breathability collapses — so sweat condenses inside. Washing the jacket clean and applying a wash-in reproofer restores it; genuine leaks track to seams or damage."},
+        {"q":"Does EN 343 mean the jacket is warm?","a":"No — EN 343 covers rain only. Cold protection is a separate standard (EN 342 for below −5 °C environments), which is why winter site jackets are often certified to both, or worn as a shell over insulating layers."}
+      ]
+    },
+    {
+      "slug": "en-342-cold-protection-explained",
+      "role": "spoke",
+      "spokeType": "Standard explainer",
+      "navLabel": "EN 342 (cold)",
+      "cardTitle": "EN 342 cold protection explained",
+      "cardBlurb": "The standard behind cold-store suits — what the insulation value means, and why sweat is the real enemy at minus twenty.",
+      "crumbTail": "Standards",
+      "kicker": "Standard explainer · EN 342",
+      "h1": "EN 342: dressing for below minus five.",
+      "metaTitle": "EN 342 Cold Protection Explained | iNeedWorkwear",
+      "metaDesc": "What EN 342 certifies on cold-store suits and freezer kit — the insulation value, air permeability classes, how wear-time works at −25 °C, and why sweat management decides comfort.",
+      "lede": "EN 342 is the standard nobody meets until they take a cold-store job — then it's the number on the suit that decides whether a −25 °C shift is routine or miserable. Here's what it certifies, and the sweat-management logic the label can't teach.",
+      "heroMeta": [ {"n":"Below −5 °C","l":"Where EN 342 applies"}, {"n":"Icler","l":"The insulation value"}, {"n":"Sweat","l":"The real enemy in the cold"} ],
+      "schema": { "type": "Article" },
+      "blocks": [
+        { "type":"prose", "narrow":true, "klabel":"What it certifies", "h2":"Insulation you can compare between garments",
+          "html":"<p>EN 342 covers clothing — usually suits, or jacket-and-trouser ensembles — for environments <strong>below −5&nbsp;°C</strong>: cold stores, blast freezers, winter outdoor work in genuinely cold conditions. The label carries:</p><ul><li><strong>The insulation value (Icler)</strong> — measured thermal insulation of the garment as worn, moving. Higher = warmer, and because it's a standard test, two suits' values compare directly.</li><li><strong>Air permeability class (1–3)</strong> — how windproof the shell is. Class 3 is the tightest; it matters wherever air moves, which includes the fan wall of a blast freezer.</li><li><strong>Optional water penetration class</strong> — for cold that comes with wet.</li></ul><p>Manufacturers publish tables translating insulation values into <strong>safe wear times by temperature and activity level</strong> — the practical planning tool for freezer rotations.</p>" },
+        { "type":"table", "variant":"alt", "klabel":"Scope", "h2":"EN 342 and its neighbours", "lead":"Three standards cover \"cold\" — buy the one that matches the thermometer.",
+          "head":["Standard","Scope","Typical kit"],
+          "rows":[
+            ["<span class='code'>EN 342</span>","Cold below −5 °C","Cold-store suits, freezer jackets and trousers"],
+            ["<span class='code'>EN 14058</span>","Cool environments, −5 °C and milder","Lined bodywarmers, winter mid-layers for chill areas"],
+            ["<span class='code'>EN 343</span>","Rain — no warmth claim at all","Waterproof shells (<a href='en-343-waterproofs-explained.html'>previous guide</a>)"]
+          ] },
+        { "type":"prose", "klabel":"The craft", "h2":"At minus twenty, sweat beats cold as the hazard", "narrow":true,
+          "html":"<p>The counterintuitive rule of freezer work: <strong>over-dressing is as dangerous as under-dressing</strong>. Work hard in too much insulation, sweat into the layers, and the moisture kills the suit's warmth from inside — the second half of the shift is spent cold in wet kit. That's why EN 342 suits are <strong>sized to fit over a wicking base layer</strong>, not a pile of jumpers, and why door-transition roles (chamber to ambient and back) need layers they can vent.</p><p>The extremities aren't in the suit's rating: <strong>CI-marked insulated footwear</strong> (<a href='safety-boot-codes-explained.html'>the boot codes</a>), lined gloves and covered ears complete the system. The operational side — rotations, zones, who buys what — is in the <a href='warehouse-logistics-workwear-guide.html'>warehouse sector guide</a>.</p>" },
+        { "type":"keyfacts", "variant":"dark", "klabel":"Buying", "h2":"Three cold-store buying rules",
+          "items":[
+            {"n":"Personal issue","l":"Shared suits end up sweat-damp and unworn — name them like boots"},
+            {"n":"Base layer first","l":"A wicking base under the suit outperforms a jumper under it, every time"},
+            {"n":"Wind matters","l":"Evaporator fans add wind-chill the thermometer hides — air permeability class 3 near fan walls"}
+          ] },
+        { "type":"clusternav" },
+        { "type":"faq", "klabel":"Questions", "h2":"EN 342 FAQ" }
+      ],
+      "faq":[
+        {"q":"What is EN 342 on a cold store suit?","a":"The European standard for protective clothing against cold below −5 °C. The label's insulation value (measured as worn, moving) lets you compare garments directly, alongside an air-permeability (windproofing) class and an optional water-penetration class."},
+        {"q":"What's the difference between EN 342 and EN 14058?","a":"Temperature scope: EN 342 covers genuinely cold environments below −5 °C — freezer and cold-store territory; EN 14058 covers cool environments above that, where lined bodywarmers and winter mid-layers do the job. Blast-freezer work is always EN 342 kit."},
+        {"q":"Why do I still get cold in a rated freezer suit?","a":"Most often it's sweat: over-layering under the suit or over-working in it dampens the insulation, which then loses its warmth. Wear a wicking base layer, size the suit as designed, and vent during warm-side tasks. Wind-chill from evaporator fans is the other hidden factor."},
+        {"q":"How long can you work at −25 °C?","a":"It depends on the garment's insulation value and your activity level — manufacturers publish wear-time tables matching insulation values to temperatures and work rates, and employers build rotation schedules from them. The suit's rating is the input, not the answer."}
+      ]
+    }
+  ]
+}
