@@ -1,0 +1,255 @@
+{
+  "cluster": {
+    "id": "buying-guides",
+    "topic": "Buying guides",
+    "shopLabel": "workwear",
+    "shopUrl": "https://www.ineedworkwear.com",
+    "baseUrl": "https://www.ineedworkwear.uk",
+    "date": "2026-07-09",
+    "externalHub": { "slug": "guides", "navLabel": "All guides", "title": "The guide library", "cardTitle": "The guide library" },
+    "trust": ["Buying logic, not sales copy", "Fabric and spec named", "Team quantities priced on request", "Trade accounts"],
+    "cta": { "h2": "List written — kit it out.", "p": "Everything in these guides is stocked, embroiderable and priced for teams.", "actions": [ {"label":"Browse the kit directory","href":"kit.html","style":"white"}, {"label":"Contact us","href":"contact.html","style":"dark"} ] }
+  },
+  "pages": [
+    {
+      "slug": "choosing-team-polos",
+      "role": "spoke",
+      "spokeType": "Buying guide",
+      "navLabel": "Team polos",
+      "cardTitle": "Choosing polos for a team uniform",
+      "cardBlurb": "Fabric weight, piqué vs jersey, colours that survive the wash — the five decisions behind a polo order that lasts.",
+      "crumbTail": "Buying guides",
+      "kicker": "Buying guide · Polo shirts",
+      "h1": "Choosing polos for a team uniform.",
+      "metaTitle": "Choosing Team Polo Shirts: The Buying Guide | iNeedWorkwear",
+      "metaDesc": "How to buy polos for a team — fabric weights and blends, piqué vs jersey, colour fastness, embroidery placement and the sizing spread that stops the second order going wrong.",
+      "lede": "The polo is the workhorse of team uniform — smart enough for customers, tough enough for the van. The difference between an order that looks sharp in month six and one that bags, fades and pills is five decisions made before you buy.",
+      "heroMeta": [ {"n":"180–220 gsm","l":"The workwear-weight window"}, {"n":"Piqué","l":"The uniform default"}, {"n":"5 decisions","l":"Before the order"} ],
+      "schema": { "type": "Article" },
+      "blocks": [
+        { "type":"prose", "narrow":true, "klabel":"The decisions", "h2":"Fabric first — weight and blend do the work",
+          "html":"<p><strong>Weight:</strong> workwear polos live around <strong>180–220 gsm</strong>. Lighter feels flimsy and goes translucent in pale colours; heavier drinks money and dries slowly on the airer. <strong>Blend:</strong> poly-cotton (the classic 65/35) survives industrial washing and holds colour; cotton-rich feels nicer against skin but fades and shrinks faster; polyester-heavy wicks best for active roles at the cost of a synthetic hand-feel.</p><p><strong>Knit:</strong> <strong>piqué</strong> — the textured waffle knit — is the uniform default: it holds its shape, hides minor wear, and takes embroidery beautifully. Smooth <strong>jersey</strong> reads more casual and shows embroidery pucker sooner. For teams, piqué wins on longevity almost every time.</p>" },
+        { "type":"table", "variant":"alt", "klabel":"Spec sheet", "h2":"The five decisions in one table",
+          "head":["Decision","Team default","Watch for"],
+          "rows":[
+            ["Weight","<span class='code'>180–220 gsm</span>","Under 170 goes see-through in white"],
+            ["Blend","<span class='code'>Poly-cotton 65/35</span>","Cotton-rich if comfort outranks wash life"],
+            ["Knit","<span class='code'>Piqué</span>","Jersey for a softer, casual read"],
+            ["Colour","Dark or mid tones","Pale colours show every mark by 10am"],
+            ["Details","Taped neck, spare-button, side vents","Cheap collars curl — the giveaway of a budget polo"]
+          ] },
+        { "type":"prose", "klabel":"The order", "h2":"Branding and sizing — where reorders go wrong", "narrow":true,
+          "html":"<p><strong>Embroider, don't print</strong>, for chest logos on kit that's washed weekly — <a href='embroidery-vs-print.html'>the comparison explains why</a> — and keep the logo left-chest, 8–10&nbsp;cm wide, clear of the placket. <strong>Sizing spread:</strong> order against real people, not a guess at averages, and buy one spare set per size band — teams change faster than uniform budgets renew. And check the maker offers a <strong>consistent colour across sizes and reorders</strong>; a subtly different navy on the new starter's polo undoes the uniform effect the order paid for.</p><p>Long-sleeve variants, ladies' cuts and hi-vis-adjacent colours all exist across the <a href='https://www.ineedworkwear.com/collections/polo-shirts'>polo range</a> — spec them at order time, not as an afterthought.</p>" },
+        { "type":"clusternav" },
+        { "type":"faq", "klabel":"Questions", "h2":"Team polo FAQ" }
+      ],
+      "faq":[
+        {"q":"What weight polo shirt is best for work?","a":"180–220 gsm is the workwear window — substantial enough to keep shape and stay opaque, light enough to wear year-round and dry overnight. Below about 170 gsm, pale colours go translucent and the polo reads as promotional rather than uniform."},
+        {"q":"What's the difference between piqué and jersey polos?","a":"Piqué is the textured knit — it holds structure, hides wear and takes embroidery cleanly, which makes it the uniform default. Jersey is smooth and softer but shows pucker around stitching and reads more casual."},
+        {"q":"How many polos does each team member need?","a":"Three to five each depending on wash frequency — enough that a mid-week disaster doesn't put a stained polo in front of a customer. Order a spare set per size band; new starters never arrive in convenient sizes."}
+      ]
+    },
+    {
+      "slug": "work-trousers-guide",
+      "role": "spoke",
+      "spokeType": "Buying guide",
+      "navLabel": "Work trousers",
+      "cardTitle": "Work trousers guide",
+      "cardBlurb": "Cargo, holster or stretch — plus the knee-pad detail (EN 14404) that separates trade trousers from trousers.",
+      "crumbTail": "Buying guides",
+      "kicker": "Buying guide · Trousers",
+      "h1": "Work trousers: cargo, holster or stretch.",
+      "metaTitle": "Work Trousers Guide: Cargo, Holster & Stretch | iNeedWorkwear",
+      "metaDesc": "How to choose work trousers — cargo vs holster vs stretch-slim, knee-pad pockets and EN 14404, fabric weights, triple stitching and the details that survive a trade year.",
+      "lede": "Trousers take more punishment than any other garment on this site — kneeling, crouching, loaded pockets, constant abrasion. The style names (cargo, holster, stretch) describe real differences in how they carry weight and survive the year.",
+      "heroMeta": [ {"n":"3 styles","l":"Cargo · holster · stretch"}, {"n":"EN 14404","l":"Knees, certified — with pads"}, {"n":"280+ gsm","l":"Trade-weight fabric"} ],
+      "schema": { "type": "Article" },
+      "blocks": [
+        { "type":"table", "klabel":"The styles", "h2":"What each style is actually for",
+          "head":["Style","Built for","Trade-offs"],
+          "rows":[
+            ["<span class='code'>Cargo</span>","Volume — the classic thigh-pocket workhorse","Loaded pockets swing; baggier cut"],
+            ["<span class='code'>Holster</span>","Fast access — external hanging pockets for fixings and tools","Holsters snag if worn empty and flapping; tuck or zip them"],
+            ["<span class='code'>Stretch / slim</span>","Movement — elastane blends that follow the knee","Lighter fabrics; check the gsm before assuming site-grade"],
+            ["<span class='code'>Waterproof over-trouser</span>","The wet layer over any of the above","Sized to fit over, not instead"]
+          ] },
+        { "type":"prose", "narrow":true, "klabel":"The knee detail", "h2":"Knee-pad pockets are a certification, not a gimmick",
+          "html":"<p>Trousers with knee-pad pockets pair with foam inserts under <strong>EN 14404</strong> — the knee-protection standard, certified as trousers-plus-pads together. For kneeling trades (flooring, tiling, joinery, groundworks) this is the single highest-value feature on the garment: the <a href='groundworker-kit-list.html'>knees are the career-length decision</a>. Two details matter at order time: <strong>top-loading pockets</strong> hold pads in place better through a working day, and pads are consumables — order spares with the trousers.</p><p><strong>Fabric and construction</strong> carry the rest: 240–300+ gsm poly-cotton or ripstop for trade wear, <strong>triple-stitched</strong> seams at the seat and inside leg, and bar-tacks at pocket corners. Lighter stretch fabrics are genuinely better for active fitting work — but check the weight; slim cuts sold on comfort can be summer-weight cloth wearing trade styling.</p>" },
+        { "type":"keyfacts", "variant":"dark", "klabel":"Buying", "h2":"Three order-time checks",
+          "items":[
+            {"n":"Leg length options","l":"Trade trousers should come in real leg lengths — hemming ruins cargo proportions"},
+            {"n":"Belt with loops","l":"Loaded trousers need wide loops and a real belt — or braces buttons"},
+            {"n":"Wash at 60?","l":"Site trousers get filthy; check the label takes a hot wash before buying a fleet"}
+          ] },
+        { "type":"citebox", "html":"Oil, paint and the stains that survive: <a href='oil-grease-out-of-workwear.html'>getting grease out</a>. The trouser range itself: <a href='https://www.ineedworkwear.com/collections/trousers'>shop trousers</a>." },
+        { "type":"clusternav" },
+        { "type":"faq", "klabel":"Questions", "h2":"Work trouser FAQ" }
+      ],
+      "faq":[
+        {"q":"What's the difference between cargo and holster trousers?","a":"Cargo trousers carry volume in fixed thigh pockets; holster trousers hang external pockets you can load with fixings and tools for fast access — a joiner's and electrician's favourite. Holsters win for speed, cargos for bulk, and many trades run both by task."},
+        {"q":"What is EN 14404?","a":"The knee-protection standard — certified as a system of trousers plus foam knee-pad inserts. If your work involves kneeling, trousers with certified pad pockets (and pads actually in them) are the highest-value feature you can buy."},
+        {"q":"Are stretch work trousers durable enough for site?","a":"Good ones are — elastane-blend ripstops at proper weights handle site work while following the knee. The check is fabric weight: some slim styles are summer-weight cloth with trade styling. For heavy trades, look at 260 gsm upward or reinforced panels."}
+      ]
+    },
+    {
+      "slug": "base-layers-guide",
+      "role": "spoke",
+      "spokeType": "Buying guide",
+      "navLabel": "Base layers",
+      "cardTitle": "Thermals & base layers guide",
+      "cardBlurb": "The layer that does the real winter work — synthetic vs merino, fit rules, and why cotton is banned from the list.",
+      "crumbTail": "Buying guides",
+      "kicker": "Buying guide · Thermals & base layers",
+      "h1": "Base layers: the cheapest warmth you can buy.",
+      "metaTitle": "Thermals & Base Layers for Work: Buying Guide | iNeedWorkwear",
+      "metaDesc": "How base layers actually keep outdoor workers warm — synthetic vs merino, the snug-fit rule, cotton's ban, and matching the layer to site work, cold stores and winter driving.",
+      "lede": "Crews spend hundreds on jackets and pounds on base layers — backwards, since the layer against your skin decides whether sweat becomes warmth or chill. It's the highest warmth-per-pound purchase in workwear, if you follow three rules.",
+      "heroMeta": [ {"n":"Rule 1","l":"Never cotton"}, {"n":"Rule 2","l":"Snug, not tight"}, {"n":"Rule 3","l":"Wick, then insulate"} ],
+      "schema": { "type": "Article" },
+      "blocks": [
+        { "type":"prose", "narrow":true, "klabel":"How it works", "h2":"Warmth is a moisture problem",
+          "html":"<p>A working body sweats even in January. Whatever sits against the skin either <strong>moves that moisture outward</strong> — keeping the insulating layers dry and working — or holds it, and wet fabric conducts heat away many times faster than dry. That's the entire base-layer job, and it's why <strong>cotton is banned</strong> from this list: it absorbs sweat, stays wet, and turns into a refrigeration layer at the first tea break. The classic cotton tee under a site jacket is the most common self-inflicted cold on British sites.</p><p><strong>Fit is function:</strong> a base layer wicks by touching skin — snug through the torso and arms, not compression-tight, never baggy. If it hangs loose it's just a thin shirt.</p>" },
+        { "type":"table", "variant":"alt", "klabel":"The fabrics", "h2":"Synthetic vs merino, honestly",
+          "head":["","Synthetic (polyester/polypropylene)","Merino wool"],
+          "rows":[
+            ["Wicking speed","<span class='code'>Fastest</span> — dries in hours","Slower to dry, warm even damp"],
+            ["Odour after day 2","The known weakness","<span class='code'>Wins</span> — days between washes"],
+            ["Durability & price","Cheap, survives industrial washing","Dearer, needs gentler care"],
+            ["Best for","Daily-wash fleets, high-output work","Multi-day wear, moderate output, sensitive skin"],
+            ["Under FR kit","<span class='code'>No — synthetics melt.</span> FR-rated or natural layers only","Acceptable where FR base layers aren't mandated — check policy"]
+          ] },
+        { "type":"prose", "klabel":"By job", "h2":"Matching the layer to the work", "narrow":true,
+          "html":"<p><strong>Outdoor trades:</strong> lightweight synthetic top and leggings under normal workwear — warmth without bulk under <a href='construction-workwear-guide.html'>the site layering system</a>. <strong>Cold stores:</strong> the base layer is load-bearing kit under an <a href='en-342-cold-protection-explained.html'>EN 342 suit</a> — wicking matters more there than anywhere, because sweat inside a freezer suit is the classic failure. <strong>Drivers and yard staff:</strong> a mid-weight zip-neck covers the in-and-out pattern without overheating the cab. <strong>Anyone in FR:</strong> the melt-layer rule owns the decision — <a href='fr-workwear-guide.html'>FR-rated or natural fibre only</a>, T-shirt included.</p>" },
+        { "type":"clusternav" },
+        { "type":"faq", "klabel":"Questions", "h2":"Base layer FAQ" }
+      ],
+      "faq":[
+        {"q":"Why is cotton bad as a base layer?","a":"Cotton absorbs sweat and holds it against the skin, and wet fabric strips body heat many times faster than dry. A cotton tee under winter kit becomes a chilling layer by the first break — synthetic or merino wicking layers exist to prevent exactly that."},
+        {"q":"Should a base layer be tight?","a":"Snug — in contact with skin through the torso and arms so it can wick — but not compression-tight. Baggy defeats the mechanism entirely; it's just a thin shirt with an insulating air gap it can't use."},
+        {"q":"Are merino base layers worth it for work?","a":"For multi-day wear, moderate work rates and anyone bothered by synthetic odour, yes — merino stays wearable for days and insulates even damp. For daily-washed fleets doing sweaty work, synthetics wick faster, survive hot washing and cost half as much."}
+      ]
+    },
+    {
+      "slug": "sustainable-workwear-guide",
+      "role": "spoke",
+      "spokeType": "Buying guide",
+      "navLabel": "Sustainable workwear",
+      "cardTitle": "Sustainable workwear guide",
+      "cardBlurb": "Past the green labels: recycled fabrics, the durability argument, and the questions that separate substance from marketing.",
+      "crumbTail": "Buying guides",
+      "kicker": "Buying guide · Sustainable workwear",
+      "h1": "Sustainable workwear, past the green labels.",
+      "metaTitle": "Sustainable Workwear: An Honest Buying Guide | iNeedWorkwear",
+      "metaDesc": "What sustainable workwear genuinely means — recycled polyester and organic cotton, why durability is the biggest lever, end-of-life reality, and the greenwash questions to ask.",
+      "lede": "Workwear has a genuine sustainability story and a lot of green paint. The genuine part: garments bought once, worn for years and kept in service beat almost any fabric claim. Here's how to buy it with a straight face.",
+      "heroMeta": [ {"n":"Durability","l":"The biggest lever, unfashionably"}, {"n":"rPET","l":"The most common real claim"}, {"n":"3 questions","l":"That expose greenwash"} ],
+      "schema": { "type": "Article" },
+      "blocks": [
+        { "type":"prose", "narrow":true, "klabel":"The honest hierarchy", "h2":"Longevity beats fabric claims",
+          "html":"<p>The most sustainable garment in your fleet is the one that <strong>doesn't get replaced this year</strong>. A heavier, better-constructed polo that survives three years of washing outperforms a recycled-fabric one binned in twelve months — on carbon, water and waste. So the hierarchy runs: <strong>buy durable → keep it in service (care and <a href='reproofing-waterproofs.html'>repair-adjacent maintenance</a>) → then let fabric claims break ties.</strong></p><p>On those claims: <strong>recycled polyester (rPET)</strong> is the workhorse — bottle-derived fibre with genuinely lower impact than virgin, now common in fleeces, polos and softshells at trade prices. <strong>Organic and better-cotton</strong> programmes cut pesticide and water impact on the cotton share of blends. Both are real; neither makes a flimsy garment sustainable.</p>" },
+        { "type":"table", "variant":"alt", "klabel":"Due diligence", "h2":"Three questions that separate substance from paint",
+          "head":["Ask","A good answer sounds like","A red flag sounds like"],
+          "rows":[
+            ["What exactly is recycled, and how much?","\"The shell fabric is 100% rPET, certified\"","\"Made with recycled materials\" (unquantified)"],
+            ["What's the certification?","GRS / OCS / OEKO-TEX named on the spec sheet","A green leaf on the swing tag and nothing else"],
+            ["What's the expected service life?","A wash-count or wear-life the maker will state","Silence — durability claims cost money to stand behind"]
+          ] },
+        { "type":"prose", "klabel":"The fleet view", "h2":"What a sustainable uniform programme actually does", "narrow":true,
+          "html":"<p>Beyond the garments: <strong>rationalise the wardrobe</strong> (fewer, better lines beat a sprawling catalogue of cheap ones), <strong>embroider rather than print</strong> where possible so garments outlive design tweaks, <strong>rotate and launder properly</strong> so kit reaches its design life — most of the <a href='care.html'>care hub</a> is quietly a sustainability page — and <strong>plan end-of-life</strong>: de-branding and textile recycling for retired uniform rather than the skip. None of it is glamorous; all of it beats a leaf on a label.</p>" },
+        { "type":"keyfacts", "variant":"dark", "klabel":"Reality check", "h2":"Claims worth trusting",
+          "items":[
+            {"n":"Certified %","l":"A number and a scheme (GRS, OCS) — not an adjective"},
+            {"n":"Stated wash life","l":"Durability someone will put in writing"},
+            {"n":"Spare parts logic","l":"Replaceable pads, buttons, zips — designed to be kept, not binned"}
+          ] },
+        { "type":"clusternav" },
+        { "type":"faq", "klabel":"Questions", "h2":"Sustainable workwear FAQ" }
+      ],
+      "faq":[
+        {"q":"Is recycled polyester workwear actually better?","a":"Genuinely lower-impact than virgin polyester, yes — and now available at trade prices in fleeces, polos and shells. But the bigger lever is service life: a durable garment kept in use for years beats a short-lived recycled one on every environmental measure."},
+        {"q":"What certifications should sustainable workwear have?","a":"Look for named schemes with numbers attached: GRS (Global Recycled Standard) or OCS for recycled content, OEKO-TEX for chemical safety, organic certification on cotton claims. An unquantified 'eco' label with no scheme behind it is marketing."},
+        {"q":"What happens to old branded workwear?","a":"The responsible route is de-branding (unpicking or covering logos) and textile recycling or reuse schemes rather than landfill — some suppliers and laundries run take-back programmes. Planning it at purchase time beats improvising at skip time."}
+      ]
+    },
+    {
+      "slug": "maternity-workwear-guide",
+      "role": "spoke",
+      "spokeType": "Buying guide",
+      "navLabel": "Maternity workwear",
+      "cardTitle": "Maternity workwear guide",
+      "cardBlurb": "The under-served corner of workwear — what exists, what adapts, and what employers owe pregnant staff on fit and PPE.",
+      "crumbTail": "Buying guides",
+      "kicker": "Buying guide · Maternity workwear",
+      "h1": "Maternity workwear: the under-served corner.",
+      "metaTitle": "Maternity Workwear Guide: What Exists & What Adapts | iNeedWorkwear",
+      "metaDesc": "Maternity workwear options by trimester and role — purpose-made ranges, adaptable sizing, maternity hi-vis, and the employer's duty to provide PPE that actually fits.",
+      "lede": "Workwear catalogues mostly pretend pregnancy doesn't happen — and pregnant workers end up in wrong-sized men's kit that fits nowhere and protects worse. Better options exist; here's the honest map of them.",
+      "heroMeta": [ {"n":"Purpose-made","l":"Exists — mostly tunics, trousers, hi-vis"}, {"n":"PPE must fit","l":"An employer duty, not a favour"}, {"n":"Reassess","l":"Kit changes by trimester"} ],
+      "schema": { "type": "Article" },
+      "blocks": [
+        { "type":"prose", "narrow":true, "klabel":"What exists", "h2":"The purpose-made map",
+          "html":"<p>The strongest purpose-made maternity ranges cluster where the most pregnant workers are: <strong>healthcare tunics and scrubs</strong> with expansion panels and adjustable sides, <strong>maternity work trousers and leggings</strong> with over-bump or under-bump waistbands, and — genuinely — <strong>maternity hi-vis</strong>: certified vests and jackets cut for a bump, because a standard vest riding open at the front loses its certified visible area exactly where drivers look. Office-adjacent uniform (shirts, dresses) borrows well from mainstream maternity wear with an embroidered layer over the top.</p><p>Where purpose-made runs out, <strong>adaptation beats up-sizing</strong>: buying a men's XXL just makes everything long and loose in the wrong places while staying tight in the one place that matters. Adjustable-waist designs, wrap styles, stretch fabrics and layering pieces (open softshells, cardigans in uniform colours) carry the middle months better.</p>" },
+        { "type":"table", "variant":"alt", "klabel":"By role", "h2":"The practical kit map",
+          "head":["Role","What works","Notes"],
+          "rows":[
+            ["Healthcare & care","Maternity tunics/scrubs with side adjusters","The best-served category — order early, sizes run out"],
+            ["Warehouse & logistics","Maternity hi-vis vest + stretch trousers","Risk assessment may also change tasks — kit follows it"],
+            ["Site-visiting roles","Maternity hi-vis jacket, standard helmet & footwear","Feet swell — a half-size review is normal, not vanity"],
+            ["Hospitality & FOH","Wrap tunics, maternity trousers, apron re-tied high","Aprons are surprisingly forgiving; waistbands aren't"],
+            ["Office & corporate","Mainstream maternity + branded layer","Embroidered cardigan or softshell keeps the uniform read"]
+          ] },
+        { "type":"warnbar", "html":"<strong>The employer side is a duty, not a perk.</strong> UK employers must risk-assess work for new and expectant mothers, and PPE law requires equipment that fits the wearer — a vest that gapes open over a bump or boots that no longer fit swollen feet fail that test. Uniform and PPE reviews belong in the pregnancy risk assessment alongside task changes, and reassessment each trimester is the practical rhythm." },
+        { "type":"clusternav" },
+        { "type":"faq", "klabel":"Questions", "h2":"Maternity workwear FAQ" }
+      ],
+      "faq":[
+        {"q":"Does maternity hi-vis exist?","a":"Yes — certified maternity hi-vis vests and jackets cut to stay closed over a bump, keeping the fluorescent area intact where a standard vest would gape open. For pregnant staff around vehicles, it's the correct answer rather than a bigger standard vest."},
+        {"q":"Do employers have to provide maternity workwear?","a":"Employers must risk-assess work for new and expectant mothers, and PPE they provide must fit the wearer — which in practice means providing suitable maternity alternatives where standard kit no longer fits or protects. Uniform policy should follow the risk assessment."},
+        {"q":"Can you just buy bigger sizes instead of maternity workwear?","a":"It rarely works — up-sizing adds length and shoulder width while staying wrong at the bump, and on PPE it can genuinely reduce protection (gaping hi-vis, trip-length trousers). Purpose-made or genuinely adjustable designs fit better and protect properly."}
+      ]
+    },
+    {
+      "slug": "disposable-ppe-guide",
+      "role": "spoke",
+      "spokeType": "Buying guide",
+      "navLabel": "Disposable PPE",
+      "cardTitle": "Disposable PPE buying guide",
+      "cardBlurb": "Nitrile vs vinyl vs latex, FFP grades at a glance, and the stock-room habits that stop single-use kit going to waste.",
+      "crumbTail": "Buying guides",
+      "kicker": "Buying guide · Disposable PPE",
+      "h1": "Disposable PPE: buying it properly.",
+      "metaTitle": "Disposable PPE Buying Guide: Gloves, Masks & More | iNeedWorkwear",
+      "metaDesc": "Buying disposable PPE well — nitrile vs vinyl vs latex gloves, FFP mask grades, aprons and coveralls, sizing across a workforce, and storage that protects shelf life.",
+      "lede": "Single-use PPE is bought by the box and judged by the pallet — where small per-unit decisions multiply by thousands. The three that matter: the right glove polymer, the right mask grade, and a stock room that doesn't quietly ruin both.",
+      "heroMeta": [ {"n":"Nitrile","l":"The default glove polymer"}, {"n":"By the case","l":"Where unit maths lives"}, {"n":"Shelf life","l":"Yes, disposables expire"} ],
+      "schema": { "type": "Article" },
+      "blocks": [
+        { "type":"table", "klabel":"Gloves", "h2":"Nitrile vs vinyl vs latex",
+          "head":["","Nitrile","Vinyl","Latex"],
+          "rows":[
+            ["Puncture & chemical resistance","<span class='code'>Best all-round</span>","Weakest — splits easily","Good mechanical feel"],
+            ["Allergy risk","Low","Low","<span class='code'>The problem</span> — latex allergy is why many sites ban it"],
+            ["Food handling","Food-grade options standard","Common for light food tasks","Declining for allergy reasons"],
+            ["Cost","Mid","Cheapest","Mid"],
+            ["The call","<span class='code'>Default for work</span>","Light, brief, low-risk tasks only","Only where policy allows and touch matters"]
+          ] },
+        { "type":"prose", "narrow":true, "klabel":"The rest of the box wall", "h2":"Masks, aprons, coveralls, covers",
+          "html":"<p><strong>Masks:</strong> the FFP grade question is settled in the <a href='en-149-ffp-ratings-explained.html'>EN 149 guide</a> — buy the grade to the dust, remember NR means single shift, and remember fit testing for anything relied on at work. <strong>Aprons:</strong> polythene for food and care tasks, heavier PVC where splash is sustained. <strong>Coveralls:</strong> Type 5/6 disposables cover dusty and <a href='en-13034-chem-splash-explained.html'>splash-adjacent</a> one-offs — size up, since they tear at the crotch and shoulders when worn tight over clothing. <strong>Hairnets, beard covers, overshoes:</strong> hygiene-zone staples bought on fit and dispenser-friendliness more than anything.</p><p><strong>Sizing across a workforce:</strong> gloves in S–XL with the split learned from the first month's usage (a 1:2:2:1 ratio is a common starting spread), and dispensers stocked per zone so the right size is the near size.</p>" },
+        { "type":"keyfacts", "variant":"dark", "klabel":"Stock room", "h2":"Three habits that protect the pallet",
+          "items":[
+            {"n":"FIFO + dates","l":"Disposables have shelf lives — nitrile hardens, elastic dies; rotate stock"},
+            {"n":"Cool, dark, dry","l":"UV and heat age polymers in months — the window sill kills gloves"},
+            {"n":"Track cost per use","l":"If a reusable would beat it, the comparison guide does that maths"}
+          ] },
+        { "type":"citebox", "html":"Whether single-use is even the right format for a task: <a href='disposable-vs-reusable-ppe.html'>disposable vs reusable PPE</a> settles it honestly." },
+        { "type":"clusternav" },
+        { "type":"faq", "klabel":"Questions", "h2":"Disposable PPE FAQ" }
+      ],
+      "faq":[
+        {"q":"Are nitrile or vinyl gloves better?","a":"Nitrile for almost all working use — stronger, more puncture- and chemical-resistant, low allergy risk. Vinyl's place is brief, light, low-risk tasks where its lower price outweighs its fragility. Latex feels good but allergy risk has many workplaces banning it outright."},
+        {"q":"Do disposable gloves expire?","a":"Yes — polymers age. Nitrile stiffens and loses elasticity, typically over a few years and much faster in heat and UV. Store boxes cool, dark and dry, rotate first-in-first-out, and treat brittle or discoloured gloves as expired."},
+        {"q":"What sizes of disposable gloves should we stock?","a":"A spread from S to XL, weighted to your workforce — a 1:2:2:1 starting ratio is common, then adjust from real usage. Fit matters even on disposables: baggy gloves wreck dexterity and tight ones tear on donning."}
+      ]
+    }
+  ]
+}
