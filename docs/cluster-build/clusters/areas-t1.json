@@ -1,0 +1,147 @@
+{
+  "cluster": {
+    "id": "areas-t1",
+    "topic": "Area guides",
+    "shopLabel": "workwear",
+    "shopUrl": "https://www.ineedworkwear.com",
+    "baseUrl": "https://www.ineedworkwear.uk",
+    "date": "2026-07-09",
+    "externalHub": { "slug": "areas", "navLabel": "Areas hub", "title": "Workwear by area", "cardTitle": "Workwear by area" },
+    "trust": ["Kit matched to the local economy", "Standards named, not implied", "Nationwide next-day supply", "Embroidery & trade accounts"],
+    "cta": { "h2": "Kitting a team out here?", "p": "We supply nationwide from stock — send the roles and headcount and we'll come back with a kit list, embroidered.", "actions": [ {"label":"Contact us","href":"contact.html","style":"white"}, {"label":"Browse the kit directory","href":"kit.html","style":"dark"} ] }
+  },
+  "pages": [
+    {
+      "slug": "workwear-sheffield",
+      "role": "spoke",
+      "spokeType": "Area guide",
+      "navLabel": "Sheffield",
+      "cardTitle": "Workwear in Sheffield",
+      "cardBlurb": "Steel, forging and advanced manufacturing — molten-metal FR, cut protection and the kit the city's trades actually run.",
+      "crumbTail": "Sheffield",
+      "kicker": "Area guide · Sheffield",
+      "h1": "Workwear in Sheffield: built for the steel city.",
+      "metaTitle": "Workwear in Sheffield: Steel, Forging & Trades Kit | iNeedWorkwear",
+      "metaDesc": "Workwear for Sheffield's real economy — molten-metal-rated FR for forging and casting, cut-level gloves for steel handling, advanced-manufacturing kit and the city's trades.",
+      "lede": "Sheffield's economy still runs hotter than most: forging, casting and speciality steel alongside one of Europe's densest advanced-manufacturing clusters. The workwear that matters here is specific — molten-metal codes on the FR, cut letters on the gloves — and it's exactly the kit generic suppliers gloss over.",
+      "heroMeta": [ {"n":"Code E","l":"Molten iron splash — the local FR letter"}, {"n":"Cut C–D","l":"Steel handling gloves"}, {"n":"Nationwide","l":"Supplied from stock"} ],
+      "schema": { "type": "Article" },
+      "blocks": [
+        { "type":"prose", "narrow":true, "klabel":"The local economy", "h2":"What Sheffield actually makes",
+          "html":"<p>The city that gave the world stainless steel still forges, casts and machines at serious scale — speciality alloys and safety-critical forgings for energy and aerospace, with the <strong>Advanced Manufacturing Innovation District</strong> around the former Orgreave site pulling precision engineering, composites and research-grade production into the same corridor. Around that core sit the trades every industrial city runs: fabrication shops, construction, logistics along the M1, and a large healthcare and services base.</p><p>That mix produces one of the most demanding kit profiles in the country — hot-metal FR at one end, cleanroom-adjacent precision work at the other, and everything on this page in between.</p>" },
+        { "type":"table", "variant":"alt", "klabel":"Kit by industry", "h2":"The Sheffield kit map",
+          "head":["Local industry","The kit that matters","The spec detail"],
+          "rows":[
+            ["Forging & casting","FR coveralls with molten-metal codes","<span class='code'>EN ISO 11612 code E</span> (iron) — <a href='en-iso-11612-explained.html'>the letters decoded</a>"],
+            ["Steel stockholding & fabrication","Cut-rated gloves, welding kit","<span class='code'>Cut level C–D</span>; <a href='fr-coveralls-for-welders.html'>EN ISO 11611 for welders</a>"],
+            ["Advanced manufacturing","Coveralls, ESD where zoned, dexterity gloves","Snug-cuff rules near machining — <a href='manufacturing-workwear-guide.html'>the sector guide</a>"],
+            ["Construction & civils","Class 2–3 hi-vis, S3 boots","The <a href='construction-workwear-guide.html'>site baseline</a> and up"],
+            ["Logistics (M1 corridor)","Hi-vis, S1P trainers, cold-store kit","<a href='warehouse-logistics-workwear-guide.html'>Kit by zone</a>"]
+          ] },
+        { "type":"prose", "klabel":"The detail that matters", "h2":"Hot metal changes the FR spec", "narrow":true,
+          "html":"<p>Most \"FR workwear\" sold in the UK is specced for flash fire and welding — fine for most of the country, wrong for a foundry floor. Molten iron splash is its own tested property (<strong>code E</strong> under EN ISO 11612), and aluminium work needs <strong>code D</strong> instead: the metals shed off fabric differently. A Sheffield forge buying generic \"FR coveralls\" without the letter is buying certification for someone else's hazard.</p><p>The same specificity runs through the gloves: steel edges put the city's handling work firmly in <strong>ISO 13997 cut level C and up</strong> — the <a href='en-388-glove-ratings-decoder.html'>EN 388 decoder</a> translates the markings, and it matters more here than almost anywhere.</p>" },
+        { "type":"keyfacts", "variant":"dark", "klabel":"Supply", "h2":"How we supply Sheffield",
+          "items":[
+            {"n":"From stock","l":"Certified FR, gloves and site kit shipped nationwide next-day"},
+            {"n":"Embroidered","l":"Logo work on FR done with compatible processes — not a high-street press"},
+            {"n":"Trade accounts","l":"Regular ordering for workshops and sites, one account"}
+          ] },
+        { "type":"clusternav" },
+        { "type":"faq", "klabel":"Questions", "h2":"Sheffield kit FAQ" }
+      ],
+      "faq":[
+        {"q":"What workwear do Sheffield steel and forging workers need?","a":"FR clothing rated for molten metal — EN ISO 11612 with code E for iron splash (code D where aluminium is poured) — plus radiant-heat levels for furnace work, cut-rated gloves at ISO 13997 level C or above for handling, and HRO-soled safety boots where floors run hot."},
+        {"q":"Do you have a shop in Sheffield?","a":"No — we're a nationwide supplier shipping from central stock, usually next-day. Everything on this page, from molten-metal FR to cut-level gloves, is stocked and can be embroidered before dispatch."},
+        {"q":"What gloves are right for handling steel?","a":"Cut-resistant coated gloves at ISO 13997 cut level C as the floor, D and above for heavy sections, oily plate or forceful handling. Specify by the letter rather than the old coup digit — sheet and section edges are exactly what the modern test grades for."}
+      ]
+    },
+    {
+      "slug": "workwear-grimsby",
+      "role": "spoke",
+      "spokeType": "Area guide",
+      "navLabel": "Grimsby",
+      "cardTitle": "Workwear in Grimsby",
+      "cardBlurb": "Fish processing, the Humber ports and offshore wind O&M — hygiene whites, cold-chain kit and turbine-transfer layers.",
+      "crumbTail": "Grimsby",
+      "kicker": "Area guide · Grimsby",
+      "h1": "Workwear in Grimsby: cold chain to turbine blade.",
+      "metaTitle": "Workwear in Grimsby: Seafood, Ports & Wind Kit | iNeedWorkwear",
+      "metaDesc": "Workwear for Grimsby's economy — hygiene whites and wellingtons for Europe's seafood-processing capital, cold-chain kit, Humber port hi-vis and offshore wind technician layers.",
+      "lede": "Grimsby's working wardrobe spans four degrees of separation from the sea: filleting lines and blast freezers in the processing plants, dock work on the Humber, and crews transferring to the world's biggest offshore wind farms. Three cold, wet economies — three distinct kit lists.",
+      "heroMeta": [ {"n":"~70%","l":"Of UK seafood processing sits in this cluster"}, {"n":"−25 °C","l":"Blast-freezer kit territory"}, {"n":"O&M hub","l":"North Sea wind runs from here"} ],
+      "schema": { "type": "Article" },
+      "blocks": [
+        { "type":"prose", "narrow":true, "klabel":"The local economy", "h2":"What Grimsby actually does",
+          "html":"<p>The trawlers mostly went; the fish didn't. Grimsby and the surrounding cluster handle <strong>the large majority of the UK's seafood processing</strong> — filleting, smoking, ready-meal production and the cold chain behind it. Next door, the <strong>Humber port complex</strong> around Immingham moves more tonnage than any other UK port system. And the newest layer: Grimsby has become a principal <strong>operations-and-maintenance base for North Sea offshore wind</strong>, with technicians running daily crew transfers to some of the world's largest wind farms.</p><p>Cold, wet and hygiene-regulated in the plants; cold, wet and heavy outside on the docks; cold, wet and remote out on the turbines. The kit differs more than the weather does.</p>" },
+        { "type":"table", "variant":"alt", "klabel":"Kit by industry", "h2":"The Grimsby kit map",
+          "head":["Local industry","The kit that matters","The spec detail"],
+          "rows":[
+            ["Seafood processing","Hygiene whites, aprons, wellingtons","Boil-washable garments, waterproof bibs, <span class='code'>S4</span> hygiene wellingtons"],
+            ["Cold chain & blast freezing","Cold-store suits, lined gloves, CI boots","<span class='code'>EN 342</span> rated — <a href='warehouse-logistics-workwear-guide.html'>the cold-store rules</a>"],
+            ["Docks & port operations","Class 3 hi-vis, waterproofs, S3 boots","All-weather outer that stays <a href='caring-for-hi-vis.html'>compliant as it ages</a>"],
+            ["Offshore wind O&M","Technical layers, waterproof shells","Wicking base to weatherproof outer — <a href='reproofing-waterproofs.html'>kept beading</a>; survival kit is operator-issued"],
+            ["Food logistics","Hi-vis, S1P or S2 washable footwear","<a href='safety-boot-codes-explained.html'>The codes</a> — S2 where washdown rules apply"]
+          ] },
+        { "type":"prose", "klabel":"The detail that matters", "h2":"Hygiene rules the plant floor", "narrow":true,
+          "html":"<p>Food-side kit lives under hygiene audit: garments in light colours that show contamination, laundered hot on rotation, <strong>no external pockets above the waist</strong> on many lines (nothing can fall into product), metal-detectable accessories in some plants, and footwear that survives daily chemical washdown — which is why <strong>S4 wellingtons and S2 washable shoes</strong> dominate over leather boots. It's a wardrobe specified by the audit checklist as much as the job.</p><p>Out on the wind farms the problem inverts: nothing about a turbine transfer is washable-white, and the kit is a <strong>layering system</strong> — wicking base, insulating mid, weatherproof shell — where the employer issues the survival and transfer equipment and the working layers underneath are where crews feel quality (or its absence) all shift.</p>" },
+        { "type":"keyfacts", "variant":"dark", "klabel":"Supply", "h2":"How we supply Grimsby",
+          "items":[
+            {"n":"From stock","l":"Whites, cold-store kit and hi-vis shipped nationwide next-day"},
+            {"n":"Boxed & rotated","l":"Hygiene garments bought in rotation quantities, not singles"},
+            {"n":"Trade accounts","l":"Processing plants and O&M contractors on one account"}
+          ] },
+        { "type":"clusternav" },
+        { "type":"faq", "klabel":"Questions", "h2":"Grimsby kit FAQ" }
+      ],
+      "faq":[
+        {"q":"What workwear do fish processing workers wear?","a":"Boil-washable hygiene whites or colour-coded garments, waterproof aprons, hairnets and S4 hygiene wellingtons — with cold-store rated layers (EN 342) for blast-freezer and chill work. Many plants also restrict above-waist external pockets and require metal-detectable accessories on the line."},
+        {"q":"What do offshore wind technicians wear to work?","a":"A layering system: wicking base layers, insulating mid-layers and a weatherproof shell, with safety boots and task gloves — while transfer and survival equipment (suits, PFDs) is issued by the operator. The working layers are personal kit, and quality shows over a 12-hour turbine day."},
+        {"q":"Do you deliver to Grimsby?","a":"Yes — we're a nationwide supplier shipping from central stock, typically next-day, with embroidery done before dispatch. No local counter, but plant-scale rotation orders and trade accounts are the everyday business."}
+      ]
+    },
+    {
+      "slug": "workwear-crawley",
+      "role": "spoke",
+      "spokeType": "Area guide",
+      "navLabel": "Crawley",
+      "cardTitle": "Workwear in Crawley",
+      "cardBlurb": "Gatwick's economy on the ground — airside hi-vis rules, metal-free footwear through security, and Manor Royal's uniforms.",
+      "crumbTail": "Crawley",
+      "kicker": "Area guide · Crawley",
+      "h1": "Workwear in Crawley: the airport economy, dressed.",
+      "metaTitle": "Workwear in Crawley: Airport, Logistics & Uniforms | iNeedWorkwear",
+      "metaDesc": "Workwear for Crawley's Gatwick-centred economy — airside hi-vis and ramp weatherproofs, metal-free footwear for security screening, Manor Royal logistics and corporate uniform.",
+      "lede": "Crawley's working day is organised around a runway: ramp crews and ground handlers airside, engineering and cargo on the perimeter, and the Manor Royal district running logistics, facilities and head-office services alongside. It's an economy with security archways in the middle of it — and that one fact reshapes the kit list.",
+      "heroMeta": [ {"n":"24/7","l":"The airport doesn't close"}, {"n":"Metal-free","l":"Boots that clear screening"}, {"n":"Ramp weather","l":"No shelter out there"} ],
+      "schema": { "type": "Article" },
+      "blocks": [
+        { "type":"prose", "narrow":true, "klabel":"The local economy", "h2":"What Crawley actually runs on",
+          "html":"<p>Gatwick is the town's engine — one of Europe's busiest single-runway airports — and around it sits everything an airport economy needs: <strong>ground handling and ramp operations</strong>, aircraft engineering, air cargo, and the <strong>Manor Royal business district</strong>, one of the South East's largest employment areas, dense with logistics, facilities management, engineering firms and corporate head offices. Hotels and hospitality ride the passenger flow around the clock.</p><p>The kit signature here isn't one industry's hazard — it's the <strong>operating conditions</strong>: outdoor work with zero shelter on the ramp, night shifts year-round, security screening between a worker and their workplace, and a lot of employers for whom staff <em>are</em> the brand.</p>" },
+        { "type":"table", "variant":"alt", "klabel":"Kit by industry", "h2":"The Crawley kit map",
+          "head":["Local sector","The kit that matters","The spec detail"],
+          "rows":[
+            ["Ramp & ground handling","Hi-vis rated for the operator's rules, ear defenders","Class 3 for vehicle-heavy aprons — <a href='class-2-vs-class-3-hi-vis.html'>the class logic</a>"],
+            ["Airside engineering & cargo","Metal-free footwear, snug-fit workwear","<span class='code'>Composite caps, PL/PS midsoles</span> — <a href='composite-vs-steel-toe-caps.html'>why metal-free</a>"],
+            ["Manor Royal logistics","Hi-vis, S1P trainers, dock-door layers","<a href='warehouse-logistics-workwear-guide.html'>Kit by zone</a>"],
+            ["Facilities & services","Embroidered polos, softshells, washable trousers","Uniform that survives — <a href='washing-embroidered-workwear.html'>branded-kit care</a>"],
+            ["Hotels & hospitality","FOH uniform, kitchen whites, SR footwear","<a href='hospitality-workwear-guide.html'>The sector guide</a>"]
+          ] },
+        { "type":"prose", "klabel":"The detail that matters", "h2":"Security screening writes the footwear spec", "narrow":true,
+          "html":"<p>Anyone crossing into the critical part of an airport goes through screening — every shift, sometimes several times a shift. Steel toe caps and steel midsoles turn that into a daily boots-off ritual, which is why airside workers standardise on <strong>fully metal-free safety footwear</strong>: composite caps and textile (PL/PS) midsoles that clear the archway. It's the clearest example anywhere of a workplace rule, not a hazard, deciding the spec.</p><p>The other constant is <strong>ramp weather</strong>: an apron offers no shelter, work continues in everything short of a closed runway, and hi-vis outers double as the weather layer — which puts <a href='reproofing-waterproofs.html'>DWR maintenance</a> and <a href='caring-for-hi-vis.html'>hi-vis condition</a> on the same maintenance calendar. Individual operators set their own hi-vis colour and class policies, so crews confirm the airport's rules before fleet orders.</p>" },
+        { "type":"keyfacts", "variant":"dark", "klabel":"Supply", "h2":"How we supply Crawley",
+          "items":[
+            {"n":"From stock","l":"Metal-free footwear, hi-vis and uniform shipped nationwide next-day"},
+            {"n":"Embroidered","l":"Corporate and FOH kit branded before dispatch"},
+            {"n":"Trade accounts","l":"Handlers, FM firms and hotels on rolling orders"}
+          ] },
+        { "type":"clusternav" },
+        { "type":"faq", "klabel":"Questions", "h2":"Crawley kit FAQ" }
+      ],
+      "faq":[
+        {"q":"What safety boots work best for airport staff?","a":"Fully metal-free ones: composite toe caps with textile PL/PS midsoles, so security archways don't trigger on every crossing. Protection is identical to steel — 200 J is 200 J — and the daily time saved at screening is why airside crews standardise on them."},
+        {"q":"What hi-vis do ground handlers at Gatwick need?","a":"The airport operator and each handler set the policy — commonly Class 3 on vehicle-heavy aprons, with colour and badging rules per company. Confirm the operator's current airside clothing requirements before ordering for a crew; the class logic itself is standard EN ISO 20471."},
+        {"q":"Do you supply uniforms to Crawley businesses?","a":"Yes — nationwide from stock with embroidery before dispatch, which covers Manor Royal's logistics and facilities firms as readily as airside contractors. Polos, softshells, trousers and footwear on one trade account, reordered as teams change."}
+      ]
+    }
+  ]
+}

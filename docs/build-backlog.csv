@@ -15,11 +15,11 @@ LIVE,Care guide,FR / welding,How to wash FR coveralls,how-to-wash-fr-coveralls,f
 LIVE,Area guide,Local,Workwear in Aberdeen,workwear-aberdeen,offshore-clothing | flame-retardant | hi-vis,Offshore economy
 LIVE,Area guide,Local,Workwear in Corby,workwear-corby,hi-vis | footwear | coldstore,Logistics economy
 LIVE,Area guide,Local,Workwear in Harrogate,workwear-harrogate,chefswear | hospitality | scrubs,Hospitality economy
-T1,Content hub,FR / protective,Flame-resistant workwear: the complete guide,fr-workwear-guide,flame-retardant,Pillar for FR/arc/antistatic
-T1,Standard explainer,FR / protective,EN ISO 11612 explained (heat & flame codes A–F),en-iso-11612-explained,flame-retardant,
-T1,Standard explainer,FR / protective,IEC 61482 arc flash explained (ATPV & APC),iec-61482-arc-flash-explained,arc-flash,
-T1,Standard explainer,FR / protective,EN 1149-5 antistatic explained,en-1149-5-antistatic-explained,anti-static-esd,
-T1,Comparison,FR / protective,Inherent vs treated FR fabric,inherent-vs-treated-fr,flame-retardant,Standalone of welders section
+LIVE,Content hub,FR / protective,Flame-resistant workwear: the complete guide,fr-workwear-guide,flame-retardant,Pillar for FR/arc/antistatic
+LIVE,Standard explainer,FR / protective,EN ISO 11612 explained (heat & flame codes A–F),en-iso-11612-explained,flame-retardant,
+LIVE,Standard explainer,FR / protective,IEC 61482 arc flash explained (ATPV & APC),iec-61482-arc-flash-explained,arc-flash,
+LIVE,Standard explainer,FR / protective,EN 1149-5 antistatic explained,en-1149-5-antistatic-explained,anti-static-esd,
+LIVE,Comparison,FR / protective,Inherent vs treated FR fabric,inherent-vs-treated-fr,flame-retardant,Standalone of welders section
 LIVE,Content hub,Footwear,Safety footwear: the complete guide,safety-footwear-guide,footwear,Pillar
 LIVE,Standard explainer,Footwear,Safety boot codes S1–S7 explained (EN ISO 20345),safety-boot-codes-explained,footwear,PROMISED on guides hub
 LIVE,Comparison,Footwear,Composite vs steel toe caps,composite-vs-steel-toe-caps,footwear,
@@ -46,9 +46,9 @@ LIVE,Role guide,Roles,Tunics & scrubs for care staff,workwear-for-care-staff,scr
 LIVE,Role guide,Roles,Workwear for mechanics,workwear-for-mechanics,coveralls | gloves-ppe | footwear,PROMISED on roles hub
 LIVE,Role guide,Roles,Kit for rail trackside workers,workwear-for-rail-trackside,rail-spec | hi-vis,
 LIVE,Role guide,Roles,Chainsaw & forestry operator kit (EN ISO 11393),chainsaw-forestry-kit,chainsaw-and-forestry | helmets,
-T1,Area guide,Local,Workwear in Sheffield,workwear-sheffield,per archetype,PROMISED on areas hub
-T1,Area guide,Local,Workwear in Grimsby,workwear-grimsby,per archetype,PROMISED on areas hub
-T1,Area guide,Local,Workwear in Crawley,workwear-crawley,per archetype,PROMISED on areas hub
+LIVE,Area guide,Local,Workwear in Sheffield,workwear-sheffield,per archetype,PROMISED on areas hub
+LIVE,Area guide,Local,Workwear in Grimsby,workwear-grimsby,per archetype,PROMISED on areas hub
+LIVE,Area guide,Local,Workwear in Crawley,workwear-crawley,per archetype,PROMISED on areas hub
 LIVE,Trust,—,About iNeedWorkwear,about,—,E-E-A-T before launch
 LIVE,Trust,—,Contact,contact,—,Phone/email already site-wide
 T2,Standard explainer,Standards,EN 343 waterproofs explained,en-343-waterproofs-explained,coats-jackets,

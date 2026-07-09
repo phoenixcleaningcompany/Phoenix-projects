@@ -1,0 +1,236 @@
+{
+  "cluster": {
+    "id": "fr",
+    "topic": "Flame-resistant",
+    "shopLabel": "FR workwear",
+    "shopUrl": "https://www.ineedworkwear.com/collections/flame-retardant",
+    "baseUrl": "https://www.ineedworkwear.uk",
+    "date": "2026-07-09",
+    "trust": ["EN ISO 11612 certified stock", "Arc-rated & antistatic options", "Multi-norm coveralls", "FR-compatible badging", "Trade accounts"],
+    "cta": { "h2": "Speccing FR for a crew?", "p": "Multi-norm coveralls, arc-rated kit and FR base layers from stock — with badging that doesn't void the certification.", "actions": [ {"label":"Shop FR workwear","href":"https://www.ineedworkwear.com/collections/flame-retardant","style":"white"}, {"label":"Shop arc flash","href":"https://www.ineedworkwear.com/collections/arc-flash","style":"dark"} ] }
+  },
+  "pages": [
+    {
+      "slug": "fr-workwear-guide",
+      "role": "hub",
+      "navLabel": "FR hub",
+      "kicker": "Standards hub · Flame-resistant workwear",
+      "h1": "Flame-resistant workwear: the complete guide.",
+      "metaTitle": "Flame-Resistant Workwear: The Complete Guide | iNeedWorkwear",
+      "metaDesc": "FR workwear mapped — which standard covers flame, arc and static (EN ISO 11612, IEC 61482, EN 1149-5), the layering rule that makes or breaks it, and the detailed guides.",
+      "lede": "\"FR\" on a label isn't one promise — it's a family of standards covering flame, radiant heat, molten metal, electric arc and static. Getting protected means matching the right ones to your hazard and then not undoing them with the wrong layer underneath. This hub is the map.",
+      "heroCta": [ {"label":"The standards map","href":"#","style":"orange"}, {"label":"Shop FR workwear","href":"https://www.ineedworkwear.com/collections/flame-retardant","style":"ghost"} ],
+      "heroMeta": [ {"n":"3 standards","l":"Cover most FR work"}, {"n":"1 rule","l":"FR under FR, always"}, {"n":"By hazard","l":"Not by job title"} ],
+      "schema": { "type": "Article" },
+      "blocks": [
+        { "type":"prose", "narrow":true, "klabel":"The idea", "h2":"Ordinary workwear burns — or worse, melts",
+          "html":"<p>Untreated poly-cotton does two bad things around flame and heat: the cotton content burns, and the polyester content <strong>melts onto skin</strong>. Flame-resistant clothing exists to break that chain — fabric that self-extinguishes when the ignition source is removed, so a flash event leaves you with a damaged garment instead of a fabric fire you're wearing.</p><p>What FR is <em>not</em>: fireproof, arc-proof by default, or permanent regardless of care. Each protection is a specific tested property with its own standard and label code — and the right question is never \"is it FR?\" but \"<strong>which hazard, which standard, which level?</strong>\"</p>" },
+        { "type":"table", "variant":"alt", "klabel":"The map", "h2":"Which standard covers which hazard", "lead":"The three below do most of the work; welding adds its own.",
+          "head":["Hazard","Standard","What the marking tells you","Deep dive"],
+          "rows":[
+            ["Flame, heat, molten metal","<span class='code'>EN ISO 11612</span>","Letter codes A–F grade each heat type","<a href='en-iso-11612-explained.html'>11612 explained</a>"],
+            ["Electric arc","<span class='code'>IEC 61482</span>","APC class or ATPV rating","<a href='iec-61482-arc-flash-explained.html'>Arc flash explained</a>"],
+            ["Static in explosive atmospheres","<span class='code'>EN 1149-5</span>","Dissipates charge — an ignition-prevention garment","<a href='en-1149-5-antistatic-explained.html'>1149-5 explained</a>"],
+            ["Welding spatter & UV","<span class='code'>EN ISO 11611</span>","Class 1 or 2 by process","<a href='fr-coveralls-for-welders.html'>Welders' guide</a>"]
+          ] },
+        { "type":"warnbar", "html":"<strong>The one rule that outranks every standard: FR under FR.</strong> A synthetic mid-layer or T-shirt under a certified FR outer melts in a flash event, inside the garment that survived. Every layer under FR is FR-rated or natural fibre — the T-shirt included. Employers who spec the coverall and ignore the layers have spec'd half a system." },
+        { "type":"cards", "klabel":"Fabric choice", "h2":"The other decision: how the fabric gets its FR", "lead":"Two routes to the same certification — different lifetime economics.",
+          "items":[
+            {"s":"Fibre chemistry","h3":"Inherent FR","area":"Aramids, modacrylics","p":"Protection built into the fibre itself — can't wash out. Higher price, often lighter."},
+            {"s":"Chemical finish","h3":"Treated FR","hot":true,"area":"FR-finished cotton","p":"Cotton comfort at lower cost — protection holds within the garment's specified wash life and care rules."},
+            {"s":"The comparison","h3":"Which to buy","area":"Honest trade-offs","p":"Wash discipline, garment life and budget decide it — <a href='inherent-vs-treated-fr.html' style='color:inherit;text-decoration:underline'>the full comparison</a>."}
+          ] },
+        { "type":"keyfacts", "variant":"dark", "klabel":"Keeping it valid", "h2":"FR dies in the laundry, not the field",
+          "items":[
+            {"n":"No softener","l":"Coats fibres with a flammable film — the classic silent killer"},
+            {"n":"No bleach","l":"Degrades both treated finishes and inherent fibres"},
+            {"n":"Oil = fuel","l":"A hydrocarbon-soaked FR garment burns regardless of rating"}
+          ] },
+        { "type":"citebox", "variant":"dark", "html":"The full laundering routine: <a href='how-to-wash-fr-coveralls.html'>how to wash FR coveralls</a> · oil contamination: <a href='oil-grease-out-of-workwear.html'>getting oil &amp; grease out</a>." },
+        { "type":"spokes", "variant":"alt", "klabel":"Go deeper", "h2":"The detailed guides", "lead":"This hub is the map. Each guide takes one standard or decision further — and links back here." },
+        { "type":"faq", "klabel":"Questions", "h2":"FR workwear FAQ" }
+      ],
+      "faq":[
+        {"q":"What does FR mean on workwear?","a":"Flame-resistant: fabric that self-extinguishes once the ignition source is removed, instead of burning or melting. It's certified per hazard — EN ISO 11612 for heat and flame, IEC 61482 for electric arc, EN 1149-5 for antistatic — so 'FR' alone isn't a specification; the standard and level are."},
+        {"q":"Who needs to wear FR workwear?","a":"Anyone whose risk assessment identifies flash fire, significant heat, molten metal, electric arc or explosive-atmosphere static risk — welders, refinery and gas crews, foundry workers, electrical switching staff, tanker drivers on ATEX sites. The assessment, not the trade name, decides."},
+        {"q":"Can you wear normal clothes under FR overalls?","a":"Only natural fibres or FR-rated layers. Synthetics — polyester T-shirts, fleeces — melt at flash and arc temperatures inside the protective garment and cause severe burns. The under-layer rule applies to every layer, base included."},
+        {"q":"Does FR clothing wear out?","a":"Yes, three ways: physical damage (rips and heavy abrasion), chemical damage from laundering with softener or bleach, and contamination — an oil-soaked garment is ignitable whatever its rating. Treated-FR garments additionally carry a specified wash life. Inspect, launder correctly, retire on damage."}
+      ]
+    },
+    {
+      "slug": "en-iso-11612-explained",
+      "role": "spoke",
+      "spokeType": "Standard explainer",
+      "navLabel": "EN ISO 11612",
+      "cardTitle": "EN ISO 11612 explained",
+      "cardBlurb": "The A-to-F letter codes on heat and flame clothing decoded — what each letter tests and which ones your hazard needs.",
+      "crumbTail": "Standards",
+      "kicker": "Standard explainer · EN ISO 11612",
+      "h1": "EN ISO 11612: the heat & flame codes, decoded.",
+      "metaTitle": "EN ISO 11612 Explained: Heat & Flame Codes A–F | iNeedWorkwear",
+      "metaDesc": "What the letter codes on EN ISO 11612 garments mean — A1/A2 flame spread, B convective, C radiant, D and E molten metal, F contact heat — and how to match them to a hazard.",
+      "lede": "EN ISO 11612 is the workhorse FR standard — and its label is a string of letters and numbers like \"A1 B1 C1 E2\". Each letter is a different kind of heat, each number a tested level. Decode the string and the garment tells you exactly what it's for.",
+      "heroMeta": [ {"n":"A–F","l":"Six heat types"}, {"n":"A1 + one more","l":"The minimum pattern"}, {"n":"Higher = more","l":"Within each letter"} ],
+      "schema": { "type": "Article" },
+      "blocks": [
+        { "type":"prose", "narrow":true, "klabel":"How it works", "h2":"One standard, six separate tests",
+          "html":"<p>EN ISO 11612 covers clothing protecting against heat and flame in general industry. Rather than one pass/fail, it tests up to <strong>six properties</strong>, each with its own letter and graded levels. A garment must pass the flame-spread test (letter A) plus at least one of the heat-transfer letters — so every compliant label reads \"A-something plus more letters\".</p><p>The letters matter because heat arrives differently in different jobs: a foundry throws <em>molten metal</em>, a furnace wall radiates, a flash fire is <em>convective</em>. Buying the wrong letters means paying for protection you don't have.</p>" },
+        { "type":"table", "variant":"alt", "klabel":"The codes", "h2":"A to F, in one table",
+          "head":["Code","Protects against","Levels","Typical hazard"],
+          "rows":[
+            ["<span class='code'>A1 / A2</span>","Limited flame spread (surface / edge ignition)","pass","The gateway test — every 11612 garment has it"],
+            ["<span class='code'>B</span>","Convective heat (flame-heated air)","B1–B3","Flash fire, burner work"],
+            ["<span class='code'>C</span>","Radiant heat","C1–C4","Furnaces, hot slabs, fire watch"],
+            ["<span class='code'>D</span>","Molten aluminium splash","D1–D3","Aluminium smelting and casting"],
+            ["<span class='code'>E</span>","Molten iron splash","E1–E3","Iron and steel foundries"],
+            ["<span class='code'>F</span>","Contact heat","F1–F3","Handling hot surfaces and parts"]
+          ] },
+        { "type":"prose", "klabel":"Reading a label", "h2":"Worked example: \"A1 B1 C1 E2\"", "narrow":true,
+          "html":"<p>Take a typical foundry coverall marked <strong>A1 B1 C1 E2</strong>: it resists surface flame spread (A1), gives baseline protection against convective (B1) and radiant (C1) heat, and — the headline — <strong>level 2 molten iron splash protection (E2)</strong>. That's a garment built for iron and steel work. The same fabric weight in an aluminium plant would be wrong: aluminium splash behaves differently and needs the <strong>D</strong> code.</p><p>Two practical notes. First, <strong>levels are minimum performance bands, not comfort grades</strong> — a B3 garment is heavier and hotter to wear than a B1, so over-speccing has a real cost in heat stress. Second, 11612 is often certified alongside arc (<a href='iec-61482-arc-flash-explained.html'>IEC 61482</a>) and antistatic (<a href='en-1149-5-antistatic-explained.html'>EN 1149-5</a>) on multi-norm garments — the energy sector's default, covered in the <a href='energy-offshore-workwear-guide.html'>sector guide</a>.</p>" },
+        { "type":"keyfacts", "variant":"dark", "klabel":"Buying", "h2":"Three rules when speccing 11612 kit",
+          "items":[
+            {"n":"Letters to hazard","l":"Foundry = D or E by metal; furnace = C; flash risk = B. Name them in the spec"},
+            {"n":"System, not garment","l":"Trousers, jacket and layers all need the rating — one FR item isn't an outfit"},
+            {"n":"Care preserves it","l":"The certification assumes correct laundering — softener and bleach void it in practice"}
+          ] },
+        { "type":"clusternav" },
+        { "type":"faq", "klabel":"Questions", "h2":"EN ISO 11612 FAQ" }
+      ],
+      "faq":[
+        {"q":"What do the letters on EN ISO 11612 clothing mean?","a":"Each letter is a tested heat type: A1/A2 limited flame spread, B convective heat, C radiant heat, D molten aluminium splash, E molten iron splash, F contact heat. The number after each letter is the performance level — higher means more protection in that specific test."},
+        {"q":"What is the difference between code D and code E?","a":"The molten metal: D covers aluminium splash, E covers iron. They're tested separately because the metals behave differently on fabric — an iron-rated garment isn't automatically aluminium-rated, so foundries spec by the metal they pour."},
+        {"q":"Is EN ISO 11612 the same as flameproof?","a":"No — 11612 garments resist ignition and self-extinguish, and grade protection against specific heat types. Nothing wearable is 'flameproof'. The standard's letters tell you which heat hazards the garment is actually tested against and to what level."},
+        {"q":"Do higher 11612 numbers mean a better garment?","a":"More protective in that test, yes — but heavier and hotter to wear. Over-speccing causes heat stress and unworn kit. Match the letters and levels to the assessed hazard rather than maxing every number."}
+      ]
+    },
+    {
+      "slug": "iec-61482-arc-flash-explained",
+      "role": "spoke",
+      "spokeType": "Standard explainer",
+      "navLabel": "IEC 61482 (arc)",
+      "cardTitle": "IEC 61482 arc flash explained",
+      "cardBlurb": "ATPV, ELIM and the box-test classes untangled — what each number means and how a task gets matched to a rating.",
+      "crumbTail": "Standards",
+      "kicker": "Standard explainer · IEC 61482",
+      "h1": "IEC 61482: arc flash ratings, untangled.",
+      "metaTitle": "IEC 61482 Arc Flash Explained: ATPV, ELIM & APC | iNeedWorkwear",
+      "metaDesc": "The two arc-flash test methods behind IEC 61482 — open-arc ATPV/ELIM values in cal/cm² and the APC 1/2 box test — what each number means and how tasks get matched to ratings.",
+      "lede": "Arc-rated clothing carries some of the most confusing markings in PPE: ATPV, ELIM, EBT, APC Class 1 and 2 — two different test methods, three different numbers, one standard. Here's the untangling, and how a real task ends up matched to a rating.",
+      "heroMeta": [ {"n":"2 tests","l":"Open arc · box test"}, {"n":"cal/cm²","l":"The open-arc currency"}, {"n":"Class 1 / 2","l":"The box-test answer"} ],
+      "schema": { "type": "Article" },
+      "blocks": [
+        { "type":"prose", "narrow":true, "klabel":"The hazard", "h2":"An arc flash is an explosion made of heat",
+          "html":"<p>An electric arc fault turns switchgear into a short-lived furnace: temperatures far beyond any flame, a pressure wave, and an intense pulse of radiant energy measured in <strong>calories per square centimetre (cal/cm²)</strong>. Ordinary clothing — and non-rated FR — can ignite or melt. Arc-rated clothing is FR fabric additionally tested against exactly this pulse.</p><p>Every arc-rated garment is flame-resistant; <strong>not every FR garment is arc-rated</strong>. That's the distinction the label letters below encode, and it's why arc work needs garments certified under IEC 61482 specifically — the general FR standard (<a href='en-iso-11612-explained.html'>EN ISO 11612</a>) doesn't test the arc pulse.</p>" },
+        { "type":"table", "variant":"alt", "klabel":"The two tests", "h2":"Open arc vs box test", "lead":"Two routes to certification; garments may carry either or both.",
+          "head":["","Open-arc test","Box test"],
+          "rows":[
+            ["Marking you'll see","<span class='code'>ATPV / ELIM / EBT</span> in cal/cm²","<span class='code'>APC Class 1</span> or <span class='code'>Class 2</span>"],
+            ["What's measured","Energy level the fabric withstands before predicted 2nd-degree burn (ATPV) or breakopen (EBT)","Pass/fail against a directed 4 kA (Class 1) or 7 kA (Class 2) arc"],
+            ["ELIM specifically","Highest energy with <em>no</em> predicted burn — the cautious sibling of ATPV","—"],
+            ["How it's used","Matched against the calculated incident energy of your task","Common utility/industry shorthand spec"],
+            ["Strength","Precise matching to a risk study","Simplicity — no calculation culture needed"]
+          ] },
+        { "type":"prose", "klabel":"Matching", "h2":"How a task gets a number", "narrow":true,
+          "html":"<p>In the open-arc world, the employer's <strong>arc-flash study</strong> calculates the incident energy at the working position — say 6.2&nbsp;cal/cm² at the panel — and the clothing system must meet or exceed it (an 8&nbsp;cal/cm² ATPV garment covers it). In the box-test world, the spec simply says <strong>Class 1 or Class 2</strong> by task category; Class 2 is the common call for utility switching.</p><p><strong>Layering multiplies protection</strong>: an arc-rated base layer under an arc-rated coverall gives a system rating higher than either alone (air gaps do real work), which is how high-energy tasks get covered without unwearably heavy single garments. And the melt-layer rule holds with extra force — synthetics anywhere in the stack are the failure mode. The wearer-side kit list lives in <a href='ppe-for-electricians.html'>PPE for electricians</a>.</p>" },
+        { "type":"warnbar", "html":"<strong>Arc-rated clothing doesn't make live work safe — isolation does.</strong> The clothing is the last line for the residual risk that remains after safe systems of work, permits and isolation. A higher cal/cm² number is never a licence to work closer or lazier; the risk assessment and the safe system come first, the fabric second." },
+        { "type":"clusternav" },
+        { "type":"faq", "klabel":"Questions", "h2":"Arc rating FAQ" }
+      ],
+      "faq":[
+        {"q":"What is the difference between ATPV and ELIM?","a":"Both come from the open-arc test, in cal/cm². ATPV is the energy at which there's a 50% probability of a second-degree burn through the fabric; ELIM is the highest energy with no predicted burn at all. ELIM is the more conservative figure — where both appear, ELIM will be the lower number."},
+        {"q":"What does APC Class 2 mean?","a":"The garment passed the IEC 61482 box test against a directed 7 kA arc (Class 1 is 4 kA). It's the common specification for utility switching and LV industrial work where employers spec by class rather than running incident-energy calculations."},
+        {"q":"Is FR clothing the same as arc-rated clothing?","a":"No. All arc-rated clothing is flame-resistant, but general FR (EN ISO 11612) hasn't been tested against an arc's energy pulse. If the risk assessment says arc, the label must say IEC 61482 — with an ATPV/ELIM value or an APC class."},
+        {"q":"Can you layer arc flash clothing?","a":"Yes — and it's standard practice. An arc-rated base layer under an arc-rated outer produces a system rating higher than either garment alone, thanks to the insulating air gap. Every layer in the stack must be arc-rated or natural fibre; one synthetic layer breaks the system."}
+      ]
+    },
+    {
+      "slug": "en-1149-5-antistatic-explained",
+      "role": "spoke",
+      "spokeType": "Standard explainer",
+      "navLabel": "EN 1149-5 (antistatic)",
+      "cardTitle": "EN 1149-5 antistatic explained",
+      "cardBlurb": "The garment that prevents the spark — how dissipative clothing works in ATEX zones, and the earthing detail everyone forgets.",
+      "crumbTail": "Standards",
+      "kicker": "Standard explainer · EN 1149-5",
+      "h1": "EN 1149-5: the garment that prevents the spark.",
+      "metaTitle": "EN 1149-5 Antistatic Workwear Explained | iNeedWorkwear",
+      "metaDesc": "What EN 1149-5 antistatic clothing actually does — dissipating static charge to prevent ignition in explosive atmospheres — plus the earthing chain and layering rules that make it work.",
+      "lede": "Every standard in the FR family protects you from heat that's already arrived. EN 1149-5 is different: it exists to stop the fire starting at all, by making sure your clothing can't deliver the static spark that ignites a flammable atmosphere. That difference changes how the garment has to be worn.",
+      "heroMeta": [ {"n":"Prevention","l":"Stops ignition, not burns"}, {"n":"ATEX zones","l":"Where it's mandated"}, {"n":"Earthed","l":"Or it isn't working"} ],
+      "schema": { "type": "Article" },
+      "blocks": [
+        { "type":"prose", "narrow":true, "klabel":"The problem", "h2":"You are a capacitor in a hazardous area",
+          "html":"<p>Walking, sliding off a seat, pulling off a jumper — ordinary movement charges a body and its clothing to thousands of volts. In everyday life the worst outcome is a door-handle zap. In an <strong>ATEX zone</strong> — solvent vapours, fuel loading, flour or powder handling — that same spark is an ignition source.</p><p><strong>EN 1149-5</strong> garments are made with conductive fibres woven through the fabric so charge <em>dissipates</em> continuously instead of accumulating and discharging in one spark. The standard covers the garment's material performance and design; it is <strong>not</strong> electrical-shock protection and it isn't arc protection — those are <a href='iec-61482-arc-flash-explained.html'>different standards</a>.</p>" },
+        { "type":"steps", "narrow":true, "klabel":"Making it work", "h2":"The chain that makes antistatic real",
+          "items":[
+            {"h3":"The garment covers the layers beneath","html":"Non-dissipative clothing must be fully covered by the 1149-5 garment during work — a synthetic fleece poking out of an open coverall front is an exposed charge generator."},
+            {"h3":"The wearer is earthed through footwear","html":"Charge can only drain if there's a path to ground: <span class='warn'>antistatic or ESD-rated footwear on a conductive floor completes the circuit.</span> A dissipative coverall over insulating trainers is a capacitor with nowhere to go."},
+            {"h3":"Fastenings stay closed","html":"The design assumptions — coverage, closure, cuffs — are part of the certification. Worn open, the garment's tested geometry no longer exists."},
+            {"h3":"It's combined with FR where zones demand it","html":"Most ATEX work also carries flash-fire risk, which is why 1149-5 usually appears on multi-norm garments alongside EN ISO 11612 and arc ratings rather than alone."}
+          ] },
+        { "type":"keyfacts", "variant":"dark", "klabel":"Where it applies", "h2":"The environments that spec 1149-5",
+          "items":[
+            {"n":"Fuel & solvents","l":"Refineries, tanker loading, paint and coatings plants"},
+            {"n":"Gas","l":"Distribution, terminals, turnaround work"},
+            {"n":"Powders","l":"Flour, sugar, pharma and chemical powder handling — dust explodes too"}
+          ] },
+        { "type":"warnbar", "html":"<strong>Antistatic ≠ insulating — and the confusion is dangerous both ways.</strong> EN 1149-5 clothing deliberately conducts (dissipates) charge; it offers no protection against electric shock, and it isn't the 'antistatic' of ESD electronics assembly either — that's a cleanliness standard (protecting the product), not a safety one. For live electrical work, the relevant kit is insulating equipment and <a href='iec-61482-arc-flash-explained.html' style='color:#fff;text-decoration:underline'>arc-rated clothing</a>." },
+        { "type":"clusternav" },
+        { "type":"faq", "klabel":"Questions", "h2":"EN 1149-5 FAQ" }
+      ],
+      "faq":[
+        {"q":"What does EN 1149-5 mean on a coverall?","a":"The garment is electrostatic-dissipative: conductive fibres in the fabric let static charge drain away continuously instead of building up and discharging as a spark. It's specified for ATEX zones — flammable vapour, gas and dust atmospheres — as ignition prevention."},
+        {"q":"Does antistatic clothing protect against electric shock?","a":"No — the opposite of insulation. EN 1149-5 fabric deliberately conducts charge to earth. It protects the atmosphere from your spark, not you from electricity. Live electrical work needs insulating equipment and arc-rated clothing under IEC 61482."},
+        {"q":"Why does antistatic clothing need special footwear?","a":"The garment can only dissipate charge if there's a continuous path to ground — through antistatic or ESD-rated footwear onto a floor that conducts. Insulating soles break the chain and let charge accumulate regardless of what the coverall is rated."},
+        {"q":"Is EN 1149-5 the same as ESD clothing for electronics?","a":"No. Electronics ESD garments protect sensitive components from your static; EN 1149-5 protects an explosive atmosphere from an incendiary spark. The physics overlaps, the certifications and use cases don't — a lab smock has no place on a tank farm."}
+      ]
+    },
+    {
+      "slug": "inherent-vs-treated-fr",
+      "role": "spoke",
+      "spokeType": "Comparison",
+      "navLabel": "Inherent vs treated",
+      "cardTitle": "Inherent vs treated FR fabric",
+      "cardBlurb": "Fibre chemistry or chemical finish — the honest trade-offs in protection lifetime, comfort and cost per wear.",
+      "crumbTail": "Comparison",
+      "kicker": "Comparison · FR fabric types",
+      "h1": "Inherent vs treated FR fabric.",
+      "metaTitle": "Inherent vs Treated FR Fabric: The Honest Trade-Offs | iNeedWorkwear",
+      "metaDesc": "Inherent FR (aramid, modacrylic) vs treated FR cotton — how each gets its protection, what wash discipline they demand, and how to choose by garment life and budget.",
+      "lede": "Two FR garments can carry identical certifications and be completely different products underneath: one woven from fibres that can't burn, the other from cotton chemically finished to resist it. Both pass the same tests on day one — the difference is what happens over two hundred washes.",
+      "heroMeta": [ {"n":"Fibre or finish","l":"The two routes to FR"}, {"n":"Same day-one certs","l":"Different lifetimes"}, {"n":"Cost per wear","l":"The real comparison"} ],
+      "schema": { "type": "Article" },
+      "blocks": [
+        { "type":"prose", "narrow":true, "klabel":"The two routes", "h2":"Chemistry in the fibre, or chemistry on the cotton",
+          "html":"<p><strong>Inherent FR</strong> fabrics are spun from fibres whose molecular structure doesn't sustain flame — aramids (the Nomex family), modacrylics and blends. The protection <em>is</em> the fibre: it can't wash out, wear off or be laundered away, and it persists for the structural life of the garment.</p><p><strong>Treated FR</strong> starts as cotton or poly-cotton and gains its resistance from a flame-retardant finish bonded into the fabric (Proban-type processes and successors). Done properly it's genuinely certified protection with cotton's comfort and a friendlier price — but the finish is a consumable: it survives a <em>specified number of correct wash cycles</em>, and incorrect laundering (bleach, softener, wrong chemistry) depletes it early, invisibly.</p>" },
+        { "type":"table", "variant":"alt", "klabel":"Head to head", "h2":"The honest trade-offs",
+          "head":["","Inherent","Treated"],
+          "rows":[
+            ["Where the FR lives","In the fibre — permanent","In a finish — rated for a wash life"],
+            ["Day-one certification","<span class='code'>Identical</span> — both certify to the same standards","<span class='code'>Identical</span>"],
+            ["After laundering abuse","Protection persists (fabric may still wear out)","Finish depletes — garment can look fine and protect less"],
+            ["Comfort & weight","Often lighter for the same rating","Cotton hand-feel; typically heavier"],
+            ["Purchase price","Higher","Lower"],
+            ["Cost per wear","Wins on long-life, hard-laundered fleets","Wins on shorter cycles and tighter budgets"],
+            ["Typical homes","Offshore, utilities, arc-rated systems","Foundry and welding coveralls, general FR fleets"]
+          ] },
+        { "type":"prose", "klabel":"Choosing", "h2":"Decide on laundering reality, not brochure life", "narrow":true,
+          "html":"<p>The right question isn't \"which fabric is better\" — it's <strong>\"what will actually happen to this garment in the wash?\"</strong> A fleet laundered industrially, on contract, to the garment maker's spec keeps treated FR inside its rated life comfortably — and pockets the price difference. Kit washed at home, by many hands, with whatever's next to the machine, is exactly where treated finishes die early — and where inherent fabric's tolerance for abuse pays for itself.</p><p>Two universal caveats: <strong>both</strong> types lose protection to hydrocarbon contamination (<a href='oil-grease-out-of-workwear.html'>oil is fuel</a>), and <strong>both</strong> follow the same laundering rules (<a href='how-to-wash-fr-coveralls.html'>no softener, no bleach</a>) — inherent fabric survives rule-breaking better, but softener film makes any fabric's surface flammable.</p>" },
+        { "type":"keyfacts", "variant":"dark", "klabel":"Fleet notes", "h2":"What buyers actually do",
+          "items":[
+            {"n":"Match to laundry","l":"Contract laundering → treated is safe economics; home washing → lean inherent"},
+            {"n":"Check the wash life","l":"Treated garments state it — track cycles like hi-vis wash counts"},
+            {"n":"Mixed fleets work","l":"Inherent for the daily-FR crew, treated for occasional and visitor kit"}
+          ] },
+        { "type":"clusternav" },
+        { "type":"faq", "klabel":"Questions", "h2":"Inherent vs treated FAQ" }
+      ],
+      "faq":[
+        {"q":"What is the difference between inherent and treated FR?","a":"Inherent FR fabric is woven from fibres that are flame-resistant by chemistry (aramids, modacrylics) — the protection can't wash out. Treated FR is cotton finished with a flame-retardant treatment — certified protection with a specified wash life that incorrect laundering shortens."},
+        {"q":"Is inherent FR better than treated?","a":"It's more durable, not more protective — on day one both certify to the same standards. Inherent wins where garments live long and laundering is uncontrolled; treated wins on price and cotton comfort where wash discipline is good. Cost per wear, not the label, is the fair comparison."},
+        {"q":"Can treated FR wash out?","a":"The finish is rated for a stated number of correct wash cycles and depletes early under bleach, softener or wrong wash chemistry — without changing how the garment looks. That invisible failure mode is why treated fleets need laundering discipline and cycle awareness."},
+        {"q":"Do inherent FR garments last forever?","a":"The flame resistance persists, but the garment doesn't — abrasion, rips, UV and contamination still retire it. And a softener film or oil soaking makes any FR fabric's surface ignitable, inherent included. Care rules apply to both types equally."}
+      ]
+    }
+  ]
+}
