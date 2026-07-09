@@ -1,6 +1,6 @@
 iNeedWorkwear content site — cPanel deploy notes
 ================================================
-UPLOAD: copy every .html file in this folder to the docroot of
+UPLOAD: copy every .html file AND the assets/ folder in this folder to the docroot of
 https://www.ineedworkwear.uk (public_html or the subdomain root).
 Pages are fully self-contained (inline CSS/JS, Google Fonts only).
 
