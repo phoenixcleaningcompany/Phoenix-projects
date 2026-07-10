@@ -293,6 +293,53 @@
         {"q":"Why do my feet burn after a shift on concrete?","a":"Concrete returns every step's impact — burning feet, plantar fascia pain and knee fatigue are the cumulative result. Renewed insoles, genuinely cushioned midsoles, boot rotation and anti-fatigue matting at static posts each remove a share of the load."},
         {"q":"Are safety trainers OK on concrete floors?","a":"They're often the best choice — S1P trainers carry the same certified cap and midsole as boots with far less weight to lift each step, and their trainer-style foam handles concrete's shock better than many rigid boots. Step up to boots where ankle support or weather demands it."}
       ]
+    },
+    {
+      "slug": "how-embroidery-pricing-works",
+      "role": "spoke",
+      "spokeType": "Buying guide",
+      "navLabel": "Embroidery pricing",
+      "cardTitle": "How embroidery pricing works",
+      "cardBlurb": "Why 'free embroidery' is real, what digitising actually is, and when badging is charged — the trade's pricing model, explained straight.",
+      "crumbTail": "Buying guides",
+      "kicker": "Buying guide · Embroidery pricing",
+      "h1": "How workwear embroidery pricing actually works.",
+      "metaTitle": "How Embroidery Pricing Works for Workwear | iNeedWorkwear",
+      "metaDesc": "The workwear trade's embroidery pricing model explained honestly — why logos are usually included when you buy the garments, what the one-off digitising setup is, and when badging is charged separately.",
+      "lede": "Ask three suppliers what embroidery costs and you'll get 'free', a per-logo price and a shrug — and all three are describing the same model from different angles. Here's how the trade actually prices badged workwear, so you can compare quotes on the number that matters.",
+      "heroMeta": [ {"n":"Bundled","l":"How the trade usually prices it"}, {"n":"Digitising","l":"The one-off real cost"}, {"n":"Total price","l":"The only fair comparison"} ],
+      "schema": { "type": "Article" },
+      "blocks": [
+        { "type":"prose", "narrow":true, "klabel":"The model", "h2":"\"Free embroidery\" is real — and priced in",
+          "html":"<p>Most workwear suppliers, us included, quote <strong>badged garments as one price</strong>: buy the polos, the logo comes stitched. Nobody is donating machine time — the embroidery cost sits inside the garment price — but the bundling reflects something true about the work: once your logo is set up, running it onto a garment that's already passing through the workshop is efficient, so charging it as a separate line item mostly adds admin, not value.</p><p>The practical consequence for buyers: <strong>compare quotes on the total delivered price of the badged garment</strong>, not on whose line items say \"free\". A £9 polo with free embroidery and a £7 polo plus £2 per logo are the same quote wearing different clothes — and the garment quality, not the line-item theatre, is where the quotes genuinely differ (the <a href='choosing-team-polos.html'>polo guide</a> covers what to look for).</p>" },
+        { "type":"table", "variant":"alt", "klabel":"What costs what", "h2":"Where the real costs live",
+          "head":["Item","How it's usually charged","Why"],
+          "rows":[
+            ["Logo digitising","<span class='code'>One-off setup</span>, sometimes waived on larger first orders","A human converts your artwork into a stitch file — real skilled work, done once, reused for years"],
+            ["Standard chest logo","<span class='code'>Included</span> with garments bought from the supplier","The bundled model above"],
+            ["Extra positions (sleeve, back, nape)","Usually a small per-position charge","Each position is another machine run"],
+            ["Names or initials per garment","Per-unit charge","Every garment needs its own setup — initials are cheaper than names, and survive squad churn"],
+            ["Badging customer-supplied garments","<span class='code'>Charged per logo</span>","No garment margin to absorb it — this is the schools-and-clubs badge-only route, priced as the service it is"],
+            ["Large back designs & sponsor panels","Quoted by size — often printed instead","Stitch count scales with area; <a href='embroidery-vs-print.html'>print wins at scale</a>"]
+          ] },
+        { "type":"prose", "klabel":"The variables", "h2":"What actually moves an embroidery quote", "narrow":true,
+          "html":"<p><strong>Stitch count</strong> is the honest unit of embroidery cost — driven by logo size and how much of it is solid fill. A clean left-chest logo of 8–10&nbsp;cm runs quickly; a dense, fill-heavy crest at twice the size takes several times the machine minutes. <strong>Thread colour changes matter far less than people assume</strong> (multi-head machines carry many threads), and <strong>quantity matters the way you'd expect</strong>: the setup is fixed, so per-garment economics improve with volume — which is why suppliers can waive digitising on decent first orders.</p><p>Two more things worth knowing. <strong>Artwork quality is money</strong>: a crisp vector or high-resolution logo digitises cleanly; a stretched photo of a letterhead costs redraw time — one reason <a href='schoolwear-guide.html'>schools</a> and <a href='sports-teamwear-guide.html'>clubs</a> are told to treat the digitised crest as an asset they set up once and keep. And <strong>certified garments carry placement rules</strong>: badging hi-vis and FR kit must keep clear of the certified areas and use compatible processes — part of why safety kit gets badged by the workwear supplier, not the cheapest press in town.</p>" },
+        { "type":"keyfacts", "variant":"dark", "klabel":"Buyer's summary", "h2":"Three rules for comparing quotes",
+          "items":[
+            {"n":"Total, not line items","l":"Judge the delivered badged-garment price — 'free' is an arrangement, not a discount"},
+            {"n":"Digitise once, keep the file","l":"The setup is yours conceptually — consistency across reorders is what it buys"},
+            {"n":"Supplied garments cost more to badge","l":"Badge-only work is priced as a service; bundling needs garment margin to hide in"}
+          ] },
+        { "type":"citebox", "html":"Deciding between stitch and print in the first place: <a href='embroidery-vs-print.html'>embroidery vs print</a>. Keeping the logo alive through the wash cycle: <a href='washing-embroidered-workwear.html'>washing branded workwear</a>. Ready for numbers on a real order? <a href='contact.html'>Send the logo and the headcount</a>." },
+        { "type":"clusternav" },
+        { "type":"faq", "klabel":"Questions", "h2":"Embroidery pricing FAQ" }
+      ],
+      "faq":[
+        {"q":"Why do workwear companies offer free embroidery?","a":"Because the trade bundles embroidery into the garment price — once a logo is digitised, stitching it onto garments already passing through the workshop is efficient, so most suppliers quote one badged-garment price. It's a pricing convention, not a giveaway: compare quotes on the total delivered price."},
+        {"q":"What is a digitising fee?","a":"The one-off cost of converting your logo artwork into a machine stitch file — skilled work that determines how the logo renders in thread forever after. It's done once and reused across every garment and reorder; suppliers often waive it on larger first orders."},
+        {"q":"Can I get my own garments embroidered?","a":"Yes — badging customer-supplied garments is standard work, and the route many schools and clubs use for existing kit. Expect it to be charged per logo rather than bundled, since there's no garment sale to absorb the cost, and note that certified hi-vis and FR items need placement-aware badging."},
+        {"q":"What makes embroidery more expensive?","a":"Stitch count, mainly — bigger logos and dense solid fills take more machine time — plus extra positions per garment and per-unit personalisation like names. Thread colour count matters less than most buyers assume. Volume works the other way: fixed setup spread over more garments."}
+      ]
     }
   ]
 }
