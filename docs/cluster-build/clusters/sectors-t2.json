@@ -663,7 +663,12 @@
           "q": "How do FM companies uniform five different roles?",
           "a": "A standardised base layer (polos, sweatshirts, trousers in company colours, embroidered once) with role-specific layers on top — tabards for cleaning, hi-vis for grounds and car parks, corporate pieces for front of house. One brand, one reorder line."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/cleaning-operative.webp",
+        "alt": "Industrial cleaning operative in protective coat and hairnet squeegeeing a plant floor",
+        "kind": "photo"
+      }
     },
     {
       "slug": "security-uniform-guide",
@@ -782,7 +787,12 @@
           "q": "What makes a good security uniform for winter?",
           "a": "Static posts generate almost no body heat, so winter security kit is built on a longline insulated parka over proper base and mid layers, warm loose-fitting footwear and covered extremities — more insulation than any moving trade needs."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/security-guard.webp",
+        "alt": "Security guard at a CCTV monitoring desk",
+        "kind": "photo"
+      }
     },
     {
       "slug": "painter-decorator-workwear-guide",
@@ -901,7 +911,12 @@
           "q": "Can you embroider white bib and brace overalls?",
           "a": "Yes — chest and bib embroidery is the standard way decorating firms brand their whites, and it survives the boil-wash cycle that would peel a printed logo. One digitised logo covers bibs, polos and softshells alike."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/painter-decorator.webp",
+        "alt": "Painter in whites rolling a wall",
+        "kind": "photo"
+      }
     },
     {
       "slug": "food-processing-workwear-guide",

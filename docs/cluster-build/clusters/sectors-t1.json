@@ -316,7 +316,12 @@
           "q": "Why do cold store workers get too cold even in rated suits?",
           "a": "Usually sweat or fit: over-layering under the suit causes sweating, and damp insulation loses its warmth; suits also need sizing that traps an air layer rather than compressing it. Wind-chill from evaporator fans adds a real effect the thermometer doesn't show."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/warehouse.webp",
+        "alt": "Warehouse picker in a hi-vis vest working a racking aisle",
+        "kind": "photo"
+      }
     },
     {
       "slug": "manufacturing-workwear-guide",
@@ -446,7 +451,12 @@
           "q": "What gloves for handling sheet metal?",
           "a": "A cut-resistant coated glove at ISO 13997 cut level C as the starting point, D or higher for heavy, oily or forceful handling. Specify by the letter, not the old coup-test digit — the decoder guide explains the difference."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/factory.webp",
+        "alt": "Operative in coveralls on a vehicle assembly line",
+        "kind": "photo"
+      }
     },
     {
       "slug": "healthcare-workwear-guide",
@@ -861,7 +871,12 @@
           "q": "Does oil contamination really make FR clothing unsafe?",
           "a": "Yes — a hydrocarbon-soaked garment can ignite and burn regardless of the fabric's FR rating. Contaminated FR kit comes off shift for proper laundering, and garments that won't come clean are retired. It's a safety rule, not a cleanliness preference."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/wind-techs.webp",
+        "alt": "Wind farm technicians in hi-vis and harnesses below a turbine",
+        "kind": "photo"
+      }
     }
   ]
 }
