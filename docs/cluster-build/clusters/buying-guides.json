@@ -1402,6 +1402,379 @@
           "a": "An insulated jacket or parka sized over a base and mid-layer, with sealed cuffs and a decent hem drop. Static outdoor work generates almost no body heat, so buy for insulation and wind-proofing rather than breathability — the opposite of what an active trade needs."
         }
       ]
+    },
+    {
+      "slug": "womens-workwear-guide",
+      "role": "spoke",
+      "spokeType": "Buying guide",
+      "navLabel": "Women's workwear",
+      "cardTitle": "Women's workwear: fit is a safety issue",
+      "cardBlurb": "Unisex means men's — and ill-fitting kit isn't just uncomfortable, it protects worse. What to demand instead.",
+      "crumbTail": "Buying guides",
+      "kicker": "Buying guide · Women's fit",
+      "h1": "Women's workwear: 'unisex' is doing a lot of lifting.",
+      "metaTitle": "Women's Workwear Guide: Fit, PPE Sizing & What To Demand | iNeedWorkwear",
+      "metaDesc": "Women's workwear done properly — why unisex kit is men's kit resized, how bad fit degrades protection (gloves, hi-vis, harnesses), what women's-cut ranges actually change, and how to order for a mixed team.",
+      "lede": "A third of many site and healthcare teams are women wearing kit patterned on men — sleeves rolled twice, gloves a size too big, hi-vis like a tabard on a fence post. That's not a comfort niggle: excess fabric snags, oversized gloves fumble, and PPE that doesn't fit doesn't protect as certified. The fix exists; you just have to specify it.",
+      "heroMeta": [
+        {
+          "n": "Fit = function",
+          "l": "PPE certifies on a fitted body"
+        },
+        {
+          "n": "Cut ≠ shrink",
+          "l": "Women's kit is repatterned, not resized"
+        },
+        {
+          "n": "Whole list",
+          "l": "Gloves and boots matter most"
+        }
+      ],
+      "heroImage": {
+        "src": "assets/collections/maternity.webp",
+        "alt": "Lilac maternity scrub top with gathered bump panel",
+        "kind": "cutout",
+        "w": 600,
+        "h": 600,
+        "dark": true
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The problem",
+          "h2": "Why 'unisex' fails, mechanically",
+          "html": "<p>Unisex workwear is drafted on a male block: straighter hip, longer torso, broader shoulder, bigger hands. Put it on a typical female frame and the failures are physical, not aesthetic — <strong>trousers that gape or won't rise</strong>, <strong>excess sleeve and jacket fabric</strong> that catches on machinery and ladders, <strong>gloves whose empty fingertips</strong> wreck dexterity and get deliberately removed, and <strong>hi-vis that drapes</strong> so the retroreflective bands sit wrong. Safety kit is tested and certified on the assumption it fits; oversized isn't a style, it's a derating.</p><p><strong>What a real women's range changes:</strong> repatterned rise and hip on trousers, shorter back length and adjusted shoulder on jackets, narrower lasts on safety boots, and gloves in genuine small sizes with proportionate finger lengths — not the same garment graded down. Maternity is its own list, covered in our <a href='maternity-workwear-guide.html'>maternity guide</a>.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The checklist",
+          "h2": "Ordering for a mixed team",
+          "head": [
+            "Item",
+            "What to specify",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Trousers",
+              "Women's-cut with knee-pad pockets, not size-8 men's",
+              "Rise and hip drafting — the pocket sits on the knee in a kneel"
+            ],
+            [
+              "Hi-vis",
+              "Women's-cut Class 2/3 where available",
+              "Bands sit level; less drape to snag — <a href='hi-vis-workwear-guide.html'>the hi-vis guide</a>"
+            ],
+            [
+              "Gloves",
+              "True size 6–8 ranges per task",
+              "Fingertip fit is dexterity — <a href='en-388-glove-ratings-decoder.html'>same ratings, right size</a>"
+            ],
+            [
+              "Safety boots",
+              "Women's-last models, not small men's sizes",
+              "Different heel and width — blisters are how bad lasts announce themselves"
+            ],
+            [
+              "Scrubs & tunics",
+              "Fitted ranges in the policy fabric",
+              "<a href='tunic-vs-scrubs.html'>Tunic vs scrubs</a> covers the choice"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "The employer angle",
+          "h2": "Three facts for the buying meeting",
+          "items": [
+            {
+              "n": "Duty",
+              "l": "PPE must fit the wearer — supplying only men's sizing doesn't discharge it; see <a href='who-pays-for-ppe.html'>who pays for PPE</a>"
+            },
+            {
+              "n": "Availability",
+              "l": "Women's-cut site kit exists across hi-vis, trousers, boots and FR — 'we couldn't get it' rarely survives checking"
+            },
+            {
+              "n": "Order the curve",
+              "l": "Stock the size spread your team actually has, including smalls, before someone's first day"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Women's workwear FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is women's workwear actually different or just smaller?",
+          "a": "Properly made women's ranges are repatterned — different rise and hip on trousers, adjusted shoulder and back length on jackets, narrower boot lasts, proportionate glove fingers — not men's garments graded down. That drafting difference is what makes the kit sit, move and protect correctly."
+        },
+        {
+          "q": "Does badly fitting PPE really reduce protection?",
+          "a": "Yes. Gloves with empty fingertips destroy dexterity and get removed; excess jacket and sleeve fabric snags on machinery and ladders; draped hi-vis mispositions its reflective bands; boots on the wrong last cause the blisters that put people in trainers. PPE is certified assuming correct fit — oversized quietly voids the assumption."
+        },
+        {
+          "q": "Do employers have to provide women's-fit PPE?",
+          "a": "Employers must provide PPE that fits and suits each wearer — supplying men's sizing only and calling it unisex doesn't meet that duty where fit is compromised. Women's-cut options now exist across nearly every category, so availability is rarely a defensible objection."
+        }
+      ]
+    },
+    {
+      "slug": "summer-workwear-guide",
+      "role": "spoke",
+      "spokeType": "Buying guide",
+      "navLabel": "Summer workwear",
+      "cardTitle": "Summer workwear: heat, UV and the shorts question",
+      "cardBlurb": "Wicking fabrics, UPF, hi-vis in a heatwave and what sites actually say about shorts — the hot-weather kit list.",
+      "crumbTail": "Buying guides",
+      "kicker": "Buying guide · Hot weather",
+      "h1": "Summer workwear: staying safe when the site bakes.",
+      "metaTitle": "Summer Workwear Guide: Heat, UV Protection & Site Rules | iNeedWorkwear",
+      "metaDesc": "Hot-weather workwear that works — wicking fabrics vs cotton, UPF sun protection for outdoor trades, hi-vis compliance in summer, the shorts-on-site question and heat-stress basics.",
+      "lede": "British summers are short and increasingly brutal, and outdoor trades feel every degree. Hot-weather kit is a genuine safety topic — heat stress degrades judgement before it drops anyone, and UV is a career-length skin-cancer dose for outdoor workers — but most of the fixes are fabric choices, made in advance.",
+      "heroMeta": [
+        {
+          "n": "Wicking",
+          "l": "Fabric that moves sweat beats less fabric"
+        },
+        {
+          "n": "UPF",
+          "l": "Sun protection you wear, not reapply"
+        },
+        {
+          "n": "Site rules",
+          "l": "Shorts are a policy, not a right"
+        }
+      ],
+      "heroImage": {
+        "src": "assets/collections/shorts.webp",
+        "alt": "Black work shorts",
+        "kind": "cutout",
+        "w": 600,
+        "h": 600
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The physics",
+          "h2": "Less clothing isn't the win it feels like",
+          "html": "<p>The instinct in a heatwave is minimum fabric; the physiology disagrees. Bare skin in direct sun gains radiant heat and UV dose; what actually cools is <strong>evaporation</strong> — which a lightweight <strong>wicking synthetic</strong> accelerates by spreading sweat, while a soaked cotton tee just sits wet and heavy against the skin. So summer buying is fabric-first: wicking tees and polos, lighter-gsm trousers with stretch and venting, and <a href='base-layers-guide.html'>technical base layers</a> that do in July what they do in January — move moisture.</p><p><strong>Sun is the quieter hazard.</strong> Outdoor workers carry multiples of the general population's UV exposure, and long sleeves in light wicking fabric with a <strong>UPF rating</strong> beat sunscreen's reapply-every-two-hours reality for arms and shoulders. Neck flaps and brims on <a href='work-headwear-guide.html'>headwear</a> cover the spots that burn first.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The list",
+          "h2": "The hot-weather kit map",
+          "head": [
+            "Item",
+            "What to buy",
+            "The detail"
+          ],
+          "rows": [
+            [
+              "Tees & polos",
+              "Lightweight wicking fabric",
+              "Cotton comfort is a myth once you're sweating"
+            ],
+            [
+              "Trousers / shorts",
+              "Light-gsm stretch trousers; shorts where policy allows",
+              "Many sites ban shorts (impact, UV, chemical exposure) — check first"
+            ],
+            [
+              "Hi-vis",
+              "Mesh-backed vests and lightweight Class 2/3 garments",
+              "Compliance doesn't pause for heat — <a href='class-2-vs-class-3-hi-vis.html'>class rules hold</a>"
+            ],
+            [
+              "Sun protection",
+              "UPF-rated long sleeves, brimmed or flapped headwear",
+              "Plus sunscreen for face and hands — the unwearable zones"
+            ],
+            [
+              "Footwear",
+              "Breathable-upper safety trainers where the risk assessment allows",
+              "<a href='safety-boot-codes-explained.html'>S1P in breathable builds</a> exists for exactly this"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Heat stress",
+          "h2": "The bit that's not about clothes",
+          "items": [
+            {
+              "n": "Water + shade",
+              "l": "Hydration and rest breaks do more than any garment — schedule them, don't rely on thirst"
+            },
+            {
+              "n": "Early signs",
+              "l": "Headache, cramps, irritability, poor decisions — heat degrades judgement before it drops people"
+            },
+            {
+              "n": "PPE conflict",
+              "l": "FR, chem suits and helmets get harder in heat, not optional — plan task rotation instead"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Summer kit FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Can you wear shorts on a construction site?",
+          "a": "Only if the site allows it — many don't, citing impact and abrasion risk, UV exposure and task hazards, and some allow them only for specific trades or with specific risk assessments. It's a site policy question, not a legal entitlement either way. Lightweight stretch trousers are the compromise that usually survives the argument."
+        },
+        {
+          "q": "What's the best fabric for working in hot weather?",
+          "a": "Lightweight moisture-wicking synthetics (or technical blends) that spread sweat and let it evaporate — evaporation is what cools you. Heavy cotton feels natural but holds sweat against the skin. For sun exposure, light long sleeves with a UPF rating often beat bare arms on both comfort and dose."
+        },
+        {
+          "q": "Do hi-vis rules relax in summer?",
+          "a": "No — if the risk assessment says Class 2 or 3, it says so in August. The answer is summer-weight hi-vis: mesh-backed vests, lightweight polos and jackets certified to the same EN ISO 20471 classes. Compliance and comfort aren't in conflict once you buy for the season."
+        }
+      ]
+    },
+    {
+      "slug": "apprentice-kit-guide",
+      "role": "spoke",
+      "spokeType": "Buying guide",
+      "navLabel": "Apprentice kit",
+      "cardTitle": "Apprentice kit: what to buy before day one",
+      "cardBlurb": "What a first-year actually needs, what the employer must provide free, and where a tight budget should go first.",
+      "crumbTail": "Buying guides",
+      "kicker": "Buying guide · Starting out",
+      "h1": "Apprentice kit: day one, dressed right.",
+      "metaTitle": "Apprentice Workwear Kit Guide: What To Buy For Day One | iNeedWorkwear",
+      "metaDesc": "The apprentice kit list — what to buy before the first day, what employers must provide free by law, where a tight budget goes first (boots), and what not to buy until you're told.",
+      "lede": "Every September a wave of first-years turns up to site, workshop and kitchen in kit bought hopefully the weekend before — some of it wrong, some of it wasted, some of it stuff the employer was legally obliged to provide anyway. Here's the honest split: what to buy, what to wait for, and where the budget goes first.",
+      "heroMeta": [
+        {
+          "n": "Boots first",
+          "l": "The item worth the money"
+        },
+        {
+          "n": "PPE is free",
+          "l": "Required protection is the employer's bill"
+        },
+        {
+          "n": "Wait & ask",
+          "l": "Specialist kit comes with the job"
+        }
+      ],
+      "heroImage": {
+        "src": "assets/collections/footwear.webp",
+        "alt": "Black leather safety boot",
+        "kind": "cutout",
+        "w": 600,
+        "h": 600
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The legal split",
+          "h2": "What you buy vs what they provide",
+          "html": "<p>Clear the biggest confusion first: <strong>PPE that a risk assessment requires must be provided free by the employer</strong> — hard hats, required hi-vis, task gloves, eye and hearing protection, FR, and in most cases safety footwear where it's mandated. The full position is in <a href='who-pays-for-ppe.html'>who pays for PPE</a>. What apprentices genuinely end up buying is the <strong>workwear</strong> around it: trousers, tees, mid-layers, and often a first pair of boots before the employer's arrangements kick in.</p><p>So before spending: <strong>ask the employer or training provider for the kit list</strong>. A good one tells you exactly what's issued and what's yours. The list below covers the near-universal personal buys.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The list",
+          "h2": "The day-one buys, by priority",
+          "head": [
+            "Priority",
+            "Item",
+            "Buying note"
+          ],
+          "rows": [
+            [
+              "1",
+              "Safety boots — <span class='code'>S1P or S3</span>",
+              "The item worth real money: your feet do every shift — <a href='safety-boot-codes-explained.html'>the codes decoded</a>"
+            ],
+            [
+              "2",
+              "Work trousers with knee-pad pockets",
+              "Two pairs minimum for rotation — <a href='work-trousers-guide.html'>the trousers guide</a>"
+            ],
+            [
+              "3",
+              "Tees / polos ×4–5",
+              "Cheap, rotated, ruined without tears — see <a href='uniform-quantity-calculator.html'>the quantity maths</a>"
+            ],
+            [
+              "4",
+              "Mid-layer + waterproof",
+              "One hoodie or fleece, one packable shell — <a href='choosing-work-jackets.html'>the jacket logic</a>"
+            ],
+            [
+              "5",
+              "Basics kit",
+              "General-purpose gloves, beanie, decent socks — comfort is stamina"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Don't buy yet",
+          "h2": "Wait until you're told",
+          "items": [
+            {
+              "n": "Specialist PPE",
+              "l": "FR, chainsaw kit, harnesses, respirators — employer-specified, employer-funded, training-dependent"
+            },
+            {
+              "n": "Trade-specific tools of dress",
+              "l": "Chef whites, scrub colours, rail orange — the employer names brand, colour and spec"
+            },
+            {
+              "n": "Premium versions",
+              "l": "Upgrade boots in year two when you know your trade's real demands"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Apprentice FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Do apprentices have to buy their own PPE?",
+          "a": "No — PPE required by the risk assessment must be provided free of charge by the employer, apprentice or not. What apprentices commonly do buy is general workwear (trousers, tees, layers) and sometimes a first pair of safety boots before employer arrangements kick in. Ask for the kit list before spending anything."
+        },
+        {
+          "q": "What safety boots should an apprentice buy?",
+          "a": "A well-fitting S1P or S3 boot from a reputable maker — S3 if the work is outdoors in mud, S1P often suffices indoors. Fit beats features: try them on late in the day, walk properly, and spend what you can afford here rather than on logo tees. Your feet do every shift of a forty-year career."
+        },
+        {
+          "q": "How much does starter workwear cost?",
+          "a": "A sensible day-one bundle — boots, two work trousers, four or five tees, a mid-layer, a waterproof and basics — is typically low hundreds of pounds, with boots rightly the biggest single line. Buy the cheap items cheap and the boots good; upgrade everything else as the trade teaches you what it eats."
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,640 @@
+{
+  "cluster": {
+    "id": "sectors-t3",
+    "topic": "Sector guides",
+    "shopLabel": "workwear",
+    "shopUrl": "https://www.ineedworkwear.com",
+    "baseUrl": "https://www.ineedworkwear.uk",
+    "date": "2026-07-11",
+    "externalHub": {
+      "slug": "sectors",
+      "navLabel": "Sectors hub",
+      "title": "Workwear by sector",
+      "cardTitle": "Workwear by sector"
+    },
+    "trust": [
+      "Sector hazards mapped to standards",
+      "Kit lists by role, not by catalogue",
+      "Stocked nationwide",
+      "Trade accounts"
+    ],
+    "cta": {
+      "h2": "Kit the whole operation.",
+      "p": "Send the roles and headcount — we'll come back with a kit list per role, embroidered and priced.",
+      "actions": [
+        {
+          "label": "Contact us",
+          "href": "contact.html",
+          "style": "white"
+        },
+        {
+          "label": "Browse the kit directory",
+          "href": "kit.html",
+          "style": "dark"
+        }
+      ]
+    }
+  },
+  "pages": [
+    {
+      "slug": "agriculture-workwear-guide",
+      "role": "spoke",
+      "spokeType": "Sector guide",
+      "navLabel": "Agriculture",
+      "cardTitle": "Agriculture & farming workwear guide",
+      "cardBlurb": "The most hazard-diverse sector in Britain — machinery, livestock, chemicals, dust and weather, mapped to kit.",
+      "crumbTail": "Agriculture",
+      "kicker": "Sector guide · Agriculture",
+      "h1": "Agriculture: the sector that needs every chapter.",
+      "metaTitle": "Agriculture & Farming Workwear Guide: Sector Kit Map | iNeedWorkwear",
+      "metaDesc": "Farm-sector workwear mapped — machinery entanglement rules, S5 livestock wellingtons, chemical-handling PPE per product label, grain-dust respirators, weather layering and estate chainsaw kit.",
+      "lede": "Farming has one of the worst fatal-injury rates of any British industry, and its hazard list reads like the index of a safety textbook: machinery, livestock, chemicals, dust, height, weather. The workwear answer isn't one heroic garment — it's a task-mapped wardrobe the whole farm actually follows.",
+      "heroMeta": [
+        {
+          "n": "Highest-risk",
+          "l": "Among Britain's most dangerous sectors"
+        },
+        {
+          "n": "6 hazards",
+          "l": "On one payslip, most days"
+        },
+        {
+          "n": "Task-mapped",
+          "l": "Kit follows the job, not the fashion"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The sector",
+          "h2": "Why farm kit is a system, not an outfit",
+          "html": "<p>The same person might spend one day fixing a baler, the next TB-testing cattle, the third mixing spray — three unrelated hazard profiles sharing a kettle. The farms that get workwear right run it like the rest of their compliance: <strong>a short list per task</strong>, hanging where the task starts. Machinery work means fitted, snag-free kit (the PTO rule never retires); livestock means <span class='code'>S5</span> safety wellingtons and waterproofs; chemical days mean the label's PPE, read that morning; dusty barns mean <a href='en-149-ffp-ratings-explained.html'>FFP respirators</a> before the cough, not after.</p><p>Our <a href='workwear-for-farm-workers.html'>farm worker role guide</a> walks the individual's wardrobe; this page is the employer's map — including the contractors, students and seasonal staff who arrive each year with trainers and optimism.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Kit by task",
+          "h2": "The agriculture kit map",
+          "head": [
+            "Work",
+            "The kit that matters",
+            "The spec detail"
+          ],
+          "rows": [
+            [
+              "Machinery & workshop",
+              "Fitted coveralls, cut gloves, hearing protection",
+              "<a href='en-352-hearing-protection-explained.html'>EN 352</a> — dryers, saws and old cabs"
+            ],
+            [
+              "Livestock & yard",
+              "S5 wellingtons, waterproofs, gauntlets",
+              "Crush, slurry and washdown — <a href='safety-boot-codes-explained.html'>the codes</a>"
+            ],
+            [
+              "Spraying & chemicals",
+              "PPE per product label; splash or disposable coveralls",
+              "<a href='en-13034-chem-splash-explained.html'>EN 13034</a>; label beats habit"
+            ],
+            [
+              "Grain, straw & poultry dust",
+              "FFP2/FFP3, eye protection",
+              "Organic dusts sensitise lungs permanently"
+            ],
+            [
+              "Estate & forestry tasks",
+              "Certified chainsaw kit where saws run",
+              "<a href='chainsaw-protection-standards-explained.html'>The classes and types</a>"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Management notes",
+          "h2": "What farm employers get burned by",
+          "items": [
+            {
+              "n": "Seasonal staff",
+              "l": "Harvest casuals need day-one kit — hold a size run of wellingtons, hi-vis and gloves"
+            },
+            {
+              "n": "Hygiene routes",
+              "l": "Zoonoses travel on clothing — yard kit stays out of the house, and cuts stay covered"
+            },
+            {
+              "n": "Sun & cold",
+              "l": "The same workforce needs <a href='summer-workwear-guide.html'>UV-season kit</a> and <a href='base-layers-guide.html'>winter layers</a> — budget both"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Agriculture FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What workwear does a farm need to provide?",
+          "a": "PPE that task risk assessments require — safety footwear where specified, chemical-handling PPE per product labels, respirators for dusty work, hearing protection around loud plant, chainsaw kit for saw tasks — provided free to employees. General workwear (overalls, weather kit) practice varies, but the protective layer is the employer's duty."
+        },
+        {
+          "q": "Why do farms use S5 wellingtons?",
+          "a": "S5 combines a protective toe and midsole with a fully waterproof, washable boot — matching yards that are simultaneously crush-risk (hooves, gates, machinery) and slurry-wet with daily washdown. Leather site boots die fast in that chemistry; unprotected wellingtons gamble the toes."
+        },
+        {
+          "q": "What respirator is needed for grain dust?",
+          "a": "FFP2 as a working minimum and FFP3 where dust is heavy or prolonged — organic dusts from grain, straw and poultry cause permanent sensitisation and farmer's lung. Fit matters as much as rating, and disposable respirators are single-shift items in dusty barns."
+        }
+      ]
+    },
+    {
+      "slug": "automotive-trade-workwear-guide",
+      "role": "spoke",
+      "spokeType": "Sector guide",
+      "navLabel": "Automotive trade",
+      "cardTitle": "Automotive trade workwear guide",
+      "cardBlurb": "Garages, MOT bays, bodyshops and the EV wave — coverall programmes, spray-day PPE and arc-rated arrivals.",
+      "crumbTail": "Automotive",
+      "kicker": "Sector guide · Automotive trade",
+      "h1": "The automotive trade: oil-age kit, EV-age additions.",
+      "metaTitle": "Automotive Trade Workwear Guide: Garage, Bodyshop & EV Kit | iNeedWorkwear",
+      "metaDesc": "Workwear for garages and bodyshops — coverall rotation programmes, MOT-bay and service-desk uniform, spray-booth RPE and disposables, and the arc-rated kit arriving with EV high-voltage work.",
+      "lede": "The garage trade is living through its biggest kit change since the ramp replaced the pit: the oily-coverall wardrobe that served a century of combustion now shares a locker with arc-rated garments for high-voltage EV work. Both wardrobes have rules worth knowing.",
+      "heroMeta": [
+        {
+          "n": "Rotation",
+          "l": "Coveralls cycle through wash, or fail"
+        },
+        {
+          "n": "Spray day",
+          "l": "Booth work is RPE territory"
+        },
+        {
+          "n": "HV arriving",
+          "l": "Arc ratings enter the garage"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The sector",
+          "h2": "Three rooms, three rulebooks",
+          "html": "<p><strong>The workshop floor</strong> runs on the classic list — coveralls or two-piece kit in rotation (the <a href='oil-grease-out-of-workwear.html'>oil-saturation rule</a> decides replacement), nitrile disposables under work gloves for fluid jobs, S1P footwear, and eye protection that actually goes on for grinding and under-car work. Our <a href='workwear-for-mechanics.html'>mechanic's role guide</a> covers the individual kit in detail.</p><p><strong>The bodyshop</strong> adds chemistry: isocyanate paints make spray booths air-fed-RPE territory under COSHH, with <a href='disposable-ppe-guide.html'>disposable coveralls</a> and nitrile gloves for prep and blow-down — the sector's most regulated corner, run to the booth's rules. <strong>And the EV bay</strong> imports electrical-trade discipline: <a href='iec-61482-arc-flash-explained.html'>IEC 61482 arc-rated</a> garments and insulating gloves for authorised technicians on live high-voltage tasks, with everyone else's kit unchanged but their task boundaries newly sharp.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Kit by role",
+          "h2": "The automotive kit map",
+          "head": [
+            "Role",
+            "The kit that matters",
+            "The spec detail"
+          ],
+          "rows": [
+            [
+              "Technicians",
+              "Coveralls/two-piece in rotation, nitrile, S1P",
+              "<a href='oil-grease-out-of-workwear.html'>Oil-day laundering</a> sets the cycle"
+            ],
+            [
+              "MOT testers & valeters",
+              "Fitted kit, wet-work gloves, grippy footwear",
+              "Wet floors and customer cars all day"
+            ],
+            [
+              "Bodyshop prep & paint",
+              "Disposable coveralls, gloves; booth RPE regime",
+              "Isocyanates: the booth's COSHH rules lead"
+            ],
+            [
+              "EV-authorised techs",
+              "Arc-rated layer + insulating gloves for HV tasks",
+              "<a href='iec-61482-arc-flash-explained.html'>IEC 61482 decoded</a>"
+            ],
+            [
+              "Service desk & parts",
+              "Embroidered polos, softshells",
+              "The customer-facing <a href='front-of-house-uniform-guide.html'>FOH logic</a>"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Management notes",
+          "h2": "What garage owners get burned by",
+          "items": [
+            {
+              "n": "Skin",
+              "l": "Oil dermatitis is the trade disease — nitrile under gloves and coveralls that actually rotate"
+            },
+            {
+              "n": "The HV boundary",
+              "l": "Arc kit is per-authorisation, not per-garage — map who does live HV work before buying"
+            },
+            {
+              "n": "Brand front",
+              "l": "Customers judge the workshop by the service desk — uniform both sides of the counter"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Automotive FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What workwear do mechanics need?",
+          "a": "Coveralls or two-piece workwear bought in rotation quantities (oil saturation retires them), nitrile disposables under task gloves for fluid work, S1P safety footwear, and eye protection for grinding and under-car tasks. The garage's real challenge is rotation discipline, not garment choice."
+        },
+        {
+          "q": "What PPE is needed for spray painting cars?",
+          "a": "Two-pack paints contain isocyanates, so booth spraying runs under COSHH controls with air-fed respiratory protection, disposable coveralls and nitrile gloves — governed by the booth's regime and the paint system's data sheets. Prep and blow-down outside the booth still need disposables and RPE per assessment."
+        },
+        {
+          "q": "Do EV mechanics need special clothing?",
+          "a": "Technicians authorised for live or potentially-live high-voltage work increasingly wear IEC 61482 arc-rated garments with insulating gloves and face protection for those tasks. Routine work on isolated vehicles continues in ordinary workshop kit — the authorisation boundary, set by training and the workshop's procedures, is where the wardrobe changes."
+        }
+      ]
+    },
+    {
+      "slug": "waste-recycling-workwear-guide",
+      "role": "spoke",
+      "spokeType": "Sector guide",
+      "navLabel": "Waste & recycling",
+      "cardTitle": "Waste & recycling workwear guide",
+      "cardBlurb": "One of Britain's highest-injury sectors — needle-resistant gloves, Class 3 defaults and kit that gets contaminated for a living.",
+      "crumbTail": "Waste",
+      "kicker": "Sector guide · Waste & recycling",
+      "h1": "Waste & recycling: kit for the sharp end, literally.",
+      "metaTitle": "Waste & Recycling Workwear Guide: Sector Kit Map | iNeedWorkwear",
+      "metaDesc": "Workwear for waste and recycling — needle- and cut-resistant gloves for picking lines, Class 3 hi-vis around collection vehicles, S5 footwear, FFP protection for bioaerosols and contaminated-kit laundering.",
+      "lede": "Waste and recycling carries one of the highest injury rates of any British sector, and its hazards are democratic: everything the public throws away — glass, needles, chemicals, dead batteries — passes through someone's gloved hands or past someone's boots. The kit list is built around what's hidden in the bag.",
+      "heroMeta": [
+        {
+          "n": "Top-decile",
+          "l": "Injury rates few sectors match"
+        },
+        {
+          "n": "Needle-rated",
+          "l": "Gloves for what the bag hides"
+        },
+        {
+          "n": "Class 3",
+          "l": "The collection-round default"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The sector",
+          "h2": "Designed around the unknown object",
+          "html": "<p>Most industries know their hazards; waste handles <strong>everyone else's</strong>, unsorted. That's why the sector's glove spec goes beyond the usual cut letters into <strong>needle- and puncture-resistant</strong> constructions for picking lines and litter work (<a href='en-388-glove-ratings-decoder.html'>EN 388</a> covers cut and puncture; needlestick-specific ratings come from supplementary tests worth asking suppliers to evidence). Footwear follows the same logic — <span class='code'>S5</span> wellingtons or S3 boots with midsole protection, because standing on the unknown is the job description.</p><p><strong>Visibility is the other constant.</strong> Collection rounds put crews in live traffic hundreds of times a shift — <a href='class-2-vs-class-3-hi-vis.html'>Class 3</a> is the sector default, worn as jackets and two-piece kit that still meets class when the jacket comes off. At transfer stations and MRFs, add <a href='en-149-ffp-ratings-explained.html'>FFP respirators</a> for dust and bioaerosols, eye protection on picking lines, and the quiet rule the sector learned the hard way: <strong>work kit is contaminated kit</strong> — employer-managed laundering, not the family machine.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Kit by role",
+          "h2": "The waste-sector kit map",
+          "head": [
+            "Role",
+            "The kit that matters",
+            "The spec detail"
+          ],
+          "rows": [
+            [
+              "Collection crews",
+              "Class 3 hi-vis, grip gloves, S3 boots",
+              "Traffic + lifting + weather, simultaneously"
+            ],
+            [
+              "MRF picking lines",
+              "Needle/puncture-resistant gloves, FFP, eye protection",
+              "Ask for needlestick test evidence, not adjectives"
+            ],
+            [
+              "HWRC site staff",
+              "Hi-vis, cut gloves, public-facing embroidered kit",
+              "Half traffic marshal, half customer service"
+            ],
+            [
+              "Drivers & plant operators",
+              "Hi-vis, fitted cab kit, S3",
+              "In-and-out of cabs is the injury moment"
+            ],
+            [
+              "Washdown & maintenance",
+              "Waterproofs, chemical gloves where dosed",
+              "<a href='en-13034-chem-splash-explained.html'>Splash logic</a> at wash bays"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Management notes",
+          "h2": "What waste employers get burned by",
+          "items": [
+            {
+              "n": "Laundering",
+              "l": "Contaminated kit doesn't go home — managed laundering is part of the control, not a perk"
+            },
+            {
+              "n": "Glove spend",
+              "l": "The consumable budget IS the safety budget — cheap gloves on a picking line is a needlestick invoice"
+            },
+            {
+              "n": "Hydration & sun",
+              "l": "Rounds are outdoor athletics — <a href='summer-workwear-guide.html'>summer kit</a> and winter layers both matter"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Waste sector FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What gloves are used in recycling plants?",
+          "a": "Picking lines specify cut-resistant gloves with genuine puncture performance, and increasingly needle-resistant constructions tested against hypodermic penetration — ask suppliers for the test evidence rather than the adjective. Grip and dexterity still matter, because the job is continuous handling."
+        },
+        {
+          "q": "Why do waste collectors wear Class 3 hi-vis?",
+          "a": "Collection crews work in and beside live traffic continuously, in all light conditions — the highest-visibility class is the sector default, usually as jackets and two-piece combinations that keep class compliance even when layers come off. Vehicle blind spots make conspicuity a life-safety item here."
+        },
+        {
+          "q": "Should waste workers wash their own workwear?",
+          "a": "No — kit from waste handling is treated as contaminated, and laundering is managed by the employer or its laundry rather than sent home. It's the same logic as clinical uniforms: the washing machine is part of the exposure control chain."
+        }
+      ]
+    },
+    {
+      "slug": "utilities-workwear-guide",
+      "role": "spoke",
+      "spokeType": "Sector guide",
+      "navLabel": "Utilities",
+      "cardTitle": "Utilities workwear guide",
+      "cardBlurb": "Power, gas and water networks — streetworks hi-vis, arc and FR ratings by discipline, and kit for every weather.",
+      "crumbTail": "Utilities",
+      "kicker": "Sector guide · Utilities",
+      "h1": "Utilities: three networks, three clothing specs.",
+      "metaTitle": "Utilities Workwear Guide: Power, Gas & Water Kit | iNeedWorkwear",
+      "metaDesc": "Workwear for utilities — streetworks hi-vis as the shared baseline, IEC 61482 arc-rated kit for electricity networks, FR and antistatic for gas, waterproofs for water and wastewater crews.",
+      "lede": "Utilities crews share the same holes in the same pavements, but the energy inside the hole writes three different clothing specs: arc ratings for electricity, flame resistance for gas, and hygiene-plus-waterproofing for water. The streetworks baseline is common; the protective layer is discipline-specific.",
+      "heroMeta": [
+        {
+          "n": "Streetworks",
+          "l": "The shared hi-vis baseline"
+        },
+        {
+          "n": "Arc / FR",
+          "l": "The layer the network decides"
+        },
+        {
+          "n": "All weather",
+          "l": "Faults don't check forecasts"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The sector",
+          "h2": "One baseline, three overlays",
+          "html": "<p><strong>The shared baseline</strong> is streetworks: work on or beside highways means hi-vis to the network's rules — Class 2 minimum, <a href='class-2-vs-class-3-hi-vis.html'>Class 3</a> on faster roads — plus S3 boots, helmets and weather kit, because network faults are found in the rain that caused them. Signing, lighting and guarding competence comes with its own training; the clothing rules ride alongside.</p><p><strong>The overlays:</strong> <strong>electricity network</strong> work brings <a href='iec-61482-arc-flash-explained.html'>IEC 61482 arc-rated</a> garments — often as everyday wear for authorised staff, not just task kit — with ratings and layering set by each operator's policies. <strong>Gas network</strong> work brings <a href='fr-workwear-guide.html'>FR</a> with <a href='en-1149-5-antistatic-explained.html'>antistatic</a> performance for live-gas environments. <strong>Water and wastewater</strong> swaps energy for biology: waterproofs, S5 wellingtons for wet chambers, gauntlets and hygiene discipline against sewage contact, with confined-space equipment employer-issued per entry procedures.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Kit by network",
+          "h2": "The utilities kit map",
+          "head": [
+            "Network",
+            "The kit that matters",
+            "The spec detail"
+          ],
+          "rows": [
+            [
+              "All streetworks",
+              "Class 2–3 hi-vis, S3 boots, weather layers",
+              "The shared baseline, per network rules"
+            ],
+            [
+              "Electricity",
+              "Arc-rated garments and layers",
+              "<span class='code'>IEC 61482</span> — operator policy sets ratings"
+            ],
+            [
+              "Gas",
+              "FR + antistatic garments",
+              "<a href='en-1149-5-antistatic-explained.html'>EN 1149-5</a> joins <a href='fr-workwear-guide.html'>the FR base</a>"
+            ],
+            [
+              "Water & wastewater",
+              "Waterproofs, S5 wellingtons, gauntlets",
+              "Hygiene rules after sewage contact"
+            ],
+            [
+              "Metering & domestic visits",
+              "Smart embroidered kit, bump caps",
+              "<a href='en-812-bump-caps-explained.html'>EN 812</a> for lofts, cellars and voids"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Management notes",
+          "h2": "What utilities employers get burned by",
+          "items": [
+            {
+              "n": "Layer discipline",
+              "l": "Arc and FR ratings assume the certified layers are worn together — a polyester hoodie under FR breaks the system"
+            },
+            {
+              "n": "Storm response",
+              "l": "Emergency callout kit lives ready-bagged — <a href='reproofing-waterproofs.html'>maintained waterproofs</a>, spares, thermals"
+            },
+            {
+              "n": "Public face",
+              "l": "Crews on domestic doorsteps carry the brand — embroidered, identifiable kit reduces doorstep friction"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Utilities FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What is the difference between power and gas network workwear?",
+          "a": "The protective layer: electricity network staff wear arc-rated (IEC 61482) garments against arc-flash energy, while gas network staff wear flame-resistant kit with antistatic (EN 1149-5) performance against ignition in live-gas environments. The streetworks hi-vis baseline underneath is the same."
+        },
+        {
+          "q": "Why do utility workers wear arc-rated clothing every day?",
+          "a": "Because network faults don't schedule themselves — many operators specify arc-rated garments as everyday uniform for authorised staff so the protection is simply always on, rather than relying on someone changing clothes before an emergency switching operation. The operator's policy sets the required ratings."
+        },
+        {
+          "q": "What do water company workers wear?",
+          "a": "Streetworks hi-vis and S3 boots as baseline, with waterproofs and S5 safety wellingtons for chamber and wet-well work, gauntlets and strict hygiene routines around sewage, and employer-issued confined-space equipment where entries happen. The biology, not the voltage, is the hazard being dressed for."
+        }
+      ]
+    },
+    {
+      "slug": "veterinary-animal-care-workwear-guide",
+      "role": "spoke",
+      "spokeType": "Sector guide",
+      "navLabel": "Veterinary & animal care",
+      "cardTitle": "Veterinary & animal care workwear guide",
+      "cardBlurb": "Scrubs that survive claws and chemistry, large-animal wellington kit and the laundering rules clinics share with hospitals.",
+      "crumbTail": "Veterinary",
+      "kicker": "Sector guide · Veterinary & animal care",
+      "h1": "Veterinary & animal care: clinical kit with claws.",
+      "metaTitle": "Veterinary & Animal Care Workwear Guide | iNeedWorkwear",
+      "metaDesc": "Workwear for veterinary practices, kennels and animal care — scrubs and tunics that survive claws and cleaning chemistry, large-animal wellingtons and waterproofs, hygiene laundering and grooming-salon kit.",
+      "lede": "Veterinary work is healthcare where the patients bite, shed and don't undress: the wardrobe borrows from the hospital (scrubs, hygiene laundering) and the farm (wellingtons, waterproofs), then adds its own realities — claw-resistant fabric weights, fur that embeds in knits, and cleaning chemistry that eats cheap garments.",
+      "heroMeta": [
+        {
+          "n": "Hospital + farm",
+          "l": "Two wardrobes in one job"
+        },
+        {
+          "n": "60 °C logic",
+          "l": "Clinic laundering mirrors clinical rules"
+        },
+        {
+          "n": "Claw-tested",
+          "l": "Fabric weight is armour here"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The sector",
+          "h2": "Clinical rules, animal amendments",
+          "html": "<p><strong>Small-animal practice</strong> runs on scrubs and tunics with hospital-grade laundering logic — hot washes, separate loads, garments rated for the policy (the same rules as <a href='laundering-scrubs.html'>human clinical kit</a>, for the same infection-control reasons, plus zoonoses). The animal amendments: <strong>heavier fabric weights</strong> that survive claws and teeth, smooth tight weaves that fur slides off rather than embeds in (the <a href='tunic-vs-scrubs.html'>tunic-vs-scrubs</a> choice runs on this), and colours that forgive the day's biology.</p><p><strong>Large-animal and farm calls</strong> flip the wardrobe: waterproofs, <span class='code'>S5</span> safety wellingtons (a horse or cow finds unprotected feet eventually), parlour-proof over-trousers and gauntlets — kit that lives in the car and hoses down between farms, which is itself a biosecurity duty. <strong>Kennels, catteries and grooming</strong> sit between: washable everything, waterproof aprons for bathing, and grooming's occupational extra — clipped fur and full-day standing — which puts it closer to <a href='workwear-for-hairdressers-barbers.html'>salon kit logic</a> than either expects.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Kit by setting",
+          "h2": "The animal-care kit map",
+          "head": [
+            "Setting",
+            "The kit that matters",
+            "The spec detail"
+          ],
+          "rows": [
+            [
+              "Small-animal clinic",
+              "Scrubs/tunics in rotation, non-slip footwear",
+              "<a href='laundering-scrubs.html'>Hot-wash laundering</a>; heavier fabric vs claws"
+            ],
+            [
+              "Large-animal & farm calls",
+              "Waterproofs, S5 wellingtons, gauntlets",
+              "Hose-down kit — biosecurity between holdings"
+            ],
+            [
+              "Kennels & catteries",
+              "Washable kit, waterproof aprons, grip footwear",
+              "Wet floors and daily disinfectant chemistry"
+            ],
+            [
+              "Grooming",
+              "Smooth-weave tunics, waterproof aprons",
+              "Fur-shedding fabrics — <a href='workwear-for-hairdressers-barbers.html'>salon logic</a> applies"
+            ],
+            [
+              "Reception & front of house",
+              "Embroidered polos or FOH kit",
+              "<a href='front-of-house-uniform-guide.html'>The FOH guide</a> — clients judge the desk"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Management notes",
+          "h2": "What practices get burned by",
+          "items": [
+            {
+              "n": "Rotation depth",
+              "l": "An animal can ruin a set before 9am — clinical staff need more sets than office maths suggests"
+            },
+            {
+              "n": "Chemistry",
+              "l": "Kennel disinfectants fade and weaken cheap fabrics — buy garments rated for daily hot washing"
+            },
+            {
+              "n": "Zoonoses",
+              "l": "Work kit stays at work where policy says so — the laundering rules are infection control, not preference"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Veterinary FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What do veterinary nurses wear?",
+          "a": "Scrubs or tunics in practice colours, bought in heavier fabric weights than human-clinical equivalents (claws and teeth are daily), with non-slip washable footwear and rotation depth that survives an animal ruining a set before morning surgery. Laundering follows hot-wash, separate-load clinical rules."
+        },
+        {
+          "q": "What should a vet wear for farm visits?",
+          "a": "Waterproof over-trousers or bib kit, S5 safety wellingtons, gauntlets for obstetric and messy work, and layers under a hoseable shell — everything cleanable between holdings, because kit hygiene between farms is a biosecurity duty as well as a comfort one."
+        },
+        {
+          "q": "Why do animal-care uniforms wear out so fast?",
+          "a": "Three compounding attackers: claws and teeth stress fabric mechanically, daily hot washing ages it thermally, and kennel disinfectant chemistry fades and weakens fibres. The answer is buying garments rated for industrial-style laundering, in rotation quantities that spread the punishment."
+        }
+      ]
+    }
+  ]
+}

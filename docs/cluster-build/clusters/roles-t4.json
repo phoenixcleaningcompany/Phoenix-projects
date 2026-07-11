@@ -1,0 +1,760 @@
+{
+  "cluster": {
+    "id": "roles-t4",
+    "topic": "Role guides",
+    "shopLabel": "workwear",
+    "shopUrl": "https://www.ineedworkwear.com",
+    "baseUrl": "https://www.ineedworkwear.uk",
+    "date": "2026-07-11",
+    "externalHub": {
+      "slug": "roles",
+      "navLabel": "Roles hub",
+      "title": "Workwear by role",
+      "cardTitle": "Workwear by role"
+    },
+    "trust": [
+      "Written from the job backwards",
+      "Standards named per item",
+      "Stocked and embroidered",
+      "Trade accounts"
+    ],
+    "cta": {
+      "h2": "Kit the crew.",
+      "p": "Everything in this guide is stocked, embroiderable and priced for teams — send the headcount.",
+      "actions": [
+        {
+          "label": "Browse the kit directory",
+          "href": "kit.html",
+          "style": "white"
+        },
+        {
+          "label": "Contact us",
+          "href": "contact.html",
+          "style": "dark"
+        }
+      ]
+    }
+  },
+  "pages": [
+    {
+      "slug": "workwear-for-scaffolders",
+      "role": "spoke",
+      "spokeType": "Role guide",
+      "navLabel": "Scaffolders",
+      "cardTitle": "Workwear for scaffolders",
+      "cardBlurb": "Kit that works under a harness at height in weather — trousers that climb, gloves that grip steel, layers that vent.",
+      "crumbTail": "Scaffolders",
+      "kicker": "Role guide · Scaffolding",
+      "h1": "What scaffolders actually wear.",
+      "metaTitle": "Workwear for Scaffolders: Harness-Friendly Kit That Climbs | iNeedWorkwear",
+      "metaDesc": "Scaffolder workwear from the job backwards — harness-compatible layers, stretch trousers that climb, grip gloves for tube and fittings, S3 boots with shank support and all-weather hi-vis.",
+      "lede": "Scaffolding is climbing with cargo: tube, boards and fittings moved by hand, at height, in whatever the sky is doing, with a harness over everything. The kit list is written by three facts — everything must work under a harness, everything must move like sportswear, and hands are the tools.",
+      "heroMeta": [
+        {
+          "n": "Under harness",
+          "l": "Layers that don't bunch at the legs and chest"
+        },
+        {
+          "n": "4-way stretch",
+          "l": "Trousers are climbing kit"
+        },
+        {
+          "n": "Grip",
+          "l": "Galvanised steel, wet, all day"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The job",
+          "h2": "Harness first, wardrobe second",
+          "html": "<p>Everything a scaffolder wears interacts with the harness. Bulky jackets bunch under leg loops and chest straps; loose hoods foul the dorsal attachment; slippery shell fabrics let straps migrate. The working answer is <strong>slim, stretchy layers</strong> — fitted softshells and fleeces rather than padded bulk, with the waterproof shell cut to sit under or over the harness per the firm's policy (the harness itself, and its inspection, is employer-issued fall-protection territory, not a workwear purchase).</p><p><strong>Trousers are the signature item</strong>: four-way stretch, holster pockets that close (loose fittings fall — see the FOD logic every trade at height shares), reinforced knees, and cut high enough at the back that climbing doesn't expose skin to a December wind. Scaffolders burn through trousers like consumables; buy the <a href='work-trousers-guide.html'>trousers guide</a>'s durable end.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The list",
+          "h2": "The scaffolder kit map",
+          "head": [
+            "Item",
+            "The spec",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Trousers",
+              "4-way stretch, holster pockets, knee zones",
+              "Climbing kit that carries fittings"
+            ],
+            [
+              "Gloves",
+              "Grip-palm, <span class='code'>EN 388</span> cut level B+",
+              "Wet galvanised tube — <a href='en-388-glove-ratings-decoder.html'>the letters</a>"
+            ],
+            [
+              "Boots",
+              "S3 with a supportive shank",
+              "All-day standing on tube — <a href='safety-boot-codes-explained.html'>the codes</a>"
+            ],
+            [
+              "Hi-vis",
+              "Class 2 minimum per site, fitted cut",
+              "Draped hi-vis snags on standards — <a href='class-2-vs-class-3-hi-vis.html'>class logic</a>"
+            ],
+            [
+              "Layers",
+              "Fitted base/mid, packable shell",
+              "<a href='base-layers-guide.html'>Wicking base</a>; exposed elevations are wind tunnels"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "The details",
+          "h2": "Three scaffolder-specific truths",
+          "items": [
+            {
+              "n": "Winter hands",
+              "l": "Thermal grip gloves (<a href='en-511-winter-gloves-explained.html'>EN 511</a>) — cold steel strips dexterity in minutes"
+            },
+            {
+              "n": "No snag points",
+              "l": "Drawcords, loose hoods and dangling ID lanyards are catch hazards at height"
+            },
+            {
+              "n": "Weather is the shift",
+              "l": "There's no indoors — <a href='reproofing-waterproofs.html'>maintained waterproofs</a> or a wet week"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Scaffolder FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What trousers do scaffolders wear?",
+          "a": "Stretch work trousers with closing holster pockets, reinforced knees and a high back rise — effectively climbing trousers that carry fittings. Durability matters (scaffolding eats fabric on tube and boards), and pockets must close so nothing falls from height."
+        },
+        {
+          "q": "What gloves are best for scaffolding?",
+          "a": "Grip-palmed gloves with genuine cut resistance (EN 388 cut level B or better) and enough dexterity for fittings work — with a thermal EN 511-rated version for winter, because cold galvanised steel drains hands fast. Scaffolders go through gloves quickly; buy by the box."
+        },
+        {
+          "q": "Does workwear need to be harness-compatible?",
+          "a": "Yes in practice: slim fitted layers that don't bunch under leg loops or chest straps, no loose hoods around the dorsal point, and shells worn per the firm's harness policy. The harness and fall-arrest kit itself is employer-issued and inspected equipment, separate from the workwear order."
+        }
+      ]
+    },
+    {
+      "slug": "workwear-for-gas-engineers",
+      "role": "spoke",
+      "spokeType": "Role guide",
+      "navLabel": "Gas engineers",
+      "cardTitle": "Workwear for gas engineers",
+      "cardBlurb": "Doorstep-professional kit that kneels behind boilers — smart polos, knee protection and the flame-awareness question.",
+      "crumbTail": "Gas engineers",
+      "kicker": "Role guide · Gas engineering",
+      "h1": "What gas engineers actually wear.",
+      "metaTitle": "Workwear for Gas Engineers: Domestic & Commercial Kit | iNeedWorkwear",
+      "metaDesc": "Gas engineer workwear — customer-facing smart kit that survives kneeling behind boilers, EN 14404 knee protection, when FR enters the picture, and the van-life buying pattern.",
+      "lede": "A domestic gas engineer's day is a series of first impressions followed by an hour on someone's kitchen floor: the kit has to read professional at the door, kneel comfortably behind a boiler, and carry the ID that proves registration. Commercial and industrial gas work adds a second, hotter wardrobe question.",
+      "heroMeta": [
+        {
+          "n": "Doorstep",
+          "l": "The uniform IS the credibility"
+        },
+        {
+          "n": "EN 14404",
+          "l": "Knees are the working surface"
+        },
+        {
+          "n": "FR line",
+          "l": "Domestic no, industrial often yes"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The job",
+          "h2": "Professional at the door, practical on the floor",
+          "html": "<p>Domestic gas work is <strong>customer-facing trade work</strong> — the embroidered polo or softshell with the company name does real commercial work at the doorstep, alongside the Gas Safe ID card the customer should be checking. Below the waist the job is physical: boiler work happens kneeling in tight spots, so <strong>trousers with EN 14404 knee-pad pockets</strong> (and inserts actually fitted — <a href='en-14404-knee-protection-explained.html'>the standard decoded</a>) plus holster pockets for the constant small tools.</p><p><strong>The FR question:</strong> routine domestic installation and service on isolated appliances is not FR work, and smart poly-cotton kit is the norm. The line moves in <strong>commercial, industrial and network</strong> settings — plant rooms, live-gas environments, anywhere the employer's or site's risk assessment names flame or flash risk — where <a href='fr-workwear-guide.html'>FR garments</a> and sometimes <a href='en-1149-5-antistatic-explained.html'>antistatic ratings</a> appear on the list. The employer's assessment, not habit, draws it.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The list",
+          "h2": "The gas engineer kit map",
+          "head": [
+            "Item",
+            "The spec",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Polos / softshell",
+              "Embroidered, smart, dark colours",
+              "Doorstep credibility; soot and flux forgive navy"
+            ],
+            [
+              "Trousers",
+              "Knee-pad pockets + <span class='code'>EN 14404</span> inserts",
+              "The job is on its knees half the day"
+            ],
+            [
+              "Footwear",
+              "S1P or S3, clean-looking",
+              "Customer homes — a boot that wipes matters"
+            ],
+            [
+              "Gloves",
+              "Dexterity gloves; heat-rated for hot parts",
+              "<a href='en-407-heat-gloves-explained.html'>EN 407</a> for just-run appliances"
+            ],
+            [
+              "Outer layer",
+              "Softshell or shell for van-to-door weather",
+              "<a href='choosing-work-jackets.html'>The jacket logic</a>"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "The details",
+          "h2": "Three trade-specific notes",
+          "items": [
+            {
+              "n": "Overshoes & mats",
+              "l": "Disposable overshoes and a kneel mat are cheap goodwill in finished homes"
+            },
+            {
+              "n": "Rotation",
+              "l": "Customer-facing kit must look fresh — <a href='uniform-quantity-calculator.html'>the sets maths</a> applies double"
+            },
+            {
+              "n": "Commercial line",
+              "l": "Plant-room and network work: read the site rules — FR and antistatic may be required"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Gas engineer FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Do gas engineers need flame-resistant clothing?",
+          "a": "For routine domestic installation and servicing on isolated appliances, generally no — smart, durable workwear is the norm. FR (and sometimes antistatic) requirements appear in commercial, industrial and gas-network environments where the risk assessment names flame or flash hazards. The employer's or site's assessment is the deciding document."
+        },
+        {
+          "q": "What do gas engineers wear to look professional?",
+          "a": "Embroidered polos or softshells in dark, forgiving colours with the company identity clear — supporting the Gas Safe ID card customers should ask to see — plus clean-looking trousers and wipeable safety footwear. In customer-facing trades the uniform is part of the service; rotation quantities keep it looking that way."
+        },
+        {
+          "q": "What knee protection do boiler engineers need?",
+          "a": "Work trousers with EN 14404-certified knee-pad inserts fitted in their pockets — Level 1 covers most domestic floors — or a separate kneel mat for finished interiors. Knees are a gas engineer's working surface; unprotected kneeling is how the trade buys its bursitis."
+        }
+      ]
+    },
+    {
+      "slug": "workwear-for-telecoms-engineers",
+      "role": "spoke",
+      "spokeType": "Role guide",
+      "navLabel": "Telecoms engineers",
+      "cardTitle": "Workwear for telecoms engineers",
+      "cardBlurb": "Poles, chambers and doorsteps — streetworks hi-vis, kneeling-in-water kit and gloves for copper, fibre and gel.",
+      "crumbTail": "Telecoms",
+      "kicker": "Role guide · Telecoms & fibre",
+      "h1": "What telecoms engineers actually wear.",
+      "metaTitle": "Workwear for Telecoms & Fibre Engineers: Street & Pole Kit | iNeedWorkwear",
+      "metaDesc": "Telecoms engineer workwear — streetworks hi-vis, waterproof over-trousers for chamber work, climbing-compatible layers for poles, glove choices for copper, fibre and cable gel, and doorstep kit.",
+      "lede": "The fibre rollout put thousands of engineers on Britain's pavements, poles and underground chambers — a job that mixes streetworks, climbing, kneeling in water and customer doorsteps, often before lunch. The kit list borrows from four trades at once.",
+      "heroMeta": [
+        {
+          "n": "Street + pole",
+          "l": "Two work-at-height and traffic regimes"
+        },
+        {
+          "n": "Chambers",
+          "l": "Kneeling in whatever's down there"
+        },
+        {
+          "n": "Fibre & gel",
+          "l": "Gloves have three different jobs"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The job",
+          "h2": "Four environments, one van",
+          "html": "<p><strong>The street</strong> makes the base layer of rules: work beside live traffic means hi-vis to the network's streetworks standard — Class 2 as the working floor, <a href='class-2-vs-class-3-hi-vis.html'>Class 3 kit</a> where speeds and network rules demand — worn over everything, all day. <strong>The pole</strong> adds climbing: fitted layers that move, nothing that snags on steps or fouls the belt, and the operator's own training and equipment rules for the height work itself. <strong>The chamber</strong> is the wet one — footway boxes hold water, mud and worse, so waterproof over-trousers or bib-and-brace plus <a href='en-14404-knee-protection-explained.html'>knee protection</a> turn an unpleasant task into a merely muddy one. And <strong>the doorstep</strong> finishes the day: embroidered, presentable kit for the in-home install, with overshoes in the pocket.</p><p><strong>Gloves split three ways:</strong> cut-rated (<a href='en-388-glove-ratings-decoder.html'>EN 388</a>) for cable and hardware, nitrile disposables for jointing gel and grease, and thin-dexterity gloves — or clean dry hands — for fibre splicing, where feel is everything.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The list",
+          "h2": "The telecoms kit map",
+          "head": [
+            "Item",
+            "The spec",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Hi-vis",
+              "Class 2–3 per network streetworks rules",
+              "Pavement work is traffic work"
+            ],
+            [
+              "Over-trousers / bib",
+              "Waterproof, tough-kneed",
+              "Chamber work is kneeling in water"
+            ],
+            [
+              "Layers",
+              "Fitted, climbing-friendly, wicking",
+              "<a href='base-layers-guide.html'>Base layers</a> under weather shells"
+            ],
+            [
+              "Gloves ×3",
+              "Cut-rated / nitrile / dexterity",
+              "Cable, gel and fibre are different hand jobs"
+            ],
+            [
+              "Footwear",
+              "S3 with real grip",
+              "Wet footway boxes, ladder rungs, verges"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "The details",
+          "h2": "Three trade-specific notes",
+          "items": [
+            {
+              "n": "Winter chambers",
+              "l": "Cold wet hands end fine work — <a href='en-511-winter-gloves-explained.html'>EN 511</a> liners under task gloves"
+            },
+            {
+              "n": "Van as wardrobe",
+              "l": "Dry spares live in the van; a soaked engineer at 10am has six hours left"
+            },
+            {
+              "n": "Doorstep kit",
+              "l": "Embroidered softshell + overshoes — the install is a guest appearance"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Telecoms FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What hi-vis do fibre engineers need?",
+          "a": "Hi-vis to their network's streetworks requirements — Class 2 as the common floor for footway work, Class 3 garments where road speeds and operator rules require more. It's worn over everything all day, so buy the comfortable, fitted versions rather than the cheapest tabard."
+        },
+        {
+          "q": "What do engineers wear for underground chamber work?",
+          "a": "Waterproof over-trousers or bib-and-brace with knee protection (EN 14404 inserts or a kneel pad), cut-rated gloves for hardware, nitrile disposables for jointing gel, and S3 boots with grip. Footway chambers hold water year-round — the kit assumes wet, not hopes for dry."
+        },
+        {
+          "q": "What gloves are used for fibre splicing?",
+          "a": "Splicing itself wants clean, dry, high-feel hands — thin dexterity gloves or bare hands per training — while the surrounding work uses cut-rated gloves for cable and hardware and nitrile disposables for gel and grease. Engineers carry all three; each has a different job."
+        }
+      ]
+    },
+    {
+      "slug": "workwear-for-farm-workers",
+      "role": "spoke",
+      "spokeType": "Role guide",
+      "navLabel": "Farm workers",
+      "cardTitle": "Workwear for farm workers",
+      "cardBlurb": "Livestock, machinery, chemicals and weather on one payslip — the most mixed kit list in British work.",
+      "crumbTail": "Agriculture",
+      "kicker": "Role guide · Farm work",
+      "h1": "What farm workers actually wear.",
+      "metaTitle": "Workwear for Farm Workers: Livestock, Machinery & Weather Kit | iNeedWorkwear",
+      "metaDesc": "Farm workwear from the job backwards — safety wellingtons for livestock, entanglement-safe fitted kit for machinery, PPE for chemical handling per product label, grain-dust respirators and all-weather layers.",
+      "lede": "Farming compresses more distinct hazards into one job than any other British trade: machinery that entangles, livestock that crushes, chemicals with their own PPE small-print, dust that sensitises lungs, and weather as a permanent colleague. No single garment covers it — the skill is matching kit to the day's tasks.",
+      "heroMeta": [
+        {
+          "n": "S5",
+          "l": "Safety wellingtons — the yard default"
+        },
+        {
+          "n": "Fitted",
+          "l": "Loose clothing + PTO shafts = the old story"
+        },
+        {
+          "n": "Per label",
+          "l": "Chemical PPE comes off the product, not habit"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The job",
+          "h2": "Task-by-task, not one-outfit",
+          "html": "<p><strong>Machinery sets the silhouette:</strong> the oldest rule in agriculture — no loose clothing near PTO shafts, balers and augers — still writes the spec: fitted garments, zipped not flapping, drawcords removed or tucked. <strong>Livestock sets the footwear:</strong> steel or composite-toe <span class='code'>S5</span> safety wellingtons, because a cow's hoof finds an unprotected foot eventually, and yards are washed-down, slurry-slick surfaces where grip is non-negotiable (<a href='safety-boot-codes-explained.html'>the codes</a> cover S4/S5).</p><p><strong>Chemicals come with their own law:</strong> plant-protection products specify their required PPE on the product label and safety data sheet — commonly nitrile gauntlets, face protection, and <a href='en-13034-chem-splash-explained.html'>splash-rated</a> or disposable coveralls for mixing and loading, with certificated training governing who sprays at all. And <strong>dust is the sleeper hazard</strong>: grain stores, straw work and poultry sheds put organic dusts into lungs that sensitise permanently — <a href='en-149-ffp-ratings-explained.html'>FFP2/FFP3 respirators</a> belong in the everyday kit, not the someday kit.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The list",
+          "h2": "The farm kit map",
+          "head": [
+            "Task",
+            "The kit that matters",
+            "The spec detail"
+          ],
+          "rows": [
+            [
+              "Yard & livestock",
+              "S5 safety wellingtons, waterproofs, gauntlets",
+              "Crush-toe protection in washdown territory"
+            ],
+            [
+              "Machinery & workshop",
+              "Fitted coveralls, cut gloves, hearing protection",
+              "<a href='en-352-hearing-protection-explained.html'>EN 352</a> around old cabs and grain dryers"
+            ],
+            [
+              "Spraying & chemical handling",
+              "PPE per the product label — gauntlets, coveralls, face",
+              "<a href='disposable-ppe-guide.html'>Disposables done right</a>"
+            ],
+            [
+              "Grain stores & dusty work",
+              "FFP2/FFP3 respirators, eye protection",
+              "Organic dust sensitises — protect early, not eventually"
+            ],
+            [
+              "All of it",
+              "Layered weather kit",
+              "<a href='choosing-work-jackets.html'>Jacket families</a>; there is no indoors"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "The details",
+          "h2": "Three farm-specific truths",
+          "items": [
+            {
+              "n": "Hygiene routes",
+              "l": "Zoonoses ride on kit — yard clothing stays out of the kitchen, hands wash before food, cuts get covered"
+            },
+            {
+              "n": "Sun & cold",
+              "l": "The same fields deliver UV dose in July and wind chill in January — <a href='summer-workwear-guide.html'>summer kit</a> and <a href='base-layers-guide.html'>base layers</a> both earn keep"
+            },
+            {
+              "n": "Estate saw work",
+              "l": "Any chainsaw task brings its own certified kit — <a href='chainsaw-protection-standards-explained.html'>the standard decoded</a>"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Farm kit FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What boots are best for farm work?",
+          "a": "Safety wellingtons — S4 or S5 rated, giving toe protection (and midsole protection at S5) in a washable boot with serious grip — for yard and livestock work, with S3 leather boots for field, machinery and estate tasks. Livestock and unprotected feet are a bad long-term combination."
+        },
+        {
+          "q": "What PPE is needed for spraying on farms?",
+          "a": "Whatever the product label and safety data sheet specify — typically nitrile gauntlets, protective coveralls (splash-rated or disposable), face/eye protection and sometimes respiratory protection, with the highest exposure usually at mixing and loading. Certification training governs the activity itself; the label governs the kit."
+        },
+        {
+          "q": "Why does loose clothing matter around farm machinery?",
+          "a": "Rotating equipment — PTO shafts above all — catches loose fabric and pulls the wearer in; it remains one of agriculture's fatal mechanisms. Fitted garments with no flapping edges, loose cords or dangling sleeves are the rule around any running machinery, full stop."
+        }
+      ]
+    },
+    {
+      "slug": "workwear-for-hairdressers-barbers",
+      "role": "spoke",
+      "spokeType": "Role guide",
+      "navLabel": "Hairdressers & barbers",
+      "cardTitle": "Workwear for hairdressers & barbers",
+      "cardBlurb": "Ten-hour standing shifts, colour chemistry and a look that IS the brand — salon kit chosen honestly.",
+      "crumbTail": "Salon",
+      "kicker": "Role guide · Hair & barbering",
+      "h1": "What hairdressers and barbers actually wear.",
+      "metaTitle": "Workwear for Hairdressers & Barbers: Salon Kit Guide | iNeedWorkwear",
+      "metaDesc": "Salon workwear that works — tunics and aprons against colour chemistry, footwear for ten-hour standing shifts, why hair clippings dictate fabric choice, and dressing a salon team as a brand.",
+      "lede": "Salon work is a trade that happens in public view: ten hours standing, hands in chemistry, clippings finding their way into everything — performed in an outfit that doubles as the shop's brand. The kit list is short but every item earns its place the hard way.",
+      "heroMeta": [
+        {
+          "n": "10 hrs",
+          "l": "Standing — footwear is the health item"
+        },
+        {
+          "n": "Colour-proof",
+          "l": "Bleach and dye write the apron spec"
+        },
+        {
+          "n": "Hair-shedding",
+          "l": "Fabric choice is clippings management"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The job",
+          "h2": "Chemistry, clippings and the long stand",
+          "html": "<p><strong>Colour is the chemical hazard hiding in the glamour</strong>: bleach and oxidative dyes ruin clothing instantly and sensitise skin cumulatively — which is why colourists work in <strong>chemical-tolerant aprons</strong> over their kit and disposable nitrile gloves per mix (vinyl swells in some colour chemistry; nitrile is the trade's default). Repeated wet work drives dermatitis too, so gloves are for washing as much as colouring.</p><p><strong>Clippings decide the fabric.</strong> Freshly cut hair is a splinter: it works into knits and weaves and stays there. Salon garments — <a href='https://www.ineedworkwear.com/collections/tunics'>tunics</a> and closely woven tops — use smooth, tight fabrics hair slides off, and it's why the beauty tunic (see <a href='tunic-vs-scrubs.html'>tunic vs scrubs</a>) exists as a garment category at all. <strong>And the floor decides the shoes:</strong> ten standing hours on hard floor makes cushioned, supportive, wipeable footwear the single biggest health purchase in the salon — varicose veins and plantar pain are the trade's pension deductions.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The list",
+          "h2": "The salon kit map",
+          "head": [
+            "Item",
+            "The spec",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Tunic / top",
+              "Smooth tight-weave, dark or print-forgiving",
+              "Clippings slide off; colour splashes forgive"
+            ],
+            [
+              "Apron",
+              "Chemical-tolerant, adjustable, washable",
+              "Bleach and dye are the daily chemistry"
+            ],
+            [
+              "Gloves",
+              "Nitrile disposables, right size",
+              "Per colour mix and heavy wash days — dermatitis prevention"
+            ],
+            [
+              "Footwear",
+              "Cushioned, supportive, wipeable",
+              "The ten-hour stand is the real hazard"
+            ],
+            [
+              "Team look",
+              "Coordinated colours, embroidered where wanted",
+              "The staff outfit is the shopfront — <a href='front-of-house-uniform-guide.html'>FOH logic</a> applies"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "The details",
+          "h2": "Three salon-specific notes",
+          "items": [
+            {
+              "n": "Sleeves short or fitted",
+              "l": "Loose cuffs drag through colour bowls and client hair"
+            },
+            {
+              "n": "Layers for the door",
+              "l": "Chairs by the entrance live in a draught all winter — a smart fitted layer beats shivering"
+            },
+            {
+              "n": "Wash hot, rotate",
+              "l": "Hair and product build up — salon kit needs the <a href='uniform-quantity-calculator.html'>rotation maths</a> like any uniform"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Salon kit FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What do hairdressers wear to work?",
+          "a": "Smooth, tight-weave tunics or tops that hair clippings slide off rather than embed in, a chemical-tolerant apron for colour work, nitrile gloves for mixing and washing, and cushioned wipeable footwear for the standing shift. In most salons the outfit doubles as the brand, so teams coordinate colour and style."
+        },
+        {
+          "q": "Why do salon workers wear nitrile gloves?",
+          "a": "Colour chemistry (bleach, oxidative dyes) and constant wet work both attack skin — occupational dermatitis is one of hairdressing's biggest health problems. Nitrile resists the chemistry better than vinyl, fits closely enough for precision work, and is disposable per mix so sensitising residues don't accumulate."
+        },
+        {
+          "q": "What shoes are best for standing all day in a salon?",
+          "a": "Cushioned, supportive shoes with a wipeable upper — colour drips — and enough structure to support arches through a ten-hour shift. Footwear is the salon's real health purchase: the trade's chronic complaints are feet, legs and backs, and they start with hard floors and flat shoes."
+        }
+      ]
+    },
+    {
+      "slug": "workwear-for-window-cleaners",
+      "role": "spoke",
+      "spokeType": "Role guide",
+      "navLabel": "Window cleaners",
+      "cardTitle": "Workwear for window cleaners",
+      "cardBlurb": "Permanently wet hands, pole work in winter and customer-facing rounds — kit for the trade that works soaked.",
+      "crumbTail": "Window cleaning",
+      "kicker": "Role guide · Window cleaning",
+      "h1": "What window cleaners actually wear.",
+      "metaTitle": "Workwear for Window Cleaners: Wet Work & Winter Kit | iNeedWorkwear",
+      "metaDesc": "Window cleaner workwear — staying functional through permanently wet work, water-fed pole kit in winter, EN 511 thermal grip gloves, breathable waterproofs and the customer-facing round.",
+      "lede": "Water-fed poles turned window cleaning into a trade performed inside its own weather system: whatever the sky does, the pole rains back down the arms. The kit problem isn't the occasional soaking — it's being wet as a baseline, in January, while staying presentable on a customer's drive.",
+      "heroMeta": [
+        {
+          "n": "Wet baseline",
+          "l": "The pole soaks you on a dry day"
+        },
+        {
+          "n": "EN 511",
+          "l": "Wet cold hands are the trade's winter"
+        },
+        {
+          "n": "On show",
+          "l": "Every job is a customer's frontage"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The job",
+          "h2": "Dressed for rain that comes from your own pole",
+          "html": "<p>The water-fed pole runs pure water down the brush, the pole and — inevitably — the arms of whoever holds it. The answer is <strong>breathable waterproofs worn as workwear</strong>, not emergency kit: a <a href='en-343-waterproofs-explained.html'>waterproof-and-breathable</a> jacket or smock (working arms overhead in a boil-in-the-bag PVC top is its own misery), waterproof over-trousers or bibs, and sleeves that seal or shed at the cuff, where most of the water actually arrives. <a href='reproofing-waterproofs.html'>DWR maintenance</a> is a fortnightly reality in this trade, not an annual one.</p><p><strong>Winter turns hands into the limiting factor.</strong> Wet plus wind at ladder height strips heat faster than dry cold ever does — <a href='en-511-winter-gloves-explained.html'>EN 511-rated</a> thermal grip gloves (the standard tests for wet cold, not just cold) with spares drying in the van are what keep a January round finishable. Footwear follows the same logic: waterproof, warm and <strong>seriously grippy</strong> — wet ladder rungs, mossy patios and soaped forecourts are the trade's slip circuit.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The list",
+          "h2": "The window cleaner kit map",
+          "head": [
+            "Item",
+            "The spec",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Waterproof top",
+              "Breathable, arms-overhead cut",
+              "<a href='en-343-waterproofs-explained.html'>EN 343 logic</a> — the pole makes its own rain"
+            ],
+            [
+              "Over-trousers / bibs",
+              "Waterproof, quick-drying",
+              "Splash and kneel, all day"
+            ],
+            [
+              "Gloves",
+              "<span class='code'>EN 511</span> thermal grip + spares",
+              "Wet cold is the rating that matters"
+            ],
+            [
+              "Footwear",
+              "Waterproof, cushioned, high-grip sole",
+              "Ladders, moss and soap — grip is the spec"
+            ],
+            [
+              "Branded layer",
+              "Embroidered softshell or polo for the doorstep",
+              "The round is a walking advert — <a href='washing-embroidered-workwear.html'>kept smart</a>"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "The details",
+          "h2": "Three trade-specific notes",
+          "items": [
+            {
+              "n": "Spare everything",
+              "l": "Gloves, socks and a dry mid-layer in the van halve the misery of a wet round"
+            },
+            {
+              "n": "Height rules",
+              "l": "Commercial and rope-access work brings employer-specified harness and helmet regimes — separate from the workwear order"
+            },
+            {
+              "n": "Hi-vis rounds",
+              "l": "Forecourts, car parks and roadside commercial work put <a href='hi-vis-workwear-guide.html'>Class 2</a> on the list"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Window cleaner FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What do window cleaners wear in winter?",
+          "a": "Breathable waterproof top and over-trousers as the working outfit, wicking base layers underneath, EN 511-rated thermal grip gloves (tested for wet cold — the trade's actual condition) with dry spares in the van, and waterproof high-grip footwear. Wet-plus-wind is the enemy; cotton anywhere in the system loses."
+        },
+        {
+          "q": "What gloves are best for water-fed pole work?",
+          "a": "Thermal grip gloves rated under EN 511 — the standard that tests convective and contact cold and water penetration — in a dexterous enough build to handle poles and clips. Carry spares: once a glove wets through, its insulation is finished for the day."
+        },
+        {
+          "q": "Do window cleaners need hi-vis?",
+          "a": "On domestic rounds, rarely. On forecourts, retail car parks, roadside frontages and commercial sites, Class 2 hi-vis is commonly required by the client or just plainly sensible — vehicles reverse at exactly the height of a kneeling window cleaner. Many rounds keep a vest in the van as standard."
+        }
+      ]
+    }
+  ]
+}

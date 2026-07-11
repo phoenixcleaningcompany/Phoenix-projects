@@ -1,0 +1,516 @@
+{
+  "cluster": {
+    "id": "standards-wave3",
+    "topic": "Standards decoded",
+    "shopLabel": "PPE",
+    "shopUrl": "https://www.ineedworkwear.com/collections/ppe",
+    "baseUrl": "https://www.ineedworkwear.uk",
+    "date": "2026-07-11",
+    "externalHub": {
+      "slug": "standards",
+      "navLabel": "Standards hub",
+      "title": "Workwear standards, in plain English",
+      "cardTitle": "Standards hub"
+    },
+    "trust": [
+      "Standards read, not summarised from ads",
+      "Class and level tables included",
+      "Certified kit stocked",
+      "Trade accounts"
+    ],
+    "cta": {
+      "h2": "Spec found — kit next.",
+      "p": "Everything decoded here is stocked as certified garments and PPE, embroidered where it makes sense.",
+      "actions": [
+        {
+          "label": "Shop PPE",
+          "href": "https://www.ineedworkwear.com/collections/ppe",
+          "style": "white"
+        },
+        {
+          "label": "Browse the kit directory",
+          "href": "kit.html",
+          "style": "dark"
+        }
+      ]
+    }
+  },
+  "pages": [
+    {
+      "slug": "en-812-bump-caps-explained",
+      "role": "spoke",
+      "spokeType": "Standard explainer",
+      "navLabel": "EN 812 bump caps",
+      "cardTitle": "EN 812 bump caps explained",
+      "cardBlurb": "What a bump cap protects against, what it never covers, and the line between EN 812 and a real helmet.",
+      "crumbTail": "Standards",
+      "kicker": "Standard explainer · EN 812",
+      "h1": "EN 812: what a bump cap actually is.",
+      "metaTitle": "EN 812 Bump Caps Explained: Protection, Limits & Uses | iNeedWorkwear",
+      "metaDesc": "EN 812 bump caps decoded — what they protect against (striking your own head), what they never cover (falling objects), where they're the right call and where only EN 397 will do.",
+      "lede": "The bump cap is the most misunderstood item in head protection: it looks like a baseball cap, protects like neither a cap nor a helmet, and is exactly right for a set of jobs that helmets serve badly. EN 812 defines what it does — and the limits matter more than the features.",
+      "heroMeta": [
+        {
+          "n": "Self-impact",
+          "l": "You hitting things, not things hitting you"
+        },
+        {
+          "n": "Not EN 397",
+          "l": "Never a helmet substitute"
+        },
+        {
+          "n": "Low profile",
+          "l": "Why vans and racking love it"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The scope",
+          "h2": "One direction of protection",
+          "html": "<p>EN 812 certifies <strong>industrial bump caps</strong>: a cap-style shell with impact-absorbing liner, tested to protect against <strong>the wearer striking their head on stationary objects</strong> — the van roof, the low steel beam, the underside of a conveyor, the racking upright. That's the whole scope. The test energies are a fraction of a safety helmet's, and there is <strong>no falling-object protection at all</strong>: a dropped spanner defeats a bump cap by design.</p><p>Within that scope it beats a helmet on the things that make people abandon helmets: low profile (works in vehicle interiors and voids), lighter weight, breathable comfort for a full shift, and a look closer to uniform than PPE — which is why parcel firms, meter readers and vehicle technicians standardise on it.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The comparison",
+          "h2": "EN 812 vs EN 397, honestly",
+          "head": [
+            "Question",
+            "Bump cap (EN 812)",
+            "Safety helmet (EN 397)"
+          ],
+          "rows": [
+            [
+              "Protects against",
+              "Striking fixed objects",
+              "Falling objects, plus lateral/penetration options"
+            ],
+            [
+              "Typical homes",
+              "Vehicle workshops, warehouse picking, meter reading, food vans",
+              "Construction, lifting zones, anywhere overhead work happens"
+            ],
+            [
+              "Comfort & profile",
+              "Cap-like, vents, all-shift wearable",
+              "Bulkier; cradle harness; needs <a href='en-397-helmets-explained.html'>proper adjustment</a>"
+            ],
+            [
+              "If the site says 'helmets'",
+              "Not compliant — ever",
+              "Compliant"
+            ],
+            [
+              "Shelf life",
+              "Replace after any significant impact; check maker's life",
+              "Date-stamped; UV and age retire it"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Buying notes",
+          "h2": "Three things worth knowing",
+          "items": [
+            {
+              "n": "Peak options",
+              "l": "Short-peak and no-peak versions exist for look-up work — gauge reading, vehicle pits"
+            },
+            {
+              "n": "Hygiene",
+              "l": "Shells wipe down; liners and sweatbands are replaceable on decent models"
+            },
+            {
+              "n": "Branding",
+              "l": "Bump caps embroider like caps — one reason delivery fleets use them as uniform"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Bump cap FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Are bump caps legal on construction sites?",
+          "a": "Where the site or task risk assessment requires safety helmets — which is the default on UK construction sites — a bump cap does not comply. Bump caps belong where the assessed risk is striking your own head on fixed objects, not falling materials. The site rules decide, and they almost always say EN 397."
+        },
+        {
+          "q": "What is the difference between EN 812 and EN 397?",
+          "a": "EN 812 covers bump caps: light protection against the wearer striking stationary objects. EN 397 covers industrial safety helmets: substantially higher impact energies from falling objects, with penetration resistance and optional extras. They are different products for different risks, not grades of the same thing."
+        },
+        {
+          "q": "When should a bump cap be replaced?",
+          "a": "After any significant impact (the liner absorbs by deforming, and damage isn't always visible), when the shell or liner shows cracks or compression, or at the manufacturer's stated service life. Sweatbands and liners on better models replace separately, which extends the shell's useful life hygienically."
+        }
+      ]
+    },
+    {
+      "slug": "en-352-hearing-protection-explained",
+      "role": "spoke",
+      "spokeType": "Standard explainer",
+      "navLabel": "EN 352 hearing",
+      "cardTitle": "EN 352 hearing protection explained",
+      "cardBlurb": "SNR numbers, muffs vs plugs, helmet-mounted options — and why more attenuation isn't automatically safer.",
+      "crumbTail": "Standards",
+      "kicker": "Standard explainer · EN 352",
+      "h1": "EN 352: hearing protection by the numbers.",
+      "metaTitle": "EN 352 Hearing Protection Explained: SNR, Muffs & Plugs | iNeedWorkwear",
+      "metaDesc": "EN 352 decoded — what the SNR number means, earmuffs vs plugs vs helmet-mounted (parts 1–3), how to pick attenuation for your noise level, and why over-protection is a real problem.",
+      "lede": "Noise injury is permanent, invisible and entirely preventable — and the kit that prevents it is labelled with one number almost nobody can explain. Here's what SNR means, how the EN 352 family divides up, and the counterintuitive rule: you can wear too much hearing protection.",
+      "heroMeta": [
+        {
+          "n": "SNR",
+          "l": "The attenuation number, in dB"
+        },
+        {
+          "n": "3 parts",
+          "l": "Muffs, plugs, helmet-mounted"
+        },
+        {
+          "n": "70–80 dB",
+          "l": "The at-ear level to aim for"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The number",
+          "h2": "SNR is a subtraction, not a score",
+          "html": "<p><strong>SNR (Single Number Rating)</strong> is the protector's average attenuation in decibels: workplace noise level minus SNR ≈ the level at your ear. A 100 dB workshop with SNR 27 muffs puts roughly 73 dB at the ear — comfortably under the levels UK regulations act on (action values at 80 and 85 dB(A) daily exposure).</p><p>The counterintuitive part: <strong>aim for 70–80 dB at the ear, not as low as possible</strong>. Over-protection isolates — you can't hear the forklift horn, the shouted warning, the change in machine note that says something's wrong — and it drives people to remove protection entirely, which destroys the arithmetic. An SNR 35 plug in an 88 dB environment is the wrong buy; an SNR 20 is right.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The family",
+          "h2": "EN 352, part by part",
+          "head": [
+            "Part",
+            "Covers",
+            "Where it wins"
+          ],
+          "rows": [
+            [
+              "EN 352-1",
+              "Earmuffs (headband)",
+              "Intermittent noise — on and off ten times an hour without fuss"
+            ],
+            [
+              "EN 352-2",
+              "Earplugs (disposable, reusable, banded)",
+              "All-day wear, hot work, tight spaces; hygiene discipline required"
+            ],
+            [
+              "EN 352-3",
+              "Helmet-mounted muffs",
+              "Construction and forestry — <a href='en-397-helmets-explained.html'>helmet</a> and muffs as one system"
+            ],
+            [
+              "Higher parts",
+              "Level-dependent & electronic types",
+              "Impulse noise and communication needs — specialist buying"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "The realities",
+          "h2": "What actually goes wrong",
+          "items": [
+            {
+              "n": "Fit is half",
+              "l": "A foam plug rolled and seated properly delivers its SNR; one pushed in casually can halve it"
+            },
+            {
+              "n": "Compatibility",
+              "l": "Muff seals leak over glasses arms and balaclavas — plugs solve winter layering"
+            },
+            {
+              "n": "Hygiene",
+              "l": "Reusable plugs wash; muff cushions and foam inserts are replaceable service parts"
+            }
+          ]
+        },
+        {
+          "type": "citebox",
+          "html": "UK duties come from the Control of Noise at Work Regulations 2005 — exposure action values at 80 and 85 dB(A). This page decodes the product standard; the regulations and your noise assessment decide what must be worn where. Summary, not legal advice."
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Hearing protection FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What does SNR mean on ear defenders?",
+          "a": "Single Number Rating — the protector's average noise reduction in decibels. Subtract it from the workplace noise level to estimate the level at your ear: 100 dB noise with SNR 27 muffs is roughly 73 dB at the ear. Pick SNR to land between about 70 and 80 dB — protected, but not isolated."
+        },
+        {
+          "q": "Are earplugs or ear defenders better?",
+          "a": "Neither universally. Muffs (EN 352-1) win for intermittent noise because they go on and off easily and their condition is visible. Plugs (EN 352-2) win for all-day wear, heat, confined spaces and under helmets — if inserted properly, which is a trained skill. Many sites use both: plugs for the shift, muffs for visitors."
+        },
+        {
+          "q": "Can you wear too much hearing protection?",
+          "a": "Yes — over-protection cuts you off from alarms, vehicle horns and speech, and makes people remove the protection to communicate, defeating it entirely. The target is roughly 70–80 dB at the ear, not the biggest SNR on the shelf."
+        }
+      ]
+    },
+    {
+      "slug": "chainsaw-protection-standards-explained",
+      "role": "spoke",
+      "spokeType": "Standard explainer",
+      "navLabel": "Chainsaw standards",
+      "cardTitle": "Chainsaw protection standards explained",
+      "cardBlurb": "EN ISO 11393 classes, Type A vs Type C trousers, and why no garment is chainsaw-proof — it clogs, once.",
+      "crumbTail": "Standards",
+      "kicker": "Standard explainer · EN ISO 11393",
+      "h1": "Chainsaw protection: classes, types and one honest fact.",
+      "metaTitle": "Chainsaw Protection Standards: EN ISO 11393 Classes & Types | iNeedWorkwear",
+      "metaDesc": "Chainsaw PPE decoded — EN ISO 11393 protection classes by chain speed, Type A vs Type C trousers, boots and gloves, and why chainsaw clothing stops a saw once rather than resists it.",
+      "lede": "Chainsaw clothing doesn't armour you — it sacrifices itself. Layers of long fibres pull out and jam the drive sprocket, stopping the chain in a fraction of a second, once, after which the garment is scrap. Everything about the standard follows from that one mechanism.",
+      "heroMeta": [
+        {
+          "n": "Class 1–3",
+          "l": "Rated by chain speed"
+        },
+        {
+          "n": "Type A / C",
+          "l": "Front-only vs all-round legs"
+        },
+        {
+          "n": "One use",
+          "l": "A struck garment is finished"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The mechanism",
+          "h2": "It clogs the saw — that's the whole trick",
+          "html": "<p>Cut-resistant fabric can't stop a chainsaw; nothing wearable can. Chainsaw protection under <strong>EN ISO 11393</strong> (successor to the old EN 381 series) works by <strong>clogging</strong>: on contact, the outer shell gives way instantly and releases long, tough fibres that wrap the sprocket and stall the chain — typically before it reaches flesh. Two consequences define the buying: the garment is <strong>single-sacrifice</strong> (any saw contact, however small it looks, retires it), and the protection is rated by the <strong>chain speed it can stall</strong>, expressed as classes.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The ratings",
+          "h2": "Classes and types",
+          "head": [
+            "Marking",
+            "Means",
+            "Practical read"
+          ],
+          "rows": [
+            [
+              "Class 1",
+              "Tested at 20 m/s chain speed",
+              "The common ground-work baseline"
+            ],
+            [
+              "Class 2",
+              "24 m/s",
+              "Higher-powered saws"
+            ],
+            [
+              "Class 3",
+              "28 m/s",
+              "The most powerful saws; heavy, hot garments"
+            ],
+            [
+              "Type A trousers",
+              "Front-of-leg protection",
+              "Ground work by trained operators — the forestry default"
+            ],
+            [
+              "Type C trousers",
+              "All-round leg protection",
+              "Arborists and aerial work, where the saw can reach anywhere"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "The system",
+          "h2": "Trousers are only one item",
+          "items": [
+            {
+              "n": "Boots",
+              "l": "Chainsaw boots carry their own standard (EN ISO 17249) — a saw-rated toe isn't enough"
+            },
+            {
+              "n": "Gloves & jackets",
+              "l": "Saw-protective versions exist for left hand and upper body — task and training decide"
+            },
+            {
+              "n": "Head system",
+              "l": "Forestry helmets pair <a href='en-397-helmets-explained.html'>EN 397</a> with visor and <a href='en-352-hearing-protection-explained.html'>EN 352-3 muffs</a>"
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The care rule",
+          "h2": "Washing is part of the certification",
+          "html": "<p>The protective fibres only clog a saw if they can pull free — <strong>contamination is the enemy</strong>. Oil, sap and dried mud glue the layers together; incorrect washing mats them. Follow the garment's label exactly (typically a moderate wash, no softener, no tumble), never patch or sew through the protective zones (stitching pins the fibres), and retire the garment after any saw contact or when the shell is torn through. Our <a href='chainsaw-forestry-kit.html'>forestry kit guide</a> covers the full head-to-toe system and the <a href='forestry-workwear-guide.html'>sector page</a> the working context.</p>"
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Chainsaw PPE FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What is the difference between Type A and Type C chainsaw trousers?",
+          "a": "Coverage. Type A protects the front of the legs (plus small wrap zones) and is the standard for trained ground-based forestry work. Type C protects all round the leg and is specified for arborists, aerial work and situations where the saw can approach from any angle — at a real cost in weight and heat."
+        },
+        {
+          "q": "Can chainsaw trousers be used after being cut?",
+          "a": "No. The protection works by sacrificing fibres to clog the chain — one contact, even one that looks superficial, means the garment has done its job or lost its integrity, and it must be replaced. Repairs through the protective layers are also prohibited: stitching pins the fibres that need to pull free."
+        },
+        {
+          "q": "What chainsaw protection class do I need?",
+          "a": "Match the class to the chain speed of the saws you actually run — Class 1 (20 m/s) covers most ground work with standard saws; higher-powered equipment pushes into Class 2 or 3. Employers' risk assessments and training schemes (and any site or utility client rules) set the floor."
+        }
+      ]
+    },
+    {
+      "slug": "en-14404-knee-protection-explained",
+      "role": "spoke",
+      "spokeType": "Standard explainer",
+      "navLabel": "EN 14404 knee pads",
+      "cardTitle": "EN 14404 knee protection explained",
+      "cardBlurb": "Types, levels and the certification catch: trouser-pocket pads are certified as a pair with the trouser.",
+      "crumbTail": "Standards",
+      "kicker": "Standard explainer · EN 14404",
+      "h1": "EN 14404: knee protection that's actually certified.",
+      "metaTitle": "EN 14404 Knee Protection Explained: Types & Levels | iNeedWorkwear",
+      "metaDesc": "EN 14404 knee protection decoded — Type 1 strapped pads vs Type 2 trouser inserts, performance levels 0–2, the combined-certification catch, and when foam pads quietly stop working.",
+      "lede": "Knees are consumables in the flooring, plumbing and electrical trades — bursitis and worn cartilage arrive by instalment, one kneel at a time. EN 14404 is the standard that separates real knee protection from packing foam, and it has one catch every trouser buyer should know.",
+      "heroMeta": [
+        {
+          "n": "Type 1 / 2",
+          "l": "Strapped pads vs trouser inserts"
+        },
+        {
+          "n": "Level 0–2",
+          "l": "Flat floors to kneeling on rubble"
+        },
+        {
+          "n": "Pair-tested",
+          "l": "Insert + trouser certify together"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The types",
+          "h2": "Four types, two that matter on site",
+          "html": "<p>EN 14404 covers knee protection in four types; the everyday pair are <strong>Type 1</strong> — pads strapped directly to the leg, independent of clothing — and <strong>Type 2</strong> — foam inserts that live in the knee pockets of work trousers. Type 1 wins for all-day dedicated kneeling trades (floor layers, tilers): it stays centred on the knee as you move and takes bulkier padding. Type 2 wins for mixed work — always there, nothing to forget, no straps cutting circulation behind the knee — which is why knee-pocket trousers took over the trades.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The levels",
+          "h2": "Performance levels, plainly",
+          "head": [
+            "Level",
+            "Tested for",
+            "Honest read"
+          ],
+          "rows": [
+            [
+              "Level 0",
+              "Flat surfaces, no penetration requirement",
+              "Comfort padding — fine for occasional kneeling indoors"
+            ],
+            [
+              "Level 1",
+              "Flat and uneven surfaces, penetration ≥ (100 ± 5) N",
+              "The trade default — handles site floors, screed, joists"
+            ],
+            [
+              "Level 2",
+              "Harsh conditions — kneeling on stones/rubble",
+              "Groundworks, demolition, landscaping"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "The catch",
+          "h2": "Certification travels in pairs",
+          "items": [
+            {
+              "n": "Pad + pocket",
+              "l": "A Type 2 insert is certified WITH a specific trouser design — pocket position sets pad position"
+            },
+            {
+              "n": "Foam ages",
+              "l": "Inserts compress, crack and thin; replace them like the consumable they are"
+            },
+            {
+              "n": "Fit check",
+              "l": "Kneel in the shop: the pad must sit under the kneecap in a kneel, not over the shin"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Knee protection FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Do work trousers with knee pockets count as knee protection?",
+          "a": "Only with certified inserts fitted — and strictly, EN 14404 certification applies to the insert and trouser combination, because the pocket's position and fit determine where the pad sits when you kneel. Trousers plus the maker's matching inserts is the defensible buy."
+        },
+        {
+          "q": "What level of knee pad do I need?",
+          "a": "Level 1 is the working default for trades — tested on flat and uneven surfaces with a penetration requirement. Level 2 adds protection for kneeling on stones and rubble (groundworks, demolition). Level 0 is comfort padding for flat indoor surfaces and shouldn't be doing a trade's daily work."
+        },
+        {
+          "q": "How often should knee pad inserts be replaced?",
+          "a": "When the foam has visibly compressed, cracked or thinned — for a daily kneeling trade that can be every few months. The insert is a consumable: it protects by absorbing, and absorbed is exactly what old foam no longer does."
+        }
+      ]
+    }
+  ]
+}
