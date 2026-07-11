@@ -6,9 +6,34 @@
     "shopUrl": "https://www.ineedworkwear.com",
     "baseUrl": "https://www.ineedworkwear.uk",
     "date": "2026-07-09",
-    "externalHub": { "slug": "sectors", "navLabel": "Sectors hub", "title": "Workwear by sector", "cardTitle": "Workwear by sector" },
-    "trust": ["Kit lists by sector", "Standards named, not implied", "Certified stock to match", "Embroidery & trade accounts"],
-    "cta": { "h2": "Kitting out a team?", "p": "Send the headcount and the roles — we'll come back with a kit list, embroidery options and trade-account pricing.", "actions": [ {"label":"Contact us","href":"contact.html","style":"white"}, {"label":"Browse the kit directory","href":"kit.html","style":"dark"} ] }
+    "externalHub": {
+      "slug": "sectors",
+      "navLabel": "Sectors hub",
+      "title": "Workwear by sector",
+      "cardTitle": "Workwear by sector"
+    },
+    "trust": [
+      "Kit lists by sector",
+      "Standards named, not implied",
+      "Certified stock to match",
+      "Embroidery & trade accounts"
+    ],
+    "cta": {
+      "h2": "Kitting out a team?",
+      "p": "Send the headcount and the roles — we'll come back with a kit list, embroidery options and trade-account pricing.",
+      "actions": [
+        {
+          "label": "Contact us",
+          "href": "contact.html",
+          "style": "white"
+        },
+        {
+          "label": "Browse the kit directory",
+          "href": "kit.html",
+          "style": "dark"
+        }
+      ]
+    }
   },
   "pages": [
     {
@@ -24,39 +49,138 @@
       "metaTitle": "Construction Workwear Guide: Site Kit by Trade | iNeedWorkwear",
       "metaDesc": "What UK construction sites actually require — the hi-vis/boots/head baseline, how kit changes from groundworker to site manager, and layering that survives winter on the tools.",
       "lede": "Every UK site starts from the same induction checklist — hi-vis, safety boots, head protection — and then the trade takes over. A groundworker's kit list and a site manager's barely overlap beyond the baseline. Here's the baseline, and what each trade stacks on top.",
-      "heroMeta": [ {"n":"Class 2+","l":"Hi-vis site default"}, {"n":"S3","l":"The boot most sites mandate"}, {"n":"By trade","l":"Everything above baseline"} ],
-      "schema": { "type": "Article" },
-      "blocks": [
-        { "type":"prose", "narrow":true, "klabel":"The baseline", "h2":"What the induction gate checks",
-          "html":"<p>Principal contractors set the entry requirements, and on most UK sites they've converged: <strong>hi-vis upper body</strong> (Class 2 vest or better — <a href='class-2-vs-class-3-hi-vis.html'>Class 3 near live traffic</a>), <strong>S3 safety boots</strong> (toe cap, midsole, water-resistant — <a href='safety-boot-codes-explained.html'>the codes decoded</a>), and a <strong>hard hat</strong>. Gloves and eye protection follow the task rather than the gate.</p><p>Two things trip people up. First, the site rules are usually <em>stricter</em> than the law — \"S3 boots with ankle support\" is a contract condition, not an HSE requirement, and arguing the difference at the gate doesn't work. Second, the baseline is a floor: it protects you from the site's general risks, not your trade's specific ones. That's what the rest of the kit list is for.</p>" },
-        { "type":"table", "variant":"alt", "klabel":"By trade", "h2":"What each trade adds to the baseline", "lead":"Baseline assumed: Class 2 hi-vis, S3 boots, hard hat.",
-          "head":["Trade","Adds","Why"],
-          "rows":[
-            ["Groundworker","Orange or yellow Class 3, waterproof trousers, <span class='code'>S5 wellingtons</span> for pours, cut-level B+ gloves","Open trenches, standing water, kerbs and blockwork"],
-            ["Steel fixer / formwork","Cut-level <span class='code'>C+</span> gloves, knee pads, scuff-cap boots","Rebar ends and tying wire eat standard gloves"],
-            ["Joiner / shopfitter","Dexterity-first coated gloves, holster trousers","Fine motor work — over-gloving gets gloves removed"],
-            ["Bricklayer","Abrasion-4 gloves, knee pads, thermal liners in winter","Block texture grinds fingertips; static kneeling"],
-            ["Site manager / engineer","Class 3 jacket, softshell mid-layer, clean spare boots","Perimeter walks in all weather, client meetings after"],
-            ["Plant operator","Class 3 (dismounting into traffic), <span class='code'>P-rated impact gloves</span>","Highest-risk moment is leaving the cab"]
-          ] },
-        { "type":"prose", "klabel":"Weather", "h2":"Winter is a layering problem, not a jacket problem", "narrow":true,
-          "html":"<p>The crews that stay warm on winter sites layer deliberately: <strong>a wicking base layer</strong> (never cotton against skin — it holds sweat and chills), <strong>a fleece or softshell mid-layer</strong>, and <strong>a certified hi-vis outer</strong>. The mistake is a thick non-hi-vis coat zipped over the vest — cover the fluoro and the certification is covered with it. If the outer layer is the warm layer, the outer layer must be the hi-vis layer.</p><p>Wet kit is a compliance problem too: a soaked jacket that's stopped beading needs <a href='reproofing-waterproofs.html'>reproofing</a>, and faded hi-vis <a href='caring-for-hi-vis.html'>stops being hi-vis</a>.</p>" },
-        { "type":"keyfacts", "variant":"dark", "klabel":"Buying for a crew", "h2":"Three decisions that save money later",
-          "items":[
-            {"n":"Boots by role","l":"S3 across the board, S5 wellingtons for the groundworks gang — not one compromise boot"},
-            {"n":"Gloves by the box","l":"Coated gloves are consumables; a torn glove replaced beats an injury claimed"},
-            {"n":"One hi-vis colour","l":"Fleet consistency reads as a managed site — and simplifies reordering"}
-          ] },
-        { "type":"citebox", "html":"See construction kit against a real local economy: <a href='workwear-corby.html'>Corby</a> runs on logistics and construction; the deep-dives live at the <a href='hi-vis-workwear-guide.html'>hi-vis hub</a> and <a href='safety-footwear-guide.html'>footwear hub</a>." },
-        { "type":"clusternav" },
-        { "type":"faq", "klabel":"Questions", "h2":"Construction kit FAQ" }
+      "heroMeta": [
+        {
+          "n": "Class 2+",
+          "l": "Hi-vis site default"
+        },
+        {
+          "n": "S3",
+          "l": "The boot most sites mandate"
+        },
+        {
+          "n": "By trade",
+          "l": "Everything above baseline"
+        }
       ],
-      "faq":[
-        {"q":"What PPE do you need on a UK construction site?","a":"The near-universal induction baseline is hi-vis upper body (Class 2 minimum), S3 safety boots and a hard hat, with gloves and eye protection required task-by-task. Individual principal contractors commonly go further — Class 3 hi-vis, ankle support, mandatory gloves — so the site induction pack is the document that decides."},
-        {"q":"Do all construction workers need Class 3 hi-vis?","a":"No — Class 2 is the common site default. Class 3 becomes the requirement around live traffic, plant movements and highways interfaces, and for anyone working in poor light. Many firms simply issue Class 3 jackets for winter since they double as the warm layer."},
-        {"q":"What boots are best for groundworkers?","a":"For excavation and concrete work, S5 safety wellingtons — waterproof by construction, with midsole and cleated sole. For general site work between pours, S3 leather boots. Many groundworkers run both and switch by task."},
-        {"q":"Can you wear a normal coat over hi-vis on site?","a":"Not while relying on the hi-vis — covering the fluorescent material removes the certified visible area. If the coat is the outer layer, the coat must be the certified hi-vis garment; layer warmth underneath it instead."}
-      ]
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The baseline",
+          "h2": "What the induction gate checks",
+          "html": "<p>Principal contractors set the entry requirements, and on most UK sites they've converged: <strong>hi-vis upper body</strong> (Class 2 vest or better — <a href='class-2-vs-class-3-hi-vis.html'>Class 3 near live traffic</a>), <strong>S3 safety boots</strong> (toe cap, midsole, water-resistant — <a href='safety-boot-codes-explained.html'>the codes decoded</a>), and a <strong>hard hat</strong>. Gloves and eye protection follow the task rather than the gate.</p><p>Two things trip people up. First, the site rules are usually <em>stricter</em> than the law — \"S3 boots with ankle support\" is a contract condition, not an HSE requirement, and arguing the difference at the gate doesn't work. Second, the baseline is a floor: it protects you from the site's general risks, not your trade's specific ones. That's what the rest of the kit list is for.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "By trade",
+          "h2": "What each trade adds to the baseline",
+          "lead": "Baseline assumed: Class 2 hi-vis, S3 boots, hard hat.",
+          "head": [
+            "Trade",
+            "Adds",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Groundworker",
+              "Orange or yellow Class 3, waterproof trousers, <span class='code'>S5 wellingtons</span> for pours, cut-level B+ gloves",
+              "Open trenches, standing water, kerbs and blockwork"
+            ],
+            [
+              "Steel fixer / formwork",
+              "Cut-level <span class='code'>C+</span> gloves, knee pads, scuff-cap boots",
+              "Rebar ends and tying wire eat standard gloves"
+            ],
+            [
+              "Joiner / shopfitter",
+              "Dexterity-first coated gloves, holster trousers",
+              "Fine motor work — over-gloving gets gloves removed"
+            ],
+            [
+              "Bricklayer",
+              "Abrasion-4 gloves, knee pads, thermal liners in winter",
+              "Block texture grinds fingertips; static kneeling"
+            ],
+            [
+              "Site manager / engineer",
+              "Class 3 jacket, softshell mid-layer, clean spare boots",
+              "Perimeter walks in all weather, client meetings after"
+            ],
+            [
+              "Plant operator",
+              "Class 3 (dismounting into traffic), <span class='code'>P-rated impact gloves</span>",
+              "Highest-risk moment is leaving the cab"
+            ]
+          ]
+        },
+        {
+          "type": "prose",
+          "klabel": "Weather",
+          "h2": "Winter is a layering problem, not a jacket problem",
+          "narrow": true,
+          "html": "<p>The crews that stay warm on winter sites layer deliberately: <strong>a wicking base layer</strong> (never cotton against skin — it holds sweat and chills), <strong>a fleece or softshell mid-layer</strong>, and <strong>a certified hi-vis outer</strong>. The mistake is a thick non-hi-vis coat zipped over the vest — cover the fluoro and the certification is covered with it. If the outer layer is the warm layer, the outer layer must be the hi-vis layer.</p><p>Wet kit is a compliance problem too: a soaked jacket that's stopped beading needs <a href='reproofing-waterproofs.html'>reproofing</a>, and faded hi-vis <a href='caring-for-hi-vis.html'>stops being hi-vis</a>.</p>"
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Buying for a crew",
+          "h2": "Three decisions that save money later",
+          "items": [
+            {
+              "n": "Boots by role",
+              "l": "S3 across the board, S5 wellingtons for the groundworks gang — not one compromise boot"
+            },
+            {
+              "n": "Gloves by the box",
+              "l": "Coated gloves are consumables; a torn glove replaced beats an injury claimed"
+            },
+            {
+              "n": "One hi-vis colour",
+              "l": "Fleet consistency reads as a managed site — and simplifies reordering"
+            }
+          ]
+        },
+        {
+          "type": "citebox",
+          "html": "See construction kit against a real local economy: <a href='workwear-corby.html'>Corby</a> runs on logistics and construction; the deep-dives live at the <a href='hi-vis-workwear-guide.html'>hi-vis hub</a> and <a href='safety-footwear-guide.html'>footwear hub</a>."
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Construction kit FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What PPE do you need on a UK construction site?",
+          "a": "The near-universal induction baseline is hi-vis upper body (Class 2 minimum), S3 safety boots and a hard hat, with gloves and eye protection required task-by-task. Individual principal contractors commonly go further — Class 3 hi-vis, ankle support, mandatory gloves — so the site induction pack is the document that decides."
+        },
+        {
+          "q": "Do all construction workers need Class 3 hi-vis?",
+          "a": "No — Class 2 is the common site default. Class 3 becomes the requirement around live traffic, plant movements and highways interfaces, and for anyone working in poor light. Many firms simply issue Class 3 jackets for winter since they double as the warm layer."
+        },
+        {
+          "q": "What boots are best for groundworkers?",
+          "a": "For excavation and concrete work, S5 safety wellingtons — waterproof by construction, with midsole and cleated sole. For general site work between pours, S3 leather boots. Many groundworkers run both and switch by task."
+        },
+        {
+          "q": "Can you wear a normal coat over hi-vis on site?",
+          "a": "Not while relying on the hi-vis — covering the fluorescent material removes the certified visible area. If the coat is the outer layer, the coat must be the certified hi-vis garment; layer warmth underneath it instead."
+        }
+      ],
+      "heroImage": {
+        "src": "assets/heroes/construction-site.webp",
+        "alt": "New-build housing development under construction",
+        "kind": "photo"
+      }
     },
     {
       "slug": "warehouse-logistics-workwear-guide",
@@ -71,36 +195,127 @@
       "metaTitle": "Warehouse & Logistics Workwear Guide: Kit by Zone | iNeedWorkwear",
       "metaDesc": "Warehouse kit is a zone problem — what pickers, dock crews, cold-store operatives and yard staff each need, from safety trainers and Class 1 vests to EN 342 coldstore suits.",
       "lede": "A distribution centre isn't one environment — it's four. The picker on the mezzanine, the loader on the dock, the operative in the minus-25 chamber and the shunter in the yard are dressed for different jobs, and treating them as one \"warehouse kit\" is how firms end up with cold pickers and sweating loaders.",
-      "heroMeta": [ {"n":"4 zones","l":"4 different kits"}, {"n":"S1P","l":"The warehouse boot default"}, {"n":"−25 °C","l":"Cold store is its own world"} ],
-      "schema": { "type": "Article" },
-      "blocks": [
-        { "type":"table", "klabel":"The zones", "h2":"Kit by zone", "lead":"Where someone spends their shift decides what they wear — the table is the guide in miniature.",
-          "head":["Zone","Hi-vis","Footwear","Layers & extras"],
-          "rows":[
-            ["Ambient picking & packing","<span class='code'>Class 1–2 vest</span> where MHE operates","<span class='code'>S1P safety trainer</span> — light, dry floors, stray fixings","Polo + sweatshirt; dexterity gloves for cartons"],
-            ["Loading dock","<span class='code'>Class 2</span> — vehicles and open doors","<span class='code'>S3</span> if docks open to weather","Windproof mid-layer; dock plates get wet"],
-            ["Cold store (chill & freeze)","Hi-vis integrated in the suit","<span class='code'>CI-rated</span> insulated boot","<span class='code'>EN 342</span> coldstore suit, lined gloves, beanie under any bump cap"],
-            ["Yard & shunting","<span class='code'>Class 3</span> — moving HGVs, all weathers","<span class='code'>S3</span> minimum","Waterproof Class 3 jacket doubles as the warm layer"]
-          ] },
-        { "type":"prose", "narrow":true, "klabel":"The footwear call", "h2":"Trainers beat boots — until they don't",
-          "html":"<p>The biggest comfort win in warehousing this decade is the <strong>S1P safety trainer</strong>: same certified toe cap and midsole as a boot, a fraction of the weight, and pickers walking 15&nbsp;km a shift feel every gram. On dry internal floors it's the right call, and fighting it on tradition costs you the workforce's goodwill.</p><p>It stops being the right call where <strong>water, weather or rough ground</strong> enter: open docks, yards, waste areas. That's <a href='safety-boot-codes-explained.html'>S3 territory</a> — water-resistant upper, cleated sole. The honest setup for most DCs is trainers inside, boots for the yard-facing roles, and no one-size policy.</p>" },
-        { "type":"prose", "variant":"alt", "narrow":true, "klabel":"The cold chain", "h2":"Cold store kit is safety kit, not comfort kit",
-          "html":"<p>At chill temperatures (0–5&nbsp;°C) lined trousers, a thermal base layer and insulated gloves keep a full shift workable. In a <strong>freezer chamber at −18 to −25&nbsp;°C</strong>, clothing is the difference between a safe rotation and cold stress: a one- or two-piece <strong>EN 342-rated coldstore suit</strong>, insulated CI-rated footwear, lined waterproof gloves and covered ears are the working minimum, with wind-chill from evaporator fans making the effective temperature lower than the dial says.</p><p>Two details that get missed: <strong>sweat is the enemy</strong> — over-dressed workers who sweat then chill are colder than under-dressed ones, which is why suits are sized for a base layer, not a jumper pile; and <strong>door transitions</strong> — staff moving chamber-to-ambient repeatedly need layers they can vent, or condensation soaks the insulation from inside.</p>" },
-        { "type":"keyfacts", "variant":"dark", "klabel":"Fleet notes", "h2":"What logistics employers standardise",
-          "items":[
-            {"n":"Vest at the door","l":"Hi-vis on = anywhere MHE runs; the rule survives because it's simple"},
-            {"n":"Boxed gloves","l":"Carton-handling gloves are consumables — stock them like tape"},
-            {"n":"Named cold-store kit","l":"EN 342 suits are personal issue; shared suits end up soaked and unworn"}
-          ] },
-        { "type":"citebox", "html":"See this sector against a real town: <a href='workwear-corby.html'>Corby — the UK's distribution triangle</a>. Boot detail lives at the <a href='safety-footwear-guide.html'>footwear hub</a>; glove levels at the <a href='en-388-glove-ratings-decoder.html'>EN 388 decoder</a>." },
-        { "type":"clusternav" },
-        { "type":"faq", "klabel":"Questions", "h2":"Warehouse kit FAQ" }
+      "heroMeta": [
+        {
+          "n": "4 zones",
+          "l": "4 different kits"
+        },
+        {
+          "n": "S1P",
+          "l": "The warehouse boot default"
+        },
+        {
+          "n": "−25 °C",
+          "l": "Cold store is its own world"
+        }
       ],
-      "faq":[
-        {"q":"What hi-vis class do warehouse workers need?","a":"Indoors around forklifts and MHE, Class 1 or 2 is the norm — many operations simply mandate a Class 2 vest everywhere past the door because one simple rule beats zone-by-zone policing. Yard and shunting roles around HGVs step up to Class 3."},
-        {"q":"Are safety trainers OK for warehouse work?","a":"Yes — an S1P safety trainer carries the same certified toe cap and midsole as a boot and is the comfortable default for pickers on dry internal floors. Roles that face weather, water or rough ground (docks, yards) should be in S3 boots instead."},
-        {"q":"What do you wear in a cold store?","a":"For freezer work at −18 to −25 °C: an EN 342-rated coldstore suit over a wicking base layer, insulated CI-rated safety boots, lined gloves and head covering. At chill temperatures, lined trousers, a thermal base layer and insulated gloves usually carry a shift."},
-        {"q":"Why do cold store workers get too cold even in rated suits?","a":"Usually sweat or fit: over-layering under the suit causes sweating, and damp insulation loses its warmth; suits also need sizing that traps an air layer rather than compressing it. Wind-chill from evaporator fans adds a real effect the thermometer doesn't show."}
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "table",
+          "klabel": "The zones",
+          "h2": "Kit by zone",
+          "lead": "Where someone spends their shift decides what they wear — the table is the guide in miniature.",
+          "head": [
+            "Zone",
+            "Hi-vis",
+            "Footwear",
+            "Layers & extras"
+          ],
+          "rows": [
+            [
+              "Ambient picking & packing",
+              "<span class='code'>Class 1–2 vest</span> where MHE operates",
+              "<span class='code'>S1P safety trainer</span> — light, dry floors, stray fixings",
+              "Polo + sweatshirt; dexterity gloves for cartons"
+            ],
+            [
+              "Loading dock",
+              "<span class='code'>Class 2</span> — vehicles and open doors",
+              "<span class='code'>S3</span> if docks open to weather",
+              "Windproof mid-layer; dock plates get wet"
+            ],
+            [
+              "Cold store (chill & freeze)",
+              "Hi-vis integrated in the suit",
+              "<span class='code'>CI-rated</span> insulated boot",
+              "<span class='code'>EN 342</span> coldstore suit, lined gloves, beanie under any bump cap"
+            ],
+            [
+              "Yard & shunting",
+              "<span class='code'>Class 3</span> — moving HGVs, all weathers",
+              "<span class='code'>S3</span> minimum",
+              "Waterproof Class 3 jacket doubles as the warm layer"
+            ]
+          ]
+        },
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The footwear call",
+          "h2": "Trainers beat boots — until they don't",
+          "html": "<p>The biggest comfort win in warehousing this decade is the <strong>S1P safety trainer</strong>: same certified toe cap and midsole as a boot, a fraction of the weight, and pickers walking 15&nbsp;km a shift feel every gram. On dry internal floors it's the right call, and fighting it on tradition costs you the workforce's goodwill.</p><p>It stops being the right call where <strong>water, weather or rough ground</strong> enter: open docks, yards, waste areas. That's <a href='safety-boot-codes-explained.html'>S3 territory</a> — water-resistant upper, cleated sole. The honest setup for most DCs is trainers inside, boots for the yard-facing roles, and no one-size policy.</p>"
+        },
+        {
+          "type": "prose",
+          "variant": "alt",
+          "narrow": true,
+          "klabel": "The cold chain",
+          "h2": "Cold store kit is safety kit, not comfort kit",
+          "html": "<p>At chill temperatures (0–5&nbsp;°C) lined trousers, a thermal base layer and insulated gloves keep a full shift workable. In a <strong>freezer chamber at −18 to −25&nbsp;°C</strong>, clothing is the difference between a safe rotation and cold stress: a one- or two-piece <strong>EN 342-rated coldstore suit</strong>, insulated CI-rated footwear, lined waterproof gloves and covered ears are the working minimum, with wind-chill from evaporator fans making the effective temperature lower than the dial says.</p><p>Two details that get missed: <strong>sweat is the enemy</strong> — over-dressed workers who sweat then chill are colder than under-dressed ones, which is why suits are sized for a base layer, not a jumper pile; and <strong>door transitions</strong> — staff moving chamber-to-ambient repeatedly need layers they can vent, or condensation soaks the insulation from inside.</p>"
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Fleet notes",
+          "h2": "What logistics employers standardise",
+          "items": [
+            {
+              "n": "Vest at the door",
+              "l": "Hi-vis on = anywhere MHE runs; the rule survives because it's simple"
+            },
+            {
+              "n": "Boxed gloves",
+              "l": "Carton-handling gloves are consumables — stock them like tape"
+            },
+            {
+              "n": "Named cold-store kit",
+              "l": "EN 342 suits are personal issue; shared suits end up soaked and unworn"
+            }
+          ]
+        },
+        {
+          "type": "citebox",
+          "html": "See this sector against a real town: <a href='workwear-corby.html'>Corby — the UK's distribution triangle</a>. Boot detail lives at the <a href='safety-footwear-guide.html'>footwear hub</a>; glove levels at the <a href='en-388-glove-ratings-decoder.html'>EN 388 decoder</a>."
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Warehouse kit FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What hi-vis class do warehouse workers need?",
+          "a": "Indoors around forklifts and MHE, Class 1 or 2 is the norm — many operations simply mandate a Class 2 vest everywhere past the door because one simple rule beats zone-by-zone policing. Yard and shunting roles around HGVs step up to Class 3."
+        },
+        {
+          "q": "Are safety trainers OK for warehouse work?",
+          "a": "Yes — an S1P safety trainer carries the same certified toe cap and midsole as a boot and is the comfortable default for pickers on dry internal floors. Roles that face weather, water or rough ground (docks, yards) should be in S3 boots instead."
+        },
+        {
+          "q": "What do you wear in a cold store?",
+          "a": "For freezer work at −18 to −25 °C: an EN 342-rated coldstore suit over a wicking base layer, insulated CI-rated safety boots, lined gloves and head covering. At chill temperatures, lined trousers, a thermal base layer and insulated gloves usually carry a shift."
+        },
+        {
+          "q": "Why do cold store workers get too cold even in rated suits?",
+          "a": "Usually sweat or fit: over-layering under the suit causes sweating, and damp insulation loses its warmth; suits also need sizing that traps an air layer rather than compressing it. Wind-chill from evaporator fans adds a real effect the thermometer doesn't show."
+        }
       ]
     },
     {
@@ -116,36 +331,121 @@
       "metaTitle": "Manufacturing & Engineering Workwear Guide | iNeedWorkwear",
       "metaDesc": "Workwear for factories and workshops — why the coverall is still the base layer, matching EN 388 glove levels to the process, and where flame-resistant kit becomes mandatory.",
       "lede": "Factory kit has one organising idea: the process dictates the garment. A machine shop, a fabrication bay and an assembly line share a roof but not a kit list — and the fastest way to spec it is to walk the processes, not the job titles.",
-      "heroMeta": [ {"n":"Snug fit","l":"Loose cuffs and machines don't mix"}, {"n":"EN 388","l":"Gloves by process"}, {"n":"FR line","l":"Hot works change everything"} ],
-      "schema": { "type": "Article" },
-      "blocks": [
-        { "type":"prose", "narrow":true, "klabel":"The base layer", "h2":"The coverall survived for a reason",
-          "html":"<p>The <strong>coverall</strong> remains manufacturing's default because it solves three problems at once: it covers the torso and legs in one garment with no waist gap, it has no loose hem to catch, and it takes industrial laundering. Poly-cotton handles general machining and assembly; heavier cotton drill suits hot, dirty work; and once processes involve flame or arc, the coverall goes <a href='fr-coveralls-for-welders.html'>FR — a different garment entirely</a>.</p><p>Fit rules matter more here than anywhere: <strong>cuffs close, zips done, nothing flapping</strong>. Rotating machinery turns loose fabric into a winch line — it's why workshop rules ban dangling drawstrings and why coverall cuffs button or elasticate. Two-piece alternatives (work trousers + polo or sweatshirt) suit assembly and inspection roles where the machine risk is lower and comfort wins.</p>" },
-        { "type":"table", "variant":"alt", "klabel":"Gloves", "h2":"Match the glove to the process", "lead":"One factory, four glove specs — buying a single glove for everyone protects no one properly.",
-          "head":["Process","Glove","EN 388 spec to look for"],
-          "rows":[
-            ["Assembly & finishing","Thin PU-coated","<span class='code'>Abrasion 3+</span>, dexterity first"],
-            ["Sheet metal, stamping, laser-cut parts","Cut-resistant coated","<span class='code'>Cut level C–D</span> (ISO 13997 letter)"],
-            ["Oily machining & maintenance","Nitrile fully-coated","<span class='code'>4-series abrasion</span>, oil grip"],
-            ["Hot parts & welding","Heat / welding gauntlet","<span class='code'>EN 407 / EN 12477</span>, not an EN 388 buy"]
-          ] },
-        { "type":"prose", "variant":"alt", "klabel":"The FR line", "h2":"Where ordinary workwear stops being legal",
-          "html":"<p>The moment a process involves <strong>welding, grinding sparks, open flame or electrical arc risk</strong>, ordinary poly-cotton is the wrong side of a hard line — it melts onto skin. Past that line the kit is <strong>flame-resistant to EN ISO 11612</strong> (with <a href='fr-coveralls-for-welders.html'>EN ISO 11611 for welding specifically</a>), arc-rated to IEC 61482 for electrical work, and antistatic to EN 1149-5 where flammable atmospheres exist.</p><p>The rule that gets missed: <strong>FR only works as a system</strong>. An FR coverall zipped over a polyester hoodie is a melt layer wrapped in a safe one — mid layers under FR must be FR or natural fibre. And FR garments have their own <a href='how-to-wash-fr-coveralls.html'>washing rules</a>; softener and bleach quietly strip the protection.</p>" },
-        { "type":"keyfacts", "klabel":"Uniform layer", "h2":"The non-safety kit still works for you",
-          "items":[
-            {"n":"Embroidered polos","l":"Assembly, QA and stores read as one team — and visitors can find a supervisor"},
-            {"n":"Industrial-wash grade","l":"Buy garments rated for the laundry cycle you actually run"},
-            {"n":"Personal issue","l":"Named sets beat communal bins — kit that's yours gets looked after"}
-          ] },
-        { "type":"citebox", "html":"Boot codes for factory floors (S1P inside, S3 for yard and goods-in) are decoded at the <a href='safety-boot-codes-explained.html'>footwear guide</a>; glove markings at the <a href='en-388-glove-ratings-decoder.html'>EN 388 decoder</a>." },
-        { "type":"clusternav" },
-        { "type":"faq", "klabel":"Questions", "h2":"Manufacturing kit FAQ" }
+      "heroMeta": [
+        {
+          "n": "Snug fit",
+          "l": "Loose cuffs and machines don't mix"
+        },
+        {
+          "n": "EN 388",
+          "l": "Gloves by process"
+        },
+        {
+          "n": "FR line",
+          "l": "Hot works change everything"
+        }
       ],
-      "faq":[
-        {"q":"What workwear do factory workers need?","a":"The common base is a coverall or work trousers with a polo/sweatshirt, S1P safety footwear, and gloves matched to the process — dexterity-first for assembly, cut-rated for sheet metal, nitrile for oily work. Hot works and arc risk move the spec to FR garments under EN ISO 11612/11611 and IEC 61482."},
-        {"q":"Why do machine shops ban loose clothing?","a":"Rotating machinery — lathes, drills, mills — catches loose cuffs, drawstrings and untucked hems and pulls the wearer in. Workshop kit is cut snug with closable cuffs for exactly this reason; it's also why gloves are sometimes prohibited at specific rotating machines."},
-        {"q":"Can you wear a normal hoodie under an FR coverall?","a":"No — polyester and other melt-prone synthetics under FR defeat the system. In a flash event the FR outer survives while the synthetic mid-layer melts against skin. Under FR, wear FR-rated or natural-fibre layers only."},
-        {"q":"What gloves for handling sheet metal?","a":"A cut-resistant coated glove at ISO 13997 cut level C as the starting point, D or higher for heavy, oily or forceful handling. Specify by the letter, not the old coup-test digit — the decoder guide explains the difference."}
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The base layer",
+          "h2": "The coverall survived for a reason",
+          "html": "<p>The <strong>coverall</strong> remains manufacturing's default because it solves three problems at once: it covers the torso and legs in one garment with no waist gap, it has no loose hem to catch, and it takes industrial laundering. Poly-cotton handles general machining and assembly; heavier cotton drill suits hot, dirty work; and once processes involve flame or arc, the coverall goes <a href='fr-coveralls-for-welders.html'>FR — a different garment entirely</a>.</p><p>Fit rules matter more here than anywhere: <strong>cuffs close, zips done, nothing flapping</strong>. Rotating machinery turns loose fabric into a winch line — it's why workshop rules ban dangling drawstrings and why coverall cuffs button or elasticate. Two-piece alternatives (work trousers + polo or sweatshirt) suit assembly and inspection roles where the machine risk is lower and comfort wins.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Gloves",
+          "h2": "Match the glove to the process",
+          "lead": "One factory, four glove specs — buying a single glove for everyone protects no one properly.",
+          "head": [
+            "Process",
+            "Glove",
+            "EN 388 spec to look for"
+          ],
+          "rows": [
+            [
+              "Assembly & finishing",
+              "Thin PU-coated",
+              "<span class='code'>Abrasion 3+</span>, dexterity first"
+            ],
+            [
+              "Sheet metal, stamping, laser-cut parts",
+              "Cut-resistant coated",
+              "<span class='code'>Cut level C–D</span> (ISO 13997 letter)"
+            ],
+            [
+              "Oily machining & maintenance",
+              "Nitrile fully-coated",
+              "<span class='code'>4-series abrasion</span>, oil grip"
+            ],
+            [
+              "Hot parts & welding",
+              "Heat / welding gauntlet",
+              "<span class='code'>EN 407 / EN 12477</span>, not an EN 388 buy"
+            ]
+          ]
+        },
+        {
+          "type": "prose",
+          "variant": "alt",
+          "klabel": "The FR line",
+          "h2": "Where ordinary workwear stops being legal",
+          "html": "<p>The moment a process involves <strong>welding, grinding sparks, open flame or electrical arc risk</strong>, ordinary poly-cotton is the wrong side of a hard line — it melts onto skin. Past that line the kit is <strong>flame-resistant to EN ISO 11612</strong> (with <a href='fr-coveralls-for-welders.html'>EN ISO 11611 for welding specifically</a>), arc-rated to IEC 61482 for electrical work, and antistatic to EN 1149-5 where flammable atmospheres exist.</p><p>The rule that gets missed: <strong>FR only works as a system</strong>. An FR coverall zipped over a polyester hoodie is a melt layer wrapped in a safe one — mid layers under FR must be FR or natural fibre. And FR garments have their own <a href='how-to-wash-fr-coveralls.html'>washing rules</a>; softener and bleach quietly strip the protection.</p>"
+        },
+        {
+          "type": "keyfacts",
+          "klabel": "Uniform layer",
+          "h2": "The non-safety kit still works for you",
+          "items": [
+            {
+              "n": "Embroidered polos",
+              "l": "Assembly, QA and stores read as one team — and visitors can find a supervisor"
+            },
+            {
+              "n": "Industrial-wash grade",
+              "l": "Buy garments rated for the laundry cycle you actually run"
+            },
+            {
+              "n": "Personal issue",
+              "l": "Named sets beat communal bins — kit that's yours gets looked after"
+            }
+          ]
+        },
+        {
+          "type": "citebox",
+          "html": "Boot codes for factory floors (S1P inside, S3 for yard and goods-in) are decoded at the <a href='safety-boot-codes-explained.html'>footwear guide</a>; glove markings at the <a href='en-388-glove-ratings-decoder.html'>EN 388 decoder</a>."
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Manufacturing kit FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What workwear do factory workers need?",
+          "a": "The common base is a coverall or work trousers with a polo/sweatshirt, S1P safety footwear, and gloves matched to the process — dexterity-first for assembly, cut-rated for sheet metal, nitrile for oily work. Hot works and arc risk move the spec to FR garments under EN ISO 11612/11611 and IEC 61482."
+        },
+        {
+          "q": "Why do machine shops ban loose clothing?",
+          "a": "Rotating machinery — lathes, drills, mills — catches loose cuffs, drawstrings and untucked hems and pulls the wearer in. Workshop kit is cut snug with closable cuffs for exactly this reason; it's also why gloves are sometimes prohibited at specific rotating machines."
+        },
+        {
+          "q": "Can you wear a normal hoodie under an FR coverall?",
+          "a": "No — polyester and other melt-prone synthetics under FR defeat the system. In a flash event the FR outer survives while the synthetic mid-layer melts against skin. Under FR, wear FR-rated or natural-fibre layers only."
+        },
+        {
+          "q": "What gloves for handling sheet metal?",
+          "a": "A cut-resistant coated glove at ISO 13997 cut level C as the starting point, D or higher for heavy, oily or forceful handling. Specify by the letter, not the old coup-test digit — the decoder guide explains the difference."
+        }
       ]
     },
     {
@@ -161,38 +461,133 @@
       "metaTitle": "Healthcare & Care Workwear Guide: Scrubs & Tunics | iNeedWorkwear",
       "metaDesc": "Workwear for hospitals, clinics and care homes — scrubs vs tunics, laundering at 60°C for infection control, colour-coding by role, and footwear for 12-hour shifts.",
       "lede": "Healthcare kit is judged by two audiences at once: the infection-control audit and the person wearing it for twelve hours. The garments that survive both — scrubs, tunics, washable footwear — are chosen on fabric, wash temperature and fit, not looks.",
-      "heroMeta": [ {"n":"60 °C","l":"The laundering benchmark"}, {"n":"12 hr","l":"The shift the kit must survive"}, {"n":"By colour","l":"Role identification at a glance"} ],
-      "schema": { "type": "Article" },
-      "blocks": [
-        { "type":"prose", "narrow":true, "klabel":"The choice", "h2":"Scrubs or tunics — it's a workflow question",
-          "html":"<p><strong>Scrubs</strong> — loose top and trousers, pocketed, unisex — are the default where clothing changes happen on site and garments cycle through pooled laundry: wards, theatres, dental surgeries, veterinary practice. They're cheap enough to own in numbers and cut for movement.</p><p><strong>Tunics</strong> — structured, fitted, usually worn with your own trousers — dominate where staff present to the public all day: clinics, care homes, community nursing, salons crossing into aesthetics. They hold their shape through a shift, carry piping or trim for role colour-coding, and read as professional in a way a scrub top doesn't.</p><p>Neither is \"better\" — plenty of employers issue tunics to front-of-house clinical staff and scrubs to everyone behind the doors. The real constants are below: fabric weight, wash survival and fit.</p>" },
-        { "type":"keyfacts", "variant":"dark", "klabel":"Infection control", "h2":"The laundering facts that decide the fabric",
-          "items":[
-            {"n":"60 °C","l":"The common benchmark wash for used healthcare linen and uniforms — the garment must take it, repeatedly"},
-            {"n":"Poly-cotton","l":"The workhorse blend: survives hot industrial cycles that pure cotton shrinks out of"},
-            {"n":"Change at work","l":"Standard uniform policy separates the commute from the clinical environment — issue enough sets to make it possible"}
-          ] },
-        { "type":"table", "variant":"alt", "klabel":"Kit list", "h2":"By setting", "lead":"The sector splits by setting more than by job title.",
-          "head":["Setting","Core kit","Notes"],
-          "rows":[
-            ["Hospital ward / theatre","Scrub sets, washable <span class='code'>SRC/SR</span> footwear","Pooled laundry; colour by department"],
-            ["Care home","Tunics with role-colour trim, comfort-stretch trousers","Public-facing all shift; names and logos embroidered"],
-            ["Community & domiciliary care","Tunic or polo + softshell or fleece for travel","The car is part of the workplace — layer for it"],
-            ["Clinic / dental / veterinary","Scrubs or tunics by front/back of house","Short cycles, high garment turnover"],
-            ["Support services (porters, housekeeping)","Polos or sweatshirts, service-colour coded","Same laundering rules as clinical wear"]
-          ] },
-        { "type":"prose", "klabel":"On their feet", "h2":"Footwear is the forgotten uniform item", "narrow":true,
-          "html":"<p>Twelve-hour shifts on hard flooring make footwear the item staff care most about — and the one policies say least about. The working spec: <strong>washable upper</strong> (spills happen), <strong>slip-rated sole</strong> (an <a href='safety-boot-codes-explained.html'>SR mark</a> on safety styles, or dedicated slip-rated occupational shoes where no toe cap is needed), closed toe, and cushioning that survives concrete-under-vinyl. Where portering or stores work involves real impact risk, that's an <span class='code'>S2</span> washable safety shoe rather than a trainer-style clog.</p>" },
-        { "type":"citebox", "html":"See healthcare kit in a real setting mix at <a href='workwear-harrogate.html'>Harrogate — hospitality and care economy</a>. For team embroidery and colour-coding, <a href='contact.html'>talk to us</a> before the garments are ordered — colour-coding is easiest to get right up front." },
-        { "type":"clusternav" },
-        { "type":"faq", "klabel":"Questions", "h2":"Healthcare kit FAQ" }
+      "heroMeta": [
+        {
+          "n": "60 °C",
+          "l": "The laundering benchmark"
+        },
+        {
+          "n": "12 hr",
+          "l": "The shift the kit must survive"
+        },
+        {
+          "n": "By colour",
+          "l": "Role identification at a glance"
+        }
       ],
-      "faq":[
-        {"q":"What's the difference between scrubs and tunics?","a":"Scrubs are loose two-piece sets built for on-site changing and pooled hot laundering — the wards-and-theatres default. Tunics are structured, fitted garments worn with your own trousers, favoured in care homes and clinics where staff face the public all day and role colour-coding matters."},
-        {"q":"What temperature should healthcare uniforms be washed at?","a":"The common benchmark for used healthcare textiles is a 60 °C wash, which is why healthcare garments are cut in poly-cotton blends rated for repeated hot cycles. Follow your employer's uniform and laundering policy — and buy garments that can take it."},
-        {"q":"How many sets of scrubs or tunics do staff need?","a":"Enough to change at work and never re-wear between washes — in practice three to five sets per person depending on shift pattern and laundry turnaround. Under-issuing sets is the most common way uniform policies fail in practice."},
-        {"q":"What shoes are best for hospital and care work?","a":"Washable uppers, slip-rated soles, closed toes and real cushioning — 12-hour shifts on hard floors are the design brief. Roles with impact risk (porters, stores) step up to an S2 washable safety shoe."}
-      ]
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The choice",
+          "h2": "Scrubs or tunics — it's a workflow question",
+          "html": "<p><strong>Scrubs</strong> — loose top and trousers, pocketed, unisex — are the default where clothing changes happen on site and garments cycle through pooled laundry: wards, theatres, dental surgeries, veterinary practice. They're cheap enough to own in numbers and cut for movement.</p><p><strong>Tunics</strong> — structured, fitted, usually worn with your own trousers — dominate where staff present to the public all day: clinics, care homes, community nursing, salons crossing into aesthetics. They hold their shape through a shift, carry piping or trim for role colour-coding, and read as professional in a way a scrub top doesn't.</p><p>Neither is \"better\" — plenty of employers issue tunics to front-of-house clinical staff and scrubs to everyone behind the doors. The real constants are below: fabric weight, wash survival and fit.</p>"
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Infection control",
+          "h2": "The laundering facts that decide the fabric",
+          "items": [
+            {
+              "n": "60 °C",
+              "l": "The common benchmark wash for used healthcare linen and uniforms — the garment must take it, repeatedly"
+            },
+            {
+              "n": "Poly-cotton",
+              "l": "The workhorse blend: survives hot industrial cycles that pure cotton shrinks out of"
+            },
+            {
+              "n": "Change at work",
+              "l": "Standard uniform policy separates the commute from the clinical environment — issue enough sets to make it possible"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Kit list",
+          "h2": "By setting",
+          "lead": "The sector splits by setting more than by job title.",
+          "head": [
+            "Setting",
+            "Core kit",
+            "Notes"
+          ],
+          "rows": [
+            [
+              "Hospital ward / theatre",
+              "Scrub sets, washable <span class='code'>SRC/SR</span> footwear",
+              "Pooled laundry; colour by department"
+            ],
+            [
+              "Care home",
+              "Tunics with role-colour trim, comfort-stretch trousers",
+              "Public-facing all shift; names and logos embroidered"
+            ],
+            [
+              "Community & domiciliary care",
+              "Tunic or polo + softshell or fleece for travel",
+              "The car is part of the workplace — layer for it"
+            ],
+            [
+              "Clinic / dental / veterinary",
+              "Scrubs or tunics by front/back of house",
+              "Short cycles, high garment turnover"
+            ],
+            [
+              "Support services (porters, housekeeping)",
+              "Polos or sweatshirts, service-colour coded",
+              "Same laundering rules as clinical wear"
+            ]
+          ]
+        },
+        {
+          "type": "prose",
+          "klabel": "On their feet",
+          "h2": "Footwear is the forgotten uniform item",
+          "narrow": true,
+          "html": "<p>Twelve-hour shifts on hard flooring make footwear the item staff care most about — and the one policies say least about. The working spec: <strong>washable upper</strong> (spills happen), <strong>slip-rated sole</strong> (an <a href='safety-boot-codes-explained.html'>SR mark</a> on safety styles, or dedicated slip-rated occupational shoes where no toe cap is needed), closed toe, and cushioning that survives concrete-under-vinyl. Where portering or stores work involves real impact risk, that's an <span class='code'>S2</span> washable safety shoe rather than a trainer-style clog.</p>"
+        },
+        {
+          "type": "citebox",
+          "html": "See healthcare kit in a real setting mix at <a href='workwear-harrogate.html'>Harrogate — hospitality and care economy</a>. For team embroidery and colour-coding, <a href='contact.html'>talk to us</a> before the garments are ordered — colour-coding is easiest to get right up front."
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Healthcare kit FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What's the difference between scrubs and tunics?",
+          "a": "Scrubs are loose two-piece sets built for on-site changing and pooled hot laundering — the wards-and-theatres default. Tunics are structured, fitted garments worn with your own trousers, favoured in care homes and clinics where staff face the public all day and role colour-coding matters."
+        },
+        {
+          "q": "What temperature should healthcare uniforms be washed at?",
+          "a": "The common benchmark for used healthcare textiles is a 60 °C wash, which is why healthcare garments are cut in poly-cotton blends rated for repeated hot cycles. Follow your employer's uniform and laundering policy — and buy garments that can take it."
+        },
+        {
+          "q": "How many sets of scrubs or tunics do staff need?",
+          "a": "Enough to change at work and never re-wear between washes — in practice three to five sets per person depending on shift pattern and laundry turnaround. Under-issuing sets is the most common way uniform policies fail in practice."
+        },
+        {
+          "q": "What shoes are best for hospital and care work?",
+          "a": "Washable uppers, slip-rated soles, closed toes and real cushioning — 12-hour shifts on hard floors are the design brief. Roles with impact risk (porters, stores) step up to an S2 washable safety shoe."
+        }
+      ],
+      "heroImage": {
+        "src": "assets/heroes/medical-team.webp",
+        "alt": "Medical team wearing scrubs",
+        "kind": "photo"
+      }
     },
     {
       "slug": "hospitality-workwear-guide",
@@ -207,37 +602,125 @@
       "metaTitle": "Hospitality & Catering Workwear Guide | iNeedWorkwear",
       "metaDesc": "Kitchen and front-of-house workwear explained — why chef whites are double-breasted cotton, aprons by station, slip-rated footwear, and FOH uniform that survives service.",
       "lede": "A kitchen at service is a small industrial site: open flame, hot fat, wet floors, knives. Chef whites look traditional, but every detail is engineering. Front of house has a different brief — look sharp at hour one and hour ten. Here's both wardrobes, done properly.",
-      "heroMeta": [ {"n":"Double-breasted","l":"A burn shield you can flip"}, {"n":"Cotton-rich","l":"Heat + steam demand it"}, {"n":"SR soles","l":"Wet floors are the top hazard"} ],
-      "schema": { "type": "Article" },
-      "blocks": [
-        { "type":"prose", "narrow":true, "klabel":"The whites", "h2":"Every detail of a chef jacket is doing a job",
-          "html":"<p>The <strong>double-breasted front</strong> is a reversible splash shield — caught by hot fat, you re-button to the clean, dry layer. The <strong>cotton-rich fabric</strong> insulates against radiant heat and steam where thin polyester would conduct it (and melt); the <strong>knotted or capped buttons</strong> survive industrial laundering that shears plastic ones; <strong>long sleeves</strong> exist for the moment an oven shelf meets a forearm. Modern cuts add vented backs and lighter weaves because 40&nbsp;°C at the pass is the other occupational hazard.</p><p>Below the jacket: <strong>chef trousers</strong> loose enough to pull away from a scald rather than press it in, and an <strong>apron</strong> chosen by station rather than habit — that's the table below.</p>" },
-        { "type":"table", "variant":"alt", "klabel":"Aprons", "h2":"Aprons by station",
-          "head":["Station","Apron","Why"],
-          "rows":[
-            ["Grill & fry","Heavyweight cotton bib, full length","Radiant heat and fat spatter — coverage first"],
-            ["Pass & plating","Waist apron over whites","Speed and pocket access; splash risk is low"],
-            ["Prep & butchery","Heavy bib, wipe-clean or leather-front option","Sustained mess, sharp tools, hose-down cleaning"],
-            ["Pot wash / plonge","Waterproof bib","Standing spray — cotton soaks, PVC sheds"],
-            ["Barista & bar","Denim or waxed waist apron, branded","Front-of-house visible: part uniform, part protection"]
-          ] },
-        { "type":"prose", "variant":"alt", "klabel":"Underfoot", "h2":"The floor is the kitchen's biggest hazard",
-          "html":"<p>More kitchen injuries come from <strong>wet, greasy floors</strong> than from burns or blades — which makes footwear the highest-value spec on this page. The brief: <strong>slip-rated sole</strong> (the <a href='safety-boot-codes-explained.html'>SR mark</a> under the current standard), <strong>closed, liquid-shedding upper</strong> against dropped pans and hot spills, and comfort for a double shift on tile. Kitchens with real impact risk — kegs, crates, goods-in — step up to an <span class='code'>S2</span> washable safety shoe: water-resistant upper, toe cap, same slip rating.</p>" },
-        { "type":"keyfacts", "klabel":"Front of house", "h2":"FOH uniform: three rules that survive service",
-          "items":[
-            {"n":"Dark + washable","l":"Service marks show on pale poly-cotton by table three — dark, hot-washable fabrics stay presentable"},
-            {"n":"Layered, not suited","l":"Branded polo or shirt + apron + optional waistcoat flexes from café to fine dining"},
-            {"n":"Embroidered, not printed","l":"Logos on FOH kit take hundreds of washes — stitching outlasts print"}
-          ] },
-        { "type":"citebox", "html":"Chef whites and hygiene laundering in a real town economy: <a href='workwear-harrogate.html'>Harrogate</a>. Hot-works clothing in kitchens follows the same fabric logic as industry — the <a href='how-to-wash-fr-coveralls.html'>FR washing guide</a> explains why synthetics and heat don't mix." },
-        { "type":"clusternav" },
-        { "type":"faq", "klabel":"Questions", "h2":"Hospitality kit FAQ" }
+      "heroMeta": [
+        {
+          "n": "Double-breasted",
+          "l": "A burn shield you can flip"
+        },
+        {
+          "n": "Cotton-rich",
+          "l": "Heat + steam demand it"
+        },
+        {
+          "n": "SR soles",
+          "l": "Wet floors are the top hazard"
+        }
       ],
-      "faq":[
-        {"q":"Why are chef jackets double-breasted?","a":"The double front is a working feature: two layers of cotton insulate the chest against heat and splash, and if the outer layer catches hot fat or sauce the jacket re-buttons to present the clean, dry inner layer. It's a burn shield you can flip mid-service."},
-        {"q":"What shoes should kitchen staff wear?","a":"Closed, liquid-shedding uppers with a slip-rated (SR) sole and real cushioning — wet, greasy floors cause more kitchen injuries than burns do. Where kegs, crates or goods-in add impact risk, a washable S2 safety shoe adds a toe cap to the same spec."},
-        {"q":"Can chef whites be any colour?","a":"Whites are traditional because they show contamination honestly and take boil washing, but blacks and greys are now common front-facing kitchens. The non-negotiables are the fabric and construction — cotton-rich, double-breasted, launderable hot — not the colour."},
-        {"q":"What aprons do different kitchen stations need?","a":"Match the apron to the station's hazard: heavyweight full-length cotton for grill and fry, waterproof bibs for pot wash, wipe-clean heavy bibs for prep and butchery, and lighter waist aprons at the pass and front of house where speed and pockets matter more than coverage."}
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The whites",
+          "h2": "Every detail of a chef jacket is doing a job",
+          "html": "<p>The <strong>double-breasted front</strong> is a reversible splash shield — caught by hot fat, you re-button to the clean, dry layer. The <strong>cotton-rich fabric</strong> insulates against radiant heat and steam where thin polyester would conduct it (and melt); the <strong>knotted or capped buttons</strong> survive industrial laundering that shears plastic ones; <strong>long sleeves</strong> exist for the moment an oven shelf meets a forearm. Modern cuts add vented backs and lighter weaves because 40&nbsp;°C at the pass is the other occupational hazard.</p><p>Below the jacket: <strong>chef trousers</strong> loose enough to pull away from a scald rather than press it in, and an <strong>apron</strong> chosen by station rather than habit — that's the table below.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Aprons",
+          "h2": "Aprons by station",
+          "head": [
+            "Station",
+            "Apron",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Grill & fry",
+              "Heavyweight cotton bib, full length",
+              "Radiant heat and fat spatter — coverage first"
+            ],
+            [
+              "Pass & plating",
+              "Waist apron over whites",
+              "Speed and pocket access; splash risk is low"
+            ],
+            [
+              "Prep & butchery",
+              "Heavy bib, wipe-clean or leather-front option",
+              "Sustained mess, sharp tools, hose-down cleaning"
+            ],
+            [
+              "Pot wash / plonge",
+              "Waterproof bib",
+              "Standing spray — cotton soaks, PVC sheds"
+            ],
+            [
+              "Barista & bar",
+              "Denim or waxed waist apron, branded",
+              "Front-of-house visible: part uniform, part protection"
+            ]
+          ]
+        },
+        {
+          "type": "prose",
+          "variant": "alt",
+          "klabel": "Underfoot",
+          "h2": "The floor is the kitchen's biggest hazard",
+          "html": "<p>More kitchen injuries come from <strong>wet, greasy floors</strong> than from burns or blades — which makes footwear the highest-value spec on this page. The brief: <strong>slip-rated sole</strong> (the <a href='safety-boot-codes-explained.html'>SR mark</a> under the current standard), <strong>closed, liquid-shedding upper</strong> against dropped pans and hot spills, and comfort for a double shift on tile. Kitchens with real impact risk — kegs, crates, goods-in — step up to an <span class='code'>S2</span> washable safety shoe: water-resistant upper, toe cap, same slip rating.</p>"
+        },
+        {
+          "type": "keyfacts",
+          "klabel": "Front of house",
+          "h2": "FOH uniform: three rules that survive service",
+          "items": [
+            {
+              "n": "Dark + washable",
+              "l": "Service marks show on pale poly-cotton by table three — dark, hot-washable fabrics stay presentable"
+            },
+            {
+              "n": "Layered, not suited",
+              "l": "Branded polo or shirt + apron + optional waistcoat flexes from café to fine dining"
+            },
+            {
+              "n": "Embroidered, not printed",
+              "l": "Logos on FOH kit take hundreds of washes — stitching outlasts print"
+            }
+          ]
+        },
+        {
+          "type": "citebox",
+          "html": "Chef whites and hygiene laundering in a real town economy: <a href='workwear-harrogate.html'>Harrogate</a>. Hot-works clothing in kitchens follows the same fabric logic as industry — the <a href='how-to-wash-fr-coveralls.html'>FR washing guide</a> explains why synthetics and heat don't mix."
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Hospitality kit FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Why are chef jackets double-breasted?",
+          "a": "The double front is a working feature: two layers of cotton insulate the chest against heat and splash, and if the outer layer catches hot fat or sauce the jacket re-buttons to present the clean, dry inner layer. It's a burn shield you can flip mid-service."
+        },
+        {
+          "q": "What shoes should kitchen staff wear?",
+          "a": "Closed, liquid-shedding uppers with a slip-rated (SR) sole and real cushioning — wet, greasy floors cause more kitchen injuries than burns do. Where kegs, crates or goods-in add impact risk, a washable S2 safety shoe adds a toe cap to the same spec."
+        },
+        {
+          "q": "Can chef whites be any colour?",
+          "a": "Whites are traditional because they show contamination honestly and take boil washing, but blacks and greys are now common front-facing kitchens. The non-negotiables are the fabric and construction — cotton-rich, double-breasted, launderable hot — not the colour."
+        },
+        {
+          "q": "What aprons do different kitchen stations need?",
+          "a": "Match the apron to the station's hazard: heavyweight full-length cotton for grill and fry, waterproof bibs for pot wash, wipe-clean heavy bibs for prep and butchery, and lighter waist aprons at the pass and front of house where speed and pockets matter more than coverage."
+        }
       ]
     },
     {
@@ -253,38 +736,131 @@
       "metaTitle": "Energy & Offshore Workwear Guide: Multi-Norm FR | iNeedWorkwear",
       "metaDesc": "Workwear for energy and offshore — why multi-norm FR coveralls (EN ISO 11612, IEC 61482, EN 1149-5) are the base layer, the FR layering rule, and what offshore work adds.",
       "lede": "In most sectors, flame-resistant kit is the exception you reach for. In energy — refineries, gas plants, offshore platforms, major electrical infrastructure — it's the everyday uniform, and the question flips from \"do we need FR?\" to \"which norms, and what goes underneath it?\"",
-      "heroMeta": [ {"n":"Multi-norm","l":"11612 + 61482 + 1149-5"}, {"n":"FR under FR","l":"The layering rule"}, {"n":"Orange","l":"The sector's working colour"} ],
-      "schema": { "type": "Article" },
-      "blocks": [
-        { "type":"prose", "narrow":true, "klabel":"The base layer", "h2":"Why energy kit is multi-norm by default",
-          "html":"<p>An energy site rarely presents one hazard at a time — a turnaround crew can face flash-fire risk, arc-flash risk near switchgear and a flammable atmosphere in the same shift. That's why the sector standardised on the <strong>multi-norm FR coverall</strong>: one garment certified simultaneously to <strong>EN ISO 11612</strong> (heat and flame), <strong>IEC 61482</strong> (electric arc) and <strong>EN 1149-5</strong> (antistatic, for explosive atmospheres), usually with hi-vis to <a href='en-iso-20471-hi-vis-classes-explained.html'>EN ISO 20471</a> stacked on where vehicles and plant move.</p><p>The codes on the label matter individually — 11612 letters A–F grade heat types, 61482 gives an arc class — and the <a href='fr-coveralls-for-welders.html'>welders' guide</a> unpacks them. What this page adds is the sector's operating rules: the layering system, and what offshore stacks on top.</p>" },
-        { "type":"warnbar", "html":"<strong>The layering rule that voids everything else:</strong> FR is a system, not a shell. A polyester fleece or synthetic base layer under a certified FR coverall melts in a flash event — inside the garment that just did its job. Under FR, every layer is FR-rated or natural fibre. No exceptions, including the T-shirt." },
-        { "type":"table", "variant":"alt", "klabel":"Kit map", "h2":"Onshore energy vs offshore", "lead":"The base is shared; offshore adds marine and survival context on top.",
-          "head":["","Onshore (refinery, gas, grid)","Offshore (platform, vessel)"],
-          "rows":[
-            ["Base garment","Multi-norm FR coverall or two-piece","Multi-norm FR coverall — typically <span class='code'>orange</span>, fleet-branded"],
-            ["Under-layers","<span class='code'>FR or natural-fibre</span> base layers","FR base layers rated for North Sea cold"],
-            ["Weather layer","FR-rated hi-vis winter jacket","FR waterproofs; wind is the constant"],
-            ["Hands & head","Arc-rated or cut-rated gloves by task, hard hat","Same, plus grip rated for wet steel"],
-            ["Extras","ESD footwear where zoned","Survival suit for transfers — issued, not bought"]
-          ] },
-        { "type":"prose", "klabel":"Managing it", "h2":"FR kit is a managed asset, not a wardrobe", "narrow":true,
-          "html":"<p>Multi-norm garments are the most expensive workwear on this site, and they repay management: <strong>personal issue with named sets</strong>, <strong>laundering per the label</strong> (softener and bleach strip FR treatments — <a href='how-to-wash-fr-coveralls.html'>the wash guide</a> covers it), and <strong>retirement on damage</strong>, because a torn or contaminated FR garment has lost the protection its price paid for. Hydrocarbon soaking matters specifically: an oil-impregnated coverall can burn regardless of its rating, which is why <a href='oil-grease-out-of-workwear.html'>getting oil out</a> isn't a cosmetic exercise in this sector.</p>" },
-        { "type":"keyfacts", "variant":"dark", "klabel":"Buying notes", "h2":"Three specification habits from the sector",
-          "items":[
-            {"n":"Norms on the label","l":"Specify the exact certifications (11612 codes, 61482 class) — \"FR\" alone is not a spec"},
-            {"n":"Sized over layers","l":"Coveralls are fitted over FR mid-layers, not bare — order accordingly"},
-            {"n":"Logo placement","l":"Badging on FR garments must not compromise the certified fabric — heat-applied transfers need FR-compatible processes"}
-          ] },
-        { "type":"citebox", "html":"See the sector against a real economy at <a href='workwear-aberdeen.html'>Aberdeen — offshore, subsea and energy trades</a>. The standards themselves are decoded in the <a href='fr-coveralls-for-welders.html'>FR &amp; welding guide</a>." },
-        { "type":"clusternav" },
-        { "type":"faq", "klabel":"Questions", "h2":"Energy & offshore kit FAQ" }
+      "heroMeta": [
+        {
+          "n": "Multi-norm",
+          "l": "11612 + 61482 + 1149-5"
+        },
+        {
+          "n": "FR under FR",
+          "l": "The layering rule"
+        },
+        {
+          "n": "Orange",
+          "l": "The sector's working colour"
+        }
       ],
-      "faq":[
-        {"q":"What is multi-norm FR workwear?","a":"A single garment certified to several protective standards at once — typically EN ISO 11612 (heat and flame), IEC 61482 (electric arc) and EN 1149-5 (antistatic), often with EN ISO 20471 hi-vis. Energy sites standardise on it because their hazards overlap in the same shift."},
-        {"q":"What do you wear under an FR coverall?","a":"Only FR-rated or natural-fibre layers — FR base layers, FR mid-layers, cotton. Synthetic fleeces and polyester T-shirts melt in a flash event inside the garment. The layering rule is absolute in this sector, down to the T-shirt."},
-        {"q":"Why is offshore workwear orange?","a":"Convention and visibility: orange contrasts against sea, steel and sky, and most operators fleet-brand orange multi-norm coveralls as the platform uniform. It also aligns with the survival and transfer kit ecosystem, which is issued by the operator rather than bought."},
-        {"q":"Does oil contamination really make FR clothing unsafe?","a":"Yes — a hydrocarbon-soaked garment can ignite and burn regardless of the fabric's FR rating. Contaminated FR kit comes off shift for proper laundering, and garments that won't come clean are retired. It's a safety rule, not a cleanliness preference."}
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The base layer",
+          "h2": "Why energy kit is multi-norm by default",
+          "html": "<p>An energy site rarely presents one hazard at a time — a turnaround crew can face flash-fire risk, arc-flash risk near switchgear and a flammable atmosphere in the same shift. That's why the sector standardised on the <strong>multi-norm FR coverall</strong>: one garment certified simultaneously to <strong>EN ISO 11612</strong> (heat and flame), <strong>IEC 61482</strong> (electric arc) and <strong>EN 1149-5</strong> (antistatic, for explosive atmospheres), usually with hi-vis to <a href='en-iso-20471-hi-vis-classes-explained.html'>EN ISO 20471</a> stacked on where vehicles and plant move.</p><p>The codes on the label matter individually — 11612 letters A–F grade heat types, 61482 gives an arc class — and the <a href='fr-coveralls-for-welders.html'>welders' guide</a> unpacks them. What this page adds is the sector's operating rules: the layering system, and what offshore stacks on top.</p>"
+        },
+        {
+          "type": "warnbar",
+          "html": "<strong>The layering rule that voids everything else:</strong> FR is a system, not a shell. A polyester fleece or synthetic base layer under a certified FR coverall melts in a flash event — inside the garment that just did its job. Under FR, every layer is FR-rated or natural fibre. No exceptions, including the T-shirt."
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Kit map",
+          "h2": "Onshore energy vs offshore",
+          "lead": "The base is shared; offshore adds marine and survival context on top.",
+          "head": [
+            "",
+            "Onshore (refinery, gas, grid)",
+            "Offshore (platform, vessel)"
+          ],
+          "rows": [
+            [
+              "Base garment",
+              "Multi-norm FR coverall or two-piece",
+              "Multi-norm FR coverall — typically <span class='code'>orange</span>, fleet-branded"
+            ],
+            [
+              "Under-layers",
+              "<span class='code'>FR or natural-fibre</span> base layers",
+              "FR base layers rated for North Sea cold"
+            ],
+            [
+              "Weather layer",
+              "FR-rated hi-vis winter jacket",
+              "FR waterproofs; wind is the constant"
+            ],
+            [
+              "Hands & head",
+              "Arc-rated or cut-rated gloves by task, hard hat",
+              "Same, plus grip rated for wet steel"
+            ],
+            [
+              "Extras",
+              "ESD footwear where zoned",
+              "Survival suit for transfers — issued, not bought"
+            ]
+          ]
+        },
+        {
+          "type": "prose",
+          "klabel": "Managing it",
+          "h2": "FR kit is a managed asset, not a wardrobe",
+          "narrow": true,
+          "html": "<p>Multi-norm garments are the most expensive workwear on this site, and they repay management: <strong>personal issue with named sets</strong>, <strong>laundering per the label</strong> (softener and bleach strip FR treatments — <a href='how-to-wash-fr-coveralls.html'>the wash guide</a> covers it), and <strong>retirement on damage</strong>, because a torn or contaminated FR garment has lost the protection its price paid for. Hydrocarbon soaking matters specifically: an oil-impregnated coverall can burn regardless of its rating, which is why <a href='oil-grease-out-of-workwear.html'>getting oil out</a> isn't a cosmetic exercise in this sector.</p>"
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Buying notes",
+          "h2": "Three specification habits from the sector",
+          "items": [
+            {
+              "n": "Norms on the label",
+              "l": "Specify the exact certifications (11612 codes, 61482 class) — \"FR\" alone is not a spec"
+            },
+            {
+              "n": "Sized over layers",
+              "l": "Coveralls are fitted over FR mid-layers, not bare — order accordingly"
+            },
+            {
+              "n": "Logo placement",
+              "l": "Badging on FR garments must not compromise the certified fabric — heat-applied transfers need FR-compatible processes"
+            }
+          ]
+        },
+        {
+          "type": "citebox",
+          "html": "See the sector against a real economy at <a href='workwear-aberdeen.html'>Aberdeen — offshore, subsea and energy trades</a>. The standards themselves are decoded in the <a href='fr-coveralls-for-welders.html'>FR &amp; welding guide</a>."
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Energy & offshore kit FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What is multi-norm FR workwear?",
+          "a": "A single garment certified to several protective standards at once — typically EN ISO 11612 (heat and flame), IEC 61482 (electric arc) and EN 1149-5 (antistatic), often with EN ISO 20471 hi-vis. Energy sites standardise on it because their hazards overlap in the same shift."
+        },
+        {
+          "q": "What do you wear under an FR coverall?",
+          "a": "Only FR-rated or natural-fibre layers — FR base layers, FR mid-layers, cotton. Synthetic fleeces and polyester T-shirts melt in a flash event inside the garment. The layering rule is absolute in this sector, down to the T-shirt."
+        },
+        {
+          "q": "Why is offshore workwear orange?",
+          "a": "Convention and visibility: orange contrasts against sea, steel and sky, and most operators fleet-brand orange multi-norm coveralls as the platform uniform. It also aligns with the survival and transfer kit ecosystem, which is issued by the operator rather than bought."
+        },
+        {
+          "q": "Does oil contamination really make FR clothing unsafe?",
+          "a": "Yes — a hydrocarbon-soaked garment can ignite and burn regardless of the fabric's FR rating. Contaminated FR kit comes off shift for proper laundering, and garments that won't come clean are retired. It's a safety rule, not a cleanliness preference."
+        }
       ]
     }
   ]

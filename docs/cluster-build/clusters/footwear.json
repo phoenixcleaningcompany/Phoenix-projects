@@ -6,8 +6,29 @@
     "shopUrl": "https://www.ineedworkwear.com/collections/footwear",
     "baseUrl": "https://www.ineedworkwear.uk",
     "date": "2026-07-09",
-    "trust": ["EN ISO 20345 certified stock", "SB to S7", "Steel, composite & aluminium caps", "Boots, shoes & trainers", "Trade accounts"],
-    "cta": { "h2": "Know your S-code? Shop it.", "p": "EN ISO 20345 boots, shoes and safety trainers from stock — S1P and S3 always available, with trade-account ordering for teams.", "actions": [ {"label":"Shop safety footwear","href":"https://www.ineedworkwear.com/collections/footwear","style":"white"}, {"label":"Back to the guides","href":"guides.html","style":"dark"} ] }
+    "trust": [
+      "EN ISO 20345 certified stock",
+      "SB to S7",
+      "Steel, composite & aluminium caps",
+      "Boots, shoes & trainers",
+      "Trade accounts"
+    ],
+    "cta": {
+      "h2": "Know your S-code? Shop it.",
+      "p": "EN ISO 20345 boots, shoes and safety trainers from stock — S1P and S3 always available, with trade-account ordering for teams.",
+      "actions": [
+        {
+          "label": "Shop safety footwear",
+          "href": "https://www.ineedworkwear.com/collections/footwear",
+          "style": "white"
+        },
+        {
+          "label": "Back to the guides",
+          "href": "guides.html",
+          "style": "dark"
+        }
+      ]
+    }
   },
   "pages": [
     {
@@ -19,46 +40,186 @@
       "metaTitle": "Safety Footwear Guide: Boot Codes, Toe Caps & Choosing | iNeedWorkwear",
       "metaDesc": "How to choose safety boots — what EN ISO 20345 requires, the S1–S7 codes in one table, steel vs composite caps, and when a boot needs replacing.",
       "lede": "Every safety boot sold in the UK starts from the same baseline — a toe cap that survives a 200-joule impact. Everything after that is a code on the label: waterproofing, midsole protection, sole grip. This hub decodes the label, then points to the detailed guides.",
-      "heroCta": [ {"label":"Decode the S-codes","href":"safety-boot-codes-explained.html","style":"orange"}, {"label":"Shop safety footwear","href":"https://www.ineedworkwear.com/collections/footwear","style":"ghost"} ],
-      "heroMeta": [ {"n":"EN ISO 20345","l":"The standard"}, {"n":"200 J","l":"Every toe cap"}, {"n":"SB → S7","l":"The codes"} ],
-      "schema": { "type": "Article" },
-      "blocks": [
-        { "type":"prose", "narrow":true, "klabel":"The short version", "h2":"One baseline, then add-ons",
-          "html":"<p>The standard behind UK safety footwear is <strong>EN ISO 20345</strong>. Its non-negotiable is the toe cap: it must protect against a <strong>200-joule impact</strong> (roughly a 20&nbsp;kg mass dropped from a metre) and a <strong>15&nbsp;kN compression</strong>. That's true of a basic SB shoe and a top-spec S7 boot alike — the cap protection does not get \"better\" as the code goes up.</p><p>What the S-codes add is everything <em>around</em> the cap: antistatic soles, energy-absorbing heels, water-resistant uppers, puncture-resistant midsoles, cleated outsoles. So choosing footwear is two decisions, not one: <strong>which S-code the ground and weather demand</strong>, and <strong>which cap material suits the job</strong> — steel, composite or aluminium.</p><p>The 2022 revision of the standard also reshuffled the codes — adding S6 and S7 for fully waterproof footwear — so a label bought this year may read differently from one bought five years ago. The guides below cover the differences.</p>" },
-        { "type":"cards", "variant":"alt", "klabel":"At a glance", "h2":"The three questions that pick a boot", "lead":"Nearly every safety footwear decision resolves to ground, weather and site rules.",
-          "items":[
-            {"s":"Question 1","h3":"What's underfoot?","area":"Nails, screws, sharp scrap?","p":"Debris that can puncture a sole means a midsole code — S1P, S3, S5 or S7 — not plain S1 or S2."},
-            {"s":"Question 2","h3":"How wet is the work?","area":"Dry inside · showers · standing water","p":"Dry indoor work suits S1/S1P. Outdoor ground calls for S3. Genuinely wet work points to S6/S7 or a wellington (S4/S5)."},
-            {"s":"Question 3","h3":"What do site rules say?","hot":true,"area":"Many sites mandate S3 minimum","p":"Principal contractors commonly require S3 boots with midsole and ankle support regardless of task — check the site induction before buying lighter kit."}
-          ] },
-        { "type":"citebox", "variant":"alt", "html":"Every code on the label, decoded in one table: <a href='safety-boot-codes-explained.html'>Read: safety boot codes S1–S7 explained &rarr;</a>" },
-        { "type":"table", "klabel":"Quick reference", "h2":"Which code for which job", "lead":"The full code table lives in the S-codes guide — this is the short route to an answer.",
-          "head":["Typical work","Sensible spec","Why"],
-          "rows":[
-            ["Warehouse picking, light assembly, driving","<span class='code'>S1 / S1P</span>","Dry ground; midsole only if stray fixings are a risk"],
-            ["General construction site","<span class='code'>S3</span>","Wet ground + puncture risk + cleated grip; the common site minimum"],
-            ["Groundworks, drainage, concrete pours","<span class='code'>S5 wellington</span>","Standing water and mud beyond what a leather boot sheds"],
-            ["Outdoor trades through a British winter","<span class='code'>S7 (or S3 + WR)</span>","S3 protection plus certified whole-boot waterproofing"],
-            ["Food production, hygiene areas","<span class='code'>S2 (often white)</span>","Washable water-resistant upper; midsole rarely needed"],
-            ["Airport / secure sites with metal detectors","<span class='code'>Any code, composite cap</span>","Metal-free footwear clears archways without stripping off"]
-          ] },
-        { "type":"citebox", "html":"Cap material is the other half of the decision: <a href='composite-vs-steel-toe-caps.html'>Composite vs steel toe caps — the honest trade-offs &rarr;</a>" },
-        { "type":"keyfacts", "variant":"dark", "klabel":"The bit people miss", "h2":"A safety boot is a consumable",
-          "items":[
-            {"n":"One impact","l":"A cap that has taken its rated hit is spent — replace the boot even if it looks fine"},
-            {"n":"Tread wears","l":"Slip protection lives in the outsole pattern; worn smooth means it's gone"},
-            {"n":"6–12 months","l":"Typical daily-wear life on site — no law sets a date, condition decides"}
-          ] },
-        { "type":"citebox", "variant":"dark", "html":"Make a pair last and know when to bin it: <a href='safety-boot-care.html'>Safety boot care — drying, cleaning &amp; replacement &rarr;</a>" },
-        { "type":"spokes", "variant":"alt", "klabel":"Go deeper", "h2":"The detailed guides", "lead":"This hub is the overview. Each guide takes one decision further — and links back here." },
-        { "type":"faq", "klabel":"Questions", "h2":"Safety footwear FAQ" }
+      "heroCta": [
+        {
+          "label": "Decode the S-codes",
+          "href": "safety-boot-codes-explained.html",
+          "style": "orange"
+        },
+        {
+          "label": "Shop safety footwear",
+          "href": "https://www.ineedworkwear.com/collections/footwear",
+          "style": "ghost"
+        }
       ],
-      "faq":[
-        {"q":"What is the difference between EN ISO 20345 and EN ISO 20347?","a":"EN ISO 20345 is safety footwear — it requires a 200-joule toe cap. EN ISO 20347 is occupational footwear with no toe cap requirement, used where slip or water resistance matters but impact doesn't. If the job involves anything that can fall on or run over a foot, you need 20345."},
-        {"q":"Do all safety boots have the same toe protection?","a":"Yes — every EN ISO 20345 code from SB to S7 requires the same 200 J impact and 15 kN compression cap performance. Higher codes add protection around the cap (water resistance, midsoles, grip), not a stronger cap."},
-        {"q":"What safety boots do most construction sites require?","a":"S3 is the most common site minimum — toe cap, puncture-resistant midsole, water-resistant upper and a cleated outsole. Some principal contractors also require ankle support, which means a boot rather than a shoe or trainer. Check the site induction pack before buying."},
-        {"q":"How long do safety boots last?","a":"There's no legal replacement interval — condition decides. Daily site wear typically retires a pair in 6–12 months. Replace immediately after any significant impact to the cap, when tread wears smooth, or when the upper splits or delaminates."}
-      ]
+      "heroMeta": [
+        {
+          "n": "EN ISO 20345",
+          "l": "The standard"
+        },
+        {
+          "n": "200 J",
+          "l": "Every toe cap"
+        },
+        {
+          "n": "SB → S7",
+          "l": "The codes"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The short version",
+          "h2": "One baseline, then add-ons",
+          "html": "<p>The standard behind UK safety footwear is <strong>EN ISO 20345</strong>. Its non-negotiable is the toe cap: it must protect against a <strong>200-joule impact</strong> (roughly a 20&nbsp;kg mass dropped from a metre) and a <strong>15&nbsp;kN compression</strong>. That's true of a basic SB shoe and a top-spec S7 boot alike — the cap protection does not get \"better\" as the code goes up.</p><p>What the S-codes add is everything <em>around</em> the cap: antistatic soles, energy-absorbing heels, water-resistant uppers, puncture-resistant midsoles, cleated outsoles. So choosing footwear is two decisions, not one: <strong>which S-code the ground and weather demand</strong>, and <strong>which cap material suits the job</strong> — steel, composite or aluminium.</p><p>The 2022 revision of the standard also reshuffled the codes — adding S6 and S7 for fully waterproof footwear — so a label bought this year may read differently from one bought five years ago. The guides below cover the differences.</p>"
+        },
+        {
+          "type": "cards",
+          "variant": "alt",
+          "klabel": "At a glance",
+          "h2": "The three questions that pick a boot",
+          "lead": "Nearly every safety footwear decision resolves to ground, weather and site rules.",
+          "items": [
+            {
+              "s": "Question 1",
+              "h3": "What's underfoot?",
+              "area": "Nails, screws, sharp scrap?",
+              "p": "Debris that can puncture a sole means a midsole code — S1P, S3, S5 or S7 — not plain S1 or S2."
+            },
+            {
+              "s": "Question 2",
+              "h3": "How wet is the work?",
+              "area": "Dry inside · showers · standing water",
+              "p": "Dry indoor work suits S1/S1P. Outdoor ground calls for S3. Genuinely wet work points to S6/S7 or a wellington (S4/S5)."
+            },
+            {
+              "s": "Question 3",
+              "h3": "What do site rules say?",
+              "hot": true,
+              "area": "Many sites mandate S3 minimum",
+              "p": "Principal contractors commonly require S3 boots with midsole and ankle support regardless of task — check the site induction before buying lighter kit."
+            }
+          ]
+        },
+        {
+          "type": "citebox",
+          "variant": "alt",
+          "html": "Every code on the label, decoded in one table: <a href='safety-boot-codes-explained.html'>Read: safety boot codes S1–S7 explained &rarr;</a>"
+        },
+        {
+          "type": "table",
+          "klabel": "Quick reference",
+          "h2": "Which code for which job",
+          "lead": "The full code table lives in the S-codes guide — this is the short route to an answer.",
+          "head": [
+            "Typical work",
+            "Sensible spec",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Warehouse picking, light assembly, driving",
+              "<span class='code'>S1 / S1P</span>",
+              "Dry ground; midsole only if stray fixings are a risk"
+            ],
+            [
+              "General construction site",
+              "<span class='code'>S3</span>",
+              "Wet ground + puncture risk + cleated grip; the common site minimum"
+            ],
+            [
+              "Groundworks, drainage, concrete pours",
+              "<span class='code'>S5 wellington</span>",
+              "Standing water and mud beyond what a leather boot sheds"
+            ],
+            [
+              "Outdoor trades through a British winter",
+              "<span class='code'>S7 (or S3 + WR)</span>",
+              "S3 protection plus certified whole-boot waterproofing"
+            ],
+            [
+              "Food production, hygiene areas",
+              "<span class='code'>S2 (often white)</span>",
+              "Washable water-resistant upper; midsole rarely needed"
+            ],
+            [
+              "Airport / secure sites with metal detectors",
+              "<span class='code'>Any code, composite cap</span>",
+              "Metal-free footwear clears archways without stripping off"
+            ]
+          ]
+        },
+        {
+          "type": "citebox",
+          "html": "Cap material is the other half of the decision: <a href='composite-vs-steel-toe-caps.html'>Composite vs steel toe caps — the honest trade-offs &rarr;</a>"
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "The bit people miss",
+          "h2": "A safety boot is a consumable",
+          "items": [
+            {
+              "n": "One impact",
+              "l": "A cap that has taken its rated hit is spent — replace the boot even if it looks fine"
+            },
+            {
+              "n": "Tread wears",
+              "l": "Slip protection lives in the outsole pattern; worn smooth means it's gone"
+            },
+            {
+              "n": "6–12 months",
+              "l": "Typical daily-wear life on site — no law sets a date, condition decides"
+            }
+          ]
+        },
+        {
+          "type": "citebox",
+          "variant": "dark",
+          "html": "Make a pair last and know when to bin it: <a href='safety-boot-care.html'>Safety boot care — drying, cleaning &amp; replacement &rarr;</a>"
+        },
+        {
+          "type": "spokes",
+          "variant": "alt",
+          "klabel": "Go deeper",
+          "h2": "The detailed guides",
+          "lead": "This hub is the overview. Each guide takes one decision further — and links back here."
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Safety footwear FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What is the difference between EN ISO 20345 and EN ISO 20347?",
+          "a": "EN ISO 20345 is safety footwear — it requires a 200-joule toe cap. EN ISO 20347 is occupational footwear with no toe cap requirement, used where slip or water resistance matters but impact doesn't. If the job involves anything that can fall on or run over a foot, you need 20345."
+        },
+        {
+          "q": "Do all safety boots have the same toe protection?",
+          "a": "Yes — every EN ISO 20345 code from SB to S7 requires the same 200 J impact and 15 kN compression cap performance. Higher codes add protection around the cap (water resistance, midsoles, grip), not a stronger cap."
+        },
+        {
+          "q": "What safety boots do most construction sites require?",
+          "a": "S3 is the most common site minimum — toe cap, puncture-resistant midsole, water-resistant upper and a cleated outsole. Some principal contractors also require ankle support, which means a boot rather than a shoe or trainer. Check the site induction pack before buying."
+        },
+        {
+          "q": "How long do safety boots last?",
+          "a": "There's no legal replacement interval — condition decides. Daily site wear typically retires a pair in 6–12 months. Replace immediately after any significant impact to the cap, when tread wears smooth, or when the upper splits or delaminates."
+        }
+      ],
+      "heroImage": {
+        "src": "assets/collections/footwear.webp",
+        "alt": "Black leather safety boot",
+        "kind": "cutout",
+        "w": 600,
+        "h": 600
+      }
     },
     {
       "slug": "safety-boot-codes-explained",
@@ -73,47 +234,220 @@
       "metaTitle": "Safety Boot Codes S1–S7 Explained (EN ISO 20345) | iNeedWorkwear",
       "metaDesc": "Every EN ISO 20345 code decoded — SB, S1, S1P, S2, S3, S4, S5 and the new S6/S7 waterproof classes, plus add-on letters like SR, HRO, CI and WR.",
       "lede": "The letters on a safety boot label are a stacking system: each code is the previous one plus something. Once you see the stack, the whole standard reads in about two minutes.",
-      "heroMeta": [ {"n":"8 classes","l":"SB → S7"}, {"n":"200 J / 15 kN","l":"Every cap, every class"}, {"n":"2022","l":"Current revision"} ],
-      "schema": { "type": "Article" },
-      "blocks": [
-        { "type":"prose", "narrow":true, "klabel":"How the codes stack", "h2":"Each code is the last one, plus something",
-          "html":"<p>EN ISO 20345 starts every class from the same base: a toe cap rated for a <strong>200-joule impact</strong> and <strong>15&nbsp;kN compression</strong>. That base alone is <strong>SB</strong> (\"safety basic\"). From there the numbered codes stack features:</p><ul><li><strong>S1</strong> adds a closed heel, antistatic soles and an energy-absorbing heel — the spec for dry, indoor work.</li><li><strong>S1P</strong> adds a puncture-resistant midsole to S1.</li><li><strong>S2</strong> adds a water-resistant upper to S1 — the hygiene-sector staple.</li><li><strong>S3</strong> adds midsole <em>and</em> cleated outsole to S2 — the general site boot.</li><li><strong>S4 and S5</strong> are the wellington equivalents of S1 and S3, moulded as one waterproof polymer boot.</li><li><strong>S6 and S7</strong> — new in the 2022 revision — are S2 and S3 with <em>certified whole-boot waterproofing</em> (the WR test), not just a water-resistant upper.</li></ul><p>So \"which code?\" is really \"which features does the ground demand?\" — the table below puts the whole stack side by side.</p>" },
-        { "type":"table", "variant":"alt", "klabel":"The full table", "h2":"SB to S7, side by side", "lead":"✓ = required by the class. Every class includes the 200 J toe cap.",
-          "head":["Code","Antistatic + heel","Water-resistant upper","Puncture midsole","Cleated sole","Waterproof (WR)","Typical use"],
-          "rows":[
-            ["<span class='code'>SB</span>","—","—","—","—","—","Bare-minimum indoor"],
-            ["<span class='code'>S1</span>","✓","—","—","—","—","Dry indoor, warehouse"],
-            ["<span class='code'>S1P</span>","✓","—","✓","—","—","Warehouse with fixings underfoot"],
-            ["<span class='code'>S2</span>","✓","✓","—","—","—","Food production, wet-clean floors"],
-            ["<span class='code'>S3</span>","✓","✓","✓","✓","—","General construction — the site default"],
-            ["<span class='code'>S4</span>","✓","polymer boot","—","—","inherent","Wet hygiene areas (wellington)"],
-            ["<span class='code'>S5</span>","✓","polymer boot","✓","✓","inherent","Groundworks, agriculture (wellington)"],
-            ["<span class='code'>S6</span>","✓","✓","—","—","✓","Wet outdoor work, lighter risk underfoot"],
-            ["<span class='code'>S7</span>","✓","✓","✓","✓","✓","Wet sites with puncture risk — S3 for winter"]
-          ] },
-        { "type":"prose", "klabel":"2022 changes", "h2":"What the 2022 revision changed", "narrow":true,
-          "html":"<p>Boots certified to the older 2011 edition are still legally sold and worn, so both label styles are in circulation. The practical changes to know:</p><ul><li><strong>S6 and S7 are new.</strong> Before 2022 a \"waterproof S3\" was an S3 with an optional WR mark; now it has its own class.</li><li><strong>Midsole letters split.</strong> A plain <strong>P</strong> is the steel-nail test; <strong>PL</strong> and <strong>PS</strong> mark non-metal inserts tested with large and small nails respectively. S3 boots may be labelled S3L or S3S accordingly.</li><li><strong>Slip ratings changed.</strong> The old SRA/SRB/SRC marks are gone — baseline slip resistance is now tested on every boot (unless marked with a symbol exempting it), and a tougher optional test earns an <strong>SR</strong> mark.</li><li><strong>Fuel-oil resistance (FO)</strong> moved from being built into S1+ to an optional add-on mark.</li></ul>" },
-        { "type":"table", "klabel":"Add-on letters", "h2":"The letters after the code", "lead":"Optional marks appear after the class — a label might read \"S3L HRO CI SR\".",
-          "head":["Mark","Means","Worth having when"],
-          "rows":[
-            ["<span class='code'>SR</span>","Passed the enhanced slip test","Smooth wet floors — kitchens, hygiene, forecourts"],
-            ["<span class='code'>HRO</span>","Outsole survives 300 °C contact","Hot works, asphalt, foundries"],
-            ["<span class='code'>CI / HI</span>","Cold / heat insulated sole","Cold stores; hot process floors"],
-            ["<span class='code'>WR</span>","Whole-footwear water resistance","Outdoor work — this is the mark that makes S6/S7"],
-            ["<span class='code'>M</span>","Metatarsal (top-of-foot) protection","Heavy handling where drops land above the toes"],
-            ["<span class='code'>AN</span>","Ankle protection","Uneven ground, groundworks"],
-            ["<span class='code'>SC / LG</span>","Scuff cap / ladder grip","Kneeling trades; ladder-heavy work"],
-            ["<span class='code'>ESD</span>","Electrostatic-dissipative (separate standard)","Electronics assembly, ATEX-adjacent work"]
-          ] },
-        { "type":"warnbar", "html":"<strong>Antistatic is not electrical insulation.</strong> S1–S7 boots are antistatic by design — they deliberately conduct a small charge to earth. For live electrical work you need dedicated electrically insulating footwear, a different specification entirely. Don't rely on a standard site boot." },
-        { "type":"clusternav" },
-        { "type":"faq", "klabel":"Questions", "h2":"Boot code FAQ" }
+      "heroMeta": [
+        {
+          "n": "8 classes",
+          "l": "SB → S7"
+        },
+        {
+          "n": "200 J / 15 kN",
+          "l": "Every cap, every class"
+        },
+        {
+          "n": "2022",
+          "l": "Current revision"
+        }
       ],
-      "faq":[
-        {"q":"What does S1P mean on a safety boot?","a":"S1P is an S1 boot (toe cap, antistatic, energy-absorbing heel, closed seat) plus a puncture-resistant midsole. Since the 2022 standard the midsole letter can also appear as PL or PS, which mark non-metal inserts tested against large and small nails respectively."},
-        {"q":"What is the difference between S3 and S7?","a":"Both have a toe cap, midsole, water-resistant upper and cleated sole. S7 adds certified whole-boot water resistance (the WR test) — an S3 resists water soaking through the upper for a period; an S7 is tested as a waterproof boot. For regular wet outdoor work, S7 is the closer match."},
-        {"q":"Are S6 and S7 boots new?","a":"Yes — the 2022 revision of EN ISO 20345 introduced them. S6 is S2 plus whole-boot waterproofing, S7 is S3 plus the same. Before 2022, waterproof boots were sold as S2 WR or S3 WR; those older labels remain valid on existing certified stock."},
-        {"q":"Do safety trainers meet the same standard as boots?","a":"Yes, if they carry an EN ISO 20345 code — a safety trainer marked S1P has exactly the same toe cap and midsole performance as an S1P boot. What a trainer gives up is ankle coverage and, usually, the water resistance and cleated sole of an S3."}
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "How the codes stack",
+          "h2": "Each code is the last one, plus something",
+          "html": "<p>EN ISO 20345 starts every class from the same base: a toe cap rated for a <strong>200-joule impact</strong> and <strong>15&nbsp;kN compression</strong>. That base alone is <strong>SB</strong> (\"safety basic\"). From there the numbered codes stack features:</p><ul><li><strong>S1</strong> adds a closed heel, antistatic soles and an energy-absorbing heel — the spec for dry, indoor work.</li><li><strong>S1P</strong> adds a puncture-resistant midsole to S1.</li><li><strong>S2</strong> adds a water-resistant upper to S1 — the hygiene-sector staple.</li><li><strong>S3</strong> adds midsole <em>and</em> cleated outsole to S2 — the general site boot.</li><li><strong>S4 and S5</strong> are the wellington equivalents of S1 and S3, moulded as one waterproof polymer boot.</li><li><strong>S6 and S7</strong> — new in the 2022 revision — are S2 and S3 with <em>certified whole-boot waterproofing</em> (the WR test), not just a water-resistant upper.</li></ul><p>So \"which code?\" is really \"which features does the ground demand?\" — the table below puts the whole stack side by side.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The full table",
+          "h2": "SB to S7, side by side",
+          "lead": "✓ = required by the class. Every class includes the 200 J toe cap.",
+          "head": [
+            "Code",
+            "Antistatic + heel",
+            "Water-resistant upper",
+            "Puncture midsole",
+            "Cleated sole",
+            "Waterproof (WR)",
+            "Typical use"
+          ],
+          "rows": [
+            [
+              "<span class='code'>SB</span>",
+              "—",
+              "—",
+              "—",
+              "—",
+              "—",
+              "Bare-minimum indoor"
+            ],
+            [
+              "<span class='code'>S1</span>",
+              "✓",
+              "—",
+              "—",
+              "—",
+              "—",
+              "Dry indoor, warehouse"
+            ],
+            [
+              "<span class='code'>S1P</span>",
+              "✓",
+              "—",
+              "✓",
+              "—",
+              "—",
+              "Warehouse with fixings underfoot"
+            ],
+            [
+              "<span class='code'>S2</span>",
+              "✓",
+              "✓",
+              "—",
+              "—",
+              "—",
+              "Food production, wet-clean floors"
+            ],
+            [
+              "<span class='code'>S3</span>",
+              "✓",
+              "✓",
+              "✓",
+              "✓",
+              "—",
+              "General construction — the site default"
+            ],
+            [
+              "<span class='code'>S4</span>",
+              "✓",
+              "polymer boot",
+              "—",
+              "—",
+              "inherent",
+              "Wet hygiene areas (wellington)"
+            ],
+            [
+              "<span class='code'>S5</span>",
+              "✓",
+              "polymer boot",
+              "✓",
+              "✓",
+              "inherent",
+              "Groundworks, agriculture (wellington)"
+            ],
+            [
+              "<span class='code'>S6</span>",
+              "✓",
+              "✓",
+              "—",
+              "—",
+              "✓",
+              "Wet outdoor work, lighter risk underfoot"
+            ],
+            [
+              "<span class='code'>S7</span>",
+              "✓",
+              "✓",
+              "✓",
+              "✓",
+              "✓",
+              "Wet sites with puncture risk — S3 for winter"
+            ]
+          ]
+        },
+        {
+          "type": "prose",
+          "klabel": "2022 changes",
+          "h2": "What the 2022 revision changed",
+          "narrow": true,
+          "html": "<p>Boots certified to the older 2011 edition are still legally sold and worn, so both label styles are in circulation. The practical changes to know:</p><ul><li><strong>S6 and S7 are new.</strong> Before 2022 a \"waterproof S3\" was an S3 with an optional WR mark; now it has its own class.</li><li><strong>Midsole letters split.</strong> A plain <strong>P</strong> is the steel-nail test; <strong>PL</strong> and <strong>PS</strong> mark non-metal inserts tested with large and small nails respectively. S3 boots may be labelled S3L or S3S accordingly.</li><li><strong>Slip ratings changed.</strong> The old SRA/SRB/SRC marks are gone — baseline slip resistance is now tested on every boot (unless marked with a symbol exempting it), and a tougher optional test earns an <strong>SR</strong> mark.</li><li><strong>Fuel-oil resistance (FO)</strong> moved from being built into S1+ to an optional add-on mark.</li></ul>"
+        },
+        {
+          "type": "table",
+          "klabel": "Add-on letters",
+          "h2": "The letters after the code",
+          "lead": "Optional marks appear after the class — a label might read \"S3L HRO CI SR\".",
+          "head": [
+            "Mark",
+            "Means",
+            "Worth having when"
+          ],
+          "rows": [
+            [
+              "<span class='code'>SR</span>",
+              "Passed the enhanced slip test",
+              "Smooth wet floors — kitchens, hygiene, forecourts"
+            ],
+            [
+              "<span class='code'>HRO</span>",
+              "Outsole survives 300 °C contact",
+              "Hot works, asphalt, foundries"
+            ],
+            [
+              "<span class='code'>CI / HI</span>",
+              "Cold / heat insulated sole",
+              "Cold stores; hot process floors"
+            ],
+            [
+              "<span class='code'>WR</span>",
+              "Whole-footwear water resistance",
+              "Outdoor work — this is the mark that makes S6/S7"
+            ],
+            [
+              "<span class='code'>M</span>",
+              "Metatarsal (top-of-foot) protection",
+              "Heavy handling where drops land above the toes"
+            ],
+            [
+              "<span class='code'>AN</span>",
+              "Ankle protection",
+              "Uneven ground, groundworks"
+            ],
+            [
+              "<span class='code'>SC / LG</span>",
+              "Scuff cap / ladder grip",
+              "Kneeling trades; ladder-heavy work"
+            ],
+            [
+              "<span class='code'>ESD</span>",
+              "Electrostatic-dissipative (separate standard)",
+              "Electronics assembly, ATEX-adjacent work"
+            ]
+          ]
+        },
+        {
+          "type": "warnbar",
+          "html": "<strong>Antistatic is not electrical insulation.</strong> S1–S7 boots are antistatic by design — they deliberately conduct a small charge to earth. For live electrical work you need dedicated electrically insulating footwear, a different specification entirely. Don't rely on a standard site boot."
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Boot code FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What does S1P mean on a safety boot?",
+          "a": "S1P is an S1 boot (toe cap, antistatic, energy-absorbing heel, closed seat) plus a puncture-resistant midsole. Since the 2022 standard the midsole letter can also appear as PL or PS, which mark non-metal inserts tested against large and small nails respectively."
+        },
+        {
+          "q": "What is the difference between S3 and S7?",
+          "a": "Both have a toe cap, midsole, water-resistant upper and cleated sole. S7 adds certified whole-boot water resistance (the WR test) — an S3 resists water soaking through the upper for a period; an S7 is tested as a waterproof boot. For regular wet outdoor work, S7 is the closer match."
+        },
+        {
+          "q": "Are S6 and S7 boots new?",
+          "a": "Yes — the 2022 revision of EN ISO 20345 introduced them. S6 is S2 plus whole-boot waterproofing, S7 is S3 plus the same. Before 2022, waterproof boots were sold as S2 WR or S3 WR; those older labels remain valid on existing certified stock."
+        },
+        {
+          "q": "Do safety trainers meet the same standard as boots?",
+          "a": "Yes, if they carry an EN ISO 20345 code — a safety trainer marked S1P has exactly the same toe cap and midsole performance as an S1P boot. What a trainer gives up is ankle coverage and, usually, the water resistance and cleated sole of an S3."
+        }
       ]
     },
     {
@@ -129,40 +463,141 @@
       "metaTitle": "Composite vs Steel Toe Caps: Which to Choose | iNeedWorkwear",
       "metaDesc": "Steel and composite toe caps both meet the same 200 J standard — the real differences are weight, cold, metal detectors, cap profile and post-impact behaviour.",
       "lede": "This one has a myth to kill first: a steel cap is not \"stronger\". Both materials must pass exactly the same 200-joule impact and 15 kN compression tests to be sold as safety footwear. The genuine differences are in weight, temperature, security gates — and what happens after a big hit.",
-      "heroMeta": [ {"n":"200 J","l":"Both. Identical."}, {"n":"~30–50%","l":"Cap weight saving, composite"}, {"n":"0 metal","l":"Composite clears detectors"} ],
-      "schema": { "type": "Article" },
-      "blocks": [
-        { "type":"prose", "narrow":true, "klabel":"The level playing field", "h2":"Protection is a tie — by definition",
-          "html":"<p>EN ISO 20345 doesn't care what the cap is made of. Steel, aluminium, fibreglass, carbon composite — every cap must stop the same falling 200-joule mass and the same 15&nbsp;kN squeeze. A composite S3 boot and a steel S3 boot are, in certification terms, equally protective.</p><p>So the decision is about everything else: how the boot carries, how it behaves in heat and cold, whether it sets off an archway, and how each material fails. Those differences are real — and for some jobs they decide the purchase outright.</p>" },
-        { "type":"table", "variant":"alt", "klabel":"Head to head", "h2":"The honest trade-offs",
-          "head":["","Steel","Composite"],
-          "rows":[
-            ["Impact & compression","<span class='code'>200 J / 15 kN</span> — identical","<span class='code'>200 J / 15 kN</span> — identical"],
-            ["Cap weight","Heavier — noticeable over a 10-hour shift","Typically 30–50% lighter than the same-size steel cap"],
-            ["Cap profile","Thin — sleeker toe shape","Thicker for the same strength — slightly bulkier toe"],
-            ["Cold weather","Conducts cold straight to the toes","Insulates — the usual pick for winter and cold stores"],
-            ["Metal detectors / security","Triggers archways","Metal-free — airports, prisons, secure sites"],
-            ["Electrical environments","Conductive metal in the boot","Non-conductive cap material"],
-            ["After a major impact","Dents visibly — damage is obvious","Damage can be internal and invisible"],
-            ["Price","Usually the cheaper option","Typically costs more, gap narrowing"]
-          ] },
-        { "type":"warnbar", "html":"<strong>After any serious impact, both caps are spent.</strong> A cap is certified for one 200-joule event, not a career of them. Steel at least shows the dent; a composite cap can look perfect with fractured structure inside. Either way: an impact that would have hurt your foot means the boot gets replaced — no exceptions." },
-        { "type":"prose", "klabel":"Decision", "h2":"Who should pick which", "narrow":true,
-          "html":"<p><strong>Pick composite</strong> if you're outdoors through winter, on your feet all shift, pass through security archways, or work near live electrical systems. The weight and thermal differences are the ones people actually feel day to day.</p><p><strong>Pick steel</strong> if budget leads, you want the slimmest toe profile, or you like that impact damage announces itself. In heavy plant and scrap environments some wearers prefer steel precisely because a dented cap is unambiguous.</p><p><strong>Aluminium</strong> sits between the two — nearly as thin as steel, close to composite weight — but it's still metal, so it solves neither the detector nor the conductivity problem. It suits wearers chasing lightness who don't need metal-free.</p>" },
-        { "type":"keyfacts", "variant":"dark", "klabel":"Remember", "h2":"Three things that settle most arguments",
-          "items":[
-            {"n":"Same 200 J","l":"\"Steel is stronger\" is folklore — certification is identical"},
-            {"n":"Cold toes = steel","l":"Thermal conduction is the difference wearers notice most"},
-            {"n":"One impact, then bin","l":"Applies to both materials equally"}
-          ] },
-        { "type":"clusternav" },
-        { "type":"faq", "klabel":"Questions", "h2":"Toe cap FAQ" }
+      "heroMeta": [
+        {
+          "n": "200 J",
+          "l": "Both. Identical."
+        },
+        {
+          "n": "~30–50%",
+          "l": "Cap weight saving, composite"
+        },
+        {
+          "n": "0 metal",
+          "l": "Composite clears detectors"
+        }
       ],
-      "faq":[
-        {"q":"Is a steel toe cap stronger than composite?","a":"No. Both must pass the identical EN ISO 20345 tests — 200 J impact and 15 kN compression — to be sold as safety footwear. Steel achieves it in a thinner cap; composite needs more material but weighs less. Certified protection is the same."},
-        {"q":"Are composite toe caps OK in cold weather?","a":"They're the better choice — composite doesn't conduct heat away from the toes the way steel does. For winter site work and cold stores, composite caps (ideally with a CI cold-insulation sole mark) keep feet noticeably warmer."},
-        {"q":"Do composite toe caps go through airport security?","a":"A fully metal-free composite boot generally clears detector archways, which is why they're standard for airside workers, secure facilities and frequent flyers. Check the whole boot is metal-free — some composite-cap boots still use a steel midsole; look for PL or PS midsole marks instead of P."},
-        {"q":"When should a boot be replaced after an impact?","a":"After any impact heavy enough that the cap did its job — regardless of material. Steel deforms visibly; composite can fracture internally with no outward sign. The cap's rating is for a single major event, so the boot is retired."}
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The level playing field",
+          "h2": "Protection is a tie — by definition",
+          "html": "<p>EN ISO 20345 doesn't care what the cap is made of. Steel, aluminium, fibreglass, carbon composite — every cap must stop the same falling 200-joule mass and the same 15&nbsp;kN squeeze. A composite S3 boot and a steel S3 boot are, in certification terms, equally protective.</p><p>So the decision is about everything else: how the boot carries, how it behaves in heat and cold, whether it sets off an archway, and how each material fails. Those differences are real — and for some jobs they decide the purchase outright.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Head to head",
+          "h2": "The honest trade-offs",
+          "head": [
+            "",
+            "Steel",
+            "Composite"
+          ],
+          "rows": [
+            [
+              "Impact & compression",
+              "<span class='code'>200 J / 15 kN</span> — identical",
+              "<span class='code'>200 J / 15 kN</span> — identical"
+            ],
+            [
+              "Cap weight",
+              "Heavier — noticeable over a 10-hour shift",
+              "Typically 30–50% lighter than the same-size steel cap"
+            ],
+            [
+              "Cap profile",
+              "Thin — sleeker toe shape",
+              "Thicker for the same strength — slightly bulkier toe"
+            ],
+            [
+              "Cold weather",
+              "Conducts cold straight to the toes",
+              "Insulates — the usual pick for winter and cold stores"
+            ],
+            [
+              "Metal detectors / security",
+              "Triggers archways",
+              "Metal-free — airports, prisons, secure sites"
+            ],
+            [
+              "Electrical environments",
+              "Conductive metal in the boot",
+              "Non-conductive cap material"
+            ],
+            [
+              "After a major impact",
+              "Dents visibly — damage is obvious",
+              "Damage can be internal and invisible"
+            ],
+            [
+              "Price",
+              "Usually the cheaper option",
+              "Typically costs more, gap narrowing"
+            ]
+          ]
+        },
+        {
+          "type": "warnbar",
+          "html": "<strong>After any serious impact, both caps are spent.</strong> A cap is certified for one 200-joule event, not a career of them. Steel at least shows the dent; a composite cap can look perfect with fractured structure inside. Either way: an impact that would have hurt your foot means the boot gets replaced — no exceptions."
+        },
+        {
+          "type": "prose",
+          "klabel": "Decision",
+          "h2": "Who should pick which",
+          "narrow": true,
+          "html": "<p><strong>Pick composite</strong> if you're outdoors through winter, on your feet all shift, pass through security archways, or work near live electrical systems. The weight and thermal differences are the ones people actually feel day to day.</p><p><strong>Pick steel</strong> if budget leads, you want the slimmest toe profile, or you like that impact damage announces itself. In heavy plant and scrap environments some wearers prefer steel precisely because a dented cap is unambiguous.</p><p><strong>Aluminium</strong> sits between the two — nearly as thin as steel, close to composite weight — but it's still metal, so it solves neither the detector nor the conductivity problem. It suits wearers chasing lightness who don't need metal-free.</p>"
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Remember",
+          "h2": "Three things that settle most arguments",
+          "items": [
+            {
+              "n": "Same 200 J",
+              "l": "\"Steel is stronger\" is folklore — certification is identical"
+            },
+            {
+              "n": "Cold toes = steel",
+              "l": "Thermal conduction is the difference wearers notice most"
+            },
+            {
+              "n": "One impact, then bin",
+              "l": "Applies to both materials equally"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Toe cap FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is a steel toe cap stronger than composite?",
+          "a": "No. Both must pass the identical EN ISO 20345 tests — 200 J impact and 15 kN compression — to be sold as safety footwear. Steel achieves it in a thinner cap; composite needs more material but weighs less. Certified protection is the same."
+        },
+        {
+          "q": "Are composite toe caps OK in cold weather?",
+          "a": "They're the better choice — composite doesn't conduct heat away from the toes the way steel does. For winter site work and cold stores, composite caps (ideally with a CI cold-insulation sole mark) keep feet noticeably warmer."
+        },
+        {
+          "q": "Do composite toe caps go through airport security?",
+          "a": "A fully metal-free composite boot generally clears detector archways, which is why they're standard for airside workers, secure facilities and frequent flyers. Check the whole boot is metal-free — some composite-cap boots still use a steel midsole; look for PL or PS midsole marks instead of P."
+        },
+        {
+          "q": "When should a boot be replaced after an impact?",
+          "a": "After any impact heavy enough that the cap did its job — regardless of material. Steel deforms visibly; composite can fracture internally with no outward sign. The cap's rating is for a single major event, so the boot is retired."
+        }
       ]
     },
     {
@@ -178,43 +613,150 @@
       "metaTitle": "Safety Boot Care: Drying, Cleaning & When to Replace | iNeedWorkwear",
       "metaDesc": "How to dry wet safety boots without cracking them, clean and feed the leather, and spot the five replacement triggers — worn tread, exposed cap, delamination and more.",
       "lede": "Most site boots don't wear out — they get killed: baked on a radiator, left caked in mud, worn a year past their tread. The care routine that prevents it takes minutes a week, and the replacement checks take one look.",
-      "heroMeta": [ {"n":"Never","l":"Radiator-dry leather"}, {"n":"2 pairs","l":"Rotation doubles life"}, {"n":"5 signs","l":"That a boot is done"} ],
-      "schema": { "type": "HowTo", "steps": [
-        {"name":"Knock off mud the same day","text":"Wet mud pulls moisture from leather as it dries and blocks the upper from breathing. Bang soles together, brush the uppers, done in a minute."},
-        {"name":"Dry slowly, never with heat","text":"Radiators, stoves and hot-air dryers cook the oils out of leather and soften sole adhesives — cracked uppers and peeling soles follow. Room temperature, newspaper stuffed inside, overnight."},
-        {"name":"Feed the leather","text":"A wax or leather conditioner every couple of weeks keeps the upper supple and water-shedding. Skip silicone sprays on leather you ever want to re-wax — they seal the surface."},
-        {"name":"Rotate two pairs","text":"A boot needs about a day for sweat to dry fully. Alternating pairs keeps linings dry, which is most of the battle against odour, rot and blisters — and both pairs last longer than two worn back-to-back."},
-        {"name":"Inspect monthly — and after any impact","text":"Tread depth, stitching, sole bond, cap area. After a serious impact the boot is replaced regardless of appearance — the cap is rated for one major event."}
-      ] },
-      "blocks": [
-        { "type":"prose", "narrow":true, "klabel":"Why bother", "h2":"The routine is the cheap part",
-          "html":"<p>A decent pair of site boots costs real money, and the habits that destroy them are all avoidable. The two big killers are <strong>heat-drying</strong> — which cracks leather and delaminates soles — and <strong>never cleaning off mud</strong>, which stiffens and dries the upper from outside. Neither takes effort to avoid; they take a routine.</p><p>The five steps below are that routine. After them: the five signs that no amount of care fixes, and the boot comes off the payroll.</p>" },
-        { "type":"steps", "narrow":true, "klabel":"The routine", "h2":"Five habits that double a boot's life",
-          "items":[
-            {"h3":"Knock the mud off the same day","html":"Wet mud draws moisture out of leather as it dries, and a caked upper can't breathe. Bang the soles, brush the uppers — a minute at the van."},
-            {"h3":"Dry slowly — never on a radiator","html":"Heat cooks the oils out of leather and softens the adhesives holding the sole. <span class='warn'>Cracked uppers and peeling soles are almost always drying damage, not wear.</span> Room temperature, stuffed with newspaper, overnight."},
-            {"h3":"Feed the leather fortnightly","html":"Wax or conditioner keeps the upper supple and sheds water. If you ever intend to re-wax the leather, avoid silicone sprays — they seal the surface against everything, including the next treatment."},
-            {"h3":"Rotate two pairs","html":"Linings need about 24 hours to dry from a day's sweat. Alternating pairs keeps the inside dry — that's most of the fight against odour and blisters — and two rotated pairs outlast two pairs worn consecutively."},
-            {"h3":"Inspect monthly, and after any impact","html":"Check tread depth, stitching, the sole bond and the toe area. Anything on the replacement list below, or any serious impact to the cap, retires the boot."}
-          ] },
-        { "type":"table", "variant":"alt", "klabel":"End of the road", "h2":"Five signs a boot is done", "lead":"None of these are cosmetic — each one means specific protection has lapsed.",
-          "head":["What you see","What it means","Verdict"],
-          "rows":[
-            ["Tread worn smooth or clogged flat","Slip resistance is in the pattern — it's gone","<span class='code'>Replace</span>"],
-            ["Toe cap visible through the upper","Cap can shift; upper no longer locates it","<span class='code'>Replace</span>"],
-            ["Sole separating from upper","Water path in; structural bond failing","<span class='code'>Replace</span>"],
-            ["Upper split or deeply cracked","Water in, protection compromised","<span class='code'>Replace</span>"],
-            ["Took a serious impact — even if it looks fine","Cap is certified for one major event","<span class='code'>Replace</span>"]
-          ] },
-        { "type":"warnbar", "html":"<strong>No law sets a boot's lifespan — condition does.</strong> Daily site wear typically retires a pair inside 6–12 months. If an employer supplies PPE it must be maintained and replaced when no longer effective, so a boot showing any sign above shouldn't wait for a round-number anniversary." },
-        { "type":"clusternav" },
-        { "type":"faq", "klabel":"Questions", "h2":"Boot care FAQ" }
+      "heroMeta": [
+        {
+          "n": "Never",
+          "l": "Radiator-dry leather"
+        },
+        {
+          "n": "2 pairs",
+          "l": "Rotation doubles life"
+        },
+        {
+          "n": "5 signs",
+          "l": "That a boot is done"
+        }
       ],
-      "faq":[
-        {"q":"How do you dry safety boots overnight?","a":"Knock off mud, pull the insoles, stuff the boots with newspaper and leave them at room temperature — swap wet paper once if they're soaked. Never use radiators, stoves or hot-air dryers: heat cracks leather and softens sole adhesive."},
-        {"q":"How often should safety boots be replaced?","a":"On condition, not a calendar. Typical daily site wear means 6–12 months, but the triggers are specific: smooth tread, an exposed or shifted toe cap, sole delamination, a split upper, or any serious impact to the cap."},
-        {"q":"Can you repair safety boots?","a":"Laces and insoles, yes — and worth replacing, since a fresh insole restores comfort cheaply. Structural damage, no: once the sole bond, upper or cap area is compromised, repair can't restore the certified performance and the boot is retired."},
-        {"q":"Do safety boots need waterproofing spray?","a":"Leather boots benefit from wax or conditioner, which feeds the leather and sheds water. Reserve sprays for fabric or suede uppers, and avoid silicone products on leather you plan to wax later. No treatment turns a water-resistant S3 into a waterproof S7 — that's a certification, not a coating."}
+      "schema": {
+        "type": "HowTo",
+        "steps": [
+          {
+            "name": "Knock off mud the same day",
+            "text": "Wet mud pulls moisture from leather as it dries and blocks the upper from breathing. Bang soles together, brush the uppers, done in a minute."
+          },
+          {
+            "name": "Dry slowly, never with heat",
+            "text": "Radiators, stoves and hot-air dryers cook the oils out of leather and soften sole adhesives — cracked uppers and peeling soles follow. Room temperature, newspaper stuffed inside, overnight."
+          },
+          {
+            "name": "Feed the leather",
+            "text": "A wax or leather conditioner every couple of weeks keeps the upper supple and water-shedding. Skip silicone sprays on leather you ever want to re-wax — they seal the surface."
+          },
+          {
+            "name": "Rotate two pairs",
+            "text": "A boot needs about a day for sweat to dry fully. Alternating pairs keeps linings dry, which is most of the battle against odour, rot and blisters — and both pairs last longer than two worn back-to-back."
+          },
+          {
+            "name": "Inspect monthly — and after any impact",
+            "text": "Tread depth, stitching, sole bond, cap area. After a serious impact the boot is replaced regardless of appearance — the cap is rated for one major event."
+          }
+        ]
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "Why bother",
+          "h2": "The routine is the cheap part",
+          "html": "<p>A decent pair of site boots costs real money, and the habits that destroy them are all avoidable. The two big killers are <strong>heat-drying</strong> — which cracks leather and delaminates soles — and <strong>never cleaning off mud</strong>, which stiffens and dries the upper from outside. Neither takes effort to avoid; they take a routine.</p><p>The five steps below are that routine. After them: the five signs that no amount of care fixes, and the boot comes off the payroll.</p>"
+        },
+        {
+          "type": "steps",
+          "narrow": true,
+          "klabel": "The routine",
+          "h2": "Five habits that double a boot's life",
+          "items": [
+            {
+              "h3": "Knock the mud off the same day",
+              "html": "Wet mud draws moisture out of leather as it dries, and a caked upper can't breathe. Bang the soles, brush the uppers — a minute at the van."
+            },
+            {
+              "h3": "Dry slowly — never on a radiator",
+              "html": "Heat cooks the oils out of leather and softens the adhesives holding the sole. <span class='warn'>Cracked uppers and peeling soles are almost always drying damage, not wear.</span> Room temperature, stuffed with newspaper, overnight."
+            },
+            {
+              "h3": "Feed the leather fortnightly",
+              "html": "Wax or conditioner keeps the upper supple and sheds water. If you ever intend to re-wax the leather, avoid silicone sprays — they seal the surface against everything, including the next treatment."
+            },
+            {
+              "h3": "Rotate two pairs",
+              "html": "Linings need about 24 hours to dry from a day's sweat. Alternating pairs keeps the inside dry — that's most of the fight against odour and blisters — and two rotated pairs outlast two pairs worn consecutively."
+            },
+            {
+              "h3": "Inspect monthly, and after any impact",
+              "html": "Check tread depth, stitching, the sole bond and the toe area. Anything on the replacement list below, or any serious impact to the cap, retires the boot."
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "End of the road",
+          "h2": "Five signs a boot is done",
+          "lead": "None of these are cosmetic — each one means specific protection has lapsed.",
+          "head": [
+            "What you see",
+            "What it means",
+            "Verdict"
+          ],
+          "rows": [
+            [
+              "Tread worn smooth or clogged flat",
+              "Slip resistance is in the pattern — it's gone",
+              "<span class='code'>Replace</span>"
+            ],
+            [
+              "Toe cap visible through the upper",
+              "Cap can shift; upper no longer locates it",
+              "<span class='code'>Replace</span>"
+            ],
+            [
+              "Sole separating from upper",
+              "Water path in; structural bond failing",
+              "<span class='code'>Replace</span>"
+            ],
+            [
+              "Upper split or deeply cracked",
+              "Water in, protection compromised",
+              "<span class='code'>Replace</span>"
+            ],
+            [
+              "Took a serious impact — even if it looks fine",
+              "Cap is certified for one major event",
+              "<span class='code'>Replace</span>"
+            ]
+          ]
+        },
+        {
+          "type": "warnbar",
+          "html": "<strong>No law sets a boot's lifespan — condition does.</strong> Daily site wear typically retires a pair inside 6–12 months. If an employer supplies PPE it must be maintained and replaced when no longer effective, so a boot showing any sign above shouldn't wait for a round-number anniversary."
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Boot care FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "How do you dry safety boots overnight?",
+          "a": "Knock off mud, pull the insoles, stuff the boots with newspaper and leave them at room temperature — swap wet paper once if they're soaked. Never use radiators, stoves or hot-air dryers: heat cracks leather and softens sole adhesive."
+        },
+        {
+          "q": "How often should safety boots be replaced?",
+          "a": "On condition, not a calendar. Typical daily site wear means 6–12 months, but the triggers are specific: smooth tread, an exposed or shifted toe cap, sole delamination, a split upper, or any serious impact to the cap."
+        },
+        {
+          "q": "Can you repair safety boots?",
+          "a": "Laces and insoles, yes — and worth replacing, since a fresh insole restores comfort cheaply. Structural damage, no: once the sole bond, upper or cap area is compromised, repair can't restore the certified performance and the boot is retired."
+        },
+        {
+          "q": "Do safety boots need waterproofing spray?",
+          "a": "Leather boots benefit from wax or conditioner, which feeds the leather and sheds water. Reserve sprays for fabric or suede uppers, and avoid silicone products on leather you plan to wax later. No treatment turns a water-resistant S3 into a waterproof S7 — that's a certification, not a coating."
+        }
       ]
     }
   ]

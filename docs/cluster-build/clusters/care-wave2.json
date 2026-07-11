@@ -6,9 +6,34 @@
     "shopUrl": "https://www.ineedworkwear.com/collections/chefswear",
     "baseUrl": "https://www.ineedworkwear.uk",
     "date": "2026-07-09",
-    "externalHub": { "slug": "care", "navLabel": "Care hub", "title": "Care & compliance hub", "cardTitle": "Care & compliance hub" },
-    "trust": ["Label-first guidance", "Hygiene-sector realities", "Whites, scrubs & hygiene kit stocked", "Trade accounts"],
-    "cta": { "h2": "Past saving?", "p": "When the whites or scrubs are done, replacements ship fast — boxed quantities for rotation.", "actions": [ {"label":"Shop chefswear","href":"https://www.ineedworkwear.com/collections/chefswear","style":"white"}, {"label":"Talk to us","href":"contact.html","style":"dark"} ] }
+    "externalHub": {
+      "slug": "care",
+      "navLabel": "Care hub",
+      "title": "Care & compliance hub",
+      "cardTitle": "Care & compliance hub"
+    },
+    "trust": [
+      "Label-first guidance",
+      "Hygiene-sector realities",
+      "Whites, scrubs & hygiene kit stocked",
+      "Trade accounts"
+    ],
+    "cta": {
+      "h2": "Past saving?",
+      "p": "When the whites or scrubs are done, replacements ship fast — boxed quantities for rotation.",
+      "actions": [
+        {
+          "label": "Shop chefswear",
+          "href": "https://www.ineedworkwear.com/collections/chefswear",
+          "style": "white"
+        },
+        {
+          "label": "Talk to us",
+          "href": "contact.html",
+          "style": "dark"
+        }
+      ]
+    }
   },
   "pages": [
     {
@@ -24,41 +49,143 @@
       "metaTitle": "Washing Chef Whites: Stains, Temperature & Routine | iNeedWorkwear",
       "metaDesc": "How to keep chef whites white — the pre-treat-by-stain playbook (fat, wine, tomato, scorch), the hot-wash routine, and when whites are honestly past saving.",
       "lede": "Whites are the only uniform judged across a pass by customers who never see the wearer's face. Keeping them white isn't one trick — it's a routine plus a stain playbook, because fat, wine and turmeric all fight differently.",
-      "heroMeta": [ {"n":"Same day","l":"The rule that beats every product"}, {"n":"60 °C+","l":"Where whites live, per label"}, {"n":"By stain","l":"Fat ≠ wine ≠ scorch"} ],
-      "schema": { "type": "HowTo", "steps": [
-        {"name":"Scrape and pre-treat before the laundry bag","text":"Same-day treatment is the whole game — set stains are ten times the work. Degreaser on fat, cold water on protein, biological pre-treat on sauces."},
-        {"name":"Wash hot with a biological detergent","text":"Whites tolerate what colours can't: wash at the hottest label temperature (commonly 60 °C or above) with a bio detergent whose enzymes eat food soils."},
-        {"name":"Use oxygen bleach, not chlorine","text":"Oxygen-based whiteners lift greying safely; chlorine bleach yellows synthetics and weakens fibres — and is banned from most poly-cotton labels."},
-        {"name":"Line-dry or tumble low, iron while damp","text":"Sun is a free mild bleach for cotton whites. Iron double-breasted fronts while slightly damp for the crisp finish that reads professional."},
-        {"name":"Rotate three jackets minimum","text":"A jacket rested and properly washed outlasts one re-worn stained — rotation is what makes every other step possible."}
-      ] },
-      "blocks": [
-        { "type":"prose", "narrow":true, "klabel":"The routine", "h2":"Speed beats chemistry",
-          "html":"<p>Every laundry product on the shelf loses to one habit: <strong>treating the stain the same day</strong>. Kitchen soils set with time and heat — a fat splash pre-treated after service shifts easily; the same mark after a hot wash and tumble is dyed in. So the routine is simple: scrape, pre-treat by stain type, hot bio wash, and never heat-dry a garment that's still marked (heat sets what the wash missed — the same rule as <a href='oil-grease-out-of-workwear.html'>workshop oil</a>).</p><p>Fabric matters too: <strong>cotton-rich whites</strong> tolerate the hottest washes and respond to sunlight; poly-cotton dries faster but yellows under chlorine bleach — which is why oxygen-based whiteners are the professional default.</p>" },
-        { "type":"table", "variant":"alt", "klabel":"The playbook", "h2":"By stain",
-          "head":["Stain","Treatment","Never"],
-          "rows":[
-            ["Fat & grease","Degreaser or neat washing-up liquid, 20 min, hot wash","Cold-wash first — it sets the grease"],
-            ["Blood & egg (protein)","<span class='code'>Cold</span> rinse first, then bio wash","Hot water first — it cooks protein into fibre"],
-            ["Tomato, curry, turmeric","Bio pre-treat; sunlight after washing does the rest","Chlorine bleach on poly-cotton — yellows it"],
-            ["Red wine","Blot, cold rinse, oxygen-bleach soak","Salt folklore — it's theatre, not treatment"],
-            ["Scorch & iron marks","Light: oxygen bleach may lift it","Heavy scorch is fibre damage — no product unburns cloth"]
-          ] },
-        { "type":"keyfacts", "variant":"dark", "klabel":"End of the line", "h2":"When whites are done",
-          "items":[
-            {"n":"Grey base tone","l":"Accumulated greying that oxygen soaks can't lift — the fabric is tired"},
-            {"n":"Set-in shadows","l":"Old stains that survive the full playbook are permanent residents"},
-            {"n":"Thin elbows & collars","l":"Whites wear from the inside out — hold a sleeve to the light"}
-          ] },
-        { "type":"clusternav" },
-        { "type":"faq", "klabel":"Questions", "h2":"Whites FAQ" }
+      "heroMeta": [
+        {
+          "n": "Same day",
+          "l": "The rule that beats every product"
+        },
+        {
+          "n": "60 °C+",
+          "l": "Where whites live, per label"
+        },
+        {
+          "n": "By stain",
+          "l": "Fat ≠ wine ≠ scorch"
+        }
       ],
-      "faq":[
-        {"q":"What temperature should chef whites be washed at?","a":"The hottest the care label allows — typically 60 °C or above for cotton-rich whites — with a biological detergent. Hot washing is what keeps hygiene-grade whiteness achievable; the label, not habit, sets the ceiling."},
-        {"q":"How do you get grease out of chef whites?","a":"Pre-treat the same day with a degreaser or neat washing-up liquid, leave it 20 minutes, then hot wash. Never cold-wash a fresh grease mark first and never tumble-dry a garment still marked — both set the stain."},
-        {"q":"Can you use bleach on chef whites?","a":"Oxygen-based whiteners, yes — they lift greying safely. Chlorine bleach is the wrong tool: it yellows poly-cotton, weakens fibres, and most whites' care labels prohibit it outright."},
-        {"q":"Why do chef whites go grey?","a":"Accumulated soil and detergent residue from washes that were too cool, too short or overloaded — plus fabric fatigue. Regular hot bio washes with occasional oxygen-bleach soaks prevent it; once the base tone is grey despite the full routine, the garment is simply tired."}
-      ]
+      "schema": {
+        "type": "HowTo",
+        "steps": [
+          {
+            "name": "Scrape and pre-treat before the laundry bag",
+            "text": "Same-day treatment is the whole game — set stains are ten times the work. Degreaser on fat, cold water on protein, biological pre-treat on sauces."
+          },
+          {
+            "name": "Wash hot with a biological detergent",
+            "text": "Whites tolerate what colours can't: wash at the hottest label temperature (commonly 60 °C or above) with a bio detergent whose enzymes eat food soils."
+          },
+          {
+            "name": "Use oxygen bleach, not chlorine",
+            "text": "Oxygen-based whiteners lift greying safely; chlorine bleach yellows synthetics and weakens fibres — and is banned from most poly-cotton labels."
+          },
+          {
+            "name": "Line-dry or tumble low, iron while damp",
+            "text": "Sun is a free mild bleach for cotton whites. Iron double-breasted fronts while slightly damp for the crisp finish that reads professional."
+          },
+          {
+            "name": "Rotate three jackets minimum",
+            "text": "A jacket rested and properly washed outlasts one re-worn stained — rotation is what makes every other step possible."
+          }
+        ]
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The routine",
+          "h2": "Speed beats chemistry",
+          "html": "<p>Every laundry product on the shelf loses to one habit: <strong>treating the stain the same day</strong>. Kitchen soils set with time and heat — a fat splash pre-treated after service shifts easily; the same mark after a hot wash and tumble is dyed in. So the routine is simple: scrape, pre-treat by stain type, hot bio wash, and never heat-dry a garment that's still marked (heat sets what the wash missed — the same rule as <a href='oil-grease-out-of-workwear.html'>workshop oil</a>).</p><p>Fabric matters too: <strong>cotton-rich whites</strong> tolerate the hottest washes and respond to sunlight; poly-cotton dries faster but yellows under chlorine bleach — which is why oxygen-based whiteners are the professional default.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The playbook",
+          "h2": "By stain",
+          "head": [
+            "Stain",
+            "Treatment",
+            "Never"
+          ],
+          "rows": [
+            [
+              "Fat & grease",
+              "Degreaser or neat washing-up liquid, 20 min, hot wash",
+              "Cold-wash first — it sets the grease"
+            ],
+            [
+              "Blood & egg (protein)",
+              "<span class='code'>Cold</span> rinse first, then bio wash",
+              "Hot water first — it cooks protein into fibre"
+            ],
+            [
+              "Tomato, curry, turmeric",
+              "Bio pre-treat; sunlight after washing does the rest",
+              "Chlorine bleach on poly-cotton — yellows it"
+            ],
+            [
+              "Red wine",
+              "Blot, cold rinse, oxygen-bleach soak",
+              "Salt folklore — it's theatre, not treatment"
+            ],
+            [
+              "Scorch & iron marks",
+              "Light: oxygen bleach may lift it",
+              "Heavy scorch is fibre damage — no product unburns cloth"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "End of the line",
+          "h2": "When whites are done",
+          "items": [
+            {
+              "n": "Grey base tone",
+              "l": "Accumulated greying that oxygen soaks can't lift — the fabric is tired"
+            },
+            {
+              "n": "Set-in shadows",
+              "l": "Old stains that survive the full playbook are permanent residents"
+            },
+            {
+              "n": "Thin elbows & collars",
+              "l": "Whites wear from the inside out — hold a sleeve to the light"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Whites FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What temperature should chef whites be washed at?",
+          "a": "The hottest the care label allows — typically 60 °C or above for cotton-rich whites — with a biological detergent. Hot washing is what keeps hygiene-grade whiteness achievable; the label, not habit, sets the ceiling."
+        },
+        {
+          "q": "How do you get grease out of chef whites?",
+          "a": "Pre-treat the same day with a degreaser or neat washing-up liquid, leave it 20 minutes, then hot wash. Never cold-wash a fresh grease mark first and never tumble-dry a garment still marked — both set the stain."
+        },
+        {
+          "q": "Can you use bleach on chef whites?",
+          "a": "Oxygen-based whiteners, yes — they lift greying safely. Chlorine bleach is the wrong tool: it yellows poly-cotton, weakens fibres, and most whites' care labels prohibit it outright."
+        },
+        {
+          "q": "Why do chef whites go grey?",
+          "a": "Accumulated soil and detergent residue from washes that were too cool, too short or overloaded — plus fabric fatigue. Regular hot bio washes with occasional oxygen-bleach soaks prevent it; once the base tone is grey despite the full routine, the garment is simply tired."
+        }
+      ],
+      "heroImage": {
+        "src": "assets/heroes/chef-plating.webp",
+        "alt": "Chef in whites plating a dish",
+        "kind": "photo"
+      }
     },
     {
       "slug": "laundering-scrubs",
@@ -73,40 +200,133 @@
       "metaTitle": "Laundering Scrubs for Infection Control | iNeedWorkwear",
       "metaDesc": "How to home-launder scrubs and clinical uniforms properly — separate wash, 60 °C benchmark, prompt drying, the change-at-work rule, and when items must go to industrial laundry.",
       "lede": "Plenty of clinical and care staff launder their own uniforms — which makes the household washing machine part of the infection-control chain. The routine that keeps it sound is short, specific and worth doing exactly.",
-      "heroMeta": [ {"n":"Separate","l":"Uniforms wash alone"}, {"n":"60 °C","l":"The benchmark wash"}, {"n":"Dry fast","l":"Damp kit grows what you washed off"} ],
-      "schema": { "type": "HowTo", "steps": [
-        {"name":"Bag it at work, transport it sealed","text":"Changed-out uniform travels home in its own bag — not worn on the commute, not loose with shopping. Policy usually says exactly this; it's the step most often skipped."},
-        {"name":"Wash uniforms alone, promptly","text":"A separate load — no household mixing — as soon as practical. A waiting pile of worn clinical kit is the worst version of laundry."},
-        {"name":"Wash at 60 °C where the garment allows","text":"The widely used benchmark for uniform decontamination. Modern scrubs are cut in poly-cotton rated for it — buy to that spec so the policy is washable."},
-            {"name":"Dry completely, quickly","text":"Tumble or line-dry the same day. Prompt, complete drying finishes what the hot wash started; damp kit in a machine overnight undoes it."},
-        {"name":"Iron or press if the fabric benefits","text":"Heat finishing adds a further margin on cottons — and a pressed tunic reads professional at handover."}
-      ] },
-      "blocks": [
-        { "type":"prose", "narrow":true, "klabel":"The context", "h2":"Home laundering is policy-permitted, not policy-free",
-          "html":"<p>Most UK care providers and many NHS settings permit home laundering of everyday uniforms — <strong>within rules</strong>: change at work, transport sealed, wash separately at the stated temperature, dry promptly. The steps above are that consensus routine. Two hard exceptions sit outside it: <strong>visibly contaminated items</strong> (blood, body fluids) follow the employer's contaminated-linen process rather than a domestic machine, and <strong>theatre scrubs and specialist kit</strong> are industrially laundered, full stop.</p><p>The buying side makes the routine possible: <a href='tunic-vs-scrubs.html'>scrubs or tunics</a> rated for 60&nbsp;°C washing, and <a href='workwear-for-nurses-hcas.html'>enough sets</a> that washing after every shift doesn't break the rotation.</p>" },
-        { "type":"table", "variant":"alt", "klabel":"The rules", "h2":"Do and don't, on one screen",
-          "head":["Do","Don't"],
-          "rows":[
-            ["Wash uniforms as their own load","Mix with household laundry — ever"],
-            ["Use the hottest label-permitted cycle (60 °C benchmark)","Quick-wash a clinical uniform cool because it 'looks clean'"],
-            ["Dry completely the same day","Leave damp kit sitting in the drum"],
-            ["Follow employer policy where it's stricter","Home-launder visibly contaminated items"],
-            ["Buy garments rated for the policy wash","Buy pretty scrubs that cap out at 40 °C"]
-          ] },
-        { "type":"keyfacts", "variant":"dark", "klabel":"Why each rule exists", "h2":"The logic in three lines",
-          "items":[
-            {"n":"Separate","l":"Keeps clinical soils out of the household wash — the whole point"},
-            {"n":"Hot + detergent","l":"Temperature and chemistry together do the decontamination"},
-            {"n":"Dry fast","l":"Microbial regrowth loves a damp garment — drying is part of the kill chain"}
-          ] },
-        { "type":"clusternav" },
-        { "type":"faq", "klabel":"Questions", "h2":"Scrub laundering FAQ" }
+      "heroMeta": [
+        {
+          "n": "Separate",
+          "l": "Uniforms wash alone"
+        },
+        {
+          "n": "60 °C",
+          "l": "The benchmark wash"
+        },
+        {
+          "n": "Dry fast",
+          "l": "Damp kit grows what you washed off"
+        }
       ],
-      "faq":[
-        {"q":"Can you wash scrubs at home?","a":"Usually yes for everyday uniforms, within policy rules: change at work, transport sealed, wash as a separate load at the stated temperature (60 °C is the common benchmark), and dry promptly and completely. Contaminated items and theatre kit are the exceptions — they go through the employer's process."},
-        {"q":"What temperature kills bacteria on uniforms?","a":"The widely used benchmark for uniform laundering is a 60 °C wash with detergent — temperature and chemistry working together. Buy scrubs and tunics rated for it; a garment capped at 40 °C can't follow the policy it's worn under."},
-        {"q":"Why can't scrubs go in with normal washing?","a":"Separation is the core control: it keeps clinical soils from circulating through household laundry and lets the uniform load run at the right temperature and cycle. It's the difference between laundering and just washing."}
-      ]
+      "schema": {
+        "type": "HowTo",
+        "steps": [
+          {
+            "name": "Bag it at work, transport it sealed",
+            "text": "Changed-out uniform travels home in its own bag — not worn on the commute, not loose with shopping. Policy usually says exactly this; it's the step most often skipped."
+          },
+          {
+            "name": "Wash uniforms alone, promptly",
+            "text": "A separate load — no household mixing — as soon as practical. A waiting pile of worn clinical kit is the worst version of laundry."
+          },
+          {
+            "name": "Wash at 60 °C where the garment allows",
+            "text": "The widely used benchmark for uniform decontamination. Modern scrubs are cut in poly-cotton rated for it — buy to that spec so the policy is washable."
+          },
+          {
+            "name": "Dry completely, quickly",
+            "text": "Tumble or line-dry the same day. Prompt, complete drying finishes what the hot wash started; damp kit in a machine overnight undoes it."
+          },
+          {
+            "name": "Iron or press if the fabric benefits",
+            "text": "Heat finishing adds a further margin on cottons — and a pressed tunic reads professional at handover."
+          }
+        ]
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The context",
+          "h2": "Home laundering is policy-permitted, not policy-free",
+          "html": "<p>Most UK care providers and many NHS settings permit home laundering of everyday uniforms — <strong>within rules</strong>: change at work, transport sealed, wash separately at the stated temperature, dry promptly. The steps above are that consensus routine. Two hard exceptions sit outside it: <strong>visibly contaminated items</strong> (blood, body fluids) follow the employer's contaminated-linen process rather than a domestic machine, and <strong>theatre scrubs and specialist kit</strong> are industrially laundered, full stop.</p><p>The buying side makes the routine possible: <a href='tunic-vs-scrubs.html'>scrubs or tunics</a> rated for 60&nbsp;°C washing, and <a href='workwear-for-nurses-hcas.html'>enough sets</a> that washing after every shift doesn't break the rotation.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The rules",
+          "h2": "Do and don't, on one screen",
+          "head": [
+            "Do",
+            "Don't"
+          ],
+          "rows": [
+            [
+              "Wash uniforms as their own load",
+              "Mix with household laundry — ever"
+            ],
+            [
+              "Use the hottest label-permitted cycle (60 °C benchmark)",
+              "Quick-wash a clinical uniform cool because it 'looks clean'"
+            ],
+            [
+              "Dry completely the same day",
+              "Leave damp kit sitting in the drum"
+            ],
+            [
+              "Follow employer policy where it's stricter",
+              "Home-launder visibly contaminated items"
+            ],
+            [
+              "Buy garments rated for the policy wash",
+              "Buy pretty scrubs that cap out at 40 °C"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Why each rule exists",
+          "h2": "The logic in three lines",
+          "items": [
+            {
+              "n": "Separate",
+              "l": "Keeps clinical soils out of the household wash — the whole point"
+            },
+            {
+              "n": "Hot + detergent",
+              "l": "Temperature and chemistry together do the decontamination"
+            },
+            {
+              "n": "Dry fast",
+              "l": "Microbial regrowth loves a damp garment — drying is part of the kill chain"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Scrub laundering FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Can you wash scrubs at home?",
+          "a": "Usually yes for everyday uniforms, within policy rules: change at work, transport sealed, wash as a separate load at the stated temperature (60 °C is the common benchmark), and dry promptly and completely. Contaminated items and theatre kit are the exceptions — they go through the employer's process."
+        },
+        {
+          "q": "What temperature kills bacteria on uniforms?",
+          "a": "The widely used benchmark for uniform laundering is a 60 °C wash with detergent — temperature and chemistry working together. Buy scrubs and tunics rated for it; a garment capped at 40 °C can't follow the policy it's worn under."
+        },
+        {
+          "q": "Why can't scrubs go in with normal washing?",
+          "a": "Separation is the core control: it keeps clinical soils from circulating through household laundry and lets the uniform load run at the right temperature and cycle. It's the difference between laundering and just washing."
+        }
+      ],
+      "heroImage": {
+        "src": "assets/heroes/laundry-machine.webp",
+        "alt": "Domestic washing machine with a laundry basket",
+        "kind": "photo"
+      }
     }
   ]
 }

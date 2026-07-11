@@ -6,8 +6,29 @@
     "shopUrl": "https://www.ineedworkwear.com/collections/gloves-ppe",
     "baseUrl": "https://www.ineedworkwear.uk",
     "date": "2026-07-09",
-    "trust": ["EN 388 rated stock", "Cut levels A–F", "Coated grip & winter-lined", "Boxed quantities for teams", "Trade accounts"],
-    "cta": { "h2": "Gloves are a consumable — buy them like one.", "p": "EN 388 rated general-handling, cut-resistant and winter gloves in boxed quantities, with trade accounts for regular ordering.", "actions": [ {"label":"Shop gloves","href":"https://www.ineedworkwear.com/collections/gloves-ppe","style":"white"}, {"label":"Winter-lined gloves","href":"https://www.ineedworkwear.com/collections/gloves-winter","style":"dark"} ] }
+    "trust": [
+      "EN 388 rated stock",
+      "Cut levels A–F",
+      "Coated grip & winter-lined",
+      "Boxed quantities for teams",
+      "Trade accounts"
+    ],
+    "cta": {
+      "h2": "Gloves are a consumable — buy them like one.",
+      "p": "EN 388 rated general-handling, cut-resistant and winter gloves in boxed quantities, with trade accounts for regular ordering.",
+      "actions": [
+        {
+          "label": "Shop gloves",
+          "href": "https://www.ineedworkwear.com/collections/gloves-ppe",
+          "style": "white"
+        },
+        {
+          "label": "Winter-lined gloves",
+          "href": "https://www.ineedworkwear.com/collections/gloves-winter",
+          "style": "dark"
+        }
+      ]
+    }
   },
   "pages": [
     {
@@ -19,47 +40,194 @@
       "metaTitle": "Work Gloves Guide: Types, EN 388 Ratings & Choosing | iNeedWorkwear",
       "metaDesc": "How to choose work gloves — coated grip vs cut-resistant vs winter-lined, what the EN 388 digits mean, sizing that actually matters, and when a glove is worn out.",
       "lede": "The wrong glove doesn't just wear out fast — it gets taken off, and a glove in a pocket protects nothing. Choosing well means matching the coating, the cut level and the fit to the actual task. This hub covers the types and the decision; the EN 388 guide decodes the ratings.",
-      "heroCta": [ {"label":"Decode EN 388","href":"en-388-glove-ratings-decoder.html","style":"orange"}, {"label":"Shop gloves","href":"https://www.ineedworkwear.com/collections/gloves-ppe","style":"ghost"} ],
-      "heroMeta": [ {"n":"EN 388","l":"Mechanical risks"}, {"n":"A–F","l":"Cut levels"}, {"n":"Fit first","l":"Worn gloves protect"} ],
-      "schema": { "type": "Article" },
-      "blocks": [
-        { "type":"prose", "narrow":true, "klabel":"The short version", "h2":"Match the glove to the hazard, not the job title",
-          "html":"<p>Glove choice starts with one question: <strong>what actually threatens the hand?</strong> Abrasion from block and brick, cuts from sheet metal or glass, cold from a winter scaffold, oil killing your grip — each points to a different glove, and the ratings system that sorts them is <strong>EN 388</strong>, the standard for mechanical risks.</p><p>The second question is comfort, and it isn't soft: studies of hand injuries keep finding the same thing — <strong>gloves that are clumsy, sweaty or badly sized get removed</strong>, and the injury happens bare-handed. A slightly less protective glove that stays on beats a bulletproof one in a back pocket.</p><p>That's why the modern default for general site work is a <strong>thin coated glove</strong> — a knitted liner dipped in nitrile or polyurethane — rather than the old leather rigger: near-bare-hand dexterity, real abrasion numbers, and cheap enough to replace the moment it's torn.</p>" },
-        { "type":"cards", "variant":"alt", "klabel":"The types", "h2":"Five gloves cover most work", "lead":"Coating and liner decide what a glove is for. These five families cover the overwhelming majority of tasks.",
-          "items":[
-            {"s":"General handling","h3":"Coated grip gloves","area":"PU or nitrile dip · EN 388 rated","p":"The everyday site glove — dexterity, abrasion resistance and grip, dry or lightly oily. Buy by the box."},
-            {"s":"Sharp materials","h3":"Cut-resistant gloves","hot":true,"area":"Cut level B–F · steel, glass, blades","p":"HPPE or steel-fibre liners under the same coatings. Pick the cut letter to the hazard — the EN 388 guide shows how."},
-            {"s":"Cold work","h3":"Winter-lined gloves","area":"EN 511 cold rating · fleece or acrylic liner","p":"Cold, numb hands drop things. Lined and often water-repellent for outdoor winter work."},
-            {"s":"Wet & chemical","h3":"Chemical-resistant gauntlets","area":"EN ISO 374 · nitrile or PVC","p":"Cleaning, concrete additives, fuels — a different standard (EN ISO 374) and a different glove entirely."},
-            {"s":"Hygiene & inspection","h3":"Disposable nitrile","area":"Single-use · food-safe options","p":"Catering, healthcare, paint prep, inspection. Protection for the product as much as the hand."},
-            {"s":"Heavy & hot","h3":"Riggers & heat gloves","area":"Leather · EN 407 for heat","p":"Heavy hauling, hot works and welding sit outside the thin-coated world — leather and heat-rated kit still earn their place."}
-          ] },
-        { "type":"citebox", "variant":"alt", "html":"The four digits and letters on the back of every rated glove, decoded — with a live tool: <a href='en-388-glove-ratings-decoder.html'>Read: EN 388 glove ratings explained &rarr;</a>" },
-        { "type":"table", "klabel":"Quick reference", "h2":"Which glove for which task",
-          "head":["Task","Sensible glove","Look for"],
-          "rows":[
-            ["General site work, materials handling","Coated grip glove","<span class='code'>EN 388 abrasion 3–4</span>"],
-            ["Sheet metal, glazing, blade work","Cut-resistant coated glove","<span class='code'>Cut level C or above</span>"],
-            ["Winter outdoor work","Winter-lined grip glove","<span class='code'>EN 511 + EN 388</span>"],
-            ["Concrete, cleaning chemicals, fuels","Chemical gauntlet","<span class='code'>EN ISO 374</span>"],
-            ["Food prep, healthcare, inspection","Disposable nitrile","<span class='code'>Food-contact approved where needed</span>"],
-            ["Hot works, welding","Leather / heat-rated glove","<span class='code'>EN 407 (welding: EN 12477)</span>"]
-          ] },
-        { "type":"keyfacts", "variant":"dark", "klabel":"The bit people miss", "h2":"Fit and replacement do half the protecting",
-          "items":[
-            {"n":"Sized, not S/M/L guessed","l":"Measure around the knuckles — a glove that fights the hand comes off the hand"},
-            {"n":"Torn = binned","l":"A holed coating or split seam has lost its rating; boxed gloves exist so replacement is painless"},
-            {"n":"X isn't zero","l":"An X in an EN 388 marking means untested for that hazard — don't assume, check"}
-          ] },
-        { "type":"spokes", "variant":"alt", "klabel":"Go deeper", "h2":"The detailed guides", "lead":"This hub is the overview. Each guide takes one part further — and links back here." },
-        { "type":"faq", "klabel":"Questions", "h2":"Work glove FAQ" }
+      "heroCta": [
+        {
+          "label": "Decode EN 388",
+          "href": "en-388-glove-ratings-decoder.html",
+          "style": "orange"
+        },
+        {
+          "label": "Shop gloves",
+          "href": "https://www.ineedworkwear.com/collections/gloves-ppe",
+          "style": "ghost"
+        }
       ],
-      "faq":[
-        {"q":"What do the numbers on work gloves mean?","a":"They're the EN 388 rating for mechanical risks: four digits for abrasion, cut (coup test), tear and puncture, then optionally a letter A–F for the ISO 13997 cut test and a P for impact protection. Higher is better in each position; X means untested."},
-        {"q":"What are the best gloves for general building work?","a":"A nitrile- or PU-coated knitted glove with EN 388 abrasion level 3 or 4 covers most general site work — good grip, enough dexterity that it stays on, cheap enough to replace when torn. Move to a cut-rated version (level C+) when handling sheet metal, glass or blades."},
-        {"q":"How should work gloves fit?","a":"Snug across the palm without pressure at the fingertips — measure around the knuckles and use the maker's size chart rather than guessing. Too big ruins grip and dexterity; too small fatigues the hand. Both end the same way: the glove comes off, and protection with it."},
-        {"q":"When should work gloves be replaced?","a":"When the coating is holed or peeling, a seam splits, cut-resistant fibres are exposed, or the glove is soaked in oil that won't wash out. Damage removes the rated protection even if the glove still feels wearable — that's why site gloves are bought boxed."}
-      ]
+      "heroMeta": [
+        {
+          "n": "EN 388",
+          "l": "Mechanical risks"
+        },
+        {
+          "n": "A–F",
+          "l": "Cut levels"
+        },
+        {
+          "n": "Fit first",
+          "l": "Worn gloves protect"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The short version",
+          "h2": "Match the glove to the hazard, not the job title",
+          "html": "<p>Glove choice starts with one question: <strong>what actually threatens the hand?</strong> Abrasion from block and brick, cuts from sheet metal or glass, cold from a winter scaffold, oil killing your grip — each points to a different glove, and the ratings system that sorts them is <strong>EN 388</strong>, the standard for mechanical risks.</p><p>The second question is comfort, and it isn't soft: studies of hand injuries keep finding the same thing — <strong>gloves that are clumsy, sweaty or badly sized get removed</strong>, and the injury happens bare-handed. A slightly less protective glove that stays on beats a bulletproof one in a back pocket.</p><p>That's why the modern default for general site work is a <strong>thin coated glove</strong> — a knitted liner dipped in nitrile or polyurethane — rather than the old leather rigger: near-bare-hand dexterity, real abrasion numbers, and cheap enough to replace the moment it's torn.</p>"
+        },
+        {
+          "type": "cards",
+          "variant": "alt",
+          "klabel": "The types",
+          "h2": "Five gloves cover most work",
+          "lead": "Coating and liner decide what a glove is for. These five families cover the overwhelming majority of tasks.",
+          "items": [
+            {
+              "s": "General handling",
+              "h3": "Coated grip gloves",
+              "area": "PU or nitrile dip · EN 388 rated",
+              "p": "The everyday site glove — dexterity, abrasion resistance and grip, dry or lightly oily. Buy by the box."
+            },
+            {
+              "s": "Sharp materials",
+              "h3": "Cut-resistant gloves",
+              "hot": true,
+              "area": "Cut level B–F · steel, glass, blades",
+              "p": "HPPE or steel-fibre liners under the same coatings. Pick the cut letter to the hazard — the EN 388 guide shows how."
+            },
+            {
+              "s": "Cold work",
+              "h3": "Winter-lined gloves",
+              "area": "EN 511 cold rating · fleece or acrylic liner",
+              "p": "Cold, numb hands drop things. Lined and often water-repellent for outdoor winter work."
+            },
+            {
+              "s": "Wet & chemical",
+              "h3": "Chemical-resistant gauntlets",
+              "area": "EN ISO 374 · nitrile or PVC",
+              "p": "Cleaning, concrete additives, fuels — a different standard (EN ISO 374) and a different glove entirely."
+            },
+            {
+              "s": "Hygiene & inspection",
+              "h3": "Disposable nitrile",
+              "area": "Single-use · food-safe options",
+              "p": "Catering, healthcare, paint prep, inspection. Protection for the product as much as the hand."
+            },
+            {
+              "s": "Heavy & hot",
+              "h3": "Riggers & heat gloves",
+              "area": "Leather · EN 407 for heat",
+              "p": "Heavy hauling, hot works and welding sit outside the thin-coated world — leather and heat-rated kit still earn their place."
+            }
+          ]
+        },
+        {
+          "type": "citebox",
+          "variant": "alt",
+          "html": "The four digits and letters on the back of every rated glove, decoded — with a live tool: <a href='en-388-glove-ratings-decoder.html'>Read: EN 388 glove ratings explained &rarr;</a>"
+        },
+        {
+          "type": "table",
+          "klabel": "Quick reference",
+          "h2": "Which glove for which task",
+          "head": [
+            "Task",
+            "Sensible glove",
+            "Look for"
+          ],
+          "rows": [
+            [
+              "General site work, materials handling",
+              "Coated grip glove",
+              "<span class='code'>EN 388 abrasion 3–4</span>"
+            ],
+            [
+              "Sheet metal, glazing, blade work",
+              "Cut-resistant coated glove",
+              "<span class='code'>Cut level C or above</span>"
+            ],
+            [
+              "Winter outdoor work",
+              "Winter-lined grip glove",
+              "<span class='code'>EN 511 + EN 388</span>"
+            ],
+            [
+              "Concrete, cleaning chemicals, fuels",
+              "Chemical gauntlet",
+              "<span class='code'>EN ISO 374</span>"
+            ],
+            [
+              "Food prep, healthcare, inspection",
+              "Disposable nitrile",
+              "<span class='code'>Food-contact approved where needed</span>"
+            ],
+            [
+              "Hot works, welding",
+              "Leather / heat-rated glove",
+              "<span class='code'>EN 407 (welding: EN 12477)</span>"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "The bit people miss",
+          "h2": "Fit and replacement do half the protecting",
+          "items": [
+            {
+              "n": "Sized, not S/M/L guessed",
+              "l": "Measure around the knuckles — a glove that fights the hand comes off the hand"
+            },
+            {
+              "n": "Torn = binned",
+              "l": "A holed coating or split seam has lost its rating; boxed gloves exist so replacement is painless"
+            },
+            {
+              "n": "X isn't zero",
+              "l": "An X in an EN 388 marking means untested for that hazard — don't assume, check"
+            }
+          ]
+        },
+        {
+          "type": "spokes",
+          "variant": "alt",
+          "klabel": "Go deeper",
+          "h2": "The detailed guides",
+          "lead": "This hub is the overview. Each guide takes one part further — and links back here."
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Work glove FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What do the numbers on work gloves mean?",
+          "a": "They're the EN 388 rating for mechanical risks: four digits for abrasion, cut (coup test), tear and puncture, then optionally a letter A–F for the ISO 13997 cut test and a P for impact protection. Higher is better in each position; X means untested."
+        },
+        {
+          "q": "What are the best gloves for general building work?",
+          "a": "A nitrile- or PU-coated knitted glove with EN 388 abrasion level 3 or 4 covers most general site work — good grip, enough dexterity that it stays on, cheap enough to replace when torn. Move to a cut-rated version (level C+) when handling sheet metal, glass or blades."
+        },
+        {
+          "q": "How should work gloves fit?",
+          "a": "Snug across the palm without pressure at the fingertips — measure around the knuckles and use the maker's size chart rather than guessing. Too big ruins grip and dexterity; too small fatigues the hand. Both end the same way: the glove comes off, and protection with it."
+        },
+        {
+          "q": "When should work gloves be replaced?",
+          "a": "When the coating is holed or peeling, a seam splits, cut-resistant fibres are exposed, or the glove is soaked in oil that won't wash out. Damage removes the rated protection even if the glove still feels wearable — that's why site gloves are bought boxed."
+        }
+      ],
+      "heroImage": {
+        "src": "assets/collections/gloves-ppe.webp",
+        "alt": "Cut-resistant coated work gloves",
+        "kind": "cutout",
+        "w": 600,
+        "h": 600
+      }
     },
     {
       "slug": "en-388-glove-ratings-decoder",
@@ -74,41 +242,155 @@
       "metaTitle": "EN 388 Explained: Glove Ratings & Marking Decoder | iNeedWorkwear",
       "metaDesc": "What the EN 388 marking on work gloves means — abrasion, cut, tear, puncture digits, the A–F ISO cut letter and P impact mark — with a live decoder for any marking.",
       "lede": "Every rated work glove carries a shield with a string like 4X42F under it. Six positions, each one a lab test. Type yours into the decoder below — or read the whole system in the tables that follow.",
-      "heroMeta": [ {"n":"4 digits","l":"Abrasion · cut · tear · puncture"}, {"n":"A–F","l":"ISO 13997 cut letter"}, {"n":"P","l":"Impact protection"} ],
-      "schema": { "type": "Article" },
-      "blocks": [
-        { "type":"prose", "narrow":true, "klabel":"The system", "h2":"Six positions, one shield",
-          "html":"<p>EN 388 covers gloves against <strong>mechanical</strong> risks. The marking under the shield reads left to right:</p><ul><li><strong>Digit 1 — abrasion</strong> (0–4): sandpaper cycles until the material wears through.</li><li><strong>Digit 2 — cut, coup test</strong> (0–5): a rotating circular blade under fixed load.</li><li><strong>Digit 3 — tear</strong> (0–4): force needed to rip the material.</li><li><strong>Digit 4 — puncture</strong> (0–4): force to push a standard stylus through.</li><li><strong>Letter 5 — cut, ISO 13997 \"TDM\" test</strong> (A–F): a straight blade under increasing load. Used because tough fibres blunt the coup test's blade — when that happens, this letter is the cut rating that counts and the coup digit shows X.</li><li><strong>Letter 6 — P</strong>: passed the knuckle impact test (common on mechanics' and utilities gloves).</li></ul><p>An <strong>X</strong> anywhere means \"not tested\" — not zero, but not proven either.</p>" },
-        { "type":"prose", "variant":"alt", "klabel":"Try yours", "h2":"The decoder",
-          "html":"<p>Type the marking printed under the EN 388 shield on your glove — like <strong>4131</strong>, <strong>4X42F</strong> or <strong>3X43FP</strong> — and it translates position by position.</p><div style=\"background:#fff;border:1.5px solid var(--line);border-left:4px solid var(--orange);border-radius:6px;padding:22px;max-width:640px\"><label for=\"en388in\" style=\"font-family:var(--mono);font-size:.72rem;letter-spacing:.1em;text-transform:uppercase;color:var(--slate)\">EN 388 marking</label><input id=\"en388in\" type=\"text\" maxlength=\"6\" placeholder=\"e.g. 4X42F\" autocomplete=\"off\" style=\"display:block;width:100%;margin-top:8px;padding:.7rem .9rem;font-family:var(--mono);font-size:1.25rem;letter-spacing:.25em;text-transform:uppercase;border:1.5px solid var(--line);border-radius:6px;color:var(--ink)\"><div id=\"en388out\" style=\"margin-top:14px;font-size:.93rem;color:var(--slate)\"><em>Waiting for a marking…</em></div></div><script>(function(){var abr=['no rating','light duty (100 cycles)','medium duty (500 cycles)','good — general site work (2,000 cycles)','best — highest abrasion rating (8,000 cycles)'];var cut=['no rating','light cut protection','medium cut protection','good cut protection','high cut protection','highest coup-test rating'];var tear=['no rating','low tear strength (10 N)','moderate tear strength (25 N)','good tear strength (50 N)','highest tear rating (75 N)'];var punc=['no rating','low puncture resistance (20 N)','moderate puncture resistance (60 N)','good puncture resistance (100 N)','highest puncture rating (150 N)'];var tdm={A:'2 N — light cut hazards',B:'5 N — light-to-medium cut hazards',C:'10 N — medium; sheet metal & glazing territory',D:'15 N — high cut hazards',E:'22 N — very high cut hazards',F:'30 N — maximum cut rating'};var names=['Abrasion','Cut (coup test)','Tear','Puncture'];var inp=document.getElementById('en388in');var out=document.getElementById('en388out');function row(k,v){return '<div style=\"display:flex;gap:10px;padding:7px 0;border-bottom:1px solid #E1E4EA\"><strong style=\"flex:0 0 132px;color:#151B26\">'+k+'</strong><span>'+v+'</span></div>'}function go(){var v=inp.value.trim().toUpperCase().replace(/[^0-4X5A-F P]/g,'');var h='';if(!v){out.innerHTML='<em>Waiting for a marking\\u2026</em>';return}var arrs=[abr,cut,tear,punc];for(var i=0;i<4;i++){var c=v[i];if(c===undefined){h+=row(names[i],'<em>missing \\u2014 markings have at least 4 positions</em>')}else if(c==='X'){h+=row(names[i],'X \\u2014 not tested for this hazard')}else if(/[0-5]/.test(c)){var n=parseInt(c,10);var a=arrs[i];h+=row(names[i],(n<a.length)?c+' \\u2014 '+a[n]:c+' \\u2014 not a valid level here')}else{h+=row(names[i],c+' \\u2014 unexpected character')}}var rest=v.slice(4);var t=rest.match(/[A-F]/);var p=rest.indexOf('P')>-1;if(t){h+=row('Cut (ISO 13997)',t[0]+' \\u2014 '+tdm[t[0]]+'. This letter overrides the coup digit when present.')}else if(v[1]==='X'){h+=row('Cut (ISO 13997)','<em>coup digit is X but no A\\u2013F letter given \\u2014 check the glove, the letter should be there</em>')}if(p){h+=row('Impact','P \\u2014 passed the knuckle impact-protection test')}out.innerHTML=h}inp.addEventListener('input',go)})();</script><p style=\"margin-top:14px;font-size:.85rem\"><em>No JavaScript? Everything the decoder knows is in the two tables below.</em></p>" },
-        { "type":"table", "klabel":"The digits", "h2":"Positions 1–4: the four digits", "lead":"Higher is better. X in any position means untested.",
-          "head":["Position","Test","Levels","What the top level takes"],
-          "rows":[
-            ["1 — Abrasion","Sandpaper cycles to wear-through","<span class='code'>0–4</span>","8,000 cycles"],
-            ["2 — Cut (coup)","Rotating blade, fixed load","<span class='code'>0–5</span>","Blade index 20"],
-            ["3 — Tear","Force to rip the fabric","<span class='code'>0–4</span>","75 newtons"],
-            ["4 — Puncture","Force to push a stylus through","<span class='code'>0–4</span>","150 newtons"]
-          ] },
-        { "type":"table", "variant":"alt", "klabel":"The letters", "h2":"Positions 5–6: the letters", "lead":"The A–F letter is the modern cut rating — specify by it, not the old digit, for real cut hazards.",
-          "head":["Letter","Test","Meaning"],
-          "rows":[
-            ["<span class='code'>A</span>","ISO 13997, 2 N","Light cut hazards"],
-            ["<span class='code'>B</span>","ISO 13997, 5 N","Light-to-medium"],
-            ["<span class='code'>C</span>","ISO 13997, 10 N","Medium — sheet metal and glazing territory"],
-            ["<span class='code'>D</span>","ISO 13997, 15 N","High cut hazards"],
-            ["<span class='code'>E</span>","ISO 13997, 22 N","Very high"],
-            ["<span class='code'>F</span>","ISO 13997, 30 N","Maximum rating"],
-            ["<span class='code'>P</span>","EN 13594 knuckle impact","Impact protection: pass"]
-          ] },
-        { "type":"warnbar", "html":"<strong>Why some gloves show X for cut but carry a letter:</strong> high-performance fibres blunt the coup test's rotating blade, making its result meaningless — so the standard requires the ISO 13997 test instead, the coup position is marked X, and the letter is the rating that counts. A glove marked <span class='mono'>4X42F</span> is a top-tier cut glove, not an untested one." },
-        { "type":"clusternav" },
-        { "type":"faq", "klabel":"Questions", "h2":"EN 388 FAQ" }
+      "heroMeta": [
+        {
+          "n": "4 digits",
+          "l": "Abrasion · cut · tear · puncture"
+        },
+        {
+          "n": "A–F",
+          "l": "ISO 13997 cut letter"
+        },
+        {
+          "n": "P",
+          "l": "Impact protection"
+        }
       ],
-      "faq":[
-        {"q":"What does 4131 mean on a glove?","a":"Reading the EN 388 digits: abrasion 4 (highest), cut 1 (light, coup test), tear 3 (good), puncture 1 (low). It's a classic general-handling grip glove — fine for materials and site work, wrong for real cut hazards."},
-        {"q":"What does the X mean in an EN 388 rating?","a":"Not tested for that hazard. It isn't a zero and isn't a pass — the maker simply didn't run that test. On cut-resistant gloves an X in the coup position is normal: their fibres blunt that test's blade, so the ISO 13997 letter A–F is the valid cut rating."},
-        {"q":"What cut level do I need for handling sheet metal?","a":"Cut level C (10 N on the ISO 13997 test) is the usual starting point for sheet metal and glazing, moving to D or above where edges are heavy, oily or handled at force. Specify by the letter, not the old coup digit."},
-        {"q":"Is a higher EN 388 number always better?","a":"Higher means more protection in that one test, but protection trades against dexterity and comfort — and an over-specified glove that gets taken off protects nothing. Match each position to the actual hazard rather than buying the biggest numbers."}
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The system",
+          "h2": "Six positions, one shield",
+          "html": "<p>EN 388 covers gloves against <strong>mechanical</strong> risks. The marking under the shield reads left to right:</p><ul><li><strong>Digit 1 — abrasion</strong> (0–4): sandpaper cycles until the material wears through.</li><li><strong>Digit 2 — cut, coup test</strong> (0–5): a rotating circular blade under fixed load.</li><li><strong>Digit 3 — tear</strong> (0–4): force needed to rip the material.</li><li><strong>Digit 4 — puncture</strong> (0–4): force to push a standard stylus through.</li><li><strong>Letter 5 — cut, ISO 13997 \"TDM\" test</strong> (A–F): a straight blade under increasing load. Used because tough fibres blunt the coup test's blade — when that happens, this letter is the cut rating that counts and the coup digit shows X.</li><li><strong>Letter 6 — P</strong>: passed the knuckle impact test (common on mechanics' and utilities gloves).</li></ul><p>An <strong>X</strong> anywhere means \"not tested\" — not zero, but not proven either.</p>"
+        },
+        {
+          "type": "prose",
+          "variant": "alt",
+          "klabel": "Try yours",
+          "h2": "The decoder",
+          "html": "<p>Type the marking printed under the EN 388 shield on your glove — like <strong>4131</strong>, <strong>4X42F</strong> or <strong>3X43FP</strong> — and it translates position by position.</p><div style=\"background:#fff;border:1.5px solid var(--line);border-left:4px solid var(--orange);border-radius:6px;padding:22px;max-width:640px\"><label for=\"en388in\" style=\"font-family:var(--mono);font-size:.72rem;letter-spacing:.1em;text-transform:uppercase;color:var(--slate)\">EN 388 marking</label><input id=\"en388in\" type=\"text\" maxlength=\"6\" placeholder=\"e.g. 4X42F\" autocomplete=\"off\" style=\"display:block;width:100%;margin-top:8px;padding:.7rem .9rem;font-family:var(--mono);font-size:1.25rem;letter-spacing:.25em;text-transform:uppercase;border:1.5px solid var(--line);border-radius:6px;color:var(--ink)\"><div id=\"en388out\" style=\"margin-top:14px;font-size:.93rem;color:var(--slate)\"><em>Waiting for a marking…</em></div></div><script>(function(){var abr=['no rating','light duty (100 cycles)','medium duty (500 cycles)','good — general site work (2,000 cycles)','best — highest abrasion rating (8,000 cycles)'];var cut=['no rating','light cut protection','medium cut protection','good cut protection','high cut protection','highest coup-test rating'];var tear=['no rating','low tear strength (10 N)','moderate tear strength (25 N)','good tear strength (50 N)','highest tear rating (75 N)'];var punc=['no rating','low puncture resistance (20 N)','moderate puncture resistance (60 N)','good puncture resistance (100 N)','highest puncture rating (150 N)'];var tdm={A:'2 N — light cut hazards',B:'5 N — light-to-medium cut hazards',C:'10 N — medium; sheet metal & glazing territory',D:'15 N — high cut hazards',E:'22 N — very high cut hazards',F:'30 N — maximum cut rating'};var names=['Abrasion','Cut (coup test)','Tear','Puncture'];var inp=document.getElementById('en388in');var out=document.getElementById('en388out');function row(k,v){return '<div style=\"display:flex;gap:10px;padding:7px 0;border-bottom:1px solid #E1E4EA\"><strong style=\"flex:0 0 132px;color:#151B26\">'+k+'</strong><span>'+v+'</span></div>'}function go(){var v=inp.value.trim().toUpperCase().replace(/[^0-4X5A-F P]/g,'');var h='';if(!v){out.innerHTML='<em>Waiting for a marking\\u2026</em>';return}var arrs=[abr,cut,tear,punc];for(var i=0;i<4;i++){var c=v[i];if(c===undefined){h+=row(names[i],'<em>missing \\u2014 markings have at least 4 positions</em>')}else if(c==='X'){h+=row(names[i],'X \\u2014 not tested for this hazard')}else if(/[0-5]/.test(c)){var n=parseInt(c,10);var a=arrs[i];h+=row(names[i],(n<a.length)?c+' \\u2014 '+a[n]:c+' \\u2014 not a valid level here')}else{h+=row(names[i],c+' \\u2014 unexpected character')}}var rest=v.slice(4);var t=rest.match(/[A-F]/);var p=rest.indexOf('P')>-1;if(t){h+=row('Cut (ISO 13997)',t[0]+' \\u2014 '+tdm[t[0]]+'. This letter overrides the coup digit when present.')}else if(v[1]==='X'){h+=row('Cut (ISO 13997)','<em>coup digit is X but no A\\u2013F letter given \\u2014 check the glove, the letter should be there</em>')}if(p){h+=row('Impact','P \\u2014 passed the knuckle impact-protection test')}out.innerHTML=h}inp.addEventListener('input',go)})();</script><p style=\"margin-top:14px;font-size:.85rem\"><em>No JavaScript? Everything the decoder knows is in the two tables below.</em></p>"
+        },
+        {
+          "type": "table",
+          "klabel": "The digits",
+          "h2": "Positions 1–4: the four digits",
+          "lead": "Higher is better. X in any position means untested.",
+          "head": [
+            "Position",
+            "Test",
+            "Levels",
+            "What the top level takes"
+          ],
+          "rows": [
+            [
+              "1 — Abrasion",
+              "Sandpaper cycles to wear-through",
+              "<span class='code'>0–4</span>",
+              "8,000 cycles"
+            ],
+            [
+              "2 — Cut (coup)",
+              "Rotating blade, fixed load",
+              "<span class='code'>0–5</span>",
+              "Blade index 20"
+            ],
+            [
+              "3 — Tear",
+              "Force to rip the fabric",
+              "<span class='code'>0–4</span>",
+              "75 newtons"
+            ],
+            [
+              "4 — Puncture",
+              "Force to push a stylus through",
+              "<span class='code'>0–4</span>",
+              "150 newtons"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The letters",
+          "h2": "Positions 5–6: the letters",
+          "lead": "The A–F letter is the modern cut rating — specify by it, not the old digit, for real cut hazards.",
+          "head": [
+            "Letter",
+            "Test",
+            "Meaning"
+          ],
+          "rows": [
+            [
+              "<span class='code'>A</span>",
+              "ISO 13997, 2 N",
+              "Light cut hazards"
+            ],
+            [
+              "<span class='code'>B</span>",
+              "ISO 13997, 5 N",
+              "Light-to-medium"
+            ],
+            [
+              "<span class='code'>C</span>",
+              "ISO 13997, 10 N",
+              "Medium — sheet metal and glazing territory"
+            ],
+            [
+              "<span class='code'>D</span>",
+              "ISO 13997, 15 N",
+              "High cut hazards"
+            ],
+            [
+              "<span class='code'>E</span>",
+              "ISO 13997, 22 N",
+              "Very high"
+            ],
+            [
+              "<span class='code'>F</span>",
+              "ISO 13997, 30 N",
+              "Maximum rating"
+            ],
+            [
+              "<span class='code'>P</span>",
+              "EN 13594 knuckle impact",
+              "Impact protection: pass"
+            ]
+          ]
+        },
+        {
+          "type": "warnbar",
+          "html": "<strong>Why some gloves show X for cut but carry a letter:</strong> high-performance fibres blunt the coup test's rotating blade, making its result meaningless — so the standard requires the ISO 13997 test instead, the coup position is marked X, and the letter is the rating that counts. A glove marked <span class='mono'>4X42F</span> is a top-tier cut glove, not an untested one."
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "EN 388 FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What does 4131 mean on a glove?",
+          "a": "Reading the EN 388 digits: abrasion 4 (highest), cut 1 (light, coup test), tear 3 (good), puncture 1 (low). It's a classic general-handling grip glove — fine for materials and site work, wrong for real cut hazards."
+        },
+        {
+          "q": "What does the X mean in an EN 388 rating?",
+          "a": "Not tested for that hazard. It isn't a zero and isn't a pass — the maker simply didn't run that test. On cut-resistant gloves an X in the coup position is normal: their fibres blunt that test's blade, so the ISO 13997 letter A–F is the valid cut rating."
+        },
+        {
+          "q": "What cut level do I need for handling sheet metal?",
+          "a": "Cut level C (10 N on the ISO 13997 test) is the usual starting point for sheet metal and glazing, moving to D or above where edges are heavy, oily or handled at force. Specify by the letter, not the old coup digit."
+        },
+        {
+          "q": "Is a higher EN 388 number always better?",
+          "a": "Higher means more protection in that one test, but protection trades against dexterity and comfort — and an over-specified glove that gets taken off protects nothing. Match each position to the actual hazard rather than buying the biggest numbers."
+        }
       ]
     }
   ]

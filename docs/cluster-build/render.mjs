@@ -50,6 +50,13 @@ h1,h2,h3,h4{font-family:var(--disp);color:var(--ink);text-transform:uppercase;li
 .hero-cta{display:flex;gap:.7rem;flex-wrap:wrap;margin-top:1.4rem}
 .hero-meta{margin-top:1.7rem;display:flex;gap:1.6rem;flex-wrap:wrap}.hero-meta div{border-left:2px solid var(--orange);padding-left:.75rem}
 .hero-meta .n{font-family:var(--disp);font-size:1.3rem;color:#fff;font-weight:700;line-height:1}.hero-meta .l{font-size:.72rem;color:var(--mute);text-transform:uppercase;letter-spacing:.06em;margin-top:.2rem}
+.hero-in.himg{display:grid;grid-template-columns:1.12fr .88fr;gap:44px;align-items:center}
+@media(max-width:840px){.hero-in.himg{grid-template-columns:1fr}.hero-pic{max-width:400px;margin:0 auto}}
+.hero-pic img{width:100%;height:auto;display:block}
+.hero-pic.photo img{border-radius:14px;box-shadow:0 18px 40px rgba(0,0,0,.35)}
+.hero-pic.cut{background:linear-gradient(180deg,#FBFBFC,#F1F2F5);border-radius:14px;padding:30px;display:flex;align-items:center;justify-content:center;box-shadow:0 18px 40px rgba(0,0,0,.35)}
+.hero-pic.cut img{max-height:330px;width:auto;max-width:100%}
+.hero-pic.cut.dk{background:linear-gradient(180deg,#232C3A,#151B26)}
 .trust{background:var(--steel);border-bottom:1px solid rgba(255,255,255,.06)}
 .trust-in{max-width:var(--maxw);margin:0 auto;padding:13px 24px;display:flex;gap:1.8rem;flex-wrap:wrap;justify-content:center}
 .trust-in span{font-family:var(--mono);font-size:.75rem;color:#AEB6C2;display:flex;gap:.45rem}.trust-in b{color:var(--hivis-bright);font-weight:400}
@@ -159,9 +166,9 @@ ${jsonld(page)}
 <style>${CSS}</style></head><body>
 <header class="top"><div class="top-in"><a class="brand" href="index.html"><svg class="mk" viewBox="0 0 32 32" fill="none" aria-hidden="true"><rect x="3" y="11" width="26" height="18" rx="2" stroke="#E4571F" stroke-width="2"/><path d="M11 11 V7 a5 5 0 0 1 10 0 v4" stroke="#C6D92E" stroke-width="2"/><path d="M13 18 h6 M16 18 v7" stroke="#E4571F" stroke-width="2"/></svg>iNeed<span>Workwear</span></a>
 <nav class="nav"><a href="sectors.html">Sectors</a><a href="roles.html">Roles</a><a href="standards.html">Standards</a><a href="guides.html">Guides</a><a href="kit.html">Kit</a><a class="shop mono" href="https://www.ineedworkwear.com">Shop &rarr;</a></nav></div></header>
-<section class="hero"><div class="hero-in"><div class="crumbs">${crumbLink}</div><p class="eyebrow">${esc(page.kicker)}</p><h1>${esc(page.h1||page.title)}</h1><p class="lede">${page.lede}</p>
+<section class="hero"><div class="hero-in${page.heroImage?' himg':''}">${page.heroImage?'<div>':''}<div class="crumbs">${crumbLink}</div><p class="eyebrow">${esc(page.kicker)}</p><h1>${esc(page.h1||page.title)}</h1><p class="lede">${page.lede}</p>
 ${page.heroCta?`<div class="hero-cta">${page.heroCta.map(a=>`<a class="btn btn-${a.style||'orange'} btn-lg" href="${a.href}">${esc(a.label)}</a>`).join('')}</div>`:''}
-${heroMeta?`<div class="hero-meta">${heroMeta}</div>`:''}</div></section>
+${heroMeta?`<div class="hero-meta">${heroMeta}</div>`:''}${page.heroImage?`</div><div class="hero-pic ${page.heroImage.kind==='cutout'?`cut${page.heroImage.dark?' dk':''}`:'photo'}"><img src="${page.heroImage.src}" alt="${esc(page.heroImage.alt)}" width="${page.heroImage.w||1000}" height="${page.heroImage.h||1000}" fetchpriority="high"></div>`:''}</div></section>
 ${trust?`<div class="trust"><div class="trust-in">${trust}</div></div>`:''}
 ${body}
 <section class="cta"><div class="wrap"><div><h2>${esc(cta.h2)}</h2><p>${esc(cta.p)}</p></div><div class="cta-actions">${cta.actions.map(a=>`<a class="btn btn-${a.style==='white'?'white':'dark'} btn-lg" href="${a.href}">${esc(a.label)}</a>`).join('')}</div></div></section>

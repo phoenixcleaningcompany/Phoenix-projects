@@ -6,9 +6,34 @@
     "shopUrl": "https://www.ineedworkwear.com",
     "baseUrl": "https://www.ineedworkwear.uk",
     "date": "2026-07-09",
-    "externalHub": { "slug": "sectors", "navLabel": "Sectors hub", "title": "Workwear by sector", "cardTitle": "Workwear by sector" },
-    "trust": ["Kit lists by sector", "Standards named, not implied", "Embroidery on your kit or ours", "Trade accounts"],
-    "cta": { "h2": "Kitting out a team, club or school?", "p": "Supply and customise, or embroider what you already use — send the logo and the headcount.", "actions": [ {"label":"Contact us","href":"contact.html","style":"white"}, {"label":"Browse the kit directory","href":"kit.html","style":"dark"} ] }
+    "externalHub": {
+      "slug": "sectors",
+      "navLabel": "Sectors hub",
+      "title": "Workwear by sector",
+      "cardTitle": "Workwear by sector"
+    },
+    "trust": [
+      "Kit lists by sector",
+      "Standards named, not implied",
+      "Embroidery on your kit or ours",
+      "Trade accounts"
+    ],
+    "cta": {
+      "h2": "Kitting out a team, club or school?",
+      "p": "Supply and customise, or embroider what you already use — send the logo and the headcount.",
+      "actions": [
+        {
+          "label": "Contact us",
+          "href": "contact.html",
+          "style": "white"
+        },
+        {
+          "label": "Browse the kit directory",
+          "href": "kit.html",
+          "style": "dark"
+        }
+      ]
+    }
   },
   "pages": [
     {
@@ -24,37 +49,130 @@
       "metaTitle": "Schoolwear Guide: Embroidered Uniform That Lasts | iNeedWorkwear",
       "metaDesc": "Schoolwear done properly — badged sweatshirts and polos that survive daily washing, the two ways schools buy (badge our garments or yours), sizing across ages and affordability.",
       "lede": "School uniform is workwear with the hardest wear-tester on earth: a child, five days a week, forty weeks a year. The buying logic is the same as any uniform fleet — fabric weight, wash survival, embroidered badging — plus two things trade buyers never face: growth and affordability.",
-      "heroMeta": [ {"n":"195 days","l":"A school year of washing"}, {"n":"2 routes","l":"We supply, or we badge yours"}, {"n":"Growth room","l":"The sizing rule trade forgets"} ],
-      "schema": { "type": "Article" },
-      "blocks": [
-        { "type":"prose", "narrow":true, "klabel":"The two routes", "h2":"Supply-and-badge, or badge what you use",
-          "html":"<p>Schools and suppliers work with us two ways. <strong>Supply and customise:</strong> we provide the sweatshirts, polos, cardigans and PE kit, embroidered with the school badge before dispatch — one order, consistent colour across sizes and reorders. <strong>Badge-only:</strong> the school or its existing supplier already has a garment line and needs the badge embroidered properly — digitised once, stitched consistently, batch after batch.</p><p>Either way the badge is the constant: a <strong>properly digitised school crest</strong> is a one-off setup that then reproduces identically for years. Print looks cheaper per unit and peels by February half-term on daily-washed kit — the <a href='embroidery-vs-print.html'>embroidery vs print logic</a> applies with extra force at this wash frequency.</p>" },
-        { "type":"table", "variant":"alt", "klabel":"The kit", "h2":"The core schoolwear list",
-          "head":["Garment","The spec that matters","Why"],
-          "rows":[
-            ["Badged sweatshirts","280 gsm+, taped neck, cotton-rich face","The daily workhorse — buy the weight, not the price"],
-            ["Polos","Piqué, <a href='choosing-team-polos.html'>the team-polo rules</a> in miniature","Survives the wash count a school year demands"],
-            ["Cardigans & V-necks","Knit that keeps shape at 40 °C washes","The smart layer that goes home on a peg — name tags matter"],
-            ["PE kit","Wicking tees, shorts, <a href='sports-teamwear-guide.html'>teamwear crossover</a>","The one category kids outgrow mid-year"],
-            ["Book bags & accessories","Badged, wipe-clean","Small items, large goodwill"]
-          ] },
-        { "type":"prose", "klabel":"The school-specific bits", "h2":"Growth, affordability and the uniform policy", "narrow":true,
-          "html":"<p><strong>Sizing for growth</strong> is the discipline trade uniform never needs: parents buy a size up in September and the garment must look acceptable both oversized and outgrown — which favours classic cuts over slim ones and generous hems. <strong>Affordability matters in policy terms too</strong>: statutory guidance pushes schools to keep branded items minimal and costs reasonable, so the smart uniform spec concentrates the badge on one or two garments (sweatshirt, polo) and keeps the rest generic — a structure that also happens to make the embroidered items feel worth their price.</p><p>Durability closes the loop: a garment that survives sibling hand-me-down is the cheapest uniform a family ever buys, and the school's brand looks better in year two than a faded reprint ever does.</p>" },
-        { "type":"keyfacts", "variant":"dark", "klabel":"Ordering", "h2":"Three schoolwear ordering truths",
-          "items":[
-            {"n":"Digitise the crest once","l":"A quality embroidery file reproduces for years — worth doing properly"},
-            {"n":"Order to the size curve","l":"Ages 4–11 need a wider size spread than any workforce"},
-            {"n":"September is made in June","l":"Uniform seasons are sharp — badge-and-supply lead times double in summer"}
-          ] },
-        { "type":"clusternav" },
-        { "type":"faq", "klabel":"Questions", "h2":"Schoolwear FAQ" }
+      "heroMeta": [
+        {
+          "n": "195 days",
+          "l": "A school year of washing"
+        },
+        {
+          "n": "2 routes",
+          "l": "We supply, or we badge yours"
+        },
+        {
+          "n": "Growth room",
+          "l": "The sizing rule trade forgets"
+        }
       ],
-      "faq":[
-        {"q":"Can you embroider a school's existing uniform?","a":"Yes — badge-only work is half the schoolwear trade. The school crest is digitised once, then stitched consistently onto garments we supply or garments the school's existing line uses, batch after batch."},
-        {"q":"Why embroider school badges instead of printing?","a":"Wash frequency: school kit is washed more than almost any workwear, and printed badges crack and peel under that cycle while stitching survives the garment. Over a school year, embroidery is the cheaper badge."},
-        {"q":"What weight should school sweatshirts be?","a":"280 gsm or heavier with a taped neck — the weight is what survives daily wear and washing while keeping its shape. Lighter promotional-grade sweatshirts look identical in September and tired by October."},
-        {"q":"How should schools keep uniform affordable?","a":"Concentrate branding on one or two garments (badged sweatshirt and polo) and keep the rest generic — the structure statutory guidance encourages. Durable garments that survive hand-me-downs cut the real per-family cost more than any discount."}
-      ]
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The two routes",
+          "h2": "Supply-and-badge, or badge what you use",
+          "html": "<p>Schools and suppliers work with us two ways. <strong>Supply and customise:</strong> we provide the sweatshirts, polos, cardigans and PE kit, embroidered with the school badge before dispatch — one order, consistent colour across sizes and reorders. <strong>Badge-only:</strong> the school or its existing supplier already has a garment line and needs the badge embroidered properly — digitised once, stitched consistently, batch after batch.</p><p>Either way the badge is the constant: a <strong>properly digitised school crest</strong> is a one-off setup that then reproduces identically for years. Print looks cheaper per unit and peels by February half-term on daily-washed kit — the <a href='embroidery-vs-print.html'>embroidery vs print logic</a> applies with extra force at this wash frequency.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The kit",
+          "h2": "The core schoolwear list",
+          "head": [
+            "Garment",
+            "The spec that matters",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Badged sweatshirts",
+              "280 gsm+, taped neck, cotton-rich face",
+              "The daily workhorse — buy the weight, not the price"
+            ],
+            [
+              "Polos",
+              "Piqué, <a href='choosing-team-polos.html'>the team-polo rules</a> in miniature",
+              "Survives the wash count a school year demands"
+            ],
+            [
+              "Cardigans & V-necks",
+              "Knit that keeps shape at 40 °C washes",
+              "The smart layer that goes home on a peg — name tags matter"
+            ],
+            [
+              "PE kit",
+              "Wicking tees, shorts, <a href='sports-teamwear-guide.html'>teamwear crossover</a>",
+              "The one category kids outgrow mid-year"
+            ],
+            [
+              "Book bags & accessories",
+              "Badged, wipe-clean",
+              "Small items, large goodwill"
+            ]
+          ]
+        },
+        {
+          "type": "prose",
+          "klabel": "The school-specific bits",
+          "h2": "Growth, affordability and the uniform policy",
+          "narrow": true,
+          "html": "<p><strong>Sizing for growth</strong> is the discipline trade uniform never needs: parents buy a size up in September and the garment must look acceptable both oversized and outgrown — which favours classic cuts over slim ones and generous hems. <strong>Affordability matters in policy terms too</strong>: statutory guidance pushes schools to keep branded items minimal and costs reasonable, so the smart uniform spec concentrates the badge on one or two garments (sweatshirt, polo) and keeps the rest generic — a structure that also happens to make the embroidered items feel worth their price.</p><p>Durability closes the loop: a garment that survives sibling hand-me-down is the cheapest uniform a family ever buys, and the school's brand looks better in year two than a faded reprint ever does.</p>"
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Ordering",
+          "h2": "Three schoolwear ordering truths",
+          "items": [
+            {
+              "n": "Digitise the crest once",
+              "l": "A quality embroidery file reproduces for years — worth doing properly"
+            },
+            {
+              "n": "Order to the size curve",
+              "l": "Ages 4–11 need a wider size spread than any workforce"
+            },
+            {
+              "n": "September is made in June",
+              "l": "Uniform seasons are sharp — badge-and-supply lead times double in summer"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Schoolwear FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Can you embroider a school's existing uniform?",
+          "a": "Yes — badge-only work is half the schoolwear trade. The school crest is digitised once, then stitched consistently onto garments we supply or garments the school's existing line uses, batch after batch."
+        },
+        {
+          "q": "Why embroider school badges instead of printing?",
+          "a": "Wash frequency: school kit is washed more than almost any workwear, and printed badges crack and peel under that cycle while stitching survives the garment. Over a school year, embroidery is the cheaper badge."
+        },
+        {
+          "q": "What weight should school sweatshirts be?",
+          "a": "280 gsm or heavier with a taped neck — the weight is what survives daily wear and washing while keeping its shape. Lighter promotional-grade sweatshirts look identical in September and tired by October."
+        },
+        {
+          "q": "How should schools keep uniform affordable?",
+          "a": "Concentrate branding on one or two garments (badged sweatshirt and polo) and keep the rest generic — the structure statutory guidance encourages. Durable garments that survive hand-me-downs cut the real per-family cost more than any discount."
+        }
+      ],
+      "heroImage": {
+        "src": "assets/collections/schoolwear.webp",
+        "alt": "Black schoolwear hoodie with tonal crest",
+        "kind": "cutout",
+        "w": 600,
+        "h": 600
+      }
     },
     {
       "slug": "sports-teamwear-guide",
@@ -69,36 +187,126 @@
       "metaTitle": "Sports & Teamwear Guide: Club Kit Done Properly | iNeedWorkwear",
       "metaDesc": "Club and teamwear beyond matchday — training and travel wear, initials, numbers and sponsor logos, wicking fabrics that survive club washing, and supply vs badge-only routes.",
       "lede": "A club's kit is three wardrobes wearing one badge: matchday, training, and the travel-and-touchline layer that parents and committee actually buy most of. Getting the system right matters more than any single shirt — and clubs work with a supplier in two distinct ways.",
-      "heroMeta": [ {"n":"3 wardrobes","l":"Match · training · touchline"}, {"n":"2 routes","l":"We supply, or we badge yours"}, {"n":"One badge","l":"Digitised once, used everywhere"} ],
-      "schema": { "type": "Article" },
-      "blocks": [
-        { "type":"prose", "narrow":true, "klabel":"The two routes", "h2":"Same choice as schools: supply, or badge what you have",
-          "html":"<p>Many clubs already run a kit line — a league-registered strip, a brand deal, a kit committee decision from 2019 — and need a supplier who can <strong>badge it properly</strong>: club crest, initials, sponsor logos, stitched or pressed correctly onto garments that already exist. Others want the whole thing <strong>supplied and customised</strong> — training wear, hoodies, polos, bags — from one catalogue with the crest applied before dispatch.</p><p>Both routes run on the same asset: a <strong>digitised club crest</strong> (and clean sponsor artwork) set up once. Stitch counts, thread colours and placement then reproduce identically whether the order is one manager's gilet or forty junior hoodies — which is what makes a club look like a club.</p>" },
-        { "type":"table", "variant":"alt", "klabel":"The system", "h2":"The three wardrobes",
-          "head":["Layer","Garments","The spec logic"],
-          "rows":[
-            ["Matchday","League-spec shirts, shorts, socks","Often league- or sponsor-constrained — we badge to the rules"],
-            ["Training","Wicking tees, drill tops, shorts","Washed hardest — <a href='base-layers-guide.html'>synthetic wicking</a> fabric, printed numbers optional"],
-            ["Touchline & travel","Hoodies, polos, softshells, beanies","Where crest + initials embroidery shines — and what funds club shops"],
-            ["Staff & volunteers","Coach polos, first-aider hi-vis","Identification on a busy touchline is a safety feature"]
-          ] },
-        { "type":"prose", "klabel":"The details", "h2":"Initials, numbers and sponsor logos", "narrow":true,
-          "html":"<p><strong>Initials beat names</strong> on club leisurewear — they survive squad churn and kit handover, and they're the difference between a hoodie that gets re-issued and one that leaves with the player. <strong>Numbers and large sponsor panels print</strong> (scale and fabric make it the right method); <strong>crests and initials embroider</strong> — the <a href='embroidery-vs-print.html'>same split as workwear</a>, applied per garment. And sponsor artwork deserves the same one-off digitising discipline as the crest: a fuzzy sponsor logo on forty chests is a renewal conversation nobody wants.</p><p>Fabric-wise, club kit lives or dies in the wash basket: <strong>wicking polyester for anything worn to sweat</strong>, cotton-rich only for the leisure layer, and everything specified against a club-laundry reality of hot washes and zero garment care — the <a href='washing-embroidered-workwear.html'>branded-kit wash rules</a> apply, they just won't be followed.</p>" },
-        { "type":"keyfacts", "variant":"dark", "klabel":"Ordering", "h2":"Three club-order truths",
-          "items":[
-            {"n":"Committee-proof colours","l":"Pick catalogue colours that will still exist in three seasons — reorders must match"},
-            {"n":"Size curve + spares","l":"Juniors grow mid-season; a spare-kit box saves the club shop's reputation"},
-            {"n":"Pre-season is the deadline","l":"Badge-and-supply lead times spike in July and August — order in the close season"}
-          ] },
-        { "type":"clusternav" },
-        { "type":"faq", "klabel":"Questions", "h2":"Teamwear FAQ" }
+      "heroMeta": [
+        {
+          "n": "3 wardrobes",
+          "l": "Match · training · touchline"
+        },
+        {
+          "n": "2 routes",
+          "l": "We supply, or we badge yours"
+        },
+        {
+          "n": "One badge",
+          "l": "Digitised once, used everywhere"
+        }
       ],
-      "faq":[
-        {"q":"Can you add our sponsor's logo to existing club kit?","a":"Yes — badge-only work on kit you already have is routine: crest and initials embroidered, numbers and sponsor panels printed, onto your existing garments or ours. Clean sponsor artwork digitised or vectorised once keeps every batch consistent."},
-        {"q":"Should club kit be embroidered or printed?","a":"Both, by item: crests and initials embroider (they survive club washing), numbers and large sponsor panels print (scale and stretch fabrics favour it). The garment and the artwork decide, not a single house rule."},
-        {"q":"What fabric is best for training kit?","a":"Wicking polyester — training wear is washed harder than any other club garment and worn to sweat. Save cotton-rich fabrics for the hoodies-and-polos leisure layer where comfort and embroidery matter more than drying speed."},
-        {"q":"When should clubs order next season's kit?","a":"In the close season — badge-and-supply lead times double in July and August as every club and school orders at once. A committee decision in May is a full kit bag in August; a decision in August is a part-delivered September."}
-      ]
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The two routes",
+          "h2": "Same choice as schools: supply, or badge what you have",
+          "html": "<p>Many clubs already run a kit line — a league-registered strip, a brand deal, a kit committee decision from 2019 — and need a supplier who can <strong>badge it properly</strong>: club crest, initials, sponsor logos, stitched or pressed correctly onto garments that already exist. Others want the whole thing <strong>supplied and customised</strong> — training wear, hoodies, polos, bags — from one catalogue with the crest applied before dispatch.</p><p>Both routes run on the same asset: a <strong>digitised club crest</strong> (and clean sponsor artwork) set up once. Stitch counts, thread colours and placement then reproduce identically whether the order is one manager's gilet or forty junior hoodies — which is what makes a club look like a club.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The system",
+          "h2": "The three wardrobes",
+          "head": [
+            "Layer",
+            "Garments",
+            "The spec logic"
+          ],
+          "rows": [
+            [
+              "Matchday",
+              "League-spec shirts, shorts, socks",
+              "Often league- or sponsor-constrained — we badge to the rules"
+            ],
+            [
+              "Training",
+              "Wicking tees, drill tops, shorts",
+              "Washed hardest — <a href='base-layers-guide.html'>synthetic wicking</a> fabric, printed numbers optional"
+            ],
+            [
+              "Touchline & travel",
+              "Hoodies, polos, softshells, beanies",
+              "Where crest + initials embroidery shines — and what funds club shops"
+            ],
+            [
+              "Staff & volunteers",
+              "Coach polos, first-aider hi-vis",
+              "Identification on a busy touchline is a safety feature"
+            ]
+          ]
+        },
+        {
+          "type": "prose",
+          "klabel": "The details",
+          "h2": "Initials, numbers and sponsor logos",
+          "narrow": true,
+          "html": "<p><strong>Initials beat names</strong> on club leisurewear — they survive squad churn and kit handover, and they're the difference between a hoodie that gets re-issued and one that leaves with the player. <strong>Numbers and large sponsor panels print</strong> (scale and fabric make it the right method); <strong>crests and initials embroider</strong> — the <a href='embroidery-vs-print.html'>same split as workwear</a>, applied per garment. And sponsor artwork deserves the same one-off digitising discipline as the crest: a fuzzy sponsor logo on forty chests is a renewal conversation nobody wants.</p><p>Fabric-wise, club kit lives or dies in the wash basket: <strong>wicking polyester for anything worn to sweat</strong>, cotton-rich only for the leisure layer, and everything specified against a club-laundry reality of hot washes and zero garment care — the <a href='washing-embroidered-workwear.html'>branded-kit wash rules</a> apply, they just won't be followed.</p>"
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Ordering",
+          "h2": "Three club-order truths",
+          "items": [
+            {
+              "n": "Committee-proof colours",
+              "l": "Pick catalogue colours that will still exist in three seasons — reorders must match"
+            },
+            {
+              "n": "Size curve + spares",
+              "l": "Juniors grow mid-season; a spare-kit box saves the club shop's reputation"
+            },
+            {
+              "n": "Pre-season is the deadline",
+              "l": "Badge-and-supply lead times spike in July and August — order in the close season"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Teamwear FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Can you add our sponsor's logo to existing club kit?",
+          "a": "Yes — badge-only work on kit you already have is routine: crest and initials embroidered, numbers and sponsor panels printed, onto your existing garments or ours. Clean sponsor artwork digitised or vectorised once keeps every batch consistent."
+        },
+        {
+          "q": "Should club kit be embroidered or printed?",
+          "a": "Both, by item: crests and initials embroider (they survive club washing), numbers and large sponsor panels print (scale and stretch fabrics favour it). The garment and the artwork decide, not a single house rule."
+        },
+        {
+          "q": "What fabric is best for training kit?",
+          "a": "Wicking polyester — training wear is washed harder than any other club garment and worn to sweat. Save cotton-rich fabrics for the hoodies-and-polos leisure layer where comfort and embroidery matter more than drying speed."
+        },
+        {
+          "q": "When should clubs order next season's kit?",
+          "a": "In the close season — badge-and-supply lead times double in July and August as every club and school orders at once. A committee decision in May is a full kit bag in August; a decision in August is a part-delivered September."
+        }
+      ],
+      "heroImage": {
+        "src": "assets/collections/sports-teamwear.webp",
+        "alt": "Lime green sports training vest",
+        "kind": "cutout",
+        "w": 600,
+        "h": 600,
+        "dark": true
+      }
     },
     {
       "slug": "rail-workwear-guide",
@@ -113,33 +321,110 @@
       "metaTitle": "Rail Workwear Guide: Trackside to Depot | iNeedWorkwear",
       "metaDesc": "Rail sector workwear mapped — trackside rail-spec orange, depot and station kit, the roles that don't need the full spec, and keeping an orange fleet compliant as it ages.",
       "lede": "Rail is the one UK sector where a single standard paints the whole workforce — but not everyone in it works trackside, and buying the full spec for station staff wastes exactly the money that under-speccing a track gang risks in access refusals. Here's the sector's kit map.",
-      "heroMeta": [ {"n":"Orange","l":"The sector's colour, by rule"}, {"n":"Not everyone","l":"Trackside spec ≠ every role"}, {"n":"Fleet ageing","l":"The compliance clock ticks in washes"} ],
-      "schema": { "type": "Article" },
-      "blocks": [
-        { "type":"table", "klabel":"The map", "h2":"Kit by rail role",
-          "head":["Role","Kit","The spec detail"],
-          "rows":[
-            ["Track workers & possessions","Full orange: Class 3 jacket + trousers","<a href='rail-spec-workwear-explained.html'>RIS-3279-TOM</a> — the <a href='workwear-for-rail-trackside.html'>trackside kit list</a>"],
-            ["Depot & yard staff","Orange Class 2–3 by depot rules, S3 boots","Inside the fence but around movements — depot policy decides"],
-            ["Station & platform staff","Corporate uniform + hi-vis layer for platform duties","Operator uniform lines; hi-vis for dispatch and disruption"],
-            ["OLE & electrification crews","Multi-norm FR + arc under the orange","<a href='iec-61482-arc-flash-explained.html'>Arc ratings</a> stack with rail spec"],
-            ["Rail engineering suppliers","Mixed — office to trackside in one week","The fleet answer: rail-spec outer layer for everyone who might cross the line"]
-          ] },
-        { "type":"prose", "narrow":true, "klabel":"The fleet problem", "h2":"Orange fleets age in public",
-          "html":"<p>Rail's compliance culture means kit gets <strong>looked at</strong> — at access points, by sponsors, on inductions — so a faded jacket isn't just non-compliant, it's visibly non-compliant. Fleet management is therefore the sector's real workwear discipline: <strong>wash-count awareness</strong> (the <a href='caring-for-hi-vis.html'>hi-vis care rules</a> with teeth), rotation so no garment carries the whole season, and retirement on fade rather than on budget cycle. Two-of-everything per worker isn't generosity; wet possessions with no drying time make it the compliance minimum.</p><p><strong>Badging on rail kit</strong> follows the same rule as all certified hi-vis: logos clear of the fluorescent background and tape areas — embroidery placed by someone who knows the standard, which is a sentence that doubles as our pitch.</p>" },
-        { "type":"keyfacts", "variant":"dark", "klabel":"Buying", "h2":"Three rail-fleet rules",
-          "items":[
-            {"n":"Spec by exposure","l":"Full rail spec for anyone who might cross the line; station kit for those who won't"},
-            {"n":"PC rules on top","l":"Principal contractors add class and trouser requirements — confirm before fleet orders"},
-            {"n":"Retire on fade","l":"An access refusal costs more than a jacket"}
-          ] },
-        { "type":"clusternav" },
-        { "type":"faq", "klabel":"Questions", "h2":"Rail sector FAQ" }
+      "heroMeta": [
+        {
+          "n": "Orange",
+          "l": "The sector's colour, by rule"
+        },
+        {
+          "n": "Not everyone",
+          "l": "Trackside spec ≠ every role"
+        },
+        {
+          "n": "Fleet ageing",
+          "l": "The compliance clock ticks in washes"
+        }
       ],
-      "faq":[
-        {"q":"Does everyone in rail need rail-spec orange?","a":"No — the RIS-3279-TOM requirement applies on or near the line. Depot staff follow depot rules (usually orange, class by policy), station staff wear operator uniform with a hi-vis layer for platform duties. Spec by exposure, not by industry membership."},
-        {"q":"What do overhead line workers wear?","a":"Multi-norm FR and arc-rated clothing under the rail-spec orange outer — electrification work stacks IEC 61482 arc requirements on top of the visibility rules, usually via multi-norm garments certified to both."},
-        {"q":"How often does rail hi-vis need replacing?","a":"On condition and wash count, not a calendar: rail kit carries the same EN ISO 20471 wash-cycle ratings as any hi-vis, and access controls actually check. Fade toward peach, cracked tape or a passed wash count all retire the garment."}
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "table",
+          "klabel": "The map",
+          "h2": "Kit by rail role",
+          "head": [
+            "Role",
+            "Kit",
+            "The spec detail"
+          ],
+          "rows": [
+            [
+              "Track workers & possessions",
+              "Full orange: Class 3 jacket + trousers",
+              "<a href='rail-spec-workwear-explained.html'>RIS-3279-TOM</a> — the <a href='workwear-for-rail-trackside.html'>trackside kit list</a>"
+            ],
+            [
+              "Depot & yard staff",
+              "Orange Class 2–3 by depot rules, S3 boots",
+              "Inside the fence but around movements — depot policy decides"
+            ],
+            [
+              "Station & platform staff",
+              "Corporate uniform + hi-vis layer for platform duties",
+              "Operator uniform lines; hi-vis for dispatch and disruption"
+            ],
+            [
+              "OLE & electrification crews",
+              "Multi-norm FR + arc under the orange",
+              "<a href='iec-61482-arc-flash-explained.html'>Arc ratings</a> stack with rail spec"
+            ],
+            [
+              "Rail engineering suppliers",
+              "Mixed — office to trackside in one week",
+              "The fleet answer: rail-spec outer layer for everyone who might cross the line"
+            ]
+          ]
+        },
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The fleet problem",
+          "h2": "Orange fleets age in public",
+          "html": "<p>Rail's compliance culture means kit gets <strong>looked at</strong> — at access points, by sponsors, on inductions — so a faded jacket isn't just non-compliant, it's visibly non-compliant. Fleet management is therefore the sector's real workwear discipline: <strong>wash-count awareness</strong> (the <a href='caring-for-hi-vis.html'>hi-vis care rules</a> with teeth), rotation so no garment carries the whole season, and retirement on fade rather than on budget cycle. Two-of-everything per worker isn't generosity; wet possessions with no drying time make it the compliance minimum.</p><p><strong>Badging on rail kit</strong> follows the same rule as all certified hi-vis: logos clear of the fluorescent background and tape areas — embroidery placed by someone who knows the standard, which is a sentence that doubles as our pitch.</p>"
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Buying",
+          "h2": "Three rail-fleet rules",
+          "items": [
+            {
+              "n": "Spec by exposure",
+              "l": "Full rail spec for anyone who might cross the line; station kit for those who won't"
+            },
+            {
+              "n": "PC rules on top",
+              "l": "Principal contractors add class and trouser requirements — confirm before fleet orders"
+            },
+            {
+              "n": "Retire on fade",
+              "l": "An access refusal costs more than a jacket"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Rail sector FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Does everyone in rail need rail-spec orange?",
+          "a": "No — the RIS-3279-TOM requirement applies on or near the line. Depot staff follow depot rules (usually orange, class by policy), station staff wear operator uniform with a hi-vis layer for platform duties. Spec by exposure, not by industry membership."
+        },
+        {
+          "q": "What do overhead line workers wear?",
+          "a": "Multi-norm FR and arc-rated clothing under the rail-spec orange outer — electrification work stacks IEC 61482 arc requirements on top of the visibility rules, usually via multi-norm garments certified to both."
+        },
+        {
+          "q": "How often does rail hi-vis need replacing?",
+          "a": "On condition and wash count, not a calendar: rail kit carries the same EN ISO 20471 wash-cycle ratings as any hi-vis, and access controls actually check. Fade toward peach, cracked tape or a passed wash count all retire the garment."
+        }
       ]
     },
     {
@@ -155,33 +440,110 @@
       "metaTitle": "Forestry & Arb Workwear Guide | iNeedWorkwear",
       "metaDesc": "Forestry and arboriculture workwear — chainsaw protection as the core spec (Type A vs C, classes), the climber vs groundworker split, helmet systems and all-season layering.",
       "lede": "Forestry kit divides at one line: operating the saw, or working around it. The saw side is governed by certified chainsaw-protective clothing with types and classes; the around side is hard outdoor workwear with a hi-vis twist. Most crews need both wardrobes — often on the same person, same day.",
-      "heroMeta": [ {"n":"EN ISO 11393","l":"The chainsaw standard at the core"}, {"n":"Climb vs ground","l":"The Type C / Type A split"}, {"n":"All seasons","l":"The forest has no indoors"} ],
-      "schema": { "type": "Article" },
-      "blocks": [
-        { "type":"table", "klabel":"The map", "h2":"Kit by forestry role",
-          "head":["Role","Kit","The spec detail"],
-          "rows":[
-            ["Ground-based operator","Type A chainsaw trousers, chainsaw boots, helmet system","The full breakdown: <a href='chainsaw-forestry-kit.html'>chainsaw & forestry kit</a>"],
-            ["Climbing arborist","<span class='code'>Type C</span> trousers, climbing helmet, harness-aware layers","All-round leg protection; kit works with the harness like <a href='workwear-for-roofers.html'>roofing</a>"],
-            ["Groundworker / chipper crew","Hi-vis, <span class='code'>EN 166</span> eyes, ear defenders, gloves","Around the saw and the chipper — flying debris is their hazard"],
-            ["Firewood & sawmill","Cut gloves, eye/ear kit, dust masks","Processing brings <a href='en-149-ffp-ratings-explained.html'>wood-dust FFP rules</a> indoors"],
-            ["Estate & grounds crossover","The <a href='workwear-for-landscapers.html'>landscaper list</a> plus saw tickets","Many rural roles straddle both"]
-          ] },
-        { "type":"prose", "narrow":true, "klabel":"The sector layer", "h2":"Around the certified core, hard outdoor kit",
-          "html":"<p>Chainsaw clothing does one job; the forest does the rest. The sector's everyday layer is the hardest-wearing version of the outdoor stack — <a href='base-layers-guide.html'>wicking base</a>, tough mid-layer, <a href='reproofing-waterproofs.html'>maintained waterproofs</a> — plus <strong>hi-vis as standard practice</strong>: orange or yellow shells and helmets keep crews visible to each other, to machinery, and to the public on estate and roadside work. Thorn-proof gloves, ankle-deep mud footwear between saw tasks, and a dry-kit box in the truck complete the picture.</p><p>The discipline that holds it together is <strong>inspection culture</strong>: chainsaw trousers retire on any contact, helmets on date and UV, boots on tread — because in this sector the kit check is part of the job ticket, not an HR nicety.</p>" },
-        { "type":"keyfacts", "variant":"dark", "klabel":"Buying", "h2":"Three forestry-fleet rules",
-          "items":[
-            {"n":"Class to the saw","l":"Chainsaw protection classes match chain speed — check the saw plate, not the price list"},
-            {"n":"Type by task","l":"Ground crews Type A; anyone climbing, Type C — no exceptions for summer heat"},
-            {"n":"One contact = replace","l":"Chainsaw garments are single-event PPE; budget them as consumables"}
-          ] },
-        { "type":"clusternav" },
-        { "type":"faq", "klabel":"Questions", "h2":"Forestry sector FAQ" }
+      "heroMeta": [
+        {
+          "n": "EN ISO 11393",
+          "l": "The chainsaw standard at the core"
+        },
+        {
+          "n": "Climb vs ground",
+          "l": "The Type C / Type A split"
+        },
+        {
+          "n": "All seasons",
+          "l": "The forest has no indoors"
+        }
       ],
-      "faq":[
-        {"q":"What's the difference between climbing and ground chainsaw trousers?","a":"Coverage: Type A protects the front of the legs and suits ground work; Type C wraps all round for climbers and platform work where the saw can reach from any angle. Class (1–3) separately matches the saw's chain speed."},
-        {"q":"Do chipper crews need chainsaw trousers?","a":"Not for the chipper itself — their hazards are flying debris, noise and entanglement, so the kit is rated eye protection, ear defenders, close-fitting hi-vis clothing and gloves. Anyone also operating the saw needs the certified chainsaw kit on top."},
-        {"q":"Why do forestry helmets have visors and ear defenders attached?","a":"Because the hazards arrive together: chip strike, sawdust and sustained noise. The forestry helmet system — shell, mesh visor, defenders — is designed and worn as one unit, usually in hi-vis colours so crews stay visible among trees."}
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "table",
+          "klabel": "The map",
+          "h2": "Kit by forestry role",
+          "head": [
+            "Role",
+            "Kit",
+            "The spec detail"
+          ],
+          "rows": [
+            [
+              "Ground-based operator",
+              "Type A chainsaw trousers, chainsaw boots, helmet system",
+              "The full breakdown: <a href='chainsaw-forestry-kit.html'>chainsaw & forestry kit</a>"
+            ],
+            [
+              "Climbing arborist",
+              "<span class='code'>Type C</span> trousers, climbing helmet, harness-aware layers",
+              "All-round leg protection; kit works with the harness like <a href='workwear-for-roofers.html'>roofing</a>"
+            ],
+            [
+              "Groundworker / chipper crew",
+              "Hi-vis, <span class='code'>EN 166</span> eyes, ear defenders, gloves",
+              "Around the saw and the chipper — flying debris is their hazard"
+            ],
+            [
+              "Firewood & sawmill",
+              "Cut gloves, eye/ear kit, dust masks",
+              "Processing brings <a href='en-149-ffp-ratings-explained.html'>wood-dust FFP rules</a> indoors"
+            ],
+            [
+              "Estate & grounds crossover",
+              "The <a href='workwear-for-landscapers.html'>landscaper list</a> plus saw tickets",
+              "Many rural roles straddle both"
+            ]
+          ]
+        },
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The sector layer",
+          "h2": "Around the certified core, hard outdoor kit",
+          "html": "<p>Chainsaw clothing does one job; the forest does the rest. The sector's everyday layer is the hardest-wearing version of the outdoor stack — <a href='base-layers-guide.html'>wicking base</a>, tough mid-layer, <a href='reproofing-waterproofs.html'>maintained waterproofs</a> — plus <strong>hi-vis as standard practice</strong>: orange or yellow shells and helmets keep crews visible to each other, to machinery, and to the public on estate and roadside work. Thorn-proof gloves, ankle-deep mud footwear between saw tasks, and a dry-kit box in the truck complete the picture.</p><p>The discipline that holds it together is <strong>inspection culture</strong>: chainsaw trousers retire on any contact, helmets on date and UV, boots on tread — because in this sector the kit check is part of the job ticket, not an HR nicety.</p>"
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Buying",
+          "h2": "Three forestry-fleet rules",
+          "items": [
+            {
+              "n": "Class to the saw",
+              "l": "Chainsaw protection classes match chain speed — check the saw plate, not the price list"
+            },
+            {
+              "n": "Type by task",
+              "l": "Ground crews Type A; anyone climbing, Type C — no exceptions for summer heat"
+            },
+            {
+              "n": "One contact = replace",
+              "l": "Chainsaw garments are single-event PPE; budget them as consumables"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Forestry sector FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What's the difference between climbing and ground chainsaw trousers?",
+          "a": "Coverage: Type A protects the front of the legs and suits ground work; Type C wraps all round for climbers and platform work where the saw can reach from any angle. Class (1–3) separately matches the saw's chain speed."
+        },
+        {
+          "q": "Do chipper crews need chainsaw trousers?",
+          "a": "Not for the chipper itself — their hazards are flying debris, noise and entanglement, so the kit is rated eye protection, ear defenders, close-fitting hi-vis clothing and gloves. Anyone also operating the saw needs the certified chainsaw kit on top."
+        },
+        {
+          "q": "Why do forestry helmets have visors and ear defenders attached?",
+          "a": "Because the hazards arrive together: chip strike, sawdust and sustained noise. The forestry helmet system — shell, mesh visor, defenders — is designed and worn as one unit, usually in hi-vis colours so crews stay visible among trees."
+        }
       ]
     },
     {
@@ -197,33 +559,110 @@
       "metaTitle": "Cleaning & FM Workwear Guide | iNeedWorkwear",
       "metaDesc": "Workwear for cleaning and facilities management — the multi-role kit map (cleaners, caretakers, maintenance, grounds, front of house), colour coding and one-brand fleets.",
       "lede": "A facilities contract is five trades wearing one client-facing brand: cleaning crews, caretakers, maintenance, grounds and front-of-house. The sector's workwear problem isn't any single kit list — it's making five kit lists read as one team without buying five uniforms' worth of chaos.",
-      "heroMeta": [ {"n":"5 roles","l":"One contract, one brand"}, {"n":"Colour code","l":"The FM identification system"}, {"n":"Tabards","l":"The sector's quiet workhorse"} ],
-      "schema": { "type": "Article" },
-      "blocks": [
-        { "type":"table", "klabel":"The map", "h2":"Kit by FM role",
-          "head":["Role","Kit","The detail"],
-          "rows":[
-            ["Cleaning crews","Polos or tunics, <span class='code'>SR</span> washable shoes, chemical gloves","The full list: <a href='workwear-for-cleaners.html'>workwear for cleaners</a>"],
-            ["Caretakers & handypersons","Work trousers, polo + softshell, <span class='code'>S1P</span>","The generalist kit — smart enough for reception, tough enough for the boiler room"],
-            ["Maintenance engineers","The <a href='workwear-for-mechanics.html'>mechanic logic</a> in a corporate colour","Snug cuffs near plant; nitrile for oils"],
-            ["Grounds staff","The <a href='workwear-for-landscapers.html'>landscaper list</a>, badged to match","Same brand outdoors"],
-            ["Front of house & concierge","Corporate uniform, embroidered","The contract's face — presentation is the spec"]
-          ] },
-        { "type":"prose", "narrow":true, "klabel":"The system", "h2":"Colour coding and tabards do the organising",
-          "html":"<p>FM borrowed healthcare's trick: <strong>colour codes identify role and zone at a glance</strong> — cleaning colours per area (the classic red/blue/green/yellow zoning), trim colours per trade, and client-specific accents where the contract demands. The garment that makes it cheap is the <strong>tabard</strong>: worn over a standard polo base, it carries the colour, the badge and the wipe-clean surface, and swaps per task without re-uniforming anyone.</p><p>The fleet logic follows: <strong>one base wardrobe</strong> (polos, sweatshirts, trousers in the company colour, embroidered once) plus <strong>role layers on top</strong> — tabards for cleaning zones, hi-vis for car parks and grounds, aprons for wet work. One brand, one reorder line, five jobs covered — and when the contract changes client, only the badge changes.</p>" },
-        { "type":"keyfacts", "variant":"dark", "klabel":"Buying", "h2":"Three FM-fleet rules",
-          "items":[
-            {"n":"Base + layers","l":"Standardise the under-layer; differentiate with tabards and hi-vis on top"},
-            {"n":"Colour-fast fleet","l":"Zone systems only work if the red tabard is still red in month six"},
-            {"n":"TUPE-proof sizing","l":"Contract mobilisations inherit staff — order to a size curve, not a name list"}
-          ] },
-        { "type":"clusternav" },
-        { "type":"faq", "klabel":"Questions", "h2":"Cleaning & FM FAQ" }
+      "heroMeta": [
+        {
+          "n": "5 roles",
+          "l": "One contract, one brand"
+        },
+        {
+          "n": "Colour code",
+          "l": "The FM identification system"
+        },
+        {
+          "n": "Tabards",
+          "l": "The sector's quiet workhorse"
+        }
       ],
-      "faq":[
-        {"q":"What is colour coding in cleaning?","a":"Assigning colours to zones or risk areas — commonly red for sanitary, blue for general, green for food areas, yellow for clinical — across cloths, equipment and often tabards, so cross-contamination is visible at a glance. Uniform trim can carry the same system."},
-        {"q":"Why do cleaning teams wear tabards?","a":"They're the cheapest uniform system in FM: worn over a standard polo, a tabard carries the zone colour, the company badge and a wipe-clean surface, and swaps per task without changing the whole uniform. One base wardrobe serves every zone."},
-        {"q":"How do FM companies uniform five different roles?","a":"A standardised base layer (polos, sweatshirts, trousers in company colours, embroidered once) with role-specific layers on top — tabards for cleaning, hi-vis for grounds and car parks, corporate pieces for front of house. One brand, one reorder line."}
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "table",
+          "klabel": "The map",
+          "h2": "Kit by FM role",
+          "head": [
+            "Role",
+            "Kit",
+            "The detail"
+          ],
+          "rows": [
+            [
+              "Cleaning crews",
+              "Polos or tunics, <span class='code'>SR</span> washable shoes, chemical gloves",
+              "The full list: <a href='workwear-for-cleaners.html'>workwear for cleaners</a>"
+            ],
+            [
+              "Caretakers & handypersons",
+              "Work trousers, polo + softshell, <span class='code'>S1P</span>",
+              "The generalist kit — smart enough for reception, tough enough for the boiler room"
+            ],
+            [
+              "Maintenance engineers",
+              "The <a href='workwear-for-mechanics.html'>mechanic logic</a> in a corporate colour",
+              "Snug cuffs near plant; nitrile for oils"
+            ],
+            [
+              "Grounds staff",
+              "The <a href='workwear-for-landscapers.html'>landscaper list</a>, badged to match",
+              "Same brand outdoors"
+            ],
+            [
+              "Front of house & concierge",
+              "Corporate uniform, embroidered",
+              "The contract's face — presentation is the spec"
+            ]
+          ]
+        },
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The system",
+          "h2": "Colour coding and tabards do the organising",
+          "html": "<p>FM borrowed healthcare's trick: <strong>colour codes identify role and zone at a glance</strong> — cleaning colours per area (the classic red/blue/green/yellow zoning), trim colours per trade, and client-specific accents where the contract demands. The garment that makes it cheap is the <strong>tabard</strong>: worn over a standard polo base, it carries the colour, the badge and the wipe-clean surface, and swaps per task without re-uniforming anyone.</p><p>The fleet logic follows: <strong>one base wardrobe</strong> (polos, sweatshirts, trousers in the company colour, embroidered once) plus <strong>role layers on top</strong> — tabards for cleaning zones, hi-vis for car parks and grounds, aprons for wet work. One brand, one reorder line, five jobs covered — and when the contract changes client, only the badge changes.</p>"
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Buying",
+          "h2": "Three FM-fleet rules",
+          "items": [
+            {
+              "n": "Base + layers",
+              "l": "Standardise the under-layer; differentiate with tabards and hi-vis on top"
+            },
+            {
+              "n": "Colour-fast fleet",
+              "l": "Zone systems only work if the red tabard is still red in month six"
+            },
+            {
+              "n": "TUPE-proof sizing",
+              "l": "Contract mobilisations inherit staff — order to a size curve, not a name list"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Cleaning & FM FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What is colour coding in cleaning?",
+          "a": "Assigning colours to zones or risk areas — commonly red for sanitary, blue for general, green for food areas, yellow for clinical — across cloths, equipment and often tabards, so cross-contamination is visible at a glance. Uniform trim can carry the same system."
+        },
+        {
+          "q": "Why do cleaning teams wear tabards?",
+          "a": "They're the cheapest uniform system in FM: worn over a standard polo, a tabard carries the zone colour, the company badge and a wipe-clean surface, and swaps per task without changing the whole uniform. One base wardrobe serves every zone."
+        },
+        {
+          "q": "How do FM companies uniform five different roles?",
+          "a": "A standardised base layer (polos, sweatshirts, trousers in company colours, embroidered once) with role-specific layers on top — tabards for cleaning, hi-vis for grounds and car parks, corporate pieces for front of house. One brand, one reorder line."
+        }
       ]
     },
     {
@@ -239,33 +678,110 @@
       "metaTitle": "Security Uniform Guide | iNeedWorkwear",
       "metaDesc": "Security sector uniform mapped — corporate concierge to industrial gatehouse, the presence-vs-approachability spectrum, licence display, and winter kit for static posts.",
       "lede": "Security uniform does a job no other workwear does: it works before anyone speaks. The sector's spectrum runs from corporate concierge (a suit with an earpiece) to industrial gatehouse (site kit with a licence armband) — and the uniform decision is really a positioning decision about which end of the spectrum a contract sits.",
-      "heroMeta": [ {"n":"Presence","l":"The uniform's actual function"}, {"n":"SIA visible","l":"Licence display shapes the kit"}, {"n":"Static cold","l":"The sector's physical reality"} ],
-      "schema": { "type": "Article" },
-      "blocks": [
-        { "type":"table", "klabel":"The spectrum", "h2":"Uniform by assignment",
-          "head":["Assignment","The look","The kit"],
-          "rows":[
-            ["Corporate & concierge","Suit-adjacent authority","Blazer or smart softshell, shirt, embroidered discreetly"],
-            ["Retail & venue","Approachable presence","Branded polos and blousons — visible but not militarised"],
-            ["Events & crowd safety","Maximum identification","Hi-vis with <span class='code'>SECURITY</span> printing, per event rules"],
-            ["Industrial & gatehouse","Site-compatible","The <a href='workwear-for-security-guards.html'>guard kit list</a> — parka, boots, Class 2"],
-            ["Mobile patrol & K9","Practical dark workwear","Cargo trousers, softshell, torch-friendly pockets"]
-          ] },
-        { "type":"prose", "narrow":true, "klabel":"The sector specifics", "h2":"Licence display, and the presence question",
-          "html":"<p><strong>Licence display shapes small details</strong>: front-line officers generally display their SIA licence, so armband holders, badge loops and chest clarity matter — a uniform that has nowhere sensible for the licence is a uniform that gets modified with safety pins. <strong>The presence question shapes the big ones</strong>: contracts choose between authority (dark, structured, epauletted) and approachability (polo-based, retail-friendly) — and the right answer is the client's risk profile, not the security firm's taste. Retail theft response and corporate reception genuinely want different silhouettes.</p><p>Under all of it sits the sector's physical reality — <strong>long static shifts outdoors</strong> — which the <a href='workwear-for-security-guards.html'>role guide</a> covers in full: the static-cold layering problem, the twelve-hour footwear, the radio-compatible gloves.</p>" },
-        { "type":"keyfacts", "variant":"dark", "klabel":"Fleet", "h2":"Three security-uniform rules",
-          "items":[
-            {"n":"Epaulettes & badges","l":"Rank and role furniture must survive laundering — stitched beats slip-on for permanence"},
-            {"n":"Winter is the spec","l":"Buy the uniform that works in January; summer takes care of itself"},
-            {"n":"Same badge, all posts","l":"One embroidery file across blazer, polo and parka keeps the brand coherent"}
-          ] },
-        { "type":"clusternav" },
-        { "type":"faq", "klabel":"Questions", "h2":"Security uniform FAQ" }
+      "heroMeta": [
+        {
+          "n": "Presence",
+          "l": "The uniform's actual function"
+        },
+        {
+          "n": "SIA visible",
+          "l": "Licence display shapes the kit"
+        },
+        {
+          "n": "Static cold",
+          "l": "The sector's physical reality"
+        }
       ],
-      "faq":[
-        {"q":"What do security guards wear?","a":"It depends on the assignment's position on the presence spectrum: suit-adjacent kit for corporate concierge, branded polos and blousons for retail, hi-vis SECURITY kit for events, and full outdoor site kit for gatehouses and industrial posts. The client's risk profile sets the look."},
-        {"q":"Do security officers have to display their licence?","a":"Front-line SIA licence holders are generally required to display their licence on duty — which is why armband holders and badge loops are part of the uniform spec rather than an accessory afterthought."},
-        {"q":"What makes a good security uniform for winter?","a":"Static posts generate almost no body heat, so winter security kit is built on a longline insulated parka over proper base and mid layers, warm loose-fitting footwear and covered extremities — more insulation than any moving trade needs."}
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "table",
+          "klabel": "The spectrum",
+          "h2": "Uniform by assignment",
+          "head": [
+            "Assignment",
+            "The look",
+            "The kit"
+          ],
+          "rows": [
+            [
+              "Corporate & concierge",
+              "Suit-adjacent authority",
+              "Blazer or smart softshell, shirt, embroidered discreetly"
+            ],
+            [
+              "Retail & venue",
+              "Approachable presence",
+              "Branded polos and blousons — visible but not militarised"
+            ],
+            [
+              "Events & crowd safety",
+              "Maximum identification",
+              "Hi-vis with <span class='code'>SECURITY</span> printing, per event rules"
+            ],
+            [
+              "Industrial & gatehouse",
+              "Site-compatible",
+              "The <a href='workwear-for-security-guards.html'>guard kit list</a> — parka, boots, Class 2"
+            ],
+            [
+              "Mobile patrol & K9",
+              "Practical dark workwear",
+              "Cargo trousers, softshell, torch-friendly pockets"
+            ]
+          ]
+        },
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The sector specifics",
+          "h2": "Licence display, and the presence question",
+          "html": "<p><strong>Licence display shapes small details</strong>: front-line officers generally display their SIA licence, so armband holders, badge loops and chest clarity matter — a uniform that has nowhere sensible for the licence is a uniform that gets modified with safety pins. <strong>The presence question shapes the big ones</strong>: contracts choose between authority (dark, structured, epauletted) and approachability (polo-based, retail-friendly) — and the right answer is the client's risk profile, not the security firm's taste. Retail theft response and corporate reception genuinely want different silhouettes.</p><p>Under all of it sits the sector's physical reality — <strong>long static shifts outdoors</strong> — which the <a href='workwear-for-security-guards.html'>role guide</a> covers in full: the static-cold layering problem, the twelve-hour footwear, the radio-compatible gloves.</p>"
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Fleet",
+          "h2": "Three security-uniform rules",
+          "items": [
+            {
+              "n": "Epaulettes & badges",
+              "l": "Rank and role furniture must survive laundering — stitched beats slip-on for permanence"
+            },
+            {
+              "n": "Winter is the spec",
+              "l": "Buy the uniform that works in January; summer takes care of itself"
+            },
+            {
+              "n": "Same badge, all posts",
+              "l": "One embroidery file across blazer, polo and parka keeps the brand coherent"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Security uniform FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What do security guards wear?",
+          "a": "It depends on the assignment's position on the presence spectrum: suit-adjacent kit for corporate concierge, branded polos and blousons for retail, hi-vis SECURITY kit for events, and full outdoor site kit for gatehouses and industrial posts. The client's risk profile sets the look."
+        },
+        {
+          "q": "Do security officers have to display their licence?",
+          "a": "Front-line SIA licence holders are generally required to display their licence on duty — which is why armband holders and badge loops are part of the uniform spec rather than an accessory afterthought."
+        },
+        {
+          "q": "What makes a good security uniform for winter?",
+          "a": "Static posts generate almost no body heat, so winter security kit is built on a longline insulated parka over proper base and mid layers, warm loose-fitting footwear and covered extremities — more insulation than any moving trade needs."
+        }
       ]
     },
     {
@@ -281,33 +797,110 @@
       "metaTitle": "Painter & Decorator Workwear Guide | iNeedWorkwear",
       "metaDesc": "Workwear for decorating firms — whites as brand and function, the firm-level kit list from apprentice to sprayer, prep-room PPE, and badged whites as marketing.",
       "lede": "For a decorating firm, whites are simultaneously uniform, PPE and marketing — the trade's whole brand is neatness, and the kit customers see is the quote for the next job. This is the firm-level view; the individual's list lives in the role guide.",
-      "heroMeta": [ {"n":"Whites","l":"Uniform, QC and marketing at once"}, {"n":"Spray adds","l":"Type 5/6 coveralls & RPE"}, {"n":"Badged","l":"The van and the bib should match"} ],
-      "schema": { "type": "Article" },
-      "blocks": [
-        { "type":"table", "klabel":"The firm", "h2":"Kit across a decorating firm",
-          "head":["Role","Kit","The detail"],
-          "rows":[
-            ["Decorators","White bib & brace or trousers, white tops","The personal list: <a href='workwear-for-painter-decorators.html'>the role guide</a>"],
-            ["Spray specialists","Disposable <span class='code'>Type 5/6</span> coveralls, fitted RPE","Overspray and solvent mist change the PPE tier"],
-            ["Prep & restoration","<span class='code'>FFP3</span>, sealed eyewear, nitrile gauntlets","Old coatings and heavy sanding — the <a href='en-149-ffp-ratings-explained.html'>FFP rules</a> apply hard"],
-            ["Exterior crews","Whites + <a href='en-343-waterproofs-explained.html'>EN 343</a> layer, hi-vis near roads","The outdoor half of the trade"],
-            ["Apprentices","Full whites from day one","Habits and brand start together"]
-          ] },
-        { "type":"prose", "narrow":true, "klabel":"The economics", "h2":"Badged whites are the cheapest advertising a firm buys",
-          "html":"<p>Decorating is sold on trust and neatness, and the crew's appearance is the only marketing the customer experiences for eight hours a day. <strong>Embroidered whites</strong> — firm name on the bib, clean garments in rotation — convert directly: the neighbour who sees a tidy branded crew is the next quote. The maths works because whites are cheap to run properly: emulsion boil-washes out of cotton, garments rotate three-per-person, and the <a href='washing-chef-whites.html'>whites-washing playbook</a> transfers almost line for line.</p><p>The firm-level discipline is <strong>tiering the PPE by task, not by person</strong>: everyday brushwork needs the basic list; spray days and old-paint prep escalate to disposable coveralls, fitted RPE and the <a href='en-13034-chem-splash-explained.html'>splash-rated tier</a> — kept in the van as a kit, not assigned to a body.</p>" },
-        { "type":"keyfacts", "variant":"dark", "klabel":"Fleet", "h2":"Three firm-level rules",
-          "items":[
-            {"n":"Three whites each","l":"A stained crew undoes the brand — rotation is the uniform policy"},
-            {"n":"Spray kit as a van set","l":"Coveralls, RPE and gauntlets live with the sprayer, not the person"},
-            {"n":"Badge the bib","l":"Chest embroidery on bib & brace survives the wash the way transfers don't"}
-          ] },
-        { "type":"clusternav" },
-        { "type":"faq", "klabel":"Questions", "h2":"Decorating firm FAQ" }
+      "heroMeta": [
+        {
+          "n": "Whites",
+          "l": "Uniform, QC and marketing at once"
+        },
+        {
+          "n": "Spray adds",
+          "l": "Type 5/6 coveralls & RPE"
+        },
+        {
+          "n": "Badged",
+          "l": "The van and the bib should match"
+        }
       ],
-      "faq":[
-        {"q":"Why do decorating firms insist on whites?","a":"Three functions at once: splashes show instantly (quality control in a customer's house), white boil-washes clean cheaply, and a branded white crew is walking marketing in a trade sold entirely on neatness and trust."},
-        {"q":"What PPE do spray painters need?","a":"A tier above brushwork: disposable Type 5/6 coveralls against overspray, fitted respiratory protection appropriate to the coating (solvent-based products need more than a dust mask), sealed eyewear and nitrile gauntlets. Treat it as a van kit for spray days."},
-        {"q":"Can you embroider white bib and brace overalls?","a":"Yes — chest and bib embroidery is the standard way decorating firms brand their whites, and it survives the boil-wash cycle that would peel a printed logo. One digitised logo covers bibs, polos and softshells alike."}
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "table",
+          "klabel": "The firm",
+          "h2": "Kit across a decorating firm",
+          "head": [
+            "Role",
+            "Kit",
+            "The detail"
+          ],
+          "rows": [
+            [
+              "Decorators",
+              "White bib & brace or trousers, white tops",
+              "The personal list: <a href='workwear-for-painter-decorators.html'>the role guide</a>"
+            ],
+            [
+              "Spray specialists",
+              "Disposable <span class='code'>Type 5/6</span> coveralls, fitted RPE",
+              "Overspray and solvent mist change the PPE tier"
+            ],
+            [
+              "Prep & restoration",
+              "<span class='code'>FFP3</span>, sealed eyewear, nitrile gauntlets",
+              "Old coatings and heavy sanding — the <a href='en-149-ffp-ratings-explained.html'>FFP rules</a> apply hard"
+            ],
+            [
+              "Exterior crews",
+              "Whites + <a href='en-343-waterproofs-explained.html'>EN 343</a> layer, hi-vis near roads",
+              "The outdoor half of the trade"
+            ],
+            [
+              "Apprentices",
+              "Full whites from day one",
+              "Habits and brand start together"
+            ]
+          ]
+        },
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The economics",
+          "h2": "Badged whites are the cheapest advertising a firm buys",
+          "html": "<p>Decorating is sold on trust and neatness, and the crew's appearance is the only marketing the customer experiences for eight hours a day. <strong>Embroidered whites</strong> — firm name on the bib, clean garments in rotation — convert directly: the neighbour who sees a tidy branded crew is the next quote. The maths works because whites are cheap to run properly: emulsion boil-washes out of cotton, garments rotate three-per-person, and the <a href='washing-chef-whites.html'>whites-washing playbook</a> transfers almost line for line.</p><p>The firm-level discipline is <strong>tiering the PPE by task, not by person</strong>: everyday brushwork needs the basic list; spray days and old-paint prep escalate to disposable coveralls, fitted RPE and the <a href='en-13034-chem-splash-explained.html'>splash-rated tier</a> — kept in the van as a kit, not assigned to a body.</p>"
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Fleet",
+          "h2": "Three firm-level rules",
+          "items": [
+            {
+              "n": "Three whites each",
+              "l": "A stained crew undoes the brand — rotation is the uniform policy"
+            },
+            {
+              "n": "Spray kit as a van set",
+              "l": "Coveralls, RPE and gauntlets live with the sprayer, not the person"
+            },
+            {
+              "n": "Badge the bib",
+              "l": "Chest embroidery on bib & brace survives the wash the way transfers don't"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Decorating firm FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Why do decorating firms insist on whites?",
+          "a": "Three functions at once: splashes show instantly (quality control in a customer's house), white boil-washes clean cheaply, and a branded white crew is walking marketing in a trade sold entirely on neatness and trust."
+        },
+        {
+          "q": "What PPE do spray painters need?",
+          "a": "A tier above brushwork: disposable Type 5/6 coveralls against overspray, fitted respiratory protection appropriate to the coating (solvent-based products need more than a dust mask), sealed eyewear and nitrile gauntlets. Treat it as a van kit for spray days."
+        },
+        {
+          "q": "Can you embroider white bib and brace overalls?",
+          "a": "Yes — chest and bib embroidery is the standard way decorating firms brand their whites, and it survives the boil-wash cycle that would peel a printed logo. One digitised logo covers bibs, polos and softshells alike."
+        }
       ]
     },
     {
@@ -323,36 +916,123 @@
       "metaTitle": "Food Processing Workwear Guide | iNeedWorkwear",
       "metaDesc": "Workwear for food manufacturing — hygiene garment design (no external pockets, snap studs), zone colour coding, metal-detectable accessories, laundering and the cold-chain overlap.",
       "lede": "Food factory workwear is specified by auditors as much as by wearers: garments designed so nothing falls in the product, coloured so nobody crosses a zone unnoticed, and laundered to standards a certificate depends on. It's the most rule-dense wardrobe on this site — and every rule traces to a recall that once happened.",
-      "heroMeta": [ {"n":"Audit-led","l":"BRCGS-style rules write the spec"}, {"n":"No pockets","l":"Above the waist, nothing falls in"}, {"n":"Detectable","l":"Even the accessories"} ],
-      "schema": { "type": "Article" },
-      "blocks": [
-        { "type":"prose", "narrow":true, "klabel":"The design rules", "h2":"Hygiene garments are engineered backwards from the product",
-          "html":"<p>Food-industry garments look odd until you read them as contamination controls: <strong>no external pockets above the waist</strong> (nothing can fall into open product), <strong>snap studs instead of buttons</strong> (buttons detach; studs don't), <strong>internal pockets only</strong>, no loose fibres, and light colours that show soiling honestly. Add the personal rules — hairnets and beard snoods, no jewellery, <strong>metal-detectable plasters and pens</strong> — and the whole system exists so the metal detector and the auditor both stay quiet.</p><p><strong>Zone colour coding</strong> does the movement control: low-risk and high-care areas run different garment colours so a body in the wrong zone is visible across the factory floor, with changing procedures at the boundary.</p>" },
-        { "type":"table", "variant":"alt", "klabel":"The kit", "h2":"The food-factory wardrobe",
-          "head":["Item","Spec","Why"],
-          "rows":[
-            ["Hygiene coats & trousers","Stud-front, pocket rules as above, zone colour","The audit-grade base garment"],
-            ["Footwear","<span class='code'>S4/O4 wellingtons or S2/O2 washable</span>, <span class='code'>SR</span>","Daily washdown; toe caps where handling justifies"],
-            ["Hairnets, snoods, sleeves","Single-use, dispensered by zone","The <a href='disposable-ppe-guide.html'>disposables logic</a> at scale"],
-            ["Aprons","Polythene or PVC by station","Wet lines destroy fabric; wipe-down wins"],
-            ["Cold-chain layers","<a href='en-342-cold-protection-explained.html'>EN 342</a> under hygiene outers","Chill and blast-freeze areas — the <a href='workwear-grimsby.html'>Grimsby reality</a>"],
-            ["Gloves","Food-contact approved nitrile; cut-rated for knife lines","Two standards, one line — <a href='en-388-glove-ratings-decoder.html'>cut letters</a> for the boning room"]
-          ] },
-        { "type":"prose", "klabel":"The laundering", "h2":"Who washes it is part of the spec", "narrow":true,
-          "html":"<p>High-care food environments typically mandate <strong>industrial laundering</strong> — garments cycled through a contracted laundry to validated standards, not taken home — while lower-risk areas may permit controlled home washing on the <a href='laundering-scrubs.html'>separate-hot-dry pattern</a>. Either way the fleet needs the maths: enough sets per person for the laundry cycle, and a garment spec that survives it — which loops back to studs, seams and fabric weight. Buying pretty coats that die at 85 °C is the sector's classic false economy.</p>" },
-        { "type":"keyfacts", "variant":"dark", "klabel":"Buying", "h2":"Three food-factory rules",
-          "items":[
-            {"n":"Spec to the audit","l":"BRCGS-style clauses name the garment features — buy against the clause list"},
-            {"n":"Zone colours locked","l":"The colour system only works if reorders match exactly"},
-            {"n":"Rotation maths","l":"Sets per person = laundry cycle days + 2, or the system jams"}
-          ] },
-        { "type":"clusternav" },
-        { "type":"faq", "klabel":"Questions", "h2":"Food processing FAQ" }
+      "heroMeta": [
+        {
+          "n": "Audit-led",
+          "l": "BRCGS-style rules write the spec"
+        },
+        {
+          "n": "No pockets",
+          "l": "Above the waist, nothing falls in"
+        },
+        {
+          "n": "Detectable",
+          "l": "Even the accessories"
+        }
       ],
-      "faq":[
-        {"q":"Why do food factory coats have no outside pockets?","a":"So nothing can fall from a pocket into open product — the same logic behind snap studs replacing buttons and metal-detectable accessories. Hygiene garment design works backwards from foreign-body contamination."},
-        {"q":"What is zone colour coding in food factories?","a":"Different garment colours for different risk zones — commonly separating high-care from low-risk areas — so anyone in the wrong zone is visible at a glance. It pairs with changing procedures at zone boundaries and colour-locked reordering."},
-        {"q":"Can food factory workwear be washed at home?","a":"High-care areas generally mandate industrial laundering to validated standards; lower-risk roles may be permitted controlled home washing (separate load, hot, dried fast) per policy. The site's audit standard, not preference, decides."}
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The design rules",
+          "h2": "Hygiene garments are engineered backwards from the product",
+          "html": "<p>Food-industry garments look odd until you read them as contamination controls: <strong>no external pockets above the waist</strong> (nothing can fall into open product), <strong>snap studs instead of buttons</strong> (buttons detach; studs don't), <strong>internal pockets only</strong>, no loose fibres, and light colours that show soiling honestly. Add the personal rules — hairnets and beard snoods, no jewellery, <strong>metal-detectable plasters and pens</strong> — and the whole system exists so the metal detector and the auditor both stay quiet.</p><p><strong>Zone colour coding</strong> does the movement control: low-risk and high-care areas run different garment colours so a body in the wrong zone is visible across the factory floor, with changing procedures at the boundary.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The kit",
+          "h2": "The food-factory wardrobe",
+          "head": [
+            "Item",
+            "Spec",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Hygiene coats & trousers",
+              "Stud-front, pocket rules as above, zone colour",
+              "The audit-grade base garment"
+            ],
+            [
+              "Footwear",
+              "<span class='code'>S4/O4 wellingtons or S2/O2 washable</span>, <span class='code'>SR</span>",
+              "Daily washdown; toe caps where handling justifies"
+            ],
+            [
+              "Hairnets, snoods, sleeves",
+              "Single-use, dispensered by zone",
+              "The <a href='disposable-ppe-guide.html'>disposables logic</a> at scale"
+            ],
+            [
+              "Aprons",
+              "Polythene or PVC by station",
+              "Wet lines destroy fabric; wipe-down wins"
+            ],
+            [
+              "Cold-chain layers",
+              "<a href='en-342-cold-protection-explained.html'>EN 342</a> under hygiene outers",
+              "Chill and blast-freeze areas — the <a href='workwear-grimsby.html'>Grimsby reality</a>"
+            ],
+            [
+              "Gloves",
+              "Food-contact approved nitrile; cut-rated for knife lines",
+              "Two standards, one line — <a href='en-388-glove-ratings-decoder.html'>cut letters</a> for the boning room"
+            ]
+          ]
+        },
+        {
+          "type": "prose",
+          "klabel": "The laundering",
+          "h2": "Who washes it is part of the spec",
+          "narrow": true,
+          "html": "<p>High-care food environments typically mandate <strong>industrial laundering</strong> — garments cycled through a contracted laundry to validated standards, not taken home — while lower-risk areas may permit controlled home washing on the <a href='laundering-scrubs.html'>separate-hot-dry pattern</a>. Either way the fleet needs the maths: enough sets per person for the laundry cycle, and a garment spec that survives it — which loops back to studs, seams and fabric weight. Buying pretty coats that die at 85 °C is the sector's classic false economy.</p>"
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Buying",
+          "h2": "Three food-factory rules",
+          "items": [
+            {
+              "n": "Spec to the audit",
+              "l": "BRCGS-style clauses name the garment features — buy against the clause list"
+            },
+            {
+              "n": "Zone colours locked",
+              "l": "The colour system only works if reorders match exactly"
+            },
+            {
+              "n": "Rotation maths",
+              "l": "Sets per person = laundry cycle days + 2, or the system jams"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Food processing FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Why do food factory coats have no outside pockets?",
+          "a": "So nothing can fall from a pocket into open product — the same logic behind snap studs replacing buttons and metal-detectable accessories. Hygiene garment design works backwards from foreign-body contamination."
+        },
+        {
+          "q": "What is zone colour coding in food factories?",
+          "a": "Different garment colours for different risk zones — commonly separating high-care from low-risk areas — so anyone in the wrong zone is visible at a glance. It pairs with changing procedures at zone boundaries and colour-locked reordering."
+        },
+        {
+          "q": "Can food factory workwear be washed at home?",
+          "a": "High-care areas generally mandate industrial laundering to validated standards; lower-risk roles may be permitted controlled home washing (separate load, hot, dried fast) per policy. The site's audit standard, not preference, decides."
+        }
       ]
     }
   ]
