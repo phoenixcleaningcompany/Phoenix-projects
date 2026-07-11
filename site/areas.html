@@ -32,7 +32,7 @@ h1,h2,h3{font-family:var(--disp);color:var(--ink);text-transform:uppercase;line-
 .hero:before{content:"";position:absolute;inset:0;background:radial-gradient(58% 90% at 84% 18%,rgba(228,87,31,.15),transparent 60%);pointer-events:none}
 .hero-in{max-width:var(--maxw);margin:0 auto;padding:52px 24px 46px;position:relative;z-index:2;display:grid;grid-template-columns:1.12fr .88fr;gap:46px;align-items:center}
 @media(max-width:840px){.hero-in{grid-template-columns:1fr;padding:40px 24px 38px}.hero-art{max-width:400px;margin:0 auto}}
-.hero-art svg{width:100%;height:auto;filter:drop-shadow(0 18px 40px rgba(0,0,0,.35))}
+.hero-art svg,.hero-art img{width:100%;height:auto;filter:drop-shadow(0 18px 40px rgba(0,0,0,.35))}.hero-art img{border-radius:14px;display:block}
 .crumbs{font-family:var(--mono);font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;color:var(--mute);margin-bottom:1rem}.crumbs a{color:var(--orange)}
 .eyebrow{font-family:var(--mono);font-size:.72rem;letter-spacing:.2em;text-transform:uppercase;color:var(--orange);margin-bottom:1rem}
 .hero h1{font-size:clamp(2.2rem,4.8vw,3.4rem);color:#fff;margin-bottom:.9rem;max-width:20ch}
@@ -73,22 +73,7 @@ a.card:hover{transform:translateY(-2px);box-shadow:0 14px 30px -20px rgba(21,27,
 <h1>Workwear by area.</h1>
 <p class="lede">Towns dress for their industries. Aberdeen kits out for the North Sea, Corby for the warehouse and the cold store, Harrogate for the spa and the ward. Each area guide is driven by the town’s real economy — and we deliver next-day nationwide.</p>
 </div>
-<div class="hero-art"><svg viewBox="0 0 460 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Stylised UK map with delivery points at Aberdeen, Harrogate and Corby radiating from a central hub">
-<defs><linearGradient id="pg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1a2332"/><stop offset="1" stop-color="#121a26"/></linearGradient></defs>
-<rect width="460" height="420" rx="8" fill="url(#pg)" stroke="#26344a" stroke-width="1"/><text x="26" y="38" font-family="'IBM Plex Mono',monospace" font-size="11" letter-spacing="3" fill="#C6D92E">NATIONWIDE · NEXT-DAY</text>
-<path d="M196 366 l-28 -12 12 -22 -16 -14 20 -16 -10 -20 24 -8 -6 -22 22 -6 -8 -24 24 -10 -6 -22 26 -12 -4 -24 24 -14 -2 -22 26 -10 20 16 -6 24 18 14 -8 24 16 18 -10 22 12 22 -14 18 10 24 -20 14 6 24 -24 8 -8 20 -28 2 -10 16 -26 -4 Z" fill="#1f2a3a" stroke="#4a5a72" stroke-width="2"/>
-<path d="M148 210 l-26 -6 -12 18 14 20 26 -6 6 -14 Z" fill="#1f2a3a" stroke="#4a5a72" stroke-width="2"/>
-<g font-family="'IBM Plex Mono',monospace" font-size="10" fill="#E7EBF1">
-<circle cx="268" cy="118" r="6" fill="#E4571F"/><text x="284" y="122">ABERDEEN</text>
-<circle cx="252" cy="230" r="6" fill="#E4571F"/><text x="268" y="234">HARROGATE</text>
-<circle cx="248" cy="296" r="6" fill="#E4571F"/><text x="264" y="300">CORBY</text>
-<circle cx="226" cy="272" r="9" fill="none" stroke="#C6D92E" stroke-width="3"/><circle cx="226" cy="272" r="3" fill="#C6D92E"/>
-</g>
-<g stroke="#C6D92E" stroke-width="1.6" fill="none" stroke-dasharray="5 5" opacity=".75">
-<path d="M226 272 Q 236 190 268 122"/><path d="M226 272 Q 240 252 250 234"/><path d="M228 278 Q 240 290 246 294"/>
-</g>
-<text x="26" y="398" font-family="'IBM Plex Mono',monospace" font-size="10" letter-spacing="2" fill="#5C6675">AREA GUIDES DRIVEN BY EACH TOWN’S REAL ECONOMY</text>
-</svg></div>
+<div class="hero-art"><img src="assets/heroes/areas.webp" alt="Manchester Metrolink tram passing city-centre offices at dusk" width="1000" height="1000" fetchpriority="high"></div>
 </div></section>
 <section class="section"><div class="wrap">
 <p class="klabel">By area</p>

@@ -41,7 +41,7 @@ h1,h2,h3,h4{font-family:var(--disp);color:var(--ink);text-transform:uppercase;li
 .hero:before{content:"";position:absolute;inset:0;background:radial-gradient(56% 90% at 82% 14%,rgba(228,87,31,.18),transparent 60%),radial-gradient(40% 70% at 12% 90%,rgba(198,217,46,.08),transparent 60%);pointer-events:none}
 .hero-in{max-width:var(--maxw);margin:0 auto;padding:64px 24px 56px;position:relative;z-index:2;display:grid;grid-template-columns:1.12fr .88fr;gap:46px;align-items:center}
 @media(max-width:840px){.hero-in{grid-template-columns:1fr;padding:44px 24px 40px}.hero-art{max-width:400px;margin:0 auto}}
-.hero-art svg{width:100%;height:auto;filter:drop-shadow(0 18px 40px rgba(0,0,0,.35))}
+.hero-art svg,.hero-art img{width:100%;height:auto;filter:drop-shadow(0 18px 40px rgba(0,0,0,.35))}.hero-art img{border-radius:14px;display:block}
 .eyebrow{font-family:var(--mono);font-size:.72rem;letter-spacing:.2em;text-transform:uppercase;color:var(--orange);margin-bottom:1.1rem}
 .hero h1{font-size:clamp(2.6rem,6vw,4.2rem);color:#fff;margin-bottom:1.1rem;max-width:17ch}
 .hero h1 em{font-style:normal;color:var(--orange)}
@@ -122,43 +122,7 @@ h1,h2,h3,h4{font-family:var(--disp);color:var(--ink);text-transform:uppercase;li
 <div><div class="n">By role &amp; sector</div><div class="l">Real kit guides</div></div>
 <div><div class="n">Interactive tools</div><div class="l">Find your spec</div></div></div>
 </div>
-<div class="hero-art"><svg viewBox="0 0 460 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The kit wall: coverall, hi-vis vest and work jacket hanging on a rail, with a safety boot and hard hat on the shelf below">
-<defs><linearGradient id="pg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1a2332"/><stop offset="1" stop-color="#121a26"/></linearGradient></defs>
-<rect width="460" height="420" rx="8" fill="url(#pg)" stroke="#26344a" stroke-width="1"/>
-<text x="26" y="38" font-family="'IBM Plex Mono',monospace" font-size="11" letter-spacing="3" fill="#C6D92E">THE KIT WALL</text>
-<!-- rail -->
-<line x1="40" y1="92" x2="420" y2="92" stroke="#4a5a72" stroke-width="5" stroke-linecap="round"/>
-<!-- coverall (navy, orange zip) -->
-<path d="M113 100 l-8 10 v14 l-14 34 10 6 8 -18 v96 h44 v-96 l8 18 10 -6 -14 -34 v-14 l-8 -10 h-12 a6 6 0 0 1 -12 0 Z" fill="#233042" stroke="#4a5a72" stroke-width="2"/>
-<line x1="119" y1="118" x2="119" y2="238" stroke="#E4571F" stroke-width="2.5"/>
-<path d="M113 96 q6 -12 12 0" fill="none" stroke="#8A94A3" stroke-width="3"/>
-<text x="87" y="262" font-family="'IBM Plex Mono',monospace" font-size="8.5" fill="#8A94A3">COVERALLS</text>
-<!-- hi-vis vest (orange, grey bands) -->
-<path d="M212 100 l-10 12 v18 l-8 20 8 5 v70 h60 v-70 l8 -5 -8 -20 v-18 l-10 -12 h-10 a10 10 0 0 1 -20 0 Z" fill="#E4571F" stroke="#C0430F" stroke-width="2"/>
-<g stroke="#F4F5F7" stroke-width="7" opacity=".92"><line x1="202" y1="168" x2="262" y2="168"/><line x1="202" y1="196" x2="262" y2="196"/></g>
-<path d="M212 96 q10 -12 20 0" fill="none" stroke="#8A94A3" stroke-width="3"/>
-<text x="203" y="262" font-family="'IBM Plex Mono',monospace" font-size="8.5" fill="#8A94A3">HI-VIS</text>
-<!-- jacket (steel) -->
-<path d="M320 100 l-10 10 v16 l-16 40 12 6 10 -22 v88 h52 v-88 l10 22 12 -6 -16 -40 v-16 l-10 -10 h-12 a6 6 0 0 1 -20 0 Z" fill="#2a3850" stroke="#4a5a72" stroke-width="2"/>
-<line x1="346" y1="116" x2="346" y2="238" stroke="#C6D92E" stroke-width="2"/>
-<rect x="326" y="170" width="14" height="12" fill="none" stroke="#4a5a72" stroke-width="1.6"/>
-<rect x="352" y="170" width="14" height="12" fill="none" stroke="#4a5a72" stroke-width="1.6"/>
-<path d="M320 96 q8 -12 16 0" fill="none" stroke="#8A94A3" stroke-width="3"/>
-<text x="316" y="262" font-family="'IBM Plex Mono',monospace" font-size="8.5" fill="#8A94A3">JACKETS</text>
-<!-- shelf -->
-<line x1="60" y1="300" x2="400" y2="300" stroke="#4a5a72" stroke-width="4"/>
-<!-- boot -->
-<path d="M110 298 v-42 h30 v18 q28 2 34 24 Z" fill="#233042" stroke="#4a5a72" stroke-width="2"/>
-<path d="M110 288 h64" stroke="#E4571F" stroke-width="3"/>
-<g stroke="#33425c" stroke-width="1.6"><line x1="116" y1="262" x2="134" y2="262"/><line x1="116" y1="270" x2="134" y2="270"/></g>
-<text x="108" y="322" font-family="'IBM Plex Mono',monospace" font-size="8.5" fill="#8A94A3">FOOTWEAR · S3</text>
-<!-- hard hat -->
-<path d="M252 296 a34 30 0 0 1 68 0 Z" fill="#E4571F" stroke="#C0430F" stroke-width="2"/>
-<path d="M282 266 h8 v-8 h-8 Z" fill="#C0430F"/>
-<line x1="244" y1="298" x2="328" y2="298" stroke="#C0430F" stroke-width="4" stroke-linecap="round"/>
-<text x="248" y="322" font-family="'IBM Plex Mono',monospace" font-size="8.5" fill="#8A94A3">HELMETS · EN 397</text>
-<text x="26" y="398" font-family="'IBM Plex Mono',monospace" font-size="10" letter-spacing="2" fill="#5C6675">EVERY JOB HAS A KIT LIST — WE MAP IT, YOU WEAR IT</text>
-</svg></div>
+<div class="hero-art"><img src="assets/heroes/home.webp" alt="Contractor in Class 3 hi-vis yellow jacket and safety helmet checking a tablet on site" width="1000" height="1000" fetchpriority="high"></div>
 </div></section>
 
 <div class="trust"><div class="trust-in">

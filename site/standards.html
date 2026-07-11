@@ -32,7 +32,7 @@ h1,h2,h3{font-family:var(--disp);color:var(--ink);text-transform:uppercase;line-
 .hero:before{content:"";position:absolute;inset:0;background:radial-gradient(58% 90% at 84% 18%,rgba(228,87,31,.15),transparent 60%);pointer-events:none}
 .hero-in{max-width:var(--maxw);margin:0 auto;padding:52px 24px 46px;position:relative;z-index:2;display:grid;grid-template-columns:1.12fr .88fr;gap:46px;align-items:center}
 @media(max-width:840px){.hero-in{grid-template-columns:1fr;padding:40px 24px 38px}.hero-art{max-width:400px;margin:0 auto}}
-.hero-art svg{width:100%;height:auto;filter:drop-shadow(0 18px 40px rgba(0,0,0,.35))}
+.hero-art svg,.hero-art img{width:100%;height:auto;filter:drop-shadow(0 18px 40px rgba(0,0,0,.35))}.hero-art img{border-radius:14px;display:block}
 .crumbs{font-family:var(--mono);font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;color:var(--mute);margin-bottom:1rem}.crumbs a{color:var(--orange)}
 .eyebrow{font-family:var(--mono);font-size:.72rem;letter-spacing:.2em;text-transform:uppercase;color:var(--orange);margin-bottom:1rem}
 .hero h1{font-size:clamp(2.2rem,4.8vw,3.4rem);color:#fff;margin-bottom:.9rem;max-width:20ch}
@@ -73,31 +73,7 @@ a.card:hover{transform:translateY(-2px);box-shadow:0 14px 30px -20px rgba(21,27,
 <h1>Workwear standards, in plain English.</h1>
 <p class="lede">Every certified garment carries codes — EN ISO 20471, 11611, 20345. Each one is a promise about what the garment can withstand. These guides decode them, class by class.</p>
 </div>
-<div class="hero-art"><svg viewBox="0 0 460 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="A garment swing tag magnified, listing EN standards with class boxes and a UKCA mark">
-<defs><linearGradient id="pg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1a2332"/><stop offset="1" stop-color="#121a26"/></linearGradient></defs>
-<rect width="460" height="420" rx="8" fill="url(#pg)" stroke="#26344a" stroke-width="1"/><text x="26" y="38" font-family="'IBM Plex Mono',monospace" font-size="11" letter-spacing="3" fill="#C6D92E">ON THE LABEL</text>
-<!-- swing tag -->
-<g transform="rotate(-4 230 220)">
-<rect x="120" y="90" width="220" height="260" rx="10" fill="#F4F5F7" stroke="#4a5a72" stroke-width="2"/>
-<circle cx="230" cy="116" r="9" fill="#121a26" stroke="#4a5a72" stroke-width="2"/>
-<path d="M230 108 q40 -44 92 -30" fill="none" stroke="#8A94A3" stroke-width="2" stroke-dasharray="4 4"/>
-<text x="140" y="156" font-family="'Barlow Condensed',sans-serif" font-size="20" font-weight="700" fill="#151B26">CERTIFIED TO:</text>
-<g font-family="'IBM Plex Mono',monospace" font-size="12" fill="#151B26">
-<text x="140" y="186">EN ISO 20471</text>
-<g stroke="#8A94A3" fill="none"><rect x="272" y="174" width="14" height="14"/><rect x="290" y="174" width="14" height="14"/><rect x="308" y="174" width="14" height="14"/></g>
-<rect x="272" y="174" width="14" height="14" fill="#E4571F"/><rect x="290" y="174" width="14" height="14" fill="#E4571F"/>
-<text x="140" y="218">EN ISO 11612</text><text x="272" y="218" fill="#C0430F">A1 B1 C1</text>
-<text x="140" y="250">EN 343</text><text x="272" y="250" fill="#C0430F">4 : 1</text>
-<text x="140" y="282">MAX WASH</text><text x="272" y="282" fill="#C0430F">50 CYCLES</text>
-</g>
-<rect x="140" y="300" width="58" height="32" fill="none" stroke="#151B26" stroke-width="2"/>
-<text x="148" y="322" font-family="'Barlow Condensed',sans-serif" font-size="18" font-weight="700" fill="#151B26">UKCA</text>
-</g>
-<!-- magnifier -->
-<circle cx="330" cy="292" r="52" fill="none" stroke="#E4571F" stroke-width="5"/>
-<line x1="368" y1="330" x2="404" y2="366" stroke="#E4571F" stroke-width="9" stroke-linecap="round"/>
-<text x="26" y="398" font-family="'IBM Plex Mono',monospace" font-size="10" letter-spacing="2" fill="#5C6675">EVERY CODE IS A PROMISE — WE DECODE THEM ALL</text>
-</svg></div>
+<div class="hero-art"><img src="assets/heroes/standards.webp" alt="Sewn-in garment label showing care symbols, CE mark and an EN standard number" width="1000" height="1000" fetchpriority="high"></div>
 </div></section>
 <section class="section"><div class="wrap">
 <p class="klabel">By standard</p>

@@ -32,7 +32,7 @@ h1,h2,h3{font-family:var(--disp);color:var(--ink);text-transform:uppercase;line-
 .hero:before{content:"";position:absolute;inset:0;background:radial-gradient(58% 90% at 84% 18%,rgba(228,87,31,.15),transparent 60%);pointer-events:none}
 .hero-in{max-width:var(--maxw);margin:0 auto;padding:52px 24px 46px;position:relative;z-index:2;display:grid;grid-template-columns:1.12fr .88fr;gap:46px;align-items:center}
 @media(max-width:840px){.hero-in{grid-template-columns:1fr;padding:40px 24px 38px}.hero-art{max-width:400px;margin:0 auto}}
-.hero-art svg{width:100%;height:auto;filter:drop-shadow(0 18px 40px rgba(0,0,0,.35))}
+.hero-art svg,.hero-art img{width:100%;height:auto;filter:drop-shadow(0 18px 40px rgba(0,0,0,.35))}.hero-art img{border-radius:14px;display:block}
 .crumbs{font-family:var(--mono);font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;color:var(--mute);margin-bottom:1rem}.crumbs a{color:var(--orange)}
 .eyebrow{font-family:var(--mono);font-size:.72rem;letter-spacing:.2em;text-transform:uppercase;color:var(--orange);margin-bottom:1rem}
 .hero h1{font-size:clamp(2.2rem,4.8vw,3.4rem);color:#fff;margin-bottom:.9rem;max-width:20ch}
@@ -73,29 +73,7 @@ a.card:hover{transform:translateY(-2px);box-shadow:0 14px 30px -20px rgba(21,27,
 <h1>Care &amp; maintenance.</h1>
 <p class="lede">Protective clothing fails quietly — the wrong wash can strip flame resistance or fade hi-vis below the standard while the garment still looks fine. These guides keep your kit compliant, wash after wash.</p>
 </div>
-<div class="hero-art"><svg viewBox="0 0 460 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Washing machine with an orange garment in the drum, beside care symbols: 40 degree wash, no bleach, low iron">
-<defs><linearGradient id="pg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1a2332"/><stop offset="1" stop-color="#121a26"/></linearGradient></defs>
-<rect width="460" height="420" rx="8" fill="url(#pg)" stroke="#26344a" stroke-width="1"/><text x="26" y="38" font-family="'IBM Plex Mono',monospace" font-size="11" letter-spacing="3" fill="#C6D92E">KEEP IT COMPLIANT</text>
-<rect x="70" y="96" width="212" height="248" rx="12" fill="#1f2a3a" stroke="#4a5a72" stroke-width="2"/>
-<line x1="70" y1="136" x2="282" y2="136" stroke="#33425c" stroke-width="2"/>
-<circle cx="248" cy="116" r="8" fill="none" stroke="#8A94A3" stroke-width="2"/><line x1="248" y1="110" x2="248" y2="116" stroke="#8A94A3" stroke-width="2"/>
-<rect x="84" y="108" width="52" height="16" rx="3" fill="#33425c"/>
-<circle cx="176" cy="240" r="72" fill="#121a26" stroke="#4a5a72" stroke-width="4"/>
-<circle cx="176" cy="240" r="54" fill="none" stroke="#33425c" stroke-width="2"/>
-<path d="M136 250 q20 -26 44 -12 t 40 -6 q-6 30 -34 34 t-50 -16" fill="#E4571F" opacity=".9"/>
-<path d="M134 226 q22 10 42 0 t 42 0" fill="none" stroke="#C6D92E" stroke-width="3" opacity=".8"/>
-<!-- care symbols column -->
-<g font-family="'IBM Plex Mono',monospace" font-size="9" fill="#8A94A3">
-<path d="M318 118 q22 14 44 0 l-4 34 h-36 Z" fill="none" stroke="#E7EBF1" stroke-width="2.4"/>
-<text x="330" y="146" font-size="13" fill="#E7EBF1">40</text><text x="318" y="176">MAX TEMP</text>
-<path d="M340 208 l24 40 h-48 Z" fill="none" stroke="#E7EBF1" stroke-width="2.4"/>
-<line x1="318" y1="212" x2="362" y2="248" stroke="#E4571F" stroke-width="3"/><line x1="362" y1="212" x2="318" y2="248" stroke="#E4571F" stroke-width="3"/>
-<text x="316" y="272">NO BLEACH</text>
-<path d="M316 322 q4 -18 24 -18 h18 l6 18 Z" fill="none" stroke="#E7EBF1" stroke-width="2.4"/><circle cx="340" cy="313" r="2.4" fill="#E7EBF1"/>
-<text x="318" y="346">COOL IRON</text>
-</g>
-<text x="26" y="398" font-family="'IBM Plex Mono',monospace" font-size="10" letter-spacing="2" fill="#5C6675">THE WRONG WASH REMOVES PROTECTION YOU CAN’T SEE</text>
-</svg></div>
+<div class="hero-art"><img src="assets/heroes/care.webp" alt="White tee shirts drying on a washing line against a blue sky" width="1000" height="1000" fetchpriority="high"></div>
 </div></section>
 <section class="section"><div class="wrap">
 <p class="klabel">Care guides</p>
