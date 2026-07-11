@@ -1,0 +1,1601 @@
+{
+  "cluster": {
+    "id": "sectors-t4",
+    "topic": "Sector guides",
+    "shopLabel": "workwear",
+    "shopUrl": "https://www.ineedworkwear.com",
+    "baseUrl": "https://www.ineedworkwear.uk",
+    "date": "2026-07-11",
+    "externalHub": {
+      "slug": "sectors",
+      "navLabel": "Sectors hub",
+      "title": "Workwear by sector",
+      "cardTitle": "Workwear by sector"
+    },
+    "trust": [
+      "Sector hazards mapped to standards",
+      "Kit lists by role, not by catalogue",
+      "Stocked nationwide",
+      "Trade accounts"
+    ],
+    "cta": {
+      "h2": "Kit the whole operation.",
+      "p": "Send the roles and headcount — we'll come back with a kit list per role, embroidered and priced.",
+      "actions": [
+        {
+          "label": "Contact us",
+          "href": "contact.html",
+          "style": "white"
+        },
+        {
+          "label": "Browse the kit directory",
+          "href": "kit.html",
+          "style": "dark"
+        }
+      ]
+    }
+  },
+  "pages": [
+    {
+      "slug": "pharma-cleanroom-workwear-guide",
+      "role": "spoke",
+      "spokeType": "Sector guide",
+      "navLabel": "Pharma & cleanrooms",
+      "cardTitle": "Pharma & cleanroom workwear guide",
+      "cardBlurb": "Where the garment protects the product — gowning grades, particle discipline and the kit outside the cleanroom door.",
+      "crumbTail": "Pharma",
+      "kicker": "Sector guide · Pharma & cleanrooms",
+      "h1": "Pharma & cleanrooms: dressing for the product.",
+      "metaTitle": "Pharma & Cleanroom Workwear Guide | iNeedWorkwear",
+      "metaDesc": "Workwear for pharma and cleanroom operations — gowning by grade, why cleanroom garments protect the product not the person, ESD and low-lint rules, and the ordinary kit outside the door.",
+      "lede": "Cleanroom clothing inverts every rule in this library: the garment exists to protect the product from you — your skin flakes, fibres and static — not the other way round. That inversion decides everything from fabric to laundering, and it stops at the cleanroom door, where a whole ordinary factory still needs dressing.",
+      "heroMeta": [
+        {
+          "n": "Inverted",
+          "l": "The product is protected, not the wearer"
+        },
+        {
+          "n": "By grade",
+          "l": "Gowning scales with classification"
+        },
+        {
+          "n": "Two worlds",
+          "l": "Cleanroom in, warehouse out"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The sector",
+          "h2": "Inside the grade, outside the door",
+          "html": "<p><strong>Inside classified areas</strong>, gowning follows the room's grade: from smocks, hairnets and overshoes in the lowest grades up to full coverall-hood-boot-goggle systems, donned in sequence in gowning rooms and either single-use or laundered by specialist cleanroom laundries — never domestically, since the garments are low-linting synthetic constructions whose whole point is particle control (with <a href='esd-footwear-explained.html'>ESD properties</a> where electronics or powder-handling demand). The site's SOPs, not a supplier's catalogue, define the system — kit is bought to the gowning procedure.</p><p><strong>Outside the door</strong> is a normal industrial estate: warehouse teams (<a href='warehouse-logistics-workwear-guide.html'>the zone playbook</a>), engineers and maintenance crews whose <a href='workwear-fabrics-explained.html'>low-lint fitted kit</a> matters when they enter grade areas for repairs, laboratory staff in coats and nitrile per COSHH, and hygiene rules that borrow from <a href='food-processing-workwear-guide.html'>food-grade thinking</a>: no exposed personal clothing, managed laundering, jewellery policies. The buying pattern splits the same way — specialist gowning through the cleanroom supply chain, everything outside it through a normal trade account.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Kit by zone",
+          "h2": "The pharma kit map",
+          "head": [
+            "Zone",
+            "The kit that matters",
+            "The note"
+          ],
+          "rows": [
+            [
+              "Classified cleanrooms",
+              "Graded gowning systems, specialist-laundered",
+              "Bought to the SOP; single-use in the highest grades"
+            ],
+            [
+              "Labs & QC",
+              "Lab coats, nitrile, eye protection",
+              "COSHH assessments per substance"
+            ],
+            [
+              "Production support & engineering",
+              "Low-lint fitted kit, ESD where zoned",
+              "<a href='en-1149-5-antistatic-explained.html'>Antistatic logic</a> near powders"
+            ],
+            [
+              "Warehouse & dispatch",
+              "Hi-vis, S1P trainers, chilled-store layers",
+              "Cold-chain sections follow <a href='en-342-cold-protection-explained.html'>EN 342</a>"
+            ],
+            [
+              "Facilities & cleaning",
+              "Hygiene kit, chemical gloves by product",
+              "<a href='en-374-chemical-gloves-explained.html'>EN ISO 374</a> at the wash bay"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Management notes",
+          "h2": "What pharma sites get burned by",
+          "items": [
+            {
+              "n": "Fibres travel",
+              "l": "Ordinary fleece sheds lint that gowning can't fully contain — low-lint policies start in the changing room, not the cleanroom"
+            },
+            {
+              "n": "Two supply chains",
+              "l": "Cleanroom garments and factory kit are different procurement worlds — don't force either through the other"
+            },
+            {
+              "n": "Audit trail",
+              "l": "Gowning and laundering records are inspection material — the <a href='ppe-inspection-records.html'>records logic</a> applies double"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Pharma & cleanroom FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What do cleanroom workers wear?",
+          "a": "Gowning scaled to the room's classification — from smocks, hairnets and overshoes at lower grades to full coverall-hood-boot systems at the highest — in low-linting fabrics, donned in sequence and laundered by specialist cleanroom laundries or used once. The site's gowning SOP defines the exact system."
+        },
+        {
+          "q": "Why is cleanroom clothing different from PPE?",
+          "a": "Direction of protection: cleanroom garments protect the product and process from human contamination — skin particles, fibres, static — rather than protecting the wearer from hazards. Where genuine hazards exist too (potent compounds, chemicals), the gowning system and PPE requirements combine."
+        },
+        {
+          "q": "Can cleanroom garments be washed normally?",
+          "a": "No — domestic and general industrial laundering recontaminates them with lint and particles. Reusable cleanroom garments cycle through specialist cleanroom laundries that wash, test and pack them in controlled conditions; the highest grades use sterile single-use garments."
+        }
+      ]
+    },
+    {
+      "slug": "quarrying-aggregates-workwear-guide",
+      "role": "spoke",
+      "spokeType": "Sector guide",
+      "navLabel": "Quarrying",
+      "cardTitle": "Quarrying & aggregates workwear guide",
+      "cardBlurb": "Big plant, silica dust and weather with nowhere to hide — the quarry kit list and the FFP3 rule that matters most.",
+      "crumbTail": "Quarrying",
+      "kicker": "Sector guide · Quarrying & aggregates",
+      "h1": "Quarrying: dust, plant and open sky.",
+      "metaTitle": "Quarrying & Aggregates Workwear Guide | iNeedWorkwear",
+      "metaDesc": "Workwear for quarries and aggregates — Class 3 hi-vis around massive plant, FFP3 against respirable silica, hearing protection zones, weather kit for exposed sites and washplant waterproofs.",
+      "lede": "A quarry compresses three of workwear's hardest problems into one site: vehicles the size of houses with blind spots to match, respirable crystalline silica in the dust of almost every process, and weather that arrives unbroken across an open pit. The kit list follows those three, in that order.",
+      "heroMeta": [
+        {
+          "n": "Class 3",
+          "l": "Plant this size sets the hi-vis bar"
+        },
+        {
+          "n": "RCS",
+          "l": "Silica dust — the career-ending exposure"
+        },
+        {
+          "n": "Exposed",
+          "l": "No shelter between face and weighbridge"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The sector",
+          "h2": "Three hazards write the list",
+          "html": "<p><strong>Plant first:</strong> dump trucks, loading shovels and excavators at quarry scale have blind spots measured in metres, which is why <a href='class-2-vs-class-3-hi-vis.html'>Class 3 hi-vis</a> is the sector default and site rules commonly demand it in two-piece form (jacket plus trousers) so visibility survives jacket-off summer work. Segregation and vehicle marshalling do the heavy lifting; the clothing is the last line.</p><p><strong>Dust second, and most seriously:</strong> cutting, crushing, screening and drilling stone releases <strong>respirable crystalline silica</strong> — the exposure behind silicosis — and the RPE answer is <a href='ffp2-vs-ffp3.html'>FFP3</a> (or better, powered hoods for all-day exposure), <a href='ffp-fit-testing-explained.html'>fit-tested</a>, alongside the water suppression and cab filtration that do the primary control. Eye protection and <a href='en-352-hearing-protection-explained.html'>hearing protection</a> zones follow the same processes around crushers and screens.</p><p><strong>Weather third:</strong> an open pit offers nothing between the face and the weighbridge, so <a href='winter-workwear-guide.html'>layering systems</a>, <a href='en-343-waterproofs-explained.html'>EN 343 shells</a> in hi-vis, and <a href='summer-workwear-guide.html'>UV-season kit</a> aren't comfort items — they're what keeps twelve-month operations staffed. Washplant and lagoon work adds <a href='safety-wellingtons-guide.html'>S5 wellingtons</a>; S3 boots with ankle support handle the haul roads and stockpiles everywhere else.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Kit by role",
+          "h2": "The quarry kit map",
+          "head": [
+            "Role",
+            "The kit that matters",
+            "The spec detail"
+          ],
+          "rows": [
+            [
+              "Face & plant operators",
+              "Class 3 two-piece hi-vis, S3 boots",
+              "Cab work still badges through yards on foot"
+            ],
+            [
+              "Crusher & screen crews",
+              "FFP3, eye and hearing protection",
+              "<span class='code'>RCS</span> is the exposure that ends careers"
+            ],
+            [
+              "Washplant",
+              "Waterproofs, S5 wellingtons",
+              "<a href='safety-wellingtons-guide.html'>The washable boot logic</a>"
+            ],
+            [
+              "Weighbridge & gate",
+              "Hi-vis with weather layers",
+              "Static outdoor work — insulation over breathability"
+            ],
+            [
+              "Maintenance & fitters",
+              "Fitted kit, cut gloves, task RPE",
+              "<a href='en-388-glove-ratings-decoder.html'>EN 388</a> on wire ropes and wear plates"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Management notes",
+          "h2": "What quarry operators get burned by",
+          "items": [
+            {
+              "n": "Fit-test everyone",
+              "l": "FFP3 on a stubbled face is theatre — fit testing and clean-shaven policy make the rating real"
+            },
+            {
+              "n": "Two-piece hi-vis",
+              "l": "Summer strips jackets — trousers keeping Class 3 in play is why the two-piece rule exists"
+            },
+            {
+              "n": "Dust ages kit",
+              "l": "Grit shortens garment and boot life — rotation budgets should assume quarry-rate wear"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Quarrying FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What PPE is required in a quarry?",
+          "a": "The standard site set — helmet, Class 3 hi-vis (often two-piece), S3 boots, gloves — plus process-driven additions: FFP3 respiratory protection around silica-generating operations, hearing protection in designated zones, and eye protection at crushers and screens. Each site's rules and health surveillance define the specifics."
+        },
+        {
+          "q": "Why is silica dust so dangerous in quarrying?",
+          "a": "Respirable crystalline silica particles scar lung tissue permanently — silicosis is progressive, incurable and dose-driven, and quarry processes (drilling, crushing, screening, cutting) generate exactly the particle sizes that reach deep lung. Water suppression and enclosed cabs lead the control; fit-tested FFP3 covers what remains."
+        },
+        {
+          "q": "What hi-vis do quarries require?",
+          "a": "Class 3 as the practical default, frequently as jacket-and-trouser combinations so compliance survives when jackets come off — the plant is enormous, operators sit high, and ground staff visibility is the margin. Site traffic rules state the requirement; expect it enforced at induction."
+        }
+      ]
+    },
+    {
+      "slug": "demolition-workwear-guide",
+      "role": "spoke",
+      "spokeType": "Sector guide",
+      "navLabel": "Demolition",
+      "cardTitle": "Demolition workwear guide",
+      "cardBlurb": "Construction's hazards run backwards — unknown structures, hidden contaminants and kit that gets destroyed doing its job.",
+      "crumbTail": "Demolition",
+      "kicker": "Sector guide · Demolition",
+      "h1": "Demolition: construction in reverse, dressed harder.",
+      "metaTitle": "Demolition Workwear Guide: Kit For The Hardest Site | iNeedWorkwear",
+      "metaDesc": "Workwear for demolition — the enhanced site baseline, FFP3 against mixed dusts, cut and puncture protection, asbestos-work boundaries, and why demolition kit is bought as a consumable.",
+      "lede": "Demolition is construction with the certainties removed: the structure's condition is a survey plus a guess, the dust is whatever the building was hiding, and everything underfoot has nails in it. The kit list is the site baseline with every margin widened — bought knowing the job will destroy it on schedule.",
+      "heroMeta": [
+        {
+          "n": "Unknowns",
+          "l": "The defining hazard class"
+        },
+        {
+          "n": "FFP3",
+          "l": "Mixed dusts get the top rating"
+        },
+        {
+          "n": "Consumable",
+          "l": "Kit life is measured in weeks"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The sector",
+          "h2": "The baseline, widened",
+          "html": "<p>Everything from the <a href='construction-workwear-guide.html'>construction baseline</a> applies and then hardens: <strong>helmets</strong> with chinstraps (work at height over voids), <strong>Class 2–3 hi-vis</strong> among machines working blind, <strong>S3 boots</strong> where the midsole earns its keep daily — demolition arisings are a carpet of nails and rebar, and it's the sector where <a href='steel-toe-cap-myths.html'>puncture protection</a> stops being theoretical. Gloves run at <a href='en-388-glove-ratings-decoder.html'>cut level C and up</a> because everything handled has edges, and <strong>FFP3</strong> is the respiratory default because pre-1990s buildings shed mixed dusts — concrete silica, plaster, and the legacy nasties — where guessing lower ratings is gambling (<a href='ffp2-vs-ffp3.html'>the ratings logic</a>).</p><p><strong>The asbestos boundary is absolute:</strong> licensed asbestos removal is its own regulated world — enclosures, air-fed RPE, decontamination units, disposable suits by procedure — and none of it is bought casually off a workwear list. What a demolition contractor's everyday kit list needs is the <em>boundary discipline</em>: knowing that unexpected suspect materials stop work and change the rules, and that ordinary <a href='disposable-ppe-guide.html'>type 5/6 disposables</a> over site kit are for nuisance dusts, not asbestos. Kit economics finish the picture: demolition consumes clothing at rates that embarrass every other trade — gloves in days, trousers in weeks — so buy on <a href='workwear-fabrics-explained.html'>heavy fabric specs</a>, budget rotation deep, and treat retirement-on-damage as routine, not failure.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Kit by task",
+          "h2": "The demolition kit map",
+          "head": [
+            "Task",
+            "The kit that matters",
+            "The spec detail"
+          ],
+          "rows": [
+            [
+              "Soft strip",
+              "Cut gloves C+, FFP3, knee protection",
+              "Everything has edges; every ceiling has dust"
+            ],
+            [
+              "Structural demolition",
+              "Enhanced baseline, chinstrapped helmets",
+              "<a href='en-397-helmets-explained.html'>EN 397</a> over voids and drop zones"
+            ],
+            [
+              "Burning & cutting",
+              "Welding FR, leather gauntlets",
+              "<a href='fr-coveralls-for-welders.html'>EN ISO 11611</a> on structural steel"
+            ],
+            [
+              "Crushing & processing",
+              "Quarry-pattern kit — Class 3, hearing, FFP3",
+              "<a href='quarrying-aggregates-workwear-guide.html'>The aggregates rules</a> arrive on site"
+            ],
+            [
+              "Licensed asbestos work",
+              "Its own regulated regime",
+              "Separate procedures, kit and training — never improvised"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Management notes",
+          "h2": "What demolition firms get burned by",
+          "items": [
+            {
+              "n": "Boots on nails",
+              "l": "Midsole punctures are the sector's signature injury — S3 minimum, checked for damage weekly"
+            },
+            {
+              "n": "Dust discipline",
+              "l": "FFP3 plus <a href='ffp-fit-testing-explained.html'>fit testing</a> plus clean-shaven — mixed dust forgives nothing"
+            },
+            {
+              "n": "Kit budget honesty",
+              "l": "Consumption at demolition rates is a line item, not a surprise — under-budgeting puts worn-out kit on live sites"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Demolition FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What PPE do demolition workers need?",
+          "a": "The construction set with margins widened: EN 397 helmets (chinstrapped for height), Class 2–3 hi-vis, S3 boots where midsole protection works daily, cut-level C+ gloves, FFP3 respiratory protection against mixed dusts, and eye and hearing protection per task. Licensed asbestos work runs its own separate regime."
+        },
+        {
+          "q": "Why do demolition workers wear FFP3?",
+          "a": "Because the dust is mixed and partly unknown — concrete silica, plaster, insulation and whatever the decades hid — so the assessment defaults to the highest disposable rating rather than guessing per material. Suspect asbestos-containing materials stop work entirely; FFP3 is for the assessed, non-licensed dusts."
+        },
+        {
+          "q": "How long does workwear last in demolition?",
+          "a": "Weeks, honestly — gloves in days, trousers and boots faster than any other trade. Buying heavy-spec garments in deep rotation and retiring on damage without sentiment is the working model; demolition kit is a consumable with a burn rate, and budgets should say so."
+        }
+      ]
+    },
+    {
+      "slug": "childcare-nurseries-workwear-guide",
+      "role": "spoke",
+      "spokeType": "Sector guide",
+      "navLabel": "Childcare",
+      "cardTitle": "Childcare & nurseries workwear guide",
+      "cardBlurb": "Floor-level work, biological laundry days and a uniform parents read at handover — nursery kit chosen honestly.",
+      "crumbTail": "Childcare",
+      "kicker": "Sector guide · Childcare & nurseries",
+      "h1": "Childcare: workwear for floor-level days.",
+      "metaTitle": "Childcare & Nursery Workwear Guide | iNeedWorkwear",
+      "metaDesc": "Workwear for nurseries and childcare — practical uniform that survives floor play and paint, tabards and aprons for messy and hygiene tasks, footwear for ten-hour shifts, and the trust signal a uniform sends.",
+      "lede": "Nursery work is done kneeling, carrying and being climbed on — in clothing that meets parents at handover and Ofsted at inspection. The kit is simple but the brief is real: survive paint, mud and biology daily, stay comfortable through a ten-hour shift on the floor, and look like a team parents trust on sight.",
+      "heroMeta": [
+        {
+          "n": "Floor-level",
+          "l": "The job happens kneeling"
+        },
+        {
+          "n": "Wipe & wash",
+          "l": "Paint, mud and biology daily"
+        },
+        {
+          "n": "Trust",
+          "l": "The uniform is the handover signal"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The sector",
+          "h2": "Practicality, hygiene, identity",
+          "html": "<p><strong>The base uniform</strong> that works is trade-tested: polos and sweats in the setting's colours (embroidered — the <a href='front-of-house-uniform-guide.html'>identity logic</a> applies to nurseries as much as hotels), with <strong>stretch trousers or joggers</strong> that kneel and crouch without complaint. Fabric choice follows the <a href='workwear-fabrics-explained.html'>washing rules</a>: polycotton that survives daily 60°C cycles, in colours that forgive paint — because nursery laundry runs hotter and more often than almost any office-adjacent sector.</p><p><strong>Task layers do the messy work:</strong> <a href='tabard-vs-apron.html'>tabards</a> for general shift wear (pockets for tissues, phones and the endless small things), wipe-clean aprons for meals, messy play and nappy changing, and disposable aprons and gloves where the setting's hygiene policy requires them per task. <strong>Footwear</strong> is the health item: cushioned, supportive and secure (nothing slip-on that flies off mid-chase; nothing open-toed near tiny feet and dropped furniture), because early-years staff clock walking distances and floor-sitting transitions that punish flat shoes. Outdoor provision adds the <a href='winter-workwear-guide.html'>layering logic</a> — forest school and all-weather play means staff waterproofs and wellies are kit, not personal extras.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Kit by task",
+          "h2": "The nursery kit map",
+          "head": [
+            "Task",
+            "The kit that matters",
+            "The note"
+          ],
+          "rows": [
+            [
+              "Everyday room work",
+              "Embroidered polos/sweats, stretch trousers",
+              "Kneel-tested — the job is at floor level"
+            ],
+            [
+              "Meals & messy play",
+              "Wipe-clean aprons",
+              "Swapped per task, wiped between"
+            ],
+            [
+              "Nappy changing & first aid",
+              "Disposable aprons and gloves per policy",
+              "<a href='nitrile-vs-latex-vs-vinyl.html'>Nitrile</a> where latex policies apply"
+            ],
+            [
+              "Outdoor & forest school",
+              "Staff waterproofs, wellingtons, layers",
+              "All-weather provision means all-weather kit"
+            ],
+            [
+              "Kitchen duties",
+              "Hygiene aprons, hair coverage per EHO",
+              "Food rules follow the <a href='food-processing-workwear-guide.html'>same logic</a> at nursery scale"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Management notes",
+          "h2": "What settings get burned by",
+          "items": [
+            {
+              "n": "Rotation depth",
+              "l": "A child can end a garment's day by 9am — staff need spare sets on site, not hope"
+            },
+            {
+              "n": "Washable everything",
+              "l": "Buy nothing that can't take a 60°C cycle — the <a href='uniform-quantity-calculator.html'>quantity maths</a> assumes hot and often"
+            },
+            {
+              "n": "Name the code",
+              "l": "A documented uniform policy (colours by role) helps parents read the room and cover staff consistently"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Childcare FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What do nursery staff wear?",
+          "a": "Practical embroidered uniform — polos or sweats in setting colours with stretch trousers that survive kneeling — plus task layers: tabards for the shift, wipe-clean aprons for meals and messy play, disposables for hygiene tasks per policy, and proper supportive footwear for ten-hour floor-level days."
+        },
+        {
+          "q": "Why do nurseries have staff uniforms?",
+          "a": "Identity and trust as much as practicality: parents read a consistent, tidy team at handover, visitors identify staff instantly (a safeguarding plus), and the uniform absorbs the job's daily paint and mud instead of staff's own clothes. Embroidered kit does all three cheaply."
+        },
+        {
+          "q": "What footwear is best for nursery work?",
+          "a": "Cushioned, supportive, secure shoes — closed-toe against dropped furniture and tiny collisions, no backless slip-ons, and comfortable enough for a shift that mixes miles of walking with constant floor transitions. Staff feet are the setting's most-used equipment."
+        }
+      ]
+    },
+    {
+      "slug": "education-staff-workwear-guide",
+      "role": "spoke",
+      "spokeType": "Sector guide",
+      "navLabel": "Education staff",
+      "cardTitle": "Education staff workwear guide",
+      "cardBlurb": "Not the pupils — the people who run the building: site managers, caterers, technicians, TAs and the kit each actually needs.",
+      "crumbTail": "Education",
+      "kicker": "Sector guide · Education staff",
+      "h1": "Education staff: the school's working wardrobe.",
+      "metaTitle": "Education Staff Workwear Guide: Site, Catering & Technicians | iNeedWorkwear",
+      "metaDesc": "Workwear for school and college staff — site managers and caretakers, catering teams, DT and science technicians, teaching assistants and grounds staff: the kit each role actually needs.",
+      "lede": "Schoolwear guides dress the pupils; this one dresses the building. A school is a small town — kitchen, workshop, grounds, maintenance, science prep — and its staff kit list spans five different trades, usually bought by one office manager with no trade background. Here's the map.",
+      "heroMeta": [
+        {
+          "n": "5 trades",
+          "l": "Inside one school building"
+        },
+        {
+          "n": "One buyer",
+          "l": "Usually the office — hence this map"
+        },
+        {
+          "n": "Termly",
+          "l": "The natural ordering rhythm"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The sector",
+          "h2": "Role by role, honestly",
+          "html": "<p><strong>Site managers and caretakers</strong> are multi-trade generalists: embroidered polos and softshells for the corridor-facing half of the job, S1P or S3 footwear, gloves, and task PPE for the rest — working at height on the odd gutter, <a href='en-352-hearing-protection-explained.html'>hearing protection</a> with the mower, hi-vis on the gate run. <strong>Catering teams</strong> follow kitchen rules at school scale: whites or chef polos, aprons, slip-rated footwear and hair coverage — the <a href='what-chefs-wear.html'>chef logic</a> with a service window instead of covers. <strong>DT and science technicians</strong> are the quietly technical corner: workshop coats or aprons, <a href='glasses-goggles-face-shields.html'>eye protection tiers</a> for machines and chemistry, and glove choices per COSHH — a small population whose kit is bought least well because nobody owns the decision.</p><p><strong>Teaching assistants and early-years staff</strong> borrow from the <a href='childcare-nurseries-workwear-guide.html'>nursery list</a> — practical, washable, floor-capable — while <strong>grounds staff</strong> take the <a href='horticulture-grounds-workwear-guide.html'>grounds-maintenance kit list</a> whole. The buying pattern that works: one embroidered identity across every role (parents and pupils read staff at a glance — a safeguarding feature, not vanity), with role-specific protective kit layered per the actual task list, ordered on the termly rhythm the school year already runs on.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Kit by role",
+          "h2": "The school staff kit map",
+          "head": [
+            "Role",
+            "The kit that matters",
+            "The note"
+          ],
+          "rows": [
+            [
+              "Site manager / caretaker",
+              "Embroidered polos, softshell, S3, task PPE",
+              "The building's multi-trade — kit like one"
+            ],
+            [
+              "Catering",
+              "Whites/chef polos, aprons, SR footwear",
+              "EHO rules at school scale"
+            ],
+            [
+              "DT & science technicians",
+              "Coats/aprons, eye protection, COSHH gloves",
+              "The least-well-bought kit in education"
+            ],
+            [
+              "TAs & early years",
+              "Washable practical uniform",
+              "<a href='childcare-nurseries-workwear-guide.html'>Nursery logic</a> applies"
+            ],
+            [
+              "Grounds",
+              "Full grounds-maintenance list",
+              "Including <a href='chainsaw-protection-standards-explained.html'>chainsaw kit</a> only with certified operators"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Management notes",
+          "h2": "What schools get burned by",
+          "items": [
+            {
+              "n": "One identity",
+              "l": "Same embroidered branding across roles reads as one team — and flags who belongs on site"
+            },
+            {
+              "n": "The technician gap",
+              "l": "DT/science PPE needs an owner — eye protection and gloves per the risk assessments, not the cupboard's history"
+            },
+            {
+              "n": "Pupil kit is separate",
+              "l": "Uniform and PE kit questions live in the <a href='schoolwear-guide.html'>schoolwear guide</a> — different buyer, different rules"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Education staff FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What workwear does a school site manager need?",
+          "a": "A dual wardrobe: embroidered corridor-presentable kit (polos, softshell) plus the practical layer — S1P/S3 footwear, gloves, hi-vis for gate and grounds duties, and task PPE (hearing protection, eye protection, working-at-height kit) matching the maintenance jobs actually done. It's a multi-trade role and kits like one."
+        },
+        {
+          "q": "Do teaching assistants have a uniform?",
+          "a": "Increasingly yes — practical washable staff uniform (polos or tunics in school colours) is common, especially in primary and early years where the work is floor-level and messy. It identifies staff at a glance, which schools value as a safeguarding feature as much as a practical one."
+        },
+        {
+          "q": "What PPE do DT technicians need?",
+          "a": "Per the workshop's risk assessments: workshop coats or aprons, impact-rated eye protection at machines (grade F spectacles minimum, goggles for grinding), hearing protection in designated zones, and gloves chosen per task — remembering the machining rule that gloves are often banned at rotating tools. Science prep adds COSHH-driven glove and eye choices."
+        }
+      ]
+    },
+    {
+      "slug": "leisure-fitness-workwear-guide",
+      "role": "spoke",
+      "spokeType": "Sector guide",
+      "navLabel": "Leisure & fitness",
+      "cardTitle": "Leisure & fitness workwear guide",
+      "cardBlurb": "Gyms, pools and sports centres — uniform that moves, poolside kit that survives chlorine, and the plant room nobody sees.",
+      "crumbTail": "Leisure",
+      "kicker": "Sector guide · Leisure & fitness",
+      "h1": "Leisure & fitness: uniform at working pace.",
+      "metaTitle": "Leisure & Fitness Workwear Guide: Gym, Pool & Centre Kit | iNeedWorkwear",
+      "metaDesc": "Workwear for gyms, pools and leisure centres — performance-fabric staff uniform, lifeguard and swim-teacher kit, chlorine's effect on clothing, plant-room PPE and front-of-desk identity.",
+      "lede": "Leisure staff are the only uniform wearers whose job description includes demonstrating a burpee: the kit has to perform like sportswear, read like a brand, and survive an atmosphere that quietly bleaches everything — because chlorine doesn't stay in the pool.",
+      "heroMeta": [
+        {
+          "n": "Performance",
+          "l": "Uniform that trains alongside members"
+        },
+        {
+          "n": "Chlorine",
+          "l": "The atmosphere that eats elastane"
+        },
+        {
+          "n": "Plant room",
+          "l": "The chemical reality behind the pool"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The sector",
+          "h2": "Front of house at 140 bpm",
+          "html": "<p><strong>Gym-floor and coaching staff</strong> wear the sector's signature: performance polos and tees in <a href='workwear-fabrics-explained.html'>wicking fabrics</a>, training shorts or stretch trousers, and the embroidered identity that makes 'staff' visible across a busy floor — the <a href='front-of-house-uniform-guide.html'>FOH logic</a> executed in sportswear fabrics, sized for movement and bought in <a href='uniform-quantity-calculator.html'>rotation depth</a> because active staff sweat through kit daily.</p><p><strong>Poolside changes the chemistry:</strong> lifeguards and swim teachers work in the trade's red-and-yellow conventions (employer-specified), and everything worn near the pool lives in a <strong>chlorinated atmosphere that degrades elastane and fades colour</strong> — poolside kit is bought expecting short lifespans, rinsed after shifts, and never expected to look new at month six. Deck shoes are slip-rated and wet-capable. <strong>The plant room is the hidden trade:</strong> pool plant operators handle real chemicals — sodium hypochlorite, acids — and their kit is proper PPE: <a href='en-374-chemical-gloves-explained.html'>chemical gloves matched to the product</a>, <a href='glasses-goggles-face-shields.html'>splash goggles</a>, aprons and the site's COSHH rules; it's the corner of leisure that borrows from the <a href='cleaning-fm-workwear-guide.html'>industrial cleaning</a> world. Maintenance, grounds (3G pitches, mowing) and café staff complete the map with their own established lists.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Kit by role",
+          "h2": "The leisure kit map",
+          "head": [
+            "Role",
+            "The kit that matters",
+            "The note"
+          ],
+          "rows": [
+            [
+              "Gym floor & coaches",
+              "Wicking embroidered polos, training kit",
+              "Performs like sportswear, reads like uniform"
+            ],
+            [
+              "Lifeguards & swim teachers",
+              "Sector-convention poolside kit, slip-rated deck shoes",
+              "Chlorine shortens everything's life — plan for it"
+            ],
+            [
+              "Pool plant operators",
+              "Chemical gloves, goggles, aprons per COSHH",
+              "The genuinely hazardous corner"
+            ],
+            [
+              "Maintenance & grounds",
+              "Trade kit per task",
+              "3G and mowing follow <a href='horticulture-grounds-workwear-guide.html'>grounds rules</a>"
+            ],
+            [
+              "Reception & café",
+              "FOH uniform, hygiene aprons",
+              "<a href='hospitality-workwear-guide.html'>Hospitality logic</a> at the counter"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Management notes",
+          "h2": "What operators get burned by",
+          "items": [
+            {
+              "n": "Chlorine budgeting",
+              "l": "Poolside kit is a consumable — colour-fade and elastane failure arrive in months, not years"
+            },
+            {
+              "n": "Plant-room PPE",
+              "l": "The one place leisure meets serious chemistry — buy to the COSHH sheet, not the catalogue"
+            },
+            {
+              "n": "Move-tested",
+              "l": "Fit uniform on the demo burpee, not the mirror — staff live in this kit at working pace"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Leisure FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What do gym staff wear?",
+          "a": "Performance-fabric uniform — wicking polos or tees with embroidered branding, training bottoms and clean trainers — bought in enough rotation to survive daily active shifts. It has to work as sportswear (staff demonstrate and train) while reading unmistakably as staff across a busy floor."
+        },
+        {
+          "q": "Why does poolside uniform wear out so fast?",
+          "a": "Chlorinated atmosphere and splash degrade elastane and fade dyes — the same chemistry that keeps the pool safe quietly bleaches everything worn near it. Poolside kit is bought expecting a short life, rinsed after shifts and replaced on condition without surprise."
+        },
+        {
+          "q": "What PPE do pool plant operators need?",
+          "a": "Chemical-resistant gloves matched to the products handled (hypochlorite, acids — per EN ISO 374 permeation data), splash goggles, protective aprons and the site's COSHH-driven procedures. Pool plant is genuine chemical work and kits like it, whatever the leisure setting around it."
+        }
+      ]
+    },
+    {
+      "slug": "horticulture-grounds-workwear-guide",
+      "role": "spoke",
+      "spokeType": "Sector guide",
+      "navLabel": "Horticulture & grounds",
+      "cardTitle": "Horticulture & grounds maintenance guide",
+      "cardBlurb": "Mowing gangs, sports turf and planting crews — the outdoor kit list between landscaping and forestry.",
+      "crumbTail": "Grounds",
+      "kicker": "Sector guide · Horticulture & grounds",
+      "h1": "Grounds maintenance: the year-round outdoor wardrobe.",
+      "metaTitle": "Horticulture & Grounds Maintenance Workwear Guide | iNeedWorkwear",
+      "metaDesc": "Workwear for grounds maintenance and horticulture — mowing and strimming PPE, hedge and spray work, sports turf crews, seasonal layering and where chainsaw kit enters.",
+      "lede": "Grounds crews work every season on every surface — mowing gangs in June, leaf clearance in November, planting in February sleet. The kit is the outdoor trades' greatest hits: weather layering as the base, machine PPE per task, and the discipline of knowing when a job crosses into certified-kit territory.",
+      "heroMeta": [
+        {
+          "n": "4 seasons",
+          "l": "The contract runs all year"
+        },
+        {
+          "n": "Per machine",
+          "l": "Mower, strimmer, hedge cutter — each adds PPE"
+        },
+        {
+          "n": "Boundaries",
+          "l": "Saw and spray work bring certificates"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The sector",
+          "h2": "Base layer plus task additions",
+          "html": "<p><strong>The base wardrobe</strong> is weather logic: <a href='base-layers-guide.html'>wicking base</a>, mid-layers by season, <a href='en-343-waterproofs-explained.html'>EN 343 shells</a> kept beading (<a href='reproofing-waterproofs.html'>reproofing</a> is a grounds-trade habit), S3 boots for ground that alternates mud and mower clippings, and <a href='summer-workwear-guide.html'>UV-season kit</a> for the months spent entirely outdoors. Hi-vis joins wherever crews work verges, car parks or <a href='when-is-hi-vis-required.html'>roadside contracts</a>.</p><p><strong>Each machine adds its PPE:</strong> ride-on mowing brings <a href='en-352-hearing-protection-explained.html'>hearing protection</a>; strimming and blowing add face visors and eye protection (flung stones are the classic claim); hedge cutters demand cut-aware gloves and forearm cover. <strong>Two tasks cross into certified territory:</strong> any chainsaw work — even 'just a small limb' — requires <a href='chainsaw-protection-standards-explained.html'>full chainsaw PPE and certification</a> (the <a href='workwear-for-arborists.html'>arborist guide</a> covers the climbing trade proper), and pesticide application runs on <a href='en-iso-27065-explained.html'>spray-operator clothing</a> and qualifications per the product label. The well-run grounds firm keeps those boundaries bright: the mowing gang's kit never quietly stretches to cover the saw job.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Kit by task",
+          "h2": "The grounds kit map",
+          "head": [
+            "Task",
+            "The kit that matters",
+            "The spec detail"
+          ],
+          "rows": [
+            [
+              "Mowing (ride-on & pedestrian)",
+              "Hearing protection, S3 boots, hi-vis",
+              "<a href='en-352-hearing-protection-explained.html'>EN 352</a> — mower decks run loud all day"
+            ],
+            [
+              "Strimming & blowing",
+              "Face visor, eye protection, gloves",
+              "Flung debris is the sector's classic injury"
+            ],
+            [
+              "Hedge work",
+              "Cut-aware gloves, forearm cover, eye protection",
+              "<a href='en-388-glove-ratings-decoder.html'>EN 388</a> against blades and thorns"
+            ],
+            [
+              "Spraying",
+              "<span class='code'>EN ISO 27065</span> clothing per label",
+              "Certification and product label lead"
+            ],
+            [
+              "Tree & saw work",
+              "Full chainsaw PPE — certified operators only",
+              "<a href='chainsaw-protection-standards-explained.html'>The classes and types</a>"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Management notes",
+          "h2": "What grounds firms get burned by",
+          "items": [
+            {
+              "n": "Season budgets",
+              "l": "Summer UV kit and winter layers are both real spends — the contract runs twelve months"
+            },
+            {
+              "n": "Visor discipline",
+              "l": "Strimmer claims are eye claims — visors on the machine, not in the van"
+            },
+            {
+              "n": "The saw boundary",
+              "l": "Chainsaw kit plus tickets or no saw work — the shortcut is the sector's worst habit"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Grounds FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What PPE is needed for strimming?",
+          "a": "Face visor or safety glasses (flung stones and debris are the signature injury), gloves, hearing protection, sturdy trousers and S3 boots — plus hi-vis where the work fronts roads or car parks. The visor earns its place on every verge."
+        },
+        {
+          "q": "Do grounds staff need chainsaw trousers?",
+          "a": "Only if they use chainsaws — and then it's the full certified set (trousers, boots, gloves, helmet system) plus training tickets, per the chainsaw PPE standards. The important discipline is the boundary: saw work is never absorbed into general grounds kit."
+        },
+        {
+          "q": "What do grounds maintenance workers wear in winter?",
+          "a": "The layering system: wicking base, insulating mid, waterproof shell kept reproofed, warm gloves with dexterity for machine controls, and S3 boots that handle mud months. Static tasks (goal-post repairs, planting) need warmer mid-layers than the mowing gang ever does."
+        }
+      ]
+    },
+    {
+      "slug": "events-exhibitions-workwear-guide",
+      "role": "spoke",
+      "spokeType": "Sector guide",
+      "navLabel": "Events & exhibitions",
+      "cardTitle": "Events & exhibitions workwear guide",
+      "cardBlurb": "Build days are construction, show days are hospitality — the two-wardrobe sector and the crews that flip between them.",
+      "crumbTail": "Events",
+      "kicker": "Sector guide · Events & exhibitions",
+      "h1": "Events: the sector with a costume change.",
+      "metaTitle": "Events & Exhibitions Workwear Guide | iNeedWorkwear",
+      "metaDesc": "Workwear for events and exhibitions — build and breakdown crews under site rules, riggers and AV, show-day uniform and brand staff, festival crews and the venue rules that govern all of it.",
+      "lede": "No sector changes clothes like events: the same hall is a construction site on Tuesday, a polished brand environment on Thursday, and a construction site again on Sunday night. The crews that work it hold two wardrobes and swap on the venue's clock.",
+      "heroMeta": [
+        {
+          "n": "2 wardrobes",
+          "l": "Build kit and show kit"
+        },
+        {
+          "n": "Venue rules",
+          "l": "Halls enforce site PPE on build days"
+        },
+        {
+          "n": "Overnight",
+          "l": "Breakdown happens tired and fast"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The sector",
+          "h2": "Build days, show days, load-out nights",
+          "html": "<p><strong>Build and breakdown</strong> run under venue site rules: hi-vis, <a href='en-397-helmets-explained.html'>helmets</a> where overhead work runs, S3 boots checked at the marshal's desk — the <a href='workwear-solihull.html'>NEC-style regime</a> applied nationally. Stand builders and shopfit-adjacent crews carry the <a href='workwear-for-shopfitters.html'>shopfitter's kit</a>; <strong>riggers</strong> add height work's rules — harness-compatible clothing and the <a href='fall-protection-standards-explained.html'>inspected equipment</a> their competence schemes govern; AV and production crews live in the industry's black fitted kit with kneepads and gloves.</p><p><strong>Show days flip the building:</strong> embroidered polos and <a href='front-of-house-uniform-guide.html'>FOH tailoring</a> for venue and agency staff, brand-ambassador uniforms bought in bulk with <a href='embroidery-artwork-guide.html'>artwork planned ahead of show deadlines</a>, comfortable presentable footwear for twelve-hour standing shifts. <strong>Load-out is the risk hour:</strong> overnight breakdowns happen tired, fast and simultaneous — which is why the well-run crews treat the return to site kit as a hard gate, not a suggestion, and why venue marshals check boots at 11pm as strictly as 8am. Outdoor events add the <a href='choosing-work-jackets.html'>weather layer</a> and festival mud adds <a href='safety-wellingtons-guide.html'>wellingtons</a> — same logic, worse ground.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Kit by phase",
+          "h2": "The events kit map",
+          "head": [
+            "Phase / crew",
+            "The kit that matters",
+            "The note"
+          ],
+          "rows": [
+            [
+              "Stand build & breakdown",
+              "Hi-vis, helmets, S3, holster trousers",
+              "Venue site rules — checked at the door"
+            ],
+            [
+              "Riggers",
+              "Harness-compatible fitted kit",
+              "<a href='fall-protection-standards-explained.html'>Fall protection</a> is competence-scheme territory"
+            ],
+            [
+              "AV & production",
+              "Black fitted kit, kneepads, gloves",
+              "The industry's uniform is a working spec"
+            ],
+            [
+              "Show-day staff",
+              "Embroidered uniform, FOH tailoring",
+              "Ordered to show dates — <a href='uniform-quantity-calculator.html'>depth included</a>"
+            ],
+            [
+              "Outdoor & festival",
+              "Weather layers, wellingtons, hi-vis",
+              "Same rules, worse ground"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Management notes",
+          "h2": "What event firms get burned by",
+          "items": [
+            {
+              "n": "Deadline embroidery",
+              "l": "Show dates don't move — branded kit orders work back from load-in, not invoice date"
+            },
+            {
+              "n": "The tired hours",
+              "l": "Load-out injuries cluster after midnight — kit discipline is the cheap control"
+            },
+            {
+              "n": "Two bags",
+              "l": "Crews that pack build kit and show kit separately never fail a marshal check in either direction"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Events FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What do exhibition build crews wear?",
+          "a": "Construction-pattern kit under venue site rules: hi-vis, safety boots (checked at marshal desks), helmets where overhead work runs, plus trade kit — holster trousers, kneepads, gloves. The venue's contractor regulations are the governing document, enforced on build and breakdown days."
+        },
+        {
+          "q": "Why do AV crews wear black?",
+          "a": "Invisibility during shows — black kit disappears against staging and shadows when crews work live environments. It's a genuine working spec, not fashion: fitted black trousers, tees and softshells with kneepads and gloves for the get-in, presentable enough to move through a show floor."
+        },
+        {
+          "q": "What should brand ambassadors wear at events?",
+          "a": "Whatever the campaign specifies — typically branded polos or tees with presentable bottoms and comfortable shoes for twelve-hour standing days. The operational lesson is ordering: embroidered or printed kit works back from the show date with sizing collected early, because event deadlines don't flex."
+        }
+      ]
+    },
+    {
+      "slug": "removals-storage-workwear-guide",
+      "role": "spoke",
+      "spokeType": "Sector guide",
+      "navTitle": "Removals",
+      "navLabel": "Removals & storage",
+      "cardTitle": "Removals & storage workwear guide",
+      "cardBlurb": "The manual-handling trade — grip gloves, knee-and-shin reality, doorstep presentation and kit for stairs in the rain.",
+      "crumbTail": "Removals",
+      "kicker": "Sector guide · Removals & storage",
+      "h1": "Removals: the manual-handling trade, dressed.",
+      "metaTitle": "Removals & Storage Workwear Guide | iNeedWorkwear",
+      "metaDesc": "Workwear for removals and storage firms — grip gloves that protect hands and furniture, footwear for stairs under load, weather kit for kerbside work and the doorstep-professional uniform.",
+      "lede": "Removals is pure manual handling performed in public: heavy, awkward loads down tight stairs, across wet drives, into customers' new homes. The kit list is short but every item is load-bearing — grip at the hands, sure feet on stairs, and a uniform that makes a crew look worth trusting with a household.",
+      "heroMeta": [
+        {
+          "n": "Grip",
+          "l": "Hands are the trade's tools"
+        },
+        {
+          "n": "Stairs",
+          "l": "The workplace that decides footwear"
+        },
+        {
+          "n": "Doorstep",
+          "l": "Trust is part of the service"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The sector",
+          "h2": "Hands, feet, weather, trust",
+          "html": "<p><strong>Gloves are the signature decision:</strong> removals wants grip and dexterity with enough palm protection for edges and straps — coated grip gloves (<a href='en-388-glove-ratings-decoder.html'>EN 388</a> abrasion-focused rather than maximum cut) that hold a wardrobe on stairs without marking polished furniture; crews carry clean pairs for handling upholstery and antiques. <strong>Footwear is the stairs question:</strong> cushioned S1P trainers or mid-cuts with genuinely grippy soles — the load changes your balance, wet drives and worn stair carpet do the rest, and the sector's injuries are slips-under-load far more than dropped-object impacts. Ankle support earns its keep here as much as any <a href='safety-trainers-vs-safety-boots.html'>trainer-vs-boot debate</a>.</p><p><strong>The rest is honest simplicity:</strong> stretch trousers with <a href='en-14404-knee-protection-explained.html'>knee-pad pockets</a> (loads get rested on knees more than any manual says), embroidered polos and softshells because the crew IS the company on a customer's drive (the <a href='workwear-for-delivery-drivers.html'>doorstep logic</a> at household scale), weather shells for kerbside loading, and back-support belts only as comfort items — they're not PPE and don't change safe-lifting limits, which training and two-person carries own. Storage-side staff add the <a href='warehouse-logistics-workwear-guide.html'>warehouse basics</a> in the container stacks.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The list",
+          "h2": "The removals kit map",
+          "head": [
+            "Item",
+            "The spec",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Grip gloves + clean pairs",
+              "Coated grip, dexterity-first",
+              "Hold the load, spare the furniture"
+            ],
+            [
+              "Footwear",
+              "Cushioned S1P with real sole grip",
+              "Stairs under load are the workplace"
+            ],
+            [
+              "Trousers",
+              "Stretch, knee-pad pockets",
+              "Loads rest on knees hourly"
+            ],
+            [
+              "Uniform layer",
+              "Embroidered polos/softshells",
+              "The crew is the brand in someone's home"
+            ],
+            [
+              "Weather kit",
+              "Packable shells, <a href='winter-workwear-guide.html'>layers</a>",
+              "Kerbside loading happens in everything"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Management notes",
+          "h2": "What removals firms get burned by",
+          "items": [
+            {
+              "n": "Slips beat drops",
+              "l": "The injury book is slips-under-load — sole grip and stair discipline outrank toe caps here"
+            },
+            {
+              "n": "Belts aren't PPE",
+              "l": "Back supports are comfort kit; safe limits come from training and crew size, not webbing"
+            },
+            {
+              "n": "Clean-glove habit",
+              "l": "A £5 clean pair for upholstery days prevents the claim that eats the job's margin"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Removals FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What gloves do removals workers use?",
+          "a": "Coated grip gloves with good dexterity — abrasion-resistant palms that hold furniture and strap-work without slipping — plus clean fabric pairs for upholstery, mattresses and antiques. Grip protects both the spine (surer holds) and the customer's furniture (no gouges)."
+        },
+        {
+          "q": "Do removals workers need safety boots?",
+          "a": "Most firms specify safety footwear — commonly cushioned S1P trainers or mid-cuts — but the priority is sole grip and comfort on stairs under load, because slips are the sector's real injury pattern. Heavy rigid boots that compromise stair feel are the wrong buy."
+        },
+        {
+          "q": "Do back support belts prevent injury?",
+          "a": "The evidence says no — they're comfort items, not PPE, and they don't raise safe lifting limits. Injury prevention in removals comes from technique training, two-person carries, mechanical aids and honest job assessment; the belt is optional padding, never a licence."
+        }
+      ]
+    },
+    {
+      "slug": "printing-workwear-guide",
+      "role": "spoke",
+      "spokeType": "Sector guide",
+      "navLabel": "Printing",
+      "cardTitle": "Printing industry workwear guide",
+      "cardBlurb": "Presses, solvents and paper dust — nitrile at the wash-up, fitted kit at the rollers and hearing protection on the floor.",
+      "crumbTail": "Printing",
+      "kicker": "Sector guide · Printing",
+      "h1": "Printing: ink, solvents and moving rollers.",
+      "metaTitle": "Printing Industry Workwear Guide | iNeedWorkwear",
+      "metaDesc": "Workwear for print — fitted kit around running presses, nitrile and solvent gloves at wash-up, hearing protection on press floors, guillotine discipline in finishing, and ink-stained rotation buying.",
+      "lede": "Print rooms combine hazards that rarely share a roof: rollers that grab loose clothing, solvents that strip skin, presses loud enough for mandatory zones, and guillotines in finishing that have their own safety folklore. The kit list is fitted, nitrile-gloved and bought expecting ink.",
+      "heroMeta": [
+        {
+          "n": "Fitted",
+          "l": "Rollers grab what hangs loose"
+        },
+        {
+          "n": "Nitrile",
+          "l": "Wash-up chemistry, every shift"
+        },
+        {
+          "n": "Zoned",
+          "l": "Press floors run at EN 352 levels"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The sector",
+          "h2": "Around the press, at the wash-up, in finishing",
+          "html": "<p><strong>Around running presses</strong> the clothing rule is the machine-shop one, intensified: <strong>fitted kit, no loose cuffs, no drawcords, no lanyards</strong> — web and sheet-fed presses alike pull in what hangs, and nip points don't negotiate. Fitted polos and work trousers beat coveralls-with-flap here; hearing protection follows the <a href='en-352-hearing-protection-explained.html'>zoned logic</a> because press floors routinely cross action levels.</p><p><strong>Wash-up and ink handling</strong> is the chemical corner: blanket and roller washes are solvent work — <a href='nitrile-vs-latex-vs-vinyl.html'>nitrile</a> as the daily default with proper <a href='en-374-chemical-gloves-explained.html'>rated gloves</a> for the stronger chemistry per COSHH, eye protection at decanting, and the skin-care discipline (barrier cream, washing, moisturising) that keeps dermatitis — printing's occupational disease — off the crew. UV-cure and litho each bring product-specific rules; the data sheet decides. <strong>Finishing</strong> adds guillotine discipline (two-hand controls do the safety; kit stays snag-free), paper-dust <a href='ffp2-vs-ffp3.html'>FFP2 where extraction lags</a>, and cut-aware gloves for handling stacked stock — paper edges at ream weight cut like blades. Ink means <a href='workwear-fabrics-explained.html'>dark polycotton</a> in rotation: press kit is bought expecting stains, retired on saturation like <a href='oil-grease-out-of-workwear.html'>workshop oil kit</a>.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Kit by area",
+          "h2": "The print kit map",
+          "head": [
+            "Area",
+            "The kit that matters",
+            "The spec detail"
+          ],
+          "rows": [
+            [
+              "Press operation",
+              "Fitted polos/trousers, hearing protection",
+              "Nothing loose near nips — the absolute rule"
+            ],
+            [
+              "Wash-up & ink stores",
+              "Nitrile / rated solvent gloves, eye protection",
+              "<a href='en-374-chemical-gloves-explained.html'>EN ISO 374</a> per the COSHH sheet"
+            ],
+            [
+              "Finishing & guillotines",
+              "Snag-free kit, cut-aware gloves",
+              "Ream edges cut; machines do their own guarding"
+            ],
+            [
+              "Despatch",
+              "Hi-vis, S1P trainers",
+              "<a href='warehouse-logistics-workwear-guide.html'>Warehouse rules</a> at the dock"
+            ],
+            [
+              "All press crew",
+              "Dark rotation kit, skin-care regime",
+              "Dermatitis is the trade disease — prevention is daily"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Management notes",
+          "h2": "What printers get burned by",
+          "items": [
+            {
+              "n": "Skin surveillance",
+              "l": "Solvent dermatitis creeps — gloves plus skin checks beat either alone"
+            },
+            {
+              "n": "The fitted rule",
+              "l": "One loose cuff near a nip point is the incident report — buy fitted, enforce fitted"
+            },
+            {
+              "n": "Ink economics",
+              "l": "Press kit is stained by Tuesday — dark colours, deep rotation, saturation retirement"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Printing FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What gloves do printers use?",
+          "a": "Nitrile as the daily default for ink and general wash-up, stepping up to EN ISO 374-rated gloves in the right polymer for stronger solvent work per the COSHH assessment — plus cut-aware gloves in finishing, where stacked paper edges cut like blades. Skin care alongside gloves is what actually keeps dermatitis away."
+        },
+        {
+          "q": "Why can't you wear loose clothing near a printing press?",
+          "a": "Rollers and nip points grab and pull in anything that hangs — sleeves, drawcords, lanyards, cloths tucked in waistbands. Press-floor clothing is fitted with snug cuffs, the same entanglement rule as any rotating machinery, enforced because the consequences are immediate and severe."
+        },
+        {
+          "q": "Is hearing protection required in print rooms?",
+          "a": "Where noise assessments cross the action levels — which busy press floors routinely do — designated zones make hearing protection mandatory under the noise regulations. Muffs or plugs to EN 352, chosen so operators stay aware of machine sounds that signal problems."
+        }
+      ]
+    },
+    {
+      "slug": "furniture-joinery-workwear-guide",
+      "role": "spoke",
+      "spokeType": "Sector guide",
+      "navLabel": "Furniture & joinery",
+      "cardTitle": "Furniture & joinery workwear guide",
+      "cardBlurb": "Wood dust is a carcinogen and machines don't forgive — the workshop kit list from FFP3 to the no-gloves rule.",
+      "crumbTail": "Joinery",
+      "kicker": "Sector guide · Furniture & joinery",
+      "h1": "Furniture & joinery: dust, blades and finish rooms.",
+      "metaTitle": "Furniture & Joinery Workwear Guide | iNeedWorkwear",
+      "metaDesc": "Workwear for furniture making and joinery shops — hardwood dust FFP3, the no-gloves rule at machines, hearing zones, finish-room solvent PPE and fitted workshop kit.",
+      "lede": "Woodworking's two defining hazards pull the kit list in opposite directions: dust demands more protection (hardwood dust is a carcinogen — FFP3 territory), while the machines demand less clothing, not more — no gloves at the spindle, no loose anything near a blade. Getting both right is the whole game.",
+      "heroMeta": [
+        {
+          "n": "FFP3",
+          "l": "Hardwood dust is carcinogenic"
+        },
+        {
+          "n": "No gloves",
+          "l": "At machines — entanglement beats cuts"
+        },
+        {
+          "n": "Fitted",
+          "l": "The blade-room dress code"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The sector",
+          "h2": "Dust rules, machine rules, finish rules",
+          "html": "<p><strong>Dust first:</strong> hardwood dust is a recognised carcinogen (sinonasal cancers) and softwood dust an asthmagen — extraction at the machine does the primary control, and <a href='ffp2-vs-ffp3.html'>FFP3</a> covers sanding, hand-machining and anything extraction can't capture, <a href='ffp-fit-testing-explained.html'>fit-tested</a> like it matters, because it does. Eye protection to <a href='glasses-goggles-face-shields.html'>impact grades</a> lives at every machine; <a href='en-352-hearing-protection-explained.html'>hearing zones</a> cover planers, spindle moulders and saws.</p><p><strong>Machines flip the glove instinct:</strong> at running blades and spindles the rule is usually <strong>no gloves</strong> — entanglement and glove-snatch beat laceration as the risk, so machine work runs bare-handed or thin-fitted per the shop's rules, with <a href='en-388-glove-ratings-decoder.html'>cut-rated gloves</a> reserved for handling boards, changing tooling and site fixing. Clothing is fitted throughout: snug cuffs, no drawcords, aprons or fitted kit rather than flapping coveralls. <strong>Finish rooms</strong> add the chemistry: nitrile or <a href='en-374-chemical-gloves-explained.html'>rated gloves</a> for stains and lacquers, and spray work runs under COSHH with RPE per the product system — isocyanate lacquers push toward air-fed, exactly as in <a href='automotive-trade-workwear-guide.html'>bodyshops</a>. Site-fitting joiners carry the <a href='workwear-for-carpenters.html'>carpenter's list</a> in the van alongside.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Kit by area",
+          "h2": "The joinery kit map",
+          "head": [
+            "Area",
+            "The kit that matters",
+            "The spec detail"
+          ],
+          "rows": [
+            [
+              "Machine shop",
+              "Fitted kit, eye + hearing protection, NO loose anything",
+              "Glove policy per machine — often none at the blade"
+            ],
+            [
+              "Sanding & hand work",
+              "FFP3, eye protection",
+              "<span class='code'>Hardwood dust = carcinogen</span> — the non-negotiable"
+            ],
+            [
+              "Finish room",
+              "Nitrile/rated gloves, RPE per product",
+              "Isocyanate systems escalate the RPE — data sheet decides"
+            ],
+            [
+              "Bench & assembly",
+              "Aprons, knee pads, dexterity gloves",
+              "<a href='en-14404-knee-protection-explained.html'>EN 14404</a> for fitting-up at floor level"
+            ],
+            [
+              "Site fitting",
+              "The carpenter's van list",
+              "<a href='workwear-for-carpenters.html'>Covered in the role guide</a>"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Management notes",
+          "h2": "What workshops get burned by",
+          "items": [
+            {
+              "n": "Dust surveillance",
+              "l": "Health surveillance for wood dust exposure is an expectation, not a luxury — the disease latency is long"
+            },
+            {
+              "n": "Glove policy per machine",
+              "l": "Write it down machine by machine — 'gloves sometimes' is how both injury types happen"
+            },
+            {
+              "n": "Extraction first",
+              "l": "RPE covers what extraction misses — a shop relying on FFP3 alone has the hierarchy upside down"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Joinery FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What mask is needed for wood dust?",
+          "a": "FFP3 for hardwood dust (a recognised carcinogen) and for prolonged sanding of any species — fit-tested, and worn alongside extraction rather than instead of it. Softwood dust is an asthmagen and warrants the same seriousness at sustained exposure."
+        },
+        {
+          "q": "Why are gloves banned on woodworking machines?",
+          "a": "Rotating blades and spindles can snatch a glove and pull the hand in — entanglement outranks laceration at running machines, so most shops prohibit gloves at the blade and reserve cut-rated gloves for board handling and tooling changes. Each machine's rule should be written and posted."
+        },
+        {
+          "q": "What PPE is needed for spraying lacquer?",
+          "a": "Per the product system's data sheet under COSHH — nitrile or rated gloves, eye protection, and RPE that escalates with the chemistry: isocyanate-based lacquers push toward air-fed respiratory protection in a proper booth, the same regime as automotive refinishing."
+        }
+      ]
+    },
+    {
+      "slug": "housing-maintenance-workwear-guide",
+      "role": "spoke",
+      "spokeType": "Sector guide",
+      "navLabel": "Housing maintenance",
+      "cardTitle": "Housing maintenance teams workwear guide",
+      "cardBlurb": "Multi-trade operatives in occupied homes — the van wardrobe, tenant-facing ID and the every-trade-in-one-day kit problem.",
+      "crumbTail": "Housing",
+      "kicker": "Sector guide · Housing maintenance",
+      "h1": "Housing maintenance: every trade, someone's home.",
+      "metaTitle": "Housing Maintenance Workwear Guide: Repairs Teams | iNeedWorkwear",
+      "metaDesc": "Workwear for housing association and council repairs teams — multi-trade van wardrobes, tenant-facing uniform and ID, knee protection for the daily reality, and the voids-and-communal kit list.",
+      "lede": "A repairs operative might plumb at nine, patch plaster at eleven and hang a fire door after lunch — each job in an occupied home where the uniform is also the ID check. Housing maintenance kit is the multi-trade van wardrobe plus something no other sector weights so heavily: being recognisable and trustable at the door.",
+      "heroMeta": [
+        {
+          "n": "Multi-trade",
+          "l": "Three trades before lunch"
+        },
+        {
+          "n": "ID-first",
+          "l": "Tenants must know who's knocking"
+        },
+        {
+          "n": "Van wardrobe",
+          "l": "The kit lives on wheels"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The sector",
+          "h2": "The van wardrobe, the doorstep, the voids",
+          "html": "<p><strong>The base kit is the multi-trade list:</strong> stretch trousers with <a href='en-14404-knee-protection-explained.html'>knee-pad pockets</a> (repairs work is floor-level work — under sinks, at skirting, on bathroom floors), S1P or S3 footwear that's clean enough for carpets and capable enough for voids, dexterity gloves plus nitrile for wet trades, and eye protection that actually gets worn for drilling overhead. The van carries the escalation kit: <a href='ffp2-vs-ffp3.html'>FFP3</a> for sanding and loft work, <a href='disposable-ppe-guide.html'>disposable coveralls</a> for the filthy jobs, and overshoes for finished homes.</p><p><strong>The doorstep is policy:</strong> housing providers dress repairs teams in strong embroidered identity — branded polos and softshells matching the ID badge — because tenants, including vulnerable ones, are told to check who's knocking; a scruffy unbranded operative fails safeguarding before failing style. <strong>Voids and communal work</strong> shifts the list toward the harder end: void properties are unknown territory (sharps-aware gloves, FFP protection, sometimes full <a href='waste-recycling-workwear-guide.html'>waste-sector thinking</a> for the worst), communal repairs bring <a href='when-is-hi-vis-required.html'>hi-vis around grounds plant</a>, and gas and electrical specialists carry their own trades' rules — the <a href='workwear-for-gas-engineers.html'>gas engineer's list</a> rides in the same van fleet.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Kit by job",
+          "h2": "The repairs kit map",
+          "head": [
+            "Job",
+            "The kit that matters",
+            "The note"
+          ],
+          "rows": [
+            [
+              "Responsive repairs (occupied)",
+              "Branded kit, knee pads, overshoes",
+              "The doorstep ID rule leads"
+            ],
+            [
+              "Wet trades & drainage",
+              "Nitrile under grip gloves, waterproofs",
+              "Plus the hygiene habits of the trade"
+            ],
+            [
+              "Voids & clearances",
+              "Sharps-aware gloves, FFP3, disposables",
+              "Unknown territory — kit for the worst room"
+            ],
+            [
+              "Communal & external",
+              "Hi-vis, weather layers",
+              "Grounds plant and roadside frontages"
+            ],
+            [
+              "Gas / electrical specialists",
+              "Their trades' own lists",
+              "<a href='workwear-for-gas-engineers.html'>Gas</a> and <a href='ppe-for-electricians.html'>electrical</a> rules apply"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Management notes",
+          "h2": "What providers get burned by",
+          "items": [
+            {
+              "n": "ID = uniform",
+              "l": "Branded kit isn't marketing — it's the safeguarding system tenants were told to trust"
+            },
+            {
+              "n": "Knees on the books",
+              "l": "Repairs operatives kneel for a living — inserts in every trouser, replaced like consumables"
+            },
+            {
+              "n": "Void escalation",
+              "l": "A written void kit list stops the worst properties being entered in doorstep kit"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Housing maintenance FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What do housing repair operatives wear?",
+          "a": "Branded multi-trade kit: embroidered polos or softshells matching their ID, stretch trousers with knee-pad inserts, clean capable safety footwear, and a van stocked with escalation PPE — FFP3, disposable coveralls, overshoes, task gloves. The uniform doubles as the tenant's identity check."
+        },
+        {
+          "q": "Why is uniform so important for housing maintenance teams?",
+          "a": "Safeguarding: tenants — including vulnerable residents — are told to verify callers, and a consistent branded appearance matching the ID badge is the check that works at the door. It also protects operatives from refused access and doorstep disputes; recognisability is functional."
+        },
+        {
+          "q": "What extra kit do void property clearances need?",
+          "a": "Kit for the unknown: sharps-aware cut-resistant gloves, FFP3 respiratory protection, disposable coveralls, solid footwear and often waste-sector thinking for the worst cases — needles, biohazards and unstable contents feature. A written void kit list keeps the escalation from being improvised."
+        }
+      ]
+    },
+    {
+      "slug": "breweries-distilleries-workwear-guide",
+      "role": "spoke",
+      "spokeType": "Sector guide",
+      "navLabel": "Breweries",
+      "cardTitle": "Breweries & distilleries workwear guide",
+      "cardBlurb": "Hot liquor, caustic CIP and wet floors all day — brewing's kit list, plus the taproom uniform out front.",
+      "crumbTail": "Brewing",
+      "kicker": "Sector guide · Breweries & distilleries",
+      "h1": "Breweries: hot, wet and caustic — then the taproom.",
+      "metaTitle": "Brewery & Distillery Workwear Guide | iNeedWorkwear",
+      "metaDesc": "Workwear for breweries and distilleries — hot-liquor and steam protection, caustic CIP chemical PPE, wellingtons for permanently wet floors, grain-dust masks and taproom front-of-house kit.",
+      "lede": "Brewing looks romantic and works industrial: hundreds of litres of near-boiling liquid, caustic cleaning chemistry every cycle, floors that are wet from mash-in to close, and grain dust in the malt store. Then the same business runs a taproom, where the wardrobe changes completely.",
+      "heroMeta": [
+        {
+          "n": "80 °C+",
+          "l": "Hot liquor doesn't negotiate"
+        },
+        {
+          "n": "Caustic CIP",
+          "l": "The chemistry behind every clean"
+        },
+        {
+          "n": "Wet floor",
+          "l": "The permanent condition"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The sector",
+          "h2": "Brewhouse, cellar, malt store, taproom",
+          "html": "<p><strong>The brewhouse</strong> pairs heat and wet: hot liquor, steam at manways, and kettle work argue for long sleeves in natural-fibre or appropriate fabrics (the <a href='polycotton-vs-cotton.html'>melting rule</a> applies around steam and hot surfaces), <a href='en-407-heat-gloves-explained.html'>heat-rated gloves</a> for hot fittings, and face protection when opening hot vessels. <strong>Floors are wet from first runnings to washdown</strong> — <a href='safety-wellingtons-guide.html'>S4/S5 wellingtons</a> or waterproof SR-rated boots are the daily footwear, and slip performance is the spec that matters most per day worked.</p><p><strong>CIP is the serious chemistry:</strong> caustic and acid cleaning cycles mean <a href='en-374-chemical-gloves-explained.html'>chemical gloves matched to the products</a>, <a href='glasses-goggles-face-shields.html'>splash goggles plus face shield</a> when making up or breaking connections, and aprons or <a href='en-13034-chem-splash-explained.html'>splash-rated layers</a> — a caustic splash is the brewery's signature serious injury and the PPE list around it should read like a <a href='cleaning-fm-workwear-guide.html'>chemical-handling</a> document, because it is one. <strong>The malt store</strong> adds <a href='ffp2-vs-ffp3.html'>FFP2 dust protection</a> for grain handling (and the confined-space and CO₂ disciplines of cellars belong to training, not clothing). <strong>Out front</strong>, the taproom runs on <a href='hospitality-workwear-guide.html'>hospitality logic</a> — branded tees and aprons that carry the brewery's identity, which in this sector genuinely sells beer.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Kit by area",
+          "h2": "The brewery kit map",
+          "head": [
+            "Area",
+            "The kit that matters",
+            "The spec detail"
+          ],
+          "rows": [
+            [
+              "Brewhouse & kettles",
+              "Long sleeves, heat gloves, face protection at manways",
+              "<a href='en-407-heat-gloves-explained.html'>EN 407</a> on hot fittings"
+            ],
+            [
+              "CIP & chemical store",
+              "Rated chemical gloves, goggles + shield, splash layers",
+              "Caustic is the injury to design against"
+            ],
+            [
+              "Cellar & packaging",
+              "Wellingtons/SR boots, hearing protection at the line",
+              "Bottling lines run at <a href='en-352-hearing-protection-explained.html'>EN 352</a> levels"
+            ],
+            [
+              "Malt handling",
+              "FFP2, eye protection",
+              "Grain dust — and mills demand the fitted-clothing rule"
+            ],
+            [
+              "Taproom & events",
+              "Branded tees, aprons",
+              "<a href='hospitality-workwear-guide.html'>FOH logic</a> — the merch is the uniform"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Management notes",
+          "h2": "What breweries get burned by",
+          "items": [
+            {
+              "n": "Literally: caustic",
+              "l": "CIP splash injuries define the sector's claims — goggles-plus-shield at every connection break"
+            },
+            {
+              "n": "Slip spend",
+              "l": "Wet floors all day make sole grip the highest-value spec on the list"
+            },
+            {
+              "n": "Two brands, one budget",
+              "l": "Brewhouse kit and taproom merch are different purchases — don't let the fun one eat the safe one"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Brewery FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What PPE do brewers need?",
+          "a": "Heat-rated gloves and face protection around hot liquor and manways, chemical gloves and goggles (plus face shield) for caustic CIP work, wellingtons or slip-rated waterproof boots for permanently wet floors, FFP2 for grain handling, and hearing protection at packaging lines. The caustic chemistry deserves the most respect."
+        },
+        {
+          "q": "Why do brewery workers wear wellingtons?",
+          "a": "Brewery floors are wet from mash-in to final washdown — hot water, wort and cleaning cycles all day. S4/S5 safety wellingtons give waterproofing, toe protection and washdown-proof construction with the slip-rated soles that matter most in the building."
+        },
+        {
+          "q": "What is CIP and why does it need chemical PPE?",
+          "a": "Clean-in-place — circulating caustic and acid solutions through vessels and lines after every use. Making up chemicals and breaking connections risks splash of genuinely corrosive solutions, so rated chemical gloves, sealed goggles with a face shield and splash-protective layers are the standing kit for it."
+        }
+      ]
+    }
+  ]
+}
