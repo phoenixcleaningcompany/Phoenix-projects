@@ -102,34 +102,34 @@ LIVE,Employer / compliance,Compliance,Who pays for workwear & PPE?,who-pays-for-
 LIVE,Employer / compliance,Compliance,Uniform tax relief explained,uniform-tax-relief,—,
 LIVE,Care guide,Care,Washing chef whites,washing-chef-whites,chefswear | scrubs,
 LIVE,Care guide,Care,Laundering scrubs for infection control,laundering-scrubs,chefswear | scrubs,
-T2,Area guide,Local,Workwear in Sunderland,workwear-sunderland,per archetype,H-confidence town
-T2,Area guide,Local,Workwear in Middlesbrough,workwear-middlesbrough,per archetype,H-confidence town
-T2,Area guide,Local,Workwear in Hull,workwear-hull,per archetype,H-confidence town
-T2,Area guide,Local,Workwear in Doncaster,workwear-doncaster,per archetype,H-confidence town
-T2,Area guide,Local,Workwear in Rotherham,workwear-rotherham,per archetype,H-confidence town
-T2,Area guide,Local,Workwear in Scunthorpe,workwear-scunthorpe,per archetype,H-confidence town
-T2,Area guide,Local,Workwear in Immingham,workwear-immingham,per archetype,H-confidence town
-T2,Area guide,Local,Workwear in Telford,workwear-telford,per archetype,H-confidence town
-T2,Area guide,Local,Workwear in Coventry,workwear-coventry,per archetype,H-confidence town
-T2,Area guide,Local,Workwear in Solihull,workwear-solihull,per archetype,H-confidence town
-T2,Area guide,Local,Workwear in Derby,workwear-derby,per archetype,H-confidence town
-T2,Area guide,Local,Workwear in Leicester,workwear-leicester,per archetype,H-confidence town
-T2,Area guide,Local,Workwear in Northampton,workwear-northampton,per archetype,H-confidence town
-T2,Area guide,Local,Workwear in Daventry,workwear-daventry,per archetype,H-confidence town
-T2,Area guide,Local,Workwear in Milton Keynes,workwear-milton-keynes,per archetype,H-confidence town
-T2,Area guide,Local,Workwear in Peterborough,workwear-peterborough,per archetype,H-confidence town
-T2,Area guide,Local,Workwear in Warrington,workwear-warrington,per archetype,H-confidence town
-T2,Area guide,Local,Workwear in Ellesmere Port,workwear-ellesmere-port,per archetype,H-confidence town
-T2,Area guide,Local,Workwear in Runcorn,workwear-runcorn,per archetype,H-confidence town
-T2,Area guide,Local,Workwear in Crewe,workwear-crewe,per archetype,H-confidence town
-T2,Area guide,Local,Workwear in Felixstowe,workwear-felixstowe,per archetype,H-confidence town
-T2,Area guide,Local,Workwear in Southampton,workwear-southampton,per archetype,H-confidence town
-T2,Area guide,Local,Workwear in Portsmouth,workwear-portsmouth,per archetype,H-confidence town
-T2,Area guide,Local,Workwear in Swindon,workwear-swindon,per archetype,H-confidence town
-T2,Area guide,Local,Workwear in Port Talbot,workwear-port-talbot,per archetype,H-confidence town
+LIVE,Area guide,Local,Workwear in Sunderland,workwear-sunderland,per archetype,H-confidence town
+LIVE,Area guide,Local,Workwear in Middlesbrough,workwear-middlesbrough,per archetype,H-confidence town
+LIVE,Area guide,Local,Workwear in Hull,workwear-hull,per archetype,H-confidence town
+LIVE,Area guide,Local,Workwear in Doncaster,workwear-doncaster,per archetype,H-confidence town
+LIVE,Area guide,Local,Workwear in Rotherham,workwear-rotherham,per archetype,H-confidence town
+LIVE,Area guide,Local,Workwear in Scunthorpe,workwear-scunthorpe,per archetype,H-confidence town
+LIVE,Area guide,Local,Workwear in Immingham,workwear-immingham,per archetype,H-confidence town
+LIVE,Area guide,Local,Workwear in Telford,workwear-telford,per archetype,H-confidence town
+LIVE,Area guide,Local,Workwear in Coventry,workwear-coventry,per archetype,H-confidence town
+LIVE,Area guide,Local,Workwear in Solihull,workwear-solihull,per archetype,H-confidence town
+LIVE,Area guide,Local,Workwear in Derby,workwear-derby,per archetype,H-confidence town
+LIVE,Area guide,Local,Workwear in Leicester,workwear-leicester,per archetype,H-confidence town
+LIVE,Area guide,Local,Workwear in Northampton,workwear-northampton,per archetype,H-confidence town
+LIVE,Area guide,Local,Workwear in Daventry,workwear-daventry,per archetype,H-confidence town
+LIVE,Area guide,Local,Workwear in Milton Keynes,workwear-milton-keynes,per archetype,H-confidence town
+LIVE,Area guide,Local,Workwear in Peterborough,workwear-peterborough,per archetype,H-confidence town
+LIVE,Area guide,Local,Workwear in Warrington,workwear-warrington,per archetype,H-confidence town
+LIVE,Area guide,Local,Workwear in Ellesmere Port,workwear-ellesmere-port,per archetype,H-confidence town
+LIVE,Area guide,Local,Workwear in Runcorn,workwear-runcorn,per archetype,H-confidence town
+LIVE,Area guide,Local,Workwear in Crewe,workwear-crewe,per archetype,H-confidence town
+LIVE,Area guide,Local,Workwear in Felixstowe,workwear-felixstowe,per archetype,H-confidence town
+LIVE,Area guide,Local,Workwear in Southampton,workwear-southampton,per archetype,H-confidence town
+LIVE,Area guide,Local,Workwear in Portsmouth,workwear-portsmouth,per archetype,H-confidence town
+LIVE,Area guide,Local,Workwear in Swindon,workwear-swindon,per archetype,H-confidence town
+LIVE,Area guide,Local,Workwear in Port Talbot,workwear-port-talbot,per archetype,H-confidence town
 T3,Standard explainers,Standards,"Remaining standards (~20 more incl. EN 352, EN 14404, EN 12477...)",—,various,Enumerated in page-architecture.csv
 T3,Role guides,Roles,Remaining roles (~150 from entity list),—,per role,
-T3,Area guides,Local,"Remaining towns (~200–450, M/L verified vs ONS first)",—,per archetype,Gated by canary + verification
+T3,Area guides,Local,"SUPERSEDED 2026-07-11: area pages capped at ~50 total, informational at ~500 (Damien)",—,per archetype,Gated by canary + verification
 T3,Buying guides,Buying guides,Remaining category guides (~50 across the 67 categories),—,various,
 T3,Glossary,Glossary,Term/fabric/standard definitions (~220),—,contextual,
 ONGOING,Editorial,Editorial,Seasonal & news-led guides (~150/yr),—,various,E-E-A-T layer

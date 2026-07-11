@@ -1,0 +1,3215 @@
+{
+  "cluster": {
+    "id": "areas-t2",
+    "topic": "Area guides",
+    "shopLabel": "workwear",
+    "shopUrl": "https://www.ineedworkwear.com",
+    "baseUrl": "https://www.ineedworkwear.uk",
+    "date": "2026-07-11",
+    "externalHub": {
+      "slug": "areas",
+      "navLabel": "Areas hub",
+      "title": "Workwear by area",
+      "cardTitle": "Workwear by area"
+    },
+    "trust": [
+      "Kit matched to the local economy",
+      "Standards named, not implied",
+      "Nationwide next-day supply",
+      "Embroidery & trade accounts"
+    ],
+    "cta": {
+      "h2": "Kitting a team out here?",
+      "p": "We supply nationwide from stock — send the roles and headcount and we'll come back with a kit list, embroidered.",
+      "actions": [
+        {
+          "label": "Contact us",
+          "href": "contact.html",
+          "style": "white"
+        },
+        {
+          "label": "Browse the kit directory",
+          "href": "kit.html",
+          "style": "dark"
+        }
+      ]
+    }
+  },
+  "pages": [
+    {
+      "slug": "workwear-sunderland",
+      "role": "spoke",
+      "spokeType": "Area guide",
+      "navLabel": "Sunderland",
+      "cardTitle": "Workwear in Sunderland",
+      "cardBlurb": "Volume car making, battery plants and the Wear's offshore yards — line-discipline kit, ESD zones and dock weather.",
+      "crumbTail": "Sunderland",
+      "kicker": "Area guide · Sunderland",
+      "h1": "Workwear in Sunderland: line speed and river wind.",
+      "metaTitle": "Workwear in Sunderland: Automotive, Battery & Marine Kit | iNeedWorkwear",
+      "metaDesc": "Workwear for Sunderland's economy — production-line clothing discipline for volume car making, EN 1149-5 antistatic kit for battery manufacture, offshore fabrication FR and port hi-vis.",
+      "lede": "Sunderland builds more cars than any other UK city, and the plants around the plant tell the rest of the story: battery manufacture scaling up next door, a supply chain of pressings and plastics, and marine work where the Wear meets the sea. Kit here is decided by production discipline as much as hazard.",
+      "heroMeta": [
+        {
+          "n": "No. 1",
+          "l": "UK's biggest car-making city"
+        },
+        {
+          "n": "ESD",
+          "l": "Battery halls are static-controlled"
+        },
+        {
+          "n": "Line-safe",
+          "l": "Snug fit, nothing that catches"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The local economy",
+          "h2": "What Sunderland actually makes",
+          "html": "<p>The car plant at Washington has been the anchor for four decades — the UK's highest-volume vehicle factory — and it has pulled a dense <strong>automotive supply chain</strong> of pressings, plastics, seating and logistics around itself. The next chapter is electric: <strong>battery manufacture</strong> is scaling alongside the vehicle lines, bringing clean-dry production halls with static control rules. Down on the river, Sunderland's older trades continue — <strong>fabrication, marine engineering and offshore work</strong> on the Wear — with the Port of Sunderland handling project cargo for North Sea energy.</p><p>Two very different dress codes result: the controlled indoor discipline of a production hall, and all-weather steel-toe work where the river wind gets a vote.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Kit by industry",
+          "h2": "The Sunderland kit map",
+          "head": [
+            "Local industry",
+            "The kit that matters",
+            "The spec detail"
+          ],
+          "rows": [
+            [
+              "Vehicle assembly",
+              "Snug-fit polos and trousers, S1P trainers",
+              "Line rules: no loose drawcords, covered zips that can't scratch paintwork"
+            ],
+            [
+              "Battery manufacture",
+              "Antistatic garments where zoned",
+              "<span class='code'>EN 1149-5</span> — <a href='en-1149-5-antistatic-explained.html'>how static-dissipative kit works</a>"
+            ],
+            [
+              "Supply-chain plants & pressings",
+              "Cut-rated gloves, hearing protection, coveralls",
+              "<a href='en-388-glove-ratings-decoder.html'>EN 388 decoded</a> for pressed-metal edges"
+            ],
+            [
+              "Marine & offshore fabrication",
+              "Welding FR, waterproof hi-vis layers",
+              "<a href='fr-coveralls-for-welders.html'>EN ISO 11611 welding kit</a> over <a href='en-343-waterproofs-explained.html'>EN 343 shells</a>"
+            ],
+            [
+              "Port & logistics",
+              "Class 2–3 hi-vis, S3 boots",
+              "<a href='class-2-vs-class-3-hi-vis.html'>The class call</a> for yards and quaysides"
+            ]
+          ]
+        },
+        {
+          "type": "prose",
+          "klabel": "The detail that matters",
+          "h2": "Production lines dress people, not just protect them",
+          "narrow": true,
+          "html": "<p>A volume assembly hall bans as much as it requires: <strong>no exposed metal zips or studs</strong> that could scratch a painted body, no loose drawcords near moving track, snug cuffs, and often specific pocket rules on the trim lines. That's why automotive workwear looks the way it does — clean-faced softshells, covered plackets, elastane in the trousers for the constant crouch-and-reach. Buying generic site kit for line work gets it politely handed back at induction.</p><p>The battery halls add a layer most of the region hasn't dealt with before: <strong>static control</strong>. Where zones are designated, garments carry <a href='en-1149-5-antistatic-explained.html'>EN 1149-5</a> and footwear moves to ESD ratings — a spec written by the product's sensitivity rather than the wearer's risk, and checked at the door.</p>"
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Supply",
+          "h2": "How we supply Sunderland",
+          "items": [
+            {
+              "n": "From stock",
+              "l": "Line-friendly kit, ESD footwear and hi-vis shipped next-day"
+            },
+            {
+              "n": "Fleet logic",
+              "l": "Same garment, hundreds of sizes — supply-chain plants order by the rail"
+            },
+            {
+              "n": "Trade accounts",
+              "l": "Tier suppliers and contractors on one account"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Sunderland kit FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What workwear do car plant workers wear?",
+          "a": "Snug-fitting, paint-safe garments: polos and trousers without exposed metal fittings, covered zips, no loose cords near the track, and S1P-type safety trainers for all-day standing on concrete. Individual plants publish their own line rules — the common thread is protecting the product as well as the person."
+        },
+        {
+          "q": "What is EN 1149-5 and who needs it in Sunderland?",
+          "a": "It's the standard for static-dissipative protective clothing. In battery manufacture and other static-controlled zones, garments carrying EN 1149-5 stop charge accumulating on the wearer — worn as part of a grounded system with ESD footwear. If a hall is zoned for static control, the garment label matters as much as the wrist strap."
+        },
+        {
+          "q": "Do you deliver workwear to Sunderland?",
+          "a": "Nationwide from central stock, usually next-day, with embroidery applied before dispatch. Supply-chain plants ordering rotation quantities and contractors kitting mixed crews both run through one trade account."
+        }
+      ]
+    },
+    {
+      "slug": "workwear-middlesbrough",
+      "role": "spoke",
+      "spokeType": "Area guide",
+      "navLabel": "Middlesbrough",
+      "cardTitle": "Workwear in Middlesbrough",
+      "cardBlurb": "Teesside's process industry — chemical splash over FR, COMAH-site permit rules and the freeport construction surge.",
+      "crumbTail": "Middlesbrough",
+      "kicker": "Area guide · Middlesbrough",
+      "h1": "Workwear in Middlesbrough: process-industry rules.",
+      "metaTitle": "Workwear in Middlesbrough: Chemicals, Process & Teesworks Kit | iNeedWorkwear",
+      "metaDesc": "Workwear for Teesside — EN 13034 chemical splash over FR base kit for the process industry, COMAH-site clothing rules, fabrication welding kit and hi-vis for the Teesworks build-out.",
+      "lede": "Teesside's skyline is made of pipework. Chemicals, fertilisers, hydrogen projects and the sprawling regeneration of the old steelworks site mean most industrial work here happens inside permit systems — and the clothing is specified by the permit, not preference.",
+      "heroMeta": [
+        {
+          "n": "Type 6",
+          "l": "Chemical splash — the everyday chem rating"
+        },
+        {
+          "n": "COMAH",
+          "l": "Major-hazard sites set the rules"
+        },
+        {
+          "n": "Layered",
+          "l": "FR base, chem over the top"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The local economy",
+          "h2": "What Teesside actually runs on",
+          "html": "<p>Middlesbrough anchors one of Europe's larger <strong>chemical and process clusters</strong> — commodity chemicals, fertilisers and fuels along the Tees, with hydrogen and carbon-capture projects queuing behind them. The former steelworks land at <strong>Teesworks</strong> is now one of the country's biggest industrial construction sites, pulling in civils crews, steel erectors and mechanical trades. Around the process core sit the businesses that service it: <strong>fabrication shops, scaffolding, industrial cleaning and inspection</strong> — plus the port handling it all.</p><p>The signature fact: much of this work happens on <strong>COMAH-regulated major-hazard sites</strong>, where clothing requirements arrive in the contractor induction pack, written down, non-negotiable.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Kit by industry",
+          "h2": "The Teesside kit map",
+          "head": [
+            "Local industry",
+            "The kit that matters",
+            "The spec detail"
+          ],
+          "rows": [
+            [
+              "Chemical & process plants",
+              "FR base kit with chemical splash over-layer",
+              "<span class='code'>EN 13034 type 6</span> — <a href='en-13034-chem-splash-explained.html'>the splash rating decoded</a>"
+            ],
+            [
+              "Turnarounds & industrial cleaning",
+              "Disposable chem coveralls, FFP respirators",
+              "<a href='disposable-ppe-guide.html'>Disposable done right</a>; <a href='en-149-ffp-ratings-explained.html'>FFP ratings</a>"
+            ],
+            [
+              "Fabrication & pipework",
+              "Welding FR, leather gloves, screens",
+              "<a href='fr-coveralls-for-welders.html'>EN ISO 11611</a> plus <a href='en-407-heat-gloves-explained.html'>EN 407 heat gloves</a>"
+            ],
+            [
+              "Teesworks construction",
+              "Class 2–3 hi-vis, S3 boots, helmets",
+              "<a href='construction-workwear-guide.html'>The site baseline</a>; <a href='en-397-helmets-explained.html'>EN 397</a>"
+            ],
+            [
+              "Port & bulk handling",
+              "All-weather hi-vis, grip footwear",
+              "<a href='caring-for-hi-vis.html'>Kept compliant</a> through Tees weather"
+            ]
+          ]
+        },
+        {
+          "type": "prose",
+          "klabel": "The detail that matters",
+          "h2": "Chem splash sits over FR, not instead of it",
+          "narrow": true,
+          "html": "<p>Process-site kit is a <strong>layering question</strong>: the base garment is typically flame-resistant (hydrocarbon sites treat fire risk as ambient), and chemical protection arrives as a <a href='en-13034-chem-splash-explained.html'>type 6 splash-rated</a> layer — either an FR garment with a chem finish or a disposable over-suit for the dirty task. The mistake contractors make is buying one or the other: a chem suit with no FR behind it on a hydrocarbon site, or FR alone on a job the permit lists as splash-exposed.</p><p>Turnaround season sharpens everything — thousands of contractors arrive for maintenance shutdowns, our <a href='disposable-vs-reusable-ppe.html'>disposable vs reusable</a> logic tips toward disposable for tank and vessel entries, and antistatic properties (<a href='en-1149-5-antistatic-explained.html'>EN 1149-5</a>) join the label list wherever flammable atmospheres are possible.</p>"
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Supply",
+          "h2": "How we supply Teesside",
+          "items": [
+            {
+              "n": "From stock",
+              "l": "FR, chem-rated and disposable kit shipped next-day"
+            },
+            {
+              "n": "Shutdown-ready",
+              "l": "Turnaround quantities boxed by size, not picked as singles"
+            },
+            {
+              "n": "Trade accounts",
+              "l": "Contractor firms kit whole crews on one account"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Teesside kit FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What does EN 13034 type 6 cover?",
+          "a": "Limited protection against liquid chemical splash — mist and light spray rather than jets or immersion. It's the everyday chemical rating on process-site workwear, usually worn as a layer over FR base kit. Anything the task risk assessment rates above splash moves into higher-type chemical suits."
+        },
+        {
+          "q": "What workwear do COMAH site contractors need?",
+          "a": "Whatever the site's induction specifies — typically FR base garments, chemical splash protection where the permit lists it, antistatic properties in flammable-atmosphere zones, plus the universal hard hat, hi-vis and S3 boots. The reliable approach is to read the contractor pack before ordering, because major-hazard sites check labels at the gate."
+        },
+        {
+          "q": "Can you supply for maintenance shutdowns?",
+          "a": "Yes — turnaround orders are quantity work: disposable coveralls, FFP respirators and gloves by the case, sized runs of FR for crews, all shipped from stock. Order ahead of the shutdown window; everyone else's turnaround is the same month as yours."
+        }
+      ]
+    },
+    {
+      "slug": "workwear-hull",
+      "role": "spoke",
+      "spokeType": "Area guide",
+      "navLabel": "Hull",
+      "cardTitle": "Workwear in Hull",
+      "cardBlurb": "Blade factories, caravans and the docks — composite-dust coveralls, FFP masks and estuary-weather hi-vis.",
+      "crumbTail": "Hull",
+      "kicker": "Area guide · Hull",
+      "h1": "Workwear in Hull: composites, caravans and quaysides.",
+      "metaTitle": "Workwear in Hull: Wind Blades, Caravans & Port Kit | iNeedWorkwear",
+      "metaDesc": "Workwear for Hull's economy — disposable coveralls and FFP3 respirators for composite and GRP work in blade and caravan manufacture, port hi-vis, food-processing whites and healthcare kit.",
+      "lede": "Hull's two flagship products — offshore wind turbine blades and holiday caravans — share a material: glass-reinforced composite. That makes fine dust the city's defining occupational hazard, and disposable coveralls with properly rated respirators the kit that matters most, before the docks and the food plants add their own lists.",
+      "heroMeta": [
+        {
+          "n": "FFP3",
+          "l": "The respirator for composite sanding"
+        },
+        {
+          "n": "Type 5/6",
+          "l": "Dust-tight disposable coveralls"
+        },
+        {
+          "n": "Estuary",
+          "l": "Hi-vis that faces the Humber"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The local economy",
+          "h2": "What Hull actually makes",
+          "html": "<p>The blade factory on Alexandra Dock builds some of the largest composite structures manufactured anywhere in the UK, and the <strong>caravan and park-home industry</strong> across Hull and the East Riding builds thousands of GRP-bodied units a year — between them employing a workforce that laminates, trims, sands and finishes composite all day. Add the <strong>port</strong> (ferries, containers, project cargo for offshore wind), a substantial <strong>food-processing</strong> base, and the hospitals and care economy of a city of a quarter-million, and Hull's kit list writes itself in four columns.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Kit by industry",
+          "h2": "The Hull kit map",
+          "head": [
+            "Local industry",
+            "The kit that matters",
+            "The spec detail"
+          ],
+          "rows": [
+            [
+              "Blade & composite manufacture",
+              "Type 5/6 disposable coveralls, FFP3, nitrile gloves",
+              "<a href='en-149-ffp-ratings-explained.html'>FFP ratings decoded</a>; <a href='disposable-ppe-guide.html'>disposables done right</a>"
+            ],
+            [
+              "Caravan building & fit-out",
+              "Coveralls, knee protection, dexterity gloves",
+              "Trim work lives on knees — pockets that take pads earn their keep"
+            ],
+            [
+              "Port & ferry operations",
+              "Class 3 hi-vis, waterproof layers",
+              "<a href='class-2-vs-class-3-hi-vis.html'>Class logic</a> plus <a href='reproofing-waterproofs.html'>DWR upkeep</a>"
+            ],
+            [
+              "Food processing",
+              "Hygiene whites, wellingtons, hairnets",
+              "<a href='food-processing-workwear-guide.html'>The audit-driven wardrobe</a>"
+            ],
+            [
+              "Healthcare & care",
+              "Scrubs and tunics on hot-wash rotation",
+              "<a href='laundering-scrubs.html'>The 60 °C routine</a>"
+            ]
+          ]
+        },
+        {
+          "type": "prose",
+          "klabel": "The detail that matters",
+          "h2": "Composite dust writes the spec",
+          "narrow": true,
+          "html": "<p>Sanding cured GRP produces fine, itchy, respirable dust — unpleasant on skin, genuinely harmful in lungs. The working answer is a <strong>type 5/6 disposable coverall</strong> taped at the cuffs, <strong>FFP3 respirators</strong> where extraction can't capture everything, and nitrile gloves under the work gloves for resin days. Two buying rules follow: disposables are consumed by the case, not the garment (see <a href='disposable-vs-reusable-ppe.html'>disposable vs reusable</a>), and respirator spend is wasted without face-fit — a leaking FFP3 protects like an FFP0.</p><p>Everything else in the city is more conventional — but the estuary adds its tax: dockside hi-vis lives in wind-driven rain, so <a href='caring-for-hi-vis.html'>fluorescence and tape condition</a> retire garments here faster than wear does.</p>"
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Supply",
+          "h2": "How we supply Hull",
+          "items": [
+            {
+              "n": "By the case",
+              "l": "Disposable coveralls, FFP3 and nitrile shipped in production quantities"
+            },
+            {
+              "n": "From stock",
+              "l": "Hi-vis, whites and scrubs next-day nationwide"
+            },
+            {
+              "n": "Trade accounts",
+              "l": "Manufacturers and processors on rolling orders"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Hull kit FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What PPE is needed for fibreglass and composite work?",
+          "a": "Type 5/6 disposable coveralls (dust-tight, splash-resistant), an FFP3 respirator for sanding and trimming where extraction doesn't capture everything, nitrile gloves against resins, and eye protection. Coveralls are single-session consumables — re-wearing a dusty one defeats the point."
+        },
+        {
+          "q": "What's the difference between FFP2 and FFP3 for composite dust?",
+          "a": "Filtration efficiency — FFP3 filters the highest proportion of fine particulate and is the usual specification for sanding composite. Either way the mask only performs if it seals: face-fit testing is what turns the rating on the box into protection on the face."
+        },
+        {
+          "q": "Do you supply Hull's caravan manufacturers?",
+          "a": "We supply nationwide from stock, and production-line quantities are the core of the business — coveralls, gloves and disposables by the case, embroidered workwear for the fitted trades, one trade account per firm."
+        }
+      ]
+    },
+    {
+      "slug": "workwear-doncaster",
+      "role": "spoke",
+      "spokeType": "Area guide",
+      "navLabel": "Doncaster",
+      "cardTitle": "Workwear in Doncaster",
+      "cardBlurb": "Rail engineering heritage and giant logistics parks — RIS-3279-TOM orange one side of town, pick-tower kit the other.",
+      "crumbTail": "Doncaster",
+      "kicker": "Area guide · Doncaster",
+      "h1": "Workwear in Doncaster: rail orange and warehouse miles.",
+      "metaTitle": "Workwear in Doncaster: Rail, Logistics & iPort Kit | iNeedWorkwear",
+      "metaDesc": "Workwear for Doncaster — rail-spec RIS-3279-TOM orange for the town's rail engineering cluster, warehouse and cold-chain kit for iPort and the logistics parks, construction and trades.",
+      "lede": "Doncaster has been a railway town since the Flying Scotsman was built here, and it never stopped: rolling-stock engineering, refurbishment and component work still cluster round the works. The other half of the modern town is measured in warehouse miles — some of the UK's largest logistics parks sit off the M18 — and the two halves wear completely different kit.",
+      "heroMeta": [
+        {
+          "n": "Orange",
+          "l": "Rail work is never yellow"
+        },
+        {
+          "n": "6 m+",
+          "l": "Racking heights that set helmet rules"
+        },
+        {
+          "n": "2 economies",
+          "l": "Depot side, shed side"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The local economy",
+          "h2": "What Doncaster actually does",
+          "html": "<p>The <strong>rail cluster</strong> is the heritage that kept working: rolling-stock overhaul, bogie and component engineering, signalling firms and trackwork contractors, with a college training the next generation of rail engineers in the town that built locomotives for a century. The <strong>logistics economy</strong> is the new giant — iPort alone is one of the country's largest rail-connected distribution parks, and the M18/A1(M) corridor is lined with fulfilment and 3PL sheds, many with cold-chain sections. Around both: construction, civils and the trades of a growing town.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Kit by industry",
+          "h2": "The Doncaster kit map",
+          "head": [
+            "Local industry",
+            "The kit that matters",
+            "The spec detail"
+          ],
+          "rows": [
+            [
+              "Rail engineering & trackside",
+              "Orange hi-vis to rail spec",
+              "<span class='code'>RIS-3279-TOM</span> — <a href='rail-spec-workwear-explained.html'>why rail is orange</a>"
+            ],
+            [
+              "Depot & rolling-stock work",
+              "Coveralls, cut gloves, S3 boots",
+              "Depot ≠ trackside — <a href='workwear-for-rail-trackside.html'>where the line sits</a>"
+            ],
+            [
+              "Logistics & fulfilment",
+              "Hi-vis, S1P trainers, layered kit",
+              "<a href='warehouse-logistics-workwear-guide.html'>Kit by zone</a>, dock door to pick tower"
+            ],
+            [
+              "Cold-chain sections",
+              "EN 342 rated jackets and trousers",
+              "<a href='en-342-cold-protection-explained.html'>The cold ratings decoded</a>"
+            ],
+            [
+              "Construction & civils",
+              "Class 2–3 hi-vis, helmets",
+              "<a href='construction-workwear-guide.html'>The site baseline</a>"
+            ]
+          ]
+        },
+        {
+          "type": "prose",
+          "klabel": "The detail that matters",
+          "h2": "One town, two hi-vis colours",
+          "narrow": true,
+          "html": "<p>Doncaster is the clearest place in Yorkshire to see the <strong>orange/yellow split</strong> work in real life. On Network Rail infrastructure the hi-vis is <a href='rail-spec-workwear-explained.html'>rail-spec orange</a> — a deliberate contrast against signalling colours, specified down to the garment standard — while a mile away the logistics parks run yellow, because sheds and yards follow <a href='yellow-vs-orange-hi-vis.html'>the general convention</a>. A contractor moving between both needs both, and mixing them up is the fastest way to fail a rail induction.</p><p>Inside the sheds, the kit question is <strong>zones</strong>: ambient picking, chilled sections, freezer rooms and yard work each carry their own list — the <a href='warehouse-logistics-workwear-guide.html'>logistics guide</a> maps it, and <a href='en-342-cold-protection-explained.html'>EN 342</a> covers the cold end.</p>"
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Supply",
+          "h2": "How we supply Doncaster",
+          "items": [
+            {
+              "n": "Both colours",
+              "l": "Rail-spec orange and standard yellow from the same stock"
+            },
+            {
+              "n": "From stock",
+              "l": "Warehouse and cold-chain kit shipped next-day"
+            },
+            {
+              "n": "Trade accounts",
+              "l": "Rail contractors and 3PLs on one account"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Doncaster kit FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Why do rail workers wear orange instead of yellow?",
+          "a": "UK rail standardised on high-visibility orange (currently specified through RIS-3279-TOM) because it contrasts reliably against railway signalling and the trackside environment. Yellow garments — whatever their EN ISO 20471 class — don't meet the rail requirement, so trackside crews wear orange without exception."
+        },
+        {
+          "q": "What workwear do warehouse workers in Doncaster need?",
+          "a": "By zone: breathable layers and S1P safety trainers for ambient picking, added thermals in chilled areas, EN 342-rated suits for freezer sections, and hi-vis with warmer outer layers for yard and dock-door work. One person can cross all four zones in a shift, which is why layering beats one heavy jacket."
+        },
+        {
+          "q": "Do you supply both rail and warehouse kit?",
+          "a": "Yes — rail-spec orange and conventional yellow hi-vis ship from the same stock, alongside the full warehouse list. Contractors who work both environments typically hold both on one trade account, embroidered to match."
+        }
+      ]
+    },
+    {
+      "slug": "workwear-rotherham",
+      "role": "spoke",
+      "spokeType": "Area guide",
+      "navLabel": "Rotherham",
+      "cardTitle": "Workwear in Rotherham",
+      "cardBlurb": "The advanced-manufacturing corridor — machining coolant, cut gloves and aerospace-grade shop discipline.",
+      "crumbTail": "Rotherham",
+      "kicker": "Area guide · Rotherham",
+      "h1": "Workwear in Rotherham: precision has a dress code.",
+      "metaTitle": "Workwear in Rotherham: Advanced Manufacturing & Engineering Kit | iNeedWorkwear",
+      "metaDesc": "Workwear for Rotherham — machine-shop clothing rules for the advanced manufacturing corridor, cut-rated gloves, coolant and oil care for coveralls, plus construction and logistics kit.",
+      "lede": "Rotherham's borders hold much of the advanced-manufacturing corridor that grew where the pits and steelworks were — aerospace machining, nuclear-grade fabrication, materials research. It's precision work, and precision workshops police clothing harder than most building sites: snug fit near spindles, no rings under gloves, coveralls that oil hasn't claimed yet.",
+      "heroMeta": [
+        {
+          "n": "AMP",
+          "l": "The advanced manufacturing park corridor"
+        },
+        {
+          "n": "Snug-cuff",
+          "l": "The rule near anything that spins"
+        },
+        {
+          "n": "Cut B–D",
+          "l": "Swarf and sheet handling"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The local economy",
+          "h2": "What Rotherham actually makes",
+          "html": "<p>The <strong>Advanced Manufacturing Park</strong> at Waverley — built literally on the site of the Orgreave coking works — anchors a corridor of aerospace machining, nuclear and energy fabrication, materials research and the University of Sheffield's AMRC. Around it: <strong>toolmakers, precision engineers and metal finishers</strong> across the borough's industrial estates, a substantial <strong>construction and civils</strong> trade, and the logistics that the M1/M18 junctions attract. Steel hasn't vanished either — speciality producers and stockholders still work the Don Valley.</p><p>The corridor's kit profile is the machine shop's: engineered fit, managed contamination, and gloves specified by the letter.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Kit by industry",
+          "h2": "The Rotherham kit map",
+          "head": [
+            "Local industry",
+            "The kit that matters",
+            "The spec detail"
+          ],
+          "rows": [
+            [
+              "CNC machining & aerospace",
+              "Snug coveralls or fitted polos/trousers",
+              "No loose cuffs near spindles; some shops ban gloves at the machine — task rules decide"
+            ],
+            [
+              "Fabrication & welding",
+              "Welding FR, leather gauntlets",
+              "<a href='fr-coveralls-for-welders.html'>EN ISO 11611 decoded</a>"
+            ],
+            [
+              "Sheet metal & stockholding",
+              "Cut-rated gloves",
+              "<span class='code'>ISO 13997 B–D</span> — <a href='en-388-glove-ratings-decoder.html'>read the marking</a>"
+            ],
+            [
+              "Construction & civils",
+              "Class 2–3 hi-vis, S3 boots",
+              "<a href='construction-workwear-guide.html'>The baseline</a>"
+            ],
+            [
+              "Logistics",
+              "Hi-vis, S1P trainers",
+              "<a href='warehouse-logistics-workwear-guide.html'>Kit by zone</a>"
+            ]
+          ]
+        },
+        {
+          "type": "prose",
+          "klabel": "The detail that matters",
+          "h2": "Coolant and oil decide when kit retires",
+          "narrow": true,
+          "html": "<p>Machine-shop garments don't wear out — they <strong>saturate</strong>. Cutting coolant and way oil accumulate in coveralls and trousers until washing stops recovering them, and an oil-loaded garment is both unpleasant and a skin-contact issue. Two habits fix it: rotate enough sets that each garment gets washed hot before oil sets (the <a href='oil-grease-out-of-workwear.html'>oil-and-grease routine</a>), and treat visible saturation as retirement, not character.</p><p>The glove question in precision work runs opposite to instinct: near rotating spindles many shops <strong>prohibit</strong> gloves (entanglement beats laceration as the risk), while handling finished sheet and swarf demands <a href='en-388-glove-ratings-decoder.html'>cut level B–D</a>. The task card, not habit, decides — which is exactly how the corridor's aerospace customers audit it.</p>"
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Supply",
+          "h2": "How we supply Rotherham",
+          "items": [
+            {
+              "n": "Rotation packs",
+              "l": "Coverall and trouser multiples so oil never wins"
+            },
+            {
+              "n": "From stock",
+              "l": "Gloves by cut letter, FR and hi-vis next-day"
+            },
+            {
+              "n": "Trade accounts",
+              "l": "Workshops and contractors on one account"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Rotherham kit FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What should machinists wear?",
+          "a": "Close-fitting garments with snug cuffs — coveralls or fitted workwear without loose fabric near rotating tools — plus safety footwear and eye protection. Glove policy is task-specific: cut-rated gloves for handling material and swarf, but many shops prohibit gloves at running machines because entanglement is the greater risk."
+        },
+        {
+          "q": "How do you get machine oil out of workwear?",
+          "a": "Pre-treat with a degreaser the same day, wash at the hottest temperature the label allows, and never tumble-dry a garment that's still marked — heat sets oil permanently. Once a garment stays dark and stiff with oil after proper washing, it's saturated and due for retirement."
+        },
+        {
+          "q": "Do you supply the Advanced Manufacturing Park?",
+          "a": "We supply nationwide from stock next-day, and precision-engineering firms are core customers: fitted workwear in rotation quantities, gloves specified by cut letter, FR for the welding bays, all embroidered and on one trade account."
+        }
+      ]
+    },
+    {
+      "slug": "workwear-scunthorpe",
+      "role": "spoke",
+      "spokeType": "Area guide",
+      "navLabel": "Scunthorpe",
+      "cardTitle": "Workwear in Scunthorpe",
+      "cardBlurb": "An integrated steelworks town — molten-metal FR codes, radiant heat levels, HRO soles and the contractor kit around them.",
+      "crumbTail": "Scunthorpe",
+      "kicker": "Area guide · Scunthorpe",
+      "h1": "Workwear in Scunthorpe: dressed for hot metal.",
+      "metaTitle": "Workwear in Scunthorpe: Steelworks FR & Heavy Industry Kit | iNeedWorkwear",
+      "metaDesc": "Workwear for Scunthorpe — molten-iron code E flame resistance, radiant heat levels and HRO-soled boots for steelworks and contractors, plus the town's engineering, construction and logistics kit.",
+      "lede": "Scunthorpe is one of the last places in Britain where primary steelmaking sets the town's rhythm — and its kit list. Around the works, an ecosystem of contractors, engineers and hauliers dresses to the same hot-metal rules, because the site induction doesn't care whose payroll you're on.",
+      "heroMeta": [
+        {
+          "n": "Code E",
+          "l": "Molten iron splash rating"
+        },
+        {
+          "n": "HRO",
+          "l": "Outsoles for hot surfaces"
+        },
+        {
+          "n": "One site",
+          "l": "Sets the whole town's spec"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The local economy",
+          "h2": "What Scunthorpe actually runs on",
+          "html": "<p>The <strong>steelworks</strong> dominates — one of the UK's last integrated sites, rolling the long products (including rail) the country's infrastructure runs on — and the jobs radiate outward: <strong>mechanical and electrical contractors</strong> permanently embedded on site, refractory specialists, fabricators, industrial cleaners and the haulage moving product out. Beyond the works, North Lincolnshire adds food processing, agriculture and the logistics pull of the nearby Humber ports.</p><p>Kit here divides sharply: hot-metal zones with their own physics, and everything else. The line between them is drawn by the works pass.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Kit by industry",
+          "h2": "The Scunthorpe kit map",
+          "head": [
+            "Local industry",
+            "The kit that matters",
+            "The spec detail"
+          ],
+          "rows": [
+            [
+              "Iron & steelmaking zones",
+              "Molten-metal FR, radiant-heat layers",
+              "<span class='code'>EN ISO 11612 codes D/E</span> — <a href='en-iso-11612-explained.html'>the letters decoded</a>"
+            ],
+            [
+              "Works contractors (M&E, refractory)",
+              "FR coveralls, HRO-soled S3 boots",
+              "<a href='safety-boot-codes-explained.html'>HRO and the boot codes</a>"
+            ],
+            [
+              "Fabrication & maintenance",
+              "Welding kit, heat-rated gloves",
+              "<a href='en-407-heat-gloves-explained.html'>EN 407 decoded</a>"
+            ],
+            [
+              "Steel haulage & logistics",
+              "Hi-vis, cut gloves for load securing",
+              "<a href='en-388-glove-ratings-decoder.html'>Cut letters</a> for strapping and edges"
+            ],
+            [
+              "Food & agriculture",
+              "Hygiene whites, wellingtons",
+              "<a href='food-processing-workwear-guide.html'>The audit wardrobe</a>"
+            ]
+          ]
+        },
+        {
+          "type": "prose",
+          "klabel": "The detail that matters",
+          "h2": "The letters on the FR label are the job",
+          "narrow": true,
+          "html": "<p>Generic FR is certified for flash fire; a steelworks needs the <strong>molten-metal letters</strong>: <a href='en-iso-11612-explained.html'>EN ISO 11612</a> code E for molten iron splash, code D where aluminium is handled, with radiant-heat performance (code C) at meaningful levels for furnace-face work. Fabric matters as much as certification — heavy wool-rich and treated-cotton constructions shed metal splash; thin synthetics, even FR ones, are the wrong tool near a ladle.</p><p>Underfoot, hot surfaces make <strong>HRO outsoles</strong> (heat-resistant to 300 °C contact) part of the boot spec, alongside the S3 baseline — the <a href='safety-boot-codes-explained.html'>boot-code decoder</a> covers where HRO appears on the label. Contractor firms kitting for works shutdowns should read the site's clothing standard first: it's specific, and it's enforced at the gate.</p>"
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Supply",
+          "h2": "How we supply Scunthorpe",
+          "items": [
+            {
+              "n": "Hot-metal FR",
+              "l": "Code D/E garments and HRO footwear from stock"
+            },
+            {
+              "n": "Shutdown scale",
+              "l": "Contractor crews kitted by the size run"
+            },
+            {
+              "n": "Trade accounts",
+              "l": "Embedded contractors on rolling supply"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Scunthorpe kit FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What FR clothing is needed for steelworks?",
+          "a": "EN ISO 11612 garments carrying the molten-metal codes — E for iron, D for aluminium — with radiant-heat (code C) performance for furnace-adjacent work, in fabric weights that actually shed splash. Standard flash-fire FR without the letters doesn't meet a hot-metal zone's requirement."
+        },
+        {
+          "q": "What does HRO mean on safety boots?",
+          "a": "Heat-resistant outsole — tested for contact with surfaces at 300 °C for one minute. It appears alongside the main safety class (commonly S3 HRO) and matters anywhere floors, slag or fresh product run hot underfoot."
+        },
+        {
+          "q": "Can you kit out contractor crews for the works?",
+          "a": "Yes — nationwide from stock, with molten-metal FR, HRO-soled boots and heat gloves supplied by the size run and embroidered per firm. Send the site clothing standard and the crew list; matching kit to an induction document is the everyday job."
+        }
+      ]
+    },
+    {
+      "slug": "workwear-immingham",
+      "role": "spoke",
+      "spokeType": "Area guide",
+      "navLabel": "Immingham",
+      "cardTitle": "Workwear in Immingham",
+      "cardBlurb": "Britain's biggest port by tonnage, ringed by refineries — FR-plus-antistatic contractor kit and all-weather dock hi-vis.",
+      "crumbTail": "Immingham",
+      "kicker": "Area guide · Immingham",
+      "h1": "Workwear in Immingham: tonnage and turnarounds.",
+      "metaTitle": "Workwear in Immingham: Port, Refinery & COMAH Kit | iNeedWorkwear",
+      "metaDesc": "Workwear for Immingham — refinery contractor kit combining FR, antistatic and chemical splash ratings, all-weather Class 3 hi-vis for the UK's biggest port by tonnage, bulk handling and haulage.",
+      "lede": "Immingham moves more tonnage than any other UK port, and much of it burns: fuels, biomass, bulk chemicals. Between the quaysides and the two refineries next door, most serious work here happens under permit systems where the clothing spec reads like a standards index — FR, antistatic and splash protection on one label.",
+      "heroMeta": [
+        {
+          "n": "No. 1",
+          "l": "UK port by tonnage"
+        },
+        {
+          "n": "3 ratings",
+          "l": "FR + antistatic + splash, one garment"
+        },
+        {
+          "n": "Class 3",
+          "l": "Dock roads don't slow down"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The local economy",
+          "h2": "What Immingham actually handles",
+          "html": "<p>The port is a <strong>bulk-cargo giant</strong> — fuels, biomass for power generation, ores, containers and ro-ro traffic — worked around the clock by stevedores, crane crews and hauliers. Immediately inland sit two of Britain's major <strong>oil refineries</strong> and their tank farms, surrounded by the contractor ecosystem every COMAH cluster grows: scaffolding, mechanical, electrical, inspection and industrial cleaning firms whose staff badge through refinery gates daily. Add chemical works, gas terminals and the wind-farm traffic sharing the Humber, and practically every employer in town answers to a permit system.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Kit by industry",
+          "h2": "The Immingham kit map",
+          "head": [
+            "Local industry",
+            "The kit that matters",
+            "The spec detail"
+          ],
+          "rows": [
+            [
+              "Refinery & tank farm contractors",
+              "FR with antistatic and splash ratings",
+              "<span class='code'>EN ISO 11612 + EN 1149-5 + EN 13034</span> — <a href='en-1149-5-antistatic-explained.html'>the antistatic layer</a>"
+            ],
+            [
+              "Turnaround & industrial cleaning",
+              "Disposable chem suits, FFP respirators",
+              "<a href='disposable-ppe-guide.html'>Case quantities, done right</a>"
+            ],
+            [
+              "Stevedoring & bulk handling",
+              "Class 3 hi-vis, all-weather layers",
+              "<a href='class-2-vs-class-3-hi-vis.html'>Why the top class</a> on dock roads"
+            ],
+            [
+              "Crane & plant operation",
+              "Fitted kit, grip gloves, S3 boots",
+              "<a href='safety-boot-codes-explained.html'>The boot codes</a>"
+            ],
+            [
+              "Haulage & tanker driving",
+              "Hi-vis, FR where sites require it",
+              "Site rules follow the load — check the delivery point's standard"
+            ]
+          ]
+        },
+        {
+          "type": "prose",
+          "klabel": "The detail that matters",
+          "h2": "Multi-standard garments are the local default",
+          "narrow": true,
+          "html": "<p>Refinery kit can't single-task. A contractor's coverall here typically carries <strong>three certifications at once</strong>: flame resistance (<a href='en-iso-11612-explained.html'>EN ISO 11612</a>) because hydrocarbons make fire ambient, <strong>antistatic</strong> performance (<a href='en-1149-5-antistatic-explained.html'>EN 1149-5</a>) because a spark is an ignition source in a vapour zone, and <strong>chemical splash</strong> (<a href='en-13034-chem-splash-explained.html'>EN 13034</a>) for the product itself. Multi-norm garments exist precisely for this market — buying three separate garments gets the layering wrong and the gate check failed.</p><p>The port side is simpler but harsher: <strong>Class 3 hi-vis</strong> as the default (dock internal roads carry fast, heavy traffic day and night) in construction that survives Humber weather — where <a href='caring-for-hi-vis.html'>fading, not tearing</a>, is what retires a garment.</p>"
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Supply",
+          "h2": "How we supply Immingham",
+          "items": [
+            {
+              "n": "Multi-norm FR",
+              "l": "Triple-certified garments from stock"
+            },
+            {
+              "n": "Turnaround-ready",
+              "l": "Disposables and respirators by the case"
+            },
+            {
+              "n": "Trade accounts",
+              "l": "Contractor firms and hauliers on one account"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Immingham kit FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What workwear do refinery contractors need?",
+          "a": "Multi-norm garments combining flame resistance (EN ISO 11612), antistatic performance (EN 1149-5) and chemical splash protection (EN 13034), plus the site's helmet, eyewear, glove and S3 boot requirements. Each refinery publishes its own clothing standard — read it before ordering, because gate checks are label checks."
+        },
+        {
+          "q": "Why does antistatic clothing matter at fuel terminals?",
+          "a": "In flammable vapour atmospheres, a static discharge from clothing is a credible ignition source. EN 1149-5 garments dissipate charge instead of accumulating it, worn as part of an earthed system with appropriate footwear — which is why the rating appears on refinery and terminal clothing standards alongside FR."
+        },
+        {
+          "q": "What hi-vis do port workers at Immingham wear?",
+          "a": "Class 3 as the working default — the port's internal roads move heavy vehicles continuously and shifts run around the clock in estuary weather. Buy on construction quality and keep an eye on fluorescence: washed-out hi-vis quietly stops meeting the class its label claims."
+        }
+      ]
+    },
+    {
+      "slug": "workwear-telford",
+      "role": "spoke",
+      "spokeType": "Area guide",
+      "navLabel": "Telford",
+      "cardTitle": "Workwear in Telford",
+      "cardBlurb": "Polymers, injection moulding and light engineering — EN 407 heat gloves at the press, fitted kit at the line.",
+      "crumbTail": "Telford",
+      "kicker": "Area guide · Telford",
+      "h1": "Workwear in Telford: the plastics town's kit list.",
+      "metaTitle": "Workwear in Telford: Plastics, Engineering & Distribution Kit | iNeedWorkwear",
+      "metaDesc": "Workwear for Telford — heat-rated gloves and fitted kit for injection moulding and polymer processing, light-engineering workwear, distribution-park hi-vis and the trades of a new town.",
+      "lede": "Telford grew as a manufacturing new town and still earns like one: one of the UK's denser concentrations of plastics and polymer processing, a broad light-engineering base, and distribution parks feeding the M54. Its signature hazard is quieter than steel or chemicals — hot tools, hot mouldings, repetitive handling — and the kit list follows.",
+      "heroMeta": [
+        {
+          "n": "EN 407",
+          "l": "The heat-glove standard at every press"
+        },
+        {
+          "n": "250 °C+",
+          "l": "What a fresh moulding can hold"
+        },
+        {
+          "n": "New town",
+          "l": "Estates full of mixed manufacturing"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The local economy",
+          "h2": "What Telford actually makes",
+          "html": "<p>The industrial estates threaded through the new town — Halesfield, Stafford Park, Hortonwood — hold an unusual density of <strong>plastics processors</strong>: injection moulders, extruders, blow moulders and the toolrooms serving them, feeding automotive, medical and consumer supply chains. Around them sits <strong>light engineering</strong> of every flavour, packaging plants, and the <strong>distribution sheds</strong> the M54 attracts. It's a many-small-employers economy rather than a one-big-works one, which shapes how kit gets bought: dozens of teams of five to fifty, each needing the same short list done properly.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Kit by industry",
+          "h2": "The Telford kit map",
+          "head": [
+            "Local industry",
+            "The kit that matters",
+            "The spec detail"
+          ],
+          "rows": [
+            [
+              "Injection moulding & extrusion",
+              "Heat-rated gloves, fitted polos/trousers",
+              "<span class='code'>EN 407</span> — <a href='en-407-heat-gloves-explained.html'>contact-heat levels decoded</a>"
+            ],
+            [
+              "Toolrooms & light engineering",
+              "Snug kit, cut gloves for sheet and swarf",
+              "<a href='en-388-glove-ratings-decoder.html'>EN 388 by the letter</a>"
+            ],
+            [
+              "Packaging & assembly",
+              "Comfortable rotation kit, S1P trainers",
+              "Standing work — <a href='safety-boot-codes-explained.html'>the codes</a> favour cushioned S1P"
+            ],
+            [
+              "Distribution",
+              "Hi-vis, layered dock-door kit",
+              "<a href='warehouse-logistics-workwear-guide.html'>Kit by zone</a>"
+            ],
+            [
+              "Trades & construction",
+              "Class 2 hi-vis, helmets, S3 boots",
+              "<a href='construction-workwear-guide.html'>The baseline</a>"
+            ]
+          ]
+        },
+        {
+          "type": "prose",
+          "klabel": "The detail that matters",
+          "h2": "Contact heat is a glove letter, not a guess",
+          "narrow": true,
+          "html": "<p>A moulding out of the tool, a hot runner, a die that needs changing — plastics work is a procession of objects at temperatures the hand can't assess in time. <a href='en-407-heat-gloves-explained.html'>EN 407</a> grades <strong>contact heat</strong> in levels (level 2 = 250 °C contact), and the right buy for press work is usually a dexterity glove with a genuine contact-heat level rather than a bulky gauntlet nobody keeps on. The classic failure is the opposite habit: bare hands because the gauntlets were clumsy, then a burn that was entirely predictable.</p><p>The other Telford constant is <strong>rotation buying for mixed small teams</strong> — five machine operators, two toolmakers, a driver — where one order covers three job types. That's less about any single standard and more about a supplier who can hold the list straight per employee; it's what <a href='uniform-quantity-calculator.html'>the quantity calculator</a> and a trade account are for.</p>"
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Supply",
+          "h2": "How we supply Telford",
+          "items": [
+            {
+              "n": "Mixed-team orders",
+              "l": "Press, toolroom and office kit on one order"
+            },
+            {
+              "n": "From stock",
+              "l": "EN 407 gloves and fitted workwear next-day"
+            },
+            {
+              "n": "Trade accounts",
+              "l": "Estate businesses reorder without re-quoting"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Telford kit FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What gloves are needed for injection moulding?",
+          "a": "Gloves with a genuine EN 407 contact-heat level — level 2 covers 250 °C contact, which spans most fresh mouldings and tooling — in a dexterity-first construction people actually keep on. Cut resistance matters at trimming stations; the EN 388 marking covers that side."
+        },
+        {
+          "q": "What should machine operators wear in a plastics factory?",
+          "a": "Fitted, snag-free workwear (polos and work trousers rather than loose overalls near moving machinery), S1P safety trainers for all-shift standing, heat-rated gloves at the press and eye protection where sprue and trimming fly. Individual factories tune the list — the fit principle is universal."
+        },
+        {
+          "q": "Can small Telford firms get trade pricing?",
+          "a": "Yes — trade accounts aren't gated by headcount. A ten-person moulder ordering polos, trousers, gloves and boots gets the same account treatment as a distribution shed: one list, embroidered, reordered in two clicks."
+        }
+      ]
+    },
+    {
+      "slug": "workwear-coventry",
+      "role": "spoke",
+      "spokeType": "Area guide",
+      "navLabel": "Coventry",
+      "cardTitle": "Workwear in Coventry",
+      "cardBlurb": "Automotive R&D and the EV transition — arc-flash ratings arriving in car workshops, plus the logistics belt.",
+      "crumbTail": "Coventry",
+      "kicker": "Area guide · Coventry",
+      "h1": "Workwear in Coventry: the EV transition, dressed.",
+      "metaTitle": "Workwear in Coventry: Automotive, EV & Battery Kit | iNeedWorkwear",
+      "metaDesc": "Workwear for Coventry — arc-flash rated kit arriving with high-voltage EV work, battery-line ESD garments, automotive R&D workshop kit and the city's logistics and construction lists.",
+      "lede": "Coventry has rebuilt itself around what comes after the engine: EV development, battery research and the R&D arms of half the motor industry. The quiet consequence for workwear is voltage — high-voltage packs are turning garages and test shops into places where arc-flash ratings, once a substation concern, appear on the clothing list.",
+      "heroMeta": [
+        {
+          "n": "800 V",
+          "l": "Pack voltages in modern EVs"
+        },
+        {
+          "n": "IEC 61482",
+          "l": "The arc rating now in garages"
+        },
+        {
+          "n": "R&D dense",
+          "l": "Prototype shops everywhere"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The local economy",
+          "h2": "What Coventry actually works on",
+          "html": "<p>The badge factories mostly left; the <strong>engineering brains stayed</strong>. Coventry and its ring hold vehicle R&D centres, the UK Battery Industrialisation Centre, EV startups, taxi manufacture and a dense supply chain of prototype, test and niche-vehicle shops. Around that: <strong>logistics parks</strong> on every motorway junction, two universities' worth of estates and construction, and the everyday trades of a big city.</p><p>The kit story is transition: the mechanical wardrobe (coveralls, boots, nitrile) meeting the electrical one (arc ratings, insulating gloves, ESD) inside the same workshop — often on the same task card.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Kit by industry",
+          "h2": "The Coventry kit map",
+          "head": [
+            "Local industry",
+            "The kit that matters",
+            "The spec detail"
+          ],
+          "rows": [
+            [
+              "EV & battery workshops",
+              "Arc-rated garments for HV tasks",
+              "<span class='code'>IEC 61482</span> — <a href='iec-61482-arc-flash-explained.html'>arc flash decoded</a>"
+            ],
+            [
+              "Battery lines & labs",
+              "ESD garments and footwear where zoned",
+              "<a href='en-1149-5-antistatic-explained.html'>EN 1149-5 explained</a>"
+            ],
+            [
+              "Vehicle R&D & prototype shops",
+              "Fitted workwear, no-scratch fastenings",
+              "Paint-safe rules — covered zips, no exposed studs"
+            ],
+            [
+              "Logistics belt",
+              "Hi-vis, S1P trainers, layered kit",
+              "<a href='warehouse-logistics-workwear-guide.html'>Kit by zone</a>"
+            ],
+            [
+              "Construction & fit-out",
+              "Class 2 hi-vis, helmets, S3 boots",
+              "<a href='construction-workwear-guide.html'>The baseline</a>"
+            ]
+          ]
+        },
+        {
+          "type": "prose",
+          "klabel": "The detail that matters",
+          "h2": "When the garage inherits the substation's standard",
+          "narrow": true,
+          "html": "<p>A high-voltage battery pack can deliver an arc fault, and an arc fault burns through ordinary workwear in milliseconds — which is why serious EV workshops now specify <a href='iec-61482-arc-flash-explained.html'>IEC 61482 arc-rated</a> garments for live or potentially-live HV tasks, alongside the insulating gloves and face protection the electrical trade has always known. The practical shape: mechanics keep their everyday fitted workwear, and the HV-authorised technicians hold an arc-rated layer for the tasks their authorisation covers.</p><p>It pairs with the opposite discipline on battery <em>production</em> and lab work: <a href='en-1149-5-antistatic-explained.html'>static-dissipative</a> kit to protect the cells, not the wearer. Same building, two electrical dress codes — the task card tells you which applies.</p>"
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Supply",
+          "h2": "How we supply Coventry",
+          "items": [
+            {
+              "n": "Both wardrobes",
+              "l": "Arc-rated and ESD kit from the same stock"
+            },
+            {
+              "n": "From stock",
+              "l": "Workshop, logistics and site kit next-day"
+            },
+            {
+              "n": "Trade accounts",
+              "l": "R&D firms and garages on one account"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Coventry kit FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Do EV mechanics need arc-flash clothing?",
+          "a": "For high-voltage tasks, increasingly yes — workshops working on live or potentially-live HV systems specify IEC 61482 arc-rated garments for authorised technicians, with insulating gloves and face protection per the task. Routine mechanical work on an isolated vehicle stays in ordinary workwear; the HV authorisation boundary is where the wardrobe changes."
+        },
+        {
+          "q": "What's the difference between arc-rated and antistatic clothing?",
+          "a": "Direction of protection. Arc-rated (IEC 61482) protects the wearer from the energy of an electrical arc. Antistatic (EN 1149-5) protects the environment from the wearer, dissipating static that could ignite vapour or damage sensitive electronics. EV work can demand either — task and zone decide."
+        },
+        {
+          "q": "Do you supply Coventry's automotive companies?",
+          "a": "Nationwide from stock, next-day — R&D shops, garages and their logistics neighbours order fitted workwear, arc-rated layers, ESD kit and hi-vis through one trade account, embroidered before dispatch."
+        }
+      ]
+    },
+    {
+      "slug": "workwear-solihull",
+      "role": "spoke",
+      "spokeType": "Area guide",
+      "navLabel": "Solihull",
+      "cardTitle": "Workwear in Solihull",
+      "cardBlurb": "A premium car plant, the NEC and the airport economy — paint-safe line kit and front-of-house uniform in one borough.",
+      "crumbTail": "Solihull",
+      "kicker": "Area guide · Solihull",
+      "h1": "Workwear in Solihull: line discipline meets front of house.",
+      "metaTitle": "Workwear in Solihull: Automotive, NEC & Airport Kit | iNeedWorkwear",
+      "metaDesc": "Workwear for Solihull — paint-safe assembly kit for premium vehicle manufacture, events and venue uniforms for the NEC economy, airport-adjacent logistics and the borough's trades.",
+      "lede": "Solihull's economy runs on two dress codes that couldn't be less alike: the paint-safe, snag-free discipline of a premium vehicle plant, and the polished front-of-house presentation of the NEC, the airport and the hotels between them. Same borough, opposite wardrobes — both bought by the hundred.",
+      "heroMeta": [
+        {
+          "n": "Paint-safe",
+          "l": "Nothing that scratches a body panel"
+        },
+        {
+          "n": "FOH",
+          "l": "Uniform bought as brand"
+        },
+        {
+          "n": "Event scale",
+          "l": "Venues staff up by the hundred"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The local economy",
+          "h2": "What Solihull actually runs on",
+          "html": "<p>The <strong>Lode Lane vehicle plant</strong> has built premium 4x4s for generations and anchors thousands of manufacturing and supply-chain jobs. To the north, the <strong>NEC, Birmingham Airport and Birmingham International</strong> form one of the UK's busiest event-and-travel clusters — exhibition build crews, venue staff, hotel and hospitality teams, ground handling and car-park operations. In between: business parks (including major HQ campuses), logistics serving the M42, and the domestic trades of a prosperous borough.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Kit by industry",
+          "h2": "The Solihull kit map",
+          "head": [
+            "Local sector",
+            "The kit that matters",
+            "The spec detail"
+          ],
+          "rows": [
+            [
+              "Vehicle assembly & trim",
+              "Covered-fastening fitted kit, S1P trainers",
+              "Paint-safe rules; elastane for the crouch-and-reach shifts"
+            ],
+            [
+              "Exhibition build & rigging",
+              "Hi-vis, helmets, S3 boots — venue rules",
+              "<a href='en-397-helmets-explained.html'>EN 397</a> during build/breakdown days"
+            ],
+            [
+              "Venue, hotel & FOH teams",
+              "Embroidered uniform, FOH tailoring",
+              "<a href='front-of-house-uniform-guide.html'>The FOH buying guide</a>"
+            ],
+            [
+              "Airport-adjacent logistics",
+              "Metal-free footwear where screened",
+              "<a href='composite-vs-steel-toe-caps.html'>Why composite</a>"
+            ],
+            [
+              "Grounds & facilities",
+              "Softshells, waterproofs, gloves",
+              "<a href='choosing-work-jackets.html'>The jacket families</a>"
+            ]
+          ]
+        },
+        {
+          "type": "prose",
+          "klabel": "The detail that matters",
+          "h2": "Event build days flip the venue's dress code",
+          "narrow": true,
+          "html": "<p>An exhibition hall is two workplaces on a cycle. During <strong>build and breakdown</strong> it's a construction site — hi-vis, helmets where overhead work runs, S3 boots, all checked by venue traffic marshals. During <strong>show days</strong> the same floor is front-of-house: embroidered polos and tailored uniform, presentation rules, comfort for twelve-hour standing shifts. Crews and agencies that work the circuit hold both wardrobes, and the smart ones brand both the same way so staff stay recognisable across the flip.</p><p>The plant side of the borough follows the automotive rule set — <strong>covered fastenings, no loose cords, nothing abrasive</strong> — for the same reason as everywhere volume vehicles are built: the garment must not be able to scratch what it leans over. Premium paintwork just raises the stakes.</p>"
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Supply",
+          "h2": "How we supply Solihull",
+          "items": [
+            {
+              "n": "Two wardrobes",
+              "l": "Site kit and FOH uniform from one supplier"
+            },
+            {
+              "n": "Event deadlines",
+              "l": "Embroidered orders planned to show dates"
+            },
+            {
+              "n": "Trade accounts",
+              "l": "Agencies and venues reorder per event"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Solihull kit FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What do exhibition and event crews wear?",
+          "a": "Two kits: construction-grade hi-vis, helmets and safety boots for build and breakdown days (venues enforce this like any site), then presentation uniform — embroidered polos, tailoring — for show days. Agencies typically brand both so staff read as one team across the cycle."
+        },
+        {
+          "q": "What workwear suits car assembly lines?",
+          "a": "Fitted garments with covered fastenings and no loose cords — nothing that can scratch paintwork or catch on the track — with cushioned S1P trainers for concrete-floor shifts. Premium plants are strict about it; the induction pack lists the rules garment by garment."
+        },
+        {
+          "q": "Can you dress hotel and venue staff too?",
+          "a": "Yes — front-of-house tailoring, blouses, polos and aprons with embroidery before dispatch, alongside the back-of-house and grounds kit. One account covers a venue's whole staffing spread; the FOH buying guide covers the fabric choices that survive shift work."
+        }
+      ]
+    },
+    {
+      "slug": "workwear-derby",
+      "role": "spoke",
+      "spokeType": "Area guide",
+      "navLabel": "Derby",
+      "cardTitle": "Workwear in Derby",
+      "cardBlurb": "Aero engines and trains — FOD discipline, pocket rules and the engineering-city kit list.",
+      "crumbTail": "Derby",
+      "kicker": "Area guide · Derby",
+      "h1": "Workwear in Derby: FOD-conscious by habit.",
+      "metaTitle": "Workwear in Derby: Aerospace, Rail & Engineering Kit | iNeedWorkwear",
+      "metaDesc": "Workwear for Derby — FOD-control clothing discipline for aero-engine work, rail manufacturing and depot kit, rail-spec orange for trackside, and the supply chain of Britain's engineering city.",
+      "lede": "Derby makes the two most unforgiving machines in Britain — jet engines and trains — and both industries police clothing in ways the rest of the economy never thinks about. The theme is FOD: foreign object debris. In a workshop where a dropped button can ground an engine, the wardrobe itself is part of quality control.",
+      "heroMeta": [
+        {
+          "n": "FOD",
+          "l": "A dropped item is a defect"
+        },
+        {
+          "n": "Zipped",
+          "l": "Pockets that can't shed contents"
+        },
+        {
+          "n": "Orange",
+          "l": "For the rail side of town"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The local economy",
+          "h2": "What Derby actually builds",
+          "html": "<p>Derby holds the UK's largest concentration of engineering employment: <strong>aero-engine design, assembly and test</strong> at one end of town, <strong>train manufacture and refurbishment</strong> at Litchurch Lane — one of the oldest rolling-stock works on earth and still building — plus nuclear engineering, and the hundreds of precision suppliers those primes sustain. Add the depots and trackwork of a national rail hub and the logistics along the A38/A50, and almost everything Derby wears to work answers to an engineering quality system.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Kit by industry",
+          "h2": "The Derby kit map",
+          "head": [
+            "Local industry",
+            "The kit that matters",
+            "The spec detail"
+          ],
+          "rows": [
+            [
+              "Aero-engine assembly & test",
+              "FOD-conscious fitted kit, zipped pockets",
+              "Button-free, sealed-pocket designs; lanyarded glasses"
+            ],
+            [
+              "Train building & refurbishment",
+              "Coveralls, cut gloves, knee protection",
+              "<a href='en-388-glove-ratings-decoder.html'>Cut letters</a> for panel and glazing work"
+            ],
+            [
+              "Rail depots & trackside",
+              "Depot kit / rail-spec orange beyond the gate",
+              "<a href='rail-spec-workwear-explained.html'>RIS-3279-TOM decoded</a>"
+            ],
+            [
+              "Precision supply chain",
+              "Snug machine-shop kit, S1P footwear",
+              "<a href='oil-grease-out-of-workwear.html'>Coolant-day laundry</a>"
+            ],
+            [
+              "Construction & logistics",
+              "Hi-vis, helmets, layered kit",
+              "<a href='warehouse-logistics-workwear-guide.html'>Kit by zone</a>"
+            ]
+          ]
+        },
+        {
+          "type": "prose",
+          "klabel": "The detail that matters",
+          "h2": "FOD control reaches the clothing label",
+          "narrow": true,
+          "html": "<p>Aerospace shops run <strong>foreign-object-debris programmes</strong> that treat everything a worker carries as a potential engine ingestion: pockets are zipped or sewn shut, buttons give way to covered press-studs or nothing, badges are captive, glasses are lanyarded, and some areas count tools <em>and</em> pens in and out. Workwear for these environments is bought to the programme — garments designed not to shed, snag or carry — and a generic cargo trouser with six open pockets is exactly what the audit exists to remove.</p><p>The rail side of the city splits by the fence line: <strong>inside the works</strong>, it's manufacturing kit (coveralls, cut gloves for glazing and panel edges, knee protection for underframe work); <strong>beyond the depot gate</strong> onto running infrastructure, the wardrobe changes to <a href='rail-spec-workwear-explained.html'>rail-spec orange</a> with the track-induction rules our <a href='workwear-for-rail-trackside.html'>trackside guide</a> walks through.</p>"
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Supply",
+          "h2": "How we supply Derby",
+          "items": [
+            {
+              "n": "FOD-aware kit",
+              "l": "Sealed-pocket and button-free options from stock"
+            },
+            {
+              "n": "Both railways",
+              "l": "Works kit and trackside orange on one order"
+            },
+            {
+              "n": "Trade accounts",
+              "l": "Primes' suppliers kit whole shops at once"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Derby kit FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What is FOD-conscious workwear?",
+          "a": "Clothing designed for foreign-object-debris control: zipped or sealed pockets that can't shed contents, no loose buttons, captive badge holders and snag-free construction. Aerospace and some rail environments specify it because anything a garment drops can become a critical defect inside an engine or vehicle."
+        },
+        {
+          "q": "What do train builders wear?",
+          "a": "Inside the works: coveralls or fitted two-piece kit, cut-rated gloves for panel and glazing edges, knee protection for underframe tasks and S3 boots. The wardrobe changes at the depot gate — work on running infrastructure means rail-spec orange hi-vis and the trackside rule set."
+        },
+        {
+          "q": "Do you supply Derby's engineering supply chain?",
+          "a": "Nationwide from stock next-day — including sealed-pocket FOD-aware garments, machine-shop kit in rotation quantities and rail orange. Supplier firms typically standardise one list per shop and reorder through a trade account as heads change."
+        }
+      ]
+    },
+    {
+      "slug": "workwear-leicester",
+      "role": "spoke",
+      "spokeType": "Area guide",
+      "navLabel": "Leicester",
+      "cardTitle": "Workwear in Leicester",
+      "cardBlurb": "Food factories, textiles and the golden-triangle sheds — hygiene whites, colour-coding and warehouse layers.",
+      "crumbTail": "Leicester",
+      "kicker": "Area guide · Leicester",
+      "h1": "Workwear in Leicester: audit whites and warehouse miles.",
+      "metaTitle": "Workwear in Leicester: Food Processing, Textiles & Logistics Kit | iNeedWorkwear",
+      "metaDesc": "Workwear for Leicester — hygiene whites and colour-coded kit for one of the UK's biggest food-manufacturing bases, textile-trade workwear, and hi-vis for the golden-triangle logistics belt.",
+      "lede": "Leicester feeds the nation more than it lets on: crisps, ready meals, bakery, dairy and everything cold-chain, produced at industrial scale across the city and county. Around the food plants sit the golden-triangle logistics sheds and the remains of a textile trade that still cuts and sews. Most of the city's workwear is specified by an auditor.",
+      "heroMeta": [
+        {
+          "n": "BRCGS",
+          "l": "The audit that writes the wardrobe"
+        },
+        {
+          "n": "Colour-coded",
+          "l": "Zones told apart by garment"
+        },
+        {
+          "n": "Triangle",
+          "l": "The UK's logistics heartland"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The local economy",
+          "h2": "What Leicester actually produces",
+          "html": "<p><strong>Food manufacture</strong> is the giant: some of Europe's largest snack and ready-meal operations, bakeries, dairies and meat processors run across Leicester and the county, nearly all certificated to retailer standards (BRCGS and customer codes) that dictate clothing down to the pocket. The <strong>logistics belt</strong> — Leicester sits at the top of the golden triangle, with major parks at every M1/M69 junction — moves what the plants make. And the <strong>textile and garment trade</strong>, smaller than its heyday but real, still cuts, sews and finishes across the inner city's workshops.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Kit by industry",
+          "h2": "The Leicester kit map",
+          "head": [
+            "Local industry",
+            "The kit that matters",
+            "The spec detail"
+          ],
+          "rows": [
+            [
+              "Food manufacture",
+              "Hygiene whites, snoods, wellingtons",
+              "<a href='food-processing-workwear-guide.html'>The audit wardrobe</a> — pocket and stud rules included"
+            ],
+            [
+              "High-care / high-risk zones",
+              "Colour-coded garments per zone",
+              "Zone colours stop cross-contamination at a glance"
+            ],
+            [
+              "Cold chain & chilled sheds",
+              "EN 342 layers, lined gloves",
+              "<a href='en-342-cold-protection-explained.html'>Cold ratings decoded</a>"
+            ],
+            [
+              "Logistics parks",
+              "Hi-vis, S1P trainers",
+              "<a href='warehouse-logistics-workwear-guide.html'>Kit by zone</a>"
+            ],
+            [
+              "Textile workshops",
+              "Comfortable rotation kit, scissors-safe aprons",
+              "Fit and laundering beat any exotic spec here"
+            ]
+          ]
+        },
+        {
+          "type": "prose",
+          "klabel": "The detail that matters",
+          "h2": "Colour-coding is the audit made visible",
+          "narrow": true,
+          "html": "<p>Walk a certificated food plant and the workforce is a map: <strong>one garment colour for low-risk, another for high-care</strong>, sometimes a third for hygiene teams — so a person in the wrong zone is visible across the floor before they touch anything. The garments themselves follow the same logic as the layout: no external pockets above the waist, press-studs not buttons, no exposed personal clothing, laundering managed (in high-care, usually by the company or its laundry, never at home). Our <a href='food-processing-workwear-guide.html'>food processing guide</a> walks the whole rule set.</p><p>Buying implication: food-plant kit is a <strong>rotation purchase in multiple colourways</strong> — the same tunic bought three ways, sized per person, replaced on condition. It rewards a supplier who holds the matrix straight, which is precisely the job a trade account exists to do.</p>"
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Supply",
+          "h2": "How we supply Leicester",
+          "items": [
+            {
+              "n": "Colour matrices",
+              "l": "Multi-zone garment programmes managed per plant"
+            },
+            {
+              "n": "From stock",
+              "l": "Whites, cold-chain and hi-vis next-day"
+            },
+            {
+              "n": "Trade accounts",
+              "l": "Plants and 3PLs on rolling orders"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Leicester kit FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Why do food factory workers wear different coloured uniforms?",
+          "a": "Colour-coding makes hygiene zones visible: low-risk, high-care and hygiene/cleaning teams each wear a distinct colour so anyone in the wrong area stands out immediately. It's a standard control under retailer certification schemes, and it turns the clothing order into a per-zone matrix."
+        },
+        {
+          "q": "What are the clothing rules in a BRCGS-certificated plant?",
+          "a": "Typically: company-provided garments with no external pockets above the waist, press-stud closures, hair and beard coverage, no exposed personal clothing or jewellery, dedicated footwear, and managed laundering — home washing is usually barred in high-care. The site's own hygiene policy is the final word; the pattern is consistent industry-wide."
+        },
+        {
+          "q": "Do you supply Leicester's logistics parks as well?",
+          "a": "Yes — the golden-triangle list (hi-vis, S1P trainers, layered kit for ambient-to-chilled work) ships from the same stock as the food-plant programmes, nationwide next-day on one trade account."
+        }
+      ]
+    },
+    {
+      "slug": "workwear-northampton",
+      "role": "spoke",
+      "spokeType": "Area guide",
+      "navLabel": "Northampton",
+      "cardTitle": "Workwear in Northampton",
+      "cardBlurb": "Shoemaking heritage, engineering and wall-to-wall distribution — craft-bench kit and the big-shed wardrobe.",
+      "crumbTail": "Northampton",
+      "kicker": "Area guide · Northampton",
+      "h1": "Workwear in Northampton: from last to loading bay.",
+      "metaTitle": "Workwear in Northampton: Footwear Trade, Engineering & Logistics Kit | iNeedWorkwear",
+      "metaDesc": "Workwear for Northampton — bench kit and aprons for the town's working shoemakers, engineering workwear, and the hi-vis, trainers and layers of the M1 distribution economy.",
+      "lede": "Northampton still makes some of the world's finest shoes — working factories, not museums — while the fields around the M1 filled with some of Britain's biggest distribution sheds. A town that cuts leather by hand in the morning and moves a million parcels by night needs two very different kit lists, and no one else's guide covers the first one.",
+      "heroMeta": [
+        {
+          "n": "Since 1800s",
+          "l": "Working shoe factories, still cutting"
+        },
+        {
+          "n": "M1 J15–16",
+          "l": "The distribution corridor"
+        },
+        {
+          "n": "2 trades",
+          "l": "Bench craft and big sheds"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The local economy",
+          "h2": "What Northampton actually does",
+          "html": "<p>The <strong>welted-shoe trade</strong> survives here at genuine scale for a craft industry: clicking (cutting), closing, lasting and finishing rooms where knives, presses and solvents are daily tools. Around it, <strong>engineering and manufacture</strong> — lifts, automotive components, print — and above all <strong>distribution</strong>: the M1 corridor through Northamptonshire carries one of the densest concentrations of warehousing in Europe, from parcel hubs to fashion fulfilment. County-town services, construction and a large healthcare base round out the wardrobe.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Kit by industry",
+          "h2": "The Northampton kit map",
+          "head": [
+            "Local industry",
+            "The kit that matters",
+            "The spec detail"
+          ],
+          "rows": [
+            [
+              "Shoe factories — clicking & bench work",
+              "Aprons, cut-resistant gloves for knife work",
+              "<a href='en-388-glove-ratings-decoder.html'>Cut letters</a> — blade work wants level C thinking"
+            ],
+            [
+              "Finishing & solvent areas",
+              "Nitrile gloves, FFP where extraction is local",
+              "<a href='en-149-ffp-ratings-explained.html'>FFP ratings</a> for adhesive vapour zones"
+            ],
+            [
+              "Engineering & components",
+              "Fitted kit, S1P footwear",
+              "<a href='oil-grease-out-of-workwear.html'>Oil-day laundering</a>"
+            ],
+            [
+              "Distribution & parcel hubs",
+              "Hi-vis, cushioned S1P trainers, layers",
+              "<a href='warehouse-logistics-workwear-guide.html'>Kit by zone</a>"
+            ],
+            [
+              "Construction & trades",
+              "Class 2 hi-vis, helmets, S3 boots",
+              "<a href='construction-workwear-guide.html'>The baseline</a>"
+            ]
+          ]
+        },
+        {
+          "type": "prose",
+          "klabel": "The detail that matters",
+          "h2": "Craft trades buy comfort; sheds buy miles",
+          "narrow": true,
+          "html": "<p>A clicker spends the day standing at a board driving a knife through hide — the kit that matters is a <strong>proper apron, a cut-aware glove on the steadying hand</strong> (the knife hand usually stays bare for feel), good light and footwear that forgives eight standing hours. It's a wardrobe about precision and endurance rather than certified hazards, with one exception: solvent and adhesive stations, where nitrile and ventilation rules apply just as they would in any factory.</p><p>The distribution economy inverts the priorities: a picker walks <strong>15–20 km per shift</strong>, so cushioned <a href='safety-boot-codes-explained.html'>S1P trainers</a> are the highest-value item on the list, ahead of the hi-vis everyone remembers and the <a href='en-342-cold-protection-explained.html'>chilled-section layers</a> some sites add. Buy footwear like it's the tool it is.</p>"
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Supply",
+          "h2": "How we supply Northampton",
+          "items": [
+            {
+              "n": "Craft & scale",
+              "l": "Bench aprons and thousand-unit shed orders alike"
+            },
+            {
+              "n": "From stock",
+              "l": "Trainers, hi-vis and layers next-day"
+            },
+            {
+              "n": "Trade accounts",
+              "l": "Factories and 3PLs reorder without friction"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Northampton kit FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What gloves do leather workers use?",
+          "a": "For clicking and knife work, typically a cut-resistant glove on the steadying hand while the knife hand stays bare for feel — ISO 13997 level C thinking for the exposed hand. At solvent and adhesive stations the need switches to chemical-resistant nitrile. Task, not trade, picks the glove."
+        },
+        {
+          "q": "What's the best footwear for warehouse picking?",
+          "a": "Cushioned S1P safety trainers — toe protection and midsole puncture resistance in a construction built for the 15–20 km a picker walks per shift. In distribution, footwear quality shows up directly in fatigue and absence; it's the item worth buying best."
+        },
+        {
+          "q": "Do you supply Northampton's shoe factories?",
+          "a": "We supply nationwide from stock — aprons, gloves, nitrile and FFP consumables for the bench trades alongside embroidered factory kit. The craft rooms' needs are specific but simple, and a trade account keeps them on repeat."
+        }
+      ]
+    },
+    {
+      "slug": "workwear-daventry",
+      "role": "spoke",
+      "spokeType": "Area guide",
+      "navLabel": "Daventry",
+      "cardTitle": "Workwear in Daventry",
+      "cardBlurb": "DIRFT and the pure-logistics economy — kit by zone, from ambient pick faces to −25 °C chambers.",
+      "crumbTail": "Daventry",
+      "kicker": "Area guide · Daventry",
+      "h1": "Workwear in Daventry: the rail-freight shed capital.",
+      "metaTitle": "Workwear in Daventry: DIRFT & Logistics Kit by Zone | iNeedWorkwear",
+      "metaDesc": "Workwear for Daventry — the DIRFT rail-freight economy dressed zone by zone: yard hi-vis, ambient picking kit, chilled and frozen EN 342 layers, and the engineering that keeps it moving.",
+      "lede": "Daventry is what a town looks like when logistics is the primary industry rather than a sideline: the DIRFT rail-freight terminal and its satellite parks employ thousands across sheds that run from ambient to deep-frozen. The kit question here is rarely which trade — it's which zone.",
+      "heroMeta": [
+        {
+          "n": "DIRFT",
+          "l": "Rail freight at national scale"
+        },
+        {
+          "n": "4 zones",
+          "l": "Yard, ambient, chilled, frozen"
+        },
+        {
+          "n": "−25 °C",
+          "l": "Where EN 342 takes over"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The local economy",
+          "h2": "What Daventry actually moves",
+          "html": "<p>The <strong>Daventry International Rail Freight Terminal</strong> is one of Europe's major intermodal hubs — container trains from the ports feeding a ring of national distribution centres for supermarkets, parcel networks and retailers. The work splits into repeating layers: <strong>yard operations</strong> (shunting, container handling, gatehouse), <strong>shed floors</strong> from ambient to frozen, <strong>engineering and maintenance</strong> keeping automation and fleets alive, and the drivers connecting it all. It's the most zone-driven workwear economy in England, which makes it the clearest place to explain zone-driven buying.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Kit by zone",
+          "h2": "The Daventry kit map",
+          "head": [
+            "Zone",
+            "The kit that matters",
+            "The spec detail"
+          ],
+          "rows": [
+            [
+              "Yard & rail interface",
+              "Class 3 hi-vis, waterproof layers, S3 boots",
+              "<a href='class-2-vs-class-3-hi-vis.html'>Why Class 3</a> among moving containers"
+            ],
+            [
+              "Ambient pick floors",
+              "Breathable kit, cushioned S1P trainers",
+              "Distance work — <a href='safety-boot-codes-explained.html'>the codes</a>"
+            ],
+            [
+              "Chilled sections (0–5 °C)",
+              "Thermal mid-layers, lined gloves",
+              "Layering beats one heavy coat for in-and-out work"
+            ],
+            [
+              "Frozen chambers",
+              "EN 342 suits, CI-rated boots",
+              "<a href='en-342-cold-protection-explained.html'>The cold ratings decoded</a>"
+            ],
+            [
+              "Engineering & maintenance",
+              "Fitted kit, cut gloves, arc awareness at panels",
+              "<a href='en-388-glove-ratings-decoder.html'>EN 388</a>; electrical rules per site"
+            ]
+          ]
+        },
+        {
+          "type": "prose",
+          "klabel": "The detail that matters",
+          "h2": "The chilled/frozen boundary is a spec boundary",
+          "narrow": true,
+          "html": "<p>Chilled work (roughly 0–5 °C) and frozen work (−18 °C and below) look adjacent on the thermometer and are nothing alike on the body. Chilled sections are handled with <strong>layering</strong> — thermal base, fleece mid, moving in and out freely. Frozen chambers need <strong>certified cold-store clothing</strong>: <a href='en-342-cold-protection-explained.html'>EN 342-rated</a> suits whose insulation values are measured, boots with CI (cold-insulated) soles, and — the part sites underplan — <strong>work-rest cycles and drying arrangements</strong>, because a damp garment insulates like a wet newspaper. A freezer picker in chilled-section kit isn't tough; they're at risk, and the productivity numbers show it before the health ones do.</p><p>Everything else in town follows the <a href='warehouse-logistics-workwear-guide.html'>logistics playbook</a> — with the local note that DIRFT's rail interface puts some roles under railway-adjacent rules their employer will specify.</p>"
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Supply",
+          "h2": "How we supply Daventry",
+          "items": [
+            {
+              "n": "Zone kits",
+              "l": "Per-zone lists priced per head, not per item"
+            },
+            {
+              "n": "From stock",
+              "l": "EN 342 suits to S1P trainers, next-day"
+            },
+            {
+              "n": "Trade accounts",
+              "l": "3PLs flex headcount without re-quoting"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Daventry kit FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What workwear is needed for freezer warehouse work?",
+          "a": "EN 342-rated cold-store suits (measured insulation, not just 'padded'), CI-rated safety boots, insulated gloves with grip, and head coverage — plus sensible work-rest cycles and somewhere to dry kit between shifts. Chilled-section layering does not stretch to −25 °C chambers."
+        },
+        {
+          "q": "What's the difference between chilled and frozen workwear?",
+          "a": "Chilled sections (around 0–5 °C) are managed with layering: thermal base, insulating mid, standard outer. Frozen chambers (−18 °C and below) need certified EN 342 clothing with measured insulation values and cold-rated footwear. The boundary is a specification change, not a thicker jumper."
+        },
+        {
+          "q": "Can you kit out a whole distribution centre?",
+          "a": "Yes — per-zone kit lists (yard, ambient, chilled, frozen, engineering) priced per head, shipped from stock nationwide and embroidered per employer. Agency-heavy sites usually hold a size-run buffer so new starters are dressed on day one."
+        }
+      ]
+    },
+    {
+      "slug": "workwear-milton-keynes",
+      "role": "spoke",
+      "spokeType": "Area guide",
+      "navLabel": "Milton Keynes",
+      "cardTitle": "Workwear in Milton Keynes",
+      "cardBlurb": "Distribution, datacentres and a city still being built — delivery kit, fit-out trades and corporate uniform at scale.",
+      "crumbTail": "Milton Keynes",
+      "kicker": "Area guide · Milton Keynes",
+      "h1": "Workwear in Milton Keynes: a city under construction, still.",
+      "metaTitle": "Workwear in Milton Keynes: Logistics, Construction & Corporate Kit | iNeedWorkwear",
+      "metaDesc": "Workwear for Milton Keynes — distribution and last-mile delivery kit, construction and fit-out trades for a still-growing city, datacentre and facilities teams, and corporate uniform for the HQ economy.",
+      "lede": "Milton Keynes never finished being built — the grid keeps growing, the sheds keep landing, and the HQ campuses keep hiring. Its workwear economy is correspondingly triple: delivery and distribution at national scale, construction trades everywhere the grid extends, and corporate teams whose polo shirt is the brand.",
+      "heroMeta": [
+        {
+          "n": "Last mile",
+          "l": "Parcel hubs and van fleets"
+        },
+        {
+          "n": "Grid growth",
+          "l": "Construction never stops here"
+        },
+        {
+          "n": "HQ city",
+          "l": "Uniform as identity"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The local economy",
+          "h2": "What Milton Keynes actually runs on",
+          "html": "<p>Planned around movement, MK became a natural home for <strong>distribution and parcel networks</strong> — national hubs and last-mile depots share the grid with retail head offices, banks and tech campuses. <strong>Construction</strong> is a permanent industry rather than a phase: housing expansion, commercial fit-out and infrastructure roll on year after year. Add <strong>datacentres and facilities management</strong> (a quiet MK speciality), automotive HQs and the hospitality that serves a city of commuters, and you get a wardrobe that runs from S3 boots to embroidered gilets without pausing.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Kit by industry",
+          "h2": "The Milton Keynes kit map",
+          "head": [
+            "Local sector",
+            "The kit that matters",
+            "The spec detail"
+          ],
+          "rows": [
+            [
+              "Parcel hubs & last-mile",
+              "Hi-vis, cushioned trainers, all-weather layers",
+              "<a href='workwear-for-delivery-drivers.html'>The delivery-driver kit list</a>"
+            ],
+            [
+              "Construction & fit-out",
+              "Class 2 hi-vis, helmets, S3 boots",
+              "<a href='construction-workwear-guide.html'>The baseline</a> and trade add-ons"
+            ],
+            [
+              "Datacentres & FM",
+              "ESD awareness, fitted kit, quiet-site rules",
+              "<a href='en-1149-5-antistatic-explained.html'>Where antistatic applies</a>"
+            ],
+            [
+              "Corporate & HQ teams",
+              "Embroidered polos, softshells, FOH tailoring",
+              "<a href='front-of-house-uniform-guide.html'>The FOH guide</a>"
+            ],
+            [
+              "Grounds & landscaping",
+              "Waterproofs, chainsaw kit where licensed",
+              "<a href='chainsaw-forestry-kit.html'>Forestry kit decoded</a>"
+            ]
+          ]
+        },
+        {
+          "type": "prose",
+          "klabel": "The detail that matters",
+          "h2": "Van fleets are uniform fleets",
+          "narrow": true,
+          "html": "<p>Last-mile delivery made the driver the most-seen employee in Britain, and MK's depots dress thousands of them. The kit does three jobs at once: <strong>visibility</strong> (hi-vis that stays compliant through daily wear — <a href='caring-for-hi-vis.html'>fading is the failure mode</a>), <strong>weather</strong> (a driver crosses between van heat and doorstep rain two hundred times a shift, which argues for <a href='choosing-work-jackets.html'>gilets and breathable shells</a> over one heavy coat), and <strong>brand</strong> — the logo on the chest is the company's most-photographed asset. Fleet buying rewards garments that do all three without a premium price, because the multiplier is in the hundreds.</p><p>The construction side runs on the standard site baseline, with one MK-specific note: <strong>fit-out and datacentre sites</strong> often enforce clean-site rules (no rigger boots, laces covered, dust control) stricter than a muddy groundworks job — read the induction, not the stereotype.</p>"
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Supply",
+          "h2": "How we supply Milton Keynes",
+          "items": [
+            {
+              "n": "Fleet scale",
+              "l": "Hundreds of embroidered sets without drama"
+            },
+            {
+              "n": "From stock",
+              "l": "Site, shed and office kit next-day"
+            },
+            {
+              "n": "Trade accounts",
+              "l": "Depots and contractors on one account"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Milton Keynes kit FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What should delivery drivers wear?",
+          "a": "Hi-vis that actually stays visible (Class 2 as the common baseline, kept unfaded), breathable layers that handle van-to-doorstep transitions — gilets earn their keep here — comfortable safety footwear for two hundred drop-offs, and gloves in winter. The full list is in our delivery-driver guide."
+        },
+        {
+          "q": "Do datacentre technicians need special workwear?",
+          "a": "Usually fitted, snag-free kit with ESD considerations where the site zones for static control, plus clean-site footwear rules. The environment protects the equipment as much as the person, so induction documents lead — antistatic garments (EN 1149-5) appear where the site specifies them."
+        },
+        {
+          "q": "Can you handle a large embroidered fleet order?",
+          "a": "Yes — fleet orders are stock-and-embroider jobs: size runs held, logos digitised once, garments branded before dispatch nationwide. Depots typically phase delivery by shift pattern so the whole fleet flips uniform in a week."
+        }
+      ]
+    },
+    {
+      "slug": "workwear-peterborough",
+      "role": "spoke",
+      "spokeType": "Area guide",
+      "navLabel": "Peterborough",
+      "cardTitle": "Workwear in Peterborough",
+      "cardBlurb": "Engine plants, food processing and fenland logistics — oily-coverall rotation, hygiene kit and shed layers.",
+      "crumbTail": "Peterborough",
+      "kicker": "Area guide · Peterborough",
+      "h1": "Workwear in Peterborough: engines, food and fen freight.",
+      "metaTitle": "Workwear in Peterborough: Engineering, Food & Logistics Kit | iNeedWorkwear",
+      "metaDesc": "Workwear for Peterborough — coverall rotation for diesel-engine manufacture and heavy engineering, hygiene kit for the region's food processing, warehouse layers and construction trades.",
+      "lede": "Peterborough's industry is old-fashioned in the best sense: it makes engines, processes food and moves freight. Diesel power has been machined here for a century, the fens deliver produce that gets packed and processed at scale, and the A1(M) lined itself with sheds. Three trades, three kit lists, one town.",
+      "heroMeta": [
+        {
+          "n": "100 yrs",
+          "l": "Of engine building"
+        },
+        {
+          "n": "Rotation",
+          "l": "Oily coveralls washed on schedule"
+        },
+        {
+          "n": "Fen food",
+          "l": "Produce packed under audit"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The local economy",
+          "h2": "What Peterborough actually makes",
+          "html": "<p><strong>Engine and power-systems manufacture</strong> anchors the engineering base — large diesel and generator production with the machining, test cells and supply chain that entails — alongside a broad mix of metalworking and equipment firms. <strong>Food</strong> is the second pillar: the surrounding fenland is Britain's vegetable garden, and Peterborough packs, processes and distributes it, with bakeries and prepared-food plants in the mix. The third is <strong>logistics</strong> — parcel and retail distribution off the A1(M) — plus a construction sector servicing one of England's faster-growing cities.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Kit by industry",
+          "h2": "The Peterborough kit map",
+          "head": [
+            "Local industry",
+            "The kit that matters",
+            "The spec detail"
+          ],
+          "rows": [
+            [
+              "Engine manufacture & test",
+              "Coveralls in rotation, hearing protection",
+              "<a href='oil-grease-out-of-workwear.html'>Oil-day laundering</a> — rotation beats saturation"
+            ],
+            [
+              "Machining & fabrication",
+              "Fitted kit, cut gloves, S1P/S3 footwear",
+              "<a href='en-388-glove-ratings-decoder.html'>EN 388 letters</a>"
+            ],
+            [
+              "Food processing & packing",
+              "Hygiene garments, wellingtons, snoods",
+              "<a href='food-processing-workwear-guide.html'>The audit wardrobe</a>"
+            ],
+            [
+              "Distribution",
+              "Hi-vis, trainers, chilled-section layers",
+              "<a href='warehouse-logistics-workwear-guide.html'>Kit by zone</a>"
+            ],
+            [
+              "Construction",
+              "Class 2 hi-vis, helmets, S3 boots",
+              "<a href='construction-workwear-guide.html'>The baseline</a>"
+            ]
+          ]
+        },
+        {
+          "type": "prose",
+          "klabel": "The detail that matters",
+          "h2": "Test cells and pack houses share one rule: rotation",
+          "narrow": true,
+          "html": "<p>An engine works and a vegetable pack house look like different planets and buy workwear on the same principle: <strong>garments cycle through wash on a schedule, so each person needs enough sets that the schedule holds</strong>. On the engineering side the enemy is oil saturation — a coverall wears out chemically long before it wears out physically, and the <a href='oil-grease-out-of-workwear.html'>laundering routine</a> only works if a clean one is always hanging ready. On the food side the driver is audit compliance: fresh hygiene kit per shift, managed laundering, and colour or condition rules that make a tired garment a finding, not a fashion issue.</p><p>Both resolve to the same purchase maths — our <a href='uniform-quantity-calculator.html'>quantity calculator</a> does the sets-per-person sum that stops rotation collapsing into re-wearing.</p>"
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Supply",
+          "h2": "How we supply Peterborough",
+          "items": [
+            {
+              "n": "Rotation maths",
+              "l": "Sets-per-person calculated before the order"
+            },
+            {
+              "n": "From stock",
+              "l": "Coveralls, hygiene kit and hi-vis next-day"
+            },
+            {
+              "n": "Trade accounts",
+              "l": "Works and pack houses on rolling supply"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Peterborough kit FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "How many coveralls does an engine fitter need?",
+          "a": "Enough that a clean one is always available while others are in the wash — typically four to five sets on a weekly wash cycle, more where oil exposure is daily and heavy. Once a coverall stays stiff and dark after proper hot washing, it's saturated and due for replacement, not sympathy."
+        },
+        {
+          "q": "What do food packing staff wear?",
+          "a": "Company-provided hygiene garments (typically pocket-free above the waist, press-stud closures), hair coverage, dedicated footwear — wellingtons or washable safety shoes — with laundering managed rather than done at home in higher-risk areas. The site's certification scheme sets the exact rules."
+        },
+        {
+          "q": "Do you supply Peterborough businesses directly?",
+          "a": "Nationwide from stock, next-day — coverall rotation programmes, hygiene garment matrices and shed kit all run through one trade account with embroidery before dispatch."
+        }
+      ]
+    },
+    {
+      "slug": "workwear-warrington",
+      "role": "spoke",
+      "spokeType": "Area guide",
+      "navLabel": "Warrington",
+      "cardTitle": "Workwear in Warrington",
+      "cardBlurb": "Omega's mega-sheds and the nuclear engineering cluster — logistics kit at scale and clearance-site contractor rules.",
+      "crumbTail": "Warrington",
+      "kicker": "Area guide · Warrington",
+      "h1": "Workwear in Warrington: sheds, science and site passes.",
+      "metaTitle": "Workwear in Warrington: Logistics, Nuclear Engineering & Trades Kit | iNeedWorkwear",
+      "metaDesc": "Workwear for Warrington — Omega and the M62 logistics economy dressed by zone, nuclear-sector engineering and consultancy kit, chemical-corridor contractors and the town's trades.",
+      "lede": "Warrington sits where the M6, M62 and M56 tie the North West together, and its economy reads like the junction signs: mega-shed logistics at Omega, a national concentration of nuclear engineering and consultancy, and contractors serving the chemical corridor either side. Kit here is bought by badge-holders — site passes decide the list.",
+      "heroMeta": [
+        {
+          "n": "3 motorways",
+          "l": "The logistics logic of the town"
+        },
+        {
+          "n": "Nuclear",
+          "l": "A national engineering cluster"
+        },
+        {
+          "n": "Pass-driven",
+          "l": "Client sites write the kit rules"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The local economy",
+          "h2": "What Warrington actually does",
+          "html": "<p><strong>Omega</strong> and the parks along the M62 hold some of the North West's largest distribution operations — retail, parcel and 3PL sheds running around the clock. The second cluster is quieter but nationally significant: <strong>nuclear engineering, decommissioning and consultancy</strong>, with Birchwood hosting a dense population of firms whose engineers spend weeks at client sites from Sellafield to power stations — working under those sites' clothing and PPE regimes. Around both: <strong>chemical-corridor contractors</strong> (Runcorn and Ellesmere Port are neighbours), utilities, and the construction trades of a growing town.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Kit by industry",
+          "h2": "The Warrington kit map",
+          "head": [
+            "Local sector",
+            "The kit that matters",
+            "The spec detail"
+          ],
+          "rows": [
+            [
+              "Distribution & 3PL",
+              "Hi-vis, cushioned trainers, chilled layers",
+              "<a href='warehouse-logistics-workwear-guide.html'>Kit by zone</a>"
+            ],
+            [
+              "Nuclear engineering & site visits",
+              "Client-spec PPE, fitted kit, S3 boots",
+              "Site regimes rule — kit bought to the induction pack"
+            ],
+            [
+              "Chemical-corridor contractors",
+              "FR with chem splash where specified",
+              "<a href='en-13034-chem-splash-explained.html'>EN 13034 decoded</a>"
+            ],
+            [
+              "Utilities & civils",
+              "Class 2–3 hi-vis, waterproofs",
+              "<a href='class-2-vs-class-3-hi-vis.html'>The class call</a> for roadside work"
+            ],
+            [
+              "Construction & fit-out",
+              "Helmets, S3 boots, trade add-ons",
+              "<a href='construction-workwear-guide.html'>The baseline</a>"
+            ]
+          ]
+        },
+        {
+          "type": "prose",
+          "klabel": "The detail that matters",
+          "h2": "Consultancy kit lives out of a bag",
+          "narrow": true,
+          "html": "<p>Warrington's engineering workforce has an unusual wardrobe problem: the office is in Birchwood but the work is at <strong>someone else's licensed site</strong> — and every client site issues its own clothing rules, from basic hi-vis-and-boots to full controlled-area regimes where the site provides protective clothing and the visitor brings only approved base kit. The practical answer is a <strong>visit bag</strong>: clean S3 boots, fresh Class 2 hi-vis, helmet with unexpired date, safety glasses and gloves — generic, compliant, and always ready, with anything specialised issued at the gate.</p><p>The shed economy runs the standard <a href='warehouse-logistics-workwear-guide.html'>zone playbook</a>, at Omega's scale — where the buying lesson is fleet consistency: hundreds of agency starters a year means size-run buffers and a garment list that doesn't change per shift manager.</p>"
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Supply",
+          "h2": "How we supply Warrington",
+          "items": [
+            {
+              "n": "Visit-bag kit",
+              "l": "Compliant generic PPE, ready for any induction"
+            },
+            {
+              "n": "From stock",
+              "l": "Shed and site kit next-day"
+            },
+            {
+              "n": "Trade accounts",
+              "l": "Consultancies and 3PLs on one account"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Warrington kit FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What PPE do visiting engineers need on industrial sites?",
+          "a": "A reliable generic set: S3 safety boots, Class 2 hi-vis, an in-date EN 397 helmet, safety glasses and general-purpose gloves — plus whatever the specific site's induction adds. Licensed and controlled sites issue specialised protective clothing themselves; the visitor's job is to arrive with clean, compliant basics."
+        },
+        {
+          "q": "Do nuclear sites provide the protective clothing?",
+          "a": "In controlled areas, generally yes — site-issued and site-laundered, because contamination control demands it. Visiting staff supply their own conventional PPE (boots, helmet, hi-vis, eyewear) for the rest of the site. Every licensed site publishes its own rules; the induction pack is the authority."
+        },
+        {
+          "q": "Can you kit both an office and its site engineers?",
+          "a": "Yes — embroidered office and softshell kit alongside the visit-bag PPE list, one trade account. Consultancies typically standardise the bag so any engineer can take any assignment without a kit scramble."
+        }
+      ]
+    },
+    {
+      "slug": "workwear-ellesmere-port",
+      "role": "spoke",
+      "spokeType": "Area guide",
+      "navLabel": "Ellesmere Port",
+      "cardTitle": "Workwear in Ellesmere Port",
+      "cardBlurb": "A van plant gone electric and a refinery next door — paint-safe line kit one gate, multi-norm FR the next.",
+      "crumbTail": "Ellesmere Port",
+      "kicker": "Area guide · Ellesmere Port",
+      "h1": "Workwear in Ellesmere Port: two gates, two rulebooks.",
+      "metaTitle": "Workwear in Ellesmere Port: Vehicle Plant & Refinery Kit | iNeedWorkwear",
+      "metaDesc": "Workwear for Ellesmere Port — electric van assembly kit and paint-shop discipline, refinery contractor FR with antistatic and splash ratings, port logistics and the Cheshire trades.",
+      "lede": "Ellesmere Port's two biggest employers face each other across the town with completely different ideas about clothing: an electric-van plant where the rules protect the product, and a refinery complex where the rules protect the person. Most local contractors end up dressed for both in the same month.",
+      "heroMeta": [
+        {
+          "n": "EV plant",
+          "l": "Britain's electric-van line"
+        },
+        {
+          "n": "Multi-norm",
+          "l": "FR + antistatic + splash next door"
+        },
+        {
+          "n": "One town",
+          "l": "Two clothing philosophies"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The local economy",
+          "h2": "What Ellesmere Port actually runs on",
+          "html": "<p>The <strong>vehicle plant</strong> made history as the first in Britain converted entirely to electric-van production, keeping volume manufacturing — and its supply chain of logistics and components — in the town. The <strong>Stanlow refinery complex</strong> next door is one of the UK's principal fuel producers, with the tank farms, terminals and permanent contractor ecosystem that entails. Between them: the <strong>Manchester Ship Canal</strong> wharves, chemical and energy-transition projects (hydrogen has plans here), distribution parks, and the trades of industrial Cheshire.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Kit by industry",
+          "h2": "The Ellesmere Port kit map",
+          "head": [
+            "Local industry",
+            "The kit that matters",
+            "The spec detail"
+          ],
+          "rows": [
+            [
+              "EV van assembly",
+              "Paint-safe fitted kit, covered fastenings",
+              "Plus HV-task arc awareness — <a href='iec-61482-arc-flash-explained.html'>IEC 61482</a> where authorised"
+            ],
+            [
+              "Refinery & terminal contractors",
+              "Multi-norm FR coveralls",
+              "<span class='code'>11612 + 1149-5 + 13034</span> — <a href='en-1149-5-antistatic-explained.html'>the antistatic part</a>"
+            ],
+            [
+              "Canal wharves & bulk",
+              "Class 3 hi-vis, all-weather layers",
+              "<a href='caring-for-hi-vis.html'>Kept compliant</a> in canal-side weather"
+            ],
+            [
+              "Distribution",
+              "Hi-vis, trainers, layered kit",
+              "<a href='warehouse-logistics-workwear-guide.html'>Kit by zone</a>"
+            ],
+            [
+              "Trades & maintenance",
+              "Standard site baseline",
+              "<a href='construction-workwear-guide.html'>The list</a>"
+            ]
+          ]
+        },
+        {
+          "type": "prose",
+          "klabel": "The detail that matters",
+          "h2": "Product-protective vs person-protective",
+          "narrow": true,
+          "html": "<p>The van plant's rules exist so the garment can't hurt the vehicle: <strong>covered zips, no exposed studs or rivets, no loose cords</strong>, fitted cuts that don't drape over fresh paint — and, with electrification, an added layer of <a href='iec-61482-arc-flash-explained.html'>arc-rated</a> kit for the technicians authorised on live high-voltage tasks. The refinery's rules exist so the environment can't hurt the wearer: <strong>multi-norm FR</strong> combining flame resistance, static dissipation and chemical splash on one label, gate-checked at every turnstile.</p><p>Contractor firms working both — and in this town most do — should resist the tempting shortcut of one 'good enough' wardrobe: the plant will reject studded FR coveralls as paint-hostile, and the refinery will reject paint-safe softshells as flammable. Two lists, two lockers; it's cheaper than a turned-away crew.</p>"
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Supply",
+          "h2": "How we supply Ellesmere Port",
+          "items": [
+            {
+              "n": "Both rulebooks",
+              "l": "Line kit and multi-norm FR from one stock"
+            },
+            {
+              "n": "From stock",
+              "l": "Next-day nationwide, embroidered"
+            },
+            {
+              "n": "Trade accounts",
+              "l": "Contractors hold both lists on one account"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Ellesmere Port kit FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What do refinery contractors at Stanlow-type sites wear?",
+          "a": "Multi-norm FR coveralls combining EN ISO 11612 flame resistance, EN 1149-5 antistatic performance and EN 13034 splash protection, with the site's specified helmet, eyewear, gloves and S3 boots. The site's clothing standard is definitive and enforced at the gate — order against the document, not the habit."
+        },
+        {
+          "q": "Why can't one set of workwear cover both the plant and the refinery?",
+          "a": "Because the requirements pull opposite ways: the vehicle plant bans exposed metal fittings and prioritises paint-safe, fitted garments, while the refinery mandates FR multi-norm certification that typically comes in conventional coverall designs. Contractors working both keep two wardrobes — the gate checks are different, and both are strict."
+        },
+        {
+          "q": "Do you supply kit for electric vehicle plants?",
+          "a": "Yes — paint-safe fitted workwear for line roles, plus IEC 61482 arc-rated garments for high-voltage-authorised technicians, all from stock with embroidery before dispatch on a trade account."
+        }
+      ]
+    },
+    {
+      "slug": "workwear-runcorn",
+      "role": "spoke",
+      "spokeType": "Area guide",
+      "navLabel": "Runcorn",
+      "cardTitle": "Workwear in Runcorn",
+      "cardBlurb": "Chlor-alkali chemistry and the corridor's contractors — splash ratings, glove chemistry and permit-pack buying.",
+      "crumbTail": "Runcorn",
+      "kicker": "Area guide · Runcorn",
+      "h1": "Workwear in Runcorn: chemistry sets the wardrobe.",
+      "metaTitle": "Workwear in Runcorn: Chemical Industry & Contractor Kit | iNeedWorkwear",
+      "metaDesc": "Workwear for Runcorn — chemical-splash rated kit for the chlor-alkali and process cluster, glove chemistry beyond the cut rating, FR layering and the logistics that serves the corridor.",
+      "lede": "Runcorn has made chlorine and its descendants for over a century, and the wider corridor still runs on industrial chemistry. Here the workwear question is rarely about impact or visibility first — it's about what the product does to fabric and skin, which makes splash ratings and glove chemistry the local currency.",
+      "heroMeta": [
+        {
+          "n": "Chlor-alkali",
+          "l": "A century of process chemistry"
+        },
+        {
+          "n": "Type 6",
+          "l": "The everyday splash layer"
+        },
+        {
+          "n": "Glove = chem",
+          "l": "Material choice beats cut level here"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The local economy",
+          "h2": "What Runcorn actually makes",
+          "html": "<p>The town's chemical estate is one of Europe's historic <strong>chlor-alkali centres</strong> — chlorine, caustic soda and downstream products — surrounded by speciality chemical firms, energy-from-waste plants and the <strong>contractor trades</strong> that keep a process cluster alive: mechanical, E&I, scaffolding, insulation and industrial cleaning. The Mersey crossing made Runcorn a logistics point too, with distribution parks growing along the expressways, and Daresbury's science campus adds labs and light-tech employers to the mix.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Kit by industry",
+          "h2": "The Runcorn kit map",
+          "head": [
+            "Local industry",
+            "The kit that matters",
+            "The spec detail"
+          ],
+          "rows": [
+            [
+              "Process operations",
+              "FR base with chem splash layer",
+              "<a href='en-13034-chem-splash-explained.html'>EN 13034 type 6 decoded</a>"
+            ],
+            [
+              "Chemical handling tasks",
+              "Chemical-resistant gloves by material",
+              "Nitrile, butyl or neoprene — matched to the product, not the price"
+            ],
+            [
+              "Contractor trades",
+              "Multi-norm coveralls, permit-listed PPE",
+              "<a href='en-1149-5-antistatic-explained.html'>Antistatic</a> joins FR in vapour zones"
+            ],
+            [
+              "Industrial cleaning & turnarounds",
+              "Disposable chem suits, FFP/half-mask RPE",
+              "<a href='disposable-ppe-guide.html'>Disposables by the case</a>"
+            ],
+            [
+              "Logistics & labs",
+              "Hi-vis and trainers / lab coats",
+              "<a href='warehouse-logistics-workwear-guide.html'>Shed kit</a>; lab kit per COSHH assessment"
+            ]
+          ]
+        },
+        {
+          "type": "prose",
+          "klabel": "The detail that matters",
+          "h2": "Gloves are chosen by chemistry, not toughness",
+          "narrow": true,
+          "html": "<p>The <a href='en-388-glove-ratings-decoder.html'>EN 388 numbers</a> that dominate glove-buying everywhere else take second place here: against caustic, acids and solvents, what matters is the <strong>glove material's resistance to the specific chemical</strong> — nitrile for many solvents and oils, butyl against strong acids and ketones, neoprene as the broad-spectrum compromise — and the breakthrough time the manufacturer publishes per substance. A cut-level-D glove in the wrong polymer dissolves into the hazard it was bought to stop. Site COSHH assessments name the products; match the glove chart to the name.</p><p>Garment-side, the corridor follows the process-industry layering rule — FR base, <a href='en-13034-chem-splash-explained.html'>type 6 splash</a> over it where permits list exposure — with disposable chemical suits for cleaning and turnaround work, consumed by the case and never re-worn.</p>"
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Supply",
+          "h2": "How we supply Runcorn",
+          "items": [
+            {
+              "n": "By the product",
+              "l": "Gloves matched to named chemicals, not guesses"
+            },
+            {
+              "n": "From stock",
+              "l": "Splash-rated kit and disposables next-day"
+            },
+            {
+              "n": "Trade accounts",
+              "l": "Contractor firms on rolling supply"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Runcorn kit FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What gloves protect against caustic soda?",
+          "a": "Chemical-resistant gloves in a polymer rated for alkalis — nitrile performs well against caustic solutions, with butyl for the strongest exposures — selected on the manufacturer's permeation data for the actual concentration, not on cut ratings. The site COSHH assessment names the product; the glove chart answers it."
+        },
+        {
+          "q": "What does type 6 chemical protection mean?",
+          "a": "EN 13034 type 6 covers limited liquid splash — mists and light spray, the everyday exposure on process plants — usually as a layer over FR base kit. Higher exposure levels (spray, jets, immersion) move into type 4, 3 and below, which are different garments entirely."
+        },
+        {
+          "q": "Do you supply Runcorn's contractor firms?",
+          "a": "Nationwide from stock next-day: multi-norm FR, splash layers, chemical gloves by named product, and turnaround disposables by the case — one trade account per firm, embroidered where the garment allows it."
+        }
+      ]
+    },
+    {
+      "slug": "workwear-crewe",
+      "role": "spoke",
+      "spokeType": "Area guide",
+      "navLabel": "Crewe",
+      "cardTitle": "Workwear in Crewe",
+      "cardBlurb": "Handcrafted cars and a railway junction — trim-shop kit, depot coveralls and trackside orange in one town.",
+      "crumbTail": "Crewe",
+      "kicker": "Area guide · Crewe",
+      "h1": "Workwear in Crewe: craft benches and running lines.",
+      "metaTitle": "Workwear in Crewe: Luxury Automotive & Rail Kit | iNeedWorkwear",
+      "metaDesc": "Workwear for Crewe — trim-shop and craft kit for luxury car manufacture, rail depot coveralls, RIS-3279-TOM orange for the junction's trackside work, and the town's engineering trades.",
+      "lede": "Crewe is where Britain's most famous railway junction meets its most exclusive car factory — a town that hand-stitches leather in the morning and re-rails wagons at night. The two trades share a postcode and almost nothing else about their kit lists, which makes Crewe a compact lesson in buying by task.",
+      "heroMeta": [
+        {
+          "n": "Craft",
+          "l": "Hand trim work, clean benches"
+        },
+        {
+          "n": "Junction",
+          "l": "Six routes meet here"
+        },
+        {
+          "n": "Orange",
+          "l": "The moment work crosses the fence"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The local economy",
+          "h2": "What Crewe actually works on",
+          "html": "<p>The <strong>luxury car plant</strong> builds low-volume, high-craft vehicles — body shop and paint like any factory, but also trim shops where leather and veneer are worked by hand at benches, and an electrified future arriving line by line. The <strong>railway</strong> never left: Crewe remains a principal junction with depots, engineering sidings and a heritage of works employment, and it's slated for a major role in the next generation of rail investment. Around the two: components firms, logistics parks off the M6, and south Cheshire's construction and service trades.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Kit by industry",
+          "h2": "The Crewe kit map",
+          "head": [
+            "Local industry",
+            "The kit that matters",
+            "The spec detail"
+          ],
+          "rows": [
+            [
+              "Trim & craft shops",
+              "Aprons, fitted kit, bare-hand tasks",
+              "Clean, snag-free garments — the leather must never meet a zip"
+            ],
+            [
+              "Body, paint & assembly",
+              "Paint-safe covered-fastening kit",
+              "Plus <a href='iec-61482-arc-flash-explained.html'>arc-rated layers</a> for HV-authorised techs"
+            ],
+            [
+              "Rail depots",
+              "Coveralls, cut gloves, S3 boots",
+              "Depot side of the fence — conventional kit"
+            ],
+            [
+              "Trackside & infrastructure",
+              "Rail-spec orange hi-vis",
+              "<span class='code'>RIS-3279-TOM</span> — <a href='rail-spec-workwear-explained.html'>decoded</a>"
+            ],
+            [
+              "Logistics & trades",
+              "Hi-vis, trainers, site baseline",
+              "<a href='warehouse-logistics-workwear-guide.html'>Kit by zone</a>"
+            ]
+          ]
+        },
+        {
+          "type": "prose",
+          "klabel": "The detail that matters",
+          "h2": "Craft manufacture bans what site kit requires",
+          "narrow": true,
+          "html": "<p>A trim shop handling aniline leather and open-pore veneer enforces rules a building site would find baffling: <strong>no exposed zips, studs, buckles or velcro</strong> anywhere a garment might brush the material, aprons over fitted kit, jewellery off, and often bare hands for the feel the work demands — with barrier cream and task gloves reserved for adhesive stages. It's the automotive paint-safe principle taken to its logical extreme, and generic workwear fails it on first contact.</p><p>Meanwhile the railway applies its own absolutes: the moment work crosses from depot to running infrastructure, the wardrobe changes to <a href='rail-spec-workwear-explained.html'>rail-spec orange</a> under trackside rules — our <a href='workwear-for-rail-trackside.html'>trackside guide</a> covers the induction realities. Same town, three rulebooks; the task card, as ever, decides.</p>"
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Supply",
+          "h2": "How we supply Crewe",
+          "items": [
+            {
+              "n": "Craft-safe",
+              "l": "Snag-free fitted kit and aprons from stock"
+            },
+            {
+              "n": "Rail-ready",
+              "l": "RIS-spec orange alongside depot coveralls"
+            },
+            {
+              "n": "Trade accounts",
+              "l": "Suppliers and contractors on one account"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Crewe kit FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What do luxury car trim workers wear?",
+          "a": "Fitted, snag-free garments with no exposed metal or abrasive fittings, usually under a clean apron — because the leather and veneer they handle mark permanently. Hands often work bare for feel, with task gloves at adhesive and solvent stages. The materials, not the machinery, write the rules."
+        },
+        {
+          "q": "When does rail work require orange hi-vis?",
+          "a": "On or about running railway infrastructure — trackside, possessions, stations beyond the platform edge — where UK rail requires RIS-3279-TOM compliant orange. Depot work behind the fence typically runs on conventional kit until a task crosses that boundary; the induction defines exactly where it sits."
+        },
+        {
+          "q": "Can you supply both the plant's suppliers and rail contractors?",
+          "a": "Yes — craft-safe fitted kit, depot coveralls and rail-spec orange all ship from stock nationwide, embroidered per firm on a trade account. Crewe firms quite often need all three lists at once."
+        }
+      ]
+    },
+    {
+      "slug": "workwear-felixstowe",
+      "role": "spoke",
+      "spokeType": "Area guide",
+      "navLabel": "Felixstowe",
+      "cardTitle": "Workwear in Felixstowe",
+      "cardBlurb": "Britain's container gateway — Class 3 among the straddle carriers, North Sea weather kit and 24/7 shift wardrobes.",
+      "crumbTail": "Felixstowe",
+      "kicker": "Area guide · Felixstowe",
+      "h1": "Workwear in Felixstowe: dressed for the box port.",
+      "metaTitle": "Workwear in Felixstowe: Container Port & Logistics Kit | iNeedWorkwear",
+      "metaDesc": "Workwear for Felixstowe — Class 3 hi-vis among container-handling plant, North Sea weather layers for 24/7 quayside shifts, haulage and freight-forwarding kit for Britain's biggest box port.",
+      "lede": "Felixstowe handles more containers than any other British port — a machine of straddle carriers, cranes and shuttle lorries that never switches off. Workwear here is about being seen by plant operators forty feet up, staying functional through a North Sea night shift, and lasting in salt air that ages kit faster than work does.",
+      "heroMeta": [
+        {
+          "n": "No. 1",
+          "l": "UK container port"
+        },
+        {
+          "n": "Class 3",
+          "l": "The quayside default"
+        },
+        {
+          "n": "24/7",
+          "l": "Weather kit for every shift"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The local economy",
+          "h2": "What Felixstowe actually moves",
+          "html": "<p>The port <strong>is</strong> the town's economy: quay cranes and straddle-carrier fleets working the deep-sea berths, engineering teams maintaining them, gate operations processing thousands of lorry movements a day, and the <strong>haulage and freight-forwarding</strong> businesses that cluster around any gateway. Rail terminals move a growing share inland. Beyond the fence, Suffolk adds agriculture, food businesses and the trades of the surrounding towns — but the wardrobe conversation starts and ends with working safely around very large moving machines in open weather.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Kit by role",
+          "h2": "The Felixstowe kit map",
+          "head": [
+            "Role",
+            "The kit that matters",
+            "The spec detail"
+          ],
+          "rows": [
+            [
+              "Quayside & yard operations",
+              "Class 3 hi-vis, all-weather layers",
+              "<a href='class-2-vs-class-3-hi-vis.html'>Why the top class</a> among plant"
+            ],
+            [
+              "Crane & plant engineering",
+              "Fitted kit, harness-compatible layers, gloves",
+              "Work-at-height rules; <a href='en-388-glove-ratings-decoder.html'>EN 388</a> for wire and steel"
+            ],
+            [
+              "Gate & checkpoint staff",
+              "Hi-vis with weather protection, thermals",
+              "Standing outdoors, every season — <a href='base-layers-guide.html'>base layers</a> earn it"
+            ],
+            [
+              "Haulage & shunting",
+              "Hi-vis, gloves for twist-locks and straps",
+              "Cut and impact protection for container furniture"
+            ],
+            [
+              "Reefer & engineering shops",
+              "Layered kit, insulated gloves",
+              "Chilled plant work — <a href='en-342-cold-protection-explained.html'>the cold ratings</a>"
+            ]
+          ]
+        },
+        {
+          "type": "prose",
+          "klabel": "The detail that matters",
+          "h2": "Salt air is a garment's second employer",
+          "narrow": true,
+          "html": "<p>Port kit fails differently: the North Sea's salt spray and near-constant wind <strong>fade fluorescent fabric and corrode fittings faster than inland wear ever would</strong>, and hi-vis that has quietly dropped below its class is the most dangerous garment on the quay because everyone still trusts it. The discipline is scheduled inspection — <a href='caring-for-hi-vis.html'>colour and tape checks</a> on a calendar, not on a feeling — and buying garments whose zips and poppers are plastic or coated rather than bare metal.</p><p>The other local reality is <strong>shift weather</strong>: a 2am winter gate shift and a July afternoon on the same roster. That argues for the layering logic in our <a href='choosing-work-jackets.html'>jacket guide</a> — waterproof shell sized over insulating layers that come and go — rather than one garment asked to do every season.</p>"
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Supply",
+          "h2": "How we supply Felixstowe",
+          "items": [
+            {
+              "n": "Port-grade",
+              "l": "Class 3 kit with coated fittings, from stock"
+            },
+            {
+              "n": "Shift depth",
+              "l": "Rotation quantities for 24/7 rosters"
+            },
+            {
+              "n": "Trade accounts",
+              "l": "Hauliers and operators on one account"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Felixstowe kit FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What hi-vis is required in container ports?",
+          "a": "Class 3 is the working default on quaysides and container yards — the environment pairs fast internal roads with plant operators viewing the ground from height, and maximum conspicuity is the point. Individual terminals publish their own PPE standards; expect Class 3 with long sleeves as the norm."
+        },
+        {
+          "q": "How does sea air affect workwear?",
+          "a": "Salt and UV fade fluorescent dyes faster than inland use, and salt corrodes bare-metal zips and fittings. Coastal and port garments should be bought with coated or plastic furniture and inspected on a schedule, because a faded Class 3 garment no longer delivers Class 3 visibility whatever its label says."
+        },
+        {
+          "q": "Do you supply the haulage firms around the port?",
+          "a": "Yes — driver and shunter kit (hi-vis, gloves rated for twist-locks and strapping, weather layers) ships nationwide from stock, embroidered per firm, with rotation quantities for round-the-clock operations on a single trade account."
+        }
+      ]
+    },
+    {
+      "slug": "workwear-southampton",
+      "role": "spoke",
+      "spokeType": "Area guide",
+      "navLabel": "Southampton",
+      "cardTitle": "Workwear in Southampton",
+      "cardBlurb": "Cruise turnarounds, container cranes and marine engineering — FOH uniform and welding FR in the same square mile.",
+      "crumbTail": "Southampton",
+      "kicker": "Area guide · Southampton",
+      "h1": "Workwear in Southampton: the two-collar port.",
+      "metaTitle": "Workwear in Southampton: Port, Cruise & Marine Engineering Kit | iNeedWorkwear",
+      "metaDesc": "Workwear for Southampton — container terminal hi-vis, cruise-turnaround uniforms at hotel scale, marine engineering FR and hot-work kit, and the South Coast's construction trades.",
+      "lede": "Southampton's docks do two things at once: move Britain's deep-sea containers and turn around the world's largest cruise ships. That gives the city a workwear economy with two collars — Class 3 and welding FR on the water side, pressed FOH uniform by the thousand on the passenger side — often within sight of each other.",
+      "heroMeta": [
+        {
+          "n": "2 ports",
+          "l": "Boxes and passengers"
+        },
+        {
+          "n": "Turnaround",
+          "l": "A ship re-staffed in hours"
+        },
+        {
+          "n": "Hot work",
+          "l": "Marine FR in the yards"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The local economy",
+          "h2": "What Southampton actually handles",
+          "html": "<p>The <strong>container terminal</strong> ranks among the UK's busiest, with the crane crews, straddle drivers and engineering that implies. The <strong>cruise terminals</strong> host turnaround days where thousands of passengers swap over and provisioning, cleaning and hospitality teams surge aboard — hotel operations at industrial tempo. Around the water: <strong>marine engineering and refit</strong> (from ship repair to high-end yacht work on the Solent), vehicle import/export handling, and a big-city base of construction, healthcare and university employment.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Kit by sector",
+          "h2": "The Southampton kit map",
+          "head": [
+            "Local sector",
+            "The kit that matters",
+            "The spec detail"
+          ],
+          "rows": [
+            [
+              "Container terminal",
+              "Class 3 hi-vis, weather layers",
+              "<a href='class-2-vs-class-3-hi-vis.html'>The class logic</a> quayside"
+            ],
+            [
+              "Cruise turnaround teams",
+              "FOH uniform, housekeeping and galley kit",
+              "<a href='front-of-house-uniform-guide.html'>FOH buying</a> at fleet scale; <a href='hospitality-workwear-guide.html'>the sector guide</a>"
+            ],
+            [
+              "Marine engineering & refit",
+              "Welding FR, coveralls, confined-space kit",
+              "<a href='fr-coveralls-for-welders.html'>EN ISO 11611</a> for hot work afloat"
+            ],
+            [
+              "Yacht finishing & composites",
+              "Type 5/6 disposables, FFP RPE",
+              "<a href='en-149-ffp-ratings-explained.html'>FFP decoded</a> for fairing and spray days"
+            ],
+            [
+              "Construction & trades",
+              "Site baseline, waterproofs",
+              "<a href='construction-workwear-guide.html'>The list</a>"
+            ]
+          ]
+        },
+        {
+          "type": "prose",
+          "klabel": "The detail that matters",
+          "h2": "Hot work on ships raises the FR stakes",
+          "narrow": true,
+          "html": "<p>Welding and cutting aboard a vessel is <a href='fr-coveralls-for-welders.html'>EN ISO 11611</a> territory with the difficulty turned up: <strong>confined spaces, painted steel, and escape routes that aren't a straight line</strong>. Marine yards specify FR coveralls in serious fabric weights, flame-resistant underlayers rather than synthetics (a polyester tee under FR is a hidden hazard), and glove/spat combinations for position welding. The <a href='en-iso-11612-explained.html'>11612 letters</a> matter here too — radiant and contact heat both feature in shipwork.</p><p>The cruise side is the same buying problem as a large hotel, times ten and against the clock: <strong>turnaround days need uniform depth</strong> — spare sizes on the rack, laundering rotations that survive a season, and garments from our <a href='front-of-house-uniform-guide.html'>FOH guide</a> chosen because they still look pressed at hour twelve. Provisioning and stores crews bridge the two worlds: hi-vis and safety boots at the gangway, presentation standards inboard.</p>"
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Supply",
+          "h2": "How we supply Southampton",
+          "items": [
+            {
+              "n": "Both collars",
+              "l": "Welding FR and FOH uniform from one stock"
+            },
+            {
+              "n": "Season depth",
+              "l": "Cruise-scale sizing and rotation quantities"
+            },
+            {
+              "n": "Trade accounts",
+              "l": "Yards, agencies and operators on one account"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Southampton kit FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What FR clothing is needed for ship repair welding?",
+          "a": "EN ISO 11611 welding garments in substantial fabric weights, worn over flame-resistant or natural-fibre underlayers — never synthetics — with leather gauntlets, spats for position work and the confined-space arrangements the yard specifies. Marine hot work is standard welding kit with the margins tightened."
+        },
+        {
+          "q": "What do cruise ship turnaround staff wear?",
+          "a": "Shore-side turnaround teams wear their employer's uniform — housekeeping, galley and FOH kit at hotel scale — with hi-vis and safety footwear for anyone working the gangway, stores or vehicle decks. The buying challenge is depth: spare sizes and laundering rotation for teams that surge on turnaround days."
+        },
+        {
+          "q": "Do you supply Solent marine businesses?",
+          "a": "Nationwide from stock next-day — welding FR, composite-work disposables, terminal hi-vis and hospitality uniform on one trade account with embroidery before dispatch. The two-collar order is normal here."
+        }
+      ]
+    },
+    {
+      "slug": "workwear-portsmouth",
+      "role": "spoke",
+      "spokeType": "Area guide",
+      "navLabel": "Portsmouth",
+      "cardTitle": "Workwear in Portsmouth",
+      "cardBlurb": "The naval dockyard and its contractor ring — pass-controlled kit, marine trades and ferry-port hi-vis.",
+      "crumbTail": "Portsmouth",
+      "kicker": "Area guide · Portsmouth",
+      "h1": "Workwear in Portsmouth: dockyard rules apply.",
+      "metaTitle": "Workwear in Portsmouth: Naval Dockyard, Marine & Ferry Kit | iNeedWorkwear",
+      "metaDesc": "Workwear for Portsmouth — contractor kit for the naval base and its engineering ring, marine trades and boatbuilding, ferry and commercial port hi-vis, and the island city's trades.",
+      "lede": "Portsmouth's biggest workplace is a naval base that maintains the fleet's largest ships, and its rules ripple outward: badge-controlled gates, escorted zones, and clothing lists written by defence contractors rather than high-street habit. Around it, a marine economy of boatbuilders, ferry operations and coastal trades keeps the kit list salty.",
+      "heroMeta": [
+        {
+          "n": "Fleet base",
+          "l": "Carrier-scale engineering"
+        },
+        {
+          "n": "Pass zones",
+          "l": "Kit rules per contractor badge"
+        },
+        {
+          "n": "Marine",
+          "l": "Boatyards to ferry decks"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The local economy",
+          "h2": "What Portsmouth actually works on",
+          "html": "<p>The <strong>naval base</strong> and its industrial partners employ thousands maintaining and supporting warships — marine engineering, electrical work, pipefitting, scaffolding and logistics inside one of Britain's most access-controlled workplaces. The <strong>commercial port</strong> runs continental ferries and fresh-produce imports; <strong>boatbuilding and marine services</strong> line the harbours from Gosport round to Langstone; and the island city itself adds construction, healthcare and a large services base. Defence work sets the tone: documented, inducted, checked.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Kit by sector",
+          "h2": "The Portsmouth kit map",
+          "head": [
+            "Local sector",
+            "The kit that matters",
+            "The spec detail"
+          ],
+          "rows": [
+            [
+              "Dockyard contractors",
+              "Employer-specified PPE, fitted kit, S3 boots",
+              "Contractor inductions list it item by item — buy to the document"
+            ],
+            [
+              "Marine engineering",
+              "Welding FR, coveralls, gauntlets",
+              "<a href='fr-coveralls-for-welders.html'>EN ISO 11611 decoded</a>"
+            ],
+            [
+              "Boatbuilding & composites",
+              "Type 5/6 disposables, FFP RPE, nitrile",
+              "<a href='disposable-ppe-guide.html'>Disposables done right</a>"
+            ],
+            [
+              "Ferry & port operations",
+              "Class 3 hi-vis, all-weather layers",
+              "<a href='caring-for-hi-vis.html'>Kept compliant</a> in harbour weather"
+            ],
+            [
+              "City trades & FM",
+              "Site baseline, embroidered uniform",
+              "<a href='construction-workwear-guide.html'>The baseline</a>"
+            ]
+          ]
+        },
+        {
+          "type": "prose",
+          "klabel": "The detail that matters",
+          "h2": "Access-controlled sites buy by the document",
+          "narrow": true,
+          "html": "<p>Defence-adjacent work formalises everything: a contractor's kit list arrives in writing, garments may need to be <strong>plain or specifically branded</strong> (some zones restrict logos and cameras alike), and the difference between landside, jetty and onboard work is a difference of clothing spec, not just location. The practical rule for firms picking up base work: <strong>quote from the induction pack, not from experience elsewhere</strong> — and hold spares, because a turned-away worker on an escorted site loses the whole day, not ten minutes.</p><p>The marine trades around the harbour follow patterns we cover elsewhere — <a href='fr-coveralls-for-welders.html'>hot-work FR</a> afloat, composite disposables in the boat sheds — with the coastal constant that <a href='caring-for-hi-vis.html'>salt-faded hi-vis</a> retires early here, same as every port town.</p>"
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Supply",
+          "h2": "How we supply Portsmouth",
+          "items": [
+            {
+              "n": "To the document",
+              "l": "Kit matched line-by-line to induction packs"
+            },
+            {
+              "n": "From stock",
+              "l": "Marine FR, disposables and hi-vis next-day"
+            },
+            {
+              "n": "Trade accounts",
+              "l": "Contractor firms and yards on one account"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Portsmouth kit FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What workwear do naval base contractors need?",
+          "a": "Whatever their contract and induction documents specify — typically fitted workwear or coveralls, S3 boots, helmet, eyewear and task PPE, with zone-specific additions for jetty or onboard work. Access-controlled sites enforce the written list, so order against the document and hold spares."
+        },
+        {
+          "q": "What PPE is needed for boatbuilding?",
+          "a": "For composite work: type 5/6 disposable coveralls, FFP3 respiratory protection for sanding and fairing, nitrile gloves for resins, eye protection — plus conventional trade kit for fit-out. Spray days move into higher-grade RPE per the product data sheets."
+        },
+        {
+          "q": "Do you deliver to Portsmouth and Gosport?",
+          "a": "Nationwide from stock, usually next-day — dockyard contractor kit, boatyard disposables by the case and embroidered company uniform all run through one trade account."
+        }
+      ]
+    },
+    {
+      "slug": "workwear-swindon",
+      "role": "spoke",
+      "spokeType": "Area guide",
+      "navLabel": "Swindon",
+      "cardTitle": "Workwear in Swindon",
+      "cardBlurb": "From railway works to distribution powerhouse — big-shed kit, engineering rotation wear and M4-corridor trades.",
+      "crumbTail": "Swindon",
+      "kicker": "Area guide · Swindon",
+      "h1": "Workwear in Swindon: the corridor's working wardrobe.",
+      "metaTitle": "Workwear in Swindon: Distribution, Engineering & Trades Kit | iNeedWorkwear",
+      "metaDesc": "Workwear for Swindon — distribution-centre kit for the M4 corridor's big sheds, engineering and electronics workwear, construction trades and the growing town's service uniforms.",
+      "lede": "Swindon built locomotives for 140 years, then rebuilt itself as the M4 corridor's working engine: national distribution centres, precision engineering and electronics, and the construction trades of a town that never stops adding estates. The kit list is broad, practical and bought at fleet scale.",
+      "heroMeta": [
+        {
+          "n": "M4 J15–16",
+          "l": "Distribution's western anchor"
+        },
+        {
+          "n": "Heritage",
+          "l": "An engineering town at heart"
+        },
+        {
+          "n": "Fleet buys",
+          "l": "Hundreds dressed per order"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The local economy",
+          "h2": "What Swindon actually runs on",
+          "html": "<p><strong>Distribution</strong> leads: household-name retailers and logistics operators run national centres off the M4, with the former car-plant land itself turning over to big-shed employment. <strong>Engineering endures</strong> — precision manufacture, electronics and automotive suppliers still work across the town's estates, heirs to the railway works tradition. Add <strong>financial and business services</strong> head offices, a permanently busy <strong>construction</strong> sector, and healthcare for a growing population, and Swindon's wardrobe spans trainer-floor to boardroom-adjacent.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Kit by sector",
+          "h2": "The Swindon kit map",
+          "head": [
+            "Local sector",
+            "The kit that matters",
+            "The spec detail"
+          ],
+          "rows": [
+            [
+              "Distribution centres",
+              "Hi-vis, cushioned S1P trainers, layers",
+              "<a href='warehouse-logistics-workwear-guide.html'>Kit by zone</a>"
+            ],
+            [
+              "Precision engineering & electronics",
+              "Fitted kit, ESD where zoned",
+              "<a href='en-1149-5-antistatic-explained.html'>EN 1149-5 explained</a>"
+            ],
+            [
+              "Construction & housebuilding",
+              "Class 2 hi-vis, helmets, S3 boots",
+              "<a href='construction-workwear-guide.html'>The baseline</a>"
+            ],
+            [
+              "Facilities & grounds",
+              "Softshells, waterproofs, gloves",
+              "<a href='choosing-work-jackets.html'>The jacket families</a>"
+            ],
+            [
+              "Service & office teams",
+              "Embroidered polos and softshells",
+              "<a href='washing-embroidered-workwear.html'>Branded-kit care</a>"
+            ]
+          ]
+        },
+        {
+          "type": "prose",
+          "klabel": "The detail that matters",
+          "h2": "Fleet buying is a logistics problem, not a shopping one",
+          "narrow": true,
+          "html": "<p>Swindon's characteristic order isn't exotic — it's <strong>big</strong>: two hundred pickers, forty engineers, a dozen office staff, one brand. At that scale the failure modes are administrative: sizes that don't match bodies, logos that drift between batches, reorders that take longer than staff turnover. The fixes are equally unglamorous — <strong>a held size curve</strong> (order the spread your workforce actually has, keep a buffer for starters), <strong>one digitised logo</strong> applied identically across garment types, and a reorder route that doesn't restart the conversation each time. That's what a trade account is actually for; our <a href='uniform-quantity-calculator.html'>quantity calculator</a> handles the sets-per-person arithmetic.</p><p>The engineering estates add the quieter specs — <a href='en-1149-5-antistatic-explained.html'>ESD garments</a> where electronics zones require them, snug fits near machines, and <a href='oil-grease-out-of-workwear.html'>rotation laundering</a> where coolant is daily life.</p>"
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Supply",
+          "h2": "How we supply Swindon",
+          "items": [
+            {
+              "n": "Size curves held",
+              "l": "Starters dressed on day one, not week three"
+            },
+            {
+              "n": "From stock",
+              "l": "Shed, engineering and site kit next-day"
+            },
+            {
+              "n": "Trade accounts",
+              "l": "One logo, every garment, every reorder"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Swindon kit FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "How do you keep uniforms consistent across a large workforce?",
+          "a": "Digitise the logo once and apply it across every garment type from one supplier, hold a size-curve buffer for new starters, and reorder through a standing account rather than fresh quotes. Brand drift comes from switching suppliers and re-digitising artwork — consistency is a process, not a product."
+        },
+        {
+          "q": "What workwear do distribution centre staff need in Swindon?",
+          "a": "The standard zone list: breathable kit and cushioned S1P safety trainers for picking distances, layered warmth for chilled sections and dock doors, hi-vis per the site's traffic plan. Footwear quality matters most — a picker's shift is measured in kilometres."
+        },
+        {
+          "q": "Do you supply ESD workwear for electronics?",
+          "a": "Yes — EN 1149-5 static-dissipative garments and ESD footwear from stock, for zones where the product's sensitivity sets the clothing spec. Where only benches are protected, wrist straps and mats may suffice; zoned floors put it on the garment label."
+        }
+      ]
+    },
+    {
+      "slug": "workwear-port-talbot",
+      "role": "spoke",
+      "spokeType": "Area guide",
+      "navLabel": "Port Talbot",
+      "cardTitle": "Workwear in Port Talbot",
+      "cardBlurb": "Steel in transition — hot-metal FR today, arc-furnace and construction kit tomorrow, and a town of contractors between.",
+      "crumbTail": "Port Talbot",
+      "kicker": "Area guide · Port Talbot",
+      "h1": "Workwear in Port Talbot: steel town, changing spec.",
+      "metaTitle": "Workwear in Port Talbot: Steelworks, Transition & Contractor Kit | iNeedWorkwear",
+      "metaDesc": "Workwear for Port Talbot — molten-metal FR and HRO footwear for the steelworks, the electric-arc transition's construction and electrical kit, port and haulage hi-vis and the town's trades.",
+      "lede": "Port Talbot's skyline has meant steel for a century, and the works is now living through the industry's biggest change of era: the move from blast furnaces to electric arc steelmaking. For workwear that means two kit lists overlapping — the hot-metal wardrobe the town knows by heart, and the construction-and-electrical one the transition brings with it.",
+      "heroMeta": [
+        {
+          "n": "Code E",
+          "l": "The molten-iron letter, as ever"
+        },
+        {
+          "n": "EAF era",
+          "l": "Arc furnaces change the mix"
+        },
+        {
+          "n": "Build phase",
+          "l": "A construction site inside a works"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The local economy",
+          "h2": "What Port Talbot actually runs on",
+          "html": "<p>The <strong>steelworks</strong> remains the anchor employer as it re-tools: hot-end operations giving way to <strong>electric arc steelmaking</strong>, with a multi-year construction programme putting civils crews, steel erectors, M&E contractors and commissioning engineers inside the fence alongside steelworkers. Around the works: the <strong>deep-water port and haulage</strong> moving material, engineering and fabrication firms along the M4, and the trades and services of the Afan valley towns. Contractor badges outnumber works badges some months — the wardrobe follows.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Kit by phase",
+          "h2": "The Port Talbot kit map",
+          "head": [
+            "Work",
+            "The kit that matters",
+            "The spec detail"
+          ],
+          "rows": [
+            [
+              "Hot-end steel operations",
+              "Molten-metal FR, radiant layers, HRO boots",
+              "<span class='code'>EN ISO 11612 code E</span> — <a href='en-iso-11612-explained.html'>decoded</a>"
+            ],
+            [
+              "EAF & electrical work",
+              "Arc-rated garments for switching zones",
+              "<a href='iec-61482-arc-flash-explained.html'>IEC 61482 explained</a>"
+            ],
+            [
+              "Transition construction",
+              "Class 2–3 hi-vis, helmets, S3 boots",
+              "<a href='construction-workwear-guide.html'>The baseline</a> inside a live works"
+            ],
+            [
+              "Maintenance & fabrication",
+              "Welding FR, heat gloves",
+              "<a href='en-407-heat-gloves-explained.html'>EN 407 levels</a>"
+            ],
+            [
+              "Port & haulage",
+              "All-weather hi-vis, grip footwear",
+              "<a href='caring-for-hi-vis.html'>Salt-air garment care</a>"
+            ]
+          ]
+        },
+        {
+          "type": "prose",
+          "klabel": "The detail that matters",
+          "h2": "Two eras of steel, one gate",
+          "narrow": true,
+          "html": "<p>While hot metal runs, nothing about the classic spec relaxes: <a href='en-iso-11612-explained.html'>EN ISO 11612</a> with <strong>code E</strong> molten-iron performance, radiant-heat capability, heavy shed-splash fabrics and <strong>HRO-soled</strong> boots (<a href='safety-boot-codes-explained.html'>the codes</a>) stay the price of entry to the hot end. The arc-furnace era shifts the emphasis rather than erasing it — molten steel is still molten steel — but adds a serious <strong>electrical dimension</strong>: high-power switching and furnace electrics put <a href='iec-61482-arc-flash-explained.html'>arc-rated clothing</a> on lists where it never appeared before.</p><p>And through the build years, the works is simultaneously a <strong>construction site inside an operating plant</strong> — meaning contractors carry both the site baseline and whatever hot-zone or electrical spec their permit adds. Buying to the induction document, crew by crew, is the whole game here.</p>"
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Supply",
+          "h2": "How we supply Port Talbot",
+          "items": [
+            {
+              "n": "Hot-metal FR",
+              "l": "Code E garments and HRO boots from stock"
+            },
+            {
+              "n": "Transition kit",
+              "l": "Arc-rated and site baseline for the build crews"
+            },
+            {
+              "n": "Trade accounts",
+              "l": "Works contractors on rolling supply"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Port Talbot kit FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What FR is needed for steelworks in South Wales?",
+          "a": "EN ISO 11612 garments with molten-metal performance — code E for iron — plus radiant-heat capability and heavy splash-shedding fabrics, with HRO-soled S3 boots underfoot. The hot end's requirements don't soften during the transition; the works clothing standard remains the authority."
+        },
+        {
+          "q": "Does electric arc steelmaking change the PPE?",
+          "a": "It adds an electrical layer rather than replacing the thermal one: high-power furnace electrics and switching bring IEC 61482 arc-rated clothing into scope for authorised electrical work, while molten-steel zones keep their traditional FR and heat specifications. Task and permit decide which applies."
+        },
+        {
+          "q": "Can you kit construction crews working inside the steelworks?",
+          "a": "Yes — the dual list is our normal request from transition-phase sites: construction baseline (hi-vis, helmets, S3) plus the hot-zone or electrical additions each permit specifies, supplied by size run and embroidered per firm on one account."
+        }
+      ]
+    }
+  ]
+}

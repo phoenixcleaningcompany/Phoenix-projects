@@ -374,6 +374,14 @@ replicating the model on workwear. Full method in `canary-watch-framework.md`; i
 
 *(Assets: `canary-watch-framework.md`, `canary-tracking-sheet.csv`, `canary-watch-dashboard.html`.)*
 
+> **Amendment (2026-07-11, Damien's decision):** The canary gate is **waived for the 25 T2 town
+> pages** — each carries genuinely differentiated, industry-specific content (verified by the gate
+> suite at ≤11% cross-page similarity), so they don't match the scaled-thin pattern the gate guards
+> against. The gate's logic still applies to any *future* mass replication. New hard ceilings replace
+> the open-ended T3 ambition: **area pages capped at ~50 total** (31 live after this build) and
+> **informational pages capped at ~500 site-wide** — competitor evidence suggests area pages beyond
+> that see little traction. The T3 "~200–450 towns" line in the backlog is superseded by these caps.
+
 ---
 
 ## 7. Dealing with the existing pages
