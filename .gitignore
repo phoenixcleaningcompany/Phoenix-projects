@@ -1,2 +1,3 @@
 # build artifacts - regenerate with: cd site && zip -r ../ineedworkwear-uk-site.zip .
 ineedworkwear-uk-site.zip
+site/_manifest.json

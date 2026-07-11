@@ -1027,6 +1027,381 @@
         "alt": "Multi-head embroidery machine stitching a logo",
         "kind": "photo"
       }
+    },
+    {
+      "slug": "front-of-house-uniform-guide",
+      "role": "spoke",
+      "spokeType": "Buying guide",
+      "navLabel": "Front-of-house uniform",
+      "cardTitle": "Front-of-house uniform: the buying guide",
+      "cardBlurb": "Suits, blouses, dresses, skirts and the accessories that carry the brand — bought to survive real shifts, not just the launch photo.",
+      "crumbTail": "Buying guides",
+      "kicker": "Buying guide · Corporate & front of house",
+      "h1": "Front-of-house uniform, bought properly.",
+      "metaTitle": "Front-of-House Uniform Buying Guide: Suits, Blouses & Accessories | iNeedWorkwear",
+      "metaDesc": "How to buy corporate and front-of-house uniform — machine-washable tailoring, blouse and dress fabrics that survive shift work, the sizing spread for a mixed team, and why ties and scarves are the cheapest brand refresh you can order.",
+      "lede": "Front-of-house kit is the uniform customers actually look at — reception desks, restaurant floors, showrooms, salons. It has to read sharp at hour nine of a shift, wash at home without a dry-cleaning bill, and fit a team you didn't get to hand-pick. That's a different buying problem from a catalogue suit.",
+      "heroMeta": [
+        {
+          "n": "Washable",
+          "l": "Tailoring or it costs you weekly"
+        },
+        {
+          "n": "One palette",
+          "l": "Across every cut and body"
+        },
+        {
+          "n": "£ smallest",
+          "l": "Ties & scarves refresh the brand"
+        }
+      ],
+      "heroImage": {
+        "src": "assets/collections/blouses.webp",
+        "alt": "Black fitted short-sleeve work blouse",
+        "kind": "cutout",
+        "w": 600,
+        "h": 600
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The buying problem",
+          "h2": "Presentation kit that works shifts",
+          "html": "<p>The catalogue photo is not the test. The test is a receptionist's blouse after five wears and five washes, a maître d's jacket at the end of a double, a showroom skirt that's been sat down in two hundred times. Buy front-of-house kit on three questions: <strong>does it wash at home</strong> (dry-clean-only tailoring quietly adds hundreds a year per person), <strong>does it recover</strong> (crease-resistant and stretch fabrics read pressed at hour nine), and <strong>does the colour hold</strong> — because a faded navy next to a fresh navy looks worse than either alone.</p><p>Fabric answers most of it: poly-wool and technical poly blends for tailoring, polyester-rich blouse and dress cloths with a touch of elastane, and skirt weights heavy enough not to cling. Pure natural fibres look wonderful on day one and lose the plot by month three of commercial laundering.</p><p>One team, one palette: pick the colour story once and buy every garment — <a href='https://www.ineedworkwear.com/collections/suits-tailoring'>tailoring</a>, <a href='https://www.ineedworkwear.com/collections/blouses'>blouses</a>, <a href='https://www.ineedworkwear.com/collections/dresses'>dresses</a>, <a href='https://www.ineedworkwear.com/collections/skirts'>skirts</a> — inside it, so any mix on any body still reads as the same uniform.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The checklist",
+          "h2": "What to check, garment by garment",
+          "head": [
+            "Garment",
+            "Check before ordering",
+            "Why it matters"
+          ],
+          "rows": [
+            [
+              "Suits & tailoring",
+              "Machine-washable cloth; part-elastane; matching separates sold openly",
+              "Home-washable tailoring kills the dry-clean bill; separates let you fit real bodies"
+            ],
+            [
+              "Blouses & shirts",
+              "Easy-iron or non-iron finish; cut generous across the back",
+              "The garment ironed at 6am must look ironed at 6pm"
+            ],
+            [
+              "Dresses",
+              "Ponte or heavier jersey; sleeve option in the same style",
+              "Thin jersey clings and creases; sleeves widen who'll happily wear it"
+            ],
+            [
+              "Skirts",
+              "Lined, mid-weight, with stretch; more than one length offered",
+              "Unlined skirts static-cling to tights; one length never fits a whole team"
+            ],
+            [
+              "Ties, scarves & accessories",
+              "Brand colour available on repeat, not one season",
+              "Accessories are the cheapest uniform refresh — if you can reorder them"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Buying logic",
+          "h2": "Three rules that survive contact",
+          "items": [
+            {
+              "n": "Sizing spread",
+              "l": "Order the curve you have, not the one the brochure models — 6 to 24, tall and petite where offered"
+            },
+            {
+              "n": "Embroider light",
+              "l": "A small tonal logo on a blouse or lapel reads premium; a big print reads promo staff — see <a href='how-embroidery-pricing-works.html'>how logo pricing works</a>"
+            },
+            {
+              "n": "Buy spares at 10%",
+              "l": "FOH kit fails by stain and snag, not wear-out — spares in the cupboard beat a three-week reorder"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Front-of-house FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What fabric is best for front-of-house uniforms?",
+          "a": "Poly-wool or technical polyester blends with a small elastane content for tailoring, and easy-iron polyester-rich cloths for blouses and dresses. The blend does three jobs natural fibre can't sustain in shift work: home washability, crease recovery through a long day, and colour that stays matched across the team through repeat laundering."
+        },
+        {
+          "q": "Should staff uniforms be dry-clean only?",
+          "a": "Avoid it wherever possible. Dry-clean-only tailoring either costs the business a recurring laundering bill or quietly stops being cleaned properly. Machine-washable suiting is widely available now and looks the part; specify it and the problem disappears at the buying stage."
+        },
+        {
+          "q": "How do you keep a mixed team looking uniform?",
+          "a": "Fix the palette and buy every garment style inside it, from the same supplier range, so navy is the same navy across a suit, a dress and a skirt. Then offer real choice within the palette — trouser or skirt, dress or blouse, sleeve options — so people wear what suits them and everyone still matches."
+        },
+        {
+          "q": "Is uniform for front-of-house staff tax deductible?",
+          "a": "For the employer, workwear provided to staff is a normal business expense. For employees required to wear and launder a recognisable uniform, HMRC's flat-rate uniform allowance may apply — see our uniform tax relief guide for how the claim works."
+        }
+      ]
+    },
+    {
+      "slug": "work-headwear-guide",
+      "role": "spoke",
+      "spokeType": "Buying guide",
+      "navLabel": "Work headwear",
+      "cardTitle": "Work headwear: caps, beanies and when it's PPE",
+      "cardBlurb": "Uniform caps, thermal beanies, bump caps and the line where headwear stops being branding and becomes protection.",
+      "crumbTail": "Buying guides",
+      "kicker": "Buying guide · Headwear",
+      "h1": "Work headwear: uniform, warmth or PPE?",
+      "metaTitle": "Work Headwear Guide: Caps, Beanies, Bump Caps & Helmets | iNeedWorkwear",
+      "metaDesc": "Choosing work headwear — embroidered caps as uniform, thermal beanies for outdoor and cold-store work, EN 812 bump caps vs EN 397 helmets, and hygiene coverage for food environments.",
+      "lede": "Headwear is three different purchases wearing one name. Sometimes it's uniform — a logo cap on a delivery driver. Sometimes it's comfort kit — a thermal beanie on a winter site. And sometimes it's PPE with a standard number, where buying the wrong thing isn't a style mistake but a compliance one. Sort out which you're buying and the rest is easy.",
+      "heroMeta": [
+        {
+          "n": "3 jobs",
+          "l": "Brand, warmth, protection"
+        },
+        {
+          "n": "EN 812",
+          "l": "Bump cap — not a helmet"
+        },
+        {
+          "n": "Front panel",
+          "l": "Where the logo earns its keep"
+        }
+      ],
+      "heroImage": {
+        "src": "assets/collections/caps.webp",
+        "alt": "Black embroidered work cap",
+        "kind": "cutout",
+        "w": 600,
+        "h": 600
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The distinction",
+          "h2": "Know which of the three you're buying",
+          "html": "<p><strong>Uniform headwear</strong> is branding: an embroidered <a href='https://www.ineedworkwear.com/collections/caps'>cap</a> puts the logo at eye level on every doorstep and counter, which is why couriers and trades franchises live in them. Buy on panel quality and embroidery position — a structured front panel takes a logo cleanly; unstructured caps crumple it.</p><p><strong>Comfort headwear</strong> is thermal: <a href='https://www.ineedworkwear.com/collections/beanies'>beanies</a> and liners for outdoor trades, cold stores and winter yards. Look for machine-washable acrylic or acrylic-wool, and thin-knit versions that fit under a helmet rather than instead of one.</p><p><strong>Protective headwear</strong> carries a number. A <strong>bump cap (EN 812)</strong> protects against striking your own head on fixed objects — vans, low steel, plant interiors — and looks like a baseball cap with a shell inside. It is <em>not</em> a safety helmet: falling-object protection is <strong>EN 397</strong> territory, decoded in our <a href='en-397-helmets-explained.html'>helmets guide</a>. Sites that specify helmets mean helmets; a bump cap on a scaffold job is the wrong answer however smart it looks.</p><p>Food production adds a fourth, disposable case — hairnets, snoods and mob caps are hygiene consumables covered in our <a href='food-processing-workwear-guide.html'>food processing guide</a>.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The map",
+          "h2": "Headwear by job",
+          "head": [
+            "Type",
+            "Where it belongs",
+            "Standard"
+          ],
+          "rows": [
+            [
+              "Embroidered cap",
+              "Couriers, trades, hospitality counters — brand visibility",
+              "None — it's uniform"
+            ],
+            [
+              "Beanie / thermal liner",
+              "Outdoor trades, cold store, winter sites",
+              "None; helmet-compatible cuts matter"
+            ],
+            [
+              "Bump cap",
+              "Vehicle workshops, warehouse picking under racking, meter reading",
+              "<span class='code'>EN 812</span>"
+            ],
+            [
+              "Safety helmet",
+              "Construction, lifting operations, anywhere objects can fall",
+              "<span class='code'>EN 397</span>"
+            ],
+            [
+              "Hairnet / snood",
+              "Food production and prep — hygiene, not impact",
+              "Site hygiene policy"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Buying notes",
+          "h2": "The three that get missed",
+          "items": [
+            {
+              "n": "Bump ≠ helmet",
+              "l": "EN 812 protects you from the van roof; EN 397 protects you from the scaffold. Never substitute down"
+            },
+            {
+              "n": "Under-helmet fit",
+              "l": "Winter beanies must be thin-knit to sit under a shell — thick knits lift the helmet off its cradle"
+            },
+            {
+              "n": "Cap embroidery",
+              "l": "Front-centre, roughly 60mm wide, on a structured panel — see <a href='how-embroidery-pricing-works.html'>logo pricing</a>"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Headwear FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What is the difference between a bump cap and a safety helmet?",
+          "a": "A bump cap (EN 812) protects against you striking your head on fixed objects — low beams, vehicle interiors, racking. A safety helmet (EN 397) protects against falling objects and carries much higher impact requirements. They are not interchangeable: where a site or risk assessment specifies a helmet, a bump cap does not comply."
+        },
+        {
+          "q": "Can you wear a beanie under a safety helmet?",
+          "a": "Yes, if it's a thin-knit or purpose-made helmet liner that doesn't interfere with the harness cradle. A thick beanie lifts the shell and changes how the helmet sits and performs. Many helmet ranges offer winter liners designed for exactly this."
+        },
+        {
+          "q": "Where should a logo go on a work cap?",
+          "a": "Front and centre on a structured panel, typically around 55–65mm wide. Structured caps hold the embroidery flat; unstructured ones crease through the design. Keep the artwork simple — fine text disappears at cap-embroidery scale."
+        }
+      ]
+    },
+    {
+      "slug": "choosing-work-jackets",
+      "role": "spoke",
+      "spokeType": "Buying guide",
+      "navLabel": "Work jackets",
+      "cardTitle": "Choosing a work jacket: shell, softshell, insulated or gilet",
+      "cardBlurb": "The four jacket families, what each is actually for, and the layering logic that stops you buying warmth you can't work in.",
+      "crumbTail": "Buying guides",
+      "kicker": "Buying guide · Jackets & outer layers",
+      "h1": "Choosing a work jacket, family first.",
+      "metaTitle": "Work Jacket Guide: Shell vs Softshell vs Insulated vs Gilet | iNeedWorkwear",
+      "metaDesc": "How to choose a work jacket — waterproof shells and EN 343, softshells for everyday wind and showers, insulated jackets for static cold work, and gilets for active jobs that need a free arm swing.",
+      "lede": "Jacket regret is nearly always a category mistake, not a quality one: a waterproof bought for warmth, a padded jacket sweated through by an active job, a fleece facing January rain. Pick the family first — shell, softshell, insulated, or gilet — and almost any decent garment inside it will do its job.",
+      "heroMeta": [
+        {
+          "n": "4 families",
+          "l": "Shell, softshell, insulated, gilet"
+        },
+        {
+          "n": "EN 343",
+          "l": "The waterproof rating that's real"
+        },
+        {
+          "n": "Move or stand?",
+          "l": "The one question that decides"
+        }
+      ],
+      "heroImage": {
+        "src": "assets/collections/jackets.webp",
+        "alt": "Black waterproof work jacket",
+        "kind": "cutout",
+        "w": 600,
+        "h": 600
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The one question",
+          "h2": "Moving work or standing work?",
+          "html": "<p>Everything follows from how the job generates heat. <strong>Active work</strong> — carrying, climbing, fitting, delivering — makes its own warmth and needs a jacket that manages weather without cooking you: a <a href='https://www.ineedworkwear.com/collections/softshell-jackets'>softshell</a> for everyday wind and drizzle, a true waterproof <a href='https://www.ineedworkwear.com/collections/jackets'>shell</a> when it's properly raining (the rating system is decoded in our <a href='en-343-waterproofs-explained.html'>EN 343 guide</a>), or a <a href='https://www.ineedworkwear.com/collections/bodywarmers-gilets'>gilet</a> when the arms need to swing free and the core just needs cover.</p><p><strong>Static work</strong> — banksman duties, gate security, machine minding, cold-store picking — generates almost nothing, and that's where <a href='https://www.ineedworkwear.com/collections/coats-jackets'>insulated jackets and parkas</a> earn their bulk. The classic mistake runs both directions: padded jackets on active jobs end up tied round waists by ten o'clock, and softshells on static winter jobs are a misery by lunch.</p><p>Layers beat bulk either way: a <a href='base-layers-guide.html'>base layer</a> and a mid-layer under a shell covers more conditions than one heavyweight jacket ever will — and when the choice inside a family is genuinely close, our <a href='softshell-vs-fleece.html'>softshell vs fleece</a> comparison settles the commonest one.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The families",
+          "h2": "Four families, four jobs",
+          "head": [
+            "Family",
+            "Built for",
+            "Watch for"
+          ],
+          "rows": [
+            [
+              "Waterproof shell",
+              "Real rain, all day, over layers",
+              "<span class='code'>EN 343</span> class; taped seams; sized for a mid-layer under it"
+            ],
+            [
+              "Softshell",
+              "Everyday wind, drizzle, constant movement",
+              "Water-resistant is not waterproof — it buys you an hour, not a shift"
+            ],
+            [
+              "Insulated / parka",
+              "Static cold: gates, yards, banksman, cold store",
+              "Too warm to work hard in; check cuff and hem seals, not just fill"
+            ],
+            [
+              "Bodywarmer / gilet",
+              "Active jobs needing free arms; layering over knitwear",
+              "Core-only warmth — pair with sleeves elsewhere in the system"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Before you order",
+          "h2": "Three checks that save a reorder",
+          "items": [
+            {
+              "n": "Size over layers",
+              "l": "Try the shell over what will actually live under it — a jacket that fits over a tee doesn't fit over a fleece"
+            },
+            {
+              "n": "Wash & reproof",
+              "l": "Waterproofs are maintained, not immortal — see <a href='reproofing-waterproofs.html'>reproofing</a> before replacing"
+            },
+            {
+              "n": "Logo placement",
+              "l": "Left chest on shells and softshells; embroidery punctures membranes, so quality suppliers seal or patch behind it"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Jacket FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What's the difference between a softshell and a waterproof jacket?",
+          "a": "A softshell is wind-resistant and shower-resistant — ideal for active work in everyday weather — but its fabric and seams are not sealed. A waterproof shell carries an EN 343 rating with taped seams and keeps sustained rain out for a full shift. If the forecast says rain all day, it's a shell job."
+        },
+        {
+          "q": "Are bodywarmers any good for work?",
+          "a": "Excellent for active jobs: they keep the core warm while leaving the arms completely free, which is why fitters, couriers and warehouse teams favour them. They're core-only warmth though — in real cold they work as a layer over knitwear or under a shell, not alone."
+        },
+        {
+          "q": "Can you embroider a waterproof jacket?",
+          "a": "Yes, but embroidery needles puncture the waterproof membrane, so it needs doing properly — sealed behind the stitching or applied to a bonded patch. It's standard practice for a competent workwear embroiderer; just don't have a fashion embroiderer do it as if it were a hoodie."
+        },
+        {
+          "q": "What jacket is best for standing outside all day?",
+          "a": "An insulated jacket or parka sized over a base and mid-layer, with sealed cuffs and a decent hem drop. Static outdoor work generates almost no body heat, so buy for insulation and wind-proofing rather than breathability — the opposite of what an active trade needs."
+        }
+      ]
     }
   ]
 }
