@@ -819,6 +819,684 @@
           "a": "Usually yes, within the label's rules: FR-only loads, plain detergent, no softener, no chlorine bleach, proper degreasing of oil contamination, and drying to the label. Industrial laundering remains the safer option for treated FR because it controls the chemistry and counts the washes — for hydrocarbon-site kit, many employers mandate it."
         }
       ]
+    },
+    {
+      "slug": "paint-out-of-workwear",
+      "role": "spoke",
+      "spokeType": "Care guide",
+      "navLabel": "Paint stains",
+      "cardTitle": "Getting paint out of workwear",
+      "cardBlurb": "Emulsion, gloss and two-pack behave like three different substances — the removal playbook, and when to stop trying.",
+      "crumbTail": "Care",
+      "kicker": "Care guide · Paint",
+      "h1": "Paint on workwear: what comes out, what won't.",
+      "metaTitle": "Getting Paint Out Of Workwear: Emulsion, Gloss & 2-Pack | iNeedWorkwear",
+      "metaDesc": "Paint stain removal for workwear — wet emulsion vs dried, oil-based gloss and solvents, why two-pack is permanent, and the painter's honest economics of whites as consumables.",
+      "lede": "Paint removal has one law: the chemistry of the paint decides everything. Water-based emulsion caught wet rinses out; the same splash dried is a plastic film gripping the weave; and cured two-pack laughs at every product in the cupboard. Knowing which battle you're in saves the wasted hour.",
+      "heroMeta": [
+        {
+          "n": "Wet wins",
+          "l": "Emulsion caught early rinses out"
+        },
+        {
+          "n": "Solvents",
+          "l": "Oil-based needs white spirit — carefully"
+        },
+        {
+          "n": "2-pack",
+          "l": "Cured = permanent, honestly"
+        }
+      ],
+      "schema": {
+        "type": "HowTo",
+        "steps": [
+          {
+            "name": "Identify the paint before touching it",
+            "text": "Water-based (emulsion, most trade wall paints), oil-based (gloss, undercoat), or catalysed (two-pack, epoxies). The tin tells you; the removal method follows entirely from this."
+          },
+          {
+            "name": "Wet water-based paint: rinse now",
+            "text": "Cold running water from the back of the fabric, then wash normally. Speed is everything — emulsion is easy for about an hour and nearly impossible once cured."
+          },
+          {
+            "name": "Dried water-based paint: soften and scrape",
+            "text": "Warm soapy water soak, then work the film with a blunt edge; repeat. Alcohol-based products help on stubborn films. Expect partial success on textured weaves."
+          },
+          {
+            "name": "Oil-based paint: solvent, outside, sparingly",
+            "text": "White spirit on a cloth from the fabric's reverse, blotting not rubbing, outdoors — then wash the garment hot with strong detergent to lift the solvent residue. Never machine-wash a solvent-soaked garment directly."
+          },
+          {
+            "name": "Two-pack and epoxies: don't bother",
+            "text": "Once catalysed, it's a thermoset plastic bonded to the fibres. Nothing that removes it leaves fabric behind. Pick off what lifts, call the rest decoration."
+          }
+        ]
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The honest economics",
+          "h2": "Painter's whites are consumables",
+          "html": "<p>The trade already knows this: <a href='painter-decorator-workwear-guide.html'>painters' whites</a> are bought expecting decoration — the splatter pattern is practically a CV — and the working economics favour <strong>rotation over rescue</strong>: enough sets that a paint-heavy day doesn't force a re-wear (<a href='uniform-quantity-calculator.html'>the sets maths</a>), removal effort spent only on the big misses, and retirement when stiffness, not stains, says so. A paint-loaded garment that's gone board-stiff has lost its flex and its comfort; that's the replacement signal.</p><p>Two cautions from the solvent step: white spirit and fabric softener share a failure mode — <strong>residues left in fabric</strong> — so post-solvent garments get a hot, thorough wash on their own; and solvent work near <a href='washing-fr-workwear.html'>FR garments</a> is a hard no — contamination compromises the protection, and FR kit with paint jobs goes through the employer's process, not the utility-room experiment.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Quick reference",
+          "h2": "Paint by paint",
+          "head": [
+            "Paint",
+            "Fresh",
+            "Dried"
+          ],
+          "rows": [
+            [
+              "Emulsion / wall paints",
+              "Cold rinse + normal wash — near-total success",
+              "Soak, scrape, repeat — partial at best"
+            ],
+            [
+              "Gloss & oil-based",
+              "White spirit blot, then hot wash",
+              "Same, slower, worse odds"
+            ],
+            [
+              "Two-pack, epoxy, floor coatings",
+              "Wipe the worst before it cures",
+              "Permanent — it's plastic now"
+            ],
+            [
+              "Masonry & textured",
+              "As emulsion, but the grit shreds success",
+              "Retire gracefully"
+            ],
+            [
+              "Wood stains & dyes",
+              "Blot immediately; success varies by dye",
+              "Usually permanent on cotton"
+            ]
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Paint stain FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "How do you get dried emulsion out of clothes?",
+          "a": "Soak in warm soapy water to soften the film, then work it loose with a blunt edge and repeat — alcohol-based products help stubborn patches. Expect partial success: dried emulsion is a plastic film in the weave, and textured fabrics hold it hardest. Fresh emulsion, by contrast, rinses out almost completely."
+        },
+        {
+          "q": "Does white spirit damage clothing?",
+          "a": "Used sparingly and washed out properly, usually not — but it must be blotted from the fabric's reverse, used outdoors, and followed by a hot, thorough wash to remove residue. Never put a solvent-wet garment straight into a machine, and never use solvents on FR clothing."
+        },
+        {
+          "q": "Can you remove two-pack paint from workwear?",
+          "a": "Honestly, no — once catalysed it's a thermoset plastic bonded into the fibres, and anything aggressive enough to attack it destroys the fabric. Wipe splashes before they cure; after that, it's permanent and the garment's future is cosmetic."
+        }
+      ]
+    },
+    {
+      "slug": "cement-concrete-stains",
+      "role": "spoke",
+      "spokeType": "Care guide",
+      "navLabel": "Cement & concrete",
+      "cardTitle": "Cement and concrete on workwear",
+      "cardBlurb": "Cement doesn't stain — it cures, and it burns. The removal window, the washing rules and the skin warning that matters more.",
+      "crumbTail": "Care",
+      "kicker": "Care guide · Cement",
+      "h1": "Cement on workwear: cure, corrosion and the clock.",
+      "metaTitle": "Cement & Concrete Stains On Workwear: Removal & Care | iNeedWorkwear",
+      "metaDesc": "Cement and concrete on workwear — why wet cement is a chemical burn hazard first, the removal window before it cures, machine-washing rules (grit kills machines), and when trousers are done.",
+      "lede": "Cement isn't a stain — it's a chemical reaction wearing your trousers as a mould. Wet, it's caustic enough to burn skin through soaked fabric; cured, it's rock bonded to the weave. Both facts matter more than laundry technique, which is why this guide starts with the skin and ends with the washing machine.",
+      "heroMeta": [
+        {
+          "n": "pH ~13",
+          "l": "Wet cement is caustic — skin first"
+        },
+        {
+          "n": "Hours",
+          "l": "The removal window before cure"
+        },
+        {
+          "n": "Grit",
+          "l": "What concrete does to washing machines"
+        }
+      ],
+      "schema": {
+        "type": "HowTo",
+        "steps": [
+          {
+            "name": "Soaked-through fabric comes off — for the skin, not the garment",
+            "text": "Wet cement against skin causes alkaline burns that don't hurt until damage is done. Trousers soaked at the knee mean change and rinse the skin now — the classic injury is kneeling in screed all afternoon."
+          },
+          {
+            "name": "Scrape and shake dry material before any water",
+            "text": "Brush off powder and lumps outside. Dry cement plus water starts curing — don't make paste in the fabric."
+          },
+          {
+            "name": "Rinse splashes cold, soon",
+            "text": "Fresh mortar and concrete splash rinses out under cold running water within the working hours before initial set. This is the whole removal window."
+          },
+          {
+            "name": "Cured spots: mechanical, not chemical",
+            "text": "Flex the fabric, pick and brush what cracks free. Acid-based patio cleaners that dissolve concrete also eat dyes and cellulose — they're for slabs, not trousers."
+          },
+          {
+            "name": "Wash grit-heavy kit with mercy on the machine",
+            "text": "Shake out thoroughly, rinse first, use a bag or a launderette machine for the truly loaded — concrete fines are what kill domestic pumps and bearings."
+          }
+        ]
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The realities",
+          "h2": "Trousers as consumables, skin as the asset",
+          "html": "<p>Groundworkers and formworkers retire trousers the way <a href='paint-out-of-workwear.html'>painters retire whites</a> — by stiffness and abrasion, not stains. Cement-crusted fabric loses flex, chafes, and grinds itself apart at the knees; the working answer is rotation depth, knee protection that spares the fabric (<a href='en-14404-knee-protection-explained.html'>EN 14404 inserts</a> take the kneeling), and acceptance that a season of concrete work consumes cloth. Waterproof over-trousers for pour days are cheaper than trousers.</p><p>The skin point deserves its repetition: <strong>cement burns are slow-notice injuries</strong> — alkaline attack numbs as it damages, and kneeling in fresh screed through ordinary trousers is the textbook case. Wet-work days want waterproof knee cover or <a href='safety-wellingtons-guide.html'>wellingtons</a> and gauntlets at the mixing end. Fabric is replaceable.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Quick reference",
+          "h2": "State by state",
+          "head": [
+            "State",
+            "Action",
+            "Odds"
+          ],
+          "rows": [
+            [
+              "Powder on fabric",
+              "Brush off dry, outside",
+              "Total"
+            ],
+            [
+              "Fresh splash (pre-set)",
+              "Cold rinse now",
+              "Excellent"
+            ],
+            [
+              "Going off (hours old)",
+              "Rinse + gentle scrape",
+              "Partial"
+            ],
+            [
+              "Cured spots",
+              "Flex, crack, pick — accept the rest",
+              "Poor"
+            ],
+            [
+              "Soaked through to skin",
+              "Garment off, skin rinsed — burns first",
+              "Not a laundry question"
+            ]
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Cement FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "How do you get cement out of clothes?",
+          "a": "Dry: brush it off outside before water touches it. Fresh and wet: rinse under cold running water before it sets — that window of a few hours is your whole chance. Cured: mechanical removal only (flex and pick); the acids that dissolve concrete destroy fabric too."
+        },
+        {
+          "q": "Can wet cement burn you through clothing?",
+          "a": "Yes — fabric soaked with wet cement holds the caustic mix against skin, and alkaline burns develop painlessly over hours. Kneeling in fresh screed is the classic injury. Soaked garments come off promptly and skin gets rinsed thoroughly; wet-work days call for waterproof layers."
+        },
+        {
+          "q": "Does concrete damage washing machines?",
+          "a": "The grit does — sand and cement fines destroy pumps and bearings. Shake and brush kit outside, pre-rinse heavily loaded garments, and consider a dedicated or launderette machine for the worst. Never wash chunks of cured concrete through a domestic drum."
+        }
+      ]
+    },
+    {
+      "slug": "drying-workwear-properly",
+      "role": "spoke",
+      "spokeType": "Care guide",
+      "navLabel": "Drying workwear",
+      "cardTitle": "Drying workwear properly",
+      "cardBlurb": "The overnight-dry problem solved — what tumble heat ruins, what damp kit costs, and the drying-room logic that works at home.",
+      "crumbTail": "Care",
+      "kicker": "Care guide · Drying",
+      "h1": "Drying workwear: the overnight problem.",
+      "metaTitle": "Drying Workwear Properly: Tumble Rules & Overnight Drying | iNeedWorkwear",
+      "metaDesc": "How to dry workwear properly — which garments tumble and which die in the dryer, the overnight drying setup that actually works, boot drying without cracking, and why damp kit is a health issue.",
+      "lede": "The hardest workwear problem in Britain isn't washing — it's Tuesday night: soaked kit, a 6am start, and a tumble dryer that ruins half of what goes in it. Drying is where good garments die young and where damp ones quietly become a health issue, so it deserves the ten minutes of system the trade rarely gives it.",
+      "heroMeta": [
+        {
+          "n": "Heat kills",
+          "l": "Membranes, elastane, prints, FR"
+        },
+        {
+          "n": "Moving air",
+          "l": "Beats heat for overnight drying"
+        },
+        {
+          "n": "2 sets",
+          "l": "The real answer to wet Tuesdays"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The rules",
+          "h2": "What tumbles, what doesn't",
+          "html": "<p>The dryer's casualty list is long and specific: <strong>waterproof membranes and taped seams</strong> delaminate (unless the label explicitly allows low tumble — some <a href='reproofing-waterproofs.html'>DWR revival</a> actually wants it, label first); <strong>elastane-rich stretch fabrics</strong> lose their snap; <strong>prints and transfers</strong> crack; <strong>hi-vis</strong> fades faster (<a href='caring-for-hi-vis.html'>the compliance angle</a>); <strong>FR garments</strong> follow their label exactly (<a href='washing-fr-workwear.html'>the FR rules</a>); and anything still stained gets its stain heat-set permanently. What tumbles happily: cotton-rich tees, sweats, <a href='workwear-fabrics-explained.html'>polycotton</a> trousers without stretch, towelling. The label knows; the habit doesn't ask.</p><p><strong>The overnight system that works without a dryer</strong> is a drying room shrunk to a corner: garments <strong>spaced on hangers</strong> (not heaped on a radiator), <strong>moving air</strong> from a cheap fan doing more than heat ever does, modest background warmth, and ideally a dehumidifier — which dries kit faster than a radiator and doesn't wallpaper the room with condensation. <strong>Boots</strong> get their own rule: insoles out, newspaper or a boot dryer, never the radiator top — direct heat cracks leather and delaminates soles, which is how wet boots become dead boots in one winter.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The setup",
+          "h2": "Overnight drying, ranked",
+          "head": [
+            "Method",
+            "Verdict",
+            "Note"
+          ],
+          "rows": [
+            [
+              "Dehumidifier + hangers + fan",
+              "The home drying room",
+              "Fast, gentle on everything, cheap to run"
+            ],
+            [
+              "Tumble dryer (label-permitting items)",
+              "Fine for cottons and sweats",
+              "Sort by label — one load's convenience ruins another's membrane"
+            ],
+            [
+              "Radiator heap",
+              "The classic mistake",
+              "Slow (no airflow), cooks what touches, condensation everywhere"
+            ],
+            [
+              "Vehicle parcel shelf",
+              "Emergency only",
+              "UV + creasing; better than wearing it wet, barely"
+            ],
+            [
+              "Boot dryers / newspaper",
+              "The footwear answer",
+              "Insoles out; leather never gets direct heat"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Why bother",
+          "h2": "What damp kit actually costs",
+          "items": [
+            {
+              "n": "Insulation",
+              "l": "Damp fabric conducts heat away — wet kit in winter is a cold injury accelerator"
+            },
+            {
+              "n": "Skin & smell",
+              "l": "Perpetually damp garments grow the flora behind dermatitis and the odour behind bin-bagged fleeces"
+            },
+            {
+              "n": "Rotation",
+              "l": "Two sets and a fan beat one set and panic — <a href='uniform-quantity-calculator.html'>the quantity maths</a> again"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Drying FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Can you tumble dry work trousers?",
+          "a": "Plain polycotton trousers usually yes, on the label's setting — but stretch (elastane) content, waterproof membranes and knee-pad pocket linings often say no or low. Check each garment's label once and sort loads accordingly; one hot load ruins stretch recovery permanently."
+        },
+        {
+          "q": "How do you dry workwear overnight without a dryer?",
+          "a": "Space garments on hangers, add moving air (a basic fan) and modest warmth, ideally with a dehumidifier — airflow dries faster than radiator heat and doesn't condense on the windows. Heaped-on-radiator drying is slow and cooks the contact points."
+        },
+        {
+          "q": "How do you dry wet work boots?",
+          "a": "Insoles out, laces loosened, stuffed with newspaper (changed once) or on a boot dryer — never on or against a radiator, which cracks leather and delaminates soles. Overnight is usually enough with airflow; two pairs in rotation is the winter answer."
+        }
+      ]
+    },
+    {
+      "slug": "storing-workwear-ppe",
+      "role": "spoke",
+      "spokeType": "Care guide",
+      "navLabel": "Storing kit & PPE",
+      "cardTitle": "Storing workwear and PPE properly",
+      "cardBlurb": "UV, damp and van floors age kit faster than work does — seasonal storage, PPE shelf lives and the van-as-wardrobe problem.",
+      "crumbTail": "Care",
+      "kicker": "Care guide · Storage",
+      "h1": "Storing kit: where garments go to age.",
+      "metaTitle": "Storing Workwear & PPE: Shelf Life, UV & Van Storage | iNeedWorkwear",
+      "metaDesc": "How to store workwear and PPE — seasonal storage that doesn't ruin garments, PPE shelf lives (helmets, respirators, gloves), the van rear-window problem, and issue-stock rotation for employers.",
+      "lede": "Kit ages in storage almost as effectively as in use: UV through a van window chalks a helmet, damp in a February shed mildews a summer wardrobe, and the glovebox FFP mask is a write-off by design. Storage is the unglamorous half of making kit last — and for PPE, some of it has rules.",
+      "heroMeta": [
+        {
+          "n": "UV",
+          "l": "The van-window garment ager"
+        },
+        {
+          "n": "Clean & dry",
+          "l": "The two words of seasonal storage"
+        },
+        {
+          "n": "Shelf lives",
+          "l": "PPE ages unworn too"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The rules",
+          "h2": "Garments, PPE and the van",
+          "html": "<p><strong>Seasonal garment storage is two words: clean and dry.</strong> Wash everything before it goes away (body oils and soiling set, attract moths and feed mildew over months), dry it completely (the <a href='drying-workwear-properly.html'>drying rules</a> apply doubly before storage), and box it somewhere dry rather than bagging it airtight while any moisture remains. Reproof waterproofs at the <em>start</em> of storage, not in the October panic — <a href='reproofing-waterproofs.html'>the routine</a> — and store <a href='washing-fr-workwear.html'>FR kit</a> clean, because stored contamination is still contamination.</p><p><strong>PPE adds shelf lives.</strong> Helmets age from manufacture, worn or not (<a href='hard-hat-age-checker.html'>check the stamp</a>); disposable respirators carry expiry dates and die early in damp glovebox conditions; glove polymers stiffen and crack in van heat cycles; and retroreflective tape on stored hi-vis delaminates in damp. <strong>The van deserves its own paragraph</strong> because it's where trade kit actually lives: the rear window ledge is a UV oven (fading hi-vis and chalking helmets parked in plain sight), the wet-kit heap in the back grows what wet heaps grow, and the answer costs little — kit bags or boxes, off the glass, spare gloves and masks in sealed tubs, wet gear separated until it dries. For employers, stock storage is rotation: first-in-first-out on dated PPE, and issue stores kept dry enough that the stock isn't ageing faster than it's issued — the <a href='ppe-inspection-records.html'>records logic</a> extends to the shelf.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Quick reference",
+          "h2": "Item by item",
+          "head": [
+            "Item",
+            "Storage rule",
+            "The killer"
+          ],
+          "rows": [
+            [
+              "Seasonal garments",
+              "Washed, bone dry, boxed in the dry",
+              "Mildew from 'nearly dry'"
+            ],
+            [
+              "Helmets",
+              "Cool, dark, off the parcel shelf",
+              "UV through glass"
+            ],
+            [
+              "Disposable FFPs",
+              "Sealed, dry, in date",
+              "Glovebox damp and crush"
+            ],
+            [
+              "Gloves",
+              "Dry tubs, out of sun",
+              "Heat-cycle stiffening"
+            ],
+            [
+              "Hi-vis & waterproofs",
+              "Hung dry, reproofed going in",
+              "Damp-stored tape delamination"
+            ]
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Storage FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "How should you store workwear over summer or winter?",
+          "a": "Washed, completely dried, and boxed or hung somewhere dry — soiling set over months attracts moths and mildew, and trapped moisture ruins more stored kit than moths do. Reproof waterproofs before storage rather than after, and store FR clean as a rule."
+        },
+        {
+          "q": "Does PPE expire in storage?",
+          "a": "Much of it ages regardless of use: helmet shells date from manufacture, disposable respirators carry expiry dates, and glove polymers stiffen with heat cycles. Store PPE cool, dry and dark, rotate stock first-in-first-out, and check date stamps at issue."
+        },
+        {
+          "q": "Is it bad to keep workwear in the van?",
+          "a": "The van is fine as a wardrobe and terrible as a shelf: UV through windows fades hi-vis and degrades helmets, damp heaps mildew, and gloveboxes kill masks. Boxes off the glass, sealed tubs for spares and separating wet kit until dry fixes almost all of it."
+        }
+      ]
+    },
+    {
+      "slug": "repair-or-replace-workwear",
+      "role": "spoke",
+      "spokeType": "Care guide",
+      "navLabel": "Repair or replace",
+      "cardTitle": "Repair or replace: the workwear triage",
+      "cardBlurb": "What's worth stitching, what's structurally done, and the PPE rule: protection is never patched back on.",
+      "crumbTail": "Care",
+      "kicker": "Care guide · Repair & retirement",
+      "h1": "Repair or replace: triage for tired kit.",
+      "metaTitle": "Repair Or Replace Workwear: The Honest Triage | iNeedWorkwear",
+      "metaDesc": "When to repair workwear and when to retire it — seams and zips vs structural wear, the PPE rule (certified performance is never patched back), and the fleet economics of repair programmes.",
+      "lede": "Somewhere between the ripped knee that's one stitch from fine and the coverall that's more oil than cotton sits a triage decision every trade makes weekly. The sorting logic is short: hardware and seams repair well, structure doesn't, and certified protection — once compromised — is never sewn back on.",
+      "heroMeta": [
+        {
+          "n": "Seams & zips",
+          "l": "The repairs that pay"
+        },
+        {
+          "n": "Structure",
+          "l": "Thin fabric is done fabric"
+        },
+        {
+          "n": "PPE rule",
+          "l": "Certification doesn't re-stitch"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The triage",
+          "h2": "Three buckets, quickly sorted",
+          "html": "<p><strong>Repair with confidence:</strong> failed hardware and stitching — zips, poppers, buttons, opened seams, dropped hems, torn belt loops. These are assembly failures, not fabric failures, and a repair restores full function; on quality garments a zip replacement is money well spent. <strong>Clean tears in sound fabric</strong> (the fence-hook rip) also patch well — iron-on backing plus stitching, or proper trade repair patches on knees and elbows <em>of non-certified kit</em>.</p><p><strong>Retire without sentiment:</strong> structural wear — fabric thinned at seat and knees (hold it to the light), abrasion fuzzing through, elastane gone slack, or contamination that survives proper washing: the <a href='oil-grease-out-of-workwear.html'>oil-saturated</a> coverall, the <a href='cement-concrete-stains.html'>board-stiff</a> trouser. Repairing thin fabric is stitching a patch to tissue; the next tear is already queued beside it.</p><p><strong>The PPE rule sits above both buckets:</strong> certified performance is never patched back on. Damaged <a href='caring-for-hi-vis.html'>hi-vis</a> can't have tape re-stuck; <a href='washing-fr-workwear.html'>FR garments</a> repair only through FR-competent services with FR materials — a cotton patch on FR fabric is a wick; and <a href='chainsaw-protection-standards-explained.html'>chainsaw layers</a>, impacted <a href='hard-hat-age-checker.html'>helmets</a> and spent <a href='en-14404-knee-protection-explained.html'>knee inserts</a> replace, full stop. If the garment's job was certified protection and that protection is compromised, the triage has one bucket.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Quick reference",
+          "h2": "The sort, on one screen",
+          "head": [
+            "Fault",
+            "Verdict",
+            "Note"
+          ],
+          "rows": [
+            [
+              "Broken zip / popper / seam",
+              "Repair",
+              "Assembly failure — full function returns"
+            ],
+            [
+              "Clean tear, sound fabric",
+              "Repair (non-certified kit)",
+              "Patch + stitch; knees and elbows take trade patches well"
+            ],
+            [
+              "Fabric thin at seat/knees",
+              "Replace",
+              "Structure is finished; patches just relocate the tear"
+            ],
+            [
+              "Oil/cement saturation",
+              "Replace",
+              "Chemical retirement — washing has already voted"
+            ],
+            [
+              "Any certified PPE damage",
+              "Replace (or certified repair for FR)",
+              "Protection doesn't re-stitch"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Fleet angle",
+          "h2": "For teams and employers",
+          "items": [
+            {
+              "n": "Repair programmes",
+              "l": "Zip-and-seam repair on quality garments beats replacing cheap ones — rental services price this in"
+            },
+            {
+              "n": "Who pays",
+              "l": "Required PPE replacement is the employer's cost, wear-and-tear included — <a href='who-pays-for-ppe.html'>the rules</a>"
+            },
+            {
+              "n": "Retire visibly",
+              "l": "Bin retired PPE properly — a dead harness or faded hi-vis rescued from a skip is a liability with a strap"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Repair FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is it worth repairing work trousers?",
+          "a": "For hardware and seam failures on decent trousers, yes — zips, poppers and opened seams repair to full function. For fabric thinned at the knees and seat, no: patches stitched to weakened cloth relocate the next tear rather than preventing it. The light test (hold it up, look through) settles most cases."
+        },
+        {
+          "q": "Can you repair hi-vis clothing?",
+          "a": "Minor seam repairs away from the tape, perhaps — but damaged or delaminating retroreflective tape and heavily faded fluorescent fabric can't be restored, and the garment no longer meets its certified class. Hi-vis is retired on visibility condition, not stitched onward."
+        },
+        {
+          "q": "Can FR workwear be patched?",
+          "a": "Only through FR-competent repair using matching FR fabrics and threads — an ordinary cotton or polyester patch on FR clothing creates a flammable island on a protective garment. Many employers route FR repairs through their laundering/rental service or simply replace; casual patching is the one wrong answer."
+        }
+      ]
+    },
+    {
+      "slug": "how-long-does-hi-vis-last",
+      "role": "spoke",
+      "spokeType": "Answer page",
+      "navLabel": "Hi-vis lifespan",
+      "cardTitle": "How long does hi-vis last?",
+      "cardBlurb": "Wash counts, fade tests and the six-month myth — when high-visibility kit genuinely stops being high-visibility.",
+      "crumbTail": "Care",
+      "kicker": "Answer page · Hi-vis lifespan",
+      "h1": "How long hi-vis actually lasts.",
+      "metaTitle": "How Long Does Hi-Vis Last? Lifespan & Replacement Signs | iNeedWorkwear",
+      "metaDesc": "Hi-vis lifespan answered — what maximum wash counts mean, the visual checks that beat any calendar (fade, grey tape, delamination), and how use patterns change garment life from months to years.",
+      "lede": "There's no expiry date sewn into a hi-vis vest — but there is a wash-count on the label, a fade test anyone can do in daylight, and a set of use patterns that stretch identical garments from three months of life to three years. Here's how the lifespan question actually resolves.",
+      "heroMeta": [
+        {
+          "n": "25–50",
+          "l": "Typical label max wash counts"
+        },
+        {
+          "n": "Daylight test",
+          "l": "Compare against new — fade is obvious"
+        },
+        {
+          "n": "3mo–3yr",
+          "l": "Same garment, different jobs"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The answer",
+          "h2": "Three clocks run at once",
+          "html": "<p><strong>Clock one: the wash count.</strong> Hi-vis labels state a maximum number of wash cycles (commonly 25, often 50 on better garments) — the point up to which the fluorescent dye and retroreflective tape are warranted to keep certified performance <em>if washed correctly</em> (<a href='caring-for-hi-vis.html'>the washing rules</a>). Nobody counts domestic washes, which is why the second clock matters more.</p><p><strong>Clock two: visible condition.</strong> Fluorescence fades toward ordinary yellow-green (hold it beside a new garment in daylight — the difference announces itself), tape greys, cracks or delaminates at the flex lines, and soiling that washing won't lift kills both properties at once. Any of those means the garment no longer delivers its <a href='en-iso-20471-hi-vis-classes-explained.html'>class</a>, whatever its age. <strong>Clock three: exposure.</strong> UV is the ager — a garment worn daily outdoors (or <a href='storing-workwear-ppe.html'>stored on a van shelf</a>) fades in months; the same garment on occasional indoor duty lasts years; coastal <a href='workwear-felixstowe.html'>salt air</a> accelerates everything. The honest answer to 'how long': <strong>daily outdoor wear, expect 6–12 months; occasional use, 2–3 years; and the daylight comparison overrules both.</strong></p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The checks",
+          "h2": "Retire it when",
+          "head": [
+            "Check",
+            "Fail looks like"
+          ],
+          "rows": [
+            [
+              "Colour vs new (daylight)",
+              "Washed-out, ordinary-looking yellow — the fluorescence is gone"
+            ],
+            [
+              "Tape condition",
+              "Grey, cracked, peeling at flex points — or dull under headlights"
+            ],
+            [
+              "Soiling",
+              "Ground-in grime the wash can't lift, especially across tape"
+            ],
+            [
+              "Damage",
+              "Tears, burns or <a href='repair-or-replace-workwear.html'>repairs</a> through fluorescent area or tape"
+            ],
+            [
+              "Label",
+              "Wash count exceeded, or label illegible (traceability gone)"
+            ]
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Hi-vis lifespan FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "How often should hi-vis be replaced?",
+          "a": "On condition, not calendar: daily outdoor wearers typically get 6–12 months before fade or tape wear retires a garment; occasional users can see years. The reliable test is comparing against a new garment in daylight — visible fade means the certified performance is gone."
+        },
+        {
+          "q": "What does the wash count on hi-vis mean?",
+          "a": "The maximum number of care-label washes for which the maker warrants certified performance — commonly 25 to 50. Beyond it (or after incorrect washing: hot cycles, tumble heat) the fluorescent dye and tape can no longer be assumed to meet the class, however intact the garment looks."
+        },
+        {
+          "q": "Does hi-vis fade in sunlight?",
+          "a": "Yes — UV exposure is the main ager of fluorescent dye, working on the garment whether it's being worn or parked on a van's rear shelf. Store hi-vis out of sunlight, wash it cool, line-dry it, and it keeps its class for the full wash-count instead of dying early."
+        }
+      ]
     }
   ]
 }

@@ -445,6 +445,600 @@
           "a": "A Declaration of Conformity naming the applicable standards and the notified/approved body, plus user information. For Category III PPE — FR clothing, chemical suits, fall protection — certification includes ongoing production surveillance. A supplier who can't produce the DoC is telling you something."
         }
       ]
+    },
+    {
+      "slug": "when-is-hi-vis-required",
+      "role": "spoke",
+      "spokeType": "Compliance guide",
+      "navLabel": "Hi-vis & the law",
+      "cardTitle": "When is hi-vis legally required?",
+      "cardBlurb": "There's no 'hi-vis law' — there's a risk-assessment duty that usually concludes hi-vis. How the logic actually runs.",
+      "crumbTail": "Compliance",
+      "kicker": "Compliance guide · Hi-vis",
+      "h1": "When hi-vis is required: the actual legal logic.",
+      "metaTitle": "When Is Hi-Vis Required By Law? UK Rules Explained | iNeedWorkwear",
+      "metaDesc": "Is hi-vis a legal requirement? The UK logic explained — the PPE regulations' risk-assessment duty, where hi-vis becomes effectively mandatory (roads, rail, sites, vehicles), and who decides the class.",
+      "lede": "Search for 'hi-vis law UK' and you won't find an act that says 'wear yellow'. What exists is stronger: a duty to assess risks and provide the PPE the assessment demands — and around moving vehicles, that assessment reaches hi-vis so reliably that the duty and the garment have fused in practice.",
+      "heroMeta": [
+        {
+          "n": "No hi-vis act",
+          "l": "The duty is risk-assessment shaped"
+        },
+        {
+          "n": "Vehicles",
+          "l": "The trigger in almost every case"
+        },
+        {
+          "n": "Free",
+          "l": "Required PPE is the employer's cost"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The logic",
+          "h2": "From regulation to garment",
+          "html": "<p>The chain runs: the <a href='ppe-regulations-2022-explained.html'>PPE at Work Regulations</a> require employers to assess risks and provide suitable PPE free where risks can't be controlled otherwise → being struck by a moving vehicle is a classic residual risk → high-visibility clothing (<a href='en-iso-20471-hi-vis-classes-explained.html'>EN ISO 20471</a>) is the recognised control → so wherever people and vehicles share space, the assessment lands on hi-vis and it becomes, in effect, mandatory. That's why the same conclusion appears on construction sites, in warehouse traffic routes, at loading bays, on airport aprons and roadside verges — not because a statute names each place, but because the assessment does the same maths everywhere.</p><p>Some environments harden it further: <strong>rail</strong> has its own binding standard (<a href='rail-spec-workwear-explained.html'>orange, RIS-3279-TOM</a>), <strong>road and highways work</strong> follows sector codes that specify class by road speed (<a href='class-2-vs-class-3-hi-vis.html'>the class logic</a>), and sites simply write hi-vis into their entry rules — at which point refusing it is a site-access issue, not a debate. The employer picks the class through the assessment; the employee's duty is to wear what's provided.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "In practice",
+          "h2": "Where the assessment lands",
+          "head": [
+            "Environment",
+            "Practical position"
+          ],
+          "rows": [
+            [
+              "Construction sites",
+              "Effectively universal via site rules — Class 2 minimum is the norm"
+            ],
+            [
+              "Roads & highways",
+              "Sector codes specify class by speed — Class 3 on high-speed roads"
+            ],
+            [
+              "Rail infrastructure",
+              "Rail-spec orange, mandatory, its own standard"
+            ],
+            [
+              "Warehouses & yards",
+              "Required on traffic routes per the site's traffic plan"
+            ],
+            [
+              "Delivery & kerbside work",
+              "Employer policy driven by the assessment — increasingly standard"
+            ]
+          ]
+        },
+        {
+          "type": "warnbar",
+          "html": "<strong>Summary, not legal advice.</strong> Duties turn on specific circumstances and current guidance — for decisions with legal consequences, check HSE/GOV.UK guidance or take advice."
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Hi-vis law FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is there a law that says you must wear hi-vis?",
+          "a": "Not by name — the legal duty comes from the PPE at Work Regulations: assess risks, provide suitable PPE free of charge where risks remain. Around moving vehicles that assessment reliably concludes hi-vis, and site rules and sector codes (roads, rail) then make it explicit and enforceable in practice."
+        },
+        {
+          "q": "Can my employer make me wear hi-vis?",
+          "a": "Yes — where the risk assessment requires it, wearing provided PPE is part of the employee's own legal duty, and sites can make it a condition of entry. The employer's side of the bargain is providing suitable, properly fitting hi-vis at no cost."
+        },
+        {
+          "q": "Who decides between Class 2 and Class 3?",
+          "a": "The employer's risk assessment, steered by sector codes: higher vehicle speeds, poorer light and less separation push toward Class 3; controlled, low-speed environments sit at Class 2. Rail is separate — orange to the rail standard, regardless of class arguments."
+        }
+      ]
+    },
+    {
+      "slug": "are-safety-boots-legally-required",
+      "role": "spoke",
+      "spokeType": "Compliance guide",
+      "navLabel": "Safety boots & the law",
+      "cardTitle": "Are safety boots a legal requirement?",
+      "cardBlurb": "The risk-assessment duty, who pays, whether sites can insist — the footwear questions answered straight.",
+      "crumbTail": "Compliance",
+      "kicker": "Compliance guide · Safety footwear",
+      "h1": "Safety boots and the law, answered straight.",
+      "metaTitle": "Are Safety Boots A Legal Requirement UK? | iNeedWorkwear",
+      "metaDesc": "Are safety boots legally required? The UK position — the risk-assessment duty, employer payment obligations, site entry rules, self-employed workers and what happens when employees refuse.",
+      "lede": "Like hi-vis, safety footwear has no act of parliament to its name — and the same stronger thing instead: where a risk assessment finds foot hazards (dropped loads, punctures, crush), suitable safety footwear becomes required PPE that the employer provides free. From there, the practical questions are about edges.",
+      "heroMeta": [
+        {
+          "n": "Assessment",
+          "l": "Foot risk → required PPE"
+        },
+        {
+          "n": "Employer pays",
+          "l": "Required = free to the worker"
+        },
+        {
+          "n": "Site rules",
+          "l": "Can exceed the law, and do"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The logic",
+          "h2": "The duty and its edges",
+          "html": "<p><strong>The core position:</strong> where risks to feet can't be eliminated — falling materials, punctures underfoot, crush from wheels and plant — the <a href='ppe-regulations-2022-explained.html'>PPE regulations</a> make suitable safety footwear (<a href='safety-boot-codes-explained.html'>EN ISO 20345</a>) required PPE, provided and paid for by the employer. The <a href='who-pays-for-ppe.html'>who-pays rules</a> are blunt: charging workers for required PPE, or docking it from wages, isn't lawful.</p><p><strong>The edges people actually ask about:</strong> <em>Sites</em> can — and do — require safety boots for entry even where a task-level argument might not, because a blanket rule is easier to run than a per-visitor assessment; that's contract and access, and it's binding in practice. <em>Refusal</em>: an employee who won't wear provided safety footwear is breaching their own statutory duty, and employers can treat it as a disciplinary matter — the well-worn tribunal ground is that safety rules survive comfort objections where the risk is real (medical issues are handled through alternatives like orthopaedic-compatible footwear, not exemption by default). <em>Office visitors</em> walking a marked route generally don't need boots; step onto the floor proper and the site rule applies. The 2022 label changes (<a href='safety-footwear-2022-update.html'>S1PS/S1PL and friends</a>) changed codes, not duties.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Quick answers",
+          "h2": "The edge cases",
+          "head": [
+            "Question",
+            "Short answer"
+          ],
+          "rows": [
+            [
+              "Can I be charged for required boots?",
+              "No — required PPE is free, deposits and deductions included"
+            ],
+            [
+              "Can a site insist even for a short visit?",
+              "Yes — entry conditions can exceed the legal minimum"
+            ],
+            [
+              "Can I wear my own boots?",
+              "If the employer verifies they meet the required spec — many insist on issued kit for that reason"
+            ],
+            [
+              "What if boots hurt?",
+              "Fit and alternatives are the employer's problem to solve — not a reason to go unprotected"
+            ],
+            [
+              "Self-employed?",
+              "Where the law applies to your work's risks, you provide your own compliant kit"
+            ]
+          ]
+        },
+        {
+          "type": "warnbar",
+          "html": "<strong>Summary, not legal advice.</strong> Duties turn on specific circumstances and current guidance — for decisions with legal consequences, check HSE/GOV.UK guidance or take advice."
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Safety boots law FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Do employers have to provide safety boots?",
+          "a": "Where the risk assessment identifies foot hazards requiring PPE, yes — suitable safety footwear provided free of charge, replaced when worn out. That covers most construction, warehouse, manufacturing and yard roles. The employer can specify exactly which spec (S1P, S3 and so on) the assessment demands."
+        },
+        {
+          "q": "Can I refuse to wear safety boots at work?",
+          "a": "Not usefully — employees have their own legal duty to use provided PPE, and refusal where the risk is real is a disciplinary matter that tribunals have consistently upheld. Genuine fit or medical problems are addressed through alternative compliant footwear, which employers should engage with."
+        },
+        {
+          "q": "Do visitors to sites need safety boots?",
+          "a": "On most sites, yes beyond reception or marked walkways — blanket entry rules are standard because per-visitor assessment isn't practical. Many sites keep visitor boots; regular visitors are better served owning a pair that fits."
+        }
+      ]
+    },
+    {
+      "slug": "ppe-for-young-workers",
+      "role": "spoke",
+      "spokeType": "Compliance guide",
+      "navLabel": "Young workers",
+      "cardTitle": "PPE and young workers",
+      "cardBlurb": "Under-18s on site — the stronger risk-assessment duty, the tasks that stay off-limits, and kit in sizes that actually fit.",
+      "crumbTail": "Compliance",
+      "kicker": "Compliance guide · Young workers",
+      "h1": "Young workers: the duty gets stronger, not smaller.",
+      "metaTitle": "PPE For Young Workers & Apprentices: The Rules | iNeedWorkwear",
+      "metaDesc": "PPE and under-18s at work — the enhanced risk-assessment duty for young workers, restricted tasks, why adult-sized PPE fails teenagers, and the employer checklist for apprentice intake.",
+      "lede": "A 17-year-old apprentice triggers duties a 27-year-old doesn't: the law treats young workers' inexperience, developing bodies and unfamiliarity with risk as factors the employer must specifically assess. PPE is where that duty gets physical — because kit sized and specced for adults quietly fails smaller, younger wearers.",
+      "heroMeta": [
+        {
+          "n": "Under 18",
+          "l": "A specific assessment duty"
+        },
+        {
+          "n": "Fit first",
+          "l": "Adult PPE fails young frames"
+        },
+        {
+          "n": "Blue hat",
+          "l": "Site systems flag the learning"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The duty",
+          "h2": "What changes when the worker is young",
+          "html": "<p>Employers must make a <strong>specific risk assessment before a young person starts</strong>, accounting for inexperience, immaturity and lack of hazard awareness — and for the youngest (under school-leaving age or on work experience) that assessment is shared with parents. Certain exposures are restricted for under-18s outright or pending training and supervision: the well-known examples cluster around <strong>high-risk machinery, some chemical exposures and heavy vibration</strong>, and trades' own schemes (chainsaw certification being the classic) gate tasks behind age and competence regardless of enthusiasm.</p><p><strong>PPE's role in this is mostly about fit and supervision.</strong> Adult-default kit fails young workers in predictable ways: gloves a size too big wreck grip, hi-vis drapes, boots on the wrong last cause the blisters that end up in trainers — the same physics as our <a href='womens-workwear-guide.html'>women's-fit guide</a>, applied to smaller frames generally. Buy the small end of ranges properly (<a href='apprentice-kit-guide.html'>the apprentice kit list</a> covers the personal side), induct the wearer in <em>why</em> each item exists, and use the site's flag systems — the <a href='hard-hat-colours-meaning.html'>blue hat</a> exists precisely so the whole site helps supervise.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The checklist",
+          "h2": "Apprentice intake, PPE edition",
+          "head": [
+            "Item",
+            "The young-worker note"
+          ],
+          "rows": [
+            [
+              "Specific risk assessment",
+              "Done before day one — inexperience is itself a factor"
+            ],
+            [
+              "PPE in real sizes",
+              "Small gloves, boots and hi-vis ordered before arrival, not adapted after"
+            ],
+            [
+              "Induction with reasons",
+              "Kit worn because it's understood beats kit worn because it's checked"
+            ],
+            [
+              "Restricted tasks mapped",
+              "Machinery, chemicals and vibration limits documented per trade"
+            ],
+            [
+              "Supervision signals",
+              "Blue helmet or equivalent site convention in use"
+            ]
+          ]
+        },
+        {
+          "type": "warnbar",
+          "html": "<strong>Summary, not legal advice.</strong> Duties turn on specific circumstances and current guidance — for decisions with legal consequences, check HSE/GOV.UK guidance or take advice."
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Young workers FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Do apprentices need a separate risk assessment?",
+          "a": "Employers must specifically assess risks to young workers before they start, taking account of inexperience and immaturity — for under-school-leaving-age placements, findings are shared with parents. It's an enhanced duty on top of the general assessment, not a repeat of it."
+        },
+        {
+          "q": "What jobs can't under-18s do?",
+          "a": "Work beyond their physical or psychological capacity, and certain high-risk exposures — dangerous machinery, some chemical and vibration exposures — unless it's necessary training under competent supervision with risks reduced. Trade schemes add their own age and competence gates; the assessment documents the specifics."
+        },
+        {
+          "q": "Does PPE for young workers differ from adult PPE?",
+          "a": "Same standards, different priority on fit: young and smaller-framed workers need the small end of glove, boot and garment ranges ordered deliberately — oversized PPE degrades protection. Pair it with induction that explains each item's purpose; understanding is what keeps kit worn unsupervised."
+        }
+      ]
+    },
+    {
+      "slug": "uniform-deductions-from-wages",
+      "role": "spoke",
+      "spokeType": "Compliance guide",
+      "navLabel": "Uniform deductions",
+      "cardTitle": "Uniform costs and wage deductions",
+      "cardBlurb": "Deposits, deductions and 'buy your own' policies — where the line sits between lawful uniform rules and unlawful charging.",
+      "crumbTail": "Compliance",
+      "kicker": "Compliance guide · Uniform costs",
+      "h1": "Uniform costs: what can come out of wages.",
+      "metaTitle": "Uniform Deductions From Wages: UK Rules Explained | iNeedWorkwear",
+      "metaDesc": "Can employers charge for uniforms or deduct from wages? The UK rules — PPE must be free, uniform deductions need written agreement and can't breach minimum wage, deposits and leaver clawbacks explained.",
+      "lede": "Between 'required PPE is free' and 'you must wear black trousers you bought yourself' lies a strip of genuinely confusing territory: deposits, leaver deductions, branded kit charges. The rules that govern it are worth knowing on both sides of the payslip — and minimum wage is where careless policies actually break the law.",
+      "heroMeta": [
+        {
+          "n": "PPE",
+          "l": "Always free — no exceptions"
+        },
+        {
+          "n": "NMW floor",
+          "l": "Uniform costs can't breach it"
+        },
+        {
+          "n": "In writing",
+          "l": "Deductions need prior agreement"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The rules",
+          "h2": "Three layers, three answers",
+          "html": "<p><strong>Layer one — PPE:</strong> anything required by the risk assessment is provided <strong>free</strong>, full stop — no purchase, no deposit, no leaver clawback for the hi-vis. That's the <a href='who-pays-for-ppe.html'>who-pays rule</a> and it has no exceptions worth planning around.</p><p><strong>Layer two — uniform proper:</strong> employers <em>can</em> operate charges around non-PPE uniform (deposits against return, deductions for unreturned kit on leaving) but only through the wage-deduction rules: <strong>agreed in writing before the event</strong>, and reasonable in scale. Blanket 'we'll dock your last week' habits without signed agreement are unlawful deductions, recoverable at tribunal.</p><p><strong>Layer three — the minimum-wage trap:</strong> money workers must spend on uniform (buying specified black trousers, paying a deposit, laundering charges) <strong>counts against their pay for minimum-wage purposes</strong> in the pay period it happens. A minimum-wage worker required to buy £40 of specified clothing has been paid below the floor that week — this is the mistake that puts household-name employers on HMRC's naming lists. The clean answers: provide the kit, or pay an allowance that covers it — and remember employees required to launder distinctive uniform at their own cost may claim <a href='uniform-tax-relief.html'>tax relief</a> back the other way.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Quick answers",
+          "h2": "Common scenarios",
+          "head": [
+            "Scenario",
+            "Position"
+          ],
+          "rows": [
+            [
+              "Charged for a required hard hat",
+              "Unlawful — required PPE is free"
+            ],
+            [
+              "Deposit for branded polos",
+              "Possible with prior written agreement; watch the NMW maths"
+            ],
+            [
+              "Deduction for unreturned kit on leaving",
+              "Only with written agreement made in advance"
+            ],
+            [
+              "Told to buy own black trousers",
+              "Lawful to require — but the cost counts against NMW that week"
+            ],
+            [
+              "'Uniform fee' from each payslip",
+              "High-risk: NMW breach territory unless pay comfortably clears the floor"
+            ]
+          ]
+        },
+        {
+          "type": "warnbar",
+          "html": "<strong>Summary, not legal advice.</strong> Duties turn on specific circumstances and current guidance — for decisions with legal consequences, check HSE/GOV.UK guidance or take advice."
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Uniform costs FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Can my employer make me pay for my uniform?",
+          "a": "For required PPE, never. For ordinary uniform, an employer can require specific clothing or operate deposit/deduction schemes only with prior written agreement — and any cost the worker bears counts against minimum wage in that pay period, which is where many policies quietly become unlawful."
+        },
+        {
+          "q": "Can uniform costs be deducted from a final payslip?",
+          "a": "Only if a deduction for unreturned or damaged kit was agreed in writing beforehand (in the contract or a signed agreement) and the amount is reasonable. Without that prior agreement it's an unlawful deduction from wages, recoverable through tribunal."
+        },
+        {
+          "q": "Do uniform costs affect minimum wage?",
+          "a": "Yes — money a worker must spend to comply with uniform requirements (buying specified items, deposits, laundering charges) reduces their pay for NMW calculation purposes in that period. Employers at or near the wage floor should provide uniform rather than require purchases."
+        }
+      ]
+    },
+    {
+      "slug": "ppe-inspection-records",
+      "role": "spoke",
+      "spokeType": "Compliance guide",
+      "navLabel": "PPE inspections",
+      "cardTitle": "PPE inspections and records",
+      "cardBlurb": "Which kit needs formal inspection, which needs pre-use checks, and the paperwork that proves either happened.",
+      "crumbTail": "Compliance",
+      "kicker": "Compliance guide · Inspection & records",
+      "h1": "PPE inspections: checks, records and who signs.",
+      "metaTitle": "PPE Inspection & Records: What The Rules Require | iNeedWorkwear",
+      "metaDesc": "PPE inspection duties explained — pre-use checks vs formal recorded inspections, which equipment needs which (fall arrest, RPE, helmets, everyday kit), retention of records and replacement triggers.",
+      "lede": "Providing PPE is half the duty; the other half is keeping it working — maintained, checked, replaced. The rules scale sensibly: a glove gets a glance, a harness gets a signed record. Knowing which regime each item sits in is what keeps both the workforce and the paperwork defensible.",
+      "heroMeta": [
+        {
+          "n": "2 regimes",
+          "l": "Pre-use checks vs formal inspection"
+        },
+        {
+          "n": "Recorded",
+          "l": "Fall arrest and RPE leave paper trails"
+        },
+        {
+          "n": "Condition",
+          "l": "Everyday kit retires on state, not date"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The regimes",
+          "h2": "A glance, a check, a record",
+          "html": "<p><strong>Everything gets pre-use checks:</strong> the wearer's quick look — tears, contamination, expired date stamps, seized fittings. It's informal, it's every use, and inductions should teach what 'failed' looks like per item (our care pages — <a href='caring-for-hi-vis.html'>hi-vis condition</a>, <a href='washing-fr-workwear.html'>FR retirement signs</a>, <a href='repair-or-replace-workwear.html'>repair-or-replace logic</a> — are effectively the syllabus).</p><p><strong>Some kit adds formal, recorded inspection by a competent person:</strong> <a href='fall-protection-standards-explained.html'>fall-arrest equipment</a> leads the list (periodic detailed inspections, at least annually and usually more often, recorded per item with unique IDs), followed by <strong>RPE</strong> — reusable respirators need documented monthly-style examinations plus <a href='ffp-fit-testing-explained.html'>fit-test records</a> per wearer — and inspection-and-test regimes attach to insulating gloves for electrical work and similar Category III equipment. <strong>Helmets</strong> sit between: no statutory inspection interval, but date-of-manufacture stamps, maker's service life and post-impact replacement make an informal register worthwhile on any site that issues them (<a href='hard-hat-age-checker.html'>the age checker</a> does the date maths).</p><p><strong>The records themselves:</strong> what was inspected (unique ID), when, by whom, findings, next due. Keep them at least through the equipment's life; they're the first thing asked for after an incident — and their absence reads as an unmanaged system regardless of the kit's actual state.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The map",
+          "h2": "Which kit, which regime",
+          "head": [
+            "Equipment",
+            "Regime",
+            "Note"
+          ],
+          "rows": [
+            [
+              "Harnesses, lanyards, blocks",
+              "Pre-use + formal recorded inspection",
+              "Withdraw immediately after arresting a fall"
+            ],
+            [
+              "Reusable RPE",
+              "Pre-use + documented examinations + fit-test records",
+              "Filters on schedule; records per wearer"
+            ],
+            [
+              "Safety helmets",
+              "Pre-use + date/impact management",
+              "Replace on impact or maker's life — <a href='hard-hat-age-checker.html'>check the stamp</a>"
+            ],
+            [
+              "Hi-vis, FR garments",
+              "Pre-use + condition-based retirement",
+              "Fading and contamination are the failure modes"
+            ],
+            [
+              "Gloves, disposables",
+              "Pre-use; consumed, not inspected",
+              "Stock management is the control"
+            ]
+          ]
+        },
+        {
+          "type": "warnbar",
+          "html": "<strong>Summary, not legal advice.</strong> Duties turn on specific circumstances and current guidance — for decisions with legal consequences, check HSE/GOV.UK guidance or take advice."
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Inspection FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What PPE needs formal inspection?",
+          "a": "Fall-arrest equipment heads the list — periodic detailed inspection by a competent person, recorded per item — followed by reusable RPE (documented examinations plus fit-test records) and specialist items like electrical insulating gloves. Everyday PPE runs on pre-use checks and condition-based replacement instead."
+        },
+        {
+          "q": "How long should PPE inspection records be kept?",
+          "a": "At least through the equipment's service life, and organisations commonly keep them longer — they're primary evidence after any incident. Each record should identify the item uniquely, the inspector, the date, findings and the next inspection due."
+        },
+        {
+          "q": "Do hard hats need inspection records?",
+          "a": "No statutory interval exists, but helmets carry date-of-manufacture stamps and manufacturers state service lives — so a simple issue register with dates, plus replace-on-impact discipline, is cheap defensibility. The pre-use glance for cracks and UV chalking does the daily work."
+        }
+      ]
+    },
+    {
+      "slug": "ffp-fit-testing-explained",
+      "role": "spoke",
+      "spokeType": "Compliance guide",
+      "navLabel": "Fit testing",
+      "cardTitle": "Face-fit testing explained",
+      "cardBlurb": "Why tight-fitting RPE legally needs a fit test, qualitative vs quantitative methods, and what a pass actually proves.",
+      "crumbTail": "Compliance",
+      "kicker": "Compliance guide · RPE fit testing",
+      "h1": "Fit testing: what the mask rating assumes.",
+      "metaTitle": "Face Fit Testing Explained: FFP Masks & The Rules | iNeedWorkwear",
+      "metaDesc": "Face-fit testing decoded — why UK guidance requires it for tight-fitting RPE, qualitative vs quantitative methods, when to re-test, the clean-shaven rule and what a pass does and doesn't prove.",
+      "lede": "Every FFP rating assumes something the box never mentions: that the mask seals to this particular face. Fit testing is how that assumption gets verified per person — it's embedded in UK health-and-safety expectations for tight-fitting RPE at work, it takes twenty minutes, and skipping it converts certified protection into guesswork.",
+      "heroMeta": [
+        {
+          "n": "Per face",
+          "l": "Ratings assume a verified seal"
+        },
+        {
+          "n": "2 methods",
+          "l": "Taste test or particle counting"
+        },
+        {
+          "n": "Clean-shaven",
+          "l": "The rule the test enforces"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The system",
+          "h2": "Two methods, one purpose",
+          "html": "<p><strong>Qualitative testing</strong> covers disposables and half-masks: the wearer performs exercises under a hood while a bitter or sweet aerosol is sprayed — taste it and the seal failed. Cheap, portable, pass/fail. <strong>Quantitative testing</strong> counts particles inside and outside the mask (or measures pressure) to produce a numeric fit factor — required for full-face masks and available for anything tight-fitting. Both test <strong>a specific mask model and size on a specific face</strong>: pass on one model and the result transfers to nothing else — which is why fit-tested workplaces standardise mask models, and why the test record names the exact product.</p><p><strong>When it happens:</strong> before first use of tight-fitting RPE, and again when the mask model changes or the face does — significant weight change, dental work, scarring. And the rule it enforces daily: <strong>clean-shaven where the seal sits</strong>, every shift, because the test that passed a smooth face says nothing about Friday's stubble. Beards move wearers to loose-fitting powered hoods (<a href='respirator-vs-dust-mask.html'>the RPE ladder</a>), not to hopeful FFP3s. What a pass proves is narrow and valuable: this mask can seal to this face — worn properly, with the discipline the <a href='ffp2-vs-ffp3.html'>rating maths</a> assumes.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Quick read",
+          "h2": "The fit-test facts",
+          "head": [
+            "Question",
+            "Answer"
+          ],
+          "rows": [
+            [
+              "Who needs it?",
+              "Every wearer of tight-fitting RPE at work — disposable or reusable"
+            ],
+            [
+              "Which method?",
+              "Qualitative suffices for FFPs and half-masks; quantitative for full-face"
+            ],
+            [
+              "How often?",
+              "Before first use; repeat on mask change or facial change — periodic re-tests are good practice"
+            ],
+            [
+              "Who tests?",
+              "A competent tester — accreditation schemes exist and are the safe hire"
+            ],
+            [
+              "The record",
+              "Names wearer, mask model and size, method, result, date"
+            ]
+          ]
+        },
+        {
+          "type": "warnbar",
+          "html": "<strong>Summary, not legal advice.</strong> Duties turn on specific circumstances and current guidance — for decisions with legal consequences, check HSE/GOV.UK guidance or take advice."
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Fit testing FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is face-fit testing a legal requirement?",
+          "a": "UK guidance under COSHH and related regulations makes fit testing the expected demonstration that tight-fitting RPE is suitable — in practice, inspectors treat unfit-tested tight-fitting RPE as a compliance failure. It applies to disposable FFPs just as much as reusable masks."
+        },
+        {
+          "q": "How is a face-fit test done?",
+          "a": "Qualitatively: exercises under a hood with a bitter/sweet test aerosol — tasting it means the seal leaks. Quantitatively: instruments count particles inside vs outside the mask for a numeric fit factor. Either way the result applies only to the exact mask model and size tested on that face."
+        },
+        {
+          "q": "Does a fit test work with a beard?",
+          "a": "No — the test enforces what the physics requires: skin contact where the seal sits. Stubble in the seal line fails tests and defeats passed ones. Wearers who keep facial hair use loose-fitting powered RPE (hoods) instead of tight-fitting masks."
+        }
+      ]
     }
   ]
 }

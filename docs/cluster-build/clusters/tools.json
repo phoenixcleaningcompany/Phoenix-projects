@@ -635,6 +635,256 @@
           "a": "Over the garment's life, usually yes. Each extra set in the rotation cuts the number of washes every garment takes, and washing is what ages workwear — colour, print, tape and treatment all fade per cycle. Bigger order, slower replacement clock."
         }
       ]
+    },
+    {
+      "slug": "glove-size-calculator",
+      "role": "spoke",
+      "spokeType": "Interactive tool",
+      "navLabel": "Glove size calculator",
+      "cardTitle": "Glove size calculator",
+      "cardBlurb": "Tape around the knuckles, get your EU glove size — and why the number beats the letter when ordering.",
+      "crumbTail": "Tools",
+      "kicker": "Interactive tool · Glove sizing",
+      "h1": "What glove size am I?",
+      "metaTitle": "Glove Size Calculator: Measure Your Hand | iNeedWorkwear",
+      "metaDesc": "Work glove size calculator — measure your knuckle circumference, get your EU glove size (6–12), plus the sizing rules for dexterity work, liners and why letter sizes mislead.",
+      "lede": "Gloves are the most wrongly-sized PPE on any site — usually 'L, because L is what the box said last time'. Hands don't work that way: a glove a half-size big wrecks dexterity and gets taken off, and off is the most dangerous size of all. Thirty seconds with a tape fixes it.",
+      "heroMeta": [
+        {
+          "n": "EU 6–12",
+          "l": "The number that means something"
+        },
+        {
+          "n": "Knuckles",
+          "l": "Where the tape goes"
+        },
+        {
+          "n": "Down for feel",
+          "l": "The between-sizes rule"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The tool",
+          "h2": "Measure and convert",
+          "html": "<div style=\"background:#fff;border:1.5px solid var(--line);border-left:4px solid var(--orange);border-radius:6px;padding:24px;max-width:680px\"><div style=\"display:grid;gap:16px\"><div><span style=\"font-family:var(--mono);font-size:.72rem;letter-spacing:.1em;text-transform:uppercase;color:var(--slate)\">1 · Measure hand circumference</span><p style=\"font-size:.9rem;margin-top:4px\">Tape around the knuckles of your dominant hand (exclude the thumb), fist relaxed.</p></div><label style=\"display:block\"><span style=\"font-family:var(--mono);font-size:.72rem;letter-spacing:.1em;text-transform:uppercase;color:var(--slate)\">2 · Circumference</span><div style=\"display:flex;gap:10px;margin-top:6px;align-items:center\"><input type=\"number\" id=\"gsc-val\" min=\"12\" max=\"35\" step=\"0.5\" placeholder=\"e.g. 23\" style=\"width:120px;padding:10px;border:1px solid var(--line);border-radius:6px;font-size:.95rem\"><select id=\"gsc-unit\" style=\"padding:10px;border:1px solid var(--line);border-radius:6px;font-size:.95rem\"><option value=\"cm\">cm</option><option value=\"in\">inches</option></select></div></label></div><div id=\"gsc-out\" style=\"margin-top:16px;border-top:1px solid var(--line);padding-top:16px;font-size:.95rem;color:var(--slate)\"><em>Enter your measurement…</em></div></div><script>(function(){var v=document.getElementById(\"gsc-val\"),u=document.getElementById(\"gsc-unit\"),out=document.getElementById(\"gsc-out\");var SIZES=[[16,\"6\",\"XS\"],[18,\"7\",\"S\"],[20,\"8\",\"M\"],[23,\"9\",\"L\"],[25,\"10\",\"XL\"],[28,\"11\",\"2XL\"],[33,\"12\",\"3XL\"]];function go(){var x=parseFloat(v.value);if(!x){out.innerHTML=\"<em>Enter your measurement\\u2026</em>\";return}var cm=u.value===\"in\"?x*2.54:x;if(cm<14||cm>34){out.innerHTML=\"<em>That measurement looks unusual \\u2014 double-check the tape is around the knuckles, thumb excluded.</em>\";return}var hit=SIZES[SIZES.length-1];for(var i=0;i<SIZES.length;i++){if(cm<=SIZES[i][0]){hit=SIZES[i];break}}out.innerHTML='<div style=\\\"font-family:var(--disp);font-size:1.5rem;color:#151B26;text-transform:uppercase;line-height:1.1\\\">EU glove size '+hit[1]+' \\u00b7 '+hit[2]+'</div><p style=\\\"margin-top:8px\\\">'+cm.toFixed(1)+' cm knuckle circumference \\u2192 EU size <strong>'+hit[1]+'</strong> (about \\u201c'+hit[2]+'\\u201d in letter sizing). Between sizes? Size DOWN for dexterity tasks, UP if gloves are worn over liners.</p><p style=\\\"margin-top:10px;font-size:.8rem\\\"><em>Letter sizing varies by maker \\u2014 the EU number is the reliable one to quote when ordering.</em></p>'}v.addEventListener(\"input\",go);u.addEventListener(\"change\",go)})();</script>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The reference",
+          "h2": "The size table",
+          "head": [
+            "Knuckle circumference",
+            "EU size",
+            "Typical letter"
+          ],
+          "rows": [
+            [
+              "Up to 16 cm",
+              "<span class='code'>6</span>",
+              "XS"
+            ],
+            [
+              "16–18 cm",
+              "<span class='code'>7</span>",
+              "S"
+            ],
+            [
+              "18–20 cm",
+              "<span class='code'>8</span>",
+              "M"
+            ],
+            [
+              "20–23 cm",
+              "<span class='code'>9</span>",
+              "L"
+            ],
+            [
+              "23–25 cm",
+              "<span class='code'>10</span>",
+              "XL"
+            ],
+            [
+              "25–28 cm",
+              "<span class='code'>11</span>",
+              "2XL"
+            ],
+            [
+              "28 cm +",
+              "<span class='code'>12</span>",
+              "3XL"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "The rules",
+          "h2": "Sizing rules worth keeping",
+          "items": [
+            {
+              "n": "Fingertips",
+              "l": "Empty tip = lost dexterity; the reason oversized gloves come off — <a href='en-388-glove-ratings-decoder.html'>ratings</a> only work worn"
+            },
+            {
+              "n": "Liners add a size",
+              "l": "Winter liners under task gloves push the outer up one — <a href='en-511-winter-gloves-explained.html'>the winter system</a>"
+            },
+            {
+              "n": "Stock the spread",
+              "l": "Teams span 7 to 11 — a box of 9s fits nobody at either end; the <a href='womens-workwear-guide.html'>small end</a> is the usual gap"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Glove sizing FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "How do I measure my glove size?",
+          "a": "Tape around the knuckles of your dominant hand, excluding the thumb, with the hand relaxed. The circumference maps to EU sizes: roughly 18–20 cm is a size 8, 20–23 cm a 9, 23–25 cm a 10. Quote the EU number when ordering — letters vary by maker."
+        },
+        {
+          "q": "Should work gloves be tight or loose?",
+          "a": "Snug: fingertips reaching the ends without pressure, no loose material in the palm. Between sizes, go down for dexterity tasks and up only when wearing liners underneath. Loose gloves cost grip and get removed — a glove in a pocket protects nothing."
+        },
+        {
+          "q": "Why do glove letter sizes vary?",
+          "a": "Letters (S/M/L) aren't standardised — one maker's L is cut like another's XL. The EU number system (6–12) maps directly to hand circumference in a consistent way, which is why serious glove ranges lead with the number and why it's the one to keep on file per employee."
+        }
+      ]
+    },
+    {
+      "slug": "hard-hat-age-checker",
+      "role": "spoke",
+      "spokeType": "Interactive tool",
+      "navLabel": "Hard hat age checker",
+      "cardTitle": "Hard hat age checker",
+      "cardBlurb": "Read the date wheel, enter the stamp, get a verdict — plus the condition checks no date can replace.",
+      "crumbTail": "Tools",
+      "kicker": "Interactive tool · Helmet life",
+      "h1": "Is this hard hat too old?",
+      "metaTitle": "Hard Hat Age Checker: Date Stamps & Service Life | iNeedWorkwear",
+      "metaDesc": "Check a hard hat's age — how to read the moulded date stamp, enter it against the maker's service life for a verdict, and the impact and condition rules that override any date.",
+      "lede": "Every hard hat carries its birthday moulded into the shell, and most people on site have never looked at it. Plastic ages — UV chalks it, heat cycles embrittle it — so shells carry stated service lives whether they've earned a scratch or not. Read the stamp; the tool does the rest.",
+      "heroMeta": [
+        {
+          "n": "Date wheel",
+          "l": "Under the peak, moulded in"
+        },
+        {
+          "n": "3–5 yrs",
+          "l": "Common stated shell lives"
+        },
+        {
+          "n": "Impact wins",
+          "l": "One big hit retires any date"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The tool",
+          "h2": "Check the date",
+          "html": "<div style=\"background:#fff;border:1.5px solid var(--line);border-left:4px solid var(--orange);border-radius:6px;padding:24px;max-width:680px\"><div style=\"display:grid;gap:16px\"><div><span style=\"font-family:var(--mono);font-size:.72rem;letter-spacing:.1em;text-transform:uppercase;color:var(--slate)\">1 · Find the date stamp</span><p style=\"font-size:.9rem;margin-top:4px\">Moulded into the shell, usually under the peak: a clock-style wheel (arrow on the month, year in the centre) or a plain month/year stamp.</p></div><div style=\"display:flex;gap:10px;flex-wrap:wrap\"><label>Month made<br><select id=\"hac-m\" style=\"margin-top:4px;padding:10px;border:1px solid var(--line);border-radius:6px\"><option value=\"1\">Jan</option><option value=\"2\">Feb</option><option value=\"3\">Mar</option><option value=\"4\">Apr</option><option value=\"5\">May</option><option value=\"6\">Jun</option><option value=\"7\">Jul</option><option value=\"8\">Aug</option><option value=\"9\">Sep</option><option value=\"10\">Oct</option><option value=\"11\">Nov</option><option value=\"12\">Dec</option></select></label><label>Year made<br><input type=\"number\" id=\"hac-y\" min=\"2005\" max=\"2030\" placeholder=\"2023\" style=\"margin-top:4px;width:110px;padding:10px;border:1px solid var(--line);border-radius:6px\"></label><label>Maker's stated life<br><select id=\"hac-l\" style=\"margin-top:4px;padding:10px;border:1px solid var(--line);border-radius:6px\"><option value=\"5\">5 years (common)</option><option value=\"3\">3 years</option><option value=\"10\">10 years (some models)</option></select></label></div></div><div id=\"hac-out\" style=\"margin-top:16px;border-top:1px solid var(--line);padding-top:16px;font-size:.95rem;color:var(--slate)\"><em>Enter the stamp date…</em></div></div><script>(function(){var m=document.getElementById(\"hac-m\"),y=document.getElementById(\"hac-y\"),l=document.getElementById(\"hac-l\"),out=document.getElementById(\"hac-out\");function go(){var yy=parseInt(y.value,10);if(!yy||yy<2000){out.innerHTML=\"<em>Enter the stamp date\\u2026</em>\";return}var made=new Date(yy,parseInt(m.value,10)-1,1);var life=parseInt(l.value,10);var expiry=new Date(made);expiry.setFullYear(expiry.getFullYear()+life);var now=new Date();var monthsLeft=(expiry.getFullYear()-now.getFullYear())*12+(expiry.getMonth()-now.getMonth());var verdict,detail;if(monthsLeft<=0){verdict=\"REPLACE NOW\";detail=\"This shell is past the \"+life+\"-year life from its manufacture date. UV and ageing degrade the plastic whether or not it looks fine \\u2014 retire it.\"}else if(monthsLeft<=6){verdict=\"REPLACE SOON\";detail=\"Roughly \"+monthsLeft+\" month\"+(monthsLeft===1?\"\":\"s\")+\" of stated life remains \\u2014 order the replacement now and swap at the next issue point.\"}else{verdict=\"WITHIN LIFE\";detail=\"About \"+Math.floor(monthsLeft/12)+\" year\"+(Math.floor(monthsLeft/12)===1?\"\":\"s\")+\" and \"+(monthsLeft%12)+\" month\"+(monthsLeft%12===1?\"\":\"s\")+\" of stated service life remains \\u2014 keep it, subject to the condition checks below.\"}out.innerHTML='<div style=\\\"font-family:var(--disp);font-size:1.5rem;color:#151B26;text-transform:uppercase;line-height:1.1\\\">'+verdict+'</div><p style=\\\"margin-top:8px\\\">'+detail+'</p><p style=\\\"margin-top:8px\\\">Regardless of date: replace after ANY significant impact, and on cracks, chalky/faded shell, or brittle harness \\u2014 the date is a ceiling, not a guarantee.</p><p style=\\\"margin-top:10px;font-size:.8rem\\\"><em>Some makers date from first USE with a stated shelf-life allowance \\u2014 check the user information; when in doubt, the earlier date wins.</em></p>'}m.addEventListener(\"change\",go);y.addEventListener(\"input\",go);l.addEventListener(\"change\",go)})();</script>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The overrides",
+          "h2": "Condition checks that beat the calendar",
+          "head": [
+            "Check",
+            "Fail looks like",
+            "Verdict"
+          ],
+          "rows": [
+            [
+              "Impact history",
+              "Any significant strike — dropped load, fall, vehicle contact",
+              "Replace regardless of appearance"
+            ],
+            [
+              "Shell surface",
+              "Cracks, deep scratches, chalky or faded colour",
+              "UV damage — replace"
+            ],
+            [
+              "Flex test",
+              "Squeeze the sides: creaking, dullness, no spring",
+              "Embrittled — replace"
+            ],
+            [
+              "Harness & cradle",
+              "Frayed webbing, cracked clips, perished sweatband",
+              "Replace harness or whole unit"
+            ],
+            [
+              "Stickers & paint",
+              "Solvent-based paints/adhesives on the shell",
+              "Can degrade plastic — follow maker's rules"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Context",
+          "h2": "The system around the date",
+          "items": [
+            {
+              "n": "EN 397",
+              "l": "What the shell is certified to — <a href='en-397-helmets-explained.html'>decoded here</a>"
+            },
+            {
+              "n": "Registers",
+              "l": "Sites log issue dates per wearer — <a href='ppe-inspection-records.html'>the records logic</a>"
+            },
+            {
+              "n": "Colours",
+              "l": "The shade is site convention, not certification — <a href='hard-hat-colours-meaning.html'>the colour code</a>"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Helmet age FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "How do I find the date on a hard hat?",
+          "a": "Look for the moulded stamp on the underside of the peak or brim: either a clock-style wheel (arrow pointing at the month, year in the centre) or a plain month/year mark. That's the manufacture date — the reference point for the maker's stated service life."
+        },
+        {
+          "q": "How long does a hard hat last?",
+          "a": "Manufacturers state service lives — commonly around five years from manufacture (some three, some longer), with shorter figures for heavy UV exposure. The date is a ceiling: any significant impact, cracking, chalky fading or brittleness retires the shell immediately whatever the calendar says."
+        },
+        {
+          "q": "Do hard hats expire if unused?",
+          "a": "Shelf life counts too — the plastic ages in storage, just more slowly. Makers publish storage allowances alongside in-use life; a shell stored years before first issue doesn't get the full life from first use. When documentation is unclear, work from the moulded date."
+        }
+      ]
     }
   ]
 }

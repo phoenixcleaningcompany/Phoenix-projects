@@ -1,0 +1,945 @@
+{
+  "cluster": {
+    "id": "standards-wave4",
+    "topic": "Standards decoded",
+    "shopLabel": "PPE",
+    "shopUrl": "https://www.ineedworkwear.com/collections/ppe",
+    "baseUrl": "https://www.ineedworkwear.uk",
+    "date": "2026-07-11",
+    "externalHub": {
+      "slug": "standards",
+      "navLabel": "Standards hub",
+      "title": "Workwear standards, in plain English",
+      "cardTitle": "Standards hub"
+    },
+    "trust": [
+      "Standards read, not summarised from ads",
+      "Class and level tables included",
+      "Certified kit stocked",
+      "Trade accounts"
+    ],
+    "cta": {
+      "h2": "Spec found — kit next.",
+      "p": "Everything decoded here is stocked as certified garments and PPE, embroidered where it makes sense.",
+      "actions": [
+        {
+          "label": "Shop PPE",
+          "href": "https://www.ineedworkwear.com/collections/ppe",
+          "style": "white"
+        },
+        {
+          "label": "Browse the kit directory",
+          "href": "kit.html",
+          "style": "dark"
+        }
+      ]
+    }
+  },
+  "pages": [
+    {
+      "slug": "en-374-chemical-gloves-explained",
+      "role": "spoke",
+      "spokeType": "Standard explainer",
+      "navLabel": "EN 374 chem gloves",
+      "cardTitle": "EN ISO 374 chemical gloves explained",
+      "cardBlurb": "Type A, B and C, the letter codes, breakthrough times — and why the glove material matters more than the rating.",
+      "crumbTail": "Standards",
+      "kicker": "Standard explainer · EN ISO 374",
+      "h1": "EN ISO 374: chemical gloves, letter by letter.",
+      "metaTitle": "EN ISO 374 Chemical Gloves Explained: Types & Letter Codes | iNeedWorkwear",
+      "metaDesc": "EN ISO 374 decoded — Type A/B/C chemical gloves, what the letter codes under the beaker pictogram mean, breakthrough times, the virus marking, and how to match glove polymer to the actual chemical.",
+      "lede": "Chemical gloves carry the most information-dense marking in PPE: a pictogram, a type letter and a string of code letters that name the chemicals the glove actually resisted in testing. Read properly, the label answers the only question that matters — will this glove survive this substance long enough?",
+      "heroMeta": [
+        {
+          "n": "Type A/B/C",
+          "l": "How many chemicals, how long"
+        },
+        {
+          "n": "A–T codes",
+          "l": "Each letter is a named chemical"
+        },
+        {
+          "n": "Breakthrough",
+          "l": "Protection is a time, not a yes"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The system",
+          "h2": "Types, letters and time",
+          "html": "<p>EN ISO 374-1 grades chemical gloves by <strong>how many of its standard test chemicals they resist, and for how long</strong>. <strong>Type A</strong>: at least 6 chemicals for 30+ minutes each. <strong>Type B</strong>: at least 3 chemicals, 30+ minutes. <strong>Type C</strong>: at least 1 chemical, 10+ minutes — splash-brief protection only. The letters printed under the beaker pictogram identify <em>which</em> chemicals passed: each code letter (A–T) is a named substance — A is methanol, K is sodium hydroxide (caustic), J is n-heptane, and so on through the list.</p><p><strong>Breakthrough time is the honest number:</strong> it's how long the chemical takes to permeate the glove at molecular level — invisible, and unrelated to visible damage. A glove rated 30 minutes against caustic is a 30-minute glove, however intact it looks. Degradation (the material swelling or hardening) is tested separately, and disposable nitrile against a named solvent may be a <em>minutes</em> glove: right for a splash-and-doff task, wrong for immersion.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The markings",
+          "h2": "What's on the glove",
+          "head": [
+            "Marking",
+            "Means",
+            "Buying note"
+          ],
+          "rows": [
+            [
+              "Beaker pictogram + letters",
+              "Tested chemicals by code letter",
+              "Match the letters to YOUR chemicals via the datasheet"
+            ],
+            [
+              "<span class='code'>Type A / B / C</span>",
+              "Breadth and duration of resistance",
+              "Type A for sustained work; C is splash-only"
+            ],
+            [
+              "Microorganism pictogram (374-5)",
+              "Bacteria and fungi barrier",
+              "Add <span class='code'>VIRUS</span> marking for virus-tested"
+            ],
+            [
+              "Polymer (nitrile, butyl, neoprene…)",
+              "The actual chemistry doing the work",
+              "<a href='nitrile-vs-latex-vs-vinyl.html'>Material choice</a> beats brand choice"
+            ],
+            [
+              "<a href='en-388-glove-ratings-decoder.html'>EN 388 marking</a>",
+              "Mechanical performance, separately",
+              "Chemical gloves still meet cut and abrasion needs — or don't"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "In practice",
+          "h2": "How the pros actually choose",
+          "items": [
+            {
+              "n": "Name the chemical",
+              "l": "The COSHH assessment names it; the glove maker's permeation chart answers it — never buy on 'chemical resistant' alone"
+            },
+            {
+              "n": "Time the task",
+              "l": "A 15-minute breakthrough is fine for a 5-minute task with disposal after — and dangerous for an hour's immersion"
+            },
+            {
+              "n": "Doff and bin",
+              "l": "Permeated disposables keep permeating — glove-off technique and single use are part of the protection"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Chemical glove FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What do the letters on chemical gloves mean?",
+          "a": "Each letter under the beaker pictogram is a specific test chemical from the EN ISO 374-1 list — A is methanol, K is sodium hydroxide, J is n-heptane and so on. The letters shown are the chemicals that glove resisted for the required breakthrough time in testing; match them against the substances you actually handle."
+        },
+        {
+          "q": "What is the difference between Type A, B and C chemical gloves?",
+          "a": "Test breadth and duration: Type A resisted at least six of the standard chemicals for 30+ minutes each, Type B at least three for 30+ minutes, and Type C at least one for 10+ minutes. Type C is short-splash protection; sustained chemical work wants Type A in the right polymer."
+        },
+        {
+          "q": "How long do chemical gloves protect for?",
+          "a": "Until breakthrough — the tested time the chemical takes to permeate the material, which happens invisibly and regardless of visible condition. Track the time in contact, not the look of the glove, and treat the manufacturer's per-chemical permeation data as the real specification."
+        }
+      ]
+    },
+    {
+      "slug": "en-iso-13688-explained",
+      "role": "spoke",
+      "spokeType": "Standard explainer",
+      "navLabel": "EN ISO 13688",
+      "cardTitle": "EN ISO 13688: the standard behind every standard",
+      "cardBlurb": "The general-requirements standard cited on every protective garment — sizing, innocuousness, marking and what it guarantees.",
+      "crumbTail": "Standards",
+      "kicker": "Standard explainer · EN ISO 13688",
+      "h1": "EN ISO 13688: the small print on every label.",
+      "metaTitle": "EN ISO 13688 Explained: Protective Clothing General Requirements | iNeedWorkwear",
+      "metaDesc": "EN ISO 13688 decoded — the general-requirements standard cited alongside every protective clothing spec: innocuousness, ergonomics, sizing designation, marking rules and ageing information.",
+      "lede": "Look at any certified garment's label and one number appears alongside the headline standard, every time: EN ISO 13688. It's the general-requirements standard — never certified alone, always cited with — and it quietly guarantees the things you'd otherwise never think to check.",
+      "heroMeta": [
+        {
+          "n": "Always cited",
+          "l": "Partner to every clothing standard"
+        },
+        {
+          "n": "Never alone",
+          "l": "It has no protection claims itself"
+        },
+        {
+          "n": "The basics",
+          "l": "Safe materials, honest sizing, clear marking"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The role",
+          "h2": "What the partner standard actually covers",
+          "html": "<p>Protection standards like <a href='en-iso-20471-hi-vis-classes-explained.html'>EN ISO 20471</a> or <a href='en-iso-11612-explained.html'>EN ISO 11612</a> define performance against a hazard. <strong>EN ISO 13688 defines everything else a protective garment must get right</strong>: <strong>innocuousness</strong> (materials can't themselves harm the wearer — pH limits, banned azo dyes, no known-harmful substances against skin), <strong>ergonomics</strong> (the garment must allow the work), <strong>sizing</strong> (declared against actual body dimensions, not vanity labels), <strong>marking</strong> (durable, legible, with the right pictograms), and <strong>manufacturer information</strong> (care, ageing and storage guidance must be supplied).</p><p>It matters to buyers in one practical way: a garment citing a protection standard <em>without</em> EN ISO 13688 alongside is mis-labelled or worse — the pairing is how the system is designed, and its absence is a counterfeit tell.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The contents",
+          "h2": "What it guarantees, clause by clause",
+          "head": [
+            "Area",
+            "The requirement",
+            "Why you care"
+          ],
+          "rows": [
+            [
+              "Innocuousness",
+              "Materials safe against skin — pH, chromium VI limits on leather, no banned dyes",
+              "The garment can't be its own hazard"
+            ],
+            [
+              "Ergonomics",
+              "Design must permit normal work movements",
+              "Protection that prevents working gets removed"
+            ],
+            [
+              "Sizing",
+              "Sizes declared against body measurements",
+              "Why workwear sizing beats fashion sizing — <a href='workwear-sizing-how-to-measure.html'>measure properly</a>"
+            ],
+            [
+              "Marking",
+              "Durable labels with standard pictograms",
+              "A washed-blank label voids traceability — relevant to <a href='washing-fr-workwear.html'>FR wash-life</a>"
+            ],
+            [
+              "Information",
+              "Care, storage and ageing guidance supplied",
+              "The instructions ARE part of the certification"
+            ]
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "EN ISO 13688 FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What is EN ISO 13688?",
+          "a": "The general-requirements standard for protective clothing — covering innocuousness of materials, ergonomics, sizing designation, marking and manufacturer information. It's always certified in combination with a specific protection standard (hi-vis, FR, chemical), never alone, and it's the reason those basics are trustworthy on certified kit."
+        },
+        {
+          "q": "Why does my hi-vis label say EN ISO 13688 as well as EN ISO 20471?",
+          "a": "Because the system pairs them deliberately: EN ISO 20471 covers the visibility performance, EN ISO 13688 covers the garment fundamentals — safe materials, honest sizing, durable marking, supplied care information. Every certified protective garment carries its protection standard plus 13688."
+        },
+        {
+          "q": "Does EN ISO 13688 mean a garment is protective?",
+          "a": "No — by itself it makes no protection claim at all. A garment marked only with EN ISO 13688 is certified as safe, well-made clothing, not as PPE against any hazard. The protection comes from the partner standard cited alongside it."
+        }
+      ]
+    },
+    {
+      "slug": "en-14126-explained",
+      "role": "spoke",
+      "spokeType": "Standard explainer",
+      "navLabel": "EN 14126 infective agents",
+      "cardTitle": "EN 14126: clothing against infective agents",
+      "cardBlurb": "The -B suffix on protective coveralls decoded — barrier tests, type ratings and where biological protection actually applies.",
+      "crumbTail": "Standards",
+      "kicker": "Standard explainer · EN 14126",
+      "h1": "EN 14126: the B on the label.",
+      "metaTitle": "EN 14126 Explained: Protective Clothing Against Infective Agents | iNeedWorkwear",
+      "metaDesc": "EN 14126 decoded — what the -B suffix on coverall type ratings means, the four biological barrier tests, and where infective-agent protection applies: healthcare, waste, emergency response and labs.",
+      "lede": "After 2020, everyone has seen the suits; almost nobody can read their labels. EN 14126 is the standard that turns a chemical coverall into biological PPE — the difference between Type 5/6 and Type 5-B/6-B is one letter and four barrier tests, and knowing where it genuinely applies stops both under- and over-buying.",
+      "heroMeta": [
+        {
+          "n": "-B suffix",
+          "l": "Biological barrier, added to a chem type"
+        },
+        {
+          "n": "4 tests",
+          "l": "Blood, contact, wet and dry routes"
+        },
+        {
+          "n": "Task-led",
+          "l": "Route of exposure picks the type"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The system",
+          "h2": "A suffix that rides on the chemical types",
+          "html": "<p>EN 14126 doesn't define its own garment shapes — it adds <strong>biological barrier performance</strong> to the existing chemical-suit types. A <a href='en-13034-chem-splash-explained.html'>Type 6</a> splash coverall that also passes the biological tests becomes <strong>Type 6-B</strong>; a Type 5 particulate suit becomes <strong>5-B</strong>; and so on up the scale. The tests behind the B cover the routes infection actually travels: resistance to <strong>penetration by contaminated liquids under pressure</strong> (synthetic blood), by <strong>mechanical contact</strong> with contaminated surfaces, by <strong>contaminated liquid aerosols</strong>, and by <strong>contaminated solid particles</strong> (dry dust).</p><p>Class levels within each test grade the performance — higher class, tougher barrier — and the garment's documentation states them. The practical read: <strong>match the type to the route</strong>. Splashing fluids point at 4-B/6-B liquid barriers; dry contaminated dust points at 5-B; heavy fluid exposure climbs to 3-B.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Where it applies",
+          "h2": "Who actually needs the B",
+          "head": [
+            "Setting",
+            "Typical spec",
+            "The logic"
+          ],
+          "rows": [
+            [
+              "Healthcare & pandemic response",
+              "Type 4-B/5-B/6-B coveralls or gowns",
+              "Fluid and aerosol routes — employer IPC policy leads"
+            ],
+            [
+              "Clinical waste & sharps handling",
+              "5-B/6-B with <a href='en-388-glove-ratings-decoder.html'>puncture-aware gloves</a>",
+              "Contact and particle routes — see the <a href='waste-recycling-workwear-guide.html'>waste sector guide</a>"
+            ],
+            [
+              "Sewage & flood work",
+              "4-B/6-B plus washdown kit",
+              "Contaminated liquid contact — the <a href='utilities-workwear-guide.html'>utilities</a> reality"
+            ],
+            [
+              "Labs & post-mortem",
+              "Per containment-level policy",
+              "Site biosafety rules specify exactly"
+            ],
+            [
+              "Animal disease control",
+              "Per APHA/site instruction",
+              "Culls and outbreak response name their kit"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Honest notes",
+          "h2": "Three things the marketing skips",
+          "items": [
+            {
+              "n": "System, not suit",
+              "l": "The B garment works with gloves, RPE, eye protection and doffing technique — the suit alone is half the control"
+            },
+            {
+              "n": "Doffing is the exposure",
+              "l": "Most contamination transfer happens taking kit OFF — train it like the hazard it is"
+            },
+            {
+              "n": "Single-use means it",
+              "l": "Contaminated disposables are clinical waste, not tomorrow's coverall — <a href='disposable-ppe-guide.html'>the disposables logic</a>"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "EN 14126 FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What does Type 5-B or 6-B mean on a coverall?",
+          "a": "The number is the chemical-suit type (5 = particulates, 6 = light splash); the B means the fabric also passed EN 14126's biological barrier tests against contaminated liquids, aerosols, dust and contact. Same garment shapes, added infective-agent performance."
+        },
+        {
+          "q": "Is EN 14126 the same as medical PPE?",
+          "a": "It overlaps but isn't identical — EN 14126 covers protective clothing against infective agents generally (industrial, emergency and clinical settings), while medical devices like surgical gowns follow their own standards. In workplace infection-risk settings, the -B coverall types are the usual specification."
+        },
+        {
+          "q": "Do I need EN 14126 for handling sewage?",
+          "a": "Wastewater and flood-response work commonly specifies liquid-barrier types with the B suffix (4-B or 6-B depending on exposure), alongside gauntlets, wellingtons and strict hygiene routines. The employer's risk assessment sets the exact type; the B is what makes the barrier claim biological, not just chemical."
+        }
+      ]
+    },
+    {
+      "slug": "esd-footwear-explained",
+      "role": "spoke",
+      "spokeType": "Standard explainer",
+      "navLabel": "ESD footwear",
+      "cardTitle": "ESD footwear & EN 61340 explained",
+      "cardBlurb": "Antistatic, ESD and conductive are three different specs — the resistance ranges, the standards and who needs which.",
+      "crumbTail": "Standards",
+      "kicker": "Standard explainer · ESD & EN 61340",
+      "h1": "ESD footwear: three specs that get called one name.",
+      "metaTitle": "ESD Footwear & EN 61340 Explained: Antistatic vs ESD vs Conductive | iNeedWorkwear",
+      "metaDesc": "ESD footwear decoded — the difference between antistatic (A-rated), ESD (EN 61340) and conductive footwear, the resistance ranges behind each, and which spec electronics, battery and ATEX work actually needs.",
+      "lede": "Three different footwear specs get sold under one careless word: the antistatic A in a safety-boot code, the ESD symbol from the electronics world, and conductive footwear for explosive atmospheres. They're defined by different resistance ranges, serve different masters — and swapping one for another quietly breaks the system it was part of.",
+      "heroMeta": [
+        {
+          "n": "3 specs",
+          "l": "Antistatic, ESD, conductive"
+        },
+        {
+          "n": "Ω ranges",
+          "l": "Resistance windows define each"
+        },
+        {
+          "n": "System item",
+          "l": "Footwear + floor + garment together"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The distinctions",
+          "h2": "Same physics, different windows",
+          "html": "<p>All three specs manage the same thing — charge flowing from body to ground through the sole — but each defines its own <strong>resistance window</strong>. <strong>Antistatic</strong> (the A in codes like S1P, tested under the <a href='safety-boot-codes-explained.html'>safety footwear standards</a>) is the broad general-industry band: enough dissipation to prevent nuisance sparks, plenty of resistance left for electrical-shock reasons. <strong>ESD footwear</strong> (tested to the EN 61340 family, worn in electronics and battery production) sits in a tighter, lower window: charge bleeds away fast enough to protect components that die at voltages a human can't even feel — it's <strong>product protection</strong>, verified with tester stations at the door. <strong>Conductive footwear</strong> is the lowest-resistance case, for specialist explosive-atmosphere work where any retained charge is intolerable — and it's specified by the site, never casually, precisely because it removes the shock-protection resistance the other types keep.</p><p>The garment side pairs with it: <a href='en-1149-5-antistatic-explained.html'>EN 1149-5 clothing</a> in ATEX zones, ESD smocks in electronics — and none of it works over an insulating floor. It's a <strong>system</strong>: footwear, flooring, garment, sometimes wrist strap, engineered together.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The map",
+          "h2": "Which spec, whose problem",
+          "head": [
+            "Spec",
+            "Protects",
+            "Where it lives"
+          ],
+          "rows": [
+            [
+              "Antistatic (A, in S-codes)",
+              "Against nuisance static; keeps shock resistance",
+              "General industry default — most S1P/S3 boots have it"
+            ],
+            [
+              "ESD (<span class='code'>EN 61340</span>)",
+              "The product — sensitive electronics, cells",
+              "Electronics lines, <a href='workwear-sunderland.html'>battery halls</a>, cleanrooms"
+            ],
+            [
+              "Conductive",
+              "Explosive atmospheres — fastest discharge",
+              "Specialist ATEX tasks, site-specified only"
+            ],
+            [
+              "+ Garments",
+              "<a href='en-1149-5-antistatic-explained.html'>EN 1149-5</a> / ESD smocks",
+              "The clothing half of the same system"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Buying notes",
+          "h2": "The three practical rules",
+          "items": [
+            {
+              "n": "ESD ≠ A",
+              "l": "An antistatic site boot usually won't pass an electronics plant's tester station — buy to the zone's spec"
+            },
+            {
+              "n": "Test culture",
+              "l": "ESD areas verify daily at the door; failed = socks, insoles or worn soles, all fixable"
+            },
+            {
+              "n": "Whole path",
+              "l": "Charge needs a route: ESD shoes on an insulating mat protect nothing"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "ESD footwear FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What is the difference between antistatic and ESD footwear?",
+          "a": "Resistance range and purpose. Antistatic (the A in safety-boot codes) is a broad band that prevents nuisance static while keeping shock-protective resistance — the general-industry default. ESD footwear meets the tighter, lower EN 61340 window that protects sensitive electronics, verified at tester stations. An ordinary antistatic boot frequently fails an ESD test."
+        },
+        {
+          "q": "Who needs ESD safety shoes?",
+          "a": "Staff in ESD-protected areas: electronics assembly, semiconductor and battery production, and some lab and cleanroom environments — anywhere static discharge damages the product rather than the person. The site's ESD programme specifies the footwear and usually tests it daily."
+        },
+        {
+          "q": "Why did my ESD shoes fail the tester?",
+          "a": "The path broke somewhere: worn or contaminated soles, insulating aftermarket insoles, very dry skin, or thick synthetic socks. Most failures fix with cleaning the soles, the correct insoles, or ESD-compatible socks — and testers exist precisely to catch this before you touch a board."
+        }
+      ]
+    },
+    {
+      "slug": "safety-footwear-2022-update",
+      "role": "spoke",
+      "spokeType": "Standard explainer",
+      "navLabel": "2022 boot codes",
+      "cardTitle": "The 2022 safety footwear update explained",
+      "cardBlurb": "EN ISO 20345:2022 changed the codes — S1PL and S1PS arrived, slip ratings were rewritten, and both labels are in shops now.",
+      "crumbTail": "Standards",
+      "kicker": "Standard explainer · EN ISO 20345:2022",
+      "h1": "The 2022 boot-code update, decoded.",
+      "metaTitle": "EN ISO 20345:2022 Explained: New Safety Boot Codes & Slip Ratings | iNeedWorkwear",
+      "metaDesc": "The 2022 safety footwear update decoded — S1PL and S1PS midsole codes, the rewritten slip-resistance system (SR baseline, SC scuff cap, LG ladder grip), and why old and new labels share shelves.",
+      "lede": "Safety footwear's rulebook was revised in 2022, and the shelves now carry two generations of labels: boots certified to the 2011 edition still sold legitimately alongside 2022-certified kit whose codes look subtly different. Nothing was recalled and nothing old became unsafe — but a buyer reading S1PS for the first time deserves the translation.",
+      "heroMeta": [
+        {
+          "n": "S1PL / S1PS",
+          "l": "The new midsole letters"
+        },
+        {
+          "n": "SR rewritten",
+          "l": "SRA/SRB/SRC retired"
+        },
+        {
+          "n": "Both valid",
+          "l": "2011-certified stock sells through legally"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The changes",
+          "h2": "What actually changed",
+          "html": "<p>The headline: <strong>perforation-resistant midsoles got honest letters</strong>. Under the old system, S1P said 'midsole' without saying which kind. The 2022 edition splits it: <strong>S1PS</strong> means a steel midsole, <strong>S1PL</strong> a textile one tested against a larger, more realistic nail — ending the quiet ambiguity our <a href='safety-boot-codes-explained.html'>boot-codes guide</a> and <a href='composite-vs-steel-toe-caps.html'>composite-vs-steel</a> pages have always had to explain. S6 and S7 join the ladder as waterproof versions of S2 and S3 logic.</p><p><strong>Slip resistance was rebuilt.</strong> The old SRA/SRB/SRC trio is retired: baseline slip performance is now mandatory for certification (tested on ceramic with detergent), with an optional <strong>SR</strong> marking for the tougher glycerine test — plus new optional codes like <strong>SC</strong> (scuff-cap abrasion) and <strong>LG</strong> (ladder grip) for trades that need them.</p><p><strong>What didn't change:</strong> toe protection is still 200 joules, the familiar S1–S5 ladder still reads the same way, and 2011-certified boots remain legal to sell and wear while certificates run — which is why both label styles will share shelves for years yet.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The translation",
+          "h2": "Old label to new label",
+          "head": [
+            "You knew",
+            "2022 says",
+            "The note"
+          ],
+          "rows": [
+            [
+              "S1P (any midsole)",
+              "<span class='code'>S1PS</span> (steel) or <span class='code'>S1PL</span> (textile)",
+              "The L test uses a thinner nail — textile midsoles are now proven harder"
+            ],
+            [
+              "S3",
+              "S3S / S3L by midsole type",
+              "Same logic up the ladder"
+            ],
+            [
+              "SRA / SRB / SRC",
+              "Baseline (unmarked) + optional <span class='code'>SR</span>",
+              "All 2022-certified footwear passes a slip test now"
+            ],
+            [
+              "—",
+              "<span class='code'>SC</span> scuff cap, <span class='code'>LG</span> ladder grip",
+              "New optional extras worth knowing for <a href='workwear-for-scaffolders.html'>ladder trades</a>"
+            ],
+            [
+              "S2/S3 waterproof variants",
+              "<span class='code'>S6 / S7</span>",
+              "Waterproof whole-boot versions join the ladder"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Buying notes",
+          "h2": "What to do with this",
+          "items": [
+            {
+              "n": "Don't bin old stock",
+              "l": "2011-certified boots stay legitimate — the update isn't a recall"
+            },
+            {
+              "n": "Spec forward",
+              "l": "New fleet specs are cleaner written in 2022 codes — S3L tells suppliers exactly what you mean"
+            },
+            {
+              "n": "Metal-free note",
+              "l": "S1PL/S3L formalises what airport and MOT trades wanted — <a href='composite-vs-steel-toe-caps.html'>metal-free logic</a> with a tested nail"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "2022 update FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What does S1PS and S1PL mean on safety boots?",
+          "a": "They're the 2022 split of the old S1P: S1PS has a steel perforation-resistant midsole, S1PL a non-metal textile one tested against a smaller-diameter nail than before. Protection intent is the same; the letters finally say which construction you're getting."
+        },
+        {
+          "q": "Are SRA and SRC slip ratings still valid?",
+          "a": "On boots certified to the 2011 edition, yes, while those certificates run. The 2022 edition retired the SRA/SRB/SRC system: baseline slip resistance became mandatory for certification, with an optional tougher SR marking. You'll see both systems on shelves during the transition."
+        },
+        {
+          "q": "Do I need to replace boots certified to the old standard?",
+          "a": "No — the 2022 revision changed testing and labelling for new certifications; it didn't invalidate existing kit. Replace boots on condition and fit as always. For new fleet specifications, writing requirements in the 2022 codes avoids ambiguity."
+        }
+      ]
+    },
+    {
+      "slug": "fall-protection-standards-explained",
+      "role": "spoke",
+      "spokeType": "Standard explainer",
+      "navLabel": "Fall protection",
+      "cardTitle": "Fall protection standards, mapped",
+      "cardBlurb": "EN 361 harnesses to EN 360 blocks — what each number covers, the inspection duty, and how clothing fits around it all.",
+      "crumbTail": "Standards",
+      "kicker": "Standard explainer · Fall protection",
+      "h1": "Fall protection standards: the map, honestly told.",
+      "metaTitle": "Fall Protection Standards Explained: EN 361, 355, 360 & More | iNeedWorkwear",
+      "metaDesc": "The fall-protection standard family mapped — EN 361 harnesses, EN 355 energy absorbers, EN 360 retractables, EN 358 restraint — plus the inspection duties and how workwear interacts with a harness.",
+      "lede": "Fall-arrest equipment is the one PPE family we'd tell you not to buy casually: it's employer-provided, formally inspected, training-dependent kit whose standards are worth understanding even though the procurement belongs to competent hands. Here's the honest map — including where ordinary workwear fits into it.",
+      "heroMeta": [
+        {
+          "n": "EN 361",
+          "l": "The full-body harness"
+        },
+        {
+          "n": "6 kN",
+          "l": "What an absorber limits force to"
+        },
+        {
+          "n": "Inspected",
+          "l": "Formal checks are part of the kit"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The family",
+          "h2": "The numbers, one line each",
+          "html": "<p><strong>EN 361</strong> is the full-body harness — the only body-holding device permitted for fall <em>arrest</em>. <strong>EN 355</strong> covers energy-absorbing lanyards: the tearing element that limits arrest force to survivable levels. <strong>EN 360</strong> is retractable fall arresters (the 'blocks'). <strong>EN 358</strong> covers work-positioning and restraint — belts and lanyards that stop you reaching the edge at all, which is always the preferred design. <strong>EN 362</strong> is connectors, <strong>EN 353</strong> guided arresters on rails and lines, <strong>EN 341</strong> descent and rescue devices. Every item is Category III PPE: certified with ongoing production oversight, used only with training, and subject to <strong>pre-use checks plus formal periodic inspection</strong> — at least annually, recorded, by a competent person (our <a href='ppe-inspection-records.html'>inspection guide</a> covers the paperwork side).</p><p><strong>Where workwear fits:</strong> clothing is the interface between body and harness. Slim, fitted layers keep the harness geometry right; bulky padding under leg straps changes fit dangerously; loose hoods foul dorsal points; and trouser kit must not cover or catch the leg buckles. That's the practical guidance in our <a href='workwear-for-scaffolders.html'>scaffolder</a> and height-trade pages — and it's why we talk about fall protection at all despite not being the people to sell it to you.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The map",
+          "h2": "Standard by standard",
+          "head": [
+            "Standard",
+            "Covers",
+            "One honest note"
+          ],
+          "rows": [
+            [
+              "<span class='code'>EN 361</span>",
+              "Full-body harnesses",
+              "The only arrest-rated body device — belts alone are restraint kit"
+            ],
+            [
+              "<span class='code'>EN 355</span>",
+              "Energy-absorbing lanyards",
+              "Needs fall clearance below — do the maths before the anchor"
+            ],
+            [
+              "<span class='code'>EN 360</span>",
+              "Retractable arresters",
+              "Shorter arrest, less clearance — but anchor-position rules apply"
+            ],
+            [
+              "<span class='code'>EN 358</span>",
+              "Positioning & restraint",
+              "Restraint beats arrest: never reach the fall in the first place"
+            ],
+            [
+              "<span class='code'>EN 397 + strap</span>",
+              "<a href='en-397-helmets-explained.html'>Helmets</a> with chinstraps for height",
+              "A falling helmet protects nobody — the strap is part of height work"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "The duties",
+          "h2": "What the regs hang on this kit",
+          "items": [
+            {
+              "n": "Hierarchy first",
+              "l": "Avoid height, prevent falls, THEN arrest them — equipment is the last rung, not the first"
+            },
+            {
+              "n": "Rescue plan",
+              "l": "Arresting a fall starts a clock (suspension intolerance) — a plan to get them down is mandatory, not optional"
+            },
+            {
+              "n": "Records",
+              "l": "Pre-use checks daily, formal inspections periodic and recorded — an unrecorded harness is an unmanaged one"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Fall protection FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What standard covers safety harnesses?",
+          "a": "EN 361 for full-body fall-arrest harnesses — the only body-holding device rated for arresting a fall. Work-positioning belts and restraint systems fall under EN 358, energy-absorbing lanyards under EN 355, and retractable blocks under EN 360. All are Category III PPE with formal inspection duties."
+        },
+        {
+          "q": "How often must fall arrest equipment be inspected?",
+          "a": "Pre-use checks every use, plus formal recorded inspection by a competent person at intervals the manufacturer and risk assessment set — at least every 12 months, and more often in harsh use. Anything that has arrested a fall is withdrawn immediately."
+        },
+        {
+          "q": "What should you wear under a safety harness?",
+          "a": "Slim, fitted workwear layers that keep the harness geometry as designed: no bulky padding under leg straps, no loose hoods around the dorsal attachment, nothing covering or catching the buckles. The harness is set up over the clothing you'll actually work in — refit it when the season changes the layers."
+        }
+      ]
+    },
+    {
+      "slug": "en-iso-27065-explained",
+      "role": "spoke",
+      "spokeType": "Standard explainer",
+      "navLabel": "EN ISO 27065 spray kit",
+      "cardTitle": "EN ISO 27065: pesticide operator clothing",
+      "cardBlurb": "C1 to C3 spray-operator clothing decoded — the standard agriculture never knew it had, and when disposables beat it.",
+      "crumbTail": "Standards",
+      "kicker": "Standard explainer · EN ISO 27065",
+      "h1": "EN ISO 27065: clothing for spray operators.",
+      "metaTitle": "EN ISO 27065 Explained: Pesticide Operator Clothing C1–C3 | iNeedWorkwear",
+      "metaDesc": "EN ISO 27065 decoded — the C1, C2 and C3 protection levels for pesticide operator clothing, how it differs from general chemical suits, and how product labels drive what spray operators wear.",
+      "lede": "Most farm spraying happens in clothing chosen by habit, yet there's a dedicated standard for exactly this job: EN ISO 27065 grades operator clothing C1 to C3 against pesticide handling's real exposures. It's the missing link between 'old waterproofs' and full chemical suits — and the product label is what invokes it.",
+      "heroMeta": [
+        {
+          "n": "C1–C3",
+          "l": "Three levels, mixing to spraying"
+        },
+        {
+          "n": "Label-led",
+          "l": "The product SDS names the kit"
+        },
+        {
+          "n": "Re-usable",
+          "l": "Certified garments that wash and return"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The system",
+          "h2": "Three levels for one trade",
+          "html": "<p>EN ISO 27065 certifies clothing specifically against <strong>liquid pesticide exposure</strong> — penetration and repellency of spray formulations rather than the industrial-chemical batteries of the <a href='en-13034-chem-splash-explained.html'>EN 13034 world</a>. <strong>C1</strong> covers lower-exposure operation (cab work, incidental drift), <strong>C2</strong> the standard operator level for mixing, loading and application, and <strong>C3</strong> the highest exposures — handling concentrates, drenched conditions, knapsack work in crops. The garments are <strong>washable and re-certifiable through their stated care cycle</strong>, which is the standard's quiet advantage: purpose-made spray clothing that returns to service, versus the disposable-coverall habit that works but generates a bin-bag per tank mix.</p><p>What invokes it is the <strong>product label and safety data sheet</strong> — UK authorisation increasingly references 27065 levels for operator clothing, alongside the gauntlets, face protection and boots the label lists. The buying rule stays the one from our <a href='workwear-for-farm-workers.html'>farm-worker guide</a>: <strong>read the label of the product you're actually spraying</strong>; it names the level.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The levels",
+          "h2": "C1, C2, C3 in the field",
+          "head": [
+            "Level",
+            "Exposure",
+            "Typical work"
+          ],
+          "rows": [
+            [
+              "<span class='code'>C1</span>",
+              "Low — drift and incidental contact",
+              "Cab-based application, re-entry tasks"
+            ],
+            [
+              "<span class='code'>C2</span>",
+              "Standard operator exposure",
+              "Mixing, loading, boom spraying — the working default"
+            ],
+            [
+              "<span class='code'>C3</span>",
+              "High — concentrates and wet contact",
+              "Knapsack in crop, drenching, handling neat product"
+            ],
+            [
+              "+ Gloves & face",
+              "Per product label",
+              "Nitrile gauntlets and visors ride alongside every level"
+            ],
+            [
+              "Alternative",
+              "<a href='disposable-ppe-guide.html'>Type 4/6 disposables</a>",
+              "Legitimate where the label allows — cost per season decides"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "The realities",
+          "h2": "What spray kit gets wrong",
+          "items": [
+            {
+              "n": "Mixing is the moment",
+              "l": "Handling concentrate at the tank is the exposure peak — the C-level and gauntlets earn their keep there"
+            },
+            {
+              "n": "Wash it right",
+              "l": "Spray clothing launders separately, per label, and contaminated wash water stays out of drains"
+            },
+            {
+              "n": "Old waterproofs aren't kit",
+              "l": "Un-certified waterproofs wet through and hold product against skin — the thing the standard exists to stop"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Spray clothing FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What is EN ISO 27065 clothing?",
+          "a": "Clothing certified specifically for pesticide operators — tested against spray-formulation penetration at three levels: C1 (low exposure), C2 (standard mixing and application) and C3 (high exposure like concentrates and knapsack work). It's washable, re-usable spray kit; the pesticide product's label indicates the level required."
+        },
+        {
+          "q": "Can you spray in disposable coveralls instead?",
+          "a": "Often yes — Type 4/6 disposables with the right chemical performance are a legitimate alternative where the product label allows, and they suit occasional spraying. Regular operators usually land on certified 27065 garments for comfort and cost-per-season, with disposables kept for the filthiest tasks."
+        },
+        {
+          "q": "What PPE does a pesticide label require?",
+          "a": "The label and safety data sheet specify it per product — typically protective clothing (increasingly by 27065 level), nitrile gauntlets, face or eye protection and suitable boots, with extra RPE for some formulations. The label is a legal instruction, not a suggestion; certification for the operator comes via the spray-qualification system."
+        }
+      ]
+    },
+    {
+      "slug": "en-iso-15797-explained",
+      "role": "spoke",
+      "spokeType": "Standard explainer",
+      "navLabel": "Industrial laundering",
+      "cardTitle": "EN ISO 15797: 'industrially launderable', proven",
+      "cardBlurb": "The test standard behind rental workwear and FR wash-life claims — what industrial laundering does to garments and how it's certified.",
+      "crumbTail": "Standards",
+      "kicker": "Standard explainer · EN ISO 15797",
+      "h1": "EN ISO 15797: what 'industrially launderable' proves.",
+      "metaTitle": "EN ISO 15797 Explained: Industrial Laundering of Workwear | iNeedWorkwear",
+      "metaDesc": "EN ISO 15797 decoded — the industrial laundering test standard behind rental workwear and FR wash-life claims, what tunnel washing does to garments, and what the marking means for buyers.",
+      "lede": "Industrial laundries are not big washing machines — they're 75-degree tunnel washers and cabinet dryers that would destroy a high-street garment in a fortnight. EN ISO 15797 is the standard that proves a garment survives that process, and it's the small print behind every rental contract and most FR wash-life claims.",
+      "heroMeta": [
+        {
+          "n": "75 °C",
+          "l": "Tunnel washing's working reality"
+        },
+        {
+          "n": "Marked",
+          "l": "The industrial-wash symbol on labels"
+        },
+        {
+          "n": "Rental-grade",
+          "l": "What laundry contracts quietly require"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The standard",
+          "h2": "Testing for a harder life than home",
+          "html": "<p>EN ISO 15797 defines <strong>reference industrial washing and drying procedures</strong> — high-temperature tunnel washes with industrial chemistry, followed by tumble or tunnel-finisher drying — and garments certified against it have survived those cycles with their <strong>dimensions, appearance and performance intact</strong>. For protective kit that last word is the whole point: an FR garment's <a href='washing-fr-workwear.html'>wash-life claims</a> and a hi-vis garment's colour endurance are stated against defined wash procedures, and 15797 is the industrial one. (The domestic equivalent, for home-washing claims, is ISO 6330 — the care label's world.)</p><p><strong>Why buyers meet it:</strong> rental and laundry-service contracts effectively require 15797-capable garments — anything less falls apart in the tunnel and the contract. Direct buyers meet it as a durability signal: a garment built to survive industrial laundering is over-built for home washing in the best way, which is why our <a href='workwear-fabrics-explained.html'>fabric guide</a> treats the marking as a quality shorthand even for teams that will never use a tunnel washer.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The practical read",
+          "h2": "Who cares, and why",
+          "head": [
+            "Buyer",
+            "What 15797 means to you"
+          ],
+          "rows": [
+            [
+              "Rental / laundry-service users",
+              "The garment is contract-viable — it survives the process your service uses"
+            ],
+            [
+              "FR fleet managers",
+              "Wash-life counting is meaningful — cycles are defined, so the count is too"
+            ],
+            [
+              "Hygiene sectors",
+              "<a href='food-processing-workwear-guide.html'>Food</a> and clinical laundering programmes lean on industrially-rated kit"
+            ],
+            [
+              "Everyone else",
+              "A durability proxy: tunnel-proof construction shrugs off domestic machines"
+            ]
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Industrial laundering FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What does industrially launderable mean?",
+          "a": "The garment is certified (typically to EN ISO 15797) to survive industrial laundry processes — high-temperature tunnel washing and industrial drying — without losing its fit, appearance or protective performance. It's the durability grade rental services and laundry contracts require."
+        },
+        {
+          "q": "What's the difference between EN ISO 15797 and the care label?",
+          "a": "The care label reflects domestic washing (tested under ISO 6330); EN ISO 15797 covers industrial processes, which are hotter, more chemical and more mechanical. A garment can be home-washable but not industrial-grade — putting it through a tunnel washer anyway is how rental stock gets wrecked."
+        },
+        {
+          "q": "Does industrial laundering damage workwear?",
+          "a": "It ages any garment faster than home washing — that's why the standard exists. Garments built to 15797 tolerate it by design; garments that aren't shrink, fade, delaminate and lose print quickly. For protective kit, the laundering method must match what the garment's performance claims were tested against."
+        }
+      ]
+    }
+  ]
+}

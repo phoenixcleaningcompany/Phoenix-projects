@@ -766,6 +766,1343 @@
           "a": "Disposable PPE carries its own certifications — FFP ratings on masks, EN 374 on chemical gloves, food-contact approvals on nitrile. Single-use doesn't mean unrated; check the standard against the task exactly as you would with reusable kit."
         }
       ]
+    },
+    {
+      "slug": "ffp2-vs-ffp3",
+      "role": "spoke",
+      "spokeType": "Comparison",
+      "navLabel": "FFP2 vs FFP3",
+      "cardTitle": "FFP2 vs FFP3",
+      "cardBlurb": "The filtration difference, the fit-testing truth and which rating each dust actually demands.",
+      "crumbTail": "Comparisons",
+      "kicker": "Comparison · Respiratory protection",
+      "h1": "FFP2 vs FFP3: the difference that matters.",
+      "metaTitle": "FFP2 vs FFP3: Which Mask Rating Do You Need? | iNeedWorkwear",
+      "metaDesc": "FFP2 vs FFP3 compared honestly — filtration efficiency and assigned protection factors, which hazards demand FFP3 (silica, hardwood dust, welding fume), and why fit-testing decides everything.",
+      "lede": "FFP2 filters at least 94% of test particles; FFP3 at least 99%. That five-point gap sounds small and isn't — in protection-factor terms FFP3 is roughly twice the mask, and for the dusts that end careers (silica, hardwood, welding fume) it's the specified answer, not the upgrade option.",
+      "heroMeta": [
+        {
+          "n": "94 / 99%",
+          "l": "Minimum filtration, FFP2 vs FFP3"
+        },
+        {
+          "n": "APF 10 / 20",
+          "l": "The protection factors in use"
+        },
+        {
+          "n": "Fit decides",
+          "l": "An unsealed FFP3 is an FFP-nothing"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The difference",
+          "h2": "Two numbers, honestly compared",
+          "html": "<p>Both are disposable filtering facepieces under <a href='en-149-ffp-ratings-explained.html'>EN 149</a>; the rating is filtration efficiency against the standard's test aerosols — <strong>FFP2 ≥ 94%, FFP3 ≥ 99%</strong> — which translates in UK practice to assigned protection factors of roughly <strong>10 and 20</strong>: worn correctly, the air inside carries a tenth or a twentieth of the contaminant outside. The choice is made by the hazard's toxicity, not preference: <strong>respirable crystalline silica</strong> (concrete cutting, chasing, quarry dust), <strong>hardwood dusts</strong> (a carcinogen — see the <a href='furniture-joinery-workwear-guide.html'>joinery sector guide</a>), and <strong>welding fume</strong> (now treated as carcinogenic across the board) are FFP3 territory in almost every competent assessment. FFP2 holds the line for general nuisance-to-moderate dusts — plastering finish work, softwood offcuts, general sweeping.</p><p><strong>The uncomfortable truth both ratings share:</strong> the number assumes a sealed fit. Stubble, the wrong size or a casually-donned mask leaks around the edges, and leakage doesn't care about filter grade — which is why <a href='ffp-fit-testing-explained.html'>face-fit testing</a> is a legal expectation for tight-fitting RPE at work, and why an FFP2 that fits beats an FFP3 that doesn't.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The decision",
+          "h2": "Which rating for which dust",
+          "head": [
+            "Hazard",
+            "Rating",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Silica dust (concrete, stone, brick)",
+              "<span class='code'>FFP3</span>",
+              "Silicosis is dose-driven and irreversible — the assessment will say FFP3"
+            ],
+            [
+              "Hardwood dust",
+              "<span class='code'>FFP3</span>",
+              "Carcinogen — sinonasal cancer risk"
+            ],
+            [
+              "Welding fume",
+              "<span class='code'>FFP3</span> minimum",
+              "Reclassified carcinogenic; extraction first, RPE with it"
+            ],
+            [
+              "Plaster, softwood, general dusts",
+              "<span class='code'>FFP2</span>",
+              "Moderate-hazard dusts at typical exposures"
+            ],
+            [
+              "Composite/GRP sanding",
+              "<span class='code'>FFP3</span> common",
+              "Fine respirable fibre — see the <a href='workwear-hull.html'>Hull composite trades</a>"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "The caveats",
+          "h2": "What the rating can't fix",
+          "items": [
+            {
+              "n": "Beards leak",
+              "l": "Tight-fitting masks seal on skin — stubble breaks the seal; powered hoods are the bearded answer"
+            },
+            {
+              "n": "Valves",
+              "l": "Exhale valves add comfort, filter nothing outbound — relevant where protecting others matters"
+            },
+            {
+              "n": "Single shift",
+              "l": "Disposable means disposable — a clogged, creased FFP3 from yesterday's pocket is theatre"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "FFP2 vs FFP3 FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is FFP3 much better than FFP2?",
+          "a": "Meaningfully, yes: minimum filtration rises from 94% to 99%, and the assigned protection factor doubles from about 10 to 20. For carcinogenic and high-toxicity dusts — silica, hardwood, welding fume — FFP3 is the specified rating, not a luxury upgrade."
+        },
+        {
+          "q": "When is FFP3 required?",
+          "a": "Whenever the risk assessment's exposure maths demands a protection factor of 20 — in practice, silica-generating tasks (cutting concrete, stone, brick), hardwood dust, welding fume and similar high-hazard aerosols. The assessment and any trade guidance name it; extraction and wet-cutting still come first in the control hierarchy."
+        },
+        {
+          "q": "Does an FFP3 mask work with a beard?",
+          "a": "No — FFP masks are tight-fitting and seal against skin, and even heavy stubble leaks enough to undo the rating. Facial hair points to loose-fitting powered RPE (hoods) instead. For clean-shaven wearers, face-fit testing verifies the seal the rating depends on."
+        }
+      ]
+    },
+    {
+      "slug": "nitrile-vs-latex-vs-vinyl",
+      "role": "spoke",
+      "spokeType": "Comparison",
+      "navLabel": "Nitrile vs latex vs vinyl",
+      "cardTitle": "Nitrile vs latex vs vinyl gloves",
+      "cardBlurb": "The disposable-glove decision settled — allergy, chemistry, feel and the jobs each polymer actually suits.",
+      "crumbTail": "Comparisons",
+      "kicker": "Comparison · Disposable gloves",
+      "h1": "Nitrile vs latex vs vinyl: pick by polymer.",
+      "metaTitle": "Nitrile vs Latex vs Vinyl Gloves: Which To Buy | iNeedWorkwear",
+      "metaDesc": "Disposable gloves compared honestly — nitrile's chemical resistance and allergy-safety, latex's feel and its allergy problem, vinyl's real (narrow) place, and which glove each trade should stock.",
+      "lede": "Three polymers dominate the disposable-glove box, and workplaces mostly choose by price history rather than merit. The short version: nitrile has quietly won for most work, latex survives on feel where allergy policy allows it, and vinyl's honest role is narrower than its market share.",
+      "heroMeta": [
+        {
+          "n": "Nitrile",
+          "l": "The working default"
+        },
+        {
+          "n": "Latex",
+          "l": "Feel, with an allergy asterisk"
+        },
+        {
+          "n": "Vinyl",
+          "l": "Light duty, loose fit, low cost"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The comparison",
+          "h2": "Three materials, three characters",
+          "html": "<p><strong>Nitrile</strong> — synthetic rubber — took the crown for good reasons: strong puncture resistance for a disposable, useful resistance to oils, fuels and many chemicals (the reason it dominates <a href='automotive-trade-workwear-guide.html'>garages</a> and <a href='workwear-for-hairdressers-barbers.html'>salons</a> alike), and <strong>no latex proteins</strong>, so it sidesteps the allergy problem entirely. Modern thin-mil nitrile closed the old feel gap.</p><p><strong>Latex</strong> — natural rubber — still has the best stretch-and-feel of the three, which is why some clinical and precision users hold onto it. Its problem is well known: latex proteins drive Type I allergy, which can be severe, and sensitisation grows with exposure — which is why many healthcare and food employers have simply <strong>banned it</strong> in favour of nitrile.</p><p><strong>Vinyl</strong> — PVC — is the budget option: looser fit, lower stretch, weaker barrier that degrades further with movement, and poor chemical credentials (some formulations also swell in contact with certain products, a known issue in <a href='workwear-for-hairdressers-barbers.html'>colour chemistry</a>). Its legitimate home is short, dry, low-risk tasks — food service handling, light cleaning — where cost per glove genuinely matters and the barrier demand is modest.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The verdict",
+          "h2": "Pick by job",
+          "head": [
+            "Job",
+            "Glove",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Workshop fluids, oils, brake cleaner",
+              "Nitrile",
+              "Oil and fuel resistance; puncture strength"
+            ],
+            [
+              "Healthcare & care",
+              "Nitrile (latex where policy allows)",
+              "Allergy policy increasingly decides — <a href='healthcare-workwear-guide.html'>sector guide</a>"
+            ],
+            [
+              "Salon colour & wet work",
+              "Nitrile",
+              "Resists the chemistry vinyl swells in"
+            ],
+            [
+              "Food prep, light and dry",
+              "Vinyl or nitrile",
+              "Vinyl's honest niche — short tasks, frequent changes"
+            ],
+            [
+              "Named chemicals, sustained contact",
+              "Neither — <a href='en-374-chemical-gloves-explained.html'>EN ISO 374 rated</a>",
+              "Disposables are splash kit; breakthrough times rule"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Buying notes",
+          "h2": "Three facts for the stock room",
+          "items": [
+            {
+              "n": "AQL matters",
+              "l": "The pinhole-rate number — lower is better; medical-grade AQL 1.5 beats bargain-box 4.0"
+            },
+            {
+              "n": "Powder is gone",
+              "l": "Powdered gloves are effectively obsolete — banned in medical use, pointless elsewhere"
+            },
+            {
+              "n": "Size the box",
+              "l": "Ill-fitting disposables tear at donning — stock S through XL, not one middle guess"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Disposable glove FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Which is better, nitrile or latex gloves?",
+          "a": "For most workplaces, nitrile: comparable dexterity in modern thin formulations, better chemical and puncture resistance, and no latex-allergy risk — the reason many healthcare and food employers switched entirely. Latex retains a following for its stretch and feel where allergy policies permit it."
+        },
+        {
+          "q": "What are vinyl gloves good for?",
+          "a": "Short-duration, low-risk, dry tasks — light food handling, housekeeping — where frequent glove changes and cost per unit dominate. They fit loosely, stretch little and provide a weaker barrier than nitrile or latex, so they're the wrong glove for chemicals, fluids or anything sustained."
+        },
+        {
+          "q": "Are nitrile gloves chemical resistant?",
+          "a": "Usefully so for splashes of oils, fuels and many everyday chemicals — one reason they rule workshops. But disposables are thin: for named chemicals and sustained contact, use gloves rated under EN ISO 374 in the right polymer and thickness, chosen from the manufacturer's permeation data."
+        }
+      ]
+    },
+    {
+      "slug": "s1p-vs-s3-safety-boots",
+      "role": "spoke",
+      "spokeType": "Comparison",
+      "navLabel": "S1P vs S3",
+      "cardTitle": "S1P vs S3 safety boots",
+      "cardBlurb": "The two most-bought codes separated by two letters — water and tread — and the simple rule for choosing.",
+      "crumbTail": "Comparisons",
+      "kicker": "Comparison · Safety footwear",
+      "h1": "S1P vs S3: indoors vs the weather.",
+      "metaTitle": "S1P vs S3 Safety Boots: Which Do You Need? | iNeedWorkwear",
+      "metaDesc": "S1P vs S3 compared — both have toe and midsole protection; S3 adds a water-resistant upper and cleated sole. The indoor/outdoor rule, the exceptions, and where each code actually belongs.",
+      "lede": "S1P and S3 are the two codes that sell nine safety boots in ten, and the difference is smaller than the argument suggests: both protect the toe (200 J) and the sole (puncture midsole). S3 adds a water-resistant upper and a cleated outsole. That's it — which is why the choosing rule fits in one line: S1P works indoors, S3 works everywhere.",
+      "heroMeta": [
+        {
+          "n": "Both",
+          "l": "Toe cap + midsole"
+        },
+        {
+          "n": "S3 adds",
+          "l": "Water-resistant upper, cleats"
+        },
+        {
+          "n": "The rule",
+          "l": "Dry floors S1P, weather S3"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The comparison",
+          "h2": "Two letters of difference",
+          "html": "<p>Read the <a href='safety-boot-codes-explained.html'>code ladder</a> and the pair sit close together: <strong>S1P</strong> = antistatic, energy-absorbing heel, fuel-resistant sole, 200 J toe, <strong>P</strong>enetration-resistant midsole. <strong>S3</strong> = all of that plus a <strong>water-penetration-resistant upper</strong> and a <strong>cleated outsole</strong>. (The <a href='safety-footwear-2022-update.html'>2022 update</a> splits each by midsole type — S1PL/S1PS, S3L/S3S — without changing this logic.)</p><p>The practical consequences: <strong>S1P builds lighter</strong> — often trainer-style, breathable, made for the 15 km a picker walks on dry concrete — while <strong>S3 builds for ground</strong>: leather or treated uppers that shrug off wet grass and mortar slurry, lugs that bite mud. Wear S3 all day in a hot dry warehouse and you're carrying weight and heat for weather that never comes; wear S1P trainers on a winter groundworks job and you're wet by nine and cold by ten.</p><p>The honest asterisk: <strong>water-resistant isn't waterproof</strong> — S3 resists penetration; standing water eventually wins. Genuinely wet work moves to waterproof-lined boots (the 2022 edition's S7 territory) or <a href='safety-wellingtons-guide.html'>safety wellingtons</a>.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The decision",
+          "h2": "Where each code belongs",
+          "head": [
+            "Environment",
+            "Code",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Warehouse, factory floor, workshop",
+              "<span class='code'>S1P</span>",
+              "Light, breathable, midsole against dropped fixings and swarf"
+            ],
+            [
+              "Construction site, groundworks",
+              "<span class='code'>S3</span>",
+              "Mud, wet and rough ground — upper and tread earn it"
+            ],
+            [
+              "Landscaping & outdoor trades",
+              "<span class='code'>S3</span>",
+              "The weather is the workplace"
+            ],
+            [
+              "MOT bays & indoor automotive",
+              "<span class='code'>S1P</span>",
+              "Dry floors; metal-free versions clear inspection pits nicely"
+            ],
+            [
+              "Permanently wet ground",
+              "Waterproof-lined or <a href='safety-wellingtons-guide.html'>S5 wellington</a>",
+              "S3 resists water; it doesn't promise to exclude it"
+            ]
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "S1P vs S3 FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What is the difference between S1P and S3?",
+          "a": "Both have a 200 J toe cap and a penetration-resistant midsole. S3 adds a water-penetration-resistant upper and a cleated outsole for grip on soft ground. In practice: S1P suits dry indoor floors and builds lighter; S3 suits outdoor sites and weather."
+        },
+        {
+          "q": "Are S3 boots waterproof?",
+          "a": "They're water-penetration resistant — fine in wet grass, rain and mud for normal exposure — but not sealed waterproof boots. Standing water and all-day soaking call for waterproof-lined footwear (S7 under the 2022 codes) or safety wellingtons (S4/S5)."
+        },
+        {
+          "q": "Can I wear S1P trainers on a building site?",
+          "a": "Site rules usually specify S3 (or equivalent with ankle and weather performance) for external works, and S1P trainers won't cope with mud or wet anyway. Indoors — fit-out phases, warehouses, workshops — S1P is often exactly right. The induction pack settles it per site."
+        }
+      ]
+    },
+    {
+      "slug": "safety-trainers-vs-safety-boots",
+      "role": "spoke",
+      "spokeType": "Comparison",
+      "navLabel": "Trainers vs boots",
+      "cardTitle": "Safety trainers vs safety boots",
+      "cardBlurb": "Same toe cap, different ankle, weight and weather — an honest sort of who genuinely benefits from each.",
+      "crumbTail": "Comparisons",
+      "kicker": "Comparison · Safety footwear",
+      "h1": "Safety trainers vs boots: the ankle question.",
+      "metaTitle": "Safety Trainers vs Safety Boots: Which To Choose | iNeedWorkwear",
+      "metaDesc": "Safety trainers vs boots compared — identical toe protection, the real differences (ankle support, weather, weight, heat), who each suits, and the site-rules reality check.",
+      "lede": "The toe cap doesn't care what's above it: a safety trainer's 200 joules equals a boot's. What differs is everything around the cap — ankle cover, weather resistance, weight, heat — and the right choice tracks the ground you stand on, not the aesthetics either camp argues for.",
+      "heroMeta": [
+        {
+          "n": "200 J",
+          "l": "Identical toe protection"
+        },
+        {
+          "n": "Ankle & weather",
+          "l": "Where boots earn their bulk"
+        },
+        {
+          "n": "Weight & heat",
+          "l": "Where trainers earn their keep"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The comparison",
+          "h2": "What each actually buys you",
+          "html": "<p><strong>The trainer's case</strong> is distance and heat: tens of kilometres per shift on flat concrete favour a light, cushioned, breathable build — it's why <a href='warehouse-logistics-workwear-guide.html'>logistics</a> standardised on S1P trainers and why foot fatigue (and the absence it causes) drops when fleets switch. <strong>The boot's case</strong> is ground and cover: uneven surfaces, mud, debris and weather favour ankle support, a water-resisting upper and a lugged sole — plus the unglamorous protection of leather height against scrapes, sparks and the kicked-up hazards of open sites.</p><p>The <strong>ankle-support argument</strong> deserves honesty: a boot doesn't immobilise an ankle like a brace, but height and lacing measurably steady the joint on rough ground, and site managers see the difference in twist injuries. On flat floors that benefit largely evaporates — which is the whole decision in one sentence: <strong>flat and dry favours trainers; rough and wet favours boots</strong>. Codes follow the same split: trainers live at <a href='s1p-vs-s3-safety-boots.html'>S1P, boots span S1P to S3</a>.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The sort",
+          "h2": "Who genuinely benefits from which",
+          "head": [
+            "Worker",
+            "Better call",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Warehouse pickers & FLT",
+              "Trainers (S1P)",
+              "Kilometres on concrete; heat builds in boots"
+            ],
+            [
+              "Construction & groundwork",
+              "Boots (S3)",
+              "Ankle, weather and debris cover"
+            ],
+            [
+              "Delivery drivers",
+              "Trainers or hybrid mid-cut",
+              "Cab-to-doorstep repetitions favour light"
+            ],
+            [
+              "Landscapers & outdoor trades",
+              "Boots (S3)",
+              "Rough, wet, uneven — the boot's home fixture"
+            ],
+            [
+              "Workshops & MOT bays",
+              "Either — floor decides",
+              "Dry flat concrete makes it preference"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Reality checks",
+          "h2": "Before the argument starts",
+          "items": [
+            {
+              "n": "Site rules win",
+              "l": "Plenty of sites mandate ankle cover — the induction pack overrules preference"
+            },
+            {
+              "n": "Hybrids exist",
+              "l": "Mid-cut safety trainers split the difference for van-based trades"
+            },
+            {
+              "n": "Fit beats format",
+              "l": "A well-fitted either beats a badly-fitted other — feet aren't a debate club"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Trainers vs boots FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Are safety trainers as safe as safety boots?",
+          "a": "Toe and midsole protection can be identical — the codes measure the same tests. Boots add ankle cover, weather resistance and rough-ground stability that trainers genuinely lack; trainers add lightness and breathability boots can't match. Safety equivalence depends on where you work, which is why site rules sometimes mandate boots."
+        },
+        {
+          "q": "Why do warehouses allow safety trainers?",
+          "a": "Because the environment plays to their strengths: flat dry concrete, long walking distances, indoor heat — conditions where cushioning and weight matter more than ankle cover and weatherproofing. S1P safety trainers became the logistics default for exactly those reasons."
+        },
+        {
+          "q": "Do safety boots really support your ankle?",
+          "a": "They steady it rather than brace it — height and firm lacing measurably reduce roll-over on uneven ground, which is where the injuries happen. On flat floors the advantage mostly disappears, so the ankle argument is really an argument about your terrain."
+        }
+      ]
+    },
+    {
+      "slug": "hard-hat-colours-meaning",
+      "role": "spoke",
+      "spokeType": "Answer page",
+      "navLabel": "Hard hat colours",
+      "cardTitle": "Hard hat colours: what they mean",
+      "cardBlurb": "White, orange, blue, black — the UK's site colour convention decoded, and why it's a convention, not a law.",
+      "crumbTail": "Answers",
+      "kicker": "Answer page · Site conventions",
+      "h1": "What hard hat colours actually mean in the UK.",
+      "metaTitle": "Hard Hat Colours Meaning UK: Who Wears What | iNeedWorkwear",
+      "metaDesc": "UK hard hat colours decoded — the Build UK convention (white for supervisors and competent roles, orange for slingers, blue for inexperienced workers, black for site managers), its exceptions and its limits.",
+      "lede": "You can read a British construction site from the scaffold: who supervises, who's new, who's guiding the crane — all colour-coded overhead. The system is a convention (led by Build UK's standard), not legislation, but it's near-universal on major sites and worth reading fluently.",
+      "heroMeta": [
+        {
+          "n": "4 colours",
+          "l": "The core Build UK scheme"
+        },
+        {
+          "n": "Blue",
+          "l": "The one that means 'look out for me'"
+        },
+        {
+          "n": "Convention",
+          "l": "Strong custom, not statute"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The scheme",
+          "h2": "The colours, decoded",
+          "html": "<p>The dominant UK scheme (standardised by Build UK and adopted across major contractors) uses four core colours. <strong>White</strong>: site managers, competent operatives and vehicle marshals — the broad 'qualified' colour, usually read alongside the badges and stickers that carry the detail. <strong>Black</strong>: site supervisors in many schemes. <strong>Orange</strong>: slingers and signallers — the crane-communication roles, coloured to be findable instantly from a cab. <strong>Blue</strong>: everyone who isn't yet competent unescorted — new starters, apprentices, visitors — the colour that tells the whole site to keep half an eye on its wearer.</p><p><strong>The caveats that stop arguments:</strong> it's a convention, so individual sites and clients vary it (rail, utilities and some majors run their own schemes — check the induction); green often marks first aiders and yellow general operatives on schemes that use them; and the colour changes nothing about the shell itself — every one of them is the same <a href='en-397-helmets-explained.html'>EN 397 helmet</a> underneath, with the same <a href='hard-hat-age-checker.html'>date-stamp rules</a>.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Quick read",
+          "h2": "The colour table",
+          "head": [
+            "Colour",
+            "Usual meaning",
+            "Note"
+          ],
+          "rows": [
+            [
+              "White",
+              "Manager / competent operative / marshal",
+              "Read the badge for the specifics"
+            ],
+            [
+              "Black",
+              "Supervisor",
+              "In Build UK-style schemes"
+            ],
+            [
+              "Orange",
+              "Slinger / signaller",
+              "Crane comms — visible from the cab"
+            ],
+            [
+              "Blue",
+              "Not yet competent unescorted",
+              "New starters, visitors, apprentices"
+            ],
+            [
+              "Green / others",
+              "First aider and site-specific roles",
+              "Scheme-dependent — induction tells you"
+            ]
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Hard hat colour FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What does a blue hard hat mean?",
+          "a": "In the prevailing UK scheme: a wearer not yet assessed as competent to work unescorted — new starters, apprentices, trainees and visitors. It signals the site to expect unfamiliarity, which is protection, not stigma; the colour changes as competence is signed off."
+        },
+        {
+          "q": "Is there a law about hard hat colours?",
+          "a": "No — the colours are an industry convention, standardised most influentially by Build UK and adopted widely, but sites and sectors can and do vary it. What the law requires is suitable head protection (EN 397) where risk demands it; the colour system is site management layered on top."
+        },
+        {
+          "q": "What colour hard hat do visitors wear?",
+          "a": "Typically blue under Build UK-style schemes (not competent unescorted), though many sites keep dedicated visitor helmets in whatever colour their scheme assigns. The induction brief states it — and the escort requirement matters more than the shade."
+        }
+      ]
+    },
+    {
+      "slug": "cargo-vs-holster-trousers",
+      "role": "spoke",
+      "spokeType": "Comparison",
+      "navLabel": "Cargo vs holster",
+      "cardTitle": "Cargo vs holster pocket trousers",
+      "cardBlurb": "Two ways to carry your trade on your legs — and why the difference is really about what falls out and when.",
+      "crumbTail": "Comparisons",
+      "kicker": "Comparison · Work trousers",
+      "h1": "Cargo vs holster pockets: carry logic.",
+      "metaTitle": "Cargo vs Holster Pocket Work Trousers Compared | iNeedWorkwear",
+      "metaDesc": "Cargo vs holster-pocket work trousers — how each carries, what each drops, the trades that suit each, and the height-work rule that decides it for scaffolders and roofers.",
+      "lede": "Work-trouser pockets split into two philosophies: cargo (enclosed volume on the thigh) and holster (open-topped bags that hang forward for fast access). Both carry a trade's daily clutter; they differ in speed, snag and — the deciding factor at height — what falls out when you climb.",
+      "heroMeta": [
+        {
+          "n": "Cargo",
+          "l": "Enclosed volume, flapped"
+        },
+        {
+          "n": "Holster",
+          "l": "Fast access, hangs forward"
+        },
+        {
+          "n": "At height",
+          "l": "Open tops shed contents — the rule"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The comparison",
+          "h2": "Speed vs security",
+          "html": "<p><strong>Holsters</strong> are the fixings-trade favourite for one reason: <strong>retrieval speed</strong>. Screws, plugs, a driver bit, a pencil — grabbed without looking, a hundred times a day. They hang forward of the thigh, tuck away into their pockets when empty, and turn a trouser into a lightweight tool belt. Their weakness is the same as their strength: <strong>open tops</strong>. Bend, climb or crawl and contents migrate; at height they rain.</p><p><strong>Cargo pockets</strong> trade speed for security — flapped, enclosed, flatter against the leg. Better for site paperwork, phones, gloves and anything that must still be there at lunchtime; slower for the fiftieth screw. They also snag less in tight crawls and machine-adjacent work, which is why <a href='workwear-for-mechanics.html'>mechanics</a> and machine trades lean cargo while <a href='workwear-for-carpenters.html'>first-fix carpenters</a> lean holster.</p><p><strong>The height rule settles it for some trades:</strong> open-topped holsters and ladders are a falling-object generator — <a href='workwear-for-scaffolders.html'>scaffolders</a> and roofers spec closing pockets or empty the holsters before the climb. Many trousers now offer both systems on one leg; the real question is which pocket each item of <em>your</em> daily carry lives in.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The sort",
+          "h2": "Trade by trade",
+          "head": [
+            "Trade",
+            "Lean",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Carpenters & shopfitters",
+              "Holster",
+              "Fixings all day — retrieval speed compounds"
+            ],
+            [
+              "Electricians",
+              "Holster + cargo mix",
+              "Fast small parts plus secured testers"
+            ],
+            [
+              "Scaffolders & roofers",
+              "Closing pockets",
+              "Nothing open-topped climbs — <a href='workwear-for-scaffolders.html'>the height rule</a>"
+            ],
+            [
+              "Mechanics & machine trades",
+              "Cargo",
+              "Snag-averse environments; holsters catch"
+            ],
+            [
+              "Site managers",
+              "Cargo",
+              "Paper, phone, keys — security over speed"
+            ]
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Pocket FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What are holster pockets for?",
+          "a": "Fast, no-look access to high-frequency small items — screws, bits, pencils — hanging forward of the thigh like a soft tool belt. Trades that reach for fixings hundreds of times a day (carpentry, shopfitting, first fix) get the most from them."
+        },
+        {
+          "q": "Are holster pockets allowed when working at height?",
+          "a": "Many height trades restrict open-topped pockets or require them emptied before climbing — anything open sheds contents on ladders and scaffolds, and falling objects are a top site hazard. Closing cargo or zipped pockets are the height-friendly carry."
+        },
+        {
+          "q": "Can you get trousers with both cargo and holster pockets?",
+          "a": "Yes — many modern work trousers combine cargo volume with detachable or tuck-away holsters, letting one trouser serve bench days and site days. The practical exercise is listing your daily carry and assigning each item a pocket that closes if you climb."
+        }
+      ]
+    },
+    {
+      "slug": "steel-toe-cap-myths",
+      "role": "spoke",
+      "spokeType": "Answer page",
+      "navLabel": "Toe cap myths",
+      "cardTitle": "Steel toe cap myths, debunked",
+      "cardBlurb": "The guillotine legend, the 'weak after one knock' claim and other folklore — tested against how caps actually behave.",
+      "crumbTail": "Answers",
+      "kicker": "Answer page · Safety footwear",
+      "h1": "Steel toe myths: the folklore audit.",
+      "metaTitle": "Steel Toe Cap Myths Debunked: The Folklore vs The Tests | iNeedWorkwear",
+      "metaDesc": "Steel toe cap myths examined — the amputation guillotine legend, whether caps weaken after an impact, composite fragility claims, cold-feet folklore and what the 200-joule test actually shows.",
+      "lede": "No item of PPE carries more folklore than the steel toe cap: it'll guillotine your toes, it's useless after one knock, composite versions shatter like biscuits. Most of it traces to one debunked TV segment and decades of canteen repetition. Here's the folklore, audited against how caps are actually tested and behave.",
+      "heroMeta": [
+        {
+          "n": "200 J",
+          "l": "The impact both steel and composite pass"
+        },
+        {
+          "n": "Myth #1",
+          "l": "The guillotine legend"
+        },
+        {
+          "n": "Verdict",
+          "l": "Wear the boots"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The audit",
+          "h2": "Four myths, examined",
+          "html": "<p><strong>Myth 1: 'A heavy impact folds the cap and guillotines your toes.'</strong> The famous TV test used loads far beyond the certified range on unsupported caps. Within and well beyond the <a href='safety-boot-codes-explained.html'>200-joule test regime</a>, caps deform progressively while preserving clearance — and decades of injury data show crush outcomes with protection are consistently better than without. If a load is big enough to defeat a cap, it was big enough to pulp an unprotected foot long before.</p><p><strong>Myth 2: 'Once it's taken a knock, it's weakened.'</strong> Half true, badly told. Everyday knocks and scuffs don't consume a steel cap. A <em>serious</em> impact — the kind you remember — can deform either material (and composite can be damaged invisibly), which is why the rule is: after a significant impact, replace the footwear. Not because caps are fragile; because they're single-event insurance at the extremes.</p><p><strong>Myth 3: 'Composite caps are weaker.'</strong> Same 200 J certification, same test rig — see <a href='composite-vs-steel-toe-caps.html'>the full comparison</a>. Composite is bulkier for the same rating and doesn't dent visibly; steel is slimmer and conducts cold. Neither is the weak one.</p><p><strong>Myth 4: 'Steel caps freeze your toes / set off every detector.'</strong> Both contain truth worth acting on rather than fearing: steel does conduct heat away in cold-store and winter work (insulated linings or composite solve it), and steel does trigger security archways (why <a href='workwear-crawley.html'>airside crews</a> buy metal-free). Facts, not reasons to skip protection.</p>"
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "The keepers",
+          "h2": "What survives the audit",
+          "items": [
+            {
+              "n": "Replace after a big one",
+              "l": "A memorable impact retires the boot — deformation can be invisible, especially in composite"
+            },
+            {
+              "n": "Fit prevents more",
+              "l": "Most 'cap injuries' are rubbing from bad fit — toes shouldn't touch the cap, ever"
+            },
+            {
+              "n": "The cap can't do it alone",
+              "l": "Midsoles, grip and <a href='safety-footwear-2022-update.html'>the rest of the code</a> stop the injuries caps can't"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Toe cap FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Can a steel toe cap cut your toes off?",
+          "a": "The guillotine legend traces to demonstrations using loads far beyond certified ranges on unsupported caps. Within realistic impacts, caps deform progressively and preserve clearance — injury data consistently favours wearing them. A load huge enough to defeat a cap would have destroyed an unprotected foot regardless."
+        },
+        {
+          "q": "Do safety boots need replacing after an impact?",
+          "a": "After a significant impact, yes — the cap may be deformed (visibly in steel, sometimes invisibly in composite) and its protective geometry spent. Everyday knocks and scuffs don't consume the protection; the memorable drop does."
+        },
+        {
+          "q": "Are composite toe caps as strong as steel?",
+          "a": "They certify to the same 200-joule impact and 15 kN compression tests. Composite builds bulkier for the rating, doesn't conduct cold and clears metal detectors; steel builds slimmer and dents visibly when damaged. Strength isn't the difference — the side properties are."
+        }
+      ]
+    },
+    {
+      "slug": "tabard-vs-apron",
+      "role": "spoke",
+      "spokeType": "Comparison",
+      "navLabel": "Tabard vs apron",
+      "cardTitle": "Tabard vs apron",
+      "cardBlurb": "Two over-garments that get called each other's names — coverage, fastening and which jobs each actually serves.",
+      "crumbTail": "Comparisons",
+      "kicker": "Comparison · Over-garments",
+      "h1": "Tabard vs apron: the over-garment sort.",
+      "metaTitle": "Tabard vs Apron: Differences & Which To Buy | iNeedWorkwear",
+      "metaDesc": "Tabard vs apron compared — front-and-back coverage vs front-only, pockets and fastenings, and which suits cleaning, retail, kitchens, salons and care work.",
+      "lede": "The tabard and the apron solve the same problem — protect the clothes, carry the kit, signal the role — with different geometry. One covers front and back and reads as uniform; the other covers the front and reads as task-wear. Most buying mistakes come from ignoring that split.",
+      "heroMeta": [
+        {
+          "n": "Tabard",
+          "l": "Front + back, side-fastened"
+        },
+        {
+          "n": "Apron",
+          "l": "Front only, tied"
+        },
+        {
+          "n": "The tell",
+          "l": "Uniform vs task-wear"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The comparison",
+          "h2": "Geometry, then jobs",
+          "html": "<p>A <strong>tabard</strong> is a slip-over panel garment — front and back coverage, fastened at the sides, usually with big front pockets. Because it covers all round and stays put without ties, it wears like <strong>uniform</strong>: housekeeping and cleaning teams, dinner ladies, retail and care assistants — roles that move, bend and carry all shift, where a tie-back apron would work loose and where the pockets (cloths, spray, phone, notepad) do half the job. It also embroiders well front and back, which is why it doubles as brand-wear in <a href='cleaning-fm-workwear-guide.html'>cleaning & FM</a>.</p><p>An <strong>apron</strong> is front-only protection, tied or halter-necked, in weights from waiter's waist-apron to butcher's heavy bib. It's <strong>task-wear</strong>: kitchens and food prep (<a href='what-chefs-wear.html'>chef kit</a> pairs bib aprons over whites), salons mixing colour, workshops gluing and finishing. Aprons swap fast between tasks, launder hard, and in wipe-clean and waterproof materials handle the wet and bloody trades a fabric tabard can't. The split writes the rule: <strong>all-shift roles wear tabards; per-task protection wears aprons</strong>.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The sort",
+          "h2": "Which for whom",
+          "head": [
+            "Role",
+            "Garment",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Cleaners & housekeeping",
+              "Tabard",
+              "All-shift wear, pockets do the carrying — <a href='workwear-for-cleaners.html'>the cleaner's kit</a>"
+            ],
+            [
+              "School catering & care assistants",
+              "Tabard",
+              "Uniform-grade coverage that stays put"
+            ],
+            [
+              "Chefs & kitchen porters",
+              "Apron (bib)",
+              "Task protection over whites, swapped per service"
+            ],
+            [
+              "Salons & barbers",
+              "Apron",
+              "Colour chemistry — <a href='workwear-for-hairdressers-barbers.html'>salon kit</a>"
+            ],
+            [
+              "Butchery & wet trades",
+              "Waterproof/heavy apron",
+              "Wipe-clean weights no tabard offers"
+            ]
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Tabard & apron FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What is the difference between a tabard and an apron?",
+          "a": "Coverage and fastening: a tabard slips over the head and covers front and back, fastening at the sides — it wears like uniform and usually carries big pockets. An apron ties on and protects the front only, from waist styles to heavy bibs — it wears like per-task protection."
+        },
+        {
+          "q": "Why do cleaners wear tabards instead of aprons?",
+          "a": "Because the job is all-shift and mobile: a tabard stays put through bending and reaching without ties loosening, covers clothing front and back, and its pockets carry cloths, sprays and phones. It also takes embroidery well, so it doubles as the team's identifiable uniform."
+        },
+        {
+          "q": "What apron material for food or wet work?",
+          "a": "Wipe-clean and waterproof materials — polyurethane and similar — for butchery, fishmongery and washdown tasks, with colour-coding where kitchens separate raw and cooked. Fabric bib aprons suit dry front-of-house and general prep, laundering with the whites."
+        }
+      ]
+    },
+    {
+      "slug": "respirator-vs-dust-mask",
+      "role": "spoke",
+      "spokeType": "Answer page",
+      "navLabel": "Respirator vs dust mask",
+      "cardTitle": "Respirator vs dust mask: the terminology trap",
+      "cardBlurb": "'Dust mask' has no legal meaning — the difference between nuisance masks, FFP respirators and proper RPE.",
+      "crumbTail": "Answers",
+      "kicker": "Answer page · Respiratory protection",
+      "h1": "Respirator vs dust mask: words that protect (or don't).",
+      "metaTitle": "Respirator vs Dust Mask: What's The Difference? | iNeedWorkwear",
+      "metaDesc": "'Dust mask' vs respirator explained — why nuisance masks protect nothing certifiable, what makes an FFP respirator RPE, and how the terminology trap gets workers hurt.",
+      "lede": "Ask a merchant for a 'dust mask' and you might get a paper comfort mask or a certified FFP3 respirator — the words don't distinguish, but your lungs will. The terminology trap is worth five minutes, because the cheapest item on the shelf is dressed exactly like the one that works.",
+      "heroMeta": [
+        {
+          "n": "No standard",
+          "l": "'Dust mask' means nothing legally"
+        },
+        {
+          "n": "CE + EN 149",
+          "l": "What makes it a respirator"
+        },
+        {
+          "n": "The trap",
+          "l": "They look nearly identical"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The distinction",
+          "h2": "Comfort masks vs certified RPE",
+          "html": "<p><strong>Nuisance masks</strong> — the moulded paper cups sold in DIY multipacks — are comfort products: they take the edge off pollen and coarse dust, carry no EN 149 certification, no protection factor and no legal standing as PPE. Marketing keeps their language carefully vague ('reduces exposure to non-toxic dust').</p><p>A <strong>respirator</strong>, in the disposable sense, is a filtering facepiece certified to <a href='en-149-ffp-ratings-explained.html'>EN 149</a> — marked FFP1/2/3, CE/UKCA'd, tested for filtration <em>and</em> inward leakage, and usable where a risk assessment demands respiratory protection. Beyond disposables, RPE climbs through <a href='half-mask-vs-disposable-ffp.html'>reusable half-masks</a> with cartridge filters to powered hoods. The tell on the shelf takes two seconds: <strong>look for 'EN 149' and an FFP class printed on the mask itself</strong> — not the box, the mask. No marking, no protection claim, no place at work.</p><p>The trap has teeth because the products look alike: same cup shape, same straps, sometimes the same aisle. Sites that ban unmarked masks aren't being pedantic — they're refusing the theatre version of protection where the <a href='ffp2-vs-ffp3.html'>real thing</a> costs pennies more.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The ladder",
+          "h2": "From comfort to certified",
+          "head": [
+            "Product",
+            "Certification",
+            "Legitimate use"
+          ],
+          "rows": [
+            [
+              "Nuisance/comfort mask",
+              "None",
+              "Pollen, decorating at home — never occupational protection"
+            ],
+            [
+              "FFP1 respirator",
+              "<span class='code'>EN 149</span>",
+              "Coarse, low-toxicity dusts at low exposures"
+            ],
+            [
+              "FFP2 / FFP3 respirator",
+              "<span class='code'>EN 149</span>",
+              "The working ratings — <a href='ffp2-vs-ffp3.html'>which one, decoded</a>"
+            ],
+            [
+              "Reusable half-mask + filters",
+              "EN 140 + filter standards",
+              "Sustained work — <a href='half-mask-vs-disposable-ffp.html'>vs disposables</a>"
+            ],
+            [
+              "Powered hoods (PAPR)",
+              "EN 12941/12942",
+              "Beards, long shifts, higher factors"
+            ]
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Terminology FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is a dust mask the same as a respirator?",
+          "a": "Not necessarily — 'dust mask' has no defined meaning. Certified respirators carry EN 149 and an FFP class printed on the facepiece; uncertified nuisance masks protect against nothing measurable and aren't legal PPE. Check the mask itself for the marking, not the packaging."
+        },
+        {
+          "q": "Can I use a DIY-store mask for work?",
+          "a": "Only if it's a genuine EN 149 FFP respirator in the class your risk assessment requires — many DIY multipack masks aren't. If the facepiece doesn't carry EN 149 and an FFP class, it has no place in occupational use, whatever the aisle said."
+        },
+        {
+          "q": "What should be printed on a real respirator?",
+          "a": "On the facepiece itself: EN 149, the class (FFP1, FFP2 or FFP3), the CE or UKCA mark with the notified body number, and usually 'NR' (single shift) or 'R' (reusable). Missing markings mean a comfort product, not protection."
+        }
+      ]
+    },
+    {
+      "slug": "glasses-goggles-face-shields",
+      "role": "spoke",
+      "spokeType": "Comparison",
+      "navLabel": "Glasses vs goggles vs shields",
+      "cardTitle": "Safety glasses vs goggles vs face shields",
+      "cardBlurb": "Three tiers of eye protection under EN 166 — impact grades, seal logic, and which hazard demands which tier.",
+      "crumbTail": "Comparisons",
+      "kicker": "Comparison · Eye & face protection",
+      "h1": "Glasses, goggles or shield: pick by hazard route.",
+      "metaTitle": "Safety Glasses vs Goggles vs Face Shields: Which To Use | iNeedWorkwear",
+      "metaDesc": "Eye protection tiers compared — safety glasses for flying particles, sealed goggles for dust and splash, face shields as secondary protection, with the EN 166 impact grades explained.",
+      "lede": "Eye protection fails by mismatch more than by absence: glasses worn where dust needed a seal, a shield worn alone where the eye needed its own barrier. The three tiers exist because hazards reach the eye by different routes — sort the route and the tier picks itself.",
+      "heroMeta": [
+        {
+          "n": "F / B / A",
+          "l": "EN 166 impact grades"
+        },
+        {
+          "n": "Seal or not",
+          "l": "The goggles question"
+        },
+        {
+          "n": "Shield = AND",
+          "l": "Secondary, worn over"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The tiers",
+          "h2": "Route decides tier",
+          "html": "<p><strong>Safety glasses</strong> (spectacle-style, tested under <a href='en-166-eye-protection-explained.html'>EN 166</a>, typically to impact grade F — 45 m/s particles) stop <strong>things travelling at the eye in a straight line</strong>: chips, swarf, wire ends. They're light, fog least, and are rightly the site default. What they can't do is seal — dust, mists and splashes go round them.</p><p><strong>Goggles</strong> add the seal. Ventilated goggles handle coarse dust; sealed or indirect-vent versions handle fine dust, liquid splash and the grinding tasks that shower from odd angles — typically at impact grade B (120 m/s). The cost is fogging and comfort, which is why goggles get taken off exactly when they shouldn't be; anti-fog coatings and proper venting are what make a goggle wearable enough to survive the shift.</p><p><strong>Face shields</strong> protect the <strong>face</strong> — and the standard's quiet rule is that a shield is usually <strong>secondary</strong> protection: worn over glasses or goggles, not instead. Grinding, wire brushing, chemical decanting and <a href='chainsaw-protection-standards-explained.html'>forestry visors</a> all follow the same logic: the shield takes the spray and the fragments; the sealed layer beneath guards the eye itself.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The decision",
+          "h2": "Hazard route → tier",
+          "head": [
+            "Hazard",
+            "Tier",
+            "Note"
+          ],
+          "rows": [
+            [
+              "Flying particles (drilling, cutting)",
+              "Safety glasses, grade <span class='code'>F</span>",
+              "The everyday layer — comfortable enough to stay on"
+            ],
+            [
+              "Fine dust & powders",
+              "Sealed goggles",
+              "Route is around lenses — the seal is the protection"
+            ],
+            [
+              "Liquid splash (chemical, cleaning)",
+              "Indirect-vent goggles (+ shield for the face)",
+              "Marked with the splash symbol — see <a href='en-166-eye-protection-explained.html'>EN 166 codes</a>"
+            ],
+            [
+              "Grinding & wire brushing",
+              "Goggles + face shield, grade <span class='code'>B</span>",
+              "High-energy fragments from unpredictable angles"
+            ],
+            [
+              "Molten metal & hot solids",
+              "Shield + goggles per <a href='en-iso-11612-explained.html'>hot-work kit</a>",
+              "Foundry-grade combinations"
+            ]
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Eye protection FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "When should goggles be worn instead of safety glasses?",
+          "a": "When the hazard travels around lenses rather than straight at them: fine dust, powders, liquid splash and mist, or grinding debris from odd angles. Glasses stop direct particles; only a sealed goggle stops what floats and splashes. The seal is the protection, so fit and anti-fog matter."
+        },
+        {
+          "q": "Is a face shield enough on its own?",
+          "a": "Usually not — shields are secondary protection for the face, worn over safety glasses or goggles. Fragments and splash can bounce behind a shield's open edges, so the eye needs its own sealed or impact-rated layer beneath for most tasks that justify a shield at all."
+        },
+        {
+          "q": "What do F and B mean on eye protection?",
+          "a": "EN 166 impact grades: F withstands 45 m/s particles (typical for spectacles), B withstands 120 m/s (typical for goggles and shields), A 190 m/s (shields for the harshest tasks). A 'T' suffix (FT, BT) means the grade holds at temperature extremes."
+        }
+      ]
+    },
+    {
+      "slug": "half-mask-vs-disposable-ffp",
+      "role": "spoke",
+      "spokeType": "Comparison",
+      "navLabel": "Half-mask vs FFP",
+      "cardTitle": "Reusable half-mask vs disposable FFP",
+      "cardBlurb": "When the reusable respirator beats the box of disposables — cost curves, filter logic and the maintenance duty that comes with it.",
+      "crumbTail": "Comparisons",
+      "kicker": "Comparison · Respiratory protection",
+      "h1": "Half-mask or disposables: the crossover point.",
+      "metaTitle": "Reusable Half-Mask vs Disposable FFP Masks Compared | iNeedWorkwear",
+      "metaDesc": "Reusable half-mask respirators vs disposable FFP masks — protection equivalence, the cost crossover for regular users, filter selection (P3, A2P3), and the cleaning and storage duties reuse brings.",
+      "lede": "A tradesperson reaching for their fifth disposable mask of the week is usually holding the wrong product: past a couple of days' use per week, a reusable half-mask with P3 filters protects at least as well, seals better, and costs less within months — in exchange for one honest obligation: looking after it.",
+      "heroMeta": [
+        {
+          "n": "Crossover",
+          "l": "Regular use favours reusable fast"
+        },
+        {
+          "n": "P3 / A2P3",
+          "l": "Filters chosen by hazard"
+        },
+        {
+          "n": "The duty",
+          "l": "Clean it, store it, replace filters"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The comparison",
+          "h2": "Same job, different economics",
+          "html": "<p>Protection-wise the two overlap: a half-mask (EN 140) with <strong>P3 particle filters</strong> meets or beats <a href='ffp2-vs-ffp3.html'>FFP3</a> performance, with a silicone faceseal that typically fits better and <a href='ffp-fit-testing-explained.html'>fit-tests</a> more repeatably than pleated disposables. Where the half-mask pulls decisively ahead is <strong>gases and vapours</strong>: cartridge filters (A2 for organic solvents, combined <strong>A2P3</strong> for spraying and mixed exposure) do what no FFP can — the reason <a href='automotive-trade-workwear-guide.html'>bodyshop prep</a> and solvent trades live in half-masks.</p><p><strong>The economics:</strong> disposables win for occasional and visitor use — no cleaning, no storage, grab and bin. But at trade frequency the curve crosses within months: one mask body plus periodic filters undercuts the running spend on decent FFP3s, and the gap widens every week. <strong>The duty that comes with reuse:</strong> wipe and wash per the maker's schedule, store sealed (an open toolbox mask clogs its own filters), replace particle filters on breathing resistance and gas cartridges on schedule or scent-break — and inspect the valves. A neglected half-mask degrades to theatre exactly like a week-old disposable.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The decision",
+          "h2": "Which way to jump",
+          "head": [
+            "Pattern",
+            "Better call",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Daily or weekly dusty trade work",
+              "Half-mask + P3",
+              "Cost crossover in months; better seal"
+            ],
+            [
+              "Occasional tasks, visitors, one-offs",
+              "Disposable FFP",
+              "No maintenance chain to manage"
+            ],
+            [
+              "Solvents, paints, adhesives",
+              "Half-mask + A2P3",
+              "FFPs filter no vapours at all"
+            ],
+            [
+              "Hot, long shifts",
+              "Half-mask (lower resistance) or powered",
+              "Comfort keeps it on the face"
+            ],
+            [
+              "Beards",
+              "Neither — powered hood",
+              "Tight-fitting anything needs a sealed face"
+            ]
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Half-mask FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is a half-mask better than FFP3?",
+          "a": "With P3 filters it protects at least as well, usually seals better, and adds capability FFPs lack — gas and vapour cartridges. For regular users it's also cheaper within months. The trade-off is the maintenance duty: cleaning, sealed storage, filter changes and valve checks."
+        },
+        {
+          "q": "What filters do I need for a half-mask?",
+          "a": "By hazard: P3 for dusts and particulates, A2 for organic vapours (solvents, many paints), combined A2P3 where both apply — spraying being the classic case. The filter, not the mask body, is the protection; match it to the assessment and the product data sheets."
+        },
+        {
+          "q": "How often should half-mask filters be changed?",
+          "a": "Particle filters when breathing resistance rises noticeably; gas cartridges on the maker's schedule or immediately on any scent or taste breakthrough — never run them to 'empty'. Store the mask sealed between uses so the filters aren't quietly loading on the shelf."
+        }
+      ]
+    },
+    {
+      "slug": "hi-vis-class-1-explained",
+      "role": "spoke",
+      "spokeType": "Answer page",
+      "navLabel": "Hi-vis Class 1",
+      "cardTitle": "Hi-vis Class 1: what it's actually for",
+      "cardBlurb": "The forgotten bottom rung of EN ISO 20471 — what Class 1 garments are, where they're legitimate and how they combine.",
+      "crumbTail": "Answers",
+      "kicker": "Answer page · Hi-vis",
+      "h1": "Hi-vis Class 1: the smallest legitimate rung.",
+      "metaTitle": "Hi-Vis Class 1 Explained: Uses & Combination Rules | iNeedWorkwear",
+      "metaDesc": "EN ISO 20471 Class 1 explained — the minimum-area hi-vis class, which garments carry it (trousers, harness accessories), where it's legitimate alone, and how Class 1 + Class 2 combine to Class 3.",
+      "lede": "Everyone knows Class 2 vests and Class 3 jackets; Class 1 is the rung nobody can place. It exists for garments too small to reach higher — hi-vis trousers above all — and its real job is arithmetic: worn with the right partner garment, two classes can add up to a bigger one.",
+      "heroMeta": [
+        {
+          "n": "Class 1",
+          "l": "Minimum certified area"
+        },
+        {
+          "n": "Trousers",
+          "l": "The classic Class 1 garment"
+        },
+        {
+          "n": "1 + 2 = 3",
+          "l": "Certified combinations climb"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The explanation",
+          "h2": "Small garment, real certification",
+          "html": "<p><a href='en-iso-20471-hi-vis-classes-explained.html'>EN ISO 20471</a> classes are set by <strong>certified areas of fluorescent and retroreflective material</strong> — and some garments simply can't carry Class 2 quantities. <strong>Hi-vis trousers</strong> are the everyday example: plenty of leg area, but the class maths lands most at Class 1 (some fuller designs reach 2). On its own, Class 1 is legitimate where the risk assessment says visibility need is modest — off-highway, low-speed, controlled environments.</p><p>Its better trick is <strong>combination</strong>: manufacturers certify garment <em>pairs</em>, and a Class 1 trouser worn with a Class 2 top can be certified together as a <strong>Class 3 ensemble</strong> — how many site workers actually achieve Class 3 in summer without a long-sleeved jacket. The caveat that matters: it's the <strong>certified combination</strong> that carries the rating, stated on the garments' documentation — not any-old-trousers plus any-old-vest arithmetic. Where a site demands 'Class 3', <a href='class-2-vs-class-3-hi-vis.html'>single-garment Class 3</a> or a certified pair both answer; an uncertified mix answers nothing.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Quick read",
+          "h2": "Class 1 in practice",
+          "head": [
+            "Garment",
+            "Typical class",
+            "Note"
+          ],
+          "rows": [
+            [
+              "Hi-vis trousers",
+              "<span class='code'>1</span> (some 2)",
+              "The main Class 1 citizen"
+            ],
+            [
+              "Certified trouser + top pairs",
+              "<span class='code'>3</span> combined",
+              "Stated in the documentation — the summer route to Class 3"
+            ],
+            [
+              "Standalone Class 1 wear",
+              "Low-risk, off-highway contexts",
+              "The assessment, not the catalogue, legitimises it"
+            ],
+            [
+              "Rail environments",
+              "Orange, and class per rail rules",
+              "<a href='rail-spec-workwear-explained.html'>RIS-3279-TOM</a> has its own maths"
+            ]
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Class 1 FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What is Class 1 hi-vis?",
+          "a": "The lowest certification class under EN ISO 20471 — garments carrying the minimum qualifying areas of fluorescent and retroreflective material. Hi-vis trousers are the commonest example. It's legitimate protection for low-risk, controlled environments, and a building block in certified combinations."
+        },
+        {
+          "q": "Do hi-vis trousers count towards Class 3?",
+          "a": "They can — when the manufacturer has certified the specific trouser-and-top combination, a Class 1 trouser with a Class 2 upper garment can rate as Class 3 together. The combined rating belongs to the certified pair, stated in the documentation, not to improvised mixes."
+        },
+        {
+          "q": "Where is Class 1 hi-vis acceptable on its own?",
+          "a": "Where the risk assessment finds modest visibility need — controlled, low-speed, off-highway settings. Public-road, high-speed and rail environments specify Class 2, Class 3 or rail-spec orange; Class 1 alone doesn't answer those requirements."
+        }
+      ]
+    },
+    {
+      "slug": "fr-terminology-explained",
+      "role": "spoke",
+      "spokeType": "Answer page",
+      "navLabel": "FR terminology",
+      "cardTitle": "FR vs flame retardant vs fireproof",
+      "cardBlurb": "Four terms the catalogues blur — what each actually claims, and the one question that cuts through all of them.",
+      "crumbTail": "Answers",
+      "kicker": "Answer page · FR clothing",
+      "h1": "FR, flame retardant, fireproof: words under the flame.",
+      "metaTitle": "FR vs Flame Retardant vs Fireproof: Terminology Explained | iNeedWorkwear",
+      "metaDesc": "FR terminology decoded — flame resistant vs flame retardant vs fireproof vs self-extinguishing, what each term actually claims, and the standard-number question that cuts through marketing.",
+      "lede": "Catalogues use 'flame retardant', 'flame resistant', 'FR' and even 'fireproof' as if they were interchangeable. They aren't — one describes a chemistry, one a performance, one is marketing that should make you suspicious — and the way through the fog is always the same question: which standard, which code letters?",
+      "heroMeta": [
+        {
+          "n": "4 terms",
+          "l": "One flame, much confusion"
+        },
+        {
+          "n": "0 things",
+          "l": "Are fireproof — the word is a tell"
+        },
+        {
+          "n": "1 question",
+          "l": "'Certified to what?'"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The definitions",
+          "h2": "What each word actually claims",
+          "html": "<p><strong>Flame resistant (FR)</strong> is the performance claim: the fabric resists ignition and <strong>self-extinguishes</strong> when the flame source is removed — no melting, no dripping, no continuing burn. This is what the workwear standards test. <strong>Flame retardant</strong>, used precisely, describes <strong>how</strong> that performance was achieved on treated fabrics: a chemical finish applied to (usually) cotton — the 'treated' half of the <a href='inherent-vs-treated-fr.html'>inherent vs treated</a> split, with the wash-life consequences our <a href='washing-fr-workwear.html'>FR laundering guide</a> covers. In practice the trades use the terms loosely; the label doesn't.</p><p><strong>Fireproof</strong> is not a thing. No wearable fabric is unaffected by fire; garments buy <strong>escape time and reduced burn area</strong>, not immunity — a catalogue using 'fireproof' unironically is telling you about its own rigour. And <strong>self-extinguishing</strong> is the observable behaviour inside the FR definition, sometimes quoted alone by marketers because it sounds like a certification. It isn't.</p><p><strong>The question that settles every listing:</strong> certified to what? <a href='en-iso-11612-explained.html'>EN ISO 11612</a> with its code letters for heat and flame, <a href='fr-coveralls-for-welders.html'>EN ISO 11611</a> for welding, <a href='iec-61482-arc-flash-explained.html'>IEC 61482</a> for arc — a garment that can't answer with a number and letters is workwear-shaped, whatever adjective it wears.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Quick read",
+          "h2": "The terminology table",
+          "head": [
+            "Term",
+            "Actually means",
+            "Trust level"
+          ],
+          "rows": [
+            [
+              "Flame resistant / FR",
+              "Resists ignition, self-extinguishes — the tested performance",
+              "High — if a standard is cited"
+            ],
+            [
+              "Flame retardant",
+              "The treatment chemistry on treated-cotton FR",
+              "Fine — implies wash-life questions to ask"
+            ],
+            [
+              "Inherent FR",
+              "Fibre itself is FR — can't wash out",
+              "High — <a href='inherent-vs-treated-fr.html'>the full story</a>"
+            ],
+            [
+              "Self-extinguishing",
+              "One behaviour within FR performance",
+              "Ask for the standard behind it"
+            ],
+            [
+              "Fireproof",
+              "Nothing wearable — marketing red flag",
+              "Walk away"
+            ]
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "FR terminology FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is flame retardant the same as flame resistant?",
+          "a": "Used precisely: flame resistant describes the performance (resists ignition, self-extinguishes), flame retardant describes the chemistry that achieves it on treated fabrics. Colloquially they're swapped constantly — what matters on a garment is the certification: the standard number and its code letters."
+        },
+        {
+          "q": "Is any clothing actually fireproof?",
+          "a": "No. FR clothing resists ignition, self-extinguishes and buys escape time — it does not make fire harmless, and prolonged exposure defeats any fabric. 'Fireproof' in a listing is a marketing red flag rather than a bigger promise."
+        },
+        {
+          "q": "How do I know if FR clothing is genuine?",
+          "a": "It names its standards: EN ISO 11612 with code letters for industrial heat and flame, EN ISO 11611 for welding, IEC 61482 for arc flash — plus a CE/UKCA mark and documentation. Adjectives without standard numbers are how non-PPE gets sold at PPE prices."
+        }
+      ]
     }
   ]
 }

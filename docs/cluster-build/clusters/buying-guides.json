@@ -1775,6 +1775,886 @@
           "a": "A sensible day-one bundle — boots, two work trousers, four or five tees, a mid-layer, a waterproof and basics — is typically low hundreds of pounds, with boots rightly the biggest single line. Buy the cheap items cheap and the boots good; upgrade everything else as the trade teaches you what it eats."
         }
       ]
+    },
+    {
+      "slug": "workwear-fabrics-explained",
+      "role": "spoke",
+      "spokeType": "Buying guide",
+      "navLabel": "Fabrics & gsm",
+      "cardTitle": "Workwear fabrics explained: gsm, blends and weaves",
+      "cardBlurb": "What 245gsm polycotton actually tells you — the fabric literacy that makes every other buying decision easier.",
+      "crumbTail": "Buying guides",
+      "kicker": "Buying guide · Fabrics",
+      "h1": "Workwear fabrics: learn to read the cloth.",
+      "metaTitle": "Workwear Fabrics Explained: GSM, Polycotton & Weaves | iNeedWorkwear",
+      "metaDesc": "Workwear fabric literacy — what gsm weights mean, polycotton ratios, ripstop and canvas weaves, stretch content, and how fabric choice drives durability, comfort and washing behaviour.",
+      "lede": "Every garment listing leads with a number and a blend — 245gsm 65/35 polycotton — that most buyers skim past. It's the most information-dense line on the page: weight, fibre and weave predict how a garment wears, washes, breathes and dies. Ten minutes of fabric literacy upgrades every order you'll ever place.",
+      "heroMeta": [
+        {
+          "n": "gsm",
+          "l": "Grams per square metre — the weight"
+        },
+        {
+          "n": "65/35",
+          "l": "The polycotton workhorse ratio"
+        },
+        {
+          "n": "Weave",
+          "l": "Ripstop, twill, canvas — the behaviour"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The numbers",
+          "h2": "Weight, fibre, weave — in that order",
+          "html": "<p><strong>GSM is fabric weight</strong>, and weight predicts character: 140–180gsm is shirt and summer-polo territory; 200–260gsm is the workwear heartland (trousers, polos, sweats that survive trade use); 300gsm+ is heavy canvas and winter fleece — durable, warm, slow to dry. Heavier isn't better, it's <em>slower and tougher</em>: a 320gsm trouser outlasts a 240 but punishes an August loft.</p><p><strong>Fibre is the blend line.</strong> Cotton brings comfort, breathability and easy dyeing; polyester brings strength, colourfastness, fast drying and crease recovery. The <strong>65/35 polycotton</strong> ratio dominates workwear because it takes cotton's feel and polyester's survival; reversed ratios (35/65) push durability further for washing-heavy fleets — the reason <a href='en-iso-15797-explained.html'>industrially launderable</a> garments lean polyester-rich. Pure cotton keeps two specialist thrones: comfort against skin, and — critically — it doesn't melt, which is why heat trades and <a href='washing-fr-workwear.html'>FR underlayers</a> care (synthetics near flame melt onto skin; the reason polyester tees under FR are banned). A few percent <strong>elastane</strong> buys the stretch modern trousers are loved for — at a price in heat tolerance and tumble-dryer life.</p><p><strong>Weave finishes the prediction:</strong> <strong>twill</strong> is the standard workwear weave (diagonal grain, drapes and wears well); <strong>canvas</strong> is the stiff heavy-duty version; <strong>ripstop</strong> grids reinforcing threads so tears stop at the box — lighter fabrics acting tougher, the summer-trouser trick.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The decoder",
+          "h2": "Read a listing like a buyer",
+          "head": [
+            "Spec line",
+            "Translation",
+            "Buy it for"
+          ],
+          "rows": [
+            [
+              "180gsm 100% cotton",
+              "Light, breathable, creases, shrinks if abused",
+              "Comfort tees, hot environments"
+            ],
+            [
+              "245gsm 65/35 polycotton twill",
+              "The workwear default — balanced everything",
+              "Trousers, coveralls, service kit"
+            ],
+            [
+              "300gsm+ canvas",
+              "Armour-grade, stiff until broken in",
+              "Heavy trades, longest life"
+            ],
+            [
+              "210gsm ripstop + elastane",
+              "Light but tear-stopping, moves well",
+              "Summer trousers — <a href='summer-workwear-guide.html'>the hot-weather logic</a>"
+            ],
+            [
+              "Poly-rich (35/65+)",
+              "Fast-dry, colourfast, wash-proof",
+              "Fleet & laundry-service kit"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "The consequences",
+          "h2": "Fabric choice downstream",
+          "items": [
+            {
+              "n": "Washing",
+              "l": "Polyester holds colour and shape through hot cycles; cotton fades and shrinks first — fleet colours drift by fibre"
+            },
+            {
+              "n": "Embroidery",
+              "l": "Stable mid-weight fabrics take logos cleanly; stretch and loose knits pucker — <a href='embroidery-artwork-guide.html'>artwork guide</a>"
+            },
+            {
+              "n": "Heat & flame",
+              "l": "Ordinary polyester melts — near heat sources, cotton-rich or certified FR only"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Fabric FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What does gsm mean in clothing?",
+          "a": "Grams per square metre — the fabric's weight. Workwear mostly lives between 200 and 260gsm; lighter means cooler and faster-drying, heavier means tougher and warmer. It's the quickest single predictor of how a garment will feel and last."
+        },
+        {
+          "q": "Is polycotton better than cotton for workwear?",
+          "a": "For most work, yes — the 65/35 blend keeps much of cotton's comfort while adding polyester's strength, colourfastness and crease recovery, and it survives repeated washing far better. Pure cotton keeps the advantage for comfort against skin and around heat, because it doesn't melt."
+        },
+        {
+          "q": "What is ripstop fabric?",
+          "a": "A weave with a grid of reinforcing threads so that tears stop at the next grid line instead of running. It lets lighter, cooler fabrics behave more toughly — the classic construction for summer-weight work trousers and outdoor kit."
+        }
+      ]
+    },
+    {
+      "slug": "winter-workwear-guide",
+      "role": "spoke",
+      "spokeType": "Buying guide",
+      "navLabel": "Winter workwear",
+      "cardTitle": "Winter workwear: the layering buy",
+      "cardBlurb": "Base, mid, shell and extremities — buying winter kit as a system, with the standards that matter when it's properly cold.",
+      "crumbTail": "Buying guides",
+      "kicker": "Buying guide · Cold weather",
+      "h1": "Winter workwear: buy the system, not the coat.",
+      "metaTitle": "Winter Workwear Guide: Layering, Standards & Kit List | iNeedWorkwear",
+      "metaDesc": "Winter workwear bought properly — the three-layer system, when EN 342 certification matters, hands and head as the real weak points, and the wet-cold reality of British winters.",
+      "lede": "The British winter injury isn't frostbite — it's the productivity and judgement drain of being wet-cold for six hours, plus the hands that stop working first. Winter buying that starts with 'a big coat' solves the wrong problem: the right purchase is a system whose layers come on and off as the work heats up.",
+      "heroMeta": [
+        {
+          "n": "3 layers",
+          "l": "Base, mid, shell — the system"
+        },
+        {
+          "n": "Wet-cold",
+          "l": "Britain's actual winter mode"
+        },
+        {
+          "n": "Hands first",
+          "l": "Where winter stops the job"
+        }
+      ],
+      "heroImage": {
+        "src": "assets/collections/thermals-base-layers.webp",
+        "alt": "Thermal base layer top",
+        "kind": "cutout",
+        "w": 600,
+        "h": 600
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The system",
+          "h2": "Three layers with three jobs",
+          "html": "<p><strong>Base moves sweat</strong> — because active work generates moisture in any temperature, and wet skin in cold air is how the misery starts. Wicking synthetics or merino; never cotton against winter skin (<a href='base-layers-guide.html'>the full base-layer logic</a>). <strong>Mid holds warmth</strong> — fleece, insulated gilets or knits, sized to the person's heat output: the scaffolder and the gate guard need different thicknesses of the same idea. <strong>Shell stops weather</strong> — wind first (windchill does more daily damage than temperature), rain always (<a href='en-343-waterproofs-explained.html'>EN 343</a> ratings decoded), and it must fit <em>over</em> the other layers, which is why winter shells are bought a size wiser (<a href='choosing-work-jackets.html'>the jacket families</a>).</p><p><strong>When certification enters:</strong> ordinary winter work is layering judgement, but <strong>static work in real cold</strong> — gates, banksman duties, and everything in <a href='en-342-cold-protection-explained.html'>cold stores</a> — moves to EN 342-rated ensembles with measured insulation. And <strong>extremities decide the day</strong>: <a href='en-511-winter-gloves-explained.html'>EN 511</a> gloves (the wet-cold test matters more than the temperature one in Britain), thermal socks that still fit inside the boot, and a beanie or <a href='work-headwear-guide.html'>helmet liner</a> — the cheapest warmth per pound anywhere on the body.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The list",
+          "h2": "The winter kit map",
+          "head": [
+            "Item",
+            "The spec",
+            "The note"
+          ],
+          "rows": [
+            [
+              "Base layers ×2–3",
+              "Wicking synthetic or merino",
+              "Rotation — a damp base ruins day two"
+            ],
+            [
+              "Mid layer",
+              "Fleece / insulated gilet by heat output",
+              "Active workers run thinner than static"
+            ],
+            [
+              "Shell",
+              "Windproof, <span class='code'>EN 343</span> rated, sized over layers",
+              "<a href='reproofing-waterproofs.html'>Reproof</a> before the season, not during"
+            ],
+            [
+              "Gloves",
+              "<span class='code'>EN 511</span> + task dexterity, plus spares",
+              "Wet-cold rating is the British spec"
+            ],
+            [
+              "Socks & head",
+              "Thermal socks that fit the boot; beanie/liner",
+              "Extremities are where winter actually bites"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "The realities",
+          "h2": "What winter buying gets wrong",
+          "items": [
+            {
+              "n": "One big coat",
+              "l": "Sweats on effort, soaks, then chills — the layering system exists because work output varies hourly"
+            },
+            {
+              "n": "Boots go up a spec",
+              "l": "Wet ground season: the <a href='s1p-vs-s3-safety-boots.html'>S1P-vs-S3 call</a> tips to S3, and thermal insoles earn keep"
+            },
+            {
+              "n": "Hi-vis still rules",
+              "l": "Dark mornings raise the visibility stakes — winter jackets in certified <a href='class-2-vs-class-3-hi-vis.html'>Class 3</a> do both jobs"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Winter kit FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What should you wear for outdoor work in winter?",
+          "a": "A three-layer system: wicking base (never cotton), insulating mid sized to your work rate, and a windproof, waterproof shell sized to fit over both — plus EN 511-rated gloves with spares, thermal socks and head coverage. Layers beat one heavy coat because effort varies through the shift."
+        },
+        {
+          "q": "When is EN 342 clothing needed?",
+          "a": "For sustained work in genuinely cold environments — cold stores and freezer chambers above all, plus very cold static outdoor roles. EN 342 ensembles carry measured insulation values rather than 'padded' promises. Ordinary winter site work is served by good layering without the certification."
+        },
+        {
+          "q": "Why do hands fail first in winter work?",
+          "a": "Fingers have high surface area, low muscle mass and get wet — and once dexterity drops, the work stops or gets dangerous. EN 511-rated gloves (tested for wet and convective cold), dry spares in the van and glove discipline outperform any amount of extra jacket."
+        }
+      ]
+    },
+    {
+      "slug": "safety-wellingtons-guide",
+      "role": "spoke",
+      "spokeType": "Buying guide",
+      "navLabel": "Safety wellingtons",
+      "cardTitle": "Safety wellingtons: the S4/S5 guide",
+      "cardBlurb": "The washable end of safety footwear — who genuinely needs it, the codes, and why cheap wellies cost more per month.",
+      "crumbTail": "Buying guides",
+      "kicker": "Buying guide · Safety wellingtons",
+      "h1": "Safety wellingtons: buying the washable boot.",
+      "metaTitle": "Safety Wellingtons Guide: S4 vs S5 & Buying Advice | iNeedWorkwear",
+      "metaDesc": "Safety wellington buying guide — S4 vs S5 codes, PVC vs polyurethane construction, who needs them (farms, food, washdown, utilities), fit with thermal socks and the cost-per-month truth.",
+      "lede": "Some jobs are simply too wet, too washed-down or too biologically interesting for leather boots — and for them the safety wellington is the real spec, not the compromise. The buying decisions are few but they compound: code, material, and the fit that survives a thermal sock.",
+      "heroMeta": [
+        {
+          "n": "S4 / S5",
+          "l": "Toe cap; S5 adds midsole + cleats"
+        },
+        {
+          "n": "PU vs PVC",
+          "l": "The material choice that decides comfort"
+        },
+        {
+          "n": "Washdown",
+          "l": "The environments that demand it"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The codes",
+          "h2": "S4, S5 and the material question",
+          "html": "<p>The <a href='safety-boot-codes-explained.html'>code ladder</a> gives wellingtons two rungs: <strong>S4</strong> — waterproof polymer boot with 200 J toe cap, antistatic, energy-absorbing heel — and <strong>S5</strong>, which adds the <strong>penetration-resistant midsole and cleated outsole</strong>. The choice mirrors <a href='s1p-vs-s3-safety-boots.html'>S1P-vs-S3 logic</a>: S4 for wet-clean environments (food halls, dairies, washdown lines), S5 wherever the ground can bite back — <a href='workwear-for-farm-workers.html'>farmyards</a>, construction groundwork, <a href='utilities-workwear-guide.html'>wet chambers</a>, waste sites.</p><p><strong>Material is the underrated decision.</strong> <strong>PVC</strong> boots are the cheap end: heavier, stiffer, colder, and they crack at the flex point sooner. <strong>Polyurethane (PU)</strong> costs more and repays it daily: roughly a third lighter, flexible in cold that turns PVC rigid, better insulated, and typically two to three times the working life — the cost-per-month arithmetic embarrasses the bargain boot. Food and agri sectors standardised on PU years ago for exactly this reason. Fit note: wellingtons are worn with <strong>thick or thermal socks</strong> most of the year — size for that sock, check calf clearance over work trousers, and prefer models with a proper heel kick for muddy removal.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The sort",
+          "h2": "Who needs which",
+          "head": [
+            "Environment",
+            "Spec",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Food production & washdown",
+              "<span class='code'>S4</span> PU, white/coloured per zone",
+              "Hygiene codes and daily chemical washdown — <a href='food-processing-workwear-guide.html'>the audit wardrobe</a>"
+            ],
+            [
+              "Farms & livestock",
+              "<span class='code'>S5</span> PU",
+              "Crush + puncture + slurry — the full argument"
+            ],
+            [
+              "Groundworks & drainage",
+              "<span class='code'>S5</span>",
+              "Rebar offcuts and debris underfoot in the wet"
+            ],
+            [
+              "Waste & recycling",
+              "<span class='code'>S5</span>",
+              "Standing on the unknown is the job — <a href='waste-recycling-workwear-guide.html'>sector guide</a>"
+            ],
+            [
+              "Occasional wet tasks",
+              "S4, or stay with <a href='s1p-vs-s3-safety-boots.html'>S3 boots</a>",
+              "Full-time wet justifies the wellington; occasional doesn't"
+            ]
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Wellington FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What is the difference between S4 and S5 wellingtons?",
+          "a": "Both are waterproof safety wellingtons with a 200 J toe cap; S5 adds a penetration-resistant midsole and cleated outsole. Wet-clean indoor environments suit S4; anywhere with debris, mud or unknown ground underfoot — farms, sites, waste — wants S5."
+        },
+        {
+          "q": "Are polyurethane wellingtons worth the extra cost?",
+          "a": "Almost always: PU boots are significantly lighter, stay flexible in cold, insulate better and typically last two to three times as long as PVC — so the cost per month of wear usually favours them despite the higher price. Full-time wellington wearers feel the difference by mid-morning."
+        },
+        {
+          "q": "How should safety wellingtons fit?",
+          "a": "Sized for the thick or thermal socks you'll actually wear, with room to wiggle toes clear of the cap, calf clearance over work trousers, and a snug enough instep that the boot doesn't pump when walking. A heel kick plate matters more than it sounds — muddy removal is a daily event."
+        }
+      ]
+    },
+    {
+      "slug": "embroidery-artwork-guide",
+      "role": "spoke",
+      "spokeType": "Buying guide",
+      "navLabel": "Embroidery artwork",
+      "cardTitle": "Embroidery artwork: designing a logo that stitches",
+      "cardBlurb": "Why some logos embroider beautifully and others turn to mush — the artwork rules that decide it before the first stitch.",
+      "crumbTail": "Buying guides",
+      "kicker": "Buying guide · Embroidery artwork",
+      "h1": "Logos that stitch: the artwork rules.",
+      "metaTitle": "Embroidery Artwork Guide: Designing Logos That Stitch Well | iNeedWorkwear",
+      "metaDesc": "What makes a logo embroider well — minimum text sizes, detail limits, colour and gradient realities, placement sizing, and how to prepare artwork so digitising goes right first time.",
+      "lede": "Embroidery is drawing with a needle that refuses to draw anything smaller than a stitch. Most disappointing logo results were decided before the machine started — in artwork with hairline details, six-point text and gradients thread can't make. Here's what survives the needle, and how to prepare for it.",
+      "heroMeta": [
+        {
+          "n": "4–5 mm",
+          "l": "Minimum legible letter height"
+        },
+        {
+          "n": "No gradients",
+          "l": "Thread is solid colour"
+        },
+        {
+          "n": "Once",
+          "l": "Digitise properly, reuse forever"
+        }
+      ],
+      "heroImage": {
+        "src": "assets/heroes/embroidery.webp",
+        "alt": "Multi-head embroidery machine stitching a logo",
+        "kind": "photo"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The constraints",
+          "h2": "What thread can and can't do",
+          "html": "<p>The needle's alphabet has minimums: <strong>text below roughly 4–5&nbsp;mm tall</strong> fills in and blurs — the registered-trademark symbol and web addresses are the classic casualties; <strong>fine lines below about a millimetre</strong> disappear or bulge; <strong>gradients don't exist</strong> in thread — a fade becomes stepped bands of solid colour, which a good digitiser designs deliberately or (better) the artwork avoids; and <strong>large solid fills</strong> get heavy, stiff and pucker-prone on light garments — outlines and partial fills wear better. Colour is genuinely excellent news: thread colour is vivid and permanent, standard palettes match most brand colours closely, and a dozen colours cost no more to run than two (the machine just changes thread).</p><p><strong>The digitising step is where quality lives:</strong> converting artwork to a stitch file is a craft decision about stitch types, directions, densities and underlay per fabric — which is why the same logo needs adjusting between a stable <a href='workwear-fabrics-explained.html'>twill</a> and a stretchy pique, and why the digitised file, <strong>done once and kept</strong>, is what guarantees every future batch matches (the one-off cost our <a href='how-embroidery-pricing-works.html'>pricing guide</a> explains). Supply the cleanest artwork you own — vector (.ai/.eps/.svg) ideally, or the largest sharp image — plus brand colour references, and say which garments it's going on.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The rules",
+          "h2": "Artwork pre-flight checks",
+          "head": [
+            "Check",
+            "The rule",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Smallest text",
+              "≥ 4–5 mm stitched height — drop straplines that break it",
+              "Fills in below the needle's resolution"
+            ],
+            [
+              "Line weights",
+              "≥ ~1 mm at final size",
+              "Thinner vanishes or blobs"
+            ],
+            [
+              "Gradients & photo effects",
+              "Redesign as solid-colour zones",
+              "Thread has no opacity"
+            ],
+            [
+              "Final size by placement",
+              "Left chest ~80–100 mm wide; caps ~55–65 mm",
+              "<a href='work-headwear-guide.html'>Cap panels</a> are the tightest canvas"
+            ],
+            [
+              "File supplied",
+              "Vector preferred; big sharp raster acceptable",
+              "Digitisers redraw from what they can see"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Good to know",
+          "h2": "Three facts that save revisions",
+          "items": [
+            {
+              "n": "Simplify wins",
+              "l": "The strongest embroidered logos are the simplest versions of the brand — icon plus name beats the full crest"
+            },
+            {
+              "n": "Fabric changes stitches",
+              "l": "The same file adjusts between polo, softshell and <a href='choosing-work-jackets.html'>shell jackets</a> — membrane fabrics get patches or backing"
+            },
+            {
+              "n": "Ask for a stitch-out",
+              "l": "A photographed sample on the actual garment before the batch run is normal practice — request it"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Artwork FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What file format is best for embroidery?",
+          "a": "Vector formats (.ai, .eps, .svg, or vector PDF) digitise cleanest because every shape is mathematically defined. Failing that, the largest, sharpest raster image you have. The digitiser converts it once into a stitch file, which is then reused identically for every future order."
+        },
+        {
+          "q": "Why does small text embroider badly?",
+          "a": "A stitch has physical width — below roughly 4–5 mm letter height, letterforms fill in and read as texture rather than text. Straplines, web addresses and ® symbols are the usual casualties; the fix is dropping or enlarging them in the workwear version of the logo."
+        },
+        {
+          "q": "Can embroidery do gradients?",
+          "a": "Not literally — thread is solid colour. Digitisers can suggest gradients with stepped bands or directional stitching, but the honest answer is to redesign fades as solid zones for the stitched version. Most brands run a simplified 'embroidery version' of their logo for exactly this reason."
+        }
+      ]
+    },
+    {
+      "slug": "coveralls-buying-guide",
+      "role": "spoke",
+      "spokeType": "Buying guide",
+      "navLabel": "Coveralls",
+      "cardTitle": "Coveralls: the buying guide",
+      "cardBlurb": "Standard, FR, chemical or disposable — the one-garment wardrobe sorted by job, fit and the details that matter in wear.",
+      "crumbTail": "Buying guides",
+      "kicker": "Buying guide · Coveralls",
+      "h1": "Coveralls: one garment, four families.",
+      "metaTitle": "Coveralls Buying Guide: Standard, FR, Chem & Disposable | iNeedWorkwear",
+      "metaDesc": "Coverall buying decoded — the four families (standard, FR multi-norm, chemical, disposable), fit rules for a garment you bend in all day, and the details (zips, access, knees) that separate good from cheap.",
+      "lede": "The coverall is workwear's one-decision wardrobe: a single garment covering torso to ankle, bought by trades from mechanics to turnaround crews. The four families answer different questions — everyday cover, flame, chemistry, or single-use — and inside each, the difference between good and irritating is a handful of construction details.",
+      "heroMeta": [
+        {
+          "n": "4 families",
+          "l": "Standard, FR, chem, disposable"
+        },
+        {
+          "n": "Fit rule",
+          "l": "Size for the crouch, not the stand"
+        },
+        {
+          "n": "Details",
+          "l": "Zips and access make or break it"
+        }
+      ],
+      "heroImage": {
+        "src": "assets/collections/coveralls.webp",
+        "alt": "Navy work coverall",
+        "kind": "cutout",
+        "w": 600,
+        "h": 600
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The families",
+          "h2": "Which coverall is the question",
+          "html": "<p><strong>Standard coveralls</strong> — <a href='workwear-fabrics-explained.html'>245–300gsm polycotton</a>, the garage and workshop default — are bought on fit and details (below), in <a href='oil-grease-out-of-workwear.html'>rotation quantities</a> because oil retires them chemically. <strong>FR and multi-norm coveralls</strong> are certification purchases: <a href='en-iso-11612-explained.html'>EN ISO 11612</a> letters for heat and flame, welding spec, or the <a href='workwear-immingham.html'>refinery triple</a> of FR + antistatic + splash — the label list is the product. <strong>Chemical coveralls</strong> run the type ladder from <a href='en-13034-chem-splash-explained.html'>type 6 splash</a> upward. <strong>Disposables</strong> — type 5/6 for dust and light splash — are consumables bought by the case, covered honestly in the <a href='disposable-ppe-guide.html'>disposables guide</a>.</p><p><strong>Fit is the coverall's make-or-break:</strong> the garment must accommodate a crouch, a reach and a crawl simultaneously — which is why the fit test is squatting, not standing. Look for a generous back rise or bi-swing back, and size over what's worn beneath in winter. <strong>The details that separate good from cheap:</strong> a two-way zip (ventilation and, frankly, plumbing), covered stud plackets that don't scratch paintwork, <a href='en-14404-knee-protection-explained.html'>knee-pad pockets</a> in trade versions, elasticated waist panels, and pocket access slits that reach the trousers underneath — the feature nobody notices until they've lived without it.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The sort",
+          "h2": "Family by job",
+          "head": [
+            "Job",
+            "Family",
+            "The note"
+          ],
+          "rows": [
+            [
+              "Workshops & mechanics",
+              "Standard polycotton, rotated",
+              "<a href='automotive-trade-workwear-guide.html'>The garage wardrobe</a>"
+            ],
+            [
+              "Hot work & hydrocarbon sites",
+              "FR / multi-norm to the site's letters",
+              "The label list IS the spec"
+            ],
+            [
+              "Chemical handling",
+              "Typed chem coveralls per assessment",
+              "Layer over FR where both apply"
+            ],
+            [
+              "Dusty one-offs & turnarounds",
+              "Type 5/6 disposables by the case",
+              "Single-session, never re-worn"
+            ],
+            [
+              "Food & hygiene",
+              "Boiler suits in hygiene spec",
+              "Pocket and stud rules — <a href='food-processing-workwear-guide.html'>the audit wardrobe</a>"
+            ]
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Coverall FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "How should a coverall fit?",
+          "a": "Test it crouching, not standing: squat, reach overhead and cross your arms — the garment should follow without pulling at the crotch or shoulders. Size to wear over your normal work layers, and prefer bi-swing backs and stretch panels for mobile trades."
+        },
+        {
+          "q": "What is a multi-norm coverall?",
+          "a": "A garment certified to several protective standards at once — typically flame resistance (EN ISO 11612), antistatic performance (EN 1149-5) and chemical splash (EN 13034), sometimes with welding or arc ratings. Process sites specify them because layering separate single-purpose garments gets the protection wrong."
+        },
+        {
+          "q": "Why do coveralls have a two-way zip?",
+          "a": "Ventilation from the bottom when working hot, and practical access without undressing — both daily realities in a one-piece garment. It's one of the small construction details (with covered plackets, knee-pad pockets and pass-through pockets) that separate a good coverall from a cheap one."
+        }
+      ]
+    },
+    {
+      "slug": "womens-safety-boots",
+      "role": "spoke",
+      "spokeType": "Buying guide",
+      "navLabel": "Women's safety boots",
+      "cardTitle": "Women's safety boots: lasts, not labels",
+      "cardBlurb": "Why 'small men's sizes' cause the blisters — what a women's last changes, and how to buy boots that actually fit.",
+      "crumbTail": "Buying guides",
+      "kicker": "Buying guide · Women's safety footwear",
+      "h1": "Women's safety boots: the last matters most.",
+      "metaTitle": "Women's Safety Boots Guide: Fit, Lasts & Buying Advice | iNeedWorkwear",
+      "metaDesc": "Women's safety boots explained — why downsized men's boots cause heel slip and blisters, what a women's last changes (heel, width, volume), the codes that stay identical, and buying advice that works.",
+      "lede": "The most common women's safety-boot experience is a size 5 men's boot, a heel that lifts with every step, and blisters by Wednesday — followed by trainers on Thursday, which is how bad fit becomes a safety incident. The fix isn't a smaller boot; it's a boot built on a different shape.",
+      "heroMeta": [
+        {
+          "n": "The last",
+          "l": "Heel, width and volume — not just length"
+        },
+        {
+          "n": "Same codes",
+          "l": "S1P/S3 protection is identical"
+        },
+        {
+          "n": "Heel slip",
+          "l": "The tell of a men's boot downsized"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The problem",
+          "h2": "Why downsizing fails",
+          "html": "<p>A boot is built around a <strong>last</strong> — the foot-shaped form that sets its internal geometry — and a typical women's foot differs from a scaled-down men's foot in ways length can't fix: <strong>narrower heel relative to the forefoot</strong> (the anatomical mismatch behind heel slip), <strong>lower instep volume</strong> (why downsized boots feel cavernous however tight the laces), and different proportions through the arch. Put a female foot in a small men's last and the heel pistons, friction builds, blisters follow — and lacing harder just moves the pain. <strong>A women's-last boot changes the shape, not just the size</strong>, and the difference is felt in the first hundred metres.</p><p><strong>What doesn't change:</strong> the certification. Women's-last boots carry the same <a href='safety-boot-codes-explained.html'>S1P/S3 codes</a>, the same 200 J caps and midsoles (<a href='safety-footwear-2022-update.html'>2022 codes included</a>). Availability has genuinely improved — proper ranges exist across site boots, trainers and <a href='safety-wellingtons-guide.html'>wellingtons</a> — so the fallback of 'we could only get men's' rarely survives an actual search, and the <a href='womens-workwear-guide.html'>fit-is-safety argument</a> gives the buying meeting its teeth. Buying advice that works: try boots late in the day (feet swell), in the socks you'll wear, and judge heel hold walking on an incline if you can find one — that's where slip announces itself.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The check",
+          "h2": "Fitting-room tests that predict the shift",
+          "head": [
+            "Test",
+            "Pass looks like"
+          ],
+          "rows": [
+            [
+              "Heel hold on an incline",
+              "No lift or piston — the single best predictor"
+            ],
+            [
+              "Toe clearance",
+              "Wiggle room; toes never brush the cap"
+            ],
+            [
+              "Instep snugness",
+              "Laced firm without crushing — no cavernous volume"
+            ],
+            [
+              "Width at the ball",
+              "Flex the foot: no pinch, no slop"
+            ],
+            [
+              "End-of-day sizing",
+              "Fitted late day, in real work socks"
+            ]
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Women's boots FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Are women's safety boots just small men's boots?",
+          "a": "Good ones aren't — they're built on women's lasts with a narrower heel-to-forefoot ratio and lower instep volume, which is what stops heel slip and blistering. Downsized men's boots keep men's proportions and cause most of the fit misery women report in safety footwear."
+        },
+        {
+          "q": "Are women's safety boots as protective as men's?",
+          "a": "Identical where the codes match — S1P is S1P and S3 is S3 regardless of last, with the same 200-joule toe caps and midsole tests. The certification doesn't distinguish; only the internal shape does."
+        },
+        {
+          "q": "What if my employer only stocks men's sizes?",
+          "a": "PPE must fit the wearer — supplying only men's-last footwear doesn't meet that duty when fit is compromised, and women's-last ranges are now genuinely available across boot types. Raise it with the fit-is-safety argument; it's an ordering change, not a special request."
+        }
+      ]
+    },
+    {
+      "slug": "tall-plus-size-workwear",
+      "role": "spoke",
+      "spokeType": "Buying guide",
+      "navLabel": "Tall & plus-size",
+      "cardTitle": "Tall and plus-size workwear: fit at the range edges",
+      "cardBlurb": "Leg lengths, extended sizes and the PPE that must still fit at 5XL — buying properly for the ends of the size curve.",
+      "crumbTail": "Buying guides",
+      "kicker": "Buying guide · Extended sizing",
+      "h1": "Workwear at the edges of the size range.",
+      "metaTitle": "Tall & Plus-Size Workwear Guide: Extended Sizing Done Right | iNeedWorkwear",
+      "metaDesc": "Tall and plus-size workwear buying — leg-length options, extended chest sizes, why hi-vis class and harness fit change at large sizes, and how employers order for the whole real workforce.",
+      "lede": "Every workforce has bodies the standard size run ignores — the 6'5\" engineer whose trousers are ankle-swingers, the 5XL operative whose hi-vis won't close and therefore doesn't protect. Buying at the range edges isn't a favour; it's the same fit-equals-function rule everywhere else, applied where catalogues go quiet.",
+      "heroMeta": [
+        {
+          "n": "Leg options",
+          "l": "Short/reg/tall exists — order it"
+        },
+        {
+          "n": "To 5XL+",
+          "l": "Real ranges reach further than habit"
+        },
+        {
+          "n": "Fit = function",
+          "l": "An open hi-vis isn't Class anything"
+        }
+      ],
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The issues",
+          "h2": "What actually goes wrong at the edges",
+          "html": "<p><strong>Tall problems are length problems:</strong> trousers riding above the boot (and dragging the <a href='en-14404-knee-protection-explained.html'>knee-pad pocket</a> off the knee — the pad protects a shin instead), sleeves exposing wrists to weather and spatter, jackets that untuck at every reach. Most trade ranges cut <strong>short/regular/tall legs</strong> and some cut tall bodies — the failure is usually ordering habit, not availability. <strong>Plus-size problems are protection problems:</strong> a hi-vis that can't close loses its certified area the moment it flaps open (<a href='hi-vis-class-1-explained.html'>class is area maths</a>); stretch panels and correct sizing keep <a href='choosing-work-jackets.html'>outer layers</a> actually closable over winter mid-layers; and harness-based work needs <strong>rated, sized fall-protection equipment</strong> — standard harnesses have weight and girth limits, and exceeding them is an equipment-selection issue the employer must solve, not a squeeze-it-on issue (see <a href='fall-protection-standards-explained.html'>the fall-protection map</a>).</p><p><strong>For employers the fix is procedural:</strong> collect real measurements at intake (our <a href='workwear-sizing-how-to-measure.html'>measuring guide</a> makes it a five-minute job), order the size curve you actually employ rather than a bell curve from habit, and pick core ranges that genuinely extend — same garment, same colour, 3XS to 5XL+ with leg options — so nobody's uniform announces them as an afterthought. That last point is the quiet one: matching kit at every size is a dignity feature, and it costs nothing but supplier choice.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The checklist",
+          "h2": "Ordering for the whole curve",
+          "head": [
+            "Item",
+            "The edge-size note"
+          ],
+          "rows": [
+            [
+              "Trousers",
+              "Order leg length per person — tall legs exist in most trade ranges"
+            ],
+            [
+              "Hi-vis",
+              "Must close over winter layers at every size — or it isn't its class"
+            ],
+            [
+              "Jackets & shells",
+              "Extended sizes with real sleeve length, not just girth"
+            ],
+            [
+              "Gloves",
+              "Genuine XXL exists — <a href='en-388-glove-ratings-decoder.html'>ratings</a> mean nothing in a glove that won't don"
+            ],
+            [
+              "Height work",
+              "Harness ratings and sizes checked per wearer — an equipment decision, not a squeeze"
+            ]
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Extended sizing FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Does workwear come in tall sizes?",
+          "a": "Most serious trade ranges cut short, regular and tall leg lengths and some cut tall body lengths — the gap is usually in ordering habits rather than catalogues. Per-person leg length matters functionally: knee-pad pockets only protect knees they actually sit on."
+        },
+        {
+          "q": "Why does hi-vis fit matter at larger sizes?",
+          "a": "Because the class rating is certified area, worn as designed — a garment that can't close and flaps open no longer presents its certified fluorescent and reflective area. Extended-size hi-vis that closes properly over real layers is the compliant answer, and it exists."
+        },
+        {
+          "q": "Are there weight limits on safety harnesses?",
+          "a": "Yes — harnesses and energy-absorbing systems carry rated capacity limits, and standard models don't fit or protect every body. Where height work is involved, equipment selection for larger workers is a competent-person decision with properly rated, sized kit — never an improvised fit."
+        }
+      ]
+    },
+    {
+      "slug": "workwear-sizing-how-to-measure",
+      "role": "spoke",
+      "spokeType": "Buying guide",
+      "navLabel": "Sizing & measuring",
+      "cardTitle": "Workwear sizing: how to measure",
+      "cardBlurb": "Five measurements, five minutes, no returns — the measuring routine that makes team orders arrive right first time.",
+      "crumbTail": "Buying guides",
+      "kicker": "Buying guide · Sizing",
+      "h1": "How to measure for workwear that fits first time.",
+      "metaTitle": "Workwear Sizing Guide: How To Measure Properly | iNeedWorkwear",
+      "metaDesc": "How to measure for workwear — chest, waist, inside leg, and the rules that stop returns: measure the body not the old garment, size for layers, and read each maker's chart because sizes aren't standard.",
+      "lede": "Half of all workwear returns are self-inflicted: sizes guessed from a favourite tee, waists quoted from denial, one 'L' assumed to equal another. The cure is five measurements taken in five minutes with a fabric tape — and the two rules that turn them into garments that fit on arrival.",
+      "heroMeta": [
+        {
+          "n": "5 numbers",
+          "l": "Chest, waist, hip, inside leg, collar"
+        },
+        {
+          "n": "Rule 1",
+          "l": "Measure the body, not old clothes"
+        },
+        {
+          "n": "Rule 2",
+          "l": "Charts differ — read the maker's"
+        }
+      ],
+      "schema": {
+        "type": "HowTo",
+        "steps": [
+          {
+            "name": "Chest",
+            "text": "Tape around the fullest part of the chest, under the arms, level across the back — snug, not compressed, arms relaxed at the sides."
+          },
+          {
+            "name": "Waist",
+            "text": "Around the natural waist where trousers actually sit — over a shirt is fine, breathe normally, no tape-tightening optimism. Work trousers are worn loaded; honest beats aspirational."
+          },
+          {
+            "name": "Hip / seat",
+            "text": "Around the fullest part of the seat, feet together — the number that decides whether trousers accommodate a crouch."
+          },
+          {
+            "name": "Inside leg",
+            "text": "From crotch seam to where the trouser should end — the boot's ankle cuff — measured against a well-fitting trouser laid flat if easier. Order short/regular/tall accordingly."
+          },
+          {
+            "name": "Collar (for shirts)",
+            "text": "Around the base of the neck with one finger inside the tape — the finger is the comfort allowance."
+          }
+        ]
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The rules",
+          "h2": "What turns numbers into fit",
+          "html": "<p><strong>Rule one: measure the body, not the wardrobe.</strong> A favourite old garment has stretched, shrunk and been chosen for reasons memory flatters; the tape hasn't. (Workwear sizing is also honest by regulation — <a href='en-iso-13688-explained.html'>EN ISO 13688</a> requires declared sizes to map to body dimensions — so honest inputs meet honest labels.)</p><p><strong>Rule two: read the maker's chart, every time.</strong> Sizes are not standardised across brands — one maker's L is another's XL, and workwear cuts vary deliberately (a <a href='coveralls-buying-guide.html'>coverall</a> allows for layers and crouching; a softshell doesn't). Match your numbers to <em>each</em> chart rather than transferring letters between brands. Two refinements finish the job: <strong>size outer layers over what's actually worn beneath</strong> (the winter-shell rule from the <a href='winter-workwear-guide.html'>layering guide</a>), and for teams, <strong>collect measurements at intake</strong> rather than asking people to shout sizes across a yard — it's quicker than one exchange paperwork cycle, and it feeds the <a href='uniform-quantity-calculator.html'>quantity maths</a> a real size curve, including the <a href='tall-plus-size-workwear.html'>range edges</a>.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Quick reference",
+          "h2": "Common fit failures, decoded",
+          "head": [
+            "Symptom",
+            "Cause",
+            "Fix"
+          ],
+          "rows": [
+            [
+              "Trousers fine standing, tight crouching",
+              "Seat measured small or ignored",
+              "Order by hip measurement, prefer stretch fabrics"
+            ],
+            [
+              "Knee pads sit on shins",
+              "Leg length wrong",
+              "Order tall leg — <a href='en-14404-knee-protection-explained.html'>pad position is the protection</a>"
+            ],
+            [
+              "Jacket tight over fleece",
+              "Sized to summer body",
+              "Outer layers size over real underlayers"
+            ],
+            [
+              "Polo L fits, brand-B L doesn't",
+              "Charts differ between makers",
+              "Numbers to chart, every brand, every time"
+            ],
+            [
+              "Boots blister",
+              "Length right, shape wrong",
+              "See <a href='womens-safety-boots.html'>lasts</a> — and fit late in the day"
+            ]
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Sizing FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "How do you measure chest size for workwear?",
+          "a": "Tape around the fullest part of the chest, under the arms and level across the back, snug but not compressed, with arms relaxed. Match that number to the specific maker's size chart — letters like L and XL aren't standardised between brands."
+        },
+        {
+          "q": "Should workwear be a size bigger?",
+          "a": "Not as a rule — modern workwear is cut for work, including layering allowances where relevant. The exceptions are deliberate: outer shells sized over real underlayers, and coveralls tested in a crouch. Otherwise measure honestly and follow the chart; oversizing creates its own snag and drape problems."
+        },
+        {
+          "q": "How should companies collect staff sizes?",
+          "a": "Measure at intake with a fabric tape — five measurements per person, five minutes — rather than collecting self-declared letters. It feeds orders a real size curve including tall legs and extended sizes, and it costs less than one round of exchange postage."
+        }
+      ]
     }
   ]
 }
