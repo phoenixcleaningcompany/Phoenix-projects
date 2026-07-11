@@ -1812,7 +1812,12 @@
           "q": "Do you supply Bristol businesses?",
           "a": "Nationwide from stock next-day — aerospace-supplier shop kit, Avonmouth shed lists and construction baselines all run through single trade accounts with embroidery before dispatch."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/town-bristol.webp",
+        "alt": "Aircraft in a maintenance hangar",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-plymouth",

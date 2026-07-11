@@ -161,7 +161,12 @@
           "q": "Do you deliver workwear to Sunderland?",
           "a": "Nationwide from central stock, usually next-day, with embroidery applied before dispatch. Supply-chain plants ordering rotation quantities and contractors kitting mixed crews both run through one trade account."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/town-sunderland.webp",
+        "alt": "Robotic arms over a car body on an assembly line",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-middlesbrough",
@@ -288,7 +293,12 @@
           "q": "Can you supply for maintenance shutdowns?",
           "a": "Yes — turnaround orders are quantity work: disposable coveralls, FFP respirators and gloves by the case, sized runs of FR for crews, all shipped from stock. Order ahead of the shutdown window; everyone else's turnaround is the same month as yours."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/town-middlesbrough.webp",
+        "alt": "Process workers in chemical protective suits handling drums",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-hull",
@@ -415,7 +425,12 @@
           "q": "Do you supply Hull's caravan manufacturers?",
           "a": "We supply nationwide from stock, and production-line quantities are the core of the business — coveralls, gloves and disposables by the case, embroidered workwear for the fitted trades, one trade account per firm."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/town-hull.webp",
+        "alt": "Offshore wind farm at sunset with a crew vessel",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-doncaster",
@@ -542,7 +557,12 @@
           "q": "Do you supply both rail and warehouse kit?",
           "a": "Yes — rail-spec orange and conventional yellow hi-vis ship from the same stock, alongside the full warehouse list. Contractors who work both environments typically hold both on one trade account, embroidered to match."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/town-doncaster.webp",
+        "alt": "Rail workers in orange hi-vis on a track possession",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-rotherham",
@@ -669,7 +689,12 @@
           "q": "Do you supply the Advanced Manufacturing Park?",
           "a": "We supply nationwide from stock next-day, and precision-engineering firms are core customers: fitted workwear in rotation quantities, gloves specified by cut letter, FR for the welding bays, all embroidered and on one trade account."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/town-rotherham.webp",
+        "alt": "Advanced manufacturing hall with moulding machinery",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-scunthorpe",
@@ -796,7 +821,12 @@
           "q": "Can you kit out contractor crews for the works?",
           "a": "Yes — nationwide from stock, with molten-metal FR, HRO-soled boots and heat gloves supplied by the size run and embroidered per firm. Send the site clothing standard and the crew list; matching kit to an induction document is the everyday job."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/town-scunthorpe.webp",
+        "alt": "Red-hot steel bar in a rolling mill",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-immingham",
@@ -923,7 +953,12 @@
           "q": "What hi-vis do port workers at Immingham wear?",
           "a": "Class 3 as the working default — the port's internal roads move heavy vehicles continuously and shifts run around the clock in estuary weather. Buy on construction quality and keep an eye on fluorescence: washed-out hi-vis quietly stops meeting the class its label claims."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/town-immingham.webp",
+        "alt": "Container ship loading at a deep-water berth, seen from above",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-telford",
@@ -1050,7 +1085,12 @@
           "q": "Can small Telford firms get trade pricing?",
           "a": "Yes — trade accounts aren't gated by headcount. A ten-person moulder ordering polos, trousers, gloves and boots gets the same account treatment as a distribution shed: one list, embroidered, reordered in two clicks."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/town-telford.webp",
+        "alt": "Plastic bottles moving along a production line",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-coventry",
@@ -1177,7 +1217,12 @@
           "q": "Do you supply Coventry's automotive companies?",
           "a": "Nationwide from stock, next-day — R&D shops, garages and their logistics neighbours order fitted workwear, arc-rated layers, ESD kit and hi-vis through one trade account, embroidered before dispatch."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/town-coventry.webp",
+        "alt": "Electric vehicle charging with a green-lit port",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-solihull",
@@ -1304,7 +1349,12 @@
           "q": "Can you dress hotel and venue staff too?",
           "a": "Yes — front-of-house tailoring, blouses, polos and aprons with embroidery before dispatch, alongside the back-of-house and grounds kit. One account covers a venue's whole staffing spread; the FOH buying guide covers the fabric choices that survive shift work."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/town-solihull.webp",
+        "alt": "Exhibition hall entrance at the NEC",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-derby",
@@ -1431,7 +1481,12 @@
           "q": "Do you supply Derby's engineering supply chain?",
           "a": "Nationwide from stock next-day — including sealed-pocket FOD-aware garments, machine-shop kit in rotation quantities and rail orange. Supplier firms typically standardise one list per shop and reorder through a trade account as heads change."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/town-derby.webp",
+        "alt": "Aircraft jet engine open for maintenance in a hangar",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-leicester",
@@ -1939,7 +1994,12 @@
           "q": "Can you handle a large embroidered fleet order?",
           "a": "Yes — fleet orders are stock-and-embroider jobs: size runs held, logos digitised once, garments branded before dispatch nationwide. Depots typically phase delivery by shift pattern so the whole fleet flips uniform in a week."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/town-milton-keynes.webp",
+        "alt": "Aerial view of central Milton Keynes",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-peterborough",
