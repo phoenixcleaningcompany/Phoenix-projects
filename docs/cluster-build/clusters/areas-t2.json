@@ -3065,7 +3065,12 @@
           "q": "Do you deliver to Portsmouth and Gosport?",
           "a": "Nationwide from stock, usually next-day — dockyard contractor kit, boatyard disposables by the case and embroidered company uniform all run through one trade account."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/town-portsmouth.webp",
+        "alt": "Warship superstructure with the Union Jack flying",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-swindon",
@@ -3192,7 +3197,12 @@
           "q": "Do you supply ESD workwear for electronics?",
           "a": "Yes — EN 1149-5 static-dissipative garments and ESD footwear from stock, for zones where the product's sensitivity sets the clothing spec. Where only benches are protected, wrist straps and mats may suffice; zoned floors put it on the garment label."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/town-swindon.webp",
+        "alt": "Numbered loading dock doors at a distribution centre",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-port-talbot",
