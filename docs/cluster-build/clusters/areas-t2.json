@@ -1613,7 +1613,12 @@
           "q": "Do you supply Leicester's logistics parks as well?",
           "a": "Yes — the golden-triangle list (hi-vis, S1P trainers, layered kit for ambient-to-chilled work) ships from the same stock as the food-plant programmes, nationwide next-day on one trade account."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/town-leicester.webp",
+        "alt": "Food production line staff in hygiene aprons and hairnets",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-northampton",
@@ -1740,7 +1745,12 @@
           "q": "Do you supply Northampton's shoe factories?",
           "a": "We supply nationwide from stock — aprons, gloves, nitrile and FFP consumables for the bench trades alongside embroidered factory kit. The craft rooms' needs are specific but simple, and a trade account keeps them on repeat."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/town-northampton.webp",
+        "alt": "Shoemaker shaping a wooden last at the bench",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-daventry",
@@ -1867,7 +1877,12 @@
           "q": "Can you kit out a whole distribution centre?",
           "a": "Yes — per-zone kit lists (yard, ambient, chilled, frozen, engineering) priced per head, shipped from stock nationwide and embroidered per employer. Agency-heavy sites usually hold a size-run buffer so new starters are dressed on day one."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/town-daventry.webp",
+        "alt": "Rail freight wagons in a terminal yard",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-milton-keynes",
@@ -2126,7 +2141,12 @@
           "q": "Do you supply Peterborough businesses directly?",
           "a": "Nationwide from stock, next-day — coverall rotation programmes, hygiene garment matrices and shed kit all run through one trade account with embroidery before dispatch."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/town-peterborough.webp",
+        "alt": "Engineer in bib and brace working on an engine",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-warrington",
@@ -2253,7 +2273,12 @@
           "q": "Can you kit both an office and its site engineers?",
           "a": "Yes — embroidered office and softshell kit alongside the visit-bag PPE list, one trade account. Consultancies typically standardise the bag so any engineer can take any assignment without a kit scramble."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/town-warrington.webp",
+        "alt": "Power station cooling towers against a blue sky",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-ellesmere-port",
@@ -2380,7 +2405,12 @@
           "q": "Do you supply kit for electric vehicle plants?",
           "a": "Yes — paint-safe fitted workwear for line roles, plus IEC 61482 arc-rated garments for high-voltage-authorised technicians, all from stock with embroidery before dispatch on a trade account."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/town-ellesmere-port.webp",
+        "alt": "Refinery complex lit at dusk across the water",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-runcorn",
@@ -2507,7 +2537,12 @@
           "q": "Do you supply Runcorn's contractor firms?",
           "a": "Nationwide from stock next-day: multi-norm FR, splash layers, chemical gloves by named product, and turnaround disposables by the case — one trade account per firm, embroidered where the garment allows it."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/town-runcorn.webp",
+        "alt": "Lab technicians in gloves working with chemical samples",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-crewe",
@@ -2634,7 +2669,12 @@
           "q": "Can you supply both the plant's suppliers and rail contractors?",
           "a": "Yes — craft-safe fitted kit, depot coveralls and rail-spec orange all ship from stock nationwide, embroidered per firm on a trade account. Crewe firms quite often need all three lists at once."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/town-crewe.webp",
+        "alt": "Handcrafted luxury car in a detailing bay",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-felixstowe",
@@ -2761,7 +2801,12 @@
           "q": "Do you supply the haulage firms around the port?",
           "a": "Yes — driver and shunter kit (hi-vis, gloves rated for twist-locks and strapping, weather layers) ships nationwide from stock, embroidered per firm, with rotation quantities for round-the-clock operations on a single trade account."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/town-felixstowe.webp",
+        "alt": "Container cranes silhouetted at sunset",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-southampton",
@@ -2888,7 +2933,12 @@
           "q": "Do you supply Solent marine businesses?",
           "a": "Nationwide from stock next-day — welding FR, composite-work disposables, terminal hi-vis and hospitality uniform on one trade account with embroidery before dispatch. The two-collar order is normal here."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/town-southampton.webp",
+        "alt": "Cruise ship approaching port at dawn",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-portsmouth",
