@@ -3329,7 +3329,12 @@
           "q": "Can you kit construction crews working inside the steelworks?",
           "a": "Yes — the dual list is our normal request from transition-phase sites: construction baseline (hi-vis, helmets, S3) plus the hot-zone or electrical additions each permit specifies, supplied by size run and embroidered per firm on one account."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/town-port-talbot.webp",
+        "alt": "Steelworks rising behind terraced streets at sunset",
+        "kind": "photo"
+      }
     }
   ]
 }

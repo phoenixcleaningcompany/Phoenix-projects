@@ -1217,7 +1217,12 @@
           "q": "Do you supply Norfolk businesses?",
           "a": "Nationwide from stock next-day — food-plant garment programmes, energy-crew layers, farm lists and site kit through one trade account per firm, embroidered before dispatch."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/town-norwich.webp",
+        "alt": "Tractor working a vegetable field",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-ipswich",
@@ -1344,7 +1349,12 @@
           "q": "Do you supply Suffolk hauliers?",
           "a": "Nationwide from stock next-day — driver compliance kit, yard lists and embroidered fleets by the size run, one trade account per firm."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/town-ipswich.webp",
+        "alt": "Agricultural spray drone working over a crop field",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-basildon",
@@ -1471,7 +1481,12 @@
           "q": "Do you supply the A127 corridor?",
           "a": "Nationwide from stock next-day — line kit, estate lists and shed wardrobes on one trade account per firm, embroidered before dispatch."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/town-basildon.webp",
+        "alt": "New tractors lined up outside the factory",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-luton",
@@ -1598,7 +1613,12 @@
           "q": "Do you supply Luton's logistics parks?",
           "a": "Nationwide from stock next-day — zone kit, size-curve buffers for agency peaks and embroidered fleets, one trade account per operator."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/town-luton.webp",
+        "alt": "Courier loading boxes into a van at a depot",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-slough",
@@ -1725,7 +1745,12 @@
           "q": "Do you supply the trading estate?",
           "a": "Nationwide from stock next-day — multi-rule van kits, ESD and hygiene wardrobes, embroidered FM and security uniform, one trade account per firm."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/town-slough.webp",
+        "alt": "Equipment racks lined up in a technology facility",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-bristol",
@@ -1984,7 +2009,12 @@
           "q": "Do you supply Plymouth's marine trades?",
           "a": "Nationwide from stock next-day — welding FR and composite disposables for the yards, oilskins and wellingtons for the fleet and fish trade, dockyard lists per induction pack, one trade account per firm."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/town-plymouth.webp",
+        "alt": "Boatbuilder working beside a motor cruiser in a boatyard shed",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-gloucester",
@@ -2111,7 +2141,12 @@
           "q": "Do you supply Gloucestershire businesses?",
           "a": "Nationwide from stock next-day — aerospace-shop kit, machine-shop rotation packs, shed lists and farm kit through one trade account per firm, embroidered before dispatch."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/town-gloucester.webp",
+        "alt": "Engineers working on an aircraft engine",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-newport",
@@ -2238,7 +2273,12 @@
           "q": "Do you supply South Wales industry?",
           "a": "Nationwide from stock next-day — steel-line FR, dock hi-vis, fab-adjacent fitted kit and the corridor's shed lists, one trade account per firm with embroidery before dispatch."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/town-newport.webp",
+        "alt": "Technician in cleanroom coverall at a semiconductor production line",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-deeside",
@@ -2365,7 +2405,12 @@
           "q": "Do you supply Deeside and Flintshire firms?",
           "a": "Nationwide from stock next-day — aerospace-supplier kit, food-plant garment programmes and park logistics lists through one trade account per firm, embroidered before dispatch."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/town-deeside.webp",
+        "alt": "Airliner tail fin and wing against the sky",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-stevenage",
@@ -2492,7 +2537,12 @@
           "q": "Do you supply Stevenage engineering firms?",
           "a": "Nationwide from stock next-day — ESD kit, FOD-aware fitted workwear and the town's ordinary trade lists through one account per firm, with the documentation their customers' audits expect."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/town-stevenage.webp",
+        "alt": "Cleanroom staff in coveralls working at laminar-flow benches",
+        "kind": "photo"
+      }
     }
   ]
 }
