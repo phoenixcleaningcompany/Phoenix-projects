@@ -3,8 +3,8 @@
     "id": "hi-vis",
     "topic": "Hi-vis",
     "shopLabel": "hi-vis",
-    "shopUrl": "https://shop.ineedworkwear.co.uk/c/hi-vis",
-    "baseUrl": "https://www.ineedworkwear.co.uk",
+    "shopUrl": "https://www.ineedworkwear.com/collections/hi-vis",
+    "baseUrl": "https://www.ineedworkwear.uk",
     "date": "2026-07-08",
     "trust": [
       "EN ISO 20471 certified stock",
@@ -19,12 +19,12 @@
       "actions": [
         {
           "label": "Shop hi-vis",
-          "href": "https://shop.ineedworkwear.co.uk/c/hi-vis",
+          "href": "https://www.ineedworkwear.com/collections/hi-vis",
           "style": "white"
         },
         {
           "label": "Trade accounts",
-          "href": "https://shop.ineedworkwear.co.uk/trade-accounts",
+          "href": "contact.html",
           "style": "dark"
         }
       ]
@@ -48,7 +48,7 @@
         },
         {
           "label": "Shop hi-vis",
-          "href": "https://shop.ineedworkwear.co.uk/c/hi-vis",
+          "href": "https://www.ineedworkwear.com/collections/hi-vis",
           "style": "ghost"
         }
       ],

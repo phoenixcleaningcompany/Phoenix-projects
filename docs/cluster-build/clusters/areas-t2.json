@@ -15,7 +15,7 @@
     "trust": [
       "Kit matched to the local economy",
       "Standards named, not implied",
-      "Nationwide next-day supply",
+      "Fast nationwide supply",
       "Embroidery & trade accounts"
     ],
     "cta": {
@@ -127,7 +127,7 @@
           "items": [
             {
               "n": "From stock",
-              "l": "Line-friendly kit, ESD footwear and hi-vis shipped next-day"
+              "l": "Line-friendly kit, ESD footwear and hi-vis shipped express"
             },
             {
               "n": "Fleet logic",
@@ -159,7 +159,7 @@
         },
         {
           "q": "Do you deliver workwear to Sunderland?",
-          "a": "Nationwide from central stock, usually next-day, with embroidery applied before dispatch. Supply-chain plants ordering rotation quantities and contractors kitting mixed crews both run through one trade account."
+          "a": "Nationwide from central stock, usually on an express service, with embroidery applied before dispatch. Supply-chain plants ordering rotation quantities and contractors kitting mixed crews both run through one trade account."
         }
       ],
       "heroImage": {
@@ -259,7 +259,7 @@
           "items": [
             {
               "n": "From stock",
-              "l": "FR, chem-rated and disposable kit shipped next-day"
+              "l": "FR, chem-rated and disposable kit shipped express"
             },
             {
               "n": "Shutdown-ready",
@@ -395,7 +395,7 @@
             },
             {
               "n": "From stock",
-              "l": "Hi-vis, whites and scrubs next-day nationwide"
+              "l": "Hi-vis, whites and scrubs express nationwide"
             },
             {
               "n": "Trade accounts",
@@ -527,7 +527,7 @@
             },
             {
               "n": "From stock",
-              "l": "Warehouse and cold-chain kit shipped next-day"
+              "l": "Warehouse and cold-chain kit shipped express"
             },
             {
               "n": "Trade accounts",
@@ -659,7 +659,7 @@
             },
             {
               "n": "From stock",
-              "l": "Gloves by cut letter, FR and hi-vis next-day"
+              "l": "Gloves by cut letter, FR and hi-vis express"
             },
             {
               "n": "Trade accounts",
@@ -687,7 +687,7 @@
         },
         {
           "q": "Do you supply the Advanced Manufacturing Park?",
-          "a": "We supply nationwide from stock next-day, and precision-engineering firms are core customers: fitted workwear in rotation quantities, gloves specified by cut letter, FR for the welding bays, all embroidered and on one trade account."
+          "a": "We supply nationwide from stock express, and precision-engineering firms are core customers: fitted workwear in rotation quantities, gloves specified by cut letter, FR for the welding bays, all embroidered and on one trade account."
         }
       ],
       "heroImage": {
@@ -1055,7 +1055,7 @@
             },
             {
               "n": "From stock",
-              "l": "EN 407 gloves and fitted workwear next-day"
+              "l": "EN 407 gloves and fitted workwear express"
             },
             {
               "n": "Trade accounts",
@@ -1187,7 +1187,7 @@
             },
             {
               "n": "From stock",
-              "l": "Workshop, logistics and site kit next-day"
+              "l": "Workshop, logistics and site kit express"
             },
             {
               "n": "Trade accounts",
@@ -1215,7 +1215,7 @@
         },
         {
           "q": "Do you supply Coventry's automotive companies?",
-          "a": "Nationwide from stock, next-day — R&D shops, garages and their logistics neighbours order fitted workwear, arc-rated layers, ESD kit and hi-vis through one trade account, embroidered before dispatch."
+          "a": "Nationwide from stock, express — R&D shops, garages and their logistics neighbours order fitted workwear, arc-rated layers, ESD kit and hi-vis through one trade account, embroidered before dispatch."
         }
       ],
       "heroImage": {
@@ -1479,7 +1479,7 @@
         },
         {
           "q": "Do you supply Derby's engineering supply chain?",
-          "a": "Nationwide from stock next-day — including sealed-pocket FOD-aware garments, machine-shop kit in rotation quantities and rail orange. Supplier firms typically standardise one list per shop and reorder through a trade account as heads change."
+          "a": "Nationwide from stock express — including sealed-pocket FOD-aware garments, machine-shop kit in rotation quantities and rail orange. Supplier firms typically standardise one list per shop and reorder through a trade account as heads change."
         }
       ],
       "heroImage": {
@@ -1583,7 +1583,7 @@
             },
             {
               "n": "From stock",
-              "l": "Whites, cold-chain and hi-vis next-day"
+              "l": "Whites, cold-chain and hi-vis express"
             },
             {
               "n": "Trade accounts",
@@ -1611,7 +1611,7 @@
         },
         {
           "q": "Do you supply Leicester's logistics parks as well?",
-          "a": "Yes — the golden-triangle list (hi-vis, S1P trainers, layered kit for ambient-to-chilled work) ships from the same stock as the food-plant programmes, nationwide next-day on one trade account."
+          "a": "Yes — the golden-triangle list (hi-vis, S1P trainers, layered kit for ambient-to-chilled work) ships from the same stock as the food-plant programmes, fast nationwide on one trade account."
         }
       ],
       "heroImage": {
@@ -1715,7 +1715,7 @@
             },
             {
               "n": "From stock",
-              "l": "Trainers, hi-vis and layers next-day"
+              "l": "Trainers, hi-vis and layers express"
             },
             {
               "n": "Trade accounts",
@@ -1847,7 +1847,7 @@
             },
             {
               "n": "From stock",
-              "l": "EN 342 suits to S1P trainers, next-day"
+              "l": "EN 342 suits to S1P trainers, express"
             },
             {
               "n": "Trade accounts",
@@ -1979,7 +1979,7 @@
             },
             {
               "n": "From stock",
-              "l": "Site, shed and office kit next-day"
+              "l": "Site, shed and office kit express"
             },
             {
               "n": "Trade accounts",
@@ -2111,7 +2111,7 @@
             },
             {
               "n": "From stock",
-              "l": "Coveralls, hygiene kit and hi-vis next-day"
+              "l": "Coveralls, hygiene kit and hi-vis express"
             },
             {
               "n": "Trade accounts",
@@ -2139,7 +2139,7 @@
         },
         {
           "q": "Do you supply Peterborough businesses directly?",
-          "a": "Nationwide from stock, next-day — coverall rotation programmes, hygiene garment matrices and shed kit all run through one trade account with embroidery before dispatch."
+          "a": "Nationwide from stock, express — coverall rotation programmes, hygiene garment matrices and shed kit all run through one trade account with embroidery before dispatch."
         }
       ],
       "heroImage": {
@@ -2243,7 +2243,7 @@
             },
             {
               "n": "From stock",
-              "l": "Shed and site kit next-day"
+              "l": "Shed and site kit express"
             },
             {
               "n": "Trade accounts",
@@ -2375,7 +2375,7 @@
             },
             {
               "n": "From stock",
-              "l": "Next-day nationwide, embroidered"
+              "l": "Express nationwide, embroidered"
             },
             {
               "n": "Trade accounts",
@@ -2507,7 +2507,7 @@
             },
             {
               "n": "From stock",
-              "l": "Splash-rated kit and disposables next-day"
+              "l": "Splash-rated kit and disposables express"
             },
             {
               "n": "Trade accounts",
@@ -2535,7 +2535,7 @@
         },
         {
           "q": "Do you supply Runcorn's contractor firms?",
-          "a": "Nationwide from stock next-day: multi-norm FR, splash layers, chemical gloves by named product, and turnaround disposables by the case — one trade account per firm, embroidered where the garment allows it."
+          "a": "Nationwide from stock express: multi-norm FR, splash layers, chemical gloves by named product, and turnaround disposables by the case — one trade account per firm, embroidered where the garment allows it."
         }
       ],
       "heroImage": {
@@ -2931,7 +2931,7 @@
         },
         {
           "q": "Do you supply Solent marine businesses?",
-          "a": "Nationwide from stock next-day — welding FR, composite-work disposables, terminal hi-vis and hospitality uniform on one trade account with embroidery before dispatch. The two-collar order is normal here."
+          "a": "Nationwide from stock express — welding FR, composite-work disposables, terminal hi-vis and hospitality uniform on one trade account with embroidery before dispatch. The two-collar order is normal here."
         }
       ],
       "heroImage": {
@@ -3035,7 +3035,7 @@
             },
             {
               "n": "From stock",
-              "l": "Marine FR, disposables and hi-vis next-day"
+              "l": "Marine FR, disposables and hi-vis express"
             },
             {
               "n": "Trade accounts",
@@ -3063,7 +3063,7 @@
         },
         {
           "q": "Do you deliver to Portsmouth and Gosport?",
-          "a": "Nationwide from stock, usually next-day — dockyard contractor kit, boatyard disposables by the case and embroidered company uniform all run through one trade account."
+          "a": "Nationwide from stock, usually on an express service — dockyard contractor kit, boatyard disposables by the case and embroidered company uniform all run through one trade account."
         }
       ],
       "heroImage": {
@@ -3167,7 +3167,7 @@
             },
             {
               "n": "From stock",
-              "l": "Shed, engineering and site kit next-day"
+              "l": "Shed, engineering and site kit express"
             },
             {
               "n": "Trade accounts",

@@ -15,7 +15,7 @@
     "trust": [
       "Kit matched to the local economy",
       "Standards named, not implied",
-      "Nationwide next-day supply",
+      "Fast nationwide supply",
       "Embroidery & trade accounts"
     ],
     "cta": {
@@ -127,7 +127,7 @@
           "items": [
             {
               "n": "From stock",
-              "l": "Certified FR, gloves and site kit shipped nationwide next-day"
+              "l": "Certified FR, gloves and site kit shipped fast nationwide"
             },
             {
               "n": "Embroidered",
@@ -155,7 +155,7 @@
         },
         {
           "q": "Do you have a shop in Sheffield?",
-          "a": "No — we're a nationwide supplier shipping from central stock, usually next-day. Everything on this page, from molten-metal FR to cut-level gloves, is stocked and can be embroidered before dispatch."
+          "a": "No — we're a nationwide supplier shipping from central stock, usually on an express service. Everything on this page, from molten-metal FR to cut-level gloves, is stocked and can be embroidered before dispatch."
         },
         {
           "q": "What gloves are right for handling steel?",
@@ -259,7 +259,7 @@
           "items": [
             {
               "n": "From stock",
-              "l": "Whites, cold-store kit and hi-vis shipped nationwide next-day"
+              "l": "Whites, cold-store kit and hi-vis shipped fast nationwide"
             },
             {
               "n": "Boxed & rotated",
@@ -291,7 +291,7 @@
         },
         {
           "q": "Do you deliver to Grimsby?",
-          "a": "Yes — we're a nationwide supplier shipping from central stock, typically next-day, with embroidery done before dispatch. No local counter, but plant-scale rotation orders and trade accounts are the everyday business."
+          "a": "Yes — we're a nationwide supplier shipping from central stock, typically on an express service, with embroidery done before dispatch. No local counter, but plant-scale rotation orders and trade accounts are the everyday business."
         }
       ],
       "heroImage": {
@@ -391,7 +391,7 @@
           "items": [
             {
               "n": "From stock",
-              "l": "Metal-free footwear, hi-vis and uniform shipped nationwide next-day"
+              "l": "Metal-free footwear, hi-vis and uniform shipped fast nationwide"
             },
             {
               "n": "Embroidered",
