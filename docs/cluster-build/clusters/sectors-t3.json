@@ -154,7 +154,12 @@
           "q": "What respirator is needed for grain dust?",
           "a": "FFP2 as a working minimum and FFP3 where dust is heavy or prolonged — organic dusts from grain, straw and poultry cause permanent sensitisation and farmer's lung. Fit matters as much as rating, and disposable respirators are single-shift items in dusty barns."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/agriculture.webp",
+        "alt": "Dairy cow in a field against a clear blue sky",
+        "kind": "photo"
+      }
     },
     {
       "slug": "automotive-trade-workwear-guide",
@@ -274,7 +279,12 @@
           "q": "Do EV mechanics need special clothing?",
           "a": "Technicians authorised for live or potentially-live high-voltage work increasingly wear IEC 61482 arc-rated garments with insulating gloves and face protection for those tasks. Routine work on isolated vehicles continues in ordinary workshop kit — the authorisation boundary, set by training and the workshop's procedures, is where the wardrobe changes."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/automotive.webp",
+        "alt": "Mechanic in blue overalls inspecting a wheel arch on a lifted car",
+        "kind": "photo"
+      }
     },
     {
       "slug": "waste-recycling-workwear-guide",
@@ -394,7 +404,12 @@
           "q": "Should waste workers wash their own workwear?",
           "a": "No — kit from waste handling is treated as contaminated, and laundering is managed by the employer or its laundry rather than sent home. It's the same logic as clinical uniforms: the washing machine is part of the exposure control chain."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/waste-recycling.webp",
+        "alt": "Refuse collector in orange hi-vis loading a wheelie bin onto a refuse truck",
+        "kind": "photo"
+      }
     },
     {
       "slug": "utilities-workwear-guide",
@@ -514,7 +529,12 @@
           "q": "What do water company workers wear?",
           "a": "Streetworks hi-vis and S3 boots as baseline, with waterproofs and S5 safety wellingtons for chamber and wet-well work, gauntlets and strict hygiene routines around sewage, and employer-issued confined-space equipment where entries happen. The biology, not the voltage, is the hazard being dressed for."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/utilities.webp",
+        "alt": "Utility crew with a mini excavator working on a street excavation outside houses",
+        "kind": "photo"
+      }
     },
     {
       "slug": "veterinary-animal-care-workwear-guide",
@@ -634,7 +654,12 @@
           "q": "Why do animal-care uniforms wear out so fast?",
           "a": "Three compounding attackers: claws and teeth stress fabric mechanically, daily hot washing ages it thermally, and kennel disinfectant chemistry fades and weakens fibres. The answer is buying garments rated for industrial-style laundering, in rotation quantities that spread the punishment."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/veterinary.webp",
+        "alt": "Veterinary nurse in scrubs and gloves giving a cat an injection",
+        "kind": "photo"
+      }
     }
   ]
 }

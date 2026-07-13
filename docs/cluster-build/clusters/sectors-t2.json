@@ -425,7 +425,12 @@
           "q": "How often does rail hi-vis need replacing?",
           "a": "On condition and wash count, not a calendar: rail kit carries the same EN ISO 20471 wash-cycle ratings as any hi-vis, and access controls actually check. Fade toward peach, cracked tape or a passed wash count all retire the garment."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/rail.webp",
+        "alt": "Worker in full orange hi-vis clothing and safety helmet on an infrastructure site",
+        "kind": "photo"
+      }
     },
     {
       "slug": "forestry-workwear-guide",
@@ -544,7 +549,12 @@
           "q": "Why do forestry helmets have visors and ear defenders attached?",
           "a": "Because the hazards arrive together: chip strike, sawdust and sustained noise. The forestry helmet system — shell, mesh visor, defenders — is designed and worn as one unit, usually in hi-vis colours so crews stay visible among trees."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/forestry.webp",
+        "alt": "Chainsaw operator in a forestry helmet with visor and ear defenders felling a tree",
+        "kind": "photo"
+      }
     },
     {
       "slug": "cleaning-fm-workwear-guide",
@@ -1048,7 +1058,12 @@
           "q": "Can food factory workwear be washed at home?",
           "a": "High-care areas generally mandate industrial laundering to validated standards; lower-risk roles may be permitted controlled home washing (separate load, hot, dried fast) per policy. The site's audit standard, not preference, decides."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/food-processing.webp",
+        "alt": "Food factory operatives in white overalls, hairnets and gloves on a processing line",
+        "kind": "photo"
+      }
     }
   ]
 }

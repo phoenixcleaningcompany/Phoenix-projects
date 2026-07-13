@@ -154,7 +154,12 @@
           "q": "Can cleanroom garments be washed normally?",
           "a": "No — domestic and general industrial laundering recontaminates them with lint and particles. Reusable cleanroom garments cycle through specialist cleanroom laundries that wash, test and pack them in controlled conditions; the highest grades use sterile single-use garments."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/cleanroom.webp",
+        "alt": "Cleanroom technician in a full-body coverall, mask and safety glasses at work",
+        "kind": "photo"
+      }
     },
     {
       "slug": "quarrying-aggregates-workwear-guide",
@@ -274,7 +279,12 @@
           "q": "What hi-vis do quarries require?",
           "a": "Class 3 as the practical default, frequently as jacket-and-trouser combinations so compliance survives when jackets come off — the plant is enormous, operators sit high, and ground staff visibility is the margin. Site traffic rules state the requirement; expect it enforced at induction."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/quarrying.webp",
+        "alt": "Rigid dump truck on a haul road in a working quarry",
+        "kind": "photo"
+      }
     },
     {
       "slug": "demolition-workwear-guide",
@@ -394,7 +404,12 @@
           "q": "How long does workwear last in demolition?",
           "a": "Weeks, honestly — gloves in days, trousers and boots faster than any other trade. Buying heavy-spec garments in deep rotation and retiring on damage without sentiment is the working model; demolition kit is a consumable with a burn rate, and budgets should say so."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/demolition.webp",
+        "alt": "Excavator with breaker attachment demolishing a brick building",
+        "kind": "photo"
+      }
     },
     {
       "slug": "childcare-nurseries-workwear-guide",
@@ -514,7 +529,12 @@
           "q": "What footwear is best for nursery work?",
           "a": "Cushioned, supportive, secure shoes — closed-toe against dropped furniture and tiny collisions, no backless slip-ons, and comfortable enough for a shift that mixes miles of walking with constant floor transitions. Staff feet are the setting's most-used equipment."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/childcare.webp",
+        "alt": "Nursery staff and children playing with building blocks on a soft play mat",
+        "kind": "photo"
+      }
     },
     {
       "slug": "education-staff-workwear-guide",
@@ -634,7 +654,12 @@
           "q": "What PPE do DT technicians need?",
           "a": "Per the workshop's risk assessments: workshop coats or aprons, impact-rated eye protection at machines (grade F spectacles minimum, goggles for grinding), hearing protection in designated zones, and gloves chosen per task — remembering the machining rule that gloves are often banned at rotating tools. Science prep adds COSHH-driven glove and eye choices."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/education.webp",
+        "alt": "School catering staff in whites, aprons and hairnets working in a commercial kitchen",
+        "kind": "photo"
+      }
     },
     {
       "slug": "leisure-fitness-workwear-guide",
@@ -754,7 +779,12 @@
           "q": "What PPE do pool plant operators need?",
           "a": "Chemical-resistant gloves matched to the products handled (hypochlorite, acids — per EN ISO 374 permeation data), splash goggles, protective aprons and the site's COSHH-driven procedures. Pool plant is genuine chemical work and kits like it, whatever the leisure setting around it."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/leisure.webp",
+        "alt": "Dumbbells and weight plates on a rubber gym floor",
+        "kind": "photo"
+      }
     },
     {
       "slug": "horticulture-grounds-workwear-guide",
@@ -874,7 +904,12 @@
           "q": "What do grounds maintenance workers wear in winter?",
           "a": "The layering system: wicking base, insulating mid, waterproof shell kept reproofed, warm gloves with dexterity for machine controls, and S3 boots that handle mud months. Static tasks (goal-post repairs, planting) need warmer mid-layers than the mowing gang ever does."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/horticulture.webp",
+        "alt": "Grounds operative in protective trousers strimming grass",
+        "kind": "photo"
+      }
     },
     {
       "slug": "events-exhibitions-workwear-guide",
@@ -994,7 +1029,12 @@
           "q": "What should brand ambassadors wear at events?",
           "a": "Whatever the campaign specifies — typically branded polos or tees with presentable bottoms and comfortable shoes for twelve-hour standing days. The operational lesson is ordering: embroidered or printed kit works back from the show date with sizing collected early, because event deadlines don't flex."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/events-crew.webp",
+        "alt": "Aluminium lighting truss being rigged in an exhibition hall",
+        "kind": "photo"
+      }
     },
     {
       "slug": "removals-storage-workwear-guide",
@@ -1115,7 +1155,12 @@
           "q": "Do back support belts prevent injury?",
           "a": "The evidence says no — they're comfort items, not PPE, and they don't raise safe lifting limits. Injury prevention in removals comes from technique training, two-person carries, mechanical aids and honest job assessment; the belt is optional padding, never a licence."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/removals.webp",
+        "alt": "Two removals workers loading furniture into a removal van",
+        "kind": "photo"
+      }
     },
     {
       "slug": "printing-workwear-guide",
@@ -1235,7 +1280,12 @@
           "q": "Is hearing protection required in print rooms?",
           "a": "Where noise assessments cross the action levels — which busy press floors routinely do — designated zones make hearing protection mandatory under the noise regulations. Muffs or plugs to EN 352, chosen so operators stay aware of machine sounds that signal problems."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/printing.webp",
+        "alt": "Colour print run moving through the rollers of a web printing press",
+        "kind": "photo"
+      }
     },
     {
       "slug": "furniture-joinery-workwear-guide",
@@ -1355,7 +1405,12 @@
           "q": "What PPE is needed for spraying lacquer?",
           "a": "Per the product system's data sheet under COSHH — nitrile or rated gloves, eye protection, and RPE that escalates with the chemistry: isocyanate-based lacquers push toward air-fed respiratory protection in a proper booth, the same regime as automotive refinishing."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/joinery.webp",
+        "alt": "CNC drilling machine working a plywood panel in a joinery workshop",
+        "kind": "photo"
+      }
     },
     {
       "slug": "housing-maintenance-workwear-guide",
@@ -1475,7 +1530,12 @@
           "q": "What extra kit do void property clearances need?",
           "a": "Kit for the unknown: sharps-aware cut-resistant gloves, FFP3 respiratory protection, disposable coveralls, solid footwear and often waste-sector thinking for the worst cases — needles, biohazards and unstable contents feature. A written void kit list keeps the escalation from being improvised."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/housing-maintenance.webp",
+        "alt": "Maintenance engineer in work gloves repairing pipework under a sink",
+        "kind": "photo"
+      }
     },
     {
       "slug": "breweries-distilleries-workwear-guide",
@@ -1595,7 +1655,12 @@
           "q": "What is CIP and why does it need chemical PPE?",
           "a": "Clean-in-place — circulating caustic and acid solutions through vessels and lines after every use. Making up chemicals and breaking connections risks splash of genuinely corrosive solutions, so rated chemical gloves, sealed goggles with a face shield and splash-protective layers are the standing kit for it."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/brewery.webp",
+        "alt": "Brewer in a work apron checking a gauge on a stainless steel fermentation tank",
+        "kind": "photo"
+      }
     }
   ]
 }

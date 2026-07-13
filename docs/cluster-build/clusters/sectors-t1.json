@@ -731,7 +731,12 @@
           "q": "What aprons do different kitchen stations need?",
           "a": "Match the apron to the station's hazard: heavyweight full-length cotton for grill and fry, waterproof bibs for pot wash, wipe-clean heavy bibs for prep and butchery, and lighter waist aprons at the pass and front of house where speed and pockets matter more than coverage."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/hospitality.webp",
+        "alt": "Barista in an apron preparing coffee at an espresso machine",
+        "kind": "photo"
+      }
     },
     {
       "slug": "energy-offshore-workwear-guide",
