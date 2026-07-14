@@ -265,6 +265,7 @@ Facts on this site are checked against the published EN/ISO standards they descr
 - [Contact iNeedWorkwear: Phone, Email & Trade Enquiries](https://www.ineedworkwear.uk/contact.html)
 - [Workwear Guides: Standards, Roles, Care &amp; Comparisons](https://www.ineedworkwear.uk/guides.html)
 - [iNeedWorkwear — What to Wear for Work: Guides by Sector, Role & Standard](https://www.ineedworkwear.uk/index.html)
+- [Privacy: No Cookies, No Tracking](https://www.ineedworkwear.uk/privacy.html)
 - [Workwear by Role: What Each Trade Actually Needs](https://www.ineedworkwear.uk/roles.html)
 - [Workwear by Sector: Construction, Logistics, Healthcare &amp; More](https://www.ineedworkwear.uk/sectors.html)
 - [Workwear Safety Standards Explained: EN ISO 20471, 11611 &amp; More](https://www.ineedworkwear.uk/standards.html)

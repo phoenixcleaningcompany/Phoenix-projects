@@ -160,8 +160,7 @@ function renderPage(page){
 <meta name="description" content="${esc(page.metaDesc)}">
 <link rel="canonical" href="${url(page.slug)}">
 <meta property="og:title" content="${esc(page.metaTitle)}"><meta property="og:description" content="${esc(page.metaDesc)}"><meta property="og:type" content="article">
-<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/fonts/fonts.css">
 ${jsonld(page)}
 <style>${CSS}</style></head><body>
 <header class="top"><div class="top-in"><a class="brand" href="index.html"><svg class="mk" viewBox="0 0 32 32" fill="none" aria-hidden="true"><rect x="3" y="11" width="26" height="18" rx="2" stroke="#E4571F" stroke-width="2"/><path d="M11 11 V7 a5 5 0 0 1 10 0 v4" stroke="#C6D92E" stroke-width="2"/><path d="M13 18 h6 M16 18 v7" stroke="#E4571F" stroke-width="2"/></svg>iNeed<span>Workwear</span></a>
@@ -174,7 +173,7 @@ ${body}
 <section class="cta"><div class="wrap"><div><h2>${esc(cta.h2)}</h2><p>${esc(cta.p)}</p></div><div class="cta-actions">${cta.actions.map(a=>`<a class="btn btn-${a.style==='white'?'white':'dark'} btn-lg" href="${a.href}">${esc(a.label)}</a>`).join('')}</div></div></section>
 <footer class="foot"><div class="wrap"><div class="foot-grid"><div><div class="fb">iNeed<span>Workwear</span></div><p style="max-width:44ch;font-size:.92rem">Independent workwear guidance by sector, role, standard and area — matched to certified kit. Nationwide supplier; buy through the iNeedWorkwear shop.</p><p class="mono" style="margin-top:1rem;font-size:.85rem"><a href="tel:01597730142" style="color:#fff">01597 730142</a> &middot; <a href="mailto:hello@ineedworkwear.com" style="color:#C6D92E">hello@ineedworkwear.com</a></p></div>
 <div><h5>${esc(cl.topic)} cluster</h5><ul>${footCluster}</ul></div>
-<div><h5>Explore</h5><ul><li><a href="standards.html">By standard</a></li><li><a href="roles.html">By role</a></li><li><a href="sectors.html">By sector</a></li><li><a href="guides.html">All guides</a></li><li><a href="about.html">About</a></li><li><a href="contact.html">Contact</a></li></ul></div></div>
+<div><h5>Explore</h5><ul><li><a href="standards.html">By standard</a></li><li><a href="roles.html">By role</a></li><li><a href="sectors.html">By sector</a></li><li><a href="guides.html">All guides</a></li><li><a href="about.html">About</a></li><li><a href="contact.html">Contact</a></li><li><a href="privacy.html">Privacy</a></li></ul></div></div>
 <div class="legal"><span>&copy; ${(cl.date||'2026').slice(0,4)} iNeedWorkwear</span><span>${esc(cl.topic)} · ${esc(page.role)}</span></div></div></footer>
 </body></html>\n`;
 }
