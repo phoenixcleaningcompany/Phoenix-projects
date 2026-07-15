@@ -163,7 +163,12 @@
           "q": "What should plumbers wear in customers' homes?",
           "a": "Clean embroidered kit, overshoes or unlaced-friendly boots at the door, and dust sheets down — presentation is repeat-business economics in domestic trades. A spare dry top in the van keeps the standard up after wet jobs."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/plumber.webp",
+        "alt": "Plumber working on the waste trap under a kitchen sink",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-for-carpenters",
@@ -560,7 +565,12 @@
           "q": "Do roofers need special helmets?",
           "a": "Work at height favours chinstrap-retained climbing-style helmets (EN 12492) that stay on in a fall or gust, and many roofing contractors now specify them over traditional EN 397 lids. The site or employer's rules make the final call — check before buying."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/roofer.webp",
+        "alt": "Roofer in hi-vis and a safety harness beside a tiled roof ridge",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-for-painter-decorators",
@@ -689,7 +699,12 @@
           "q": "What gloves work with paint and solvents?",
           "a": "Nitrile — disposable for coatings work, heavier nitrile gauntlets for solvent-heavy tasks. White spirit and 2-pack products degrade latex quickly; check the product's safety data sheet where anything industrial is involved."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/painter-decorator-role.webp",
+        "alt": "Painter and decorator in whites on a ladder holding a roller and paint kettle",
+        "kind": "photo"
+      }
     }
   ]
 }

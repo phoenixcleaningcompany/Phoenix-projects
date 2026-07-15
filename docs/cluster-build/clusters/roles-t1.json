@@ -164,7 +164,12 @@
           "q": "What should I wear for a cold store shift?",
           "a": "Chill aisles: thermal base layer, lined trousers and insulated gloves over the standard kit. Freezer chambers (−18 °C and below) need a rated EN 342 coldstore suit, insulated CI-rated footwear and covered ears — that kit is normally employer-issued."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/warehouse-operative.webp",
+        "alt": "Two warehouse operatives in hi-vis vests and safety helmets picking from racking",
+        "kind": "photo"
+      }
     },
     {
       "slug": "ppe-for-electricians",
@@ -812,7 +817,12 @@
           "q": "Do mechanics need safety boots?",
           "a": "Yes — dropped tools, brake discs and trolley jack handles settle the argument. S1P covers workshop floors; step up to S3 if the job includes yards and recovery work in the weather. Metal-free composite caps suit anyone working around live electrics on EVs."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/mechanic.webp",
+        "alt": "Mechanic in blue coveralls and grip gloves working under a car on a lift",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-for-rail-trackside",
@@ -936,7 +946,12 @@
           "q": "Can you wear a fleece over rail hi-vis?",
           "a": "Not over it — covering the orange removes the certified visible area, and access controls will pick it up. Warm layers go underneath; if the outer layer is the warm layer, it must itself be certified orange rail-spec."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/rail-trackside.webp",
+        "alt": "Trackside worker in full orange hi-vis with helmet-mounted lamp standing beside the running line",
+        "kind": "photo"
+      }
     },
     {
       "slug": "chainsaw-forestry-kit",

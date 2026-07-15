@@ -694,7 +694,12 @@
           "q": "Do landscapers need hi-vis?",
           "a": "For roadside verges, kerbside work and anywhere plant operates, yes — Class 2 as the baseline and Class 3 alongside live carriageways. Grounds maintenance contracts put teams next to traffic far more than the job title suggests."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/landscaper.webp",
+        "alt": "Landscaper in leather gloves unrolling fresh turf onto prepared ground",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-for-kitchen-porters",
@@ -957,7 +962,12 @@
           "q": "Why can't nurses wear wristwatches?",
           "a": "Bare-below-the-elbow policies: forearms and wrists must be clear for effective handwashing and to avoid transfer between patients. The pin-on fob watch exists precisely to keep time-telling compliant."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/nurse.webp",
+        "alt": "Nurse in blue scrubs with a stethoscope talking to a patient on a ward",
+        "kind": "photo"
+      }
     }
   ]
 }

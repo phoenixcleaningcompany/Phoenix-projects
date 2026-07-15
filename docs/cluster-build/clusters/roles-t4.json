@@ -154,7 +154,12 @@
           "q": "Does workwear need to be harness-compatible?",
           "a": "Yes in practice: slim fitted layers that don't bunch under leg loops or chest straps, no loose hoods around the dorsal point, and shells worn per the firm's harness policy. The harness and fall-arrest kit itself is employer-issued and inspected equipment, separate from the workwear order."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/scaffolder.webp",
+        "alt": "Two scaffolders in harnesses and hi-vis fixing scaffold tube on a brick elevation",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-for-gas-engineers",
@@ -769,7 +774,12 @@
           "q": "Do window cleaners need hi-vis?",
           "a": "On domestic rounds, rarely. On forecourts, retail car parks, roadside frontages and commercial sites, Class 2 hi-vis is commonly required by the client or just plainly sensible — vehicles reverse at exactly the height of a kneeling window cleaner. Many rounds keep a vest in the van as standard."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/window-cleaner.webp",
+        "alt": "Window cleaner in a cap and tool belt washing first-floor windows",
+        "kind": "photo"
+      }
     }
   ]
 }

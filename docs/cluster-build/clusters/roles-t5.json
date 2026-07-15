@@ -449,7 +449,12 @@
           "q": "What mask do you need for sanding plaster?",
           "a": "FFP2 as the floor for hand sanding, FFP3 for machine and pole sanding where fine dust clouds form — and treat old backgrounds with respect, since pre-modern walls can hold surprises. Extraction-equipped sanders reduce the dose but rarely remove the mask requirement."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/plasterer.webp",
+        "alt": "Plasterer skimming a ceiling with a trowel and hawk",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-for-tilers",
@@ -549,7 +554,12 @@
           "q": "What gloves for tile adhesive and grout?",
           "a": "Nitrile-dipped gloves — cement-based adhesives and grouts are alkaline and drive dermatitis and burns with prolonged contact, exactly like cement. Swap to cut-resistant gloves (level B–C) when handling and snapping cut tile, whose edges are glass-sharp."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/tiler.webp",
+        "alt": "Tiler in bib-and-brace kneeling to lay large floor tiles",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-for-glaziers",
@@ -859,7 +869,12 @@
           "q": "Is lift engineering dangerous?",
           "a": "It's a managed-risk trade: moving machinery, height in shafts and electrical systems are all real, controlled by strict safe-working procedures (pit props, stop switches, car-top controls) that the industry trains hard. Workwear supports those procedures — fitted kit that can't snag, protection where hands and heads meet steel."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/lift-engineer.webp",
+        "alt": "Lift engineers in hi-vis working on a lift control panel behind safety barriers",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-for-machinists",
@@ -959,7 +974,12 @@
           "q": "Does cutting coolant damage skin?",
           "a": "Repeated contact with soluble oils drives industrial dermatitis — one of machining's commonest health problems. Nitrile gloves for coolant-wet handling, barrier cream and washing routines, and rotating workwear before it saturates are the controls; a coolant-stiff overall worn all week is the failure mode."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/machinist.webp",
+        "alt": "Machinist in safety glasses, helmet and knitted gloves setting up a lathe",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-for-dental-nurses",
@@ -1164,7 +1184,12 @@
           "q": "What shoes are best for physiotherapists?",
           "a": "Supportive trainers for gym and clinic days — the job involves standing, kneeling and demonstrating for hours — swapping to wipeable closed shoes for ward or hydro settings per policy. Comfort is clinical here: a limping physio teaches gait badly."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/physiotherapist.webp",
+        "alt": "Physiotherapist in a polo shirt treating a patient in a clinic",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-for-dog-groomers",
@@ -1574,7 +1599,12 @@
           "q": "Why do marshals wear brightly coloured gloves?",
           "a": "So hand signals read at distance — crane operators and reversing drivers follow the hands, and hi-vis or contrast gloves make the signals legible in poor light. It's a genuine piece of the communication system, alongside training and agreed signal codes."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/traffic-marshal.webp",
+        "alt": "Parking marshal in a yellow hi-vis vest standing between parked cars",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-for-paramedics",
@@ -1674,7 +1704,12 @@
           "q": "What should event medics wear?",
           "a": "Their employer's specified uniform — typically green two-piece or polo-based kit with responder hi-vis and personal boots — with authorisation governing any clinical titles displayed. Weather layering matters double at outdoor events: medical cover means standing by in whatever the sky does."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/paramedic.webp",
+        "alt": "Paramedic in a green uniform unloading kit from the back of an ambulance",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-for-surveyors-site-visitors",
@@ -1774,7 +1809,12 @@
           "q": "How do you dress for site visits and meetings in one day?",
           "a": "Smart technical trousers and a softshell that read office-appropriate but survive ladders and weather, with boots swapped at the car — the change-at-the-vehicle habit keeps client carpets clean and site mud contained. The five-item boot kit handles every gate in between."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/surveyor.webp",
+        "alt": "Surveyor in an orange hi-vis vest and white safety helmet inspecting a property with a tablet",
+        "kind": "photo"
+      }
     }
   ]
 }
