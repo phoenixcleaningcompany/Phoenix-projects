@@ -738,7 +738,12 @@
           "q": "Does PPE for young workers differ from adult PPE?",
           "a": "Same standards, different priority on fit: young and smaller-framed workers need the small end of glove, boot and garment ranges ordered deliberately — oversized PPE degrades protection. Pair it with induction that explains each item's purpose; understanding is what keeps kit worn unsupervised."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/young-worker.webp",
+        "alt": "Two young workers in hi-vis vests, safety helmets and gloves on a refurbishment site",
+        "kind": "photo"
+      }
     },
     {
       "slug": "uniform-deductions-from-wages",

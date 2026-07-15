@@ -134,7 +134,12 @@
           "q": "What do butchers wear in the cold room?",
           "a": "Thermal base layers under their whites for chill-temperature cutting rooms, with insulated jackets (EN 342-rated for freezer work) for walk-in time. Cold hands lose knife control, so thin thermal liners compatible with hygiene gloves matter more than bulk."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/butcher.webp",
+        "alt": "Butcher in an apron and cap breaking down meat at a cutting table",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-for-bakers",
@@ -234,7 +239,12 @@
           "q": "Why do bakers wear white?",
           "a": "The same hygiene logic as chefs — soil shows, hot washes and bleaching keep it audit-clean — in lighter fabric weights because bakeries run hot. The full reasoning lives in our 'why chefs wear white' explainer; bakeries add flour to the argument."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/baker.webp",
+        "alt": "Baker in whites and a hat shaping dough beside bakery racks",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-for-hgv-drivers",
@@ -334,7 +344,12 @@
           "q": "What extra kit do tanker drivers need?",
           "a": "Whatever the terminals specify — typically FR coveralls with antistatic (EN 1149-5) performance, chemical-appropriate gloves, and the site's helmet and eyewear rules for loading racks. ADR and site inductions define it; the kit rides in the cab as a condition of the work."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/hgv-driver.webp",
+        "alt": "Lorry driver in a hi-vis vest sitting in the cab of an HGV",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-for-plasterers",
@@ -634,7 +649,12 @@
           "q": "Do glaziers need safety boots?",
           "a": "Emphatically — a dropped sealed unit or sheet concentrates a lot of weight into a falling edge, and feet are where it lands. S3 boots (toe cap plus midsole) are the trade's standard, with the midsole earning its keep on renovation sites full of old glass and fixings."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/glazier.webp",
+        "alt": "Glazier in a bib apron and protective gauntlets handling a sheet of wired glass",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-for-hvac-engineers",
@@ -734,7 +754,12 @@
           "q": "What do HVAC engineers wear day to day?",
           "a": "Stretch trousers with knee-pad inserts (voids and crawl spaces are the office), embroidered polos or softshells presentable enough for client premises, S1P/S3 footwear per site, a bump cap where services run at head height, and hot/cold task PPE in the van for the day's extremes."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/hvac-engineer.webp",
+        "alt": "HVAC engineer in hi-vis trousers and safety helmet servicing a rooftop air-conditioning unit",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-for-lift-engineers",
@@ -1034,7 +1059,12 @@
           "q": "Can dental scrubs be washed at home?",
           "a": "Commonly yes, under the practice's policy: separate load, 60 °C where the garment allows, dried promptly — the same home-laundering rules as other clinical uniforms. Buy scrubs rated for the temperature so the policy is actually washable."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/dental-nurse.webp",
+        "alt": "Dental nurse in scrubs, mask and gloves treating a patient",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-for-physiotherapists",
@@ -1234,7 +1264,12 @@
           "q": "Do dog groomers need bite protection?",
           "a": "Technique, animal-reading and muzzles are the real controls, but bite-aware kit habits help: no dangling fabric or lanyards at dog height, sleeves that provide a layer, and gauntlets on hand for known-difficult dogs and cats. Most groomers use them rarely — and are glad they're there."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/dog-groomer.webp",
+        "alt": "Dog groomer trimming a small dog on a grooming table",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-for-shopfitters",
@@ -1434,7 +1469,12 @@
           "q": "What's the difference between arborist and forestry kit?",
           "a": "Arboriculture adds the climbing dimension: Type C trousers, climb-capable chainsaw boots, harness-compatible athletic layers and inspected climbing equipment. Ground-based forestry runs Type A trousers and the standard felling kit. The chainsaw standards and the one-contact retirement rule are shared."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/arborist.webp",
+        "alt": "Arborist in a climbing harness and chainsaw trousers working at height in a tree",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-for-traffic-marshals",

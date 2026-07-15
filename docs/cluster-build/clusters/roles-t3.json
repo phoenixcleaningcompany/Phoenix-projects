@@ -6,9 +6,34 @@
     "shopUrl": "https://www.ineedworkwear.com",
     "baseUrl": "https://www.ineedworkwear.uk",
     "date": "2026-07-09",
-    "externalHub": { "slug": "roles", "navLabel": "Roles hub", "title": "Workwear by role", "cardTitle": "Workwear by role" },
-    "trust": ["Head-to-toe kit lists", "Standards named per item", "Certified stock to match", "Embroidery & trade accounts"],
-    "cta": { "h2": "Trade kit, sorted.", "p": "Everything on the list is stocked and embroiderable — one order, one account.", "actions": [ {"label":"Browse the kit directory","href":"kit.html","style":"white"}, {"label":"Contact us","href":"contact.html","style":"dark"} ] }
+    "externalHub": {
+      "slug": "roles",
+      "navLabel": "Roles hub",
+      "title": "Workwear by role",
+      "cardTitle": "Workwear by role"
+    },
+    "trust": [
+      "Head-to-toe kit lists",
+      "Standards named per item",
+      "Certified stock to match",
+      "Embroidery & trade accounts"
+    ],
+    "cta": {
+      "h2": "Trade kit, sorted.",
+      "p": "Everything on the list is stocked and embroiderable — one order, one account.",
+      "actions": [
+        {
+          "label": "Browse the kit directory",
+          "href": "kit.html",
+          "style": "white"
+        },
+        {
+          "label": "Contact us",
+          "href": "contact.html",
+          "style": "dark"
+        }
+      ]
+    }
   },
   "pages": [
     {
@@ -24,35 +49,120 @@
       "metaTitle": "Plumber Workwear: The Kit List | iNeedWorkwear",
       "metaDesc": "Kit for plumbers — EN 14404 knee protection first, quick-dry layers for wet work, holster trousers for fittings, and the presentable kit that customer houses demand.",
       "lede": "Plumbing has three occupational constants: your knees are on hard floors half the day, water finds you eventually, and much of the work happens in a customer's home where you are the company's entire impression. The kit list answers all three.",
-      "heroMeta": [ {"n":"Knees","l":"The career-length item"}, {"n":"Quick-dry","l":"Water always wins once"}, {"n":"Doorstep","l":"You are the brand"} ],
-      "schema": { "type": "Article" },
-      "blocks": [
-        { "type":"table", "klabel":"The list", "h2":"Head to toe",
-          "head":["Item","Spec","Why"],
-          "rows":[
-            ["Trousers","Holster type, <span class='code'>EN 14404 knee pockets</span>, pads in","Fittings to hand, knees protected — the trade's two constants"],
-            ["Polo or tee ×3","Quick-dry, embroidered, dark","Wet sleeves dry on the drive to the next job"],
-            ["Softshell or hoodie","Smart enough for the doorstep","Vans and lofts run cold; customer hallways don't forgive scruffy"],
-            ["Footwear","<span class='code'>S1P or S3</span>, easy on/off a plus","Toe cap for rads and baths; some homes mean overshoes or laces off"],
-            ["Gloves","Thin coated grip + nitrile disposables","Dexterity on fittings; disposables for waste-side work"],
-            ["Knee pads","In-trouser inserts, spares in the van","The item every 50-year-old plumber wishes they'd worn at 25"],
-            ["Overshoes / dust sheets","In the van, always","Customer-house manners are repeat-business economics"]
-          ] },
-        { "type":"prose", "narrow":true, "klabel":"The specifics", "h2":"Wet work and waste work are different problems",
-          "html":"<p><strong>Clean-side wet</strong> — a pressurised joint letting go, a full trap — is a comfort problem: quick-dry synthetics and a spare top in the van solve what cotton would turn into a cold afternoon. <strong>Waste-side work</strong> is a hygiene problem: disposable nitrile over-gloves, sleeves that push clear, and a wash-up kit in the van are the professional baseline, and anything soaked on a waste job gets bagged for the wash, not worn to the next customer's kitchen.</p><p>The knee story is the one to take seriously: plumbing is a lifetime of kneeling on tile, and <a href='work-trousers-guide.html'>EN 14404 trousers with pads actually fitted</a> — plus a kneeling mat for long jobs — is the cheapest pension contribution in the trade. Gas-registered work adds its own FR-adjacent rules near heat; the <a href='en-407-heat-gloves-explained.html'>heat glove guide</a> covers soldering-adjacent hands.</p>" },
-        { "type":"keyfacts", "variant":"dark", "klabel":"Details", "h2":"Three van-tested details",
-          "items":[
-            {"n":"Spare dry top","l":"The soaked-shirt job always precedes the customer meeting"},
-            {"n":"Bagged wet kit","l":"Waste-side clothing travels sealed, washes hot, separately"},
-            {"n":"Embroidered polo","l":"A named, branded chest is worth a review star on its own"}
-          ] },
-        { "type":"clusternav" },
-        { "type":"faq", "klabel":"Questions", "h2":"Plumber kit FAQ" }
+      "heroMeta": [
+        {
+          "n": "Knees",
+          "l": "The career-length item"
+        },
+        {
+          "n": "Quick-dry",
+          "l": "Water always wins once"
+        },
+        {
+          "n": "Doorstep",
+          "l": "You are the brand"
+        }
       ],
-      "faq":[
-        {"q":"What trousers do plumbers wear?","a":"Holster-pocket work trousers with EN 14404 knee-pad pockets — fittings and fixings ride in the holsters, and the pads handle a trade that kneels on tile half the day. Stretch fabrics help in tight cupboard work."},
-        {"q":"Do plumbers need safety boots?","a":"A toe cap earns its place — radiators, baths and boilers are exactly the dropped-heavy-object risk S-codes exist for. S1P covers indoor domestic work; S3 suits first-fix sites and anything outdoors."},
-        {"q":"What should plumbers wear in customers' homes?","a":"Clean embroidered kit, overshoes or unlaced-friendly boots at the door, and dust sheets down — presentation is repeat-business economics in domestic trades. A spare dry top in the van keeps the standard up after wet jobs."}
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "table",
+          "klabel": "The list",
+          "h2": "Head to toe",
+          "head": [
+            "Item",
+            "Spec",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Trousers",
+              "Holster type, <span class='code'>EN 14404 knee pockets</span>, pads in",
+              "Fittings to hand, knees protected — the trade's two constants"
+            ],
+            [
+              "Polo or tee ×3",
+              "Quick-dry, embroidered, dark",
+              "Wet sleeves dry on the drive to the next job"
+            ],
+            [
+              "Softshell or hoodie",
+              "Smart enough for the doorstep",
+              "Vans and lofts run cold; customer hallways don't forgive scruffy"
+            ],
+            [
+              "Footwear",
+              "<span class='code'>S1P or S3</span>, easy on/off a plus",
+              "Toe cap for rads and baths; some homes mean overshoes or laces off"
+            ],
+            [
+              "Gloves",
+              "Thin coated grip + nitrile disposables",
+              "Dexterity on fittings; disposables for waste-side work"
+            ],
+            [
+              "Knee pads",
+              "In-trouser inserts, spares in the van",
+              "The item every 50-year-old plumber wishes they'd worn at 25"
+            ],
+            [
+              "Overshoes / dust sheets",
+              "In the van, always",
+              "Customer-house manners are repeat-business economics"
+            ]
+          ]
+        },
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The specifics",
+          "h2": "Wet work and waste work are different problems",
+          "html": "<p><strong>Clean-side wet</strong> — a pressurised joint letting go, a full trap — is a comfort problem: quick-dry synthetics and a spare top in the van solve what cotton would turn into a cold afternoon. <strong>Waste-side work</strong> is a hygiene problem: disposable nitrile over-gloves, sleeves that push clear, and a wash-up kit in the van are the professional baseline, and anything soaked on a waste job gets bagged for the wash, not worn to the next customer's kitchen.</p><p>The knee story is the one to take seriously: plumbing is a lifetime of kneeling on tile, and <a href='work-trousers-guide.html'>EN 14404 trousers with pads actually fitted</a> — plus a kneeling mat for long jobs — is the cheapest pension contribution in the trade. Gas-registered work adds its own FR-adjacent rules near heat; the <a href='en-407-heat-gloves-explained.html'>heat glove guide</a> covers soldering-adjacent hands.</p>"
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Details",
+          "h2": "Three van-tested details",
+          "items": [
+            {
+              "n": "Spare dry top",
+              "l": "The soaked-shirt job always precedes the customer meeting"
+            },
+            {
+              "n": "Bagged wet kit",
+              "l": "Waste-side clothing travels sealed, washes hot, separately"
+            },
+            {
+              "n": "Embroidered polo",
+              "l": "A named, branded chest is worth a review star on its own"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Plumber kit FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What trousers do plumbers wear?",
+          "a": "Holster-pocket work trousers with EN 14404 knee-pad pockets — fittings and fixings ride in the holsters, and the pads handle a trade that kneels on tile half the day. Stretch fabrics help in tight cupboard work."
+        },
+        {
+          "q": "Do plumbers need safety boots?",
+          "a": "A toe cap earns its place — radiators, baths and boilers are exactly the dropped-heavy-object risk S-codes exist for. S1P covers indoor domestic work; S3 suits first-fix sites and anything outdoors."
+        },
+        {
+          "q": "What should plumbers wear in customers' homes?",
+          "a": "Clean embroidered kit, overshoes or unlaced-friendly boots at the door, and dust sheets down — presentation is repeat-business economics in domestic trades. A spare dry top in the van keeps the standard up after wet jobs."
+        }
       ]
     },
     {
@@ -68,36 +178,126 @@
       "metaTitle": "Carpenter & Joiner Workwear: The Kit List | iNeedWorkwear",
       "metaDesc": "Kit for carpenters and joiners — holster trousers, dexterity-first gloves that stay on, FFP-rated dust protection (FFP3 for hardwood), eye and ear kit for machine days.",
       "lede": "Carpentry kit is a dexterity negotiation: the trade needs fingertips free enough for a pencil line and protected enough for a splinter-rich, blade-adjacent day — while the dust the work makes is more dangerous than most of the tools making it.",
-      "heroMeta": [ {"n":"FFP3","l":"Hardwood dust is not a nuisance dust"}, {"n":"Dexterity","l":"The glove negotiation"}, {"n":"Holsters","l":"Fixings at hand height"} ],
-      "schema": { "type": "Article" },
-      "blocks": [
-        { "type":"table", "klabel":"The list", "h2":"Head to toe",
-          "head":["Item","Spec","Why"],
-          "rows":[
-            ["Trousers","Holster pockets, <span class='code'>EN 14404</span> knee option","Screws and fixings by the hundred; second-fix means floors"],
-            ["Tee or polo ×3","Wicking, close-fitting sleeves","Loose cuffs and spinning blades share no room"],
-            ["Gloves","Thin coated, <span class='code'>abrasion 3</span>, cut B–C for board work","Thin enough to keep on — the whole game"],
-            ["Dust mask","<span class='code'>FFP2</span> softwood · <span class='code'>FFP3</span> hardwood & MDF","The trade's real long-term hazard"],
-            ["Eye protection","<span class='code'>EN 166 F, K+N coated</span>","Chips fly at eye height all day"],
-            ["Ear defenders","Machine and nail-gun days","Saws deliver a hearing-loss dose politely"],
-            ["Footwear","<span class='code'>S1P</span> workshop · <span class='code'>S3</span> site","The midsole is for your own dropped fixings"]
-          ] },
-        { "type":"prose", "narrow":true, "klabel":"The dust truth", "h2":"The sander is more dangerous than the saw",
-          "html":"<p>Cuts announce themselves; dust doesn't. <strong>Hardwood dust is a recognised carcinogen and MDF dust carries its binder resins</strong> — which is why the mask rule for carpentry isn't the nuisance-dust FFP1 in the multipack but <a href='en-149-ffp-ratings-explained.html'>FFP2 for softwood work and FFP3 for hardwood and MDF</a>, worn fitted, with extraction doing the heavy lifting on machines. A bearded joiner needs the fit conversation, not a better disposable.</p><p>The glove negotiation resolves the same way as the <a href='work-gloves-guide.html'>gloves hub</a> argues: <strong>a thin coated glove that stays on beats a tough one in a pocket</strong> — cut level B–C for sheet-material days, bare-handed only where a specific machine's rules demand it. And the workshop discipline travels with the kit: close cuffs, no drawstrings, <a href='hoodie-vs-sweatshirt.html'>crew-neck over hoodie</a> near anything that spins.</p>" },
-        { "type":"keyfacts", "variant":"dark", "klabel":"Details", "h2":"Three bench-tested details",
-          "items":[
-            {"n":"K+N specs","l":"Scratched, fogged glasses end up in pockets — coatings keep them on faces"},
-            {"n":"Mask per material","l":"Keep FFP2s and FFP3s both in the van, labelled — grade to the board"},
-            {"n":"Site vs bench boots","l":"S1P lives in the workshop; S3 goes to first fix — two pairs beat one compromise"}
-          ] },
-        { "type":"clusternav" },
-        { "type":"faq", "klabel":"Questions", "h2":"Carpenter kit FAQ" }
+      "heroMeta": [
+        {
+          "n": "FFP3",
+          "l": "Hardwood dust is not a nuisance dust"
+        },
+        {
+          "n": "Dexterity",
+          "l": "The glove negotiation"
+        },
+        {
+          "n": "Holsters",
+          "l": "Fixings at hand height"
+        }
       ],
-      "faq":[
-        {"q":"What mask do carpenters need for MDF?","a":"FFP3 — MDF dust combines fine hardwood-like particles with binder resins, putting it in the top disposable grade alongside hardwood dust. Softwood hand-tool work sits at FFP2. Extraction at the machine remains the primary control; the mask is the backstop."},
-        {"q":"Should carpenters wear gloves?","a":"For handling, carrying and sheet work, yes — thin coated gloves at cut level B–C keep splinters and board edges out without killing feel. At specific rotating machinery, follow the machine's rules; some operations are safer bare-handed than with a snaggable glove."},
-        {"q":"What trousers do joiners wear?","a":"Holster-pocket work trousers are the trade favourite — fixings and small tools at hand height — with EN 14404 knee-pad pockets earning their place for second fix and flooring work. Stretch fabric helps the up-down rhythm of the job."}
-      ]
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "table",
+          "klabel": "The list",
+          "h2": "Head to toe",
+          "head": [
+            "Item",
+            "Spec",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Trousers",
+              "Holster pockets, <span class='code'>EN 14404</span> knee option",
+              "Screws and fixings by the hundred; second-fix means floors"
+            ],
+            [
+              "Tee or polo ×3",
+              "Wicking, close-fitting sleeves",
+              "Loose cuffs and spinning blades share no room"
+            ],
+            [
+              "Gloves",
+              "Thin coated, <span class='code'>abrasion 3</span>, cut B–C for board work",
+              "Thin enough to keep on — the whole game"
+            ],
+            [
+              "Dust mask",
+              "<span class='code'>FFP2</span> softwood · <span class='code'>FFP3</span> hardwood & MDF",
+              "The trade's real long-term hazard"
+            ],
+            [
+              "Eye protection",
+              "<span class='code'>EN 166 F, K+N coated</span>",
+              "Chips fly at eye height all day"
+            ],
+            [
+              "Ear defenders",
+              "Machine and nail-gun days",
+              "Saws deliver a hearing-loss dose politely"
+            ],
+            [
+              "Footwear",
+              "<span class='code'>S1P</span> workshop · <span class='code'>S3</span> site",
+              "The midsole is for your own dropped fixings"
+            ]
+          ]
+        },
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The dust truth",
+          "h2": "The sander is more dangerous than the saw",
+          "html": "<p>Cuts announce themselves; dust doesn't. <strong>Hardwood dust is a recognised carcinogen and MDF dust carries its binder resins</strong> — which is why the mask rule for carpentry isn't the nuisance-dust FFP1 in the multipack but <a href='en-149-ffp-ratings-explained.html'>FFP2 for softwood work and FFP3 for hardwood and MDF</a>, worn fitted, with extraction doing the heavy lifting on machines. A bearded joiner needs the fit conversation, not a better disposable.</p><p>The glove negotiation resolves the same way as the <a href='work-gloves-guide.html'>gloves hub</a> argues: <strong>a thin coated glove that stays on beats a tough one in a pocket</strong> — cut level B–C for sheet-material days, bare-handed only where a specific machine's rules demand it. And the workshop discipline travels with the kit: close cuffs, no drawstrings, <a href='hoodie-vs-sweatshirt.html'>crew-neck over hoodie</a> near anything that spins.</p>"
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Details",
+          "h2": "Three bench-tested details",
+          "items": [
+            {
+              "n": "K+N specs",
+              "l": "Scratched, fogged glasses end up in pockets — coatings keep them on faces"
+            },
+            {
+              "n": "Mask per material",
+              "l": "Keep FFP2s and FFP3s both in the van, labelled — grade to the board"
+            },
+            {
+              "n": "Site vs bench boots",
+              "l": "S1P lives in the workshop; S3 goes to first fix — two pairs beat one compromise"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Carpenter kit FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What mask do carpenters need for MDF?",
+          "a": "FFP3 — MDF dust combines fine hardwood-like particles with binder resins, putting it in the top disposable grade alongside hardwood dust. Softwood hand-tool work sits at FFP2. Extraction at the machine remains the primary control; the mask is the backstop."
+        },
+        {
+          "q": "Should carpenters wear gloves?",
+          "a": "For handling, carrying and sheet work, yes — thin coated gloves at cut level B–C keep splinters and board edges out without killing feel. At specific rotating machinery, follow the machine's rules; some operations are safer bare-handed than with a snaggable glove."
+        },
+        {
+          "q": "What trousers do joiners wear?",
+          "a": "Holster-pocket work trousers are the trade favourite — fixings and small tools at hand height — with EN 14404 knee-pad pockets earning their place for second fix and flooring work. Stretch fabric helps the up-down rhythm of the job."
+        }
+      ],
+      "heroImage": {
+        "src": "assets/heroes/carpenter.webp",
+        "alt": "Carpenter in a hi-vis vest and tool belt marking a timber cut with a square",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-for-bricklayers",
@@ -112,36 +312,126 @@
       "metaTitle": "Bricklayer Workwear: The Kit List | iNeedWorkwear",
       "metaDesc": "Kit for bricklayers — abrasion-4 gloves against block texture, cement-burn awareness, knee protection for kerb and DPC courses, and layers for the most exposed trade on site.",
       "lede": "Brickwork grinds kit down like no other trade: block texture eats gloves, mortar eats skin, and the scaffold is the most weather-exposed workplace on site. The list below is chosen for attrition.",
-      "heroMeta": [ {"n":"Abrasion 4","l":"Block texture sets the glove spec"}, {"n":"pH 12+","l":"Wet cement is caustic"}, {"n":"Exposed","l":"The scaffold has no roof"} ],
-      "schema": { "type": "Article" },
-      "blocks": [
-        { "type":"table", "klabel":"The list", "h2":"Head to toe",
-          "head":["Item","Spec","Why"],
-          "rows":[
-            ["Gloves","Coated, <span class='code'>EN 388 abrasion 4</span>, boxed","Block texture strips level-3 gloves in days"],
-            ["Trousers","Heavy or ripstop, <span class='code'>EN 14404</span> knees","DPC and kerb courses are knee-height work"],
-            ["Tee + sweat + hi-vis","Layered per the <a href='construction-workwear-guide.html'>site system</a>","Scaffold weather changes by the hour"],
-            ["Waterproofs","<span class='code'>EN 343</span> jacket, bib trousers for the worst","Rain stops brickwork late — you'll be out in plenty"],
-            ["Boots","<span class='code'>S3</span>, scuff cap worth having","Blocks land where they land; toe scuffing is constant"],
-            ["Eye protection","<span class='code'>EN 166 F</span> for cutting & chasing","Disc-cut brick throws hot grit"],
-            ["FFP3 mask","Any dry cutting","Brick and block dust is silica dust"]
-          ] },
-        { "type":"prose", "narrow":true, "klabel":"The quiet hazard", "h2":"Cement burns don't hurt until they're deep",
-          "html":"<p>Wet mortar is <strong>strongly alkaline</strong>, and its burns are insidious: prolonged skin contact — mortar in a glove, kneeling in fresh muck, a boot full of it — causes chemical burns that don't sting until the damage is done. The kit answers: <strong>gloves that keep mortar out</strong> (gauntlet cuffs for mixing), <strong>waterproof knee protection</strong> on fresh-mortar work rather than trousers soaking through, rinsing splashes off skin promptly, and never finishing a day in mortar-soaked clothing. It's the trade's version of the <a href='groundworker-kit-list.html'>wet-concrete rule</a>.</p><p>The other constant is <strong>silica</strong>: dry-cutting brick, block and stone is FFP3-and-extraction territory, no exceptions — the <a href='en-149-ffp-ratings-explained.html'>FFP guide</a> carries the warning in full.</p>" },
-        { "type":"keyfacts", "variant":"dark", "klabel":"Details", "h2":"Three scaffold-tested details",
-          "items":[
-            {"n":"Gloves by the box","l":"Abrasion-4 coated gloves are consumables on blockwork — budget accordingly"},
-            {"n":"Barrier cream","l":"Cement dermatitis ends careers; the cream-and-wash routine is protective kit"},
-            {"n":"Dry pair at lunch","l":"Gloves soaked in mortar are a chemical compress — swap them"}
-          ] },
-        { "type":"clusternav" },
-        { "type":"faq", "klabel":"Questions", "h2":"Bricklayer kit FAQ" }
+      "heroMeta": [
+        {
+          "n": "Abrasion 4",
+          "l": "Block texture sets the glove spec"
+        },
+        {
+          "n": "pH 12+",
+          "l": "Wet cement is caustic"
+        },
+        {
+          "n": "Exposed",
+          "l": "The scaffold has no roof"
+        }
       ],
-      "faq":[
-        {"q":"What gloves do bricklayers need?","a":"Coated gloves at EN 388 abrasion level 4, bought boxed — block and brick texture destroys lighter gloves in days. For mixing and heavy mortar contact, gauntlet-cuff styles keep the caustic material off wrists and out of the glove."},
-        {"q":"Can wet cement burn your skin?","a":"Yes — mortar and concrete are strongly alkaline, and prolonged contact causes chemical burns that develop painlessly. Keep mortar out of gloves and boots, rinse splashes promptly, use waterproof knee protection on fresh work, and never work on in soaked clothing."},
-        {"q":"Do bricklayers need a dust mask?","a":"For any dry cutting or chasing of brick, block or stone — yes, FFP3, because masonry dust is respirable crystalline silica. Wet cutting and on-tool extraction are the primary controls; the mask backs them up."}
-      ]
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "table",
+          "klabel": "The list",
+          "h2": "Head to toe",
+          "head": [
+            "Item",
+            "Spec",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Gloves",
+              "Coated, <span class='code'>EN 388 abrasion 4</span>, boxed",
+              "Block texture strips level-3 gloves in days"
+            ],
+            [
+              "Trousers",
+              "Heavy or ripstop, <span class='code'>EN 14404</span> knees",
+              "DPC and kerb courses are knee-height work"
+            ],
+            [
+              "Tee + sweat + hi-vis",
+              "Layered per the <a href='construction-workwear-guide.html'>site system</a>",
+              "Scaffold weather changes by the hour"
+            ],
+            [
+              "Waterproofs",
+              "<span class='code'>EN 343</span> jacket, bib trousers for the worst",
+              "Rain stops brickwork late — you'll be out in plenty"
+            ],
+            [
+              "Boots",
+              "<span class='code'>S3</span>, scuff cap worth having",
+              "Blocks land where they land; toe scuffing is constant"
+            ],
+            [
+              "Eye protection",
+              "<span class='code'>EN 166 F</span> for cutting & chasing",
+              "Disc-cut brick throws hot grit"
+            ],
+            [
+              "FFP3 mask",
+              "Any dry cutting",
+              "Brick and block dust is silica dust"
+            ]
+          ]
+        },
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The quiet hazard",
+          "h2": "Cement burns don't hurt until they're deep",
+          "html": "<p>Wet mortar is <strong>strongly alkaline</strong>, and its burns are insidious: prolonged skin contact — mortar in a glove, kneeling in fresh muck, a boot full of it — causes chemical burns that don't sting until the damage is done. The kit answers: <strong>gloves that keep mortar out</strong> (gauntlet cuffs for mixing), <strong>waterproof knee protection</strong> on fresh-mortar work rather than trousers soaking through, rinsing splashes off skin promptly, and never finishing a day in mortar-soaked clothing. It's the trade's version of the <a href='groundworker-kit-list.html'>wet-concrete rule</a>.</p><p>The other constant is <strong>silica</strong>: dry-cutting brick, block and stone is FFP3-and-extraction territory, no exceptions — the <a href='en-149-ffp-ratings-explained.html'>FFP guide</a> carries the warning in full.</p>"
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Details",
+          "h2": "Three scaffold-tested details",
+          "items": [
+            {
+              "n": "Gloves by the box",
+              "l": "Abrasion-4 coated gloves are consumables on blockwork — budget accordingly"
+            },
+            {
+              "n": "Barrier cream",
+              "l": "Cement dermatitis ends careers; the cream-and-wash routine is protective kit"
+            },
+            {
+              "n": "Dry pair at lunch",
+              "l": "Gloves soaked in mortar are a chemical compress — swap them"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Bricklayer kit FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What gloves do bricklayers need?",
+          "a": "Coated gloves at EN 388 abrasion level 4, bought boxed — block and brick texture destroys lighter gloves in days. For mixing and heavy mortar contact, gauntlet-cuff styles keep the caustic material off wrists and out of the glove."
+        },
+        {
+          "q": "Can wet cement burn your skin?",
+          "a": "Yes — mortar and concrete are strongly alkaline, and prolonged contact causes chemical burns that develop painlessly. Keep mortar out of gloves and boots, rinse splashes promptly, use waterproof knee protection on fresh work, and never work on in soaked clothing."
+        },
+        {
+          "q": "Do bricklayers need a dust mask?",
+          "a": "For any dry cutting or chasing of brick, block or stone — yes, FFP3, because masonry dust is respirable crystalline silica. Wet cutting and on-tool extraction are the primary controls; the mask backs them up."
+        }
+      ],
+      "heroImage": {
+        "src": "assets/heroes/bricklayer.webp",
+        "alt": "Bricklayer in gloves and a safety helmet laying bricks with a trowel and level",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-for-roofers",
@@ -156,35 +446,120 @@
       "metaTitle": "Roofer Workwear: The Kit List | iNeedWorkwear",
       "metaDesc": "Kit for roofers — sole grip as the primary spec, wind-first layering for exposed work, knee protection on tile, hot-works kit for torch-on, and what harness work does to clothing choices.",
       "lede": "A roof squares every outdoor-kit problem: more wind than anywhere on site, nowhere to shelter, kneeling as a working position, and the consequences of a slip measured in storeys. Kit choices up there are safety choices wearing comfort's clothes.",
-      "heroMeta": [ {"n":"Grip","l":"The spec that outranks all others"}, {"n":"Wind","l":"Doubles the effective cold"}, {"n":"Harness-aware","l":"Clothing works around the kit"} ],
-      "schema": { "type": "Article" },
-      "blocks": [
-        { "type":"table", "klabel":"The list", "h2":"Head to toe",
-          "head":["Item","Spec","Why"],
-          "rows":[
-            ["Footwear","<span class='code'>S3</span>, aggressive <span class='code'>SR</span> sole, flexible forefoot","Grip on wet tile and crawl boards is the primary PPE up here"],
-            ["Trousers","Stretch ripstop, <span class='code'>EN 14404</span> knees","Tile work is knee work; stiff fabric fights the ladder"],
-            ["Layers","Wicking base + windproof softshell + <span class='code'>EN 343</span> shell","Roof wind makes 8 °C feel like 2 — windproofing first"],
-            ["Hi-vis","Per site — vest or <span class='code'>Class 3</span> jacket","Scaffold and street interface below"],
-            ["Helmet","Chinstrap-retained style favoured at height","An EN 397 lid that blows off protects nobody — <a href='en-397-helmets-explained.html'>the helmet guide</a>"],
-            ["Gloves","Grippy coated; <span class='code'>EN 407</span> pair for torch-on","Handling tile and lead vs handling flame are two pairs"],
-            ["Harness kit","Employer-provided, worn over clothing","Clothing stays trim so the harness sits right"]
-          ] },
-        { "type":"prose", "narrow":true, "klabel":"The specifics", "h2":"Wind first, and dress for the harness",
-          "html":"<p>Ground-level layering logic underestimates roofs: <strong>wind is the multiplier</strong>, stripping heat through fleece that would be fine in the yard. The roof answer is windproofing early — softshell over base layer — with the <a href='en-343-waterproofs-explained.html'>waterproof shell</a> for actual rain, because roof work in real rain usually stops for the same reason the tiles are slippery.</p><p><strong>Harness compatibility</strong> quietly shapes the wardrobe: bulky insulated jackets bunch under straps and hide the fit check, so roofers run <strong>trim layers under the harness</strong> and put warmth in the base and mid layers instead. <strong>Torch-on and hot works</strong> add the flame layer: an <a href='en-407-heat-gloves-explained.html'>EN 407-rated glove</a>, natural-fibre or FR outer near the torch, and the melt-layer rule from the <a href='fr-workwear-guide.html'>FR hub</a> applying to whatever's underneath.</p>" },
-        { "type":"keyfacts", "variant":"dark", "klabel":"Details", "h2":"Three ridge-tested details",
-          "items":[
-            {"n":"Sole checks","l":"Worn tread on a roof is a different order of problem — inspect like PPE, because it is"},
-            {"n":"Nothing flapping","l":"Wind turns loose kit into sails and blindfolds — trim fits at height"},
-            {"n":"Sun kit","l":"Roofers burn in April — neck flaps and SPF are summer PPE up there"}
-          ] },
-        { "type":"clusternav" },
-        { "type":"faq", "klabel":"Questions", "h2":"Roofer kit FAQ" }
+      "heroMeta": [
+        {
+          "n": "Grip",
+          "l": "The spec that outranks all others"
+        },
+        {
+          "n": "Wind",
+          "l": "Doubles the effective cold"
+        },
+        {
+          "n": "Harness-aware",
+          "l": "Clothing works around the kit"
+        }
       ],
-      "faq":[
-        {"q":"What boots are best for roofing?","a":"S3 boots with an aggressive slip-rated sole and a flexible forefoot — grip on wet tile, membrane and crawl boards is the primary spec, and a stiff sole fights the footwork. Tread condition gets inspected like the safety equipment it is."},
-        {"q":"What do roofers wear in winter?","a":"Windproofing before insulation: wicking base layer, windproof softshell, and a waterproof shell for real weather — roof wind doubles the effective cold, and bulky coats fight the harness. Warm gloves that still grip, and a helmet-compatible beanie, finish it."},
-        {"q":"Do roofers need special helmets?","a":"Work at height favours chinstrap-retained climbing-style helmets (EN 12492) that stay on in a fall or gust, and many roofing contractors now specify them over traditional EN 397 lids. The site or employer's rules make the final call — check before buying."}
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "table",
+          "klabel": "The list",
+          "h2": "Head to toe",
+          "head": [
+            "Item",
+            "Spec",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Footwear",
+              "<span class='code'>S3</span>, aggressive <span class='code'>SR</span> sole, flexible forefoot",
+              "Grip on wet tile and crawl boards is the primary PPE up here"
+            ],
+            [
+              "Trousers",
+              "Stretch ripstop, <span class='code'>EN 14404</span> knees",
+              "Tile work is knee work; stiff fabric fights the ladder"
+            ],
+            [
+              "Layers",
+              "Wicking base + windproof softshell + <span class='code'>EN 343</span> shell",
+              "Roof wind makes 8 °C feel like 2 — windproofing first"
+            ],
+            [
+              "Hi-vis",
+              "Per site — vest or <span class='code'>Class 3</span> jacket",
+              "Scaffold and street interface below"
+            ],
+            [
+              "Helmet",
+              "Chinstrap-retained style favoured at height",
+              "An EN 397 lid that blows off protects nobody — <a href='en-397-helmets-explained.html'>the helmet guide</a>"
+            ],
+            [
+              "Gloves",
+              "Grippy coated; <span class='code'>EN 407</span> pair for torch-on",
+              "Handling tile and lead vs handling flame are two pairs"
+            ],
+            [
+              "Harness kit",
+              "Employer-provided, worn over clothing",
+              "Clothing stays trim so the harness sits right"
+            ]
+          ]
+        },
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The specifics",
+          "h2": "Wind first, and dress for the harness",
+          "html": "<p>Ground-level layering logic underestimates roofs: <strong>wind is the multiplier</strong>, stripping heat through fleece that would be fine in the yard. The roof answer is windproofing early — softshell over base layer — with the <a href='en-343-waterproofs-explained.html'>waterproof shell</a> for actual rain, because roof work in real rain usually stops for the same reason the tiles are slippery.</p><p><strong>Harness compatibility</strong> quietly shapes the wardrobe: bulky insulated jackets bunch under straps and hide the fit check, so roofers run <strong>trim layers under the harness</strong> and put warmth in the base and mid layers instead. <strong>Torch-on and hot works</strong> add the flame layer: an <a href='en-407-heat-gloves-explained.html'>EN 407-rated glove</a>, natural-fibre or FR outer near the torch, and the melt-layer rule from the <a href='fr-workwear-guide.html'>FR hub</a> applying to whatever's underneath.</p>"
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Details",
+          "h2": "Three ridge-tested details",
+          "items": [
+            {
+              "n": "Sole checks",
+              "l": "Worn tread on a roof is a different order of problem — inspect like PPE, because it is"
+            },
+            {
+              "n": "Nothing flapping",
+              "l": "Wind turns loose kit into sails and blindfolds — trim fits at height"
+            },
+            {
+              "n": "Sun kit",
+              "l": "Roofers burn in April — neck flaps and SPF are summer PPE up there"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Roofer kit FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What boots are best for roofing?",
+          "a": "S3 boots with an aggressive slip-rated sole and a flexible forefoot — grip on wet tile, membrane and crawl boards is the primary spec, and a stiff sole fights the footwork. Tread condition gets inspected like the safety equipment it is."
+        },
+        {
+          "q": "What do roofers wear in winter?",
+          "a": "Windproofing before insulation: wicking base layer, windproof softshell, and a waterproof shell for real weather — roof wind doubles the effective cold, and bulky coats fight the harness. Warm gloves that still grip, and a helmet-compatible beanie, finish it."
+        },
+        {
+          "q": "Do roofers need special helmets?",
+          "a": "Work at height favours chinstrap-retained climbing-style helmets (EN 12492) that stay on in a fall or gust, and many roofing contractors now specify them over traditional EN 397 lids. The site or employer's rules make the final call — check before buying."
+        }
       ]
     },
     {
@@ -200,35 +575,120 @@
       "metaTitle": "Painter & Decorator Workwear: The Kit List | iNeedWorkwear",
       "metaDesc": "Kit for painters and decorators — why the whites tradition earns its keep, bib and brace vs coveralls, FFP masks for sanding, nitrile for solvents, and customer-house kit.",
       "lede": "Decorators' whites look like tradition for its own sake — until you know the logic: every splash shows instantly on white, which is exactly what you want when the splash was heading for a customer's carpet. The rest of the list is dust, solvents and knees.",
-      "heroMeta": [ {"n":"Whites","l":"A splash-warning system you wear"}, {"n":"FFP2/3","l":"Sanding sets the mask grade"}, {"n":"Nitrile","l":"Solvents laugh at latex"} ],
-      "schema": { "type": "Article" },
-      "blocks": [
-        { "type":"table", "klabel":"The list", "h2":"Head to toe",
-          "head":["Item","Spec","Why"],
-          "rows":[
-            ["Bib &amp; brace or painter's trousers","White, multi-pocket, <span class='code'>EN 14404</span> knees","Skirting and floors are knee work — <a href='coverall-vs-bib-and-brace.html'>why bib beats coverall here</a>"],
-            ["White tee or polo ×3","Cotton-rich, boil-washable","Emulsion washes out hot; the white shows every miss"],
-            ["Dust mask","<span class='code'>FFP2</span> filler &amp; softwood · <span class='code'>FFP3</span> old paint &amp; MDF","Sanding is the trade's lung exposure"],
-            ["Gloves","Nitrile disposables + thin coated pair","Solvents and 2-pack products go straight through latex"],
-            ["Eye protection","<span class='code'>EN 166</span>, N-coated","Ceiling work rains specks; fogged specs come off"],
-            ["Footwear","<span class='code'>O1/S1</span> low-profile, clean soles","Light, quiet, and kind to finished floors"],
-            ["Overshoes &amp; sheets","Always in the van","The kit that protects the customer's house"]
-          ] },
-        { "type":"prose", "narrow":true, "klabel":"The specifics", "h2":"Sanding and solvents are the serious end",
-          "html":"<p>The romance of the trade is brushwork; the exposure is <strong>preparation</strong>. Machine-sanding filler and softwood sits at <a href='en-149-ffp-ratings-explained.html'>FFP2</a>; MDF and — critically — <strong>old painted surfaces step up to FFP3</strong>, because pre-modern coatings can carry lead and the dust deserves respect (suspect lead paint has its own safe-work rules beyond a mask). Extraction-equipped sanders do the heavy lifting; the mask backs them up.</p><p><strong>Solvent handling</strong> sets the glove spec: nitrile resists the white spirits and 2-pack products that swell latex, with a <a href='workwear-for-cleaners.html'>gauntlet-and-SDS</a> approach for anything industrial. And whites earn their second function at day's end: emulsion-marked cotton boil-washes back to white — the <a href='washing-chef-whites.html'>whites playbook</a> transfers almost intact.</p>" },
-        { "type":"keyfacts", "variant":"dark", "klabel":"Details", "h2":"Three brush-hand details",
-          "items":[
-            {"n":"Whites = QC","l":"A splash you see on your thigh is a splash that missed the carpet — barely"},
-            {"n":"Two glove tiers","l":"Disposable nitrile for coatings; a coated pair for prep and ladders"},
-            {"n":"Soft soles","l":"Finished-floor-friendly footwear is part of the professional impression"}
-          ] },
-        { "type":"clusternav" },
-        { "type":"faq", "klabel":"Questions", "h2":"Decorator kit FAQ" }
+      "heroMeta": [
+        {
+          "n": "Whites",
+          "l": "A splash-warning system you wear"
+        },
+        {
+          "n": "FFP2/3",
+          "l": "Sanding sets the mask grade"
+        },
+        {
+          "n": "Nitrile",
+          "l": "Solvents laugh at latex"
+        }
       ],
-      "faq":[
-        {"q":"Why do painters and decorators wear white?","a":"Function dressed as tradition: white shows every splash and smudge instantly — a wearable warning system in customer houses — hides white-paint marks between washes, and boil-washes clean. It also reads as professional in a trade sold on neatness."},
-        {"q":"What mask do decorators need for sanding?","a":"FFP2 for filler and softwood; FFP3 for MDF and old painted surfaces — pre-modern paint can carry lead, and suspected lead paint work has safe-working rules beyond mask choice. Extraction sanders remain the primary control."},
-        {"q":"What gloves work with paint and solvents?","a":"Nitrile — disposable for coatings work, heavier nitrile gauntlets for solvent-heavy tasks. White spirit and 2-pack products degrade latex quickly; check the product's safety data sheet where anything industrial is involved."}
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "table",
+          "klabel": "The list",
+          "h2": "Head to toe",
+          "head": [
+            "Item",
+            "Spec",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Bib &amp; brace or painter's trousers",
+              "White, multi-pocket, <span class='code'>EN 14404</span> knees",
+              "Skirting and floors are knee work — <a href='coverall-vs-bib-and-brace.html'>why bib beats coverall here</a>"
+            ],
+            [
+              "White tee or polo ×3",
+              "Cotton-rich, boil-washable",
+              "Emulsion washes out hot; the white shows every miss"
+            ],
+            [
+              "Dust mask",
+              "<span class='code'>FFP2</span> filler &amp; softwood · <span class='code'>FFP3</span> old paint &amp; MDF",
+              "Sanding is the trade's lung exposure"
+            ],
+            [
+              "Gloves",
+              "Nitrile disposables + thin coated pair",
+              "Solvents and 2-pack products go straight through latex"
+            ],
+            [
+              "Eye protection",
+              "<span class='code'>EN 166</span>, N-coated",
+              "Ceiling work rains specks; fogged specs come off"
+            ],
+            [
+              "Footwear",
+              "<span class='code'>O1/S1</span> low-profile, clean soles",
+              "Light, quiet, and kind to finished floors"
+            ],
+            [
+              "Overshoes &amp; sheets",
+              "Always in the van",
+              "The kit that protects the customer's house"
+            ]
+          ]
+        },
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The specifics",
+          "h2": "Sanding and solvents are the serious end",
+          "html": "<p>The romance of the trade is brushwork; the exposure is <strong>preparation</strong>. Machine-sanding filler and softwood sits at <a href='en-149-ffp-ratings-explained.html'>FFP2</a>; MDF and — critically — <strong>old painted surfaces step up to FFP3</strong>, because pre-modern coatings can carry lead and the dust deserves respect (suspect lead paint has its own safe-work rules beyond a mask). Extraction-equipped sanders do the heavy lifting; the mask backs them up.</p><p><strong>Solvent handling</strong> sets the glove spec: nitrile resists the white spirits and 2-pack products that swell latex, with a <a href='workwear-for-cleaners.html'>gauntlet-and-SDS</a> approach for anything industrial. And whites earn their second function at day's end: emulsion-marked cotton boil-washes back to white — the <a href='washing-chef-whites.html'>whites playbook</a> transfers almost intact.</p>"
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Details",
+          "h2": "Three brush-hand details",
+          "items": [
+            {
+              "n": "Whites = QC",
+              "l": "A splash you see on your thigh is a splash that missed the carpet — barely"
+            },
+            {
+              "n": "Two glove tiers",
+              "l": "Disposable nitrile for coatings; a coated pair for prep and ladders"
+            },
+            {
+              "n": "Soft soles",
+              "l": "Finished-floor-friendly footwear is part of the professional impression"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Decorator kit FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Why do painters and decorators wear white?",
+          "a": "Function dressed as tradition: white shows every splash and smudge instantly — a wearable warning system in customer houses — hides white-paint marks between washes, and boil-washes clean. It also reads as professional in a trade sold on neatness."
+        },
+        {
+          "q": "What mask do decorators need for sanding?",
+          "a": "FFP2 for filler and softwood; FFP3 for MDF and old painted surfaces — pre-modern paint can carry lead, and suspected lead paint work has safe-working rules beyond mask choice. Extraction sanders remain the primary control."
+        },
+        {
+          "q": "What gloves work with paint and solvents?",
+          "a": "Nitrile — disposable for coatings work, heavier nitrile gauntlets for solvent-heavy tasks. White spirit and 2-pack products degrade latex quickly; check the product's safety data sheet where anything industrial is involved."
+        }
       ]
     }
   ]

@@ -292,7 +292,12 @@
           "q": "Why do cleaning uniforms use colour coding?",
           "a": "In clinical and care settings, colour-coded uniforms (and equipment) separate clean and dirty areas and identify contract staff at a glance — mirroring healthcare's infection-control conventions. In offices and retail it's simpler: an embroidered polo identifies the team."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/cleaner.webp",
+        "alt": "Cleaner in an apron and rubber gloves mopping stone steps beside a wet floor sign",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-for-delivery-drivers",
@@ -555,7 +560,12 @@
           "q": "How do forklift drivers keep warm in winter?",
           "a": "Core-first: gilet over sweatshirt over a wicking base layer keeps the trunk warm without sleeve bulk at the controls. Docks are draught alleys, so windproofing matters as much as insulation — and cold-store trucks step the whole kit up to EN 342-rated gear."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/forklift-driver.webp",
+        "alt": "Forklift driver in a hi-vis vest, safety helmet and ear defenders at the wheel of a forklift",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-for-landscapers",
@@ -813,7 +823,12 @@
           "q": "What gloves for the pot wash?",
           "a": "Two kinds: heat-tolerant rubber grip gloves for scalding wet trays and pans, and EN ISO 374 chemical gauntlets for handling dishwasher chemicals and degreasers. One pair doing both jobs does neither properly."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/kitchen-porter.webp",
+        "alt": "Kitchen porter in an apron washing up at a commercial kitchen sink",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-for-nurses-hcas",

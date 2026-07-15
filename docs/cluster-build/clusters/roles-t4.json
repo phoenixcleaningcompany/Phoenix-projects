@@ -274,7 +274,12 @@
           "q": "What knee protection do boiler engineers need?",
           "a": "Work trousers with EN 14404-certified knee-pad inserts fitted in their pockets — Level 1 covers most domestic floors — or a separate kneel mat for finished interiors. Knees are a gas engineer's working surface; unprotected kneeling is how the trade buys its bursitis."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/gas-engineer.webp",
+        "alt": "Gas engineer in navy coveralls servicing a wall-mounted boiler",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-for-telecoms-engineers",
@@ -514,7 +519,12 @@
           "q": "Why does loose clothing matter around farm machinery?",
           "a": "Rotating equipment — PTO shafts above all — catches loose fabric and pulls the wearer in; it remains one of agriculture's fatal mechanisms. Fitted garments with no flapping edges, loose cords or dangling sleeves are the rule around any running machinery, full stop."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/farm-worker.webp",
+        "alt": "Farm worker in bib-and-brace overalls and gloves working a cattle crush",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-for-hairdressers-barbers",
@@ -634,7 +644,12 @@
           "q": "What shoes are best for standing all day in a salon?",
           "a": "Cushioned, supportive shoes with a wipeable upper — colour drips — and enough structure to support arches through a ten-hour shift. Footwear is the salon's real health purchase: the trade's chronic complaints are feet, legs and backs, and they start with hard floors and flat shoes."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/hairdresser.webp",
+        "alt": "Hairdresser in a salon apron styling a client’s hair",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-for-window-cleaners",

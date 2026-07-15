@@ -275,7 +275,12 @@
           "q": "Can I wear a normal T-shirt under arc-rated overalls?",
           "a": "Only if it's natural fibre — cotton at minimum, arc-rated ideally. Polyester and blends melt at arc temperatures and cause severe injury inside otherwise-intact protective clothing. The no-synthetics rule applies to every layer, base included."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/electrician.webp",
+        "alt": "Electrician in gloves and safety glasses working in a control panel",
+        "kind": "photo"
+      }
     },
     {
       "slug": "what-chefs-wear",
@@ -542,7 +547,12 @@
           "q": "Are knee pads worth it for groundworks?",
           "a": "They're the item veterans most wish they'd worn from day one. Kerb laying, ducting and drainage mean hours kneeling on aggregate; trouser-insert pads or strap-ons prevent the cumulative damage that shows up years later."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/groundworker.webp",
+        "alt": "Groundworker in hi-vis setting out a concrete edge beam in front of an excavator",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-for-care-staff",
@@ -669,7 +679,12 @@
           "q": "Can care staff wear cardigans or fleeces?",
           "a": "Usually yes for corridors, handover and breaks — coded to the uniform — but off during personal care under bare-below-the-elbow policies. Buy layers on that assumption: easy on, easy off, washable with the rest of the kit."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/care-staff.webp",
+        "alt": "Care worker in scrubs helping an elderly resident with medication",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-for-mechanics",
