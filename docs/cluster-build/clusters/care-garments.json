@@ -197,7 +197,12 @@
           "q": "Can you tumble-dry hi-vis?",
           "a": "Only if the label allows it, and then only on a cool setting. Heat degrades both the fluorescent dye and the adhesive bonding the retroreflective tape, so line-drying is the safer default — and never iron over the tape."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/faded-hi-vis.webp",
+        "alt": "Site worker in a faded, well-worn orange hi-vis vest and dirty work trousers",
+        "kind": "photo"
+      }
     },
     {
       "slug": "reproofing-waterproofs",
@@ -1062,7 +1067,12 @@
           "q": "Does concrete damage washing machines?",
           "a": "The grit does — sand and cement fines destroy pumps and bearings. Shake and brush kit outside, pre-rinse heavily loaded garments, and consider a dedicated or launderette machine for the worst. Never wash chunks of cured concrete through a domestic drum."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/concrete-stains.webp",
+        "alt": "Concrete finisher in splattered work trousers floating a fresh slab",
+        "kind": "photo"
+      }
     },
     {
       "slug": "drying-workwear-properly",
@@ -1182,7 +1192,12 @@
           "q": "How do you dry wet work boots?",
           "a": "Insoles out, laces loosened, stuffed with newspaper (changed once) or on a boot dryer — never on or against a radiator, which cracks leather and delaminates soles. Overnight is usually enough with airflow; two pairs in rotation is the winter answer."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/workwear-drying.webp",
+        "alt": "White chef jackets and an apron drying on a washing line",
+        "kind": "photo"
+      }
     },
     {
       "slug": "storing-workwear-ppe",
@@ -1496,7 +1511,12 @@
           "q": "Does hi-vis fade in sunlight?",
           "a": "Yes — UV exposure is the main ager of fluorescent dye, working on the garment whether it's being worn or parked on a van's rear shelf. Store hi-vis out of sunlight, wash it cool, line-dry it, and it keeps its class for the full wash-count instead of dying early."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/hi-vis-comparison.webp",
+        "alt": "New orange hi-vis jacket hanging beside a faded, soiled one for comparison",
+        "kind": "photo"
+      }
     }
   ]
 }

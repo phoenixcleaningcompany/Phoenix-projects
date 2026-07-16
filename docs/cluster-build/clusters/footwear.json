@@ -598,7 +598,12 @@
           "q": "When should a boot be replaced after an impact?",
           "a": "After any impact heavy enough that the cap did its job — regardless of material. Steel deforms visibly; composite can fracture internally with no outward sign. The cap's rating is for a single major event, so the boot is retired."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/toe-cap-closeup.webp",
+        "alt": "Muddy safety boots with scuffed toe caps on a construction site",
+        "kind": "photo"
+      }
     },
     {
       "slug": "safety-boot-care",

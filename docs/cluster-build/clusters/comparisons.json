@@ -275,7 +275,12 @@
           "q": "Can you mix hoodies and sweatshirts in one team order?",
           "a": "Yes, and it's often the right answer — hoodies for outdoor crews who use the hood, crew-necks for workshop staff under drawcord rules. Same colour and logo keeps the uniform reading as one team."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/work-hoodie.webp",
+        "alt": "Tradesman in a black zip work hoodie with a mug and clipboard outside a site cabin",
+        "kind": "photo"
+      }
     },
     {
       "slug": "coverall-vs-bib-and-brace",
@@ -387,7 +392,12 @@
           "q": "Do coveralls and bib and brace come in FR versions?",
           "a": "Yes — both cuts exist in flame-resistant fabrics for welding and hot works, certified under the FR standards. The cut choice follows the same coverage logic; the fabric and certification follow the hazard."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/bib-brace.webp",
+        "alt": "Maintenance worker in navy bib-and-brace overalls repairing a unit",
+        "kind": "photo"
+      }
     },
     {
       "slug": "embroidery-vs-print",
@@ -765,7 +775,12 @@
           "q": "Is disposable PPE certified to the same standards?",
           "a": "Disposable PPE carries its own certifications — FFP ratings on masks, EN 374 on chemical gloves, food-contact approvals on nitrile. Single-use doesn't mean unrated; check the standard against the task exactly as you would with reusable kit."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/disposable-ppe.webp",
+        "alt": "Pile of used disposable coveralls and blue nitrile gloves",
+        "kind": "photo"
+      }
     },
     {
       "slug": "ffp2-vs-ffp3",
@@ -885,7 +900,12 @@
           "q": "Does an FFP3 mask work with a beard?",
           "a": "No — FFP masks are tight-fitting and seal against skin, and even heavy stubble leaks enough to undo the rating. Facial hair points to loose-fitting powered RPE (hoods) instead. For clean-shaven wearers, face-fit testing verifies the seal the rating depends on."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/dust-mask.webp",
+        "alt": "Close-up of a worker wearing a valved FFP3 dust mask and safety glasses",
+        "kind": "photo"
+      }
     },
     {
       "slug": "nitrile-vs-latex-vs-vinyl",
@@ -1325,7 +1345,12 @@
           "q": "What colour hard hat do visitors wear?",
           "a": "Typically blue under Build UK-style schemes (not competent unescorted), though many sites keep dedicated visitor helmets in whatever colour their scheme assigns. The induction brief states it — and the escort requirement matters more than the shade."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/hard-hat-colours.webp",
+        "alt": "White, blue, yellow, orange and green hard hats lined up on a blockwork wall",
+        "kind": "photo"
+      }
     },
     {
       "slug": "cargo-vs-holster-trousers",
@@ -1425,7 +1450,12 @@
           "q": "Can you get trousers with both cargo and holster pockets?",
           "a": "Yes — many modern work trousers combine cargo volume with detachable or tuck-away holsters, letting one trouser serve bench days and site days. The practical exercise is listing your daily carry and assigning each item a pocket that closes if you climb."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/holster-trousers.webp",
+        "alt": "Joiner in work trousers with loaded holster pockets in a workshop",
+        "kind": "photo"
+      }
     },
     {
       "slug": "steel-toe-cap-myths",
@@ -1807,7 +1837,12 @@
           "q": "What do F and B mean on eye protection?",
           "a": "EN 166 impact grades: F withstands 45 m/s particles (typical for spectacles), B withstands 120 m/s (typical for goggles and shields), A 190 m/s (shields for the harshest tasks). A 'T' suffix (FT, BT) means the grade holds at temperature extremes."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/safety-glasses-grinding.webp",
+        "alt": "Worker in safety glasses grinding steel with sparks flying",
+        "kind": "photo"
+      }
     },
     {
       "slug": "half-mask-vs-disposable-ffp",
@@ -2102,7 +2137,12 @@
           "q": "How do I know if FR clothing is genuine?",
           "a": "It names its standards: EN ISO 11612 with code letters for industrial heat and flame, EN ISO 11611 for welding, IEC 61482 for arc flash — plus a CE/UKCA mark and documentation. Adjectives without standard numbers are how non-PPE gets sold at PPE prices."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/fr-clothing.webp",
+        "alt": "Welder in flame-resistant clothing wire-brushing a fresh weld",
+        "kind": "photo"
+      }
     },
     {
       "slug": "polycotton-vs-cotton",
@@ -2302,7 +2342,12 @@
           "q": "Why are welding boots always leather?",
           "a": "Heat and spatter: leather tolerates sparks and hot metal contact that melt synthetic uppers, and welding boot designs add features like covered laces and HRO heat-resistant soles. It's one of the few footwear categories where the material question has only one answer."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/boots-leather.webp",
+        "alt": "Close-up of a worn leather safety boot with heavy-duty laces",
+        "kind": "photo"
+      }
     },
     {
       "slug": "mesh-vs-solid-hi-vis",

@@ -451,7 +451,12 @@
           "q": "Is Class 2 ever enough near roads?",
           "a": "For low to moderate-speed, well-lit environments — busy yards, car parks, delivery work — Class 2 is often appropriate. The moment speed rises, light drops, or the work moves onto the live carriageway, the assessment usually points to Class 3."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/hi-vis-roadside.webp",
+        "alt": "Road crew in mixed yellow and orange hi-vis with a stop sign at roadworks",
+        "kind": "photo"
+      }
     }
   ]
 }

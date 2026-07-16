@@ -723,7 +723,12 @@
           "q": "Do inherent FR garments last forever?",
           "a": "The flame resistance persists, but the garment doesn't — abrasion, rips, UV and contamination still retire it. And a softener film or oil soaking makes any FR fabric's surface ignitable, inherent included. Care rules apply to both types equally."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/fr-flame-test.webp",
+        "alt": "Fabric sample self-extinguishing over a burner in a flame-test rig",
+        "kind": "photo"
+      }
     }
   ]
 }

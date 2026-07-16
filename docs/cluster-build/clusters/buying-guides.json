@@ -881,7 +881,12 @@
           "q": "Are safety trainers OK on concrete floors?",
           "a": "They're often the best choice — S1P trainers carry the same certified cap and midsole as boots with far less weight to lift each step, and their trainer-style foam handles concrete's shock better than many rigid boots. Step up to boots where ankle support or weather demands it."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/boots-concrete.webp",
+        "alt": "Warehouse worker in safety boots standing on a bare concrete floor",
+        "kind": "photo"
+      }
     },
     {
       "slug": "how-embroidery-pricing-works",

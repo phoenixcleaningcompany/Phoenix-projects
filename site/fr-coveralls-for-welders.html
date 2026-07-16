@@ -205,6 +205,10 @@ table.data td b{color:var(--ink)}
 .foot .legal{padding-top:20px;font-size:.8rem;color:var(--mute);display:flex;justify-content:space-between;gap:1rem;flex-wrap:wrap}
 :focus-visible{outline:3px solid var(--hivis-bright);outline-offset:2px}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto!important}}
+.hero-in.himg{display:grid;grid-template-columns:1.12fr .88fr;gap:44px;align-items:center}
+@media(max-width:840px){.hero-in.himg{grid-template-columns:1fr}.hero-pic{max-width:400px;margin:0 auto}}
+.hero-pic img{width:100%;height:auto;display:block}
+.hero-pic.photo img{border-radius:14px;box-shadow:0 18px 40px rgba(0,0,0,.35)}
 </style>
 </head><body>
 
@@ -215,7 +219,7 @@ table.data td b{color:var(--ink)}
 <a href="sectors.html">Sectors</a><a href="roles.html">Roles</a><a href="standards.html">Standards</a><a href="guides.html">Guides</a>
 <a href="kit.html">Kit</a><a class="shop mono" href="https://www.ineedworkwear.com">Shop &rarr;</a></nav></div></header>
 
-<section class="hero"><div class="hero-in">
+<section class="hero"><div class="hero-in himg"><div>
 <div>
 <p class="eyebrow">Roles <span class="crumb">/ Welding &amp; Fabrication</span></p>
 <h1>Flame-resistant coveralls for <em>welders</em>.</h1>
@@ -248,7 +252,7 @@ table.data td b{color:var(--ink)}
 <circle cx="250" cy="250" r="16" fill="none" stroke="#C6D92E" stroke-width="1.6"/><path d="M252 242 l-8 10 h8 l-8 8" stroke="#C6D92E" stroke-width="1.6" fill="none"/><text x="250" y="280" text-anchor="middle" fill="#C6D92E">ARC?</text>
 </g>
 </svg></div>
-</div></section>
+</div><div class="hero-pic photo"><img src="assets/heroes/welder-fr.webp" alt="Welder in FR coveralls, leather apron and gauntlets welding a steel beam" width="1000" height="1000" fetchpriority="high"></div></div></section>
 
 <div class="trust"><div class="trust-in">
 <span><b>&#10003;</b> EN ISO 11611 explained</span><span><b>&#10003;</b> Class by process</span>
