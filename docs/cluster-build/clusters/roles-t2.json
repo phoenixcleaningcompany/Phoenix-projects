@@ -163,7 +163,12 @@
           "q": "Do security staff need hi-vis?",
           "a": "Wherever duties meet vehicles — car parks, gatehouses, traffic marshalling — a Class 2 vest over the uniform is standard. It doubles as instant identification, which is half its value on a busy site."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/security-guard-role.webp",
+        "alt": "Security guard in black uniform with a duty belt standing in a building lobby",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-for-cleaners",

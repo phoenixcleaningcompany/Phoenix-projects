@@ -404,7 +404,12 @@
           "q": "What gloves are used for fibre splicing?",
           "a": "Splicing itself wants clean, dry, high-feel hands — thin dexterity gloves or bare hands per training — while the surrounding work uses cut-rated gloves for cable and hardware and nitrile disposables for gel and grease. Engineers carry all three; each has a different job."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/telecoms-engineer.webp",
+        "alt": "Telecoms engineer in hi-vis climbing a pole with a coil of cable and tool belt",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-for-farm-workers",

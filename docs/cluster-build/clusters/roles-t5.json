@@ -1394,7 +1394,12 @@
           "q": "Do shopping centres have PPE rules for contractors?",
           "a": "Yes — centres run contractor inductions, permit systems and service-yard rules much like construction sites: hi-vis and safety footwear in service areas, banksman requirements at docks, hot-work permits and often escorted access. The centre's contractor handbook is the governing document."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/shopfitter.webp",
+        "alt": "Shopfitter in holster-pocket trousers and knee pads drilling shelving in a retail fit-out",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-for-arborists",
