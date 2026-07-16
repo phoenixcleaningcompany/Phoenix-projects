@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 420" width="460" height="420" role="img" aria-label="EN 343 — RAIN PROTECTION">
+<path d="M26,60 v-24 q0,-10 10,-10 h24 M434,60 v-24 q0,-10 -10,-10 h-24 M26,360 v24 q0,10 10,10 h24 M434,360 v24 q0,10 -10,10 h-24" fill="none" stroke="#E4571F" stroke-width="5" stroke-linecap="round"/>
+<circle cx="230" cy="145" r="104" fill="none" stroke="rgba(231,235,241,.14)" stroke-width="2" stroke-dasharray="3 10"/>
+<path fill="none" stroke="#E7EBF1" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" d="M196,84 l-34,22 14,26 16,-10 v92 h76 v-92 l16,10 14,-26 -34,-22 q-12,12 -34,12 t-34,-12 Z"/><path fill="none" stroke="#E7EBF1" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" d="M230,96 v118"/><path fill="none" stroke="#C6D92E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" d="M300,88 l-8,18 M322,88 l-8,18 M344,88 l-8,18"/>
+<path d="M180,268 h100" stroke="#E4571F" stroke-width="4" stroke-linecap="round"/>
+<text x="230" y="330" text-anchor="middle" font-family="'Barlow Condensed','Arial Narrow',Arial,sans-serif" font-weight="bold" font-size="56" letter-spacing="1" fill="#FFFFFF">EN 343</text>
+<text x="230" y="366" text-anchor="middle" font-family="Menlo,Consolas,monospace" font-size="15" letter-spacing="4" fill="#C6D92E">RAIN PROTECTION</text>
+</svg>

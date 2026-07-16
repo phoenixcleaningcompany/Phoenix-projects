@@ -154,7 +154,15 @@
           "q": "How long do chemical gloves protect for?",
           "a": "Until breakthrough — the tested time the chemical takes to permeate the material, which happens invisibly and regardless of visible condition. Track the time in contact, not the look of the glove, and treat the manufacturer's per-chemical permeation data as the real specification."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/spec/en-374-chemical-gloves-explained.svg",
+        "alt": "EN 374 — CHEMICAL GLOVES — specification plate",
+        "kind": "cutout",
+        "dark": true,
+        "w": 460,
+        "h": 420
+      }
     },
     {
       "slug": "en-iso-13688-explained",
@@ -254,7 +262,15 @@
           "q": "Does EN ISO 13688 mean a garment is protective?",
           "a": "No — by itself it makes no protection claim at all. A garment marked only with EN ISO 13688 is certified as safe, well-made clothing, not as PPE against any hazard. The protection comes from the partner standard cited alongside it."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/spec/en-iso-13688-explained.svg",
+        "alt": "EN ISO 13688 — PROTECTIVE CLOTHING BASICS — specification plate",
+        "kind": "cutout",
+        "dark": true,
+        "w": 460,
+        "h": 420
+      }
     },
     {
       "slug": "en-14126-explained",
@@ -374,7 +390,15 @@
           "q": "Do I need EN 14126 for handling sewage?",
           "a": "Wastewater and flood-response work commonly specifies liquid-barrier types with the B suffix (4-B or 6-B depending on exposure), alongside gauntlets, wellingtons and strict hygiene routines. The employer's risk assessment sets the exact type; the B is what makes the barrier claim biological, not just chemical."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/spec/en-14126-explained.svg",
+        "alt": "EN 14126 — INFECTIVE AGENT PROTECTION — specification plate",
+        "kind": "cutout",
+        "dark": true,
+        "w": 460,
+        "h": 420
+      }
     },
     {
       "slug": "esd-footwear-explained",
@@ -489,7 +513,15 @@
           "q": "Why did my ESD shoes fail the tester?",
           "a": "The path broke somewhere: worn or contaminated soles, insulating aftermarket insoles, very dry skin, or thick synthetic socks. Most failures fix with cleaning the soles, the correct insoles, or ESD-compatible socks — and testers exist precisely to catch this before you touch a board."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/spec/esd-footwear-explained.svg",
+        "alt": "ESD — STATIC-CONTROL FOOTWEAR — specification plate",
+        "kind": "cutout",
+        "dark": true,
+        "w": 460,
+        "h": 420
+      }
     },
     {
       "slug": "safety-footwear-2022-update",
@@ -609,7 +641,15 @@
           "q": "Do I need to replace boots certified to the old standard?",
           "a": "No — the 2022 revision changed testing and labelling for new certifications; it didn't invalidate existing kit. Replace boots on condition and fit as always. For new fleet specifications, writing requirements in the 2022 codes avoids ambiguity."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/spec/safety-footwear-2022-update.svg",
+        "alt": "EN ISO 20345 — THE 2022 UPDATE — specification plate",
+        "kind": "cutout",
+        "dark": true,
+        "w": 460,
+        "h": 420
+      }
     },
     {
       "slug": "fall-protection-standards-explained",
@@ -729,7 +769,15 @@
           "q": "What should you wear under a safety harness?",
           "a": "Slim, fitted workwear layers that keep the harness geometry as designed: no bulky padding under leg straps, no loose hoods around the dorsal attachment, nothing covering or catching the buckles. The harness is set up over the clothing you'll actually work in — refit it when the season changes the layers."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/spec/fall-protection-standards-explained.svg",
+        "alt": "EN 361 — FALL PROTECTION — specification plate",
+        "kind": "cutout",
+        "dark": true,
+        "w": 460,
+        "h": 420
+      }
     },
     {
       "slug": "en-iso-27065-explained",
@@ -849,7 +897,15 @@
           "q": "What PPE does a pesticide label require?",
           "a": "The label and safety data sheet specify it per product — typically protective clothing (increasingly by 27065 level), nitrile gauntlets, face or eye protection and suitable boots, with extra RPE for some formulations. The label is a legal instruction, not a suggestion; certification for the operator comes via the spray-qualification system."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/spec/en-iso-27065-explained.svg",
+        "alt": "EN ISO 27065 — PESTICIDE OPERATOR KIT — specification plate",
+        "kind": "cutout",
+        "dark": true,
+        "w": 460,
+        "h": 420
+      }
     },
     {
       "slug": "en-iso-15797-explained",
@@ -939,7 +995,15 @@
           "q": "Does industrial laundering damage workwear?",
           "a": "It ages any garment faster than home washing — that's why the standard exists. Garments built to 15797 tolerate it by design; garments that aren't shrink, fade, delaminate and lose print quickly. For protective kit, the laundering method must match what the garment's performance claims were tested against."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/spec/en-iso-15797-explained.svg",
+        "alt": "EN ISO 15797 — INDUSTRIAL LAUNDERING — specification plate",
+        "kind": "cutout",
+        "dark": true,
+        "w": 460,
+        "h": 420
+      }
     }
   ]
 }

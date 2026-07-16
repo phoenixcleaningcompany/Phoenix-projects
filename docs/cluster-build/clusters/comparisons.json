@@ -2037,7 +2037,15 @@
           "q": "Where is Class 1 hi-vis acceptable on its own?",
           "a": "Where the risk assessment finds modest visibility need — controlled, low-speed, off-highway settings. Public-road, high-speed and rail environments specify Class 2, Class 3 or rail-spec orange; Class 1 alone doesn't answer those requirements."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/spec/hi-vis-class-1-explained.svg",
+        "alt": "CLASS 1 — THE LOWEST HI-VIS TIER — specification plate",
+        "kind": "cutout",
+        "dark": true,
+        "w": 460,
+        "h": 420
+      }
     },
     {
       "slug": "fr-terminology-explained",

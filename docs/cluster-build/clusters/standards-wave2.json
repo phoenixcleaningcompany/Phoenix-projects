@@ -6,9 +6,34 @@
     "shopUrl": "https://www.ineedworkwear.com/collections/ppe",
     "baseUrl": "https://www.ineedworkwear.uk",
     "date": "2026-07-09",
-    "externalHub": { "slug": "standards", "navLabel": "Standards hub", "title": "Standards decoded", "cardTitle": "Standards decoded" },
-    "trust": ["Standards decoded in plain English", "Certified stock to match", "Head-to-toe PPE range", "Trade accounts"],
-    "cta": { "h2": "Spec decoded — kit sorted.", "p": "Helmets, masks, eye protection, gloves and the rest of the PPE wall, certified and in stock.", "actions": [ {"label":"Shop PPE","href":"https://www.ineedworkwear.com/collections/ppe","style":"white"}, {"label":"Browse the kit directory","href":"kit.html","style":"dark"} ] }
+    "externalHub": {
+      "slug": "standards",
+      "navLabel": "Standards hub",
+      "title": "Standards decoded",
+      "cardTitle": "Standards decoded"
+    },
+    "trust": [
+      "Standards decoded in plain English",
+      "Certified stock to match",
+      "Head-to-toe PPE range",
+      "Trade accounts"
+    ],
+    "cta": {
+      "h2": "Spec decoded — kit sorted.",
+      "p": "Helmets, masks, eye protection, gloves and the rest of the PPE wall, certified and in stock.",
+      "actions": [
+        {
+          "label": "Shop PPE",
+          "href": "https://www.ineedworkwear.com/collections/ppe",
+          "style": "white"
+        },
+        {
+          "label": "Browse the kit directory",
+          "href": "kit.html",
+          "style": "dark"
+        }
+      ]
+    }
   },
   "pages": [
     {
@@ -24,37 +49,131 @@
       "metaTitle": "EN 397 Safety Helmets Explained | iNeedWorkwear",
       "metaDesc": "What EN 397 tests on industrial hard hats, the optional marks (LT, MM, 440V), how it differs from bump caps and climbing-style helmets, and the moulding date that sets replacement.",
       "lede": "A hard hat is such a fixture of site life that almost nobody reads its label — which is a shame, because the label answers the questions people actually argue about: what it protects against, when it expires, and whether that mountaineering-style helmet is allowed.",
-      "heroMeta": [ {"n":"EN 397","l":"The industrial helmet standard"}, {"n":"Date stamped","l":"Moulded into the shell"}, {"n":"Not a bump cap","l":"Different standard, different job"} ],
-      "schema": { "type": "Article" },
-      "blocks": [
-        { "type":"prose", "narrow":true, "klabel":"What it tests", "h2":"Falling objects, from above — that's the deal",
-          "html":"<p><strong>EN 397</strong> is the industrial safety helmet standard. Its core tests are about one scenario: something falling on your head. The shell and harness must absorb a specified impact and resist a pointed striker penetrating to the skull, and the chinstrap must release under a controlled load — so a snagged helmet doesn't strangle its wearer.</p><p>Two things follow. First, EN 397 protection is overwhelmingly <strong>top-down</strong> — it's not designed for side impacts or falls (that's where the climbing-style standard enters, below). Second, the protection lives in the <strong>gap between shell and harness</strong> — which is why stuffing a beanie under the harness or storing gloves in the crown genuinely compromises it. Cold-weather liners designed for helmets exist for exactly this reason.</p>" },
-        { "type":"table", "variant":"alt", "klabel":"The marks", "h2":"Optional markings worth knowing",
-          "head":["Mark","Means","Who needs it"],
-          "rows":[
-            ["<span class='code'>-20°C / -30°C (LT)</span>","Tested at low temperature","Winter outdoor work, cold stores"],
-            ["<span class='code'>+150°C</span>","Very high temperature test","Hot process environments"],
-            ["<span class='code'>440V a.c.</span>","Electrical insulation test","Work near LV electrical risk"],
-            ["<span class='code'>MM</span>","Molten metal splash","Foundries and casting"],
-            ["<span class='code'>LD</span>","Lateral deformation resistance","Crush-risk environments"]
-          ] },
-        { "type":"prose", "klabel":"The neighbours", "h2":"Bump caps and climbing-style helmets are different standards", "narrow":true,
-          "html":"<p><strong>EN 812 bump caps</strong> protect against <em>walking into things</em> — pipework, vehicle sills, racking. They are not safety helmets and don't satisfy a hard-hat rule; their home is under-vehicle work and low-clearance maintenance.</p><p><strong>EN 12492 climbing-style helmets</strong> — the vented, chinstrap-retained style spreading through scaffolding and work-at-height trades — prioritise staying on the head in a fall and tolerate side impacts better, but their chinstrap deliberately does <em>not</em> release like EN 397's. Many sites now accept or prefer them for work at height; some mandate EN 397. <strong>The site rules decide</strong> — check before standardising a crew on either.</p><p>Whichever style: helmets carry a <strong>moulding date stamped into the shell</strong>, and makers specify a service life from it (commonly 3–5 years, less under heavy UV). Scuffs are cosmetic; chalky, faded or cracked shells are retirement notices — and any helmet that's taken a real impact is done, visibly damaged or not.</p>" },
-        { "type":"keyfacts", "variant":"dark", "klabel":"Checks", "h2":"The three-second helmet audit",
-          "items":[
-            {"n":"Date in the shell","l":"Moulded stamp + maker's service life = the expiry answer"},
-            {"n":"Shell condition","l":"Chalking, deep scratches, flexibility loss — UV is the silent killer"},
-            {"n":"Harness intact","l":"The harness does the absorbing; frayed straps fail the system"}
-          ] },
-        { "type":"clusternav" },
-        { "type":"faq", "klabel":"Questions", "h2":"Hard hat FAQ" }
+      "heroMeta": [
+        {
+          "n": "EN 397",
+          "l": "The industrial helmet standard"
+        },
+        {
+          "n": "Date stamped",
+          "l": "Moulded into the shell"
+        },
+        {
+          "n": "Not a bump cap",
+          "l": "Different standard, different job"
+        }
       ],
-      "faq":[
-        {"q":"How long does a hard hat last?","a":"From the moulding date stamped into the shell, makers typically specify 3–5 years of service — less under heavy UV exposure. Retire earlier for chalking, cracking or loss of flexibility, and immediately after any significant impact regardless of appearance."},
-        {"q":"Is a bump cap the same as a hard hat?","a":"No — bump caps (EN 812) protect against striking your head on fixed objects, not falling objects. They don't satisfy a site hard-hat requirement; their place is low-clearance work like vehicle bays and plant rooms."},
-        {"q":"Are climbing-style helmets allowed on site?","a":"Increasingly yes, especially for work at height, because they stay on in a fall — but they certify to EN 12492, not EN 397, and their chinstrap behaves differently by design. Individual sites set the rule, so confirm before buying for a crew."},
-        {"q":"Can you wear a beanie under a hard hat?","a":"Not a standard beanie — it changes how the harness sits and absorbs impact. Use a helmet-compatible thermal liner designed to work with the suspension; several makers produce them for winter site work."}
-      ]
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "What it tests",
+          "h2": "Falling objects, from above — that's the deal",
+          "html": "<p><strong>EN 397</strong> is the industrial safety helmet standard. Its core tests are about one scenario: something falling on your head. The shell and harness must absorb a specified impact and resist a pointed striker penetrating to the skull, and the chinstrap must release under a controlled load — so a snagged helmet doesn't strangle its wearer.</p><p>Two things follow. First, EN 397 protection is overwhelmingly <strong>top-down</strong> — it's not designed for side impacts or falls (that's where the climbing-style standard enters, below). Second, the protection lives in the <strong>gap between shell and harness</strong> — which is why stuffing a beanie under the harness or storing gloves in the crown genuinely compromises it. Cold-weather liners designed for helmets exist for exactly this reason.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The marks",
+          "h2": "Optional markings worth knowing",
+          "head": [
+            "Mark",
+            "Means",
+            "Who needs it"
+          ],
+          "rows": [
+            [
+              "<span class='code'>-20°C / -30°C (LT)</span>",
+              "Tested at low temperature",
+              "Winter outdoor work, cold stores"
+            ],
+            [
+              "<span class='code'>+150°C</span>",
+              "Very high temperature test",
+              "Hot process environments"
+            ],
+            [
+              "<span class='code'>440V a.c.</span>",
+              "Electrical insulation test",
+              "Work near LV electrical risk"
+            ],
+            [
+              "<span class='code'>MM</span>",
+              "Molten metal splash",
+              "Foundries and casting"
+            ],
+            [
+              "<span class='code'>LD</span>",
+              "Lateral deformation resistance",
+              "Crush-risk environments"
+            ]
+          ]
+        },
+        {
+          "type": "prose",
+          "klabel": "The neighbours",
+          "h2": "Bump caps and climbing-style helmets are different standards",
+          "narrow": true,
+          "html": "<p><strong>EN 812 bump caps</strong> protect against <em>walking into things</em> — pipework, vehicle sills, racking. They are not safety helmets and don't satisfy a hard-hat rule; their home is under-vehicle work and low-clearance maintenance.</p><p><strong>EN 12492 climbing-style helmets</strong> — the vented, chinstrap-retained style spreading through scaffolding and work-at-height trades — prioritise staying on the head in a fall and tolerate side impacts better, but their chinstrap deliberately does <em>not</em> release like EN 397's. Many sites now accept or prefer them for work at height; some mandate EN 397. <strong>The site rules decide</strong> — check before standardising a crew on either.</p><p>Whichever style: helmets carry a <strong>moulding date stamped into the shell</strong>, and makers specify a service life from it (commonly 3–5 years, less under heavy UV). Scuffs are cosmetic; chalky, faded or cracked shells are retirement notices — and any helmet that's taken a real impact is done, visibly damaged or not.</p>"
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Checks",
+          "h2": "The three-second helmet audit",
+          "items": [
+            {
+              "n": "Date in the shell",
+              "l": "Moulded stamp + maker's service life = the expiry answer"
+            },
+            {
+              "n": "Shell condition",
+              "l": "Chalking, deep scratches, flexibility loss — UV is the silent killer"
+            },
+            {
+              "n": "Harness intact",
+              "l": "The harness does the absorbing; frayed straps fail the system"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Hard hat FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "How long does a hard hat last?",
+          "a": "From the moulding date stamped into the shell, makers typically specify 3–5 years of service — less under heavy UV exposure. Retire earlier for chalking, cracking or loss of flexibility, and immediately after any significant impact regardless of appearance."
+        },
+        {
+          "q": "Is a bump cap the same as a hard hat?",
+          "a": "No — bump caps (EN 812) protect against striking your head on fixed objects, not falling objects. They don't satisfy a site hard-hat requirement; their place is low-clearance work like vehicle bays and plant rooms."
+        },
+        {
+          "q": "Are climbing-style helmets allowed on site?",
+          "a": "Increasingly yes, especially for work at height, because they stay on in a fall — but they certify to EN 12492, not EN 397, and their chinstrap behaves differently by design. Individual sites set the rule, so confirm before buying for a crew."
+        },
+        {
+          "q": "Can you wear a beanie under a hard hat?",
+          "a": "Not a standard beanie — it changes how the harness sits and absorbs impact. Use a helmet-compatible thermal liner designed to work with the suspension; several makers produce them for winter site work."
+        }
+      ],
+      "heroImage": {
+        "src": "assets/heroes/spec/en-397-helmets-explained.svg",
+        "alt": "EN 397 — INDUSTRIAL SAFETY HELMETS — specification plate",
+        "kind": "cutout",
+        "dark": true,
+        "w": 460,
+        "h": 420
+      }
     },
     {
       "slug": "en-149-ffp-ratings-explained",
@@ -69,30 +188,109 @@
       "metaTitle": "EN 149 FFP Mask Ratings Explained: FFP1/2/3 | iNeedWorkwear",
       "metaDesc": "What FFP1, FFP2 and FFP3 actually filter, why face-fit beats grade, the NR/R and D marks after the rating, and where each grade belongs on real tasks.",
       "lede": "Disposable dust masks carry the most misunderstood rating in PPE. The FFP number matters — but the seal against your face matters more, and a top-grade mask worn over stubble can protect worse than a lower grade fitted properly.",
-      "heroMeta": [ {"n":"FFP1–3","l":"The three grades"}, {"n":"Fit first","l":"The seal is the system"}, {"n":"NR / R / D","l":"The letters after"} ],
-      "schema": { "type": "Article" },
-      "blocks": [
-        { "type":"prose", "narrow":true, "klabel":"How it works", "h2":"A filter is only as good as its seal",
-          "html":"<p><strong>EN 149</strong> covers filtering facepieces — masks where the whole facepiece is the filter. The grades measure two things together: how much the filter material stops, and how much leaks in around the edges. That's why the standard's real-world lesson is about <strong>fit</strong>: air takes the path of least resistance, and a gap at the nose or a bearded jawline turns any grade into decoration.</p><p>UK workplaces requiring tight-fitting RPE need <strong>face-fit testing</strong> for each wearer — and a clean-shaven seal line where the mask meets the face. That's HSE's position, not a manufacturer upsell.</p>" },
-        { "type":"table", "variant":"alt", "klabel":"The grades", "h2":"FFP1 to FFP3, honestly placed",
-          "head":["Grade","Filters (approx.)","Right for","Wrong for"],
-          "rows":[
-            ["<span class='code'>FFP1</span>","~80% — nuisance dusts","Hand sanding softwood, general dusty tidying","Silica, hardwood dust, anything toxic"],
-            ["<span class='code'>FFP2</span>","~94%","Plaster, softwood machine dust, general construction dust","Silica-heavy cutting, welding fume at volume"],
-            ["<span class='code'>FFP3</span>","~99%","Silica (concrete/stone cutting), hardwood dust, welding fume","Nothing above it in disposables — beyond this is powered/supplied air"]
-          ] },
-        { "type":"prose", "klabel":"The letters", "h2":"NR, R and D — the marks after the grade", "narrow":true,
-          "html":"<p><strong>NR</strong> (non-reusable) means single shift — bin it after use; most site disposables are NR. <strong>R</strong> marks reusable facepieces that tolerate cleaning per the maker's instructions. <strong>D</strong> means the mask passed the dolomite clogging test — it breathes acceptably even as dust loads up, which matters for full-shift wear in heavy dust.</p><p><strong>Valves</strong> ease exhalation on long wear but filter nothing on the way out — a consideration anywhere protecting <em>others</em> matters (food production lines, clinical settings). And frequency changes the format decision: someone in FFP3 conditions daily is usually better served by a <strong>reusable half-mask with replaceable filters</strong> — cheaper per week and easier to fit-test — which is the reusable side of the <a href='disposable-vs-reusable-ppe.html'>disposable vs reusable question</a>.</p>" },
-        { "type":"warnbar", "html":"<strong>Silica is the one to respect.</strong> Cutting, grinding or drilling concrete, stone, brick and mortar releases respirable crystalline silica — a cause of irreversible lung disease at exposures that don't look dramatic. That work is FFP3 territory as a minimum, alongside dust suppression and extraction. If a task involves regular silica exposure, the answer is an RPE programme, not a box of masks." },
-        { "type":"clusternav" },
-        { "type":"faq", "klabel":"Questions", "h2":"FFP FAQ" }
+      "heroMeta": [
+        {
+          "n": "FFP1–3",
+          "l": "The three grades"
+        },
+        {
+          "n": "Fit first",
+          "l": "The seal is the system"
+        },
+        {
+          "n": "NR / R / D",
+          "l": "The letters after"
+        }
       ],
-      "faq":[
-        {"q":"What is the difference between FFP2 and FFP3?","a":"Filter efficiency and permitted leakage: FFP2 stops roughly 94% of test aerosol, FFP3 roughly 99% with a tighter leakage allowance. FFP3 is the disposable grade for silica dust, hardwood dust and welding fume; FFP2 covers general construction dusts like plaster."},
-        {"q":"Do dust masks work with beards?","a":"Tight-fitting disposables don't seal over stubble or beards — leakage around the edge bypasses the filter entirely. Bearded workers needing respiratory protection should use loose-fitting powered hoods or shave the seal line; a fit test will fail otherwise."},
-        {"q":"What does NR mean on an FFP mask?","a":"Non-reusable: the mask is certified for a single shift, then binned. R-marked facepieces tolerate reuse with cleaning per the manufacturer. The D mark separately shows the mask passed a clogging test and stays breathable through a dusty shift."},
-        {"q":"Is face-fit testing legally required?","a":"Where tight-fitting RPE is used to control workplace exposure in the UK, yes — HSE expects each wearer to be face-fit tested on the specific mask model they use, and refitted if the model changes or their face changes significantly."}
-      ]
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "How it works",
+          "h2": "A filter is only as good as its seal",
+          "html": "<p><strong>EN 149</strong> covers filtering facepieces — masks where the whole facepiece is the filter. The grades measure two things together: how much the filter material stops, and how much leaks in around the edges. That's why the standard's real-world lesson is about <strong>fit</strong>: air takes the path of least resistance, and a gap at the nose or a bearded jawline turns any grade into decoration.</p><p>UK workplaces requiring tight-fitting RPE need <strong>face-fit testing</strong> for each wearer — and a clean-shaven seal line where the mask meets the face. That's HSE's position, not a manufacturer upsell.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The grades",
+          "h2": "FFP1 to FFP3, honestly placed",
+          "head": [
+            "Grade",
+            "Filters (approx.)",
+            "Right for",
+            "Wrong for"
+          ],
+          "rows": [
+            [
+              "<span class='code'>FFP1</span>",
+              "~80% — nuisance dusts",
+              "Hand sanding softwood, general dusty tidying",
+              "Silica, hardwood dust, anything toxic"
+            ],
+            [
+              "<span class='code'>FFP2</span>",
+              "~94%",
+              "Plaster, softwood machine dust, general construction dust",
+              "Silica-heavy cutting, welding fume at volume"
+            ],
+            [
+              "<span class='code'>FFP3</span>",
+              "~99%",
+              "Silica (concrete/stone cutting), hardwood dust, welding fume",
+              "Nothing above it in disposables — beyond this is powered/supplied air"
+            ]
+          ]
+        },
+        {
+          "type": "prose",
+          "klabel": "The letters",
+          "h2": "NR, R and D — the marks after the grade",
+          "narrow": true,
+          "html": "<p><strong>NR</strong> (non-reusable) means single shift — bin it after use; most site disposables are NR. <strong>R</strong> marks reusable facepieces that tolerate cleaning per the maker's instructions. <strong>D</strong> means the mask passed the dolomite clogging test — it breathes acceptably even as dust loads up, which matters for full-shift wear in heavy dust.</p><p><strong>Valves</strong> ease exhalation on long wear but filter nothing on the way out — a consideration anywhere protecting <em>others</em> matters (food production lines, clinical settings). And frequency changes the format decision: someone in FFP3 conditions daily is usually better served by a <strong>reusable half-mask with replaceable filters</strong> — cheaper per week and easier to fit-test — which is the reusable side of the <a href='disposable-vs-reusable-ppe.html'>disposable vs reusable question</a>.</p>"
+        },
+        {
+          "type": "warnbar",
+          "html": "<strong>Silica is the one to respect.</strong> Cutting, grinding or drilling concrete, stone, brick and mortar releases respirable crystalline silica — a cause of irreversible lung disease at exposures that don't look dramatic. That work is FFP3 territory as a minimum, alongside dust suppression and extraction. If a task involves regular silica exposure, the answer is an RPE programme, not a box of masks."
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "FFP FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What is the difference between FFP2 and FFP3?",
+          "a": "Filter efficiency and permitted leakage: FFP2 stops roughly 94% of test aerosol, FFP3 roughly 99% with a tighter leakage allowance. FFP3 is the disposable grade for silica dust, hardwood dust and welding fume; FFP2 covers general construction dusts like plaster."
+        },
+        {
+          "q": "Do dust masks work with beards?",
+          "a": "Tight-fitting disposables don't seal over stubble or beards — leakage around the edge bypasses the filter entirely. Bearded workers needing respiratory protection should use loose-fitting powered hoods or shave the seal line; a fit test will fail otherwise."
+        },
+        {
+          "q": "What does NR mean on an FFP mask?",
+          "a": "Non-reusable: the mask is certified for a single shift, then binned. R-marked facepieces tolerate reuse with cleaning per the manufacturer. The D mark separately shows the mask passed a clogging test and stays breathable through a dusty shift."
+        },
+        {
+          "q": "Is face-fit testing legally required?",
+          "a": "Where tight-fitting RPE is used to control workplace exposure in the UK, yes — HSE expects each wearer to be face-fit tested on the specific mask model they use, and refitted if the model changes or their face changes significantly."
+        }
+      ],
+      "heroImage": {
+        "src": "assets/heroes/spec/en-149-ffp-ratings-explained.svg",
+        "alt": "EN 149 — FFP RESPIRATORS — specification plate",
+        "kind": "cutout",
+        "dark": true,
+        "w": 460,
+        "h": 420
+      }
     },
     {
       "slug": "en-166-eye-protection-explained",
@@ -107,37 +305,131 @@
       "metaTitle": "EN 166 Eye Protection Explained: Specs & Goggles | iNeedWorkwear",
       "metaDesc": "EN 166 markings decoded — impact grades F, B and A, splash and dust codes 3/4/5, optical classes, K and N coatings, and when specs give way to goggles or a face shield.",
       "lede": "Safety specs carry their specification etched on the lens and frame in a compact code — impact grade, splash and dust protection, optical quality, coatings. Learn five characters and you can read any pair on the shelf.",
-      "heroMeta": [ {"n":"F · B · A","l":"The impact grades"}, {"n":"3 · 4 · 5","l":"Liquid, dust, gas codes"}, {"n":"K · N","l":"The coatings that matter"} ],
-      "schema": { "type": "Article" },
-      "blocks": [
-        { "type":"prose", "narrow":true, "klabel":"The system", "h2":"Frame and lens each carry a spec",
-          "html":"<p><strong>EN 166</strong> is the umbrella standard for personal eye protection. The lens marking covers optical class and impact/coating performance; the frame marking covers the fields of use. The characters that do the work:</p><ul><li><strong>Optical class 1–3</strong> — class 1 is fit for continuous daily wear; 2 and 3 tolerate more distortion and suit occasional use.</li><li><strong>Impact grades</strong> — <strong>S</strong> (increased robustness), then high-speed particles: <strong>F</strong> (45 m/s — the everyday specs grade), <strong>B</strong> (120 m/s — goggles territory), <strong>A</strong> (190 m/s — face shields).</li><li><strong>Fields of use</strong> — <strong>3</strong> liquids/splash, <strong>4</strong> large dust, <strong>5</strong> gas and fine dust, <strong>8</strong> electrical arc, <strong>9</strong> molten metal.</li><li><strong>Coatings</strong> — <strong>K</strong> anti-scratch, <strong>N</strong> anti-fog: the two letters that decide whether specs are still wearable in month three.</li></ul>" },
-        { "type":"table", "variant":"alt", "klabel":"Choosing", "h2":"Specs, goggles or shield — by task",
-          "head":["Task","Wear","Look for"],
-          "rows":[
-            ["General site & workshop wear","Safety specs","<span class='code'>1 F K N</span> — daily-wear class, particle grade, both coatings"],
-            ["Grinding, cutting, strimming","Goggles (or specs + shield)","<span class='code'>B</span> impact grade"],
-            ["Chemical splash, decanting","Sealed goggles","<span class='code'>3</span> (liquids), often with <span class='code'>4/5</span> for dusts"],
-            ["Dusty demolition, insulation work","Sealed goggles","<span class='code'>4</span> or <span class='code'>5</span>"],
-            ["Welding & hot works","Dedicated welding protection","Shade numbers under the welding filter standards"]
-          ] },
-        { "type":"prose", "klabel":"The real-world bit", "h2":"The best eye protection is the pair that stays on", "narrow":true,
-          "html":"<p>Eye injuries cluster around a familiar story: the specs were in a pocket because they'd fogged, scratched or pinched. That makes <strong>comfort and coatings</strong> safety features, not luxuries — anti-fog (N) for anyone moving between temperatures, anti-scratch (K) for kit that lives in a toolbag, and adjustable arms for the long-shift fit. Prescription wearers have real options: over-specs sized to fit across glasses, and prescription safety specs made to EN 166 — both beat the wear-nothing compromise.</p><p>Fit rules also apply upward: goggles must seal to earn their splash and dust codes, and a face shield is <em>secondary</em> protection worn over specs or goggles for the highest-energy tasks, not a substitute for them.</p>" },
-        { "type":"keyfacts", "variant":"dark", "klabel":"Buying", "h2":"Three marks that earn their price",
-          "items":[
-            {"n":"1 for all-day","l":"Optical class 1 is the continuous-wear class — 2 and 3 fatigue eyes"},
-            {"n":"K + N","l":"The coatings decide whether the specs survive real use"},
-            {"n":"F on the frame too","l":"The rating counts only if lens AND frame carry the grade"}
-          ] },
-        { "type":"clusternav" },
-        { "type":"faq", "klabel":"Questions", "h2":"Eye protection FAQ" }
+      "heroMeta": [
+        {
+          "n": "F · B · A",
+          "l": "The impact grades"
+        },
+        {
+          "n": "3 · 4 · 5",
+          "l": "Liquid, dust, gas codes"
+        },
+        {
+          "n": "K · N",
+          "l": "The coatings that matter"
+        }
       ],
-      "faq":[
-        {"q":"What does F mean on safety glasses?","a":"Impact protection against high-speed particles at 45 m/s — the standard grade for everyday safety specs. B (120 m/s) needs goggle construction, and A (190 m/s) a face shield. The letter counts only if both lens and frame carry it."},
-        {"q":"What do K and N mean on safety specs?","a":"K is anti-scratch, N is anti-fog. They're the difference between specs that stay wearable and specs that end up in a pocket — which is where eye injuries happen. For daily wear, treat both as required."},
-        {"q":"Can you get prescription safety glasses?","a":"Yes — prescription safety specs certified to EN 166 are a standard product, and over-specs that fit across ordinary glasses cover occasional use. Ordinary prescription glasses on their own are not rated impact protection."},
-        {"q":"When do you need goggles instead of safety glasses?","a":"When the hazard needs a seal or a higher impact grade: chemical splash (field-of-use 3), fine dust (4/5), or high-energy particles from grinding and cutting (impact grade B). Specs protect the front; goggles protect the perimeter."}
-      ]
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The system",
+          "h2": "Frame and lens each carry a spec",
+          "html": "<p><strong>EN 166</strong> is the umbrella standard for personal eye protection. The lens marking covers optical class and impact/coating performance; the frame marking covers the fields of use. The characters that do the work:</p><ul><li><strong>Optical class 1–3</strong> — class 1 is fit for continuous daily wear; 2 and 3 tolerate more distortion and suit occasional use.</li><li><strong>Impact grades</strong> — <strong>S</strong> (increased robustness), then high-speed particles: <strong>F</strong> (45 m/s — the everyday specs grade), <strong>B</strong> (120 m/s — goggles territory), <strong>A</strong> (190 m/s — face shields).</li><li><strong>Fields of use</strong> — <strong>3</strong> liquids/splash, <strong>4</strong> large dust, <strong>5</strong> gas and fine dust, <strong>8</strong> electrical arc, <strong>9</strong> molten metal.</li><li><strong>Coatings</strong> — <strong>K</strong> anti-scratch, <strong>N</strong> anti-fog: the two letters that decide whether specs are still wearable in month three.</li></ul>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Choosing",
+          "h2": "Specs, goggles or shield — by task",
+          "head": [
+            "Task",
+            "Wear",
+            "Look for"
+          ],
+          "rows": [
+            [
+              "General site & workshop wear",
+              "Safety specs",
+              "<span class='code'>1 F K N</span> — daily-wear class, particle grade, both coatings"
+            ],
+            [
+              "Grinding, cutting, strimming",
+              "Goggles (or specs + shield)",
+              "<span class='code'>B</span> impact grade"
+            ],
+            [
+              "Chemical splash, decanting",
+              "Sealed goggles",
+              "<span class='code'>3</span> (liquids), often with <span class='code'>4/5</span> for dusts"
+            ],
+            [
+              "Dusty demolition, insulation work",
+              "Sealed goggles",
+              "<span class='code'>4</span> or <span class='code'>5</span>"
+            ],
+            [
+              "Welding & hot works",
+              "Dedicated welding protection",
+              "Shade numbers under the welding filter standards"
+            ]
+          ]
+        },
+        {
+          "type": "prose",
+          "klabel": "The real-world bit",
+          "h2": "The best eye protection is the pair that stays on",
+          "narrow": true,
+          "html": "<p>Eye injuries cluster around a familiar story: the specs were in a pocket because they'd fogged, scratched or pinched. That makes <strong>comfort and coatings</strong> safety features, not luxuries — anti-fog (N) for anyone moving between temperatures, anti-scratch (K) for kit that lives in a toolbag, and adjustable arms for the long-shift fit. Prescription wearers have real options: over-specs sized to fit across glasses, and prescription safety specs made to EN 166 — both beat the wear-nothing compromise.</p><p>Fit rules also apply upward: goggles must seal to earn their splash and dust codes, and a face shield is <em>secondary</em> protection worn over specs or goggles for the highest-energy tasks, not a substitute for them.</p>"
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Buying",
+          "h2": "Three marks that earn their price",
+          "items": [
+            {
+              "n": "1 for all-day",
+              "l": "Optical class 1 is the continuous-wear class — 2 and 3 fatigue eyes"
+            },
+            {
+              "n": "K + N",
+              "l": "The coatings decide whether the specs survive real use"
+            },
+            {
+              "n": "F on the frame too",
+              "l": "The rating counts only if lens AND frame carry the grade"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Eye protection FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What does F mean on safety glasses?",
+          "a": "Impact protection against high-speed particles at 45 m/s — the standard grade for everyday safety specs. B (120 m/s) needs goggle construction, and A (190 m/s) a face shield. The letter counts only if both lens and frame carry it."
+        },
+        {
+          "q": "What do K and N mean on safety specs?",
+          "a": "K is anti-scratch, N is anti-fog. They're the difference between specs that stay wearable and specs that end up in a pocket — which is where eye injuries happen. For daily wear, treat both as required."
+        },
+        {
+          "q": "Can you get prescription safety glasses?",
+          "a": "Yes — prescription safety specs certified to EN 166 are a standard product, and over-specs that fit across ordinary glasses cover occasional use. Ordinary prescription glasses on their own are not rated impact protection."
+        },
+        {
+          "q": "When do you need goggles instead of safety glasses?",
+          "a": "When the hazard needs a seal or a higher impact grade: chemical splash (field-of-use 3), fine dust (4/5), or high-energy particles from grinding and cutting (impact grade B). Specs protect the front; goggles protect the perimeter."
+        }
+      ],
+      "heroImage": {
+        "src": "assets/heroes/spec/en-166-eye-protection-explained.svg",
+        "alt": "EN 166 — EYE PROTECTION — specification plate",
+        "kind": "cutout",
+        "dark": true,
+        "w": 460,
+        "h": 420
+      }
     },
     {
       "slug": "en-13034-chem-splash-explained",
@@ -152,32 +444,116 @@
       "metaTitle": "EN 13034 Type 6 Chemical Splash Explained | iNeedWorkwear",
       "metaDesc": "EN 13034 Type 6 covers light spray and incidental splash where you can act fast — what it protects, the Type 1–6 ladder above it, and the honest limits of splash-rated workwear.",
       "lede": "Chemical protective clothing runs from a mist-resistant coverall to a gas-tight suit, and the whole ladder is numbered. EN 13034 — Type 6 — is the bottom rung, and knowing exactly what \"bottom rung\" covers is the difference between sensible kit and false confidence.",
-      "heroMeta": [ {"n":"Type 6","l":"The splash tier"}, {"n":"Limited","l":"Is doing real work in that sentence"}, {"n":"6 → 1","l":"The ladder above it"} ],
-      "schema": { "type": "Article" },
-      "blocks": [
-        { "type":"prose", "narrow":true, "klabel":"What Type 6 is", "h2":"Protection for the incidental, not the immersive",
-          "html":"<p><strong>EN 13034 (Type 6)</strong> certifies clothing against <strong>light spray, mist and incidental splash</strong> of liquid chemicals — situations where exposure is small, brief, and the wearer can step away and decontaminate promptly. Think splash-adjacent tasks: dosing cleaning chemicals, concrete additives, agricultural spraying at a distance, battery-adjacent maintenance.</p><p>The certification tests the fabric's repellency and penetration resistance against reference chemicals, and garments come as coveralls or partial cover (Type PB[6]). Many are <strong>treated workwear fabrics</strong> — and like all finishes, the repellency has a wash life; industrial disposable Type 5/6 coveralls exist precisely because one-use-then-bin sidesteps that.</p>" },
-        { "type":"table", "variant":"alt", "klabel":"The ladder", "h2":"Where Type 6 sits", "lead":"Higher protection = lower number. Each type is a different garment class, not a better version of the same one.",
-          "head":["Type","Protects against","Typical garment"],
-          "rows":[
-            ["<span class='code'>Type 6</span>","Light spray, incidental splash","Splash-rated coveralls — this standard"],
-            ["<span class='code'>Type 5</span>","Airborne solid particulates","Disposable coveralls (asbestos-adjacent, dusts)"],
-            ["<span class='code'>Type 4</span>","Saturating liquid spray","Sealed-seam spray-tight suits"],
-            ["<span class='code'>Type 3</span>","Pressurised liquid jets","Jet-tight chemical suits"],
-            ["<span class='code'>Type 1–2</span>","Gas-tight / non-gas-tight environments","Encapsulating suits — specialist territory"]
-          ] },
-        { "type":"warnbar", "html":"<strong>The chemical decides, not the splash size.</strong> Type 6 assumes exposure you can walk away from — it is not protection for corrosives that injure on contact, prolonged wetting, or anything under pressure. Check the substance's safety data sheet: if it demands specific protective clothing, that spec (and the matching glove under <a href='work-gloves-guide.html' style='color:#fff;text-decoration:underline'>EN ISO 374</a>) overrides anything a general splash coverall offers." },
-        { "type":"prose", "klabel":"In practice", "h2":"Where splash-rated workwear earns its keep", "narrow":true,
-          "html":"<p>The honest home of Type 6 is <strong>routine work near diluted or low-hazard chemicals</strong> — cleaning teams dosing chemicals, groundworkers around concrete admixtures, maintenance staff around lubricants and coolants. It keeps incidental contact off skin and everyday clothing, pairs with chemical-rated gloves and eye protection (<a href='en-166-eye-protection-explained.html'>field-of-use 3</a>), and gets decontaminated or binned after real contact rather than worn on.</p><p>The moment work involves deliberate, sustained or pressurised chemical contact, you've left Type 6's world — that's a risk assessment, an SDS, and a suit further up the ladder.</p>" },
-        { "type":"clusternav" },
-        { "type":"faq", "klabel":"Questions", "h2":"Chem splash FAQ" }
+      "heroMeta": [
+        {
+          "n": "Type 6",
+          "l": "The splash tier"
+        },
+        {
+          "n": "Limited",
+          "l": "Is doing real work in that sentence"
+        },
+        {
+          "n": "6 → 1",
+          "l": "The ladder above it"
+        }
       ],
-      "faq":[
-        {"q":"What does EN 13034 Type 6 protect against?","a":"Light spray, mists and incidental splashes of liquid chemicals where exposure is brief and the wearer can decontaminate promptly. It's the entry tier of chemical protective clothing — suitable for splash-adjacent work, not for sustained or pressurised contact."},
-        {"q":"Is Type 6 clothing enough for handling corrosives?","a":"Generally no — substances that injure on contact demand protection chosen from their safety data sheet, usually higher-type garments with sealed seams plus chemical-rated gloves, eye and face protection. Type 6 assumes exposure you can walk away from."},
-        {"q":"Does chemical splash protection wash out?","a":"On treated workwear fabrics, the repellent finish has a wash life like any finish — follow the garment's care label and re-treatment guidance. Disposable Type 5/6 coveralls avoid the question by design: one wear, then bin."},
-        {"q":"What's the difference between Type 5 and Type 6?","a":"Type 5 protects against airborne solid particulates (dusts, fibres); Type 6 against light liquid splash. Many disposable coveralls certify to both at once — the familiar 'Type 5/6' marking — covering dusty and splash-adjacent work in one garment."}
-      ]
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "What Type 6 is",
+          "h2": "Protection for the incidental, not the immersive",
+          "html": "<p><strong>EN 13034 (Type 6)</strong> certifies clothing against <strong>light spray, mist and incidental splash</strong> of liquid chemicals — situations where exposure is small, brief, and the wearer can step away and decontaminate promptly. Think splash-adjacent tasks: dosing cleaning chemicals, concrete additives, agricultural spraying at a distance, battery-adjacent maintenance.</p><p>The certification tests the fabric's repellency and penetration resistance against reference chemicals, and garments come as coveralls or partial cover (Type PB[6]). Many are <strong>treated workwear fabrics</strong> — and like all finishes, the repellency has a wash life; industrial disposable Type 5/6 coveralls exist precisely because one-use-then-bin sidesteps that.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "The ladder",
+          "h2": "Where Type 6 sits",
+          "lead": "Higher protection = lower number. Each type is a different garment class, not a better version of the same one.",
+          "head": [
+            "Type",
+            "Protects against",
+            "Typical garment"
+          ],
+          "rows": [
+            [
+              "<span class='code'>Type 6</span>",
+              "Light spray, incidental splash",
+              "Splash-rated coveralls — this standard"
+            ],
+            [
+              "<span class='code'>Type 5</span>",
+              "Airborne solid particulates",
+              "Disposable coveralls (asbestos-adjacent, dusts)"
+            ],
+            [
+              "<span class='code'>Type 4</span>",
+              "Saturating liquid spray",
+              "Sealed-seam spray-tight suits"
+            ],
+            [
+              "<span class='code'>Type 3</span>",
+              "Pressurised liquid jets",
+              "Jet-tight chemical suits"
+            ],
+            [
+              "<span class='code'>Type 1–2</span>",
+              "Gas-tight / non-gas-tight environments",
+              "Encapsulating suits — specialist territory"
+            ]
+          ]
+        },
+        {
+          "type": "warnbar",
+          "html": "<strong>The chemical decides, not the splash size.</strong> Type 6 assumes exposure you can walk away from — it is not protection for corrosives that injure on contact, prolonged wetting, or anything under pressure. Check the substance's safety data sheet: if it demands specific protective clothing, that spec (and the matching glove under <a href='work-gloves-guide.html' style='color:#fff;text-decoration:underline'>EN ISO 374</a>) overrides anything a general splash coverall offers."
+        },
+        {
+          "type": "prose",
+          "klabel": "In practice",
+          "h2": "Where splash-rated workwear earns its keep",
+          "narrow": true,
+          "html": "<p>The honest home of Type 6 is <strong>routine work near diluted or low-hazard chemicals</strong> — cleaning teams dosing chemicals, groundworkers around concrete admixtures, maintenance staff around lubricants and coolants. It keeps incidental contact off skin and everyday clothing, pairs with chemical-rated gloves and eye protection (<a href='en-166-eye-protection-explained.html'>field-of-use 3</a>), and gets decontaminated or binned after real contact rather than worn on.</p><p>The moment work involves deliberate, sustained or pressurised chemical contact, you've left Type 6's world — that's a risk assessment, an SDS, and a suit further up the ladder.</p>"
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Chem splash FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What does EN 13034 Type 6 protect against?",
+          "a": "Light spray, mists and incidental splashes of liquid chemicals where exposure is brief and the wearer can decontaminate promptly. It's the entry tier of chemical protective clothing — suitable for splash-adjacent work, not for sustained or pressurised contact."
+        },
+        {
+          "q": "Is Type 6 clothing enough for handling corrosives?",
+          "a": "Generally no — substances that injure on contact demand protection chosen from their safety data sheet, usually higher-type garments with sealed seams plus chemical-rated gloves, eye and face protection. Type 6 assumes exposure you can walk away from."
+        },
+        {
+          "q": "Does chemical splash protection wash out?",
+          "a": "On treated workwear fabrics, the repellent finish has a wash life like any finish — follow the garment's care label and re-treatment guidance. Disposable Type 5/6 coveralls avoid the question by design: one wear, then bin."
+        },
+        {
+          "q": "What's the difference between Type 5 and Type 6?",
+          "a": "Type 5 protects against airborne solid particulates (dusts, fibres); Type 6 against light liquid splash. Many disposable coveralls certify to both at once — the familiar 'Type 5/6' marking — covering dusty and splash-adjacent work in one garment."
+        }
+      ],
+      "heroImage": {
+        "src": "assets/heroes/spec/en-13034-chem-splash-explained.svg",
+        "alt": "EN 13034 — CHEMICAL SPLASH — specification plate",
+        "kind": "cutout",
+        "dark": true,
+        "w": 460,
+        "h": 420
+      }
     },
     {
       "slug": "en-511-winter-gloves-explained",
@@ -192,33 +568,115 @@
       "metaTitle": "EN 511 Winter Glove Ratings Explained | iNeedWorkwear",
       "metaDesc": "EN 511's three digits decoded — convective cold, contact cold and water penetration — why the water digit rules outdoor winter work, and pairing cold ratings with EN 388 grip.",
       "lede": "Cold hands drop things, fumble fixings and end shifts early — and the standard that grades winter gloves is refreshingly small: three digits. The third one, water, is the digit that separates a January-proof glove from a numb morning.",
-      "heroMeta": [ {"n":"3 digits","l":"Convective · contact · water"}, {"n":"0 or 1","l":"The water digit — pass/fail"}, {"n":"+ EN 388","l":"Cold gloves still need grip"} ],
-      "schema": { "type": "Article" },
-      "blocks": [
-        { "type":"prose", "narrow":true, "klabel":"The digits", "h2":"Three numbers, three different colds",
-          "html":"<p><strong>EN 511</strong> marks gloves with three digits:</p><ul><li><strong>Digit 1 — convective cold (0–4):</strong> insulation against cold air around the hand. The headline number for general winter work.</li><li><strong>Digit 2 — contact cold (0–4):</strong> insulation when gripping cold objects — steel scaffold tube, frozen cartons, cold store racking. Often the digit that matters most, because bare-handed contact with cold steel strips heat far faster than cold air does.</li><li><strong>Digit 3 — water penetration (0 or 1):</strong> pass/fail — 1 means no water penetrated after 30 minutes. A wet glove loses its insulation almost entirely, which is why this single digit decides outdoor winter performance.</li></ul><p>An <strong>X</strong> in any position means untested, same convention as <a href='en-388-glove-ratings-decoder.html'>EN 388</a> — and winter work gloves should carry both standards: EN 511 for the cold, EN 388 for the mechanical job the hands are still doing.</p>" },
-        { "type":"table", "variant":"alt", "klabel":"Choosing", "h2":"Match the digits to the work",
-          "head":["Work","Look for","Why"],
-          "rows":[
-            ["Winter site work in the rain","<span class='code'>x / x / 1</span> — water pass first","Wet insulation is no insulation"],
-            ["Cold store & freezer handling","High <span class='code'>contact</span> digit","The cold arrives through what you grip"],
-            ["Winter driving, yard checks, short exposure","Convective 1–2, dexterity-first","Over-insulated gloves come off for tasks — then stay off"],
-            ["Handling frozen goods all shift","Contact 2+ and water 1","Sustained grip on frozen product"]
-          ] },
-        { "type":"keyfacts", "variant":"dark", "klabel":"The craft", "h2":"Three winter-glove truths",
-          "items":[
-            {"n":"Dexterity wins","l":"The warmest glove is useless in a pocket — a thinner glove that stays on beats a mitten that doesn't"},
-            {"n":"Wet = done","l":"Rotate two pairs in wet weather; drying overnight is part of the system"},
-            {"n":"Liners multiply","l":"A thin liner under a work glove adds a class of warmth without killing grip"}
-          ] },
-        { "type":"clusternav" },
-        { "type":"faq", "klabel":"Questions", "h2":"Winter glove FAQ" }
+      "heroMeta": [
+        {
+          "n": "3 digits",
+          "l": "Convective · contact · water"
+        },
+        {
+          "n": "0 or 1",
+          "l": "The water digit — pass/fail"
+        },
+        {
+          "n": "+ EN 388",
+          "l": "Cold gloves still need grip"
+        }
       ],
-      "faq":[
-        {"q":"What do the three numbers on winter gloves mean?","a":"EN 511's digits: convective cold insulation (0–4), contact cold insulation (0–4), and water penetration (0 or 1, where 1 means waterproof for the 30-minute test). Higher is better; X means untested for that property."},
-        {"q":"Which EN 511 digit matters most?","a":"Outdoors in British winter, the water digit — wet insulation stops insulating, so a 1 there protects the other two numbers. For cold-store and frozen-goods work, the contact-cold digit leads, because heat loss happens through what you grip."},
-        {"q":"Do winter gloves also need an EN 388 rating?","a":"Yes — EN 511 covers cold only. The hands are still doing mechanical work, so winter gloves should carry EN 388 ratings for abrasion and grip appropriate to the task. Most quality winter work gloves certify to both."}
-      ]
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The digits",
+          "h2": "Three numbers, three different colds",
+          "html": "<p><strong>EN 511</strong> marks gloves with three digits:</p><ul><li><strong>Digit 1 — convective cold (0–4):</strong> insulation against cold air around the hand. The headline number for general winter work.</li><li><strong>Digit 2 — contact cold (0–4):</strong> insulation when gripping cold objects — steel scaffold tube, frozen cartons, cold store racking. Often the digit that matters most, because bare-handed contact with cold steel strips heat far faster than cold air does.</li><li><strong>Digit 3 — water penetration (0 or 1):</strong> pass/fail — 1 means no water penetrated after 30 minutes. A wet glove loses its insulation almost entirely, which is why this single digit decides outdoor winter performance.</li></ul><p>An <strong>X</strong> in any position means untested, same convention as <a href='en-388-glove-ratings-decoder.html'>EN 388</a> — and winter work gloves should carry both standards: EN 511 for the cold, EN 388 for the mechanical job the hands are still doing.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Choosing",
+          "h2": "Match the digits to the work",
+          "head": [
+            "Work",
+            "Look for",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Winter site work in the rain",
+              "<span class='code'>x / x / 1</span> — water pass first",
+              "Wet insulation is no insulation"
+            ],
+            [
+              "Cold store & freezer handling",
+              "High <span class='code'>contact</span> digit",
+              "The cold arrives through what you grip"
+            ],
+            [
+              "Winter driving, yard checks, short exposure",
+              "Convective 1–2, dexterity-first",
+              "Over-insulated gloves come off for tasks — then stay off"
+            ],
+            [
+              "Handling frozen goods all shift",
+              "Contact 2+ and water 1",
+              "Sustained grip on frozen product"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "The craft",
+          "h2": "Three winter-glove truths",
+          "items": [
+            {
+              "n": "Dexterity wins",
+              "l": "The warmest glove is useless in a pocket — a thinner glove that stays on beats a mitten that doesn't"
+            },
+            {
+              "n": "Wet = done",
+              "l": "Rotate two pairs in wet weather; drying overnight is part of the system"
+            },
+            {
+              "n": "Liners multiply",
+              "l": "A thin liner under a work glove adds a class of warmth without killing grip"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Winter glove FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What do the three numbers on winter gloves mean?",
+          "a": "EN 511's digits: convective cold insulation (0–4), contact cold insulation (0–4), and water penetration (0 or 1, where 1 means waterproof for the 30-minute test). Higher is better; X means untested for that property."
+        },
+        {
+          "q": "Which EN 511 digit matters most?",
+          "a": "Outdoors in British winter, the water digit — wet insulation stops insulating, so a 1 there protects the other two numbers. For cold-store and frozen-goods work, the contact-cold digit leads, because heat loss happens through what you grip."
+        },
+        {
+          "q": "Do winter gloves also need an EN 388 rating?",
+          "a": "Yes — EN 511 covers cold only. The hands are still doing mechanical work, so winter gloves should carry EN 388 ratings for abrasion and grip appropriate to the task. Most quality winter work gloves certify to both."
+        }
+      ],
+      "heroImage": {
+        "src": "assets/heroes/spec/en-511-winter-gloves-explained.svg",
+        "alt": "EN 511 — COLD PROTECTION GLOVES — specification plate",
+        "kind": "cutout",
+        "dark": true,
+        "w": 460,
+        "h": 420
+      }
     },
     {
       "slug": "en-407-heat-gloves-explained",
@@ -233,36 +691,127 @@
       "metaTitle": "EN 407 Heat Glove Ratings Explained | iNeedWorkwear",
       "metaDesc": "EN 407's six digits decoded — flame, contact heat, convective, radiant, small and large molten metal splash — with the contact-heat table and how hot trades read the marking.",
       "lede": "Heat reaches hands more ways than any other part of the body — gripped, radiated, splashed, blown. EN 407 grades all six routes in one six-digit string, and reading it takes about as long as a glove takes to smoulder.",
-      "heroMeta": [ {"n":"6 digits","l":"Six kinds of heat"}, {"n":"100–500 °C","l":"The contact-heat ladder"}, {"n":"X","l":"Still means untested"} ],
-      "schema": { "type": "Article" },
-      "blocks": [
-        { "type":"prose", "narrow":true, "klabel":"The string", "h2":"Six positions, left to right",
-          "html":"<p><strong>EN 407</strong> marks thermal gloves with six digits, each 1–4 (or X for untested):</p><ol><li><strong>Burning behaviour</strong> — does the glove itself ignite and keep burning? The gateway digit: high numbers here make the others meaningful.</li><li><strong>Contact heat</strong> — the everyday hero: level 1 ≈ 100 °C, level 2 ≈ 250 °C, level 3 ≈ 350 °C, level 4 ≈ 500 °C, each held for 15 seconds.</li><li><strong>Convective heat</strong> — hot air and flame-heated atmospheres.</li><li><strong>Radiant heat</strong> — furnace mouths, glowing metal, fire watch.</li><li><strong>Small splashes of molten metal</strong> — welding spatter territory.</li><li><strong>Large quantities of molten metal</strong> — foundry pouring; the digit that separates welders' gloves from founders'.</li></ol>" },
-        { "type":"table", "variant":"alt", "klabel":"By trade", "h2":"Which digits each trade reads first",
-          "head":["Trade","Digits that matter","Notes"],
-          "rows":[
-            ["Welder (MIG/stick)","1, 2 and 5 — flame, contact, spatter","Welding gauntlets also certify to their own glove standard"],
-            ["TIG welder","Lower heat digits, dexterity first","Thin goatskin beats thick leather for the job"],
-            ["Foundry & casting","6 — large molten metal — plus radiant","Matches the garment's <a href='en-iso-11612-explained.html'>11612 D/E codes</a>"],
-            ["Ovens, hot parts, moulding","2 — contact heat by temperature","Pick the level to the surface, add margin"],
-            ["Fire watch / hot works adjacent","1, 3 and 4","Flame behaviour and radiant lead"]
-          ] },
-        { "type":"prose", "klabel":"The pairing", "h2":"Heat gloves live inside an FR system", "narrow":true,
-          "html":"<p>Hot-work gloves rarely travel alone: the wrist gap between glove and sleeve is a classic burn site, which is why welding gauntlets run long and why the garment side — <a href='fr-workwear-guide.html'>FR clothing</a> with the right <a href='en-iso-11612-explained.html'>11612 letters</a> — matters as much as the glove. And the EN 407 string says nothing about mechanical work: a foundry glove still needs <a href='en-388-glove-ratings-decoder.html'>EN 388</a> numbers for the handling it does between heat events.</p><p>One care note with teeth: burned, hardened or oil-soaked patches on a heat glove are failure points, not patina. Heat kit gets inspected like the PPE it is.</p>" },
-        { "type":"keyfacts", "variant":"dark", "klabel":"Reading", "h2":"Three rules for the string",
-          "items":[
-            {"n":"Digit 1 gates","l":"Poor burning behaviour undermines every other number"},
-            {"n":"Contact = temperature","l":"Level 2 ≈ 250 °C for 15 s — pick to the surface you grip"},
-            {"n":"5 ≠ 6","l":"Welding spatter and foundry pours are different digits — buy the right one"}
-          ] },
-        { "type":"clusternav" },
-        { "type":"faq", "klabel":"Questions", "h2":"Heat glove FAQ" }
+      "heroMeta": [
+        {
+          "n": "6 digits",
+          "l": "Six kinds of heat"
+        },
+        {
+          "n": "100–500 °C",
+          "l": "The contact-heat ladder"
+        },
+        {
+          "n": "X",
+          "l": "Still means untested"
+        }
       ],
-      "faq":[
-        {"q":"What do the six numbers on heat-resistant gloves mean?","a":"EN 407's positions: burning behaviour, contact heat, convective heat, radiant heat, small molten-metal splashes and large molten-metal quantities — each rated 1–4, X meaning untested. Trades read different positions: welders watch 1, 2 and 5; foundries watch 6."},
-        {"q":"What temperature can EN 407 gloves handle?","a":"The contact-heat digit sets it: level 1 is tested at 100 °C, level 2 at 250 °C, level 3 at 350 °C and level 4 at 500 °C, each for 15 seconds of contact. Match the level to the hottest surface actually gripped, with margin."},
-        {"q":"Are welding gloves and foundry gloves the same?","a":"No — welding gloves are built for spatter (digit 5) and grip on tools; foundry gloves for large molten-metal quantities (digit 6) and radiant heat. The two digits exist precisely because the hazards behave differently on fabric and leather."}
-      ]
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The string",
+          "h2": "Six positions, left to right",
+          "html": "<p><strong>EN 407</strong> marks thermal gloves with six digits, each 1–4 (or X for untested):</p><ol><li><strong>Burning behaviour</strong> — does the glove itself ignite and keep burning? The gateway digit: high numbers here make the others meaningful.</li><li><strong>Contact heat</strong> — the everyday hero: level 1 ≈ 100 °C, level 2 ≈ 250 °C, level 3 ≈ 350 °C, level 4 ≈ 500 °C, each held for 15 seconds.</li><li><strong>Convective heat</strong> — hot air and flame-heated atmospheres.</li><li><strong>Radiant heat</strong> — furnace mouths, glowing metal, fire watch.</li><li><strong>Small splashes of molten metal</strong> — welding spatter territory.</li><li><strong>Large quantities of molten metal</strong> — foundry pouring; the digit that separates welders' gloves from founders'.</li></ol>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "By trade",
+          "h2": "Which digits each trade reads first",
+          "head": [
+            "Trade",
+            "Digits that matter",
+            "Notes"
+          ],
+          "rows": [
+            [
+              "Welder (MIG/stick)",
+              "1, 2 and 5 — flame, contact, spatter",
+              "Welding gauntlets also certify to their own glove standard"
+            ],
+            [
+              "TIG welder",
+              "Lower heat digits, dexterity first",
+              "Thin goatskin beats thick leather for the job"
+            ],
+            [
+              "Foundry & casting",
+              "6 — large molten metal — plus radiant",
+              "Matches the garment's <a href='en-iso-11612-explained.html'>11612 D/E codes</a>"
+            ],
+            [
+              "Ovens, hot parts, moulding",
+              "2 — contact heat by temperature",
+              "Pick the level to the surface, add margin"
+            ],
+            [
+              "Fire watch / hot works adjacent",
+              "1, 3 and 4",
+              "Flame behaviour and radiant lead"
+            ]
+          ]
+        },
+        {
+          "type": "prose",
+          "klabel": "The pairing",
+          "h2": "Heat gloves live inside an FR system",
+          "narrow": true,
+          "html": "<p>Hot-work gloves rarely travel alone: the wrist gap between glove and sleeve is a classic burn site, which is why welding gauntlets run long and why the garment side — <a href='fr-workwear-guide.html'>FR clothing</a> with the right <a href='en-iso-11612-explained.html'>11612 letters</a> — matters as much as the glove. And the EN 407 string says nothing about mechanical work: a foundry glove still needs <a href='en-388-glove-ratings-decoder.html'>EN 388</a> numbers for the handling it does between heat events.</p><p>One care note with teeth: burned, hardened or oil-soaked patches on a heat glove are failure points, not patina. Heat kit gets inspected like the PPE it is.</p>"
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Reading",
+          "h2": "Three rules for the string",
+          "items": [
+            {
+              "n": "Digit 1 gates",
+              "l": "Poor burning behaviour undermines every other number"
+            },
+            {
+              "n": "Contact = temperature",
+              "l": "Level 2 ≈ 250 °C for 15 s — pick to the surface you grip"
+            },
+            {
+              "n": "5 ≠ 6",
+              "l": "Welding spatter and foundry pours are different digits — buy the right one"
+            }
+          ]
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Heat glove FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What do the six numbers on heat-resistant gloves mean?",
+          "a": "EN 407's positions: burning behaviour, contact heat, convective heat, radiant heat, small molten-metal splashes and large molten-metal quantities — each rated 1–4, X meaning untested. Trades read different positions: welders watch 1, 2 and 5; foundries watch 6."
+        },
+        {
+          "q": "What temperature can EN 407 gloves handle?",
+          "a": "The contact-heat digit sets it: level 1 is tested at 100 °C, level 2 at 250 °C, level 3 at 350 °C and level 4 at 500 °C, each for 15 seconds of contact. Match the level to the hottest surface actually gripped, with margin."
+        },
+        {
+          "q": "Are welding gloves and foundry gloves the same?",
+          "a": "No — welding gloves are built for spatter (digit 5) and grip on tools; foundry gloves for large molten-metal quantities (digit 6) and radiant heat. The two digits exist precisely because the hazards behave differently on fabric and leather."
+        }
+      ],
+      "heroImage": {
+        "src": "assets/heroes/spec/en-407-heat-gloves-explained.svg",
+        "alt": "EN 407 — HEAT & FLAME GLOVES — specification plate",
+        "kind": "cutout",
+        "dark": true,
+        "w": 460,
+        "h": 420
+      }
     },
     {
       "slug": "en-iso-20347-explained",
@@ -277,29 +826,104 @@
       "metaTitle": "EN ISO 20347 Occupational Footwear Explained | iNeedWorkwear",
       "metaDesc": "EN ISO 20347 O-codes decoded — certified work footwear without a toe cap for kitchens, healthcare and service roles where slip and water matter but impact doesn't.",
       "lede": "Not every job needs a toe cap — but plenty of jobs still need certified footwear: slip-rated soles for kitchen tile, washable uppers for wards, antistatic soles for electronics floors. That's the niche EN ISO 20347 owns, and its codes mirror the safety-boot ones with one letter changed.",
-      "heroMeta": [ {"n":"O-codes","l":"OB to O7 — no toe cap"}, {"n":"Same tests","l":"Minus the 200 J"}, {"n":"Kitchens & care","l":"Its natural home"} ],
-      "schema": { "type": "Article" },
-      "blocks": [
-        { "type":"prose", "narrow":true, "klabel":"The idea", "h2":"Everything a safety boot does, except the cap",
-          "html":"<p><strong>EN ISO 20347</strong> covers occupational footwear — certified work footwear with <strong>no impact-protection requirement</strong>. Everything else transfers from the safety-boot world: slip-rated outsoles, antistatic soles, energy-absorbing heels, water-resistant uppers, cleated tread. The codes even rhyme: <strong>OB, O1, O1P, O2, O3</strong> and up mirror <a href='safety-boot-codes-explained.html'>SB, S1, S1P, S2, S3</a>, each dropping only the 200-joule cap.</p><p>The point isn't cost-cutting — it's honesty about the hazard. A ward nurse's foot risk is slips, spills and twelve hours of hard floor, not falling scaffold clips. Certifying for the real risk buys lighter, more comfortable footwear that staff actually keep on.</p>" },
-        { "type":"table", "variant":"alt", "klabel":"Where it fits", "h2":"O-code territory, honestly drawn",
-          "head":["Role / floor","Sensible spec","Why not a safety boot?"],
-          "rows":[
-            ["Kitchens & catering","<span class='code'>O2 + SR</span> washable","Slips and spills are the hazard; kegs and crates push it to <span class='code'>S2</span>"],
-            ["Healthcare & care wards","<span class='code'>O1/O2</span>, cushioned, washable","Twelve-hour comfort beats an unneeded cap"],
-            ["Housekeeping & cleaning","<span class='code'>O1 + SR</span>","Wet floors, no impact risk"],
-            ["Retail, FOH, light services","<span class='code'>OB/O1</span> smart styles","Certified grip in a shoe that looks like a shoe"],
-            ["Electronics / ESD floors","<span class='code'>O1 + ESD</span>","Product protection, no site hazards"]
-          ] },
-        { "type":"warnbar", "html":"<strong>The one honest test: can anything heavy reach the foot?</strong> Kegs, cages, pallet trucks, dropped tools — if yes, it's EN ISO 20345 and a toe cap, whatever the role's job title sounds like. Kitchen porters moving kegs and healthcare porters moving beds routinely belong in S2 while their colleagues wear O2. Spec by task, not department." },
-        { "type":"clusternav" },
-        { "type":"faq", "klabel":"Questions", "h2":"Occupational footwear FAQ" }
+      "heroMeta": [
+        {
+          "n": "O-codes",
+          "l": "OB to O7 — no toe cap"
+        },
+        {
+          "n": "Same tests",
+          "l": "Minus the 200 J"
+        },
+        {
+          "n": "Kitchens & care",
+          "l": "Its natural home"
+        }
       ],
-      "faq":[
-        {"q":"What is the difference between EN ISO 20345 and EN ISO 20347?","a":"The toe cap. 20345 (S-codes) requires 200-joule impact protection; 20347 (O-codes) certifies the same slip, water and antistatic features without it. O2 is essentially S2 minus the cap, and so on down the parallel code lists."},
-        {"q":"Are O2 shoes OK for kitchen work?","a":"For most kitchen roles yes — washable water-resistant uppers and slip-rated soles match the actual hazards. Roles moving kegs, crates and heavy deliveries should step up to S2: same features plus the toe cap that goods-handling justifies."},
-        {"q":"Why buy occupational footwear instead of safety boots?","a":"Weight and comfort where impact risk genuinely doesn't exist — long shifts on hard floors reward lighter footwear, and staff keep comfortable shoes on. It's certification matched to the real hazard, not a cheaper corner cut."}
-      ]
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The idea",
+          "h2": "Everything a safety boot does, except the cap",
+          "html": "<p><strong>EN ISO 20347</strong> covers occupational footwear — certified work footwear with <strong>no impact-protection requirement</strong>. Everything else transfers from the safety-boot world: slip-rated outsoles, antistatic soles, energy-absorbing heels, water-resistant uppers, cleated tread. The codes even rhyme: <strong>OB, O1, O1P, O2, O3</strong> and up mirror <a href='safety-boot-codes-explained.html'>SB, S1, S1P, S2, S3</a>, each dropping only the 200-joule cap.</p><p>The point isn't cost-cutting — it's honesty about the hazard. A ward nurse's foot risk is slips, spills and twelve hours of hard floor, not falling scaffold clips. Certifying for the real risk buys lighter, more comfortable footwear that staff actually keep on.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Where it fits",
+          "h2": "O-code territory, honestly drawn",
+          "head": [
+            "Role / floor",
+            "Sensible spec",
+            "Why not a safety boot?"
+          ],
+          "rows": [
+            [
+              "Kitchens & catering",
+              "<span class='code'>O2 + SR</span> washable",
+              "Slips and spills are the hazard; kegs and crates push it to <span class='code'>S2</span>"
+            ],
+            [
+              "Healthcare & care wards",
+              "<span class='code'>O1/O2</span>, cushioned, washable",
+              "Twelve-hour comfort beats an unneeded cap"
+            ],
+            [
+              "Housekeeping & cleaning",
+              "<span class='code'>O1 + SR</span>",
+              "Wet floors, no impact risk"
+            ],
+            [
+              "Retail, FOH, light services",
+              "<span class='code'>OB/O1</span> smart styles",
+              "Certified grip in a shoe that looks like a shoe"
+            ],
+            [
+              "Electronics / ESD floors",
+              "<span class='code'>O1 + ESD</span>",
+              "Product protection, no site hazards"
+            ]
+          ]
+        },
+        {
+          "type": "warnbar",
+          "html": "<strong>The one honest test: can anything heavy reach the foot?</strong> Kegs, cages, pallet trucks, dropped tools — if yes, it's EN ISO 20345 and a toe cap, whatever the role's job title sounds like. Kitchen porters moving kegs and healthcare porters moving beds routinely belong in S2 while their colleagues wear O2. Spec by task, not department."
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Occupational footwear FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What is the difference between EN ISO 20345 and EN ISO 20347?",
+          "a": "The toe cap. 20345 (S-codes) requires 200-joule impact protection; 20347 (O-codes) certifies the same slip, water and antistatic features without it. O2 is essentially S2 minus the cap, and so on down the parallel code lists."
+        },
+        {
+          "q": "Are O2 shoes OK for kitchen work?",
+          "a": "For most kitchen roles yes — washable water-resistant uppers and slip-rated soles match the actual hazards. Roles moving kegs, crates and heavy deliveries should step up to S2: same features plus the toe cap that goods-handling justifies."
+        },
+        {
+          "q": "Why buy occupational footwear instead of safety boots?",
+          "a": "Weight and comfort where impact risk genuinely doesn't exist — long shifts on hard floors reward lighter footwear, and staff keep comfortable shoes on. It's certification matched to the real hazard, not a cheaper corner cut."
+        }
+      ],
+      "heroImage": {
+        "src": "assets/heroes/spec/en-iso-20347-explained.svg",
+        "alt": "EN ISO 20347 — OCCUPATIONAL FOOTWEAR — specification plate",
+        "kind": "cutout",
+        "dark": true,
+        "w": 460,
+        "h": 420
+      }
     }
   ]
 }

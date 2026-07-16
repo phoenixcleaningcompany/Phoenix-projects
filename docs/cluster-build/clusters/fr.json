@@ -352,7 +352,15 @@
           "q": "Do higher 11612 numbers mean a better garment?",
           "a": "More protective in that test, yes — but heavier and hotter to wear. Over-speccing causes heat stress and unworn kit. Match the letters and levels to the assessed hazard rather than maxing every number."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/spec/en-iso-11612-explained.svg",
+        "alt": "EN ISO 11612 — FLAME RESISTANT CLOTHING — specification plate",
+        "kind": "cutout",
+        "dark": true,
+        "w": 460,
+        "h": 420
+      }
     },
     {
       "slug": "iec-61482-arc-flash-explained",
@@ -468,7 +476,15 @@
           "q": "Can you layer arc flash clothing?",
           "a": "Yes — and it's standard practice. An arc-rated base layer under an arc-rated outer produces a system rating higher than either garment alone, thanks to the insulating air gap. Every layer in the stack must be arc-rated or natural fibre; one synthetic layer breaks the system."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/spec/iec-61482-arc-flash-explained.svg",
+        "alt": "IEC 61482 — ARC FLASH PROTECTION — specification plate",
+        "kind": "cutout",
+        "dark": true,
+        "w": 460,
+        "h": 420
+      }
     },
     {
       "slug": "en-1149-5-antistatic-explained",
@@ -582,7 +598,15 @@
           "q": "Is EN 1149-5 the same as ESD clothing for electronics?",
           "a": "No. Electronics ESD garments protect sensitive components from your static; EN 1149-5 protects an explosive atmosphere from an incendiary spark. The physics overlaps, the certifications and use cases don't — a lab smock has no place on a tank farm."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/spec/en-1149-5-antistatic-explained.svg",
+        "alt": "EN 1149-5 — ANTISTATIC WORKWEAR — specification plate",
+        "kind": "cutout",
+        "dark": true,
+        "w": 460,
+        "h": 420
+      }
     },
     {
       "slug": "inherent-vs-treated-fr",

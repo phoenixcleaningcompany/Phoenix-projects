@@ -154,7 +154,15 @@
           "q": "When should a bump cap be replaced?",
           "a": "After any significant impact (the liner absorbs by deforming, and damage isn't always visible), when the shell or liner shows cracks or compression, or at the manufacturer's stated service life. Sweatbands and liners on better models replace separately, which extends the shell's useful life hygienically."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/spec/en-812-bump-caps-explained.svg",
+        "alt": "EN 812 — BUMP CAPS — specification plate",
+        "kind": "cutout",
+        "dark": true,
+        "w": 460,
+        "h": 420
+      }
     },
     {
       "slug": "en-352-hearing-protection-explained",
@@ -273,7 +281,15 @@
           "q": "Can you wear too much hearing protection?",
           "a": "Yes — over-protection cuts you off from alarms, vehicle horns and speech, and makes people remove the protection to communicate, defeating it entirely. The target is roughly 70–80 dB at the ear, not the biggest SNR on the shelf."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/spec/en-352-hearing-protection-explained.svg",
+        "alt": "EN 352 — HEARING PROTECTION — specification plate",
+        "kind": "cutout",
+        "dark": true,
+        "w": 460,
+        "h": 420
+      }
     },
     {
       "slug": "chainsaw-protection-standards-explained",
@@ -400,7 +416,15 @@
           "q": "What chainsaw protection class do I need?",
           "a": "Match the class to the chain speed of the saws you actually run — Class 1 (20 m/s) covers most ground work with standard saws; higher-powered equipment pushes into Class 2 or 3. Employers' risk assessments and training schemes (and any site or utility client rules) set the floor."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/spec/chainsaw-protection-standards-explained.svg",
+        "alt": "EN ISO 11393 — CHAINSAW PROTECTION — specification plate",
+        "kind": "cutout",
+        "dark": true,
+        "w": 460,
+        "h": 420
+      }
     },
     {
       "slug": "en-14404-knee-protection-explained",
@@ -510,7 +534,15 @@
           "q": "How often should knee pad inserts be replaced?",
           "a": "When the foam has visibly compressed, cracked or thinned — for a daily kneeling trade that can be every few months. The insert is a consumable: it protects by absorbing, and absorbed is exactly what old foam no longer does."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/spec/en-14404-knee-protection-explained.svg",
+        "alt": "EN 14404 — KNEE PROTECTION — specification plate",
+        "kind": "cutout",
+        "dark": true,
+        "w": 460,
+        "h": 420
+      }
     }
   ]
 }

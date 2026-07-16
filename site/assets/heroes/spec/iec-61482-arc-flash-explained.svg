@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 420" width="460" height="420" role="img" aria-label="IEC 61482 — ARC FLASH PROTECTION">
+<path d="M26,60 v-24 q0,-10 10,-10 h24 M434,60 v-24 q0,-10 -10,-10 h-24 M26,360 v24 q0,10 10,10 h24 M434,360 v24 q0,10 -10,10 h-24" fill="none" stroke="#E4571F" stroke-width="5" stroke-linecap="round"/>
+<circle cx="230" cy="145" r="104" fill="none" stroke="rgba(231,235,241,.14)" stroke-width="2" stroke-dasharray="3 10"/>
+<path fill="none" stroke="#E7EBF1" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" d="M230,76 l72,26 v42 q0,58 -72,80 q-72,-22 -72,-80 v-42 Z"/><path transform="translate(230,102) scale(0.9)" d="M10,-28 L-18,26 h16 l-10,44 34,-56 h-18 Z" fill="#C6D92E"/>
+<path d="M180,268 h100" stroke="#E4571F" stroke-width="4" stroke-linecap="round"/>
+<text x="230" y="330" text-anchor="middle" font-family="'Barlow Condensed','Arial Narrow',Arial,sans-serif" font-weight="bold" font-size="56" letter-spacing="1" fill="#FFFFFF">IEC 61482</text>
+<text x="230" y="366" text-anchor="middle" font-family="Menlo,Consolas,monospace" font-size="15" letter-spacing="4" fill="#C6D92E">ARC FLASH PROTECTION</text>
+</svg>

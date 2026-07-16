@@ -136,7 +136,15 @@
           "q": "Who counts as a limb (b) worker?",
           "a": "Broadly: someone who contracts to do work personally, isn't an employee, but also isn't genuinely running their own business toward your organisation as a client. Status questions can be genuinely tricky — where it matters, check HSE guidance or take advice rather than guessing."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/spec/ppe-regulations-2022-explained.svg",
+        "alt": "PER 2022 — PPE REGULATIONS — specification plate",
+        "kind": "cutout",
+        "dark": true,
+        "w": 460,
+        "h": 420
+      }
     },
     {
       "slug": "who-pays-for-ppe",
@@ -245,7 +253,15 @@
           "q": "Can an employer deduct uniform costs from wages?",
           "a": "Only with a contractual basis or prior written agreement, and never below the minimum-wage floor for required items. Deductions for lost or damaged kit are policy territory that needs the same footing — and required PPE can't be charged for at all."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/spec/who-pays-for-ppe.svg",
+        "alt": "WHO PAYS? — PPE COSTS & THE LAW — specification plate",
+        "kind": "cutout",
+        "dark": true,
+        "w": 460,
+        "h": 420
+      }
     },
     {
       "slug": "uniform-tax-relief",
@@ -346,7 +362,15 @@
           "q": "Does a dress code count as a uniform for tax relief?",
           "a": "No — 'wear smart black clothes' doesn't qualify, because the clothing isn't a recognisable uniform. Branded kit, protective clothing, and clearly uniform garments (whites, scrubs, hi-vis) are what the relief covers, and only when you bear the upkeep cost."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/spec/uniform-tax-relief.svg",
+        "alt": "TAX RELIEF — UNIFORM ALLOWANCE — specification plate",
+        "kind": "cutout",
+        "dark": true,
+        "w": 460,
+        "h": 420
+      }
     },
     {
       "slug": "ukca-vs-ce-marking-explained",
@@ -444,7 +468,15 @@
           "q": "What paperwork should PPE come with?",
           "a": "A Declaration of Conformity naming the applicable standards and the notified/approved body, plus user information. For Category III PPE — FR clothing, chemical suits, fall protection — certification includes ongoing production surveillance. A supplier who can't produce the DoC is telling you something."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/spec/ukca-vs-ce-marking-explained.svg",
+        "alt": "UKCA / CE — PRODUCT MARKING — specification plate",
+        "kind": "cutout",
+        "dark": true,
+        "w": 460,
+        "h": 420
+      }
     },
     {
       "slug": "when-is-hi-vis-required",
@@ -542,7 +574,15 @@
           "q": "Who decides between Class 2 and Class 3?",
           "a": "The employer's risk assessment, steered by sector codes: higher vehicle speeds, poorer light and less separation push toward Class 3; controlled, low-speed environments sit at Class 2. Rail is separate — orange to the rail standard, regardless of class arguments."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/spec/when-is-hi-vis-required.svg",
+        "alt": "THE RULES — WHEN HI-VIS IS REQUIRED — specification plate",
+        "kind": "cutout",
+        "dark": true,
+        "w": 460,
+        "h": 420
+      }
     },
     {
       "slug": "are-safety-boots-legally-required",
@@ -640,7 +680,15 @@
           "q": "Do visitors to sites need safety boots?",
           "a": "On most sites, yes beyond reception or marked walkways — blanket entry rules are standard because per-visitor assessment isn't practical. Many sites keep visitor boots; regular visitors are better served owning a pair that fits."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/spec/are-safety-boots-legally-required.svg",
+        "alt": "THE LAW — SAFETY BOOTS AT WORK — specification plate",
+        "kind": "cutout",
+        "dark": true,
+        "w": 460,
+        "h": 420
+      }
     },
     {
       "slug": "ppe-for-young-workers",
@@ -841,7 +889,15 @@
           "q": "Do uniform costs affect minimum wage?",
           "a": "Yes — money a worker must spend to comply with uniform requirements (buying specified items, deposits, laundering charges) reduces their pay for NMW calculation purposes in that period. Employers at or near the wage floor should provide uniform rather than require purchases."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/spec/uniform-deductions-from-wages.svg",
+        "alt": "PAYSLIP — UNIFORM DEDUCTIONS — specification plate",
+        "kind": "cutout",
+        "dark": true,
+        "w": 460,
+        "h": 420
+      }
     },
     {
       "slug": "ppe-inspection-records",
@@ -945,7 +1001,15 @@
           "q": "Do hard hats need inspection records?",
           "a": "No statutory interval exists, but helmets carry date-of-manufacture stamps and manufacturers state service lives — so a simple issue register with dates, plus replace-on-impact discipline, is cheap defensibility. The pre-use glance for cracks and UV chalking does the daily work."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/spec/ppe-inspection-records.svg",
+        "alt": "PPE LOG — INSPECTION RECORDS — specification plate",
+        "kind": "cutout",
+        "dark": true,
+        "w": 460,
+        "h": 420
+      }
     },
     {
       "slug": "ffp-fit-testing-explained",
@@ -1043,7 +1107,15 @@
           "q": "Does a fit test work with a beard?",
           "a": "No — the test enforces what the physics requires: skin contact where the seal sits. Stubble in the seal line fails tests and defeats passed ones. Wearers who keep facial hair use loose-fitting powered RPE (hoods) instead of tight-fitting masks."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/spec/ffp-fit-testing-explained.svg",
+        "alt": "FACE FIT — FFP TESTING RULES — specification plate",
+        "kind": "cutout",
+        "dark": true,
+        "w": 460,
+        "h": 420
+      }
     }
   ]
 }

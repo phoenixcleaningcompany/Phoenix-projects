@@ -448,7 +448,15 @@
           "q": "Do safety trainers meet the same standard as boots?",
           "a": "Yes, if they carry an EN ISO 20345 code — a safety trainer marked S1P has exactly the same toe cap and midsole performance as an S1P boot. What a trainer gives up is ankle coverage and, usually, the water resistance and cleated sole of an S3."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/spec/safety-boot-codes-explained.svg",
+        "alt": "SB–S7 — SAFETY BOOT CODES — specification plate",
+        "kind": "cutout",
+        "dark": true,
+        "w": 460,
+        "h": 420
+      }
     },
     {
       "slug": "composite-vs-steel-toe-caps",

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 420" width="460" height="420" role="img" aria-label="UKCA / CE — PRODUCT MARKING">
+<path d="M26,60 v-24 q0,-10 10,-10 h24 M434,60 v-24 q0,-10 -10,-10 h-24 M26,360 v24 q0,10 10,10 h24 M434,360 v24 q0,10 -10,10 h-24" fill="none" stroke="#E4571F" stroke-width="5" stroke-linecap="round"/>
+<circle cx="230" cy="145" r="104" fill="none" stroke="rgba(231,235,241,.14)" stroke-width="2" stroke-dasharray="3 10"/>
+<rect x="128" y="104" width="96" height="82" rx="10" fill="none" stroke="#E7EBF1" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><rect x="238" y="104" width="96" height="82" rx="10" fill="none" stroke="#E7EBF1" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><text x="176" y="156" text-anchor="middle" font-family="Arial,sans-serif" font-weight="bold" font-size="30" fill="#E7EBF1">UKCA</text><text x="286" y="156" text-anchor="middle" font-family="Arial,sans-serif" font-weight="bold" font-size="30" fill="#E7EBF1">CE</text>
+<path d="M180,268 h100" stroke="#E4571F" stroke-width="4" stroke-linecap="round"/>
+<text x="230" y="330" text-anchor="middle" font-family="'Barlow Condensed','Arial Narrow',Arial,sans-serif" font-weight="bold" font-size="56" letter-spacing="1" fill="#FFFFFF">UKCA / CE</text>
+<text x="230" y="366" text-anchor="middle" font-family="Menlo,Consolas,monospace" font-size="15" letter-spacing="4" fill="#C6D92E">PRODUCT MARKING</text>
+</svg>

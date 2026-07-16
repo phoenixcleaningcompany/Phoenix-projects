@@ -6,9 +6,35 @@
     "shopUrl": "https://www.ineedworkwear.com/collections/hi-vis",
     "baseUrl": "https://www.ineedworkwear.uk",
     "date": "2026-07-09",
-    "externalHub": { "slug": "hi-vis-workwear-guide", "navLabel": "Hi-vis hub", "title": "Hi-vis hub", "cardTitle": "Hi-vis hub" },
-    "trust": ["EN ISO 20471 certified stock", "Yellow & orange", "Rail-spec orange available", "Logo embroidery & print", "Trade accounts"],
-    "cta": { "h2": "Yellow or orange — it's in stock.", "p": "EN ISO 20471 hi-vis in both colours, including rail-spec orange, with embroidery or print and trade-account ordering.", "actions": [ {"label":"Shop hi-vis","href":"https://www.ineedworkwear.com/collections/hi-vis","style":"white"}, {"label":"Shop rail spec","href":"https://www.ineedworkwear.com/collections/rail-spec","style":"dark"} ] }
+    "externalHub": {
+      "slug": "hi-vis-workwear-guide",
+      "navLabel": "Hi-vis hub",
+      "title": "Hi-vis hub",
+      "cardTitle": "Hi-vis hub"
+    },
+    "trust": [
+      "EN ISO 20471 certified stock",
+      "Yellow & orange",
+      "Rail-spec orange available",
+      "Logo embroidery & print",
+      "Trade accounts"
+    ],
+    "cta": {
+      "h2": "Yellow or orange — it's in stock.",
+      "p": "EN ISO 20471 hi-vis in both colours, including rail-spec orange, with embroidery or print and trade-account ordering.",
+      "actions": [
+        {
+          "label": "Shop hi-vis",
+          "href": "https://www.ineedworkwear.com/collections/hi-vis",
+          "style": "white"
+        },
+        {
+          "label": "Shop rail spec",
+          "href": "https://www.ineedworkwear.com/collections/rail-spec",
+          "style": "dark"
+        }
+      ]
+    }
   },
   "pages": [
     {
@@ -24,37 +50,126 @@
       "metaTitle": "Yellow vs Orange Hi-Vis: Which Colour & When | iNeedWorkwear",
       "metaDesc": "Both yellow and orange are EN ISO 20471 colours — rail mandates orange, construction defaults to yellow, and the real logic is contrast against the background you work on.",
       "lede": "EN ISO 20471 permits three background colours — fluorescent yellow, orange-red and red — and says nothing about which industry wears which. The choice is set by contrast, convention and, on the railway, by rule. Here's the actual logic.",
-      "heroMeta": [ {"n":"3 colours","l":"Permitted by the standard"}, {"n":"Rail = orange","l":"By rule, not taste"}, {"n":"Contrast","l":"The real decider"} ],
-      "schema": { "type": "Article" },
-      "blocks": [
-        { "type":"prose", "narrow":true, "klabel":"The principle", "h2":"Conspicuity is contrast, not colour",
-          "html":"<p>Fluorescent materials work by converting invisible UV into visible light — that's why hi-vis looks lit from within on a grey day. Yellow has the edge in raw daytime brightness, which is why it became the general default.</p><p>But being seen is about standing out from the <em>background</em>, and backgrounds differ. Against lineside vegetation, yellow plant and yellow signage, a yellow vest starts to blend into its surroundings; orange separates. Against autumn foliage or brick, the argument can run the other way. The standard leaves the colour decision to whoever assesses the site — with one big exception below.</p><p>One more practical difference: dirt. Site grime greys a yellow garment visibly and fast — an orange garment hides the early stages of the same contamination. That cuts both ways: yellow tells you honestly when it needs washing or retiring.</p>" },
-        { "type":"table", "variant":"alt", "klabel":"Who wears what", "h2":"The conventions, sector by sector",
-          "head":["Sector","Usual colour","Why"],
-          "rows":[
-            ["Rail (on or near the line)","<span class='code'>Orange — mandatory</span>","RIS-3279-TOM requires orange; contrast with lineside greens and yellow plant"],
-            ["Construction & highways","<span class='code'>Yellow</span>","Maximum daytime brightness; industry default"],
-            ["Airports & ground handling","<span class='code'>Yellow or orange</span>","Set by the operator's own rules — check before buying"],
-            ["Utilities & civils near rail corridors","<span class='code'>Orange</span>","Matches rail requirements when crews cross onto rail infrastructure"],
-            ["Warehousing & logistics","<span class='code'>Yellow (either works)</span>","Indoor backgrounds rarely force the issue; fleet consistency decides"],
-            ["Events, marshalling, security","<span class='code'>Orange often chosen</span>","Distinguishes staff from a yellow-wearing trade crowd"]
-          ] },
-        { "type":"keyfacts", "klabel":"Same standard", "h2":"What doesn't change with colour",
-          "items":[
-            {"n":"Same classes","l":"Class 1–3 areas apply identically in yellow and orange"},
-            {"n":"Same tape","l":"Retroreflective performance is colour-independent at night"},
-            {"n":"Same care rules","l":"Wash limits and fading kill compliance in both colours"}
-          ] },
-        { "type":"prose", "klabel":"Choosing", "h2":"How to actually decide", "narrow":true,
-          "html":"<p><strong>Rule first:</strong> if any of your work touches the railway, orange isn't a preference — it's the requirement, and it usually settles the whole wardrobe (see the <a href='rail-spec-workwear-explained.html'>rail-spec guide</a>).</p><p><strong>Then background:</strong> walk the site. Lots of vegetation, yellow plant or yellow fixtures? Orange separates your people from the scenery. Mixed urban and indoor work? Yellow's brightness advantage holds.</p><p><strong>Then fleet consistency:</strong> one colour across the team beats a mix — it reads as uniform, simplifies reordering, and makes a stranger on site instantly obvious.</p><p>And if the honest answer is \"both\" — orange rail gang, yellow yard crew — buy both. The standard doesn't care, and mixing per-crew is common practice.</p>" },
-        { "type":"clusternav" },
-        { "type":"faq", "klabel":"Questions", "h2":"Colour FAQ" }
+      "heroMeta": [
+        {
+          "n": "3 colours",
+          "l": "Permitted by the standard"
+        },
+        {
+          "n": "Rail = orange",
+          "l": "By rule, not taste"
+        },
+        {
+          "n": "Contrast",
+          "l": "The real decider"
+        }
       ],
-      "faq":[
-        {"q":"Is orange or yellow hi-vis better?","a":"Neither is 'better' — both are permitted EN ISO 20471 colours with identical class and tape requirements. Yellow has the edge in raw daytime brightness; orange stands out better against vegetation and yellow plant, which is why the railway mandates it. Pick by background and by any sector rule that applies."},
-        {"q":"Why do railway workers wear orange hi-vis?","a":"UK rail standards (RIS-3279-TOM) require orange for staff on or near the line. Orange contrasts with lineside greens and with the yellow of plant and machinery, keeping people distinct from the working environment."},
-        {"q":"Can I wear yellow hi-vis on a construction site and orange on rail jobs?","a":"Yes — and mixed fleets are common where firms work both environments. The garments certify to the same standard; just make sure the rail garments meet the rail spec (orange, correct class) rather than assuming any orange vest qualifies."},
-        {"q":"Does hi-vis colour affect the night-time rating?","a":"No. Night-time visibility comes from the retroreflective tape, which performs the same regardless of background colour. Colour is a daytime decision; tape condition is the night-time one."}
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "The principle",
+          "h2": "Conspicuity is contrast, not colour",
+          "html": "<p>Fluorescent materials work by converting invisible UV into visible light — that's why hi-vis looks lit from within on a grey day. Yellow has the edge in raw daytime brightness, which is why it became the general default.</p><p>But being seen is about standing out from the <em>background</em>, and backgrounds differ. Against lineside vegetation, yellow plant and yellow signage, a yellow vest starts to blend into its surroundings; orange separates. Against autumn foliage or brick, the argument can run the other way. The standard leaves the colour decision to whoever assesses the site — with one big exception below.</p><p>One more practical difference: dirt. Site grime greys a yellow garment visibly and fast — an orange garment hides the early stages of the same contamination. That cuts both ways: yellow tells you honestly when it needs washing or retiring.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Who wears what",
+          "h2": "The conventions, sector by sector",
+          "head": [
+            "Sector",
+            "Usual colour",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Rail (on or near the line)",
+              "<span class='code'>Orange — mandatory</span>",
+              "RIS-3279-TOM requires orange; contrast with lineside greens and yellow plant"
+            ],
+            [
+              "Construction & highways",
+              "<span class='code'>Yellow</span>",
+              "Maximum daytime brightness; industry default"
+            ],
+            [
+              "Airports & ground handling",
+              "<span class='code'>Yellow or orange</span>",
+              "Set by the operator's own rules — check before buying"
+            ],
+            [
+              "Utilities & civils near rail corridors",
+              "<span class='code'>Orange</span>",
+              "Matches rail requirements when crews cross onto rail infrastructure"
+            ],
+            [
+              "Warehousing & logistics",
+              "<span class='code'>Yellow (either works)</span>",
+              "Indoor backgrounds rarely force the issue; fleet consistency decides"
+            ],
+            [
+              "Events, marshalling, security",
+              "<span class='code'>Orange often chosen</span>",
+              "Distinguishes staff from a yellow-wearing trade crowd"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "klabel": "Same standard",
+          "h2": "What doesn't change with colour",
+          "items": [
+            {
+              "n": "Same classes",
+              "l": "Class 1–3 areas apply identically in yellow and orange"
+            },
+            {
+              "n": "Same tape",
+              "l": "Retroreflective performance is colour-independent at night"
+            },
+            {
+              "n": "Same care rules",
+              "l": "Wash limits and fading kill compliance in both colours"
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "klabel": "Choosing",
+          "h2": "How to actually decide",
+          "narrow": true,
+          "html": "<p><strong>Rule first:</strong> if any of your work touches the railway, orange isn't a preference — it's the requirement, and it usually settles the whole wardrobe (see the <a href='rail-spec-workwear-explained.html'>rail-spec guide</a>).</p><p><strong>Then background:</strong> walk the site. Lots of vegetation, yellow plant or yellow fixtures? Orange separates your people from the scenery. Mixed urban and indoor work? Yellow's brightness advantage holds.</p><p><strong>Then fleet consistency:</strong> one colour across the team beats a mix — it reads as uniform, simplifies reordering, and makes a stranger on site instantly obvious.</p><p>And if the honest answer is \"both\" — orange rail gang, yellow yard crew — buy both. The standard doesn't care, and mixing per-crew is common practice.</p>"
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Colour FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is orange or yellow hi-vis better?",
+          "a": "Neither is 'better' — both are permitted EN ISO 20471 colours with identical class and tape requirements. Yellow has the edge in raw daytime brightness; orange stands out better against vegetation and yellow plant, which is why the railway mandates it. Pick by background and by any sector rule that applies."
+        },
+        {
+          "q": "Why do railway workers wear orange hi-vis?",
+          "a": "UK rail standards (RIS-3279-TOM) require orange for staff on or near the line. Orange contrasts with lineside greens and with the yellow of plant and machinery, keeping people distinct from the working environment."
+        },
+        {
+          "q": "Can I wear yellow hi-vis on a construction site and orange on rail jobs?",
+          "a": "Yes — and mixed fleets are common where firms work both environments. The garments certify to the same standard; just make sure the rail garments meet the rail spec (orange, correct class) rather than assuming any orange vest qualifies."
+        },
+        {
+          "q": "Does hi-vis colour affect the night-time rating?",
+          "a": "No. Night-time visibility comes from the retroreflective tape, which performs the same regardless of background colour. Colour is a daytime decision; tape condition is the night-time one."
+        }
       ]
     },
     {
@@ -70,37 +185,133 @@
       "metaTitle": "Rail Spec Workwear: RIS-3279-TOM Explained | iNeedWorkwear",
       "metaDesc": "What \"rail spec\" hi-vis actually means — the RIS-3279-TOM orange requirement for work on or near the line, how it builds on EN ISO 20471, and what to check before an induction.",
       "lede": "\"Rail spec\" gets stamped on a lot of orange garments. What it refers to is a specific railway industry standard — RIS-3279-TOM — that governs high-visibility clothing for anyone working on or near the line. Here's what it requires, and what to check before you're stood at an induction.",
-      "heroMeta": [ {"n":"Orange only","l":"On or near the line"}, {"n":"EN ISO 20471","l":"The base standard"}, {"n":"Check first","l":"PC rules go further"} ],
-      "schema": { "type": "Article" },
-      "blocks": [
-        { "type":"prose", "narrow":true, "klabel":"What it is", "h2":"An industry standard on top of the CE standard",
-          "html":"<p><strong>RIS-3279-TOM</strong> is a Railway Industry Standard for high-visibility clothing worn by people working on or about the track. It doesn't replace <a href='en-iso-20471-hi-vis-classes-explained.html'>EN ISO 20471</a> — garments still certify to that — it narrows it for the rail environment. The headline requirements:</p><ul><li><strong>Orange, not yellow.</strong> The background material must be the standard's specified fluorescent orange — chosen for contrast against lineside vegetation and yellow plant.</li><li><strong>Upper-body visibility at all times.</strong> The working assumption trackside is a compliant orange upper-body garment — vest, polo, jacket — worn whenever you're on or near the line.</li><li><strong>Certified, in date, in condition.</strong> A faded or tape-damaged garment fails rail scrutiny exactly as it fails EN ISO 20471 — and rail inductions actually look.</li></ul><p>In practice, most rail workers wear more than the minimum: many principal contractors and possessions require <strong>Class 3</strong> upper garments and orange hi-vis trousers as standard, so two-piece orange is the safe default for regular trackside work.</p>" },
-        { "type":"table", "variant":"alt", "klabel":"Checklist", "h2":"Before a rail induction, check the garment for", "lead":"Five things that get kit rejected at the gate.",
-          "head":["Check","What to look for","Why it matters"],
-          "rows":[
-            ["Colour","Fluorescent <span class='code'>orange</span> background","Yellow is non-compliant trackside, whatever its class"],
-            ["Certification","EN ISO 20471 marking on the label","Rail spec builds on it — no base certification, no entry"],
-            ["Class","<span class='code'>Class 2 minimum</span>; many sites demand Class 3 + trousers","The PC's rules, not the minimum, decide what you wear"],
-            ["Condition","Bright fluoro, intact tape, inside its wash count","Rail inductions inspect; faded kit gets turned away"],
-            ["Logos & badging","Kept clear of background and tape areas","Overprinting can void the certified visible area"]
-          ] },
-        { "type":"keyfacts", "variant":"dark", "klabel":"Buying", "h2":"What \"rail spec\" should mean on a product",
-          "items":[
-            {"n":"GO/RT orange","l":"The specified fluorescent orange fabric, not any orange dye"},
-            {"n":"EN ISO 20471","l":"Certified, with the class marked on the label"},
-            {"n":"Fit for logos","l":"Embroidery placed so certified areas stay intact"}
-          ] },
-        { "type":"warnbar", "html":"<strong>Rail rules move and principal contractors add their own.</strong> This page explains what the spec is — it can't stand in for your sponsor's induction requirements or a possession's task brief. When kit lists conflict, the stricter document wins. If you're buying for a rail contract, confirm the required class and whether orange trousers are mandated before ordering." },
-        { "type":"citebox", "html":"New to the classes the spec keeps referring to? Start with <a href='en-iso-20471-hi-vis-classes-explained.html'>EN ISO 20471 explained</a>, or the colour question at <a href='yellow-vs-orange-hi-vis.html'>yellow vs orange</a>." },
-        { "type":"clusternav" },
-        { "type":"faq", "klabel":"Questions", "h2":"Rail spec FAQ" }
+      "heroMeta": [
+        {
+          "n": "Orange only",
+          "l": "On or near the line"
+        },
+        {
+          "n": "EN ISO 20471",
+          "l": "The base standard"
+        },
+        {
+          "n": "Check first",
+          "l": "PC rules go further"
+        }
       ],
-      "faq":[
-        {"q":"What is RIS-3279-TOM?","a":"A Railway Industry Standard governing high-visibility clothing for people working on or near the UK railway. It requires fluorescent orange garments certified to EN ISO 20471, worn on the upper body whenever on or about the track — with principal contractors often adding stricter requirements like Class 3 and orange trousers."},
-        {"q":"Can you wear yellow hi-vis on the railway?","a":"Not on or near the line — rail-spec clothing must be orange. Yellow remains fine for rail-adjacent premises away from the operational railway, but if your work takes you trackside, orange certified kit is the requirement."},
-        {"q":"Is rail-spec hi-vis a different certification from EN ISO 20471?","a":"No — rail-spec garments are EN ISO 20471-certified garments that additionally meet the rail industry's requirements, chiefly the specified orange colour. Check the label for the EN ISO 20471 marking and class as you would with any hi-vis."},
-        {"q":"Do I need orange hi-vis trousers for trackside work?","a":"The upper-body orange garment is the baseline, but many principal contractors and possessions mandate orange trousers and Class 3 uppers as site policy. Check your induction or task brief — for regular trackside work, two-piece orange is the practical default."}
-      ]
+      "schema": {
+        "type": "Article"
+      },
+      "blocks": [
+        {
+          "type": "prose",
+          "narrow": true,
+          "klabel": "What it is",
+          "h2": "An industry standard on top of the CE standard",
+          "html": "<p><strong>RIS-3279-TOM</strong> is a Railway Industry Standard for high-visibility clothing worn by people working on or about the track. It doesn't replace <a href='en-iso-20471-hi-vis-classes-explained.html'>EN ISO 20471</a> — garments still certify to that — it narrows it for the rail environment. The headline requirements:</p><ul><li><strong>Orange, not yellow.</strong> The background material must be the standard's specified fluorescent orange — chosen for contrast against lineside vegetation and yellow plant.</li><li><strong>Upper-body visibility at all times.</strong> The working assumption trackside is a compliant orange upper-body garment — vest, polo, jacket — worn whenever you're on or near the line.</li><li><strong>Certified, in date, in condition.</strong> A faded or tape-damaged garment fails rail scrutiny exactly as it fails EN ISO 20471 — and rail inductions actually look.</li></ul><p>In practice, most rail workers wear more than the minimum: many principal contractors and possessions require <strong>Class 3</strong> upper garments and orange hi-vis trousers as standard, so two-piece orange is the safe default for regular trackside work.</p>"
+        },
+        {
+          "type": "table",
+          "variant": "alt",
+          "klabel": "Checklist",
+          "h2": "Before a rail induction, check the garment for",
+          "lead": "Five things that get kit rejected at the gate.",
+          "head": [
+            "Check",
+            "What to look for",
+            "Why it matters"
+          ],
+          "rows": [
+            [
+              "Colour",
+              "Fluorescent <span class='code'>orange</span> background",
+              "Yellow is non-compliant trackside, whatever its class"
+            ],
+            [
+              "Certification",
+              "EN ISO 20471 marking on the label",
+              "Rail spec builds on it — no base certification, no entry"
+            ],
+            [
+              "Class",
+              "<span class='code'>Class 2 minimum</span>; many sites demand Class 3 + trousers",
+              "The PC's rules, not the minimum, decide what you wear"
+            ],
+            [
+              "Condition",
+              "Bright fluoro, intact tape, inside its wash count",
+              "Rail inductions inspect; faded kit gets turned away"
+            ],
+            [
+              "Logos & badging",
+              "Kept clear of background and tape areas",
+              "Overprinting can void the certified visible area"
+            ]
+          ]
+        },
+        {
+          "type": "keyfacts",
+          "variant": "dark",
+          "klabel": "Buying",
+          "h2": "What \"rail spec\" should mean on a product",
+          "items": [
+            {
+              "n": "GO/RT orange",
+              "l": "The specified fluorescent orange fabric, not any orange dye"
+            },
+            {
+              "n": "EN ISO 20471",
+              "l": "Certified, with the class marked on the label"
+            },
+            {
+              "n": "Fit for logos",
+              "l": "Embroidery placed so certified areas stay intact"
+            }
+          ]
+        },
+        {
+          "type": "warnbar",
+          "html": "<strong>Rail rules move and principal contractors add their own.</strong> This page explains what the spec is — it can't stand in for your sponsor's induction requirements or a possession's task brief. When kit lists conflict, the stricter document wins. If you're buying for a rail contract, confirm the required class and whether orange trousers are mandated before ordering."
+        },
+        {
+          "type": "citebox",
+          "html": "New to the classes the spec keeps referring to? Start with <a href='en-iso-20471-hi-vis-classes-explained.html'>EN ISO 20471 explained</a>, or the colour question at <a href='yellow-vs-orange-hi-vis.html'>yellow vs orange</a>."
+        },
+        {
+          "type": "clusternav"
+        },
+        {
+          "type": "faq",
+          "klabel": "Questions",
+          "h2": "Rail spec FAQ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What is RIS-3279-TOM?",
+          "a": "A Railway Industry Standard governing high-visibility clothing for people working on or near the UK railway. It requires fluorescent orange garments certified to EN ISO 20471, worn on the upper body whenever on or about the track — with principal contractors often adding stricter requirements like Class 3 and orange trousers."
+        },
+        {
+          "q": "Can you wear yellow hi-vis on the railway?",
+          "a": "Not on or near the line — rail-spec clothing must be orange. Yellow remains fine for rail-adjacent premises away from the operational railway, but if your work takes you trackside, orange certified kit is the requirement."
+        },
+        {
+          "q": "Is rail-spec hi-vis a different certification from EN ISO 20471?",
+          "a": "No — rail-spec garments are EN ISO 20471-certified garments that additionally meet the rail industry's requirements, chiefly the specified orange colour. Check the label for the EN ISO 20471 marking and class as you would with any hi-vis."
+        },
+        {
+          "q": "Do I need orange hi-vis trousers for trackside work?",
+          "a": "The upper-body orange garment is the baseline, but many principal contractors and possessions mandate orange trousers and Class 3 uppers as site policy. Check your induction or task brief — for regular trackside work, two-piece orange is the practical default."
+        }
+      ],
+      "heroImage": {
+        "src": "assets/heroes/spec/rail-spec-workwear-explained.svg",
+        "alt": "RIS-3279-TOM — RAIL SPEC HI-VIS — specification plate",
+        "kind": "cutout",
+        "dark": true,
+        "w": 460,
+        "h": 420
+      }
     }
   ]
 }
