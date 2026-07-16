@@ -170,7 +170,12 @@
           "q": "Does hi-vis colour affect the night-time rating?",
           "a": "No. Night-time visibility comes from the retroreflective tape, which performs the same regardless of background colour. Colour is a daytime decision; tape condition is the night-time one."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/yellow-orange-hi-vis.webp",
+        "alt": "Workers in yellow and orange hi-vis reviewing drawings on a construction site",
+        "kind": "photo"
+      }
     },
     {
       "slug": "rail-spec-workwear-explained",

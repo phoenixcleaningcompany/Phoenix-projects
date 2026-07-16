@@ -1899,7 +1899,12 @@
           "q": "What is ripstop fabric?",
           "a": "A weave with a grid of reinforcing threads so that tears stop at the next grid line instead of running. It lets lighter, cooler fabrics behave more toughly — the classic construction for summer-weight work trousers and outdoor kit."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/fabric-rolls.webp",
+        "alt": "Rolls of workwear fabric racked in a textile warehouse",
+        "kind": "photo"
+      }
     },
     {
       "slug": "winter-workwear-guide",
@@ -2123,7 +2128,12 @@
           "q": "How should safety wellingtons fit?",
           "a": "Sized for the thick or thermal socks you'll actually wear, with room to wiggle toes clear of the cap, calf clearance over work trousers, and a snug enough instep that the boot doesn't pump when walking. A heel kick plate matters more than it sounds — muddy removal is a daily event."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/safety-wellingtons.webp",
+        "alt": "Muddy green safety wellingtons in a farmyard",
+        "kind": "photo"
+      }
     },
     {
       "slug": "embroidery-artwork-guide",
@@ -2443,7 +2453,12 @@
           "q": "What if my employer only stocks men's sizes?",
           "a": "PPE must fit the wearer — supplying only men's-last footwear doesn't meet that duty when fit is compromised, and women's-last ranges are now genuinely available across boot types. Raise it with the fit-is-safety argument; it's an ordering change, not a special request."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/womens-boots.webp",
+        "alt": "Tradeswoman in safety boots and tool belt kneeling to work under a counter",
+        "kind": "photo"
+      }
     },
     {
       "slug": "tall-plus-size-workwear",
@@ -2537,7 +2552,12 @@
           "q": "Are there weight limits on safety harnesses?",
           "a": "Yes — harnesses and energy-absorbing systems carry rated capacity limits, and standard models don't fit or protect every body. Where height work is involved, equipment selection for larger workers is a competent-person decision with properly rated, sized kit — never an improvised fit."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/diverse-team.webp",
+        "alt": "Workers of different shapes and sizes in hi-vis kit in a workshop",
+        "kind": "photo"
+      }
     },
     {
       "slug": "workwear-sizing-how-to-measure",
@@ -2659,7 +2679,12 @@
           "q": "How should companies collect staff sizes?",
           "a": "Measure at intake with a fabric tape — five measurements per person, five minutes — rather than collecting self-declared letters. It feeds orders a real size curve including tall legs and extended sizes, and it costs less than one round of exchange postage."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/sizing-measure.webp",
+        "alt": "Chest being measured over a polo shirt with a tape measure",
+        "kind": "photo"
+      }
     }
   ]
 }

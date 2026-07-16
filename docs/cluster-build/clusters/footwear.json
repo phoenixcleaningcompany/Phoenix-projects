@@ -770,7 +770,12 @@
           "q": "Do safety boots need waterproofing spray?",
           "a": "Leather boots benefit from wax or conditioner, which feeds the leather and sheds water. Reserve sprays for fabric or suede uppers, and avoid silicone products on leather you plan to wax later. No treatment turns a water-resistant S3 into a waterproof S7 — that's a certification, not a coating."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/boot-care.webp",
+        "alt": "Worker brushing dried mud off a safety boot in a workshop",
+        "kind": "photo"
+      }
     }
   ]
 }

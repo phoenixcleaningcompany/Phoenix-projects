@@ -146,7 +146,12 @@
           "q": "When is a bodywarmer better than either?",
           "a": "When your arms need full freedom — lifting, reaching, tool work. A gilet insulates the core without restricting the sleeves, and layers neatly over a fleece or softshell in deep winter. Many trades run it as their standard cold-season combination."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/softshell.webp",
+        "alt": "Worker in a softshell jacket using a water-fed pole on a cold day",
+        "kind": "photo"
+      }
     },
     {
       "slug": "hoodie-vs-sweatshirt",
@@ -1025,7 +1030,12 @@
           "q": "Are nitrile gloves chemical resistant?",
           "a": "Usefully so for splashes of oils, fuels and many everyday chemicals — one reason they rule workshops. But disposables are thin: for named chemicals and sustained contact, use gloves rated under EN ISO 374 in the right polymer and thickness, chosen from the manufacturer's permeation data."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/nitrile-gloves.webp",
+        "alt": "Blue nitrile gloves handling a small component",
+        "kind": "photo"
+      }
     },
     {
       "slug": "s1p-vs-s3-safety-boots",
@@ -1125,7 +1135,12 @@
           "q": "Can I wear S1P trainers on a building site?",
           "a": "Site rules usually specify S3 (or equivalent with ankle and weather performance) for external works, and S1P trainers won't cope with mud or wet anyway. Indoors — fit-out phases, warehouses, workshops — S1P is often exactly right. The induction pack settles it per site."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/muddy-boots.webp",
+        "alt": "Mud-caked safety boots on a wet construction site",
+        "kind": "photo"
+      }
     },
     {
       "slug": "safety-trainers-vs-safety-boots",
@@ -1245,7 +1260,12 @@
           "q": "Do safety boots really support your ankle?",
           "a": "They steady it rather than brace it — height and firm lacing measurably reduce roll-over on uneven ground, which is where the injuries happen. On flat floors the advantage mostly disappears, so the ankle argument is really an argument about your terrain."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/safety-trainers.webp",
+        "alt": "Safety trainers worn on a warehouse floor",
+        "kind": "photo"
+      }
     },
     {
       "slug": "hard-hat-colours-meaning",
@@ -1537,7 +1557,12 @@
           "q": "Are composite toe caps as strong as steel?",
           "a": "They certify to the same 200-joule impact and 15 kN compression tests. Composite builds bulkier for the rating, doesn't conduct cold and clears metal detectors; steel builds slimmer and dents visibly when damaged. Strength isn't the difference — the side properties are."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/toe-cap-section.webp",
+        "alt": "Cross-section of a safety boot showing the steel toe cap and midsole",
+        "kind": "photo"
+      }
     },
     {
       "slug": "tabard-vs-apron",
@@ -1637,7 +1662,12 @@
           "q": "What apron material for food or wet work?",
           "a": "Wipe-clean and waterproof materials — polyurethane and similar — for butchery, fishmongery and washdown tasks, with colour-coding where kitchens separate raw and cooked. Fabric bib aprons suit dry front-of-house and general prep, laundering with the whites."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/tabard-apron.webp",
+        "alt": "Cleaner in a tabard beside a caterer in a bib apron in a commercial kitchen",
+        "kind": "photo"
+      }
     },
     {
       "slug": "respirator-vs-dust-mask",
@@ -1737,7 +1767,12 @@
           "q": "What should be printed on a real respirator?",
           "a": "On the facepiece itself: EN 149, the class (FFP1, FFP2 or FFP3), the CE or UKCA mark with the notified body number, and usually 'NR' (single shift) or 'R' (reusable). Missing markings mean a comfort product, not protection."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/dusty-workshop.webp",
+        "alt": "Woodworker in a half-mask respirator sanding in a dusty workshop",
+        "kind": "photo"
+      }
     },
     {
       "slug": "glasses-goggles-face-shields",
@@ -1942,7 +1977,12 @@
           "q": "How often should half-mask filters be changed?",
           "a": "Particle filters when breathing resistance rises noticeably; gas cartridges on the maker's schedule or immediately on any scent or taste breakthrough — never run them to 'empty'. Store the mask sealed between uses so the filters aren't quietly loading on the shelf."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/sanding-mask.webp",
+        "alt": "Worker in a twin-filter half-mask respirator and safety glasses sanding a board",
+        "kind": "photo"
+      }
     },
     {
       "slug": "hi-vis-class-1-explained",
@@ -2250,7 +2290,12 @@
           "q": "What does 65/35 mean on workwear?",
           "a": "The fibre ratio: 65% polyester, 35% cotton — the blend that dominates workwear because it balances polyester's durability and washability with enough cotton for comfort. Reversed or higher-poly ratios push durability further for heavy laundering programmes."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/fabric-closeup.webp",
+        "alt": "Close-up of a twill workwear fabric weave",
+        "kind": "photo"
+      }
     },
     {
       "slug": "leather-vs-synthetic-boots",
@@ -2455,7 +2500,12 @@
           "q": "Can you print a logo on a mesh vest?",
           "a": "Only small ones, and imperfectly — print across mesh sits over holes and cracks early. Solid-fabric vests (or solid print panels on part-mesh designs) are the branding-friendly choice; embroidery on mesh is generally a non-starter."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/summer-hi-vis.webp",
+        "alt": "Carpenter in a mesh hi-vis vest drilling timber on a summer site",
+        "kind": "photo"
+      }
     },
     {
       "slug": "scrub-colours-meaning",
@@ -2549,7 +2599,12 @@
           "q": "Can a private clinic pick any scrub colours?",
           "a": "Yes — outside trust policies you're writing your own code. Pick colours that distinguish roles at a glance, hold their shade through 60 °C laundering, and stay available for reorders so the team doesn't drift into mismatched batches."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/scrubs-colours.webp",
+        "alt": "Hospital staff wearing scrubs in five different colours",
+        "kind": "photo"
+      }
     },
     {
       "slug": "why-chefs-wear-white",
@@ -2649,7 +2704,12 @@
           "q": "Why are chef jackets double-breasted?",
           "a": "The overlapping front gives two layers of fabric between chef and heat or splash, and it reverses — a soiled outer panel swaps to the clean side in seconds when the pass is in view. It's the most functional piece of the traditional design."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/chef-whites.webp",
+        "alt": "Chefs in whites plating dishes on a stainless pass in a commercial kitchen",
+        "kind": "photo"
+      }
     }
   ]
 }

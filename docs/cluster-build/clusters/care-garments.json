@@ -381,7 +381,12 @@
           "q": "What do the EN 343 numbers on a jacket mean?",
           "a": "Two classes, each 1–4: the first is resistance to water penetration, the second is breathability. Higher is better in both. A jacket rated 4:4 is the top spec; a high first number with a low second keeps rain out but traps sweat."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/waterproof-beading.webp",
+        "alt": "Rain beading on the shoulder of an orange waterproof hi-vis jacket",
+        "kind": "photo"
+      }
     },
     {
       "slug": "oil-grease-out-of-workwear",
@@ -529,7 +534,12 @@
           "q": "Does washing-up liquid really work on oil stains?",
           "a": "Yes — it's formulated to cut kitchen grease and works the same way on workshop oil as a pre-treatment. Work it in neat, wait 20 minutes, then machine wash hot. For heavy or repeated contamination a purpose-made solvent degreaser is stronger."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/oil-overalls.webp",
+        "alt": "Mechanic in oil-stained overalls working on an engine bay",
+        "kind": "photo"
+      }
     },
     {
       "slug": "washing-embroidered-workwear",
@@ -687,7 +697,12 @@
           "q": "Can you embroider hi-vis and FR workwear?",
           "a": "Yes, with rules: on hi-vis the decoration must not encroach on the certified fluorescent background or tape areas, and on FR garments the threads and process must be FR-compatible. That's why branding safety kit should go through the workwear supplier rather than a generic print shop."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/embroidered-polo.webp",
+        "alt": "Close-up of an embroidered crest on a navy polo shirt",
+        "kind": "photo"
+      }
     },
     {
       "slug": "washing-fr-workwear",
@@ -823,7 +838,12 @@
           "q": "Can FR workwear be washed at home?",
           "a": "Usually yes, within the label's rules: FR-only loads, plain detergent, no softener, no chlorine bleach, proper degreasing of oil contamination, and drying to the label. Industrial laundering remains the safer option for treated FR because it controls the chemistry and counts the washes — for hydrocarbon-site kit, many employers mandate it."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/industrial-laundry.webp",
+        "alt": "Hi-vis and FR workwear loaded in an industrial washing machine",
+        "kind": "photo"
+      }
     },
     {
       "slug": "paint-out-of-workwear",
@@ -945,7 +965,12 @@
           "q": "Can you remove two-pack paint from workwear?",
           "a": "Honestly, no — once catalysed it's a thermoset plastic bonded into the fibres, and anything aggressive enough to attack it destroys the fabric. Wipe splashes before they cure; after that, it's permanent and the garment's future is cosmetic."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/paint-overalls.webp",
+        "alt": "Decorator in paint-splattered whites cutting in on a wall",
+        "kind": "photo"
+      }
     },
     {
       "slug": "cement-concrete-stains",
@@ -1297,7 +1322,12 @@
           "q": "Is it bad to keep workwear in the van?",
           "a": "The van is fine as a wardrobe and terrible as a shelf: UV through windows fades hi-vis and degrades helmets, damp heaps mildew, and gloveboxes kill masks. Boxes off the glass, sealed tubs for spares and separating wet kit until dry fixes almost all of it."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/ppe-storage.webp",
+        "alt": "Site cabin lockers with helmets, gloves, hi-vis and boots stored on top",
+        "kind": "photo"
+      }
     },
     {
       "slug": "repair-or-replace-workwear",
@@ -1417,7 +1447,12 @@
           "q": "Can FR workwear be patched?",
           "a": "Only through FR-competent repair using matching FR fabrics and threads — an ordinary cotton or polyester patch on FR clothing creates a flammable island on a protective garment. Many employers route FR repairs through their laundering/rental service or simply replace; casual patching is the one wrong answer."
         }
-      ]
+      ],
+      "heroImage": {
+        "src": "assets/heroes/torn-trousers.webp",
+        "alt": "Tradesman working in badly ripped work trousers",
+        "kind": "photo"
+      }
     },
     {
       "slug": "how-long-does-hi-vis-last",
