@@ -1,0 +1,21 @@
+api_version = "2025-10"
+
+[[extensions]]
+name = "Quantity breaks"
+handle = "quantity-breaks"
+type = "function"
+description = "Tiered volume discount on garments and decoration, capped on premium lines."
+
+  [[extensions.targeting]]
+  target = "cart.lines.discounts.generate.run"
+  input_query = "src/run.graphql"
+  export = "run"
+
+  [extensions.build]
+  command = ""
+  path = "dist/function.wasm"
+  watch = ["src/**/*.js", "src/**/*.graphql"]
+
+  [extensions.ui.paths]
+  create = "/app/discounts/quantity-breaks/new"
+  details = "/app/discounts/quantity-breaks/:id"

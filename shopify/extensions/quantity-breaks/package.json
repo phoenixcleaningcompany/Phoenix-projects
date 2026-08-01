@@ -1,0 +1,12 @@
+{
+  "name": "quantity-breaks",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "test": "node --test 'src/*.test.js'",
+    "build": "shopify app function build",
+    "typecheck": "node --check src/run.js && node --check src/tiers.js",
+    "scenarios": "node scenarios.mjs"
+  }
+}
