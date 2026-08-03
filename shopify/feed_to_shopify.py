@@ -27,7 +27,13 @@ csv.field_size_limit(10 ** 9)
 # ── pricing model — identical to the calculator's bands (rev 3, carton cost) ──
 # Bands are keyed on what you PAY. Lifted 9% from the old pack-price bands and
 # the edges shifted down 9%, so the shelf price is unchanged.
-MULT_BANDS = [(0, 1.91), (4.50, 2.02), (9, 1.96), (18.50, 1.85)]
+# Top two bands added from a 2,964-product scrape of Workwear Express, ex VAT
+# on both sides. Their multiplier tapers steeply with cost and ours was almost
+# flat, so we crossed above them at £12 and were dearer on 96% of products over
+# £40 — jackets and softshells, where the 50-unit procurement orders live.
+# Below £25 nothing changes: we are already cheaper there at qty 1.
+MULT_BANDS = [(0, 1.91), (4.50, 2.02), (9, 1.96), (18.50, 1.85),
+              (25, 1.70), (40, 1.60)]
 
 def multiplier(cost):
     m = MULT_BANDS[0][1]
@@ -113,10 +119,11 @@ SEO_TITLE_MAX, SEO_DESC_MAX = 60, 155
 
 # ── quantity-break cap ───────────────────────────────────────────────────────
 # A Shopify Function cannot read a variant's cost, so the cap has to travel with
-# the variant. Premium garments stop at 10%: competitors discount a ~£9 tee 20%
-# at qty 100 but a £55 jacket only 12% for 30+, so an uncapped ladder would give
-# away margin nobody is asking us for.
-BREAK_CAP_COST, BREAK_CAP_PCT = 20.0, 0.10
+# the variant. Premium garments stop at 15%. The cap was 10%, set when TS007
+# appeared to stop at 12% for 30+; a verified WWE ladder on TJ133 — a £40.30
+# jacket — shows 5% at 5, 12% at 10 and 15% at 25, so 10% was too tight and was
+# costing us the premium end of the range.
+BREAK_CAP_COST, BREAK_CAP_PCT = 20.0, 0.15
 CAP_COL = 'Variant Metafield: custom.break_cap [number_decimal]'
 
 def singular(t):

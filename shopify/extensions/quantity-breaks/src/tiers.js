@@ -7,22 +7,31 @@
  * move the other.
  */
 
-/** Discount by total garment quantity in the cart. */
+/**
+ * Discount by total garment quantity in the cart.
+ *
+ * The ladder used to start at 20. A scrape of 2,964 Workwear Express products
+ * plus three verified break tables showed they start at 5-10 and give 10-12%
+ * by qty 10 — so across 5-19 units, the commonest workwear order there is, they
+ * discounted and we did not. At qty 1 we were 6.7% cheaper than them; at qty 10
+ * we were 4.5% DEARER.
+ */
 export const TIERS = [
   { min: 1,    discount: 0    },
-  { min: 20,   discount: 0.05 },
-  { min: 50,   discount: 0.10 },
-  { min: 100,  discount: 0.15 },
-  { min: 500,  discount: 0.20 },
+  { min: 5,    discount: 0.05 },
+  { min: 10,   discount: 0.10 },
+  { min: 25,   discount: 0.13 },
+  { min: 50,   discount: 0.15 },
+  { min: 100,  discount: 0.18 },
+  { min: 250,  discount: 0.20 },
   { min: 1000, discount: 0.25 },
 ];
 
 /**
- * Premium garments get the break capped. Real competitor tables show a ~£9 tee
- * discounted 20% at qty 100 while a £55 jacket stops at 12% for 30+ and never
- * moves again. Without this cap we would be 29% under them at qty 1,000 on a
- * jacket they stopped discounting at 30 — giving away margin to win a race
- * nobody else is running.
+ * Premium garments get the break capped, because competitors cut cheap garments
+ * harder than expensive ones. The cap is 15%: a verified WWE ladder on a £40.30
+ * jacket gives 5% at 5, 12% at 10 and 15% at 25, and stops there while a cheap
+ * tee runs on to 20% at 250.
  *
  * A Shopify Function cannot read a variant's cost, so the exporter stamps this
  * onto expensive variants as the metafield custom.break_cap.
