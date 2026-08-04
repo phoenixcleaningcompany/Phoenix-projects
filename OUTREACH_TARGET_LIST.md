@@ -1,5 +1,17 @@
 # Facilities / Block Management — Target List (starter)
 
+## Two sales motions, not one
+There are now three confirmed examples of the "one relationship, many sites" pattern: 6 schools via one facilities management company, 10 laundry sites via one block manager, and 10 day nurseries via Partou's facilities manager (a large nursery chain). That confirms the **large-chain/central-gatekeeper motion** is real and repeatable — Tier 1 below targets more of it.
+
+But independent care homes and smaller chains are booked directly by the individual site manager, not a central facilities function. That's a **second, separate motion**: more targets, no procurement gate, faster decision, but each win is one site rather than a batch. Given no existing geographic pattern to lean on for care homes, this track should be built deliberately around a chosen radius rather than discovered.
+
+## Independent/small-chain track — using public registers
+Care homes and day nurseries are publicly registered with regulators, searchable by postcode/region, with full addresses:
+- **CQC register** (care homes/nursing homes) — filterable by location and provider size, so it's straightforward to pull every independent or small-chain home within a chosen radius of an existing client cluster.
+- **Ofsted Early Years register** (day nurseries) — same approach, filterable by local authority area.
+
+This turns "no pattern" into a deliberate choice: pick 1-2 radii around your strongest existing client areas (or areas you're willing to travel to), pull the independent/small-chain sites in the register, and that's a concrete calling/emailing list — sized to keep travel efficient rather than scattering nationwide.
+
 ## Why size matters here
 National giants (HC-One, Care UK, Bupa, Kier, Mainstay) are excluded deliberately. They run centralized procurement/framework contracts built for large accredited suppliers, and their volume would exceed your realistic capacity (~22-26 jobs/month) even if you won the work. The right target is a company managing somewhere between roughly 5 and 30 sites — big enough that winning the relationship is worth the outreach effort, small enough to still have a reachable decision-maker and to fit inside your capacity.
 
