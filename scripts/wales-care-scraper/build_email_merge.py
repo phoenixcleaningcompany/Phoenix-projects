@@ -19,18 +19,30 @@ from collections import defaultdict
 SOURCE = "independent_and_small_chain.csv"
 OUTPUT = "email_merge_batch1.csv"
 
-SUBJECT_TEMPLATE = "LEV testing / TR19 compliance — {site_label}"
+# Matches WALES_COLD_EMAIL_SEQUENCE.md v3, Email 1. Subject personalizes with
+# site_label; body deliberately uses "your site" instead, so nothing needs
+# manual editing if these get sent outside a merge tool.
+SUBJECT_TEMPLATE = "10 things an EHO checks in a commercial kitchen — {site_label}"
 BODY_TEMPLATE = """Hi there,
 
-I run Phoenix Duct Clean — TR19 kitchen extraction cleaning and LEV/COSHH testing for care homes and nurseries across the UK, 15+ years doing it.
+I'm Damien, I run Phoenix Duct Clean — TR19 kitchen extraction cleaning and laundry duct cleaning, 15+ years doing it for care homes, nursing homes and nurseries across the UK. Thought this might be useful regardless of whether we ever work together.
 
-Two things I find get missed at sites like {site_label}:
-- LEV testing is a legal requirement enforced by the HSE under COSHH, not just best practice.
-- TR19 kitchen extraction cleaning is tied to fire risk assessments and insurance validity under the Fire Safety Order 2005 -- a missing certificate is a common reason a fire claim gets challenged.
+Ten things an Environmental Health Officer is actually looking at during a food hygiene inspection:
 
-If it's due, or you're not sure when it was last done, happy to send a no-obligation price. Every clean comes with a dated certificate, before/after photos, and an access report -- no hidden extras, no out-of-hours charge.
+1. Fridge/freezer temperatures and evidence of proper monitoring
+2. Date labelling and stock rotation
+3. Handwashing facilities and staff hygiene practices
+4. Cleaning schedules and records for equipment and surfaces
+5. Signs of pests, and how well the kitchen is proofed against them
+6. Condition and cleanliness of the extraction canopy, filters and ductwork
+7. Structural condition -- walls, floors, ceilings, are they intact and cleanable
+8. Waste storage and disposal, kept away from food prep
+9. Allergen information and how it's managed
+10. A documented food safety management system (e.g. Safer Food Better Business)
 
-Worth a reply either way, even if it's "not needed right now."
+Number 6 is the one that gets missed most, because most of it is out of sight above the canopy. A greasy extraction system can count against your food hygiene rating at inspection, separately from the fire-safety side of things.
+
+If it's been a while since your site's extraction system was properly cleaned (not just wiped down) -- or your laundry extraction duct, if you run an on-site laundry -- happy to have a look and give you a no-obligation price. Every clean comes with a dated certificate, before/after photos, and an access report.
 
 Damien
 Phoenix Duct Clean
