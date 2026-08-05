@@ -1,72 +1,107 @@
-# Wales Cold Outreach — 3-Email Sequence
+# Wales Cold Outreach — 3-Email Sequence (v2: value-led)
 
-For the independent/small-chain list (`scripts/wales-care-scraper/independent_and_small_chain.csv`). Plain text, not HTML — matches how a real one-person business emails, and avoids the spam signals a designed template triggers from an unfamiliar sender.
+For the independent/small-chain list (`scripts/wales-care-scraper/independent_and_small_chain.csv` / `mailchimp_contacts.csv`). Plain text only — no images, no attachments, no HTML template. For a first cold email to an unfamiliar recipient, plain text clears spam/security gateways (Mimecast, Proofpoint — common on school/council/NHS-linked domains) far more reliably than anything image- or attachment-heavy, and reads as a real person rather than a marketing platform. Save the designed HTML material (offer email, extraction-clean explainer, trust page) for warm leads who've already replied or been quoted.
 
-Cadence: Email 1 → wait 10-14 days, no reply → Email 2 → wait 10-14 days, no reply → Email 3. Stop the sequence the moment someone replies, quotes, or asks to be left alone.
+Sending plan: manual send across 2 Gmail + 1 Yahoo business accounts, ~300/day comfortably. Still worth a smaller first-day test (e.g. 100-150 across the three accounts) before running the full batch, to catch any bounce/spam-complaint pattern early — same logic as the rugby club test.
 
-Note on why a sequence, not a single email: the rugby club send (500 emails, single touch) got 3 quotes. A second and third touch to non-responders typically lifts replies further, since a first cold email is often just missed or deprioritized rather than rejected — it's not that the recipient said no.
+Cadence: Email 1 → wait 10-14 days, no reply → Email 2 → wait 10-14 days, no reply → Email 3. Stop the moment someone replies, quotes, or asks to be left alone.
+
+If you publish the fuller version of each list as a page on phoenixductclean.com, link to it from the email ("full checklist: phoenixductclean.com/...") instead of attaching anything — safer for deliverability, and it gives the new site real content to get indexed on.
 
 ---
 
-## Email 1 — Initial contact
+## Email 1 — "10 things health inspectors always look for"
 
-Subject: LEV testing / TR19 compliance — [Service Name]
+Subject: 10 things an EHO checks in a commercial kitchen — *|SITE|*
 
-Hi [Name / "there" if no contact name],
+Hi there,
 
-I run Phoenix Duct Clean — TR19 kitchen extraction cleaning and LEV/COSHH testing for care homes and nurseries across the UK, 15+ years doing it.
+I'm Damien, I run Phoenix Duct Clean — TR19 kitchen extraction cleaning and LEV/COSHH testing, 15+ years doing it for care homes and nurseries across the UK. Thought this might be useful regardless of whether we ever work together.
 
-Two things I find get missed at sites like yours:
-- LEV testing is a legal requirement enforced by the HSE under COSHH, not just best practice.
-- TR19 kitchen extraction cleaning is tied to fire risk assessments and insurance validity under the Fire Safety Order 2005 — a missing certificate is a common reason a fire claim gets challenged.
+Ten things an Environmental Health Officer is actually looking at during a food hygiene inspection:
 
-If it's due, or you're not sure when it was last done, happy to send a no-obligation price. Every clean comes with a dated certificate, before/after photos, and an access report — no hidden extras, no out-of-hours charge.
+1. Fridge/freezer temperatures and evidence of proper monitoring
+2. Date labelling and stock rotation
+3. Handwashing facilities and staff hygiene practices
+4. Cleaning schedules and records for equipment and surfaces
+5. Signs of pests, and how well the kitchen is proofed against them
+6. Condition and cleanliness of the extraction canopy, filters and ductwork
+7. Structural condition — walls, floors, ceilings, are they intact and cleanable
+8. Waste storage and disposal, kept away from food prep
+9. Allergen information and how it's managed
+10. A documented food safety management system (e.g. Safer Food Better Business)
 
-Worth a reply either way, even if it's "not needed right now."
+Number 6 is the one that gets missed most, because most of it is out of sight above the canopy. A greasy extraction system can count against your food hygiene rating at inspection, separately from the fire-safety side of things.
 
-[Name]
+If it's been a while since *|SITE|*'s extraction system was properly cleaned (not just wiped down), happy to have a look and give you a no-obligation price. Every clean comes with a dated TR19 certificate, before/after photos, and an access report.
+
+Damien
 Phoenix Duct Clean
 07961 915018 / officeductclean@gmail.com
 phoenixductclean.com
 
 ---
 
-## Email 2 — Follow-up (10-14 days later, no reply)
+## Email 2 — "What you're actually paying for" (10-14 days later, no reply)
 
-Subject: Re: LEV testing / TR19 compliance — [Service Name]
+Subject: Kitchen extraction cleaning — what's actually included — *|SITE|*
 
-Hi [Name],
+Hi there,
 
-Following up on the note below in case it got buried.
+Following up from my last note. Thought I'd explain what a proper TR19 extraction clean actually covers, since "duct cleaning" gets used loosely and it's not always clear what you're paying for.
 
-Quick version: I clean kitchen extraction systems and test LEV to HSE/COSHH standard for care homes and nurseries, and wanted to check if [Service Name] is up to date on either.
+One system, cleaned end to end — not just the visible canopy:
+- Canopy stripped inside and out
+- Baffle filters cleaned or replaced
+- Plenum (the hidden grease trap most people don't know exists) cleared
+- Ductwork cleaned via access hatches along its full run
+- Extractor fan degreased, pull restored
 
-If you already have someone doing this, no problem — just let me know so I stop chasing. If not, a price takes a couple of minutes to put together.
+The process: survey (inspect and agree scope based on how hard the kitchen runs), strip (filters and panels removed, cookline protected), degrease (canopy to fan, by hand, with before/after photos at each section), certify (dated TR19 certificate plus a next-due date for the fire logbook).
 
-[Name]
+Why it's worth doing properly: a greasy duct is a genuine fire risk under the Fire Safety Order 2005, insurers and EHOs specifically look for a current certificate, and a clean system runs cooler and pulls less power for the same result.
+
+How often it's actually needed comes down to cooking hours, not a fixed calendar date — heavy use (12+ hrs/day) is roughly every 3 months, moderate (6-12 hrs) roughly every 6, light (2-6 hrs) roughly every 12.
+
+If *|SITE|* isn't sure which band it's in or when it was last done properly, happy to take a look — no obligation.
+
+Damien
 Phoenix Duct Clean
 07961 915018 / officeductclean@gmail.com
 
 ---
 
-## Email 3 — Final, low-pressure close (10-14 days after Email 2)
+## Email 3 — "10 hidden risks in a care home" (10-14 days after Email 2)
 
-Subject: Last one from me — [Service Name]
+Subject: 10 hidden risks in a care home — *|SITE|*
 
-Hi [Name],
+Hi there,
 
-Last email on this from me — don't want to keep filling your inbox.
+Last email from me on this — after this I'll leave it, no more chasing.
 
-If TR19 extraction cleaning or LEV testing is something [Service Name] needs at some point, I'm easy to find: 07961 915018 or officeductclean@gmail.com. Happy to help whenever it's actually due, no pressure before then.
+Ten things that tend to get missed in a care home because they're out of sight, out of a routine inspection, or just easy to forget:
+
+1. Grease-laden kitchen extraction ductwork — a well-documented way a small kitchen fire spreads fast through a building
+2. Lint build-up inside laundry extraction ducts — same fire mechanism, same "nobody sees it" problem
+3. LEV systems overdue their statutory COSHH test (a legal HSE requirement, not optional)
+4. Fire doors that don't self-close properly, or get wedged open in practice
+5. Fire escape routes that have quietly become obstructed
+6. Emergency lighting that's failed and nobody knows until a power cut
+7. Legionella risk in water outlets that aren't used often
+8. Portable appliance (PAT) testing that's lapsed
+9. A fire risk assessment that hasn't been reviewed since the last change in layout or resident needs
+10. Compliance certificates that turn out to be missing at the exact moment an insurer asks for them after a claim
+
+Numbers 1 and 3 are where I can actually help — TR19 kitchen extraction cleaning and LEV/COSHH testing, done properly, with paperwork that holds up. If either is worth checking at *|SITE|*, I'm easy to find: 07961 915018 or officeductclean@gmail.com. No pressure either way.
 
 All the best,
-[Name]
+Damien
 Phoenix Duct Clean
 
 ---
 
 ## Notes
-- `[Service Name]` comes straight from the CSV — makes it look like you looked at their specific site, not a mail-merge blast, without needing a real contact name (which the CSV mostly won't have).
-- Don't use the McDonald's/AWS/BaxterStorey-style "trusted by" claims here until confirmed genuine (see conversation) — nothing in this draft references them.
-- Keep formatting plain: no images, no HTML template, no tracking pixels if avoidable — all of that increases spam-filter risk for cold mail from a personal Gmail address.
-- Respect the batching caution already in OUTREACH_TARGET_LIST.md — don't fire all ~2,000 Email 1s in one day from officeductclean@gmail.com.
+- `*|SITE|*` is the Mailchimp merge tag from `mailchimp_contacts.csv`; if sending manually, substitute the service name by hand or with a simple mail-merge tool.
+- Don't use the McDonald's/AWS/BaxterStorey "trusted by" claims here — confirmed genuine, but they belong on warm/trust-stage material, not a cold-open (see conversation for why).
+- Nothing in these three emails is an attachment or image — keep it that way for this stage.
+- If a recipient replies with any interest, that's the point to switch to the polished HTML material (offer, extraction-clean-explained, trust page) — those are built for exactly that stage.
