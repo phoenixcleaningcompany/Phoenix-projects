@@ -78,26 +78,26 @@ def main():
     if args.limit:
         rows = rows[: args.limit]
 
-    results = []
     hits = 0
-    for i, r in enumerate(rows, 1):
-        url = normalize_url(r["Service's website (if available)"])
-        email, found_on = find_email_for_site(url)
-        status = "FOUND" if email else "none"
-        if email:
-            hits += 1
-        print(f"[{i}/{len(rows)}] {status:5s} {r['Name'][:40]:40s} {url}", file=sys.stderr)
-        results.append({
-            "Name": r["Name"], "Postcode": r["Postcode"], "Phone number": r["Phone number"],
-            "Website": r["Service's website (if available)"], "Email": email or "",
-            "Found on page": found_on or "",
-        })
-        time.sleep(0.3)
-
+    fieldnames = ["Name", "Postcode", "Phone number", "Website", "Email", "Found on page"]
     with open(args.out, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=["Name", "Postcode", "Phone number", "Website", "Email", "Found on page"])
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
-        writer.writerows(results)
+        f.flush()
+        for i, r in enumerate(rows, 1):
+            url = normalize_url(r["Service's website (if available)"])
+            email, found_on = find_email_for_site(url)
+            status = "FOUND" if email else "none"
+            if email:
+                hits += 1
+            print(f"[{i}/{len(rows)}] {status:5s} {r['Name'][:40]:40s} {url}", file=sys.stderr)
+            writer.writerow({
+                "Name": r["Name"], "Postcode": r["Postcode"], "Phone number": r["Phone number"],
+                "Website": r["Service's website (if available)"], "Email": email or "",
+                "Found on page": found_on or "",
+            })
+            f.flush()
+            time.sleep(0.3)
 
     print(f"\nDone. {hits}/{len(rows)} sites yielded an email ({hits/len(rows):.0%}). Written to {args.out}", file=sys.stderr)
 
