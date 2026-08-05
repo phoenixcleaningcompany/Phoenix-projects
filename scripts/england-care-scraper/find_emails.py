@@ -70,19 +70,26 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--limit", type=int, default=30)
     ap.add_argument("--out", default="found_emails_pilot.csv")
+    ap.add_argument("--skip", type=int, default=0, help="skip this many already-processed rows and append to --out")
     args = ap.parse_args()
 
     with open(SOURCE, newline="", encoding="utf-8") as f:
         rows = [r for r in csv.DictReader(f) if r["Service's website (if available)"].strip()]
 
+    if args.skip:
+        rows = rows[args.skip:]
     if args.limit:
         rows = rows[: args.limit]
 
     hits = 0
     fieldnames = ["Name", "Postcode", "Phone number", "Website", "Email", "Found on page"]
-    with open(args.out, "w", newline="", encoding="utf-8") as f:
+    import os
+    write_header = not (args.skip and os.path.exists(args.out))
+    mode = "a" if args.skip and os.path.exists(args.out) else "w"
+    with open(args.out, mode, newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
-        writer.writeheader()
+        if write_header:
+            writer.writeheader()
         f.flush()
         for i, r in enumerate(rows, 1):
             url = normalize_url(r["Service's website (if available)"])
