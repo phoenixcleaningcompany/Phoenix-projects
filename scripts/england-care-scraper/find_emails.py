@@ -27,7 +27,7 @@ SOURCE = "independent_and_small_chain.csv"
 EMAIL_RE = re.compile(r"[a-zA-Z0-9._%+\-]+@[a-zA-Z0-9.\-]+\.[a-zA-Z]{2,}")
 MAILTO_RE = re.compile(r'mailto:([a-zA-Z0-9._%+\-]+@[a-zA-Z0-9.\-]+\.[a-zA-Z]{2,})', re.IGNORECASE)
 BAD_DOMAIN_SNIPPETS = ("sentry.io", "wixpress.com", "example.com", "godaddy.com", "cloudflare.com")
-CONTACT_PATHS = ("", "/contact", "/contact-us", "/contactus", "/about", "/about-us")
+CONTACT_PATHS = ("", "/contact", "/contact-us")
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -49,20 +49,23 @@ def extract_emails(html: str):
     return {e for e in found if not any(bad in e.lower() for bad in BAD_DOMAIN_SNIPPETS)}
 
 
-def find_email_for_site(base_url: str, timeout=8):
+def find_email_for_site(base_url: str, timeout=4):
     parsed = urlparse(base_url)
     root = f"{parsed.scheme}://{parsed.netloc}"
     for path in CONTACT_PATHS:
         url = urljoin(root, path)
         try:
             resp = requests.get(url, headers=HEADERS, timeout=timeout, verify="/root/.ccr/ca-bundle.crt")
-            if resp.status_code >= 400:
-                continue
-            emails = extract_emails(resp.text)
-            if emails:
-                return sorted(emails)[0], url
         except requests.RequestException:
+            # connection-level failure (timeout, refused, DNS, TLS) -- same host will
+            # almost certainly fail the same way on every other path, so stop early
+            # instead of burning the timeout again for each remaining path.
+            return None, None
+        if resp.status_code >= 400:
             continue
+        emails = extract_emails(resp.text)
+        if emails:
+            return sorted(emails)[0], url
     return None, None
 
 
