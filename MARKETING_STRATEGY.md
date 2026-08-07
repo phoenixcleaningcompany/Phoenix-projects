@@ -31,11 +31,11 @@ Retention is already strong (8-12 of 12 monthly jobs are rebookings), which mean
 3. Run a simple, factual re-engagement message to group (a): "It's been [X] months since your last TR19 clean/LEV test — you may be due your compliance renewal." Not salesy, just a nudge from someone they already trust.
 
 ### Pillar 3 — Build the facilities/block management channel deliberately (highest long-term leverage)
-Your two biggest wins — 6 schools via one facilities management company, 10 laundry sites via one block manager — both came in by accident, via old-site leads that no longer arrive. Nobody has ever gone and deliberately built more of these relationships. Given the 20 hrs/week available, this is the best use of that time:
-1. Build a target list of facilities management companies, block/property managers, and care home groups operating near your existing client clusters (this respects the "prefer not to travel huge distances" constraint while staying open to nationwide work).
-2. Approach directly (LinkedIn, phone, email) with a compliance-led pitch: "I handle TR19/LEV/laundry duct compliance for [similar sites] — happy to quote across your portfolio." Use the existing 6-school and 10-site relationships as proof.
-3. Build reciprocal referral relationships with catering equipment engineers and fire risk assessors — they encounter non-compliant kitchens and LEV systems in their own work and are a natural, no-cost referral source.
-4. Lead with LEV testing where useful: it's the one service enforced by a regulator (HSE, under COSHH) rather than "best practice," it applies to any industry, and you said yourself you only have "a handful" of LEV clients despite this — it's underused relative to how strong the legal argument is.
+Your two biggest wins — 6 schools via one facilities management company, 10 laundry sites via one block manager — both came in by accident, via old-site leads that no longer arrive. Nobody had ever gone and deliberately built more of these relationships until this round of work (see Section 4 below, which covers what's actually been built).
+1. ~~Build a target list~~ — done, four lists totaling 3,141 contacts (Section 4).
+2. Approach directly with a compliance-led, portfolio-scheduling pitch — sequences drafted for all four lists (Section 4). Existing client relationships (the 6 schools, the 10 laundry sites) are referenced generically in these ("a facilities management client," "a block management client") rather than named, since naming them hasn't been explicitly cleared.
+3. Build reciprocal referral relationships with catering equipment engineers and fire risk assessors — they encounter non-compliant kitchens and LEV systems in their own work and are a natural, no-cost referral source. Not yet actioned — no directory equivalent found/attempted for this group yet.
+4. **Revised from the original plan:** LEV testing was dropped from the executed cold-outreach sequences per your direction — kitchen extraction and laundry duct cleaning are the two services actually being pitched to care homes/nurseries/schools, block management, and facilities management. LEV remains a legally-stronger argument in principle (HSE/COSHH-enforced vs. TR19's insurance-driven angle), so it's worth reintroducing as a specific angle later if the current sequences underperform, or in-person/reply-thread once a conversation starts.
 
 ### Pillar 4 — SEO groundwork (slow, cheap, don't expect near-term leads from it)
 1. Keep the new site narrow — don't repeat the old site's mistake of chasing every unrelated service.
@@ -49,9 +49,34 @@ Generic search terms like "kitchen deep clean" put you in a bidding war against 
 - Or redirect the £500 toward LinkedIn outreach credits targeting facilities/property managers directly, which fits Pillar 3 better than broad search ads.
 - Treat this as a small, deliberate test, not the main growth engine — Pillars 2 and 3 are higher-confidence for the time and money available.
 
-## 3. Suggested sequencing
+## 4. Outreach infrastructure built (target lists + sequences)
 
-- **Month 1:** Foundation fixes (Pillar 1), start mining the email archive (Pillar 2)
-- **Month 1-2:** Launch reactivation outreach to lapsed target-industry clients
-- **Month 2-3:** Build the facilities/block management target list, begin outreach; approach catering engineers/fire risk assessors for referral relationships
-- **Ongoing:** Add SEO pages gradually; hold the £500 ad test until the GBP has reviews and the site has a price guide, so any traffic that lands doesn't hit a thin, unreviewed profile
+Four target lists and four matching cold-email sequences now exist, ready to load into Mailchimp (or send manually). All use plain text only — no images/attachments/HTML templates — since that's what clears spam/security gateways reliably for a first cold contact from an unfamiliar sender, and reads as a real person rather than a marketing platform. The designed HTML material (offer email, extraction-clean explainer, trust page) is for warm leads who've already replied or been quoted, not cold-open.
+
+| List | Contacts | Source | Sequence file | Tone |
+|---|---|---|---|---|
+| Wales care/nursery/school | 1,660 | CIW public data export (official bulk CSV, has email) | `WALES_COLD_EMAIL_SEQUENCE.md` | Educational listicle (EHO checklist, what TR19 includes, hidden risks) |
+| England care/nursing homes | 1,275 | CQC bulk directory + a custom website-scraping pass (CQC itself has no email field) | Same content as Wales — reuse the Wales sequence | Same as Wales |
+| Block management (TPI) | 133 | The Property Institute's public member directory, scraped directly | `BLOCK_MANAGEMENT_EMAIL_SEQUENCE.md` | Direct portfolio-scheduling pitch, no listicle — leads with laundry duct |
+| Facilities management (IWFM) | 73 | IWFM's public supplier directory, scraped directly | `FACILITIES_MANAGEMENT_EMAIL_SEQUENCE.md` | Same portfolio-pitch style — leads with kitchen extraction |
+
+**Total: 3,141 unique email contacts across four lists**, plus a separate pub-specific sequence (`PUBS_EMAIL_SEQUENCE.md`) for whenever a pub contact list gets sourced manually (CAMRA's listings were manually accessible to you; no bulk scrape was viable — see caveats below).
+
+All scraping/list-building scripts live under `scripts/` (`wales-care-scraper/`, `england-care-scraper/`, `block-management-scraper/`, `facilities-management-scraper/`) with READMEs documenting exactly how each list was built and its known caveats, so any of them can be re-run for a fresh pull later.
+
+### What didn't work, so it isn't retried later
+- **Day nurseries (England):** Ofsted's register has name/address only, no phone/email/website at all — worse than CQC. No bulk source with contact info exists; would need website-discovery-from-zero for ~14,573 providers, a much bigger job than the care home one. Parked, not attempted at scale.
+- **Restaurants/pubs/cafes (general hospitality):** No free UK equivalent of the care regulators exists for this vertical. FHRS (the food hygiene ratings body) has no contact fields at all; daynurseries.co.uk-style consumer directories (Yell, daynurseries.co.uk itself) are bot-protected; WhatPub/CAMRA is accessible but has no contact fields either. The realistic path for hospitality specifically is a commercial list broker (Prospect360, RD Marketing, etc. — likely the same category of provider behind the successful golf club email list from March), paid for out of the £500 test budget, not a free scrape.
+- **Chain/independent split:** applied to the two care home lists (filtering out large corporate chains and local authorities, since they need the facilities-manager relationship motion, not a mass individual-site email) but not to block management/facilities management, since those lists were already small enough (133 and 73) not to need it.
+
+### Sending caution (applies to all four lists)
+- Test a small batch first (a few hundred, not the full list at once) before scaling — same logic as the rugby club test that got 2 bookings from 500 emails.
+- Mailchimp's acceptable-use policy is built for opt-in permission marketing and has been known to flag/suspend accounts for cold lists sourced from directories — test a small batch through their review before committing further, or use a tool built for cold outreach instead (Instantly, Lemlist, Smartlead) or manual sending via Gmail/Yahoo (confirmed comfortable at ~300/day across your business accounts without spam issues).
+- Stop a sequence for anyone the moment they reply, quote, or ask to be left alone.
+
+## 5. Suggested sequencing
+
+- **Month 1:** Foundation fixes (Pillar 1) — still outstanding, not yet actioned
+- **Month 1:** ~~Start mining the email archive~~ — still outstanding (Pillar 2); the four cold-outreach lists above were built in parallel and are a separate, faster-moving workstream, not a replacement for this
+- **Month 1-2:** Test-send the four lists in Section 4, starting with a small batch per list; approach catering engineers/fire risk assessors for referral relationships (not yet actioned)
+- **Ongoing:** Add SEO pages gradually; hold the £500 ad test until the GBP has reviews and the site has a price guide, so any traffic that lands doesn't hit a thin, unreviewed profile — or redirect part of that budget toward a commercial hospitality contact list per Section 4's caveats
