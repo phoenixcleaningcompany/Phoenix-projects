@@ -68,7 +68,8 @@ def auto_commit(out_path, processed_count):
         ["git", "rev-parse", "--show-toplevel"], capture_output=True, text=True, cwd=os.path.dirname(os.path.abspath(out_path)) or "."
     ).stdout.strip()
     try:
-        subprocess.run(["git", "add", "-f", out_path], cwd=repo_root, check=True, capture_output=True)
+        abs_out_path = os.path.abspath(out_path)
+        subprocess.run(["git", "add", "-f", abs_out_path], cwd=repo_root, check=True, capture_output=True)
         subprocess.run(
             ["git", "commit", "-m", f"Auto-checkpoint: {processed_count} restaurant sites processed"],
             cwd=repo_root, check=True, capture_output=True,
