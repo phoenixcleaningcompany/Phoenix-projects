@@ -55,6 +55,7 @@ def main():
     ap.add_argument("--towns", required=True, help="text file, one town per line")
     ap.add_argument("--out", required=True)
     ap.add_argument("--max-pages", type=int, default=3)
+    ap.add_argument("--skip-towns", type=int, default=0, help="skip this many already-processed towns and append to --out")
     args = ap.parse_args()
 
     api_key = os.environ.get("PLACES_API_KEY")
@@ -63,33 +64,44 @@ def main():
 
     with open(args.towns) as f:
         towns = [line.strip() for line in f if line.strip()]
-
-    rows = []
-    request_count = 0
-    for town in towns:
-        places = search_town(api_key, town, max_pages=args.max_pages)
-        request_count += min(args.max_pages, max(1, (len(places) + 19) // 20))
-        print(f"{town}: {len(places)} results")
-        for p in places:
-            rows.append({
-                "Town": town,
-                "Name": p.get("displayName", {}).get("text", ""),
-                "Address": p.get("formattedAddress", ""),
-                "Phone": p.get("nationalPhoneNumber", ""),
-                "Website": p.get("websiteUri", ""),
-            })
-        time.sleep(0.3)
+    if args.skip_towns:
+        towns = towns[args.skip_towns:]
 
     fieldnames = ["Town", "Name", "Address", "Phone", "Website"]
-    with open(args.out, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
-        writer.writeheader()
-        writer.writerows(rows)
+    write_header = not (args.skip_towns and os.path.exists(args.out))
+    mode = "a" if args.skip_towns and os.path.exists(args.out) else "w"
 
-    has_website = sum(1 for r in rows if r["Website"])
-    print(f"\nTotal restaurants: {len(rows)}")
-    print(f"With website: {has_website} ({has_website/len(rows):.0%})" if rows else "0")
-    print(f"Approx API requests used: {request_count}")
+    total_rows = 0
+    total_with_website = 0
+    request_count = 0
+    with open(args.out, mode, newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        if write_header:
+            writer.writeheader()
+        f.flush()
+        for town in towns:
+            places = search_town(api_key, town, max_pages=args.max_pages)
+            request_count += min(args.max_pages, max(1, (len(places) + 19) // 20))
+            print(f"{town}: {len(places)} results")
+            for p in places:
+                row = {
+                    "Town": town,
+                    "Name": p.get("displayName", {}).get("text", ""),
+                    "Address": p.get("formattedAddress", ""),
+                    "Phone": p.get("nationalPhoneNumber", ""),
+                    "Website": p.get("websiteUri", ""),
+                }
+                writer.writerow(row)
+                total_rows += 1
+                if row["Website"]:
+                    total_with_website += 1
+            f.flush()
+            time.sleep(0.3)
+
+    print(f"\nTotal restaurants written this run: {total_rows}")
+    if total_rows:
+        print(f"With website: {total_with_website} ({total_with_website/total_rows:.0%})")
+    print(f"Approx API requests used this run: {request_count}")
 
 
 if __name__ == "__main__":
