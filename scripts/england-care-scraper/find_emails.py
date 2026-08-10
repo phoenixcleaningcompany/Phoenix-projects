@@ -44,9 +44,26 @@ def normalize_url(raw: str) -> str:
     return raw
 
 
+ALLOWED_TLDS = {
+    'com', 'org', 'net', 'biz', 'info', 'me', 'uk',
+    'co.uk', 'org.uk', 'net.uk', 'ltd.uk', 'plc.uk', 'gov.uk', 'ac.uk', 'sch.uk', 'nhs.uk',
+}
+
+
+def _valid_email_tld(email):
+    email = email.lower()
+    if email.count('@') != 1:
+        return False
+    domain = email.split('@', 1)[1]
+    parts = domain.split('.')
+    if len(parts) < 2:
+        return False
+    return '.'.join(parts[-2:]) in ALLOWED_TLDS or parts[-1] in ALLOWED_TLDS
+
+
 def extract_emails(html: str):
     found = set(MAILTO_RE.findall(html)) | set(EMAIL_RE.findall(html))
-    return {e for e in found if not any(bad in e.lower() for bad in BAD_DOMAIN_SNIPPETS)}
+    return {e for e in found if not any(bad in e.lower() for bad in BAD_DOMAIN_SNIPPETS) and _valid_email_tld(e)}
 
 
 def find_email_for_site(base_url: str, timeout=4):
