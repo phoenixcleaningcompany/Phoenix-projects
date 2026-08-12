@@ -5652,3 +5652,780 @@ Bebington,B_equipment_repair,Appliance repairs,"15 Penmon Dr., Pensby, Birkenhea
 Bebington,B_equipment_repair,A & E Dowler,"38 Thorburn Rd, Birkenhead, Wirral CH62 1EW, UK",0151 645 7151,http://www.aandedowlerwirral.co.uk/
 Bebington,B_equipment_repair,Cater-Equip Ltd,"Unit 1, Junction Industrial Estate, Pontyclun CF72 9ES, UK",01443 225325,https://www.cater-equip.co.uk/
 Bebington,B_equipment_repair,Manna Foods Bistro,"Church Dr, Bebington, Wirral CH62 5EF, UK",07525 779442,http://www.manna-foods.co.uk/
+Smethwick,A_catering_engineers,Birmingham Catering Equipment Ltd,"139A Middlemore Rd, Birmingham B66 2EA, UK",0121 558 2451,http://www.birminghamcateringequipment.co.uk/
+Smethwick,A_catering_engineers,Arts Catering,"3, Birch court, Crystal Drive, Smethwick, West Bromwich, Smethwick, Birmingham B66 1RB, UK",07312 030234,
+Smethwick,A_catering_engineers,R.S.Catering.Repairs.Ltd,"4 Siskin Cl, Birmingham, Oldbury B68 9LT, UK",07954 410775,
+Smethwick,A_catering_engineers,New Catering Solutionz,"No24, Unit 1b Cheston Rd, Birmingham B7 5EE, UK",07711 825722,http://www.cateringsolutionz.com/
+Smethwick,A_catering_engineers,Nova Catering Repairs,"34 Dudley Rd, Brierley Hill DY5 1LH, UK",01384 210544,http://www.novarepairs.co.uk/
+Smethwick,A_catering_engineers,JL Catering Equipment,"1 Downing St, Smethwick B66 2PP, UK",,
+Smethwick,A_catering_engineers,Jacksons Catering Company ltd,"Albion Business Park, Spring Rd, Birmingham, Smethwick B66 1LY, UK",0121 553 1777,http://www.jacksonscatering.co.uk/
+Smethwick,A_catering_engineers,Costa Engineers Ltd,"1, 14-16 Bissell St, Birmingham B5 7HP, UK",07952 975492,http://costaengineers.co.uk/
+Smethwick,B_equipment_repair,Nova Catering Repairs,"34 Dudley Rd, Brierley Hill DY5 1LH, UK",01384 210544,http://www.novarepairs.co.uk/
+Smethwick,B_equipment_repair,Birmingham Catering Equipment Ltd,"139A Middlemore Rd, Birmingham B66 2EA, UK",0121 558 2451,http://www.birminghamcateringequipment.co.uk/
+Smethwick,B_equipment_repair,ASTONS Catering Equipment,"Unit 2 South Staffs Freight Terminal, Lynn Ln, Shenstone, Lichfield WS14 0ED, UK",0121 643 1131,http://www.astonsgca.com/
+Smethwick,B_equipment_repair,Cater Buddy,"Unit 7, New Enterprise Centre, Monmore Rd, Wolverhampton WV1 2TZ, UK",01902 213114,https://www.caterbuddy.co.uk/
+Smethwick,B_equipment_repair,Abraxas Catering Equipment Limited,"Unit 8, Building 329, Rushock Trading Estate, Droitwich WR9 0NR, UK",01562 863222,https://www.abraxascatering.co.uk/
+Smethwick,B_equipment_repair,Arts Catering,"3, Birch court, Crystal Drive, Smethwick, West Bromwich, Smethwick, Birmingham B66 1RB, UK",07312 030234,
+Horsham,A_catering_engineers,Sophie's Kitchen at Horsham Sports Club,"Cricket Field Rd, Horsham RH12 1TE, UK",01403 254628,
+Horsham,A_catering_engineers,AWS Catering and Refrigeration,"10 Ostlers View, Billingshurst RH14 9LU, UK",07708 700374,http://www.cateringengineer.co.uk/
+Horsham,A_catering_engineers,Grizzly Bear Events Ltd,"Planet House, North Heath Lane, Horsham RH12 5QE, UK",01403 586040,http://www.grizzlybearevents.co.uk/
+Horsham,A_catering_engineers,Lello Co,"35 Victoria St, Horsham RH13 5DZ, UK",01403 810123,https://www.lello.co/
+Horsham,A_catering_engineers,Mend-All Catering Services Ltd,"Unit 1, Charmandean Centre, Forest Rd, Worthing BN14 9HS, UK",01273 411173,https://www.mendallcatering.co.uk/
+Horsham,A_catering_engineers,CKE Sussex,"6 Ravensbourne Cl, Shoreham-by-Sea BN43 6AD, UK",01273 467194,http://cke-sussex.co.uk/
+Horsham,A_catering_engineers,Gatwick Catering Equipment Servicing,"Unit 64b, Dean House Farm, Church Rd, Newdigate, Dorking RH5 5DL, UK",01306 631531,http://gatwickcateringequipmentservicing.co.uk/
+Horsham,B_equipment_repair,AWS Catering and Refrigeration,"10 Ostlers View, Billingshurst RH14 9LU, UK",07708 700374,http://www.cateringengineer.co.uk/
+Horsham,B_equipment_repair,Gatwick Catering Equipment Servicing,"Unit 64b, Dean House Farm, Church Rd, Newdigate, Dorking RH5 5DL, UK",01306 631531,http://gatwickcateringequipmentservicing.co.uk/
+Horsham,B_equipment_repair,The Horsham Repair Cafe,"Springfield Rd, Horsham RH12 2RG, UK",07780 701184,http://horshamrepaircafe.org.uk/
+Horsham,B_equipment_repair,Lello Co,"35 Victoria St, Horsham RH13 5DZ, UK",01403 810123,https://www.lello.co/
+Horsham,B_equipment_repair,Mend-All Catering Services Ltd,"Unit 1, Charmandean Centre, Forest Rd, Worthing BN14 9HS, UK",01273 411173,https://www.mendallcatering.co.uk/
+Horsham,B_equipment_repair,CKE Sussex,"6 Ravensbourne Cl, Shoreham-by-Sea BN43 6AD, UK",01273 467194,http://cke-sussex.co.uk/
+Horsham,B_equipment_repair,South Coast Catering Equipment Limited,"Unit 4-5, Commercial House, Apex Park, Hailsham BN27 3JU, UK",01323 444530,http://www.southcoastcatering.co.uk/
+Horsham,B_equipment_repair,Just Catering Repairs Ltd,"0 Parker Rd, Hastings TN34 3TP, UK",07711 944116,https://justcateringrepairsltd.co.uk/
+Horsham,B_equipment_repair,Catering Equipment Repair ‍ ️,"Unit 12, Shorncliffe Industrial Estate, North Cl, Folkestone CT20 3UH, UK",01304 873469,https://www.catering-equipment-repair.co.uk/
+Horsham,B_equipment_repair,M & G Catering Equipment,"10a &, 10b High St, Horley RH6 7AY, UK",07958 369824,
+Horsham,B_equipment_repair,RTC Technical Ltd,"Unit 1, Boxmend Industrial Estate, Parkwood Industrial Estate, Maidstone ME15 9YG, UK",01322 404909,https://rtctechnical.co.uk/
+Horsham,B_equipment_repair,TYRRELL SERVICES,"Unit A, Rio Estate, Polesden Ln, Woking GU23 6JX, UK",01483 776684,http://www.tyrrell-services.co.uk/
+Horsham,B_equipment_repair,RG Commercial Catering Services Ltd,"158 Henley Rd, Caversham, Reading RG4 6DJ, UK",0118 437 4173,http://www.rgccs.co.uk/
+Horsham,B_equipment_repair,Reza Catering Equipment,"Unit 1 Golden Cres, Hayes UB3 1AQ, UK",020 8848 7775,https://www.rezacatering.co.uk/
+Horsham,B_equipment_repair,ThreeSixty Commercial Catering Ltd,"Bullers Farm, Reading, Tadley RG26 5LL, UK",07930 832210,http://www.360commercialcatering.com/
+Horsham,B_equipment_repair,Millers Catering Equipment,"Unit 2, College Fields Business Centre, Prince Georges Rd, London SW19 2PT, UK",020 8687 5390,https://www.millerscatering.co.uk/
+Horsham,B_equipment_repair,Grizzly Bear Events Ltd,"Planet House, North Heath Lane, Horsham RH12 5QE, UK",01403 586040,http://www.grizzlybearevents.co.uk/
+Horsham,B_equipment_repair,K & M Equipment Ltd,"The Old Ambulance Station, Crowborough Hill, Crowborough TN6 2SD, UK",01892 529724,http://www.kandmequipmentltd.co.uk/
+Horsham,B_equipment_repair,Caterfix UK,"8 Testwood Ave, Totton, Southampton SO40 3LW, UK",0800 808 7760,https://www.commercialkitchenrepairs.co.uk/
+Horsham,B_equipment_repair,Lockhart Catering Equipment,"Lockhart House, Brunel Rd, Theale, Reading RG7 4XE, UK",0370 167 8678,http://www.lockhart.co.uk/
+Horsham,B_equipment_repair,Catering Hygiene Specialists Ltd,"Unit 1, Midas Industrial Estate, Longbridge Way, Cowley, Uxbridge UB8 2YT, UK",01895 812117,https://www.cateringhygiene.co.uk/shop
+Horsham,B_equipment_repair,Cater Solutions,"Unit 8, Integra:ME Bircholt Rd, Maidstone ME15 9GQ, UK",0845 066 9966,http://www.catersolutions.co.uk/
+Horsham,B_equipment_repair,One Stop Kitchens Ltd,"2, The Courtyard, Poundfield Road, Chalvington, Hailsham BN27 3YD, UK",0345 838 0477,http://www.oskit.co.uk/
+Horsham,B_equipment_repair,South East Commercial Kitchens Ltd,"The Downs Farm, Reigate Rd, Epsom KT17 3BY, UK",020 8393 4358,http://www.secommercialkitchens.co.uk/
+Horsham,B_equipment_repair,Knight Catering Services Ltd,"52 Water Ln, Totton, Southampton SO40 3DN, UK",07973 181453,http://www.k-c-s.co.uk/
+Horsham,B_equipment_repair,The Kitchen Store - Horsham,"46 East St, Horsham RH12 1HN, UK",01403 259320,https://www.thekitchenstore.co.uk/horsham
+Horsham,B_equipment_repair,Caterprompt Ltd,"Arena Business Centres, 100 Berkshire Pl, Winnersh, Triangle RG41 5RD, UK",01344 203711,http://www.caterprompt.com/
+Horsham,B_equipment_repair,NTS Ltd,"13u, Park Farm, W End Ln, Warfield, Bracknell RG42 5RH, UK",0808 304 0533,http://www.ntsltd.uk/
+Horsham,B_equipment_repair,Cedabond Catering Equipment,"Great N Rd, Wyboston, Bedford MK44 3BY, UK",0333 344 0037,http://www.cedabond.co.uk/
+Horsham,B_equipment_repair,Ryan James Benson Commercials Ltd (RJB),"Mercer Rd, Horsham RH12 3SR, Horsham RH12 3SR, UK",01403 333727,
+Horsham,B_equipment_repair,Putney commercial catering services,"10a Frensham Dr, London SW15 3EA, UK",07428 242632,
+Horsham,B_equipment_repair,Mobile Kitchens Ltd,"1st floor, 33 Chertsey Rd, Woking GU21 5AJ, UK",0345 812 0800,https://www.mk-hire.co.uk/
+Horsham,B_equipment_repair,Lincat Limited,"Whisby Road, Lincoln LN6 3QZ, UK",01522 875555,http://www.lincat.co.uk/
+Horsham,B_equipment_repair,Cedaforce Ltd,"Unit 10, Moore Place Farm, Plough Ln, Hook RG27 0RF, UK",0118 932 6666,http://www.cedaforce.com/
+Washington,A_catering_engineers,Catertech North East Ltd,"31-32 Market St, Ferryhill DL17 8JH, UK",01740 652777,https://www.cater-tech.co.uk/
+Washington,A_catering_engineers,RHE Catering Equipment Sevices,"The Courtyard, Burnsall Rd, Coventry CV5 6UT, UK",024 7666 7541,http://www.rheservices.co.uk/
+Washington,A_catering_engineers,Cedabond Catering Equipment,"Great N Rd, Wyboston, Bedford MK44 3BY, UK",0333 344 0037,http://www.cedabond.co.uk/
+Washington,A_catering_engineers,R S Vent,"Swan Road Swan Industrial Estate, 41 Swan Rd, Washington NE38 8JJ, UK",0191 416 5737,http://www.rsvents.co.uk/
+Washington,B_equipment_repair,"North East Commercial Catering Equipment Sales, Service & Repair","34C Ellesmere Ct, Sunderland SR2 9UA, UK",07958 205378,
+Washington,B_equipment_repair,Catering Repair Services,"unit 4, Eleventh Ave N, Gateshead NE11 0NJ, UK",0191 447 7020,
+Washington,B_equipment_repair,CaterCare Catering Equipment Ltd,"Unit 1, Nimbus Park, Porz Ave, Houghton Regis, Dunstable LU5 5WZ, UK",01582 862000,http://www.catercare.com/
+Washington,B_equipment_repair,AA Catering Equipment Services Ltd,"Unit 1, Invicta Works, Owen Rd, Willenhall WV13 2PZ, UK",01902 636566,http://www.aacateringservices.co.uk/
+Washington,B_equipment_repair,Catertech North East Ltd,"31-32 Market St, Ferryhill DL17 8JH, UK",01740 652777,https://www.cater-tech.co.uk/
+Washington,B_equipment_repair,LJ Catering Services Ltd,"30 Swan Rd, Washington NE38 8JJ, UK",07852 961082,
+Washington,B_equipment_repair,North East Commercial Catering and Gas Services Ltd,"14 Pk Pl E, Hendon, Sunderland SR2 8EE, UK",07958 205378,
+Washington,B_equipment_repair,South Coast Catering Equipment Limited,"Unit 4-5, Commercial House, Apex Park, Hailsham BN27 3JU, UK",01323 444530,http://www.southcoastcatering.co.uk/
+Washington,B_equipment_repair,RG Commercial Catering Services Ltd,"158 Henley Rd, Caversham, Reading RG4 6DJ, UK",0118 437 4173,http://www.rgccs.co.uk/
+Washington,B_equipment_repair,CS Catering Equipment,"Hurricane House, Moxon Way, Sherburn in Elmet, Leeds LS25 6FB, UK",01977 687665,http://www.cs-catering-equipment.co.uk/
+Washington,B_equipment_repair,Core Catering Maintenance Ltd,"Unit 8, 211 Split Crow Rd, Deckham, Gateshead NE8 3UB, UK",0191 490 2510,
+Washington,B_equipment_repair,Chesters Catering Equipment,"Warrington Ln, Lymm WA13 0SW, UK",01925 759970,http://chesterscateringequipment.com/
+Washington,B_equipment_repair,Reza Catering Equipment,"Unit 1 Golden Cres, Hayes UB3 1AQ, UK",020 8848 7775,https://www.rezacatering.co.uk/
+Washington,B_equipment_repair,RHE Catering Equipment Sevices,"The Courtyard, Burnsall Rd, Coventry CV5 6UT, UK",024 7666 7541,http://www.rheservices.co.uk/
+Washington,B_equipment_repair,Cater-Equip Ltd,"Unit 1, Junction Industrial Estate, Pontyclun CF72 9ES, UK",01443 225325,https://www.cater-equip.co.uk/
+Washington,B_equipment_repair,Catering Equipment Services Ltd,"Unit 3D, Maryland Industrial Estate, Belfast, Newtownards BT23 6BL, UK",028 9049 1616,https://cescatering.co.uk/
+Washington,B_equipment_repair,NWCE Foodservice Equipment,"Folds Rd, Bolton BL1 2SB, UK",0161 764 8688,http://www.nwce.co.uk/
+Washington,B_equipment_repair,Expert Catering Equipment Services,"Unit C, McKay Way, Lynch Ln, Weymouth DT4 9DN, UK",07740 862385,http://www.catering-repair.co.uk/
+Washington,B_equipment_repair,H2 Catering Equipment,"Unit 2, Cherry Orchard, Colley Lane Industrial Estate, Squibbers Wy, Bridgwater TA6 5FB, UK",01278 423823,http://www.h2products.co.uk/
+Washington,B_equipment_repair,Caterkit Services Ltd,"Unit 2 Modular Business Park, Norton Rd, Stevenage SG1 2FZ, UK",01920 872580,https://www.caterkitservices.com/
+Washington,B_equipment_repair,WHH commercial vehicle repairs LTD,"20 Tower Rd, Washington NE37 2SH, UK",0191 481 2127,http://whhvehiclerepairs.co.uk/
+Washington,B_equipment_repair,Caterfix UK,"8 Testwood Ave, Totton, Southampton SO40 3LW, UK",0800 808 7760,https://www.commercialkitchenrepairs.co.uk/
+Washington,B_equipment_repair,Willow Catering Services Ltd,"Unit 3 B, Bold Industrial Park, Neills Rd, St Helens, Saint Helens WA9 4TU, UK",01925 417594,http://www.wcsonline.co.uk/
+Washington,B_equipment_repair,TYRRELL SERVICES,"Unit A, Rio Estate, Polesden Ln, Woking GU23 6JX, UK",01483 776684,http://www.tyrrell-services.co.uk/
+Washington,B_equipment_repair,CC Fix,"Masefield Cl, london DA8 2DG, UK",020 8050 2886,https://www.ccfix.co.uk/
+Washington,B_equipment_repair,CMS - Commercial Maintenance Services UK Ltd,"Gateshead NE8 3AD, UK",0330 174 8200,https://www.cmsltd.co.uk/
+Washington,B_equipment_repair,R S Vent,"Swan Road Swan Industrial Estate, 41 Swan Rd, Washington NE38 8JJ, UK",0191 416 5737,http://www.rsvents.co.uk/
+Washington,B_equipment_repair,UK Catering Ltd,"304, Vantage Point, New England Rd, Brighton and Hove, Brighton BN1 4GW, UK",01273 505075,https://ukcatering.co.uk/
+Washington,B_equipment_repair,SK CATERING EQUIPMENTS LTD,"214 Francis Rd, London E10 6PR, UK",07867 861997,
+Washington,B_equipment_repair,Commercial Catering Contracts Ltd,"Waterside House, Brighton and Hove, Brighton BN41 1UY, UK",01273 885655,http://www.commercialcatering.co.uk/
+Washington,B_equipment_repair,KES Facilities Limited,"Commer house, Station Rd, Tadcaster LS24 9JF, UK",0113 347 1234,http://www.kesfacilities.co.uk/?utm_source=gbp
+Washington,B_equipment_repair,House Domestic Repairs,"Low Fell, Gateshead NE9 5JF, UK",07553 873634,https://www.housedomesticrepairs.com/
+Washington,B_equipment_repair,KRD Catering Equipment Ltd,"Unit 8, Sharvatt Business Centre, Keats Rd, Belvedere DA17 6BP, UK",01322 923522,https://krdcatering.co.uk/
+Washington,B_equipment_repair,Wok Cooker Services Ltd,"Unit H3, Westfield Industrial Estate, Second Ave, Midsomer Norton, Radstock BA3 4BH, UK",01761 411772,http://www.wokcookerservices.co.uk/
+Washington,B_equipment_repair,UK Catering Engineer,"Unit B, Lyttleton Rd, Northampton NN5 7ET, UK",07787 069044,http://ukcateringengineer.co.uk/
+Washington,B_equipment_repair,Catering Hygiene Specialists Ltd,"Unit 1, Midas Industrial Estate, Longbridge Way, Cowley, Uxbridge UB8 2YT, UK",01895 812117,https://www.cateringhygiene.co.uk/shop
+Washington,B_equipment_repair,CaterCare,"12 West St, Ware SG12 9EE, UK",01582 832007,https://catercare.co/
+Washington,B_equipment_repair,JD Catering Equipment Solutions Ltd,"Industrial Estate, Unit 2 Ambassador Way, Yaxham Rd, Dereham NR20 3TL, UK",01953 851339,http://www.jdcateringequip.co.uk/
+Washington,B_equipment_repair,UK Gas Services NE Ltd,"Unit 7 Elswick Road Armstrong Industrial Estate, Armstrong, Washington NE37 1LH, UK",0191 540 2000,https://www.ukgaswashington.co.uk/
+Washington,B_equipment_repair,Allancia Ltd,"Delta House, Washington, NE389dx NE38 9DX, UK",0191 415 7340,https://www.allancia.co.uk/contact-us
+Washington,B_equipment_repair,Cater Solutions,"Unit 8, Integra:ME Bircholt Rd, Maidstone ME15 9GQ, UK",0845 066 9966,http://www.catersolutions.co.uk/
+Washington,B_equipment_repair,Cater-kwik Ltd,"The Lakeland Catering Centre, Newland, Ulverston LA12 7QQ, UK",01229 480001,https://www.caterkwik.co.uk/
+Washington,B_equipment_repair,ASC GROUP,"Unit 2&3 Albany Village Centre, Washington NE37 1UB, UK",07951 374558,https://ascgroupne.co.uk/
+Washington,B_equipment_repair,Roundel Manufacturing Ltd,"Wear Industrial Estate, 5-8 Sedling Rd, Washington NE38 9BZ, UK",0191 427 1222,https://www.roundelkitchens.co.uk/
+Washington,B_equipment_repair,HLA Services,"1, Boldon Business Park, Boldon Colliery NE35 9PY, UK",0191 548 6699,http://hlaservices.co.uk/
+Washington,B_equipment_repair,UK Commercial Group,"14 Octavian Way, Team Valley, Gateshead NE11 0HZ, UK",0800 032 9533,https://www.ukcommercialgroup.co.uk/
+Washington,B_equipment_repair,Elite Caterers,"36 Station Rd, Washington NE38 8LX, UK",0191 417 6655,
+Hornchurch,A_catering_engineers,Andrews Catering,"54 Rainsford Way, Hornchurch RM12 4BL, UK",07944 688737,http://www.andrewscatering.co.uk/
+Hornchurch,A_catering_engineers,Campbell's Catering Solutions,"15 Austral Dr, Hornchurch RM11 1JJ, UK",07909 776225,https://campbell-s-catering-solutions-ltd.ueniweb.com/?utm_campaign=gmb
+Hornchurch,A_catering_engineers,Metropolitan Technical Solutions,"Aaron House, 132 The Avenue, Hornchurch RM12 4JG, UK",01708 450330,https://metropolitantechnicalsolutions.co.uk/
+Hornchurch,A_catering_engineers,Leave it to Us,"26 Rutland Dr, Hornchurch RM11 3EN, UK",01708 442672,http://leaveittouscaterers.co.uk/
+Hornchurch,A_catering_engineers,Corrigans Service Engineers,"309A Hornchurch Rd, Hornchurch RM12 4TQ, UK",0808 135 1721,
+Hornchurch,A_catering_engineers,Ace Catering Engineers,"Fields End, Back Rd, Ardleigh, Colchester CO7 7TD, UK",01255 224004,http://www.acecateringengineers.co.uk/
+Hornchurch,A_catering_engineers,SOS Catering Equipment and Engineering Limited,"Unit 5 Lockwood Way, London E17 5RB, UK",020 8531 8543,http://www.soscateringequipment.co.uk/
+Hornchurch,A_catering_engineers,Unique Engineering Services,"82 Rainham Rd, Rainham RM13 7RJ, UK",07515 808229,http://www.uniqueengineeringservices.co.uk/
+Hornchurch,B_equipment_repair,romford catering equipment ltd,"GLOMONT WORKS, Selinas Ln, Dagenham RM8 1QH, UK",07385 190378,https://romfordce.com/
+Hornchurch,B_equipment_repair,Basildon Catering Equipment Limited,"10, Orion Court, Cranes Farm Rd, Basildon SS14 3DB, UK",01268 533362,http://www.basildoncateringequipment.co.uk/
+Hornchurch,B_equipment_repair,G H Catering Equipment Services Ltd,"27 Rawreth Ln, Rayleigh SS6 9RS, UK",01268 785990,http://www.ghcatering.co.uk/
+Hornchurch,B_equipment_repair,CC Fix,"Masefield Cl, london DA8 2DG, UK",020 8050 2886,https://www.ccfix.co.uk/
+Hornchurch,B_equipment_repair,First Catering Equipment,"2 Totman Close Brook Rd Ind Est, Rayleigh SS6 7UZ, UK",01268 777117,https://firstcateringequipment.co.uk/index.php/
+Hornchurch,B_equipment_repair,Ward's Catering Equipment Services,"34 Redwood Cl, Witham CM8 2PL, UK",07720 894899,http://www.wardscommercialkitchenservicesrepairs.co.uk/
+Hornchurch,B_equipment_repair,Ece Catering Equipment,"2 Rippers Ct, Sible Hedingham, Halstead CO9 3PY, UK",01787 582574,http://www.ececateringequipment.com/
+Hornchurch,B_equipment_repair,Metropolitan Technical Solutions,"Aaron House, 132 The Avenue, Hornchurch RM12 4JG, UK",01708 450330,https://metropolitantechnicalsolutions.co.uk/
+Hornchurch,B_equipment_repair,Ace Catering Engineers,"Fields End, Back Rd, Ardleigh, Colchester CO7 7TD, UK",01255 224004,http://www.acecateringengineers.co.uk/
+Hornchurch,B_equipment_repair,TAG Catering Equipment UK Ltd,"Unit 2, Modular Business Park, Norton Rd, Stevenage SG1 2FZ, UK",01920 877007,https://www.tagukltd.com/
+Hornchurch,B_equipment_repair,Catering Equipment Support Ltd,"Unit 12 Deer Park Farm Ind Est, Knowle Ln, Fair Oak, Eastleigh SO50 7DZ, UK",023 8000 6082,https://www.cateringequipmentsupport.co.uk/
+Hornchurch,B_equipment_repair,K's Catering Hire,"109 Rainham Rd, Rainham RM13 7QX, UK",01708 454010,http://www.kscateringhire.com/
+Hornchurch,B_equipment_repair,South Coast Catering Equipment Limited,"Unit 4-5, Commercial House, Apex Park, Hailsham BN27 3JU, UK",01323 444530,http://www.southcoastcatering.co.uk/
+Hornchurch,B_equipment_repair,Caterkit Services Ltd,"Unit 2 Modular Business Park, Norton Rd, Stevenage SG1 2FZ, UK",01920 872580,https://www.caterkitservices.com/
+Hornchurch,B_equipment_repair,"Lorettas, caterers","31 Byton Cl, Romford RM7 0HN, UK",07899 893569,
+Hornchurch,B_equipment_repair,Andrews Catering,"54 Rainsford Way, Hornchurch RM12 4BL, UK",07944 688737,http://www.andrewscatering.co.uk/
+Hornchurch,B_equipment_repair,Cater Solutions,"Unit 8, Integra:ME Bircholt Rd, Maidstone ME15 9GQ, UK",0845 066 9966,http://www.catersolutions.co.uk/
+Hornchurch,B_equipment_repair,Addwell EPOS Solutions Ltd,"82 Brentwood Rd, Hornchurch, Romford RM1 2EL, UK",01708 730980,http://www.addwell.co.uk/
+Hornchurch,B_equipment_repair,Catering Equipment Services Ltd,"Unit 3D, Maryland Industrial Estate, Belfast, Newtownards BT23 6BL, UK",028 9049 1616,https://cescatering.co.uk/
+Hornchurch,B_equipment_repair,Unique Engineering Services,"82 Rainham Rd, Rainham RM13 7RJ, UK",07515 808229,http://www.uniqueengineeringservices.co.uk/
+Hornchurch,B_equipment_repair,The Event Connoisseur Ldn,"135 Wennington Rd, Rainham RM13 9TR, UK",07306 415384,http://tecldn.co.uk/
+Hornchurch,B_equipment_repair,CCCS U.K,"Unit 8, Integra Business Park, Maidstone ME15 9GQ, UK",0845 066 9966,http://www.icombi.pro/
+Hornchurch,B_equipment_repair,Oil Boilers Essex,"116 Hornchurch Rd, Hornchurch RM11 1DL, UK",0800 849 1308,https://oilboilersessex.co.uk/
+Kettering,A_catering_engineers,I P M Catering Ltd,"Northfield Lodge, Northfield Rd, Great Cransley, Kettering NN14 1PZ, UK",01536 518117,https://ipmcateringengineers.com/
+Kettering,A_catering_engineers,Whites Catering Equipment,"Weee Environmental, Pytchley Lodge Industrial Estate, Pytchley Lodge Rd, Kettering NN15 6JQ, UK",01895 730055,http://www.webuyeverything.co.uk/
+Kettering,A_catering_engineers,Queency’s catering service,"10 Lancaster Rd, Kettering NN16 8PA, UK",07434 940223,http://designbyqueency.co.uk/
+Kettering,A_catering_engineers,CC's Catering,"17 Montagu St, Kettering NN16 8XG, UK",07758 095146,http://www.cccatering.co.uk/
+Kettering,A_catering_engineers,Taurus Catering Equipment Ltd,"3 Matson Ct, Raunds, Wellingborough NN9 6RG, UK",,http://www.tauruscatering.co.uk/
+Kettering,A_catering_engineers,Great Eastern Service Co,"143-149 Bath Rd, Kettering NN16 8NE, UK",01536 416390,http://www.greateasternservice.co.uk/
+Kettering,A_catering_engineers,Portfolio Events,"2 Orion Way, Kettering NN15 6NL, UK",01604 215606,http://www.portfolioevents.com/
+Kettering,A_catering_engineers,U S S Catering & Refrigeration Equipment Ltd,"9, Denington Court, Denington Ind Est, Wellingborough NN8 2QR, UK",01933 274675,https://www.usscatering.co.uk/
+Kettering,A_catering_engineers,Midlands Catering Equipment,"17 Deer Park Rd, Northampton NN3 6AT, UK",01604 961161,https://www.midlandscateringequipment.co.uk/
+Kettering,A_catering_engineers,Flomatic,"143, 149 Bath Rd, Kettering NN16 8NE, UK",01536 481977,https://www.flomatic.co.uk/
+Kettering,B_equipment_repair,Great Eastern Service Co,"143-149 Bath Rd, Kettering NN16 8NE, UK",01536 416390,http://www.greateasternservice.co.uk/
+Kettering,B_equipment_repair,Midlands Catering Equipment,"17 Deer Park Rd, Northampton NN3 6AT, UK",01604 961161,https://www.midlandscateringequipment.co.uk/
+Kettering,B_equipment_repair,Whites Catering Equipment,"Weee Environmental, Pytchley Lodge Industrial Estate, Pytchley Lodge Rd, Kettering NN15 6JQ, UK",01895 730055,http://www.webuyeverything.co.uk/
+Kettering,B_equipment_repair,CaterCare Catering Equipment Ltd,"Unit 1, Nimbus Park, Porz Ave, Houghton Regis, Dunstable LU5 5WZ, UK",01582 862000,http://www.catercare.com/
+Kettering,B_equipment_repair,Commercial Kitchen Breakdowns Ltd,"5-6 Maiden Ln, Stamford PE9 2AZ, UK",01780 778088,https://commercialkitchenbreakdowns.co.uk/
+Kettering,B_equipment_repair,I P M Catering Ltd,"Northfield Lodge, Northfield Rd, Great Cransley, Kettering NN14 1PZ, UK",01536 518117,https://ipmcateringengineers.com/
+Kettering,B_equipment_repair,Select Catering Equipment,"Unit 9, Lyon Rd, Bletchley, Milton Keynes MK1 1AX, UK",01908 980075,http://selectce.co.uk/
+Kettering,B_equipment_repair,Flomatic,"143, 149 Bath Rd, Kettering NN16 8NE, UK",01536 481977,https://www.flomatic.co.uk/
+Kettering,B_equipment_repair,Anglia Catering Equipment Repairs,"Ind Estate, Unit 2 Ambassador Way, Yaxham Rd, Dereham NR20 3TL, UK",01953 851339,https://www.angliacks.co.uk/
+Kettering,B_equipment_repair,Queency’s catering service,"10 Lancaster Rd, Kettering NN16 8PA, UK",07434 940223,http://designbyqueency.co.uk/
+Kettering,B_equipment_repair,Ece Catering Equipment,"2 Rippers Ct, Sible Hedingham, Halstead CO9 3PY, UK",01787 582574,http://www.ececateringequipment.com/
+Kettering,B_equipment_repair,CC's Catering,"17 Montagu St, Kettering NN16 8XG, UK",07758 095146,http://www.cccatering.co.uk/
+Brierley Hill,A_catering_engineers,Nova Catering Repairs,"34 Dudley Rd, Brierley Hill DY5 1LH, UK",01384 210544,http://www.novarepairs.co.uk/
+Brierley Hill,A_catering_engineers,Polaris Catering & Refrigeration Service Ltd,"Office 21, Haldon House, Business Centre, 385 Brettell Ln, Brierley Hill DY5 3LQ, UK",01527 585676,https://www.polariscateringservices.com/
+Brierley Hill,A_catering_engineers,Plyvine Catering,"7 Pedmore Rd, Brierley Hill DY5 1TJ, UK",0800 731 6772,http://www.plyvinecatering.co.uk/
+Brierley Hill,A_catering_engineers,MHN catering commercial Birmingham,"Pier 39, 15, Market Square, High St, Cradley Heath B64 5HH, UK",,
+Brierley Hill,A_catering_engineers,Network Catering Engineers Ltd,"Unit 6, Acorn park, Vernon Rd, Blackheath, Halesowen B62 8EG, UK",0333 234 1677,https://www.networklimited.co.uk/
+Brierley Hill,A_catering_engineers,Caterline Commercial Kitchens Ltd,"Unit 16, Primrose Trading Estate, Cradley Rd, Netherton, Dudley DY2 9SA, UK",01384 459111,https://www.caterlineltd.co.uk/
+Brierley Hill,A_catering_engineers,Dudley catering,"4 Brick Kiln St, Brierley Hill DY5 1JG, UK",07777 796724,
+Brierley Hill,A_catering_engineers,N L C Services Ltd,"WJB House, Roetan House, Thorns Rd, Brierley Hill DY5 2LD, UK",01384 77759,http://www.nlc-ltd.co.uk/
+Brierley Hill,A_catering_engineers,ASJ Catering & Events,"Unit 3A, Cradley Enterprise Centre, Cradley, Halesowen B63 2QB, UK",01384 931032,http://www.asjcatering.co.uk/
+Brierley Hill,A_catering_engineers,S N P Food Machinery Ltd,"Anchor Business Park, B14, New Rd, Dudley DY2 9AF, UK",01384 231051,https://www.snpfoodmachinery.co.uk/
+Brierley Hill,A_catering_engineers,Kie's Kitchen,"65 High St, Dudley DY1 1PY, UK",07398 186606,http://www.kieskitchen.co.uk/
+Brierley Hill,A_catering_engineers,Catering Insurance,"Dudley Court South, The Waterfront, Level St, Brierley Hill DY5 1XN, UK",0800 488 0771,https://www.cateringinsurance.co.uk/
+Brierley Hill,A_catering_engineers,Albany Equipment Limited (Albany Microwaves),"Unit 13, Cradley Rd, Cradley Heath B64 7RW, UK",01384 567202,http://www.albanycatering.co.uk/
+Brierley Hill,A_catering_engineers,J's Diner,"Unit 2, Brettelle Lane Industrial Estate, Brettell Ln, Brierley Hill DY5 3LH, UK",07857 969616,https://www.facebook.com/Js-Diner-Catering-Services-391047717973704/
+Brierley Hill,B_equipment_repair,Nova Catering Repairs,"34 Dudley Rd, Brierley Hill DY5 1LH, UK",01384 210544,http://www.novarepairs.co.uk/
+Brierley Hill,B_equipment_repair,Polaris Catering & Refrigeration Service Ltd,"Office 21, Haldon House, Business Centre, 385 Brettell Ln, Brierley Hill DY5 3LQ, UK",01527 585676,https://www.polariscateringservices.com/
+Brierley Hill,B_equipment_repair,Smart Catering Repairs Ltd,"Unit 15, Spinners End Industrial Estate, Oldfields, Cradley Heath B64 6BS, UK",01384 918688,http://www.smartcateringrepairs.co.uk/
+Corby,A_catering_engineers,Artisan Cuisine,"86 Patrick Rd, Corby NN18 9NB, UK",07931 408167,https://artisancuisine.co.uk/
+Corby,A_catering_engineers,4Sure,"1 Whittle Rd, Corby NN17 5DX, UK",01536 202944,https://www.4sure.co.uk/
+Corby,A_catering_engineers,Taurus Catering Equipment Ltd,"3 Matson Ct, Raunds, Wellingborough NN9 6RG, UK",,http://www.tauruscatering.co.uk/
+Corby,A_catering_engineers,Midlands Catering Equipment,"17 Deer Park Rd, Northampton NN3 6AT, UK",01604 961161,https://www.midlandscateringequipment.co.uk/
+Corby,A_catering_engineers,Fenix Services TD Limited,"102 Lindisfarne Rd, Corby NN17 2EN, UK",07784 176578,https://www.fenixservices.uk/
+Corby,A_catering_engineers,Select Catering Equipment,"Unit 9, Lyon Rd, Bletchley, Milton Keynes MK1 1AX, UK",01908 980075,http://selectce.co.uk/
+Corby,A_catering_engineers,Castle Catering Engineers Ltd,"Unit 8, Pottery Court, Pottery Way, Bulwell, Nottingham NG6 8YN, UK",0115 905 1208,https://www.ccecatering.com/
+Corby,A_catering_engineers,Artisan Cuisine,"63 Minden Cl, Corby NN18 9ND, UK",07931 408167,https://www.artisancuisine.co.uk/
+Corby,A_catering_engineers,Sierra Falls,"78 Newmarket Cl, Corby NN18 8QH, UK",07535 531809,https://www.sierrafalls.co.uk/
+Corby,A_catering_engineers,Cook Cool Catering Equipment,"99 Manvers St, Sneinton, Nottingham NG2 4NU, UK",0115 950 4685,http://www.cook-cool.co.uk/
+Corby,A_catering_engineers,Washtech Services Ltd,"3, Smith Old Yard, 1 Fernie Road, Market Harborough LE16 7PH, UK",0800 026 9313,
+Corby,A_catering_engineers,CATERING EQUIPMENT LTD,"Catering Equipment Ltd, Grendon Rd, Polesworth, Tamworth B78 1NX, UK",0121 773 2228,https://www.clickonstore.net/
+Corby,A_catering_engineers,Anglia Catering Equipment Repairs,"Ind Estate, Unit 2 Ambassador Way, Yaxham Rd, Dereham NR20 3TL, UK",01953 851339,https://www.angliacks.co.uk/
+Corby,A_catering_engineers,Commercial Catering Engineers Ltd,"CCE, Unit A3 Cefndy Employment Pk, Cefndy Rd, Rhyl LL18 2HJ, UK",01745 798390,http://www.commercialcateringengineersltd.com/
+Corby,A_catering_engineers,CB Training (UK) Ltd,"30 Burkitt Rd, Corby NN17 4DT, UK",01536 201871,http://www.forklifttrainingonline.co.uk/
+Corby,A_catering_engineers,Gardiff Catering,"Unit 10, The, Cam Centre, Hitchin SG4 0TW, UK",01462 428470,http://www.gardiffcatering.com/
+Corby,A_catering_engineers,Chemi Supply,"Unit 1 Davey Rd, Corby NN17 5XX, UK",01536 402522,http://www.chemi-supply.co.uk/
+Corby,A_catering_engineers,JL Espresso Services Ltd,"Gretton Rd, Corby NN17 3HN, UK",07903 856712,https://www.jlespressoservice.com/
+Corby,B_equipment_repair,Commercial Kitchen Breakdowns Ltd,"5-6 Maiden Ln, Stamford PE9 2AZ, UK",01780 778088,https://commercialkitchenbreakdowns.co.uk/
+Corby,B_equipment_repair,Midlands Catering Equipment,"17 Deer Park Rd, Northampton NN3 6AT, UK",01604 961161,https://www.midlandscateringequipment.co.uk/
+Corby,B_equipment_repair,Taurus Catering Equipment Ltd,"3 Matson Ct, Raunds, Wellingborough NN9 6RG, UK",,http://www.tauruscatering.co.uk/
+Corby,B_equipment_repair,CaterCare Catering Equipment Ltd,"Unit 1, Nimbus Park, Porz Ave, Houghton Regis, Dunstable LU5 5WZ, UK",01582 862000,http://www.catercare.com/
+Corby,B_equipment_repair,Caterfix Limited,"316 Padholme Rd E, Peterborough PE1 5XL, UK",01733 561555,https://www.caterfix.com/
+Corby,B_equipment_repair,4Sure,"1 Whittle Rd, Corby NN17 5DX, UK",01536 202944,https://www.4sure.co.uk/
+Corby,B_equipment_repair,Corby Commercials Limited,"Unit 2, Gretton Brook Rd, Corby NN17 4BA, UK",01536 260817,
+Corby,B_equipment_repair,CATERING EQUIPMENT LTD,"Catering Equipment Ltd, Grendon Rd, Polesworth, Tamworth B78 1NX, UK",0121 773 2228,https://www.clickonstore.net/
+Corby,B_equipment_repair,Melitta System Service,"Unit C, Crawley House, Shelton Rd, Corby NN17 5XH, UK",01628 829888,
+Corby,B_equipment_repair,Lakes Catering Maintenance,"Moss End Business Village, Crooklands, Milnthorpe LA7 7NU, UK",01539 724506,https://www.lakescateringmaintenance.co.uk/
+Corby,B_equipment_repair,Commercial Catering Engineers Ltd,"CCE, Unit A3 Cefndy Employment Pk, Cefndy Rd, Rhyl LL18 2HJ, UK",01745 798390,http://www.commercialcateringengineersltd.com/
+Corby,B_equipment_repair,Northants Commercials Ltd,"Geddington Rd, Corby NN18 8AA, UK",0844 800 6457,http://www.northantscommercials.co.uk/
+Corby,B_equipment_repair,Tuckers,"Unit 1E, Priors Courtyard, Priors Haw Rd, Corby NN17 5JG, UK",01536 400411,http://www.tuckerscateringservices.co.uk/
+Corby,B_equipment_repair,Mace Industries,"Units 1, 3 Macadam Rd, Corby NN17 4JN, UK",01536 206600,http://www.maceindustries.co.uk/
+Corby,B_equipment_repair,Artisan Cuisine,"86 Patrick Rd, Corby NN18 9NB, UK",07931 408167,https://artisancuisine.co.uk/
+Corby,B_equipment_repair,Fenix Services TD Limited,"102 Lindisfarne Rd, Corby NN17 2EN, UK",07784 176578,https://www.fenixservices.uk/
+Corby,B_equipment_repair,NWCE Foodservice Equipment,"Folds Rd, Bolton BL1 2SB, UK",0161 764 8688,http://www.nwce.co.uk/
+Corby,B_equipment_repair,Caterkit Services Ltd,"Unit 2 Modular Business Park, Norton Rd, Stevenage SG1 2FZ, UK",01920 872580,https://www.caterkitservices.com/
+Corby,B_equipment_repair,Gardiff Catering,"Unit 10, The, Cam Centre, Hitchin SG4 0TW, UK",01462 428470,http://www.gardiffcatering.com/
+Corby,B_equipment_repair,South Coast Catering Equipment Limited,"Unit 4-5, Commercial House, Apex Park, Hailsham BN27 3JU, UK",01323 444530,http://www.southcoastcatering.co.uk/
+Corby,B_equipment_repair,Cyclomarket Ltd T/A RB Tools & Fixings,"Unit G10, Alpha Ct Rd, Corby NN17 5DP, UK",01536 205904,http://www.rbtoolsandfixings.com/
+Corby,B_equipment_repair,Caterfix UK,"8 Testwood Ave, Totton, Southampton SO40 3LW, UK",0800 808 7760,https://www.commercialkitchenrepairs.co.uk/
+Corby,B_equipment_repair,WHITE KNIGHT Service Group Ltd,"Bangrave Rd S, Weldon, Corby NN17 1NN, UK",01536 682300,http://www.wksg.co.uk/
+Corby,B_equipment_repair,AJS Installations Bathroom Specialist,"Butterwick Walk, Corby NN18 9HF, UK",07706 908851,
+Corby,B_equipment_repair,Herald Packaging,"Darwin Road East, Corby NN17 5XZ, UK",020 8507 7900,https://heraldpackaging.com/
+Corby,B_equipment_repair,JL Espresso Services Ltd,"Gretton Rd, Corby NN17 3HN, UK",07903 856712,https://www.jlespressoservice.com/
+Corby,B_equipment_repair,ACF Plumbing | Heating | Renewables,"5, Melbourne House, Corby Gate Business Park, Priors Haw Rd, Corby NN17 5JG, UK",01536 665695,http://www.acfplumbingandheating.co.uk/
+Corby,B_equipment_repair,Universal Training Services (Midlands) Ltd.,"3, 3 Gretton Brook Rd, Corby NN17 4BA, UK",01536 202549,http://www.uetraining.co.uk/
+Corby,B_equipment_repair,MKM Building Supplies Corby,"Unit C1, Centrix Business Park, Furnace Way, Corby NN17 5BF, UK",01536 437437,https://mkm.com/branches/corby?utm_source=GMB&utm_medium=Yext&y_source=1_MzU4Nzc5NzQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
+Corby,B_equipment_repair,Sierra Falls,"78 Newmarket Cl, Corby NN18 8QH, UK",07535 531809,https://www.sierrafalls.co.uk/
+Corby,B_equipment_repair,E P Mills Roofing & Supplies Ltd,"2, Pasteur Courtyard, Whittle Rd, Corby NN17 5DX, UK",01536 268249,http://www.epmillsroofing.co.uk/
+Corby,B_equipment_repair,Catering Projects Ltd,"Unit 2, Waterloo Court, Markham Ln, Markham Vale, Chesterfield S44 5HN, UK",01246 811575,http://www.cateringprojects.co.uk/
+Corby,B_equipment_repair,Wok Cooker Services Ltd,"Unit H3, Westfield Industrial Estate, Second Ave, Midsomer Norton, Radstock BA3 4BH, UK",01761 411772,http://www.wokcookerservices.co.uk/
+Corby,B_equipment_repair,CB Training (UK) Ltd,"30 Burkitt Rd, Corby NN17 4DT, UK",01536 201871,http://www.forklifttrainingonline.co.uk/
+Corby,B_equipment_repair,Wickes Corby,"1 Courier Rd, Corby NN17 5AT, UK",01536 388300,https://www.wickes.co.uk/store/8378?utm_source=google&utm_medium=organic&utm_campaign=lpm_google_corby
+Corby,B_equipment_repair,City Plumbing Corby - Clearance Warehouse,"Unit C2, Centrix Business Park, Corby NN17 5BF, UK",01536 381436,https://www.cityplumbing.co.uk/content/corby-clearance-warehouse
+Corby,B_equipment_repair,Plumbed Right,"Brigadier Wy., Weldon, Corby NN17 3NA, UK",07762 192186,http://www.checkatrade.com/plumbedright
+Corby,B_equipment_repair,Screwfix Corby,"Unit 5 Alpha Ct Rd, Phoenix Pkwy, Corby NN17 5DP, UK",0333 011 2112,https://www.screwfix.com/stores/VA5/Corby?utm_source=google&utm_medium=organic&utm_campaign=Google_VA5
+Corby,B_equipment_repair,Plumbixx,"59 Carlisle Cl, Corby NN18 8RN, UK",07308 234924,https://www.plumbixx.co.uk/
+Corby,B_equipment_repair,"Reactive Gas, Heating & Plumbing Services Ltd","Unit 9 Rutherford Ct, Corby NN17 4SJ, UK",07915 906262,https://reactiveplumbing.co.uk/
+Corby,B_equipment_repair,Cater Solutions,"Unit 8, Integra:ME Bircholt Rd, Maidstone ME15 9GQ, UK",0845 066 9966,http://www.catersolutions.co.uk/
+Bracknell,A_catering_engineers,NTS Ltd,"13u, Park Farm, W End Ln, Warfield, Bracknell RG42 5RH, UK",0808 304 0533,http://www.ntsltd.uk/
+Bracknell,A_catering_engineers,Court Catering Equipment Ltd,"34, Wellington Business Park, Duke's Ride, Crowthorne RG45 6LS, UK",020 8576 6500,https://www.courtcatering.co.uk/
+Bracknell,A_catering_engineers,ThreeSixty Commercial Catering Ltd,"Bullers Farm, Reading, Tadley RG26 5LL, UK",07930 832210,http://www.360commercialcatering.com/
+Bracknell,A_catering_engineers,Berkshire Mechanical Services,"Unit 28 Longshot Ln, Binfield, Bracknell RG12 1RL, UK",07909 901262,http://www.berkshiremechanicalservices.co.uk/
+Bracknell,A_catering_engineers,Cocktails and Bar Events Ltd,"26 Staffordshire Croft, Warfield, Bracknell RG42 3HW, UK",07784 482444,https://www.cocktailsandbarevents.co.uk/
+Bracknell,A_catering_engineers,SOS Catering Equipment and Engineering Limited,"Unit 5 Lockwood Way, London E17 5RB, UK",020 8531 8543,http://www.soscateringequipment.co.uk/
+Bracknell,A_catering_engineers,BF Engineering Servics Limited,"Unit A, Lake Works, Cranleigh Rd, Portchester, Fareham PO16 9DR, UK",023 9249 8080,http://www.bfes.co.uk/
+Bracknell,A_catering_engineers,Denton Tableware,"Bracknell RG12 8FB, UK",01344 377345,http://www.dentontableware.co.uk/
+Bracknell,A_catering_engineers,Cedabond Catering Equipment,"Great N Rd, Wyboston, Bedford MK44 3BY, UK",0333 344 0037,http://www.cedabond.co.uk/
+Bracknell,A_catering_engineers,Windsor Events,"13 Wayland Cl, Bracknell RG12 9JP, UK",,http://www.windsorevents.co.uk/
+Bracknell,A_catering_engineers,Bracknell Plumbing & Heating,"Suite 5, 229b, Talbot House, Crowthorne RG45 7AQ, UK",01344 851023,http://www.bracknellplumbing.co.uk/
+Bracknell,A_catering_engineers,ITM Events,"Units 1-3, Rushton Farm Estate, Warren House Rd, Wokingham RG40 5RE, UK",0118 977 5977,https://www.itmevents.co.uk/
+Bracknell,A_catering_engineers,D.M.M. Catering Services Limited,"95 Church St, Atworth, Melksham SN12 8JA, UK",01225 700201,http://www.dmmcateringservices.co.uk/
+Bracknell,A_catering_engineers,China Trading Co,"42 Winchgrove Rd, Bracknell RG42 2EL, UK",01344 428866,
+Bracknell,A_catering_engineers,"Cocktails With Mario – Mobile Bar, Bartender & Coffee Cart Hire UK","19 Radnor Rd, Winkfield Row, Bracknell RG12 9FD, UK",07427 639368,https://cocktailswithmario.co.uk/
+Bracknell,B_equipment_repair,NTS Ltd,"13u, Park Farm, W End Ln, Warfield, Bracknell RG42 5RH, UK",0808 304 0533,http://www.ntsltd.uk/
+Bracknell,B_equipment_repair,RG Commercial Catering Services Ltd,"158 Henley Rd, Caversham, Reading RG4 6DJ, UK",0118 437 4173,http://www.rgccs.co.uk/
+Bracknell,B_equipment_repair,ThreeSixty Commercial Catering Ltd,"Bullers Farm, Reading, Tadley RG26 5LL, UK",07930 832210,http://www.360commercialcatering.com/
+Bracknell,B_equipment_repair,Court Catering Equipment Ltd,"34, Wellington Business Park, Duke's Ride, Crowthorne RG45 6LS, UK",020 8576 6500,https://www.courtcatering.co.uk/
+Bracknell,B_equipment_repair,Catering Equipment Support Ltd,"Unit 12 Deer Park Farm Ind Est, Knowle Ln, Fair Oak, Eastleigh SO50 7DZ, UK",023 8000 6082,https://www.cateringequipmentsupport.co.uk/
+Bracknell,B_equipment_repair,Commercial Dishwasher Services Ltd,"Unit 12, Church Crookham, Fleet GU52 0RD, UK",01252 333490,http://www.commercialdishwasherservices.co.uk/
+Bracknell,B_equipment_repair,Castle Catering Engineers Ltd,"Unit 8, Pottery Court, Pottery Way, Bulwell, Nottingham NG6 8YN, UK",0115 905 1208,https://www.ccecatering.com/
+Bracknell,B_equipment_repair,D.M.M. Catering Services Limited,"95 Church St, Atworth, Melksham SN12 8JA, UK",01225 700201,http://www.dmmcateringservices.co.uk/
+Bracknell,B_equipment_repair,BF Engineering Servics Limited,"Unit A, Lake Works, Cranleigh Rd, Portchester, Fareham PO16 9DR, UK",023 9249 8080,http://www.bfes.co.uk/
+Bracknell,B_equipment_repair,Catering Technical Services,"5 Emperor Way, Kingsnorth, Ashford TN23 3QY, UK",07946 347871,https://www.catering-technical.services/
+Bracknell,B_equipment_repair,Caterfix UK,"8 Testwood Ave, Totton, Southampton SO40 3LW, UK",0800 808 7760,https://www.commercialkitchenrepairs.co.uk/
+Bracknell,B_equipment_repair,Catering Equipment Solutions,"30 Shrewsbury Ave, Peterborough PE2 7BF, UK",01733 236033,http://www.catering-equipment-solutions.co.uk/
+Bracknell,B_equipment_repair,NWCE Foodservice Equipment,"Folds Rd, Bolton BL1 2SB, UK",0161 764 8688,http://www.nwce.co.uk/
+Bracknell,B_equipment_repair,Catering Equipment Services Ltd,"Unit 3D, Maryland Industrial Estate, Belfast, Newtownards BT23 6BL, UK",028 9049 1616,https://cescatering.co.uk/
+Bracknell,B_equipment_repair,Roundstone Catering Equipment,"8 Lysander Rd, Bowerhill, Melksham SN12 6SP, UK",01225 709595,https://www.roundstonecatering.com/
+Bracknell,B_equipment_repair,Prego Technical Services Ltd,"43 Bramley Dr, Hartley Wintney, Hook RG27 8ZF, UK",07590 983739,http://prego.tech/
+Bracknell,B_equipment_repair,Cater Solutions,"Unit 8, Integra:ME Bircholt Rd, Maidstone ME15 9GQ, UK",0845 066 9966,http://www.catersolutions.co.uk/
+Bracknell,B_equipment_repair,TVC Leisure,"Space Business Centre, 27/28 Molly Millars Ln, Wokingham RG41 2PQ, UK",0118 912 1042,https://www.tvcleisure.co.uk/?utm_source=GMB&utm_medium=organic&utm_campaign=GMB
+Bracknell,B_equipment_repair,Denton Tableware,"Bracknell RG12 8FB, UK",01344 377345,http://www.dentontableware.co.uk/
+Bracknell,B_equipment_repair,Handy Mike Maintenace LTD,"24 Woodmancott Cl, Winkfield Row, Bracknell RG12 0XU, UK",07453 093236,https://hmmaintenance.co.uk/
+Bracknell,B_equipment_repair,BeSafe Supplies,"11 Meadow Way, Bracknell RG42 1UE, UK",020 3972 8680,http://www.besafesupplies.com/
+Bracknell,B_equipment_repair,Professional Heating Services Ltd,"Venture House, 2 Arlington Square, Downshire Way, Bracknell RG12 1WA, UK",01344 301232,http://professionalheatingservices.co.uk/
+Bracknell,B_equipment_repair,Bracknell Appliance Repairs Ltd.,"Venture House, Arlington Square, Downshire Way, Bracknell RG12 1WA, UK",01344 567444,
+Bracknell,B_equipment_repair,Berkshire Mechanical Services,"Unit 28 Longshot Ln, Binfield, Bracknell RG12 1RL, UK",07909 901262,http://www.berkshiremechanicalservices.co.uk/
+Bracknell,B_equipment_repair,Ballcock & Bits Ltd,"Broad House, Broad Ln, Bracknell RG12 9BJ, UK",01344 481212,https://www.ballcock-bits.co.uk/
+Bracknell,B_equipment_repair,Gadget Repair Experts,"9 Market St, Bracknell RG12 1JG, UK",07741 987877,https://gretech.co.uk/
+Bracknell,B_equipment_repair,Tool Stop,"16 Great Hollands Square, Bracknell RG12 8UX, UK",01344 421718,
+Bracknell,B_equipment_repair,Wok Cooker Services Ltd,"Unit H3, Westfield Industrial Estate, Second Ave, Midsomer Norton, Radstock BA3 4BH, UK",01761 411772,http://www.wokcookerservices.co.uk/
+Bracknell,B_equipment_repair,Serene Heat,"53 Chapman Dr, Binfield, Bracknell RG42 4FT, UK",07876 222387,https://boilerrepairsbracknell.co.uk/
+Bracknell,B_equipment_repair,Robert Dyas Bracknell,"The Lexicon, 44 Braccan Walk, Bracknell RG12 1DF, UK",01344 202226,https://www.robertdyas.co.uk/storefinder/robertdyas-bracknell/?utm_source=Google&utm_medium=organic&utm_campaign=google-local
+Bracknell,B_equipment_repair,Artigiano Group,"Sarum Cres, Wokingham RG40 1XF, UK",07799 365113,https://www.artigianopropertyservices.co.uk/
+Bracknell,B_equipment_repair,ITM Events,"Units 1-3, Rushton Farm Estate, Warren House Rd, Wokingham RG40 5RE, UK",0118 977 5977,https://www.itmevents.co.uk/
+Bracknell,B_equipment_repair,Benchmarx Kitchen Showroom,"3, Trade City, Easthampstead Rd, Bracknell RG12 1BX, UK",01344 306687,https://www.benchmarxkitchens.co.uk/branches/bracknell?y_source=1_MTA4ODc1ODg5OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==
+Bracknell,B_equipment_repair,Wickes Bracknell,"Western Rd, Bracknell RG12 1NS, UK",01344 317400,https://www.wickes.co.uk/store/8312?utm_source=google&utm_medium=organic&utm_campaign=lpm_google_bracknell
+Bracknell,B_equipment_repair,24 Heating Ltd,"Unit 27, Longshot Ind Est, Longshot Ln, La, Binfield, Bracknell RG12 1RL, UK",01344 867624,https://www.24heating.co.uk/
+Bracknell,B_equipment_repair,Ovenu Franchising Limited,"Unit 3, station industrial estate, Oxford Rd, Wokingham RG41 2YQ, UK",0118 974 3911,https://www.ovenu.co.uk/oven-cleaning-franchise/?utm_source=google+&utm_medium=organic&utm_campaign=gmb-listing
+Bracknell,B_equipment_repair,Cocktails and Bar Events Ltd,"26 Staffordshire Croft, Warfield, Bracknell RG42 3HW, UK",07784 482444,https://www.cocktailsandbarevents.co.uk/
+Bracknell,B_equipment_repair,CCCS U.K,"Unit 8, Integra Business Park, Maidstone ME15 9GQ, UK",0845 066 9966,http://www.icombi.pro/
+Bracknell,B_equipment_repair,Homestar Services,"10 Candleford Cl, Bracknell RG12 2JZ, UK",01344 578554,http://www.homestarplumbingandheating.co.uk/
+Bracknell,B_equipment_repair,Bracknell Heating & Plumbing Supplies Ltd,"Unit 8 Trade City, Western Road,Berkshire, Bracknell RG12 1FJ, UK",01344 371310,https://bracknellheatingsupplies.co.uk/
+Leamington Spa,A_catering_engineers,RHE Catering Equipment Sevices,"The Courtyard, Burnsall Rd, Coventry CV5 6UT, UK",024 7666 7541,http://www.rheservices.co.uk/
+Leamington Spa,A_catering_engineers,Sime Catering Equipment LTD,"Unit 35 Innage Park Industrila Estate, Holly Ln, Abeles Way, Atherstone CV9 2QX, UK",01827 703650,http://www.simecatering.com/
+Leamington Spa,A_catering_engineers,Caterquip Ventilation Ltd,"Unit 1, Triumph House, Rigby Close, Heathcote Way, Royal Leamington Spa, Warwick CV34 6TL, UK",01926 887167,http://www.caterquipventilation.co.uk/
+Leamington Spa,A_catering_engineers,CATERING EQUIPMENT LTD,"Catering Equipment Ltd, Grendon Rd, Polesworth, Tamworth B78 1NX, UK",0121 773 2228,https://www.clickonstore.net/
+Leamington Spa,A_catering_engineers,CaterCare Catering Equipment Ltd,"Unit 1, Nimbus Park, Porz Ave, Houghton Regis, Dunstable LU5 5WZ, UK",01582 862000,http://www.catercare.com/
+Leamington Spa,A_catering_engineers,Abraxas Catering Equipment Limited,"Unit 8, Building 329, Rushock Trading Estate, Droitwich WR9 0NR, UK",01562 863222,https://www.abraxascatering.co.uk/
+Leamington Spa,A_catering_engineers,Dining Hub,"Unit 6, 7 St Mary's Rd, Royal Leamington Spa, Leamington Spa CV31 1PR, UK",0845 521 1234,https://www.dining-hub.co.uk/
+Leamington Spa,A_catering_engineers,Arjun Catering,"The Shire Grill, Sydenham, Royal Leamington Spa, Leamington Spa CV31 1YJ, UK",,https://www.arjuncatering.co.uk/
+Leamington Spa,A_catering_engineers,Delta Food Systems,"1 Althorpe St, Royal Leamington Spa, Leamington Spa CV31 1NQ, UK",01926 470333,http://www.deltafoodsystems.co.uk/
+Leamington Spa,A_catering_engineers,R D S Ltd,"9 Beaulieu Park, Sydenham, Royal Leamington Spa, Leamington Spa CV31 1XZ, UK",01926 435255,https://www.rdssales.co.uk/
+Leamington Spa,A_catering_engineers,Nova Catering Repairs,"34 Dudley Rd, Brierley Hill DY5 1LH, UK",01384 210544,http://www.novarepairs.co.uk/
+Leamington Spa,A_catering_engineers,Catertech North East Ltd,"31-32 Market St, Ferryhill DL17 8JH, UK",01740 652777,https://www.cater-tech.co.uk/
+Leamington Spa,A_catering_engineers,A Bit of a do Ltd.,"11 Cherry St, Warwick CV34 4LR, UK",01926 777449,https://abitofadoltd.co.uk/
+Leamington Spa,A_catering_engineers,Table Art Ltd,"Unit 6-7 St Mary's Rd, Royal Leamington Spa, Leamington Spa CV31 1PR, UK",01926 831357,http://www.table-art.co.uk/
+Leamington Spa,A_catering_engineers,Cater Buddy,"Unit 7, New Enterprise Centre, Monmore Rd, Wolverhampton WV1 2TZ, UK",01902 213114,https://www.caterbuddy.co.uk/
+Leamington Spa,B_equipment_repair,RHE Catering Equipment Sevices,"The Courtyard, Burnsall Rd, Coventry CV5 6UT, UK",024 7666 7541,http://www.rheservices.co.uk/
+Leamington Spa,B_equipment_repair,CaterCare Catering Equipment Ltd,"Unit 1, Nimbus Park, Porz Ave, Houghton Regis, Dunstable LU5 5WZ, UK",01582 862000,http://www.catercare.com/
+Leamington Spa,B_equipment_repair,Abraxas Catering Equipment Limited,"Unit 8, Building 329, Rushock Trading Estate, Droitwich WR9 0NR, UK",01562 863222,https://www.abraxascatering.co.uk/
+Leamington Spa,B_equipment_repair,CATERING EQUIPMENT LTD,"Catering Equipment Ltd, Grendon Rd, Polesworth, Tamworth B78 1NX, UK",0121 773 2228,https://www.clickonstore.net/
+Leamington Spa,B_equipment_repair,TAG Catering Equipment UK Ltd,"Unit 2, Modular Business Park, Norton Rd, Stevenage SG1 2FZ, UK",01920 877007,https://www.tagukltd.com/
+Leamington Spa,B_equipment_repair,Nova Catering Repairs,"34 Dudley Rd, Brierley Hill DY5 1LH, UK",01384 210544,http://www.novarepairs.co.uk/
+Leamington Spa,B_equipment_repair,Catertech North East Ltd,"31-32 Market St, Ferryhill DL17 8JH, UK",01740 652777,https://www.cater-tech.co.uk/
+Leamington Spa,B_equipment_repair,Cater Buddy,"Unit 7, New Enterprise Centre, Monmore Rd, Wolverhampton WV1 2TZ, UK",01902 213114,https://www.caterbuddy.co.uk/
+Leamington Spa,B_equipment_repair,Lakes Catering Maintenance,"Moss End Business Village, Crooklands, Milnthorpe LA7 7NU, UK",01539 724506,https://www.lakescateringmaintenance.co.uk/
+Leamington Spa,B_equipment_repair,NWCE Foodservice Equipment,"Folds Rd, Bolton BL1 2SB, UK",0161 764 8688,http://www.nwce.co.uk/
+Leamington Spa,B_equipment_repair,R D S Ltd,"9 Beaulieu Park, Sydenham, Royal Leamington Spa, Leamington Spa CV31 1XZ, UK",01926 435255,https://www.rdssales.co.uk/
+Leamington Spa,B_equipment_repair,Cater Solutions,"Unit 8, Integra:ME Bircholt Rd, Maidstone ME15 9GQ, UK",0845 066 9966,http://www.catersolutions.co.uk/
+Leamington Spa,B_equipment_repair,A Bit of a do Ltd.,"11 Cherry St, Warwick CV34 4LR, UK",01926 777449,https://abitofadoltd.co.uk/
+Leamington Spa,B_equipment_repair,Phone Zone,"134 Parade, Royal Leamington Spa, Leamington Spa CV32 4AG, UK",07391 989029,https://www.phonezone4u.com/
+Leamington Spa,B_equipment_repair,COMMERCIAL BOILER SERVICES LTD,"31 The Wardens, Kenilworth CV8 2UH, UK",01926 864367,
+Kidderminster,A_catering_engineers,Combi Pro UK | Rational Oven Experts,"Orchard House, Broadwaters, Kidderminster DY10 2UR, UK",01562 310095,https://www.combipro.co.uk/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=15929488663306182391
+Kidderminster,A_catering_engineers,Abraxas Catering Equipment Limited,"Unit 8, Building 329, Rushock Trading Estate, Droitwich WR9 0NR, UK",01562 863222,https://www.abraxascatering.co.uk/
+Kidderminster,A_catering_engineers,Nova Catering Repairs,"34 Dudley Rd, Brierley Hill DY5 1LH, UK",01384 210544,http://www.novarepairs.co.uk/
+Kidderminster,A_catering_engineers,The Greek Outdoors,"ALBON FORGE, Unit 4 Stourport Rd, Kidderminster DY11 7QL, UK",0800 990 3548,https://thegreekoutdoors.com/
+Kidderminster,A_catering_engineers,R.T. Catering,"35 Middleton Rd, Marlpool Ct, Kidderminster DY11 5EZ, UK",07988 795622,http://www.rtcatering.com/
+Kidderminster,A_catering_engineers,West midlands catering equipment,"Unit 14, Riverside business centre, Worcester Rd, Stourport-on-Severn DY13 9AT, UK",07834 986699,
+Kidderminster,A_catering_engineers,Calabbria Streetfood,"23 Rosemary Rd, Kidderminster DY10 2SW, UK",07384 011323,http://www.calabbria.co.uk/
+Kidderminster,A_catering_engineers,RHE Catering Equipment Sevices,"The Courtyard, Burnsall Rd, Coventry CV5 6UT, UK",024 7666 7541,http://www.rheservices.co.uk/
+Kidderminster,B_equipment_repair,Nova Catering Repairs,"34 Dudley Rd, Brierley Hill DY5 1LH, UK",01384 210544,http://www.novarepairs.co.uk/
+Kidderminster,B_equipment_repair,Abraxas Catering Equipment Limited,"Unit 8, Building 329, Rushock Trading Estate, Droitwich WR9 0NR, UK",01562 863222,https://www.abraxascatering.co.uk/
+Kidderminster,B_equipment_repair,Combi Pro UK | Rational Oven Experts,"Orchard House, Broadwaters, Kidderminster DY10 2UR, UK",01562 310095,https://www.combipro.co.uk/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=15929488663306182391
+Kidderminster,B_equipment_repair,RHE Catering Equipment Sevices,"The Courtyard, Burnsall Rd, Coventry CV5 6UT, UK",024 7666 7541,http://www.rheservices.co.uk/
+Kidderminster,B_equipment_repair,Cater Buddy,"Unit 7, New Enterprise Centre, Monmore Rd, Wolverhampton WV1 2TZ, UK",01902 213114,https://www.caterbuddy.co.uk/
+Kidderminster,B_equipment_repair,DCA Equipment Ltd,"Unit 324, 325 Enterprise Centre, Hartlebury Trading Estate, Hartlebury, Kidderminster DY10 4JB, UK",01299 250466,https://www.dcaequipment.co.uk/
+Kidderminster,B_equipment_repair,CaterCare Catering Equipment Ltd,"Unit 1, Nimbus Park, Porz Ave, Houghton Regis, Dunstable LU5 5WZ, UK",01582 862000,http://www.catercare.com/
+Kidderminster,B_equipment_repair,Lakes Catering Maintenance,"Moss End Business Village, Crooklands, Milnthorpe LA7 7NU, UK",01539 724506,https://www.lakescateringmaintenance.co.uk/
+Kidderminster,B_equipment_repair,Cater-Equip Ltd,"Unit 1, Junction Industrial Estate, Pontyclun CF72 9ES, UK",01443 225325,https://www.cater-equip.co.uk/
+Kidderminster,B_equipment_repair,NWCE Foodservice Equipment,"Folds Rd, Bolton BL1 2SB, UK",0161 764 8688,http://www.nwce.co.uk/
+Kidderminster,B_equipment_repair,Kitchenspecialists Sales Ltd,"8 Mill Ln, Wolverley, Kidderminster DY11 5TR, UK",07802 916940,http://www.kitchenspecialists.co.uk/
+Kidderminster,B_equipment_repair,The Greek Outdoors,"ALBON FORGE, Unit 4 Stourport Rd, Kidderminster DY11 7QL, UK",0800 990 3548,https://thegreekoutdoors.com/
+Weymouth,A_catering_engineers,Expert Catering Equipment Services,"Unit C, McKay Way, Lynch Ln, Weymouth DT4 9DN, UK",07740 862385,http://www.catering-repair.co.uk/
+Weymouth,A_catering_engineers,South Coast Catering Ltd trading as Airedale Technical Care,"83 Lynch Ln, Weymouth DT4 9DN, UK",01305 774488,https://www.airedale-group.co.uk/
+Weymouth,A_catering_engineers,Gavan Catering Supplies,"Cambridge Rd, Weymouth DT4 9GH, UK",01305 787711,http://www.gavansupplies.com/
+Weymouth,A_catering_engineers,SCCUK,"Littlesea Trading Estate, 83 Lynch Ln, Weymouth DT4 9DN, UK",01305 774488,
+Weymouth,A_catering_engineers,Alfamax Catering Equipment Supplies,"Archard House, Waverley Rd, Weymouth DT3 5HL, UK",01305 761900,
+Weymouth,A_catering_engineers,MCIS Engineers Ltd,"8 Loveridge Grv, Weymouth DT3 5EH, UK",07786 395772,https://www.mcisengineers.com/
+Weymouth,A_catering_engineers,Celestial Catering Dorset,"22 Tollerdown Rd, Weymouth DT4 0SQ, UK",07761 106505,
+Weymouth,A_catering_engineers,Cemco Southern Ltd,"37 Marston Cl, Blandford Forum DT11 7RR, UK",01202 377205,https://cemcoltd.co.uk/
+Weymouth,B_equipment_repair,Expert Catering Equipment Services,"Unit C, McKay Way, Lynch Ln, Weymouth DT4 9DN, UK",07740 862385,http://www.catering-repair.co.uk/
+Weymouth,B_equipment_repair,Cemco Southern Ltd,"37 Marston Cl, Blandford Forum DT11 7RR, UK",01202 377205,https://cemcoltd.co.uk/
+Weymouth,B_equipment_repair,Gavan Catering Supplies,"Cambridge Rd, Weymouth DT4 9GH, UK",01305 787711,http://www.gavansupplies.com/
+Weymouth,B_equipment_repair,South Coast Catering Ltd trading as Airedale Technical Care,"83 Lynch Ln, Weymouth DT4 9DN, UK",01305 774488,https://www.airedale-group.co.uk/
+Weymouth,B_equipment_repair,SCCUK,"Littlesea Trading Estate, 83 Lynch Ln, Weymouth DT4 9DN, UK",01305 774488,
+Weymouth,B_equipment_repair,Alfamax Catering Equipment Supplies,"Archard House, Waverley Rd, Weymouth DT3 5HL, UK",01305 761900,
+Weymouth,B_equipment_repair,Catering Equipment Support Ltd,"Unit 12 Deer Park Farm Ind Est, Knowle Ln, Fair Oak, Eastleigh SO50 7DZ, UK",023 8000 6082,https://www.cateringequipmentsupport.co.uk/
+Weymouth,B_equipment_repair,Apeiron Catering,"Unit 7, Pintail Business Park, 165 Christchurch Rd, Ringwood BH24 3AL, UK",01425 511693,https://www.apeironcatering.co.uk/
+Weymouth,B_equipment_repair,Caterworx,"Unit 2, Sovereign Business Park, 48 Willis Way, Poole BH15 3TB, UK",01202 671133,http://www.caterworx.co.uk/
+Canterbury,A_catering_engineers,CaterCombi Ltd,"6 Jackson Rd, Canterbury CT1 3RF, UK",01227 469692,http://www.catercombi.com/
+Canterbury,A_catering_engineers,CaterServ Ltd,"12, 17 Upper Bridge St, Canterbury CT1 2NF, UK",01227 903022,http://caterserv.com/
+Canterbury,A_catering_engineers,Invicta Catering,"116 Blean Common, Blean, Canterbury CT2 9JJ, UK",01227 454775,http://www.invictacatering.co.uk/
+Canterbury,A_catering_engineers,Catering Equipment Repair ‍ ️,"Unit 12, Shorncliffe Industrial Estate, North Cl, Folkestone CT20 3UH, UK",01304 873469,https://www.catering-equipment-repair.co.uk/
+Canterbury,A_catering_engineers,Hog Roast Canterbury,"Hog Roast, Lower Bridge St, Canterbury CT1 2LG, UK",01227 389689,http://www.hogroastcanterbury.co.uk/
+Canterbury,A_catering_engineers,Advantage Catering Equipment,"Unit 12, Shorncliffe Industrial Estate, North Cl, Folkestone CT20 3UH, UK",01304 827272,http://www.advantage-catering-equipment.co.uk/
+Canterbury,A_catering_engineers,Tayberry Foods,"Unit 22, Woolton Farm, Littlebourne, Canterbury CT4 5EA, UK",01227 832199,https://tayberryfoods.com/
+Canterbury,A_catering_engineers,Catering Technical Services,"5 Emperor Way, Kingsnorth, Ashford TN23 3QY, UK",07946 347871,https://www.catering-technical.services/
+Canterbury,A_catering_engineers,GGS,"Unit 9, Stour Valley Business Park, Ashford Rd, Chartham, Canterbury CT4 7HF, UK",01227 459403,https://www.ggskent.com/
+Canterbury,A_catering_engineers,Lakeland,"2-4 Longmarket, Canterbury CT1 2JS, UK",01227 453623,https://www.lakeland.co.uk/stores/canterbury
+Canterbury,A_catering_engineers,Munday & Sons Electrical Contractors Ltd,"48 Castle St, Canterbury CT1 2PY, UK",01227 711288,http://mundayandsons.co.uk/
+Canterbury,A_catering_engineers,Curco Ltd,"Canterbury CT4 7PP, UK",01227 450430,https://curco.co/
+Canterbury,A_catering_engineers,"Beardy Baker | Canterbury, Kent","Unit 11c, Barton Business Park, New Dover Rd, Canterbury CT1 3AA, UK",07883 391782,https://www.beardybaker.net/
+Canterbury,A_catering_engineers,Kent Commercial Kitchens,"Unit 12 Shorncliffe Industrial Estate, North Cl, Folkestone CT20 3UH, UK",01304 249963,https://kentcommercialkitchens.co.uk/
+Canterbury,A_catering_engineers,Used Rational Ovens,"6 Jackson Rd, Canterbury CT1 3RF, UK",07531 005603,
+Canterbury,A_catering_engineers,Kent Catering.,"27 Unit T, Bromley Business Centre, Hastings Rd, Bromley BR2 8NA, UK",020 8462 9911,http://kentcatering.com/
+Canterbury,A_catering_engineers,Cater Solutions,"Unit 8, Integra:ME Bircholt Rd, Maidstone ME15 9GQ, UK",0845 066 9966,http://www.catersolutions.co.uk/
+Canterbury,A_catering_engineers,NWCE Foodservice Equipment,"Folds Rd, Bolton BL1 2SB, UK",0161 764 8688,http://www.nwce.co.uk/
+Canterbury,A_catering_engineers,Caxtons Property Consultants,"2 Beer Cart Ln, Canterbury CT1 2NY, UK",01227 788088,https://www.caxtons.com/canterbury-property-services/
+Canterbury,B_equipment_repair,Catering Equipment Repair ‍ ️,"Unit 12, Shorncliffe Industrial Estate, North Cl, Folkestone CT20 3UH, UK",01304 873469,https://www.catering-equipment-repair.co.uk/
+Canterbury,B_equipment_repair,CaterServ Ltd,"12, 17 Upper Bridge St, Canterbury CT1 2NF, UK",01227 903022,http://caterserv.com/
+Canterbury,B_equipment_repair,Invicta Catering,"116 Blean Common, Blean, Canterbury CT2 9JJ, UK",01227 454775,http://www.invictacatering.co.uk/
+Canterbury,B_equipment_repair,CaterCombi Ltd,"6 Jackson Rd, Canterbury CT1 3RF, UK",01227 469692,http://www.catercombi.com/
+Canterbury,B_equipment_repair,Advantage Catering Equipment,"Unit 12, Shorncliffe Industrial Estate, North Cl, Folkestone CT20 3UH, UK",01304 827272,http://www.advantage-catering-equipment.co.uk/
+Canterbury,B_equipment_repair,Catering Technical Services,"5 Emperor Way, Kingsnorth, Ashford TN23 3QY, UK",07946 347871,https://www.catering-technical.services/
+Canterbury,B_equipment_repair,RTC Technical Ltd,"Unit 1, Boxmend Industrial Estate, Parkwood Industrial Estate, Maidstone ME15 9YG, UK",01322 404909,https://rtctechnical.co.uk/
+Canterbury,B_equipment_repair,Kent Catering.,"27 Unit T, Bromley Business Centre, Hastings Rd, Bromley BR2 8NA, UK",020 8462 9911,http://kentcatering.com/
+Canterbury,B_equipment_repair,Cater Solutions,"Unit 8, Integra:ME Bircholt Rd, Maidstone ME15 9GQ, UK",0845 066 9966,http://www.catersolutions.co.uk/
+Canterbury,B_equipment_repair,Kent Commercial Kitchens,"Unit 12 Shorncliffe Industrial Estate, North Cl, Folkestone CT20 3UH, UK",01304 249963,https://kentcommercialkitchens.co.uk/
+Canterbury,B_equipment_repair,Lakeland,"2-4 Longmarket, Canterbury CT1 2JS, UK",01227 453623,https://www.lakeland.co.uk/stores/canterbury
+Canterbury,B_equipment_repair,Curco Ltd,"Canterbury CT4 7PP, UK",01227 450430,https://curco.co/
+Canterbury,B_equipment_repair,"Go Assist - Appliance Repairs, Plumbers, Boiler Engineers & Electricians","27 Castle St, Canterbury CT1 2PX, UK",01227 639340,https://go-assist.co.uk/office-locations/canterbury?utm_source=google&utm_medium=google+my+business&utm_campaign=canterbury_gmb
+Canterbury,B_equipment_repair,Hog Roast Canterbury,"Hog Roast, Lower Bridge St, Canterbury CT1 2LG, UK",01227 389689,http://www.hogroastcanterbury.co.uk/
+Canterbury,B_equipment_repair,NWCE Foodservice Equipment,"Folds Rd, Bolton BL1 2SB, UK",0161 764 8688,http://www.nwce.co.uk/
+Canterbury,B_equipment_repair,BladesMaster,"Island Rd, Sturry, Canterbury CT2 0EF, UK",07722 509091,http://www.bladesmaster.co.uk/
+Canterbury,B_equipment_repair,Atlantis,"155 Wincheap, Canterbury CT1 3SE, UK",01227 479646,https://atlantishc.co.uk/
+Folkestone,A_catering_engineers,Catering Equipment Repair ‍ ️,"Unit 12, Shorncliffe Industrial Estate, North Cl, Folkestone CT20 3UH, UK",01304 873469,https://www.catering-equipment-repair.co.uk/
+Folkestone,A_catering_engineers,Advantage Catering Equipment,"Unit 12, Shorncliffe Industrial Estate, North Cl, Folkestone CT20 3UH, UK",01304 827272,http://www.advantage-catering-equipment.co.uk/
+Folkestone,A_catering_engineers,Kent Commercial Kitchens,"Unit 12 Shorncliffe Industrial Estate, North Cl, Folkestone CT20 3UH, UK",01304 249963,https://kentcommercialkitchens.co.uk/
+Folkestone,A_catering_engineers,"The Kentish Graze - Grazing Tables | Grazing Platters | Luxury Catering | Folkestone, Kent & South East England","Bouverie Rd W, Folkestone CT20 2PP, UK",07470 445144,https://thekentishgraze.co.uk/home
+Folkestone,A_catering_engineers,1st Setting Events Ltd,"Shorncliffe Ind Est, Unit 2 North Cl, Folkestone CT20 3UH, UK",01303 894452,http://www.1stsetting.co.uk/
+Folkestone,A_catering_engineers,Roccos Catering and hospitality venue,"119 Sandgate Rd, Folkestone CT20 2BL, UK",01303 240242,
+Folkestone,A_catering_engineers,RTC Technical Ltd,"Unit 1, Boxmend Industrial Estate, Parkwood Industrial Estate, Maidstone ME15 9YG, UK",01322 404909,https://rtctechnical.co.uk/
+Folkestone,B_equipment_repair,Catering Equipment Repair ‍ ️,"Unit 12, Shorncliffe Industrial Estate, North Cl, Folkestone CT20 3UH, UK",01304 873469,https://www.catering-equipment-repair.co.uk/
+Folkestone,B_equipment_repair,Advantage Catering Equipment,"Unit 12, Shorncliffe Industrial Estate, North Cl, Folkestone CT20 3UH, UK",01304 827272,http://www.advantage-catering-equipment.co.uk/
+Folkestone,B_equipment_repair,Catering Technical Services,"5 Emperor Way, Kingsnorth, Ashford TN23 3QY, UK",07946 347871,https://www.catering-technical.services/
+Folkestone,B_equipment_repair,Kent Commercial Kitchens,"Unit 12 Shorncliffe Industrial Estate, North Cl, Folkestone CT20 3UH, UK",01304 249963,https://kentcommercialkitchens.co.uk/
+Crosby,A_catering_engineers,Combined Catering Services,"73 Brewster St, Bootle L20 9NG, UK",0151 922 4454,http://combinedcatering.com/
+Crosby,A_catering_engineers,AD Catering Equipment Engineering,"11 Vale St, Brighouse HD6 1TR, UK",07432 563323,http://www.adcee.co.uk/
+Crosby,A_catering_engineers,Master Grill Ltd,"Cater House, 87 Poulton Rd, Wallasey CH44 9DE, UK",0151 606 4444,http://www.mastergrill.co.uk/
+Crosby,A_catering_engineers,C.M Engineering,"160 Windy Arbor Rd, Liverpool, Whiston, Prescot L35 3SQ, UK",0151 440 2602,https://cmengineering.uk/
+Crosby,A_catering_engineers,Crosby Heating & Gas LTD,"33 Ascot Park, Crosby, Liverpool L23 2XH, UK",0151 208 5458,https://www.crosbygas.co.uk/
+Crosby,B_equipment_repair,Combined Catering Services,"73 Brewster St, Bootle L20 9NG, UK",0151 922 4454,http://combinedcatering.com/
+Crosby,B_equipment_repair,AD Catering Equipment Engineering,"11 Vale St, Brighouse HD6 1TR, UK",07432 563323,http://www.adcee.co.uk/
+Crosby,B_equipment_repair,NWCE Foodservice Equipment,"Folds Rd, Bolton BL1 2SB, UK",0161 764 8688,http://www.nwce.co.uk/
+Crosby,B_equipment_repair,Complete Appliances Ltd,"87a Middlemass Hey, Netherley, Liverpool L27 7AR, UK",0151 384 7030,http://www.completeappliancesltd.com/
+Crosby,B_equipment_repair,Cater-Equip Ltd,"Unit 1, Junction Industrial Estate, Pontyclun CF72 9ES, UK",01443 225325,https://www.cater-equip.co.uk/
+Crosby,B_equipment_repair,Appliance Repairs Direct Ltd,"24 Grangewood, Liverpool L16 3GB, UK",07884 946384,http://www.appliancerepairsdirect.co.uk/
+Crosby,B_equipment_repair,DA Utility Solutions,"Blundellsands Rd E, Crosby, Liverpool L23 8SE, UK",07710 634565,
+Keighley,A_catering_engineers,Victor Manufacturing Ltd,"Back Prospect Works, South St, Keighley BD21 5AA, UK",01274 722125,http://www.victoronline.co.uk/
+Keighley,A_catering_engineers,Caterpillar Catering Ltd,"Unit 1, The Pattern Shed, Riverside, Keighley BD21 4AQ, UK",07399 896580,http://www.caterpillarcatering.co.uk/
+Keighley,A_catering_engineers,AD Catering Equipment Engineering,"11 Vale St, Brighouse HD6 1TR, UK",07432 563323,http://www.adcee.co.uk/
+Keighley,A_catering_engineers,Reward Manufacturing Co Ltd,"Reward House, Royd Way, Keighley BD21 3LG, UK",01756 797755,http://www.rewardmanufacturing.com/
+Keighley,A_catering_engineers,Barton Catering Engineers,"76 Carr Bottom Rd, Greengates, Bradford BD10 0BD, UK",0113 418 0284,https://bartoncateringengineers.co.uk/
+Keighley,A_catering_engineers,Concentric Design,"Unit 6, Progress Works, Parkwood St, Keighley BD21 4PJ, UK",01535 643643,http://www.concentricdesign.co.uk/
+Keighley,A_catering_engineers,Byworth Boilers Limited,"Parkwood Boiler Works, Parkwood St, Keighley BD21 4NW, UK",01535 665225,http://www.byworth.co.uk/
+Keighley,A_catering_engineers,Northern Leaf Catering,"Victory House, Dalton Ln, Keighley BD21 4JH, UK",01535 661333,
+Keighley,A_catering_engineers,Northern Catering Equipment,"Richmond House, Lawnswood Business Park, Leeds LS16 6QY, UK",0113 833 1234,http://northerncatering.co.uk/
+Keighley,A_catering_engineers,Cairn Catering Engineers,"Hyde Park House, Cartwright St, Newton, Hyde SK14 4EH, UK",0800 999 1926,https://cairncateringengineers.co.uk/
+Keighley,A_catering_engineers,Service 2 (HVAC) Limited,"Unit 11, Parkwood Business Park, Parkwood St, Keighley BD21 4WD, UK",01535 601400,http://www.service2.co.uk/
+Keighley,A_catering_engineers,Knight Engineers Ltd,"Unit 2, The Pattern Shed, Riverside, Keighley BD21 4AQ, UK",01535 668000,https://www.knightengineers.co.uk/
+Keighley,B_equipment_repair,AD Catering Equipment Engineering,"11 Vale St, Brighouse HD6 1TR, UK",07432 563323,http://www.adcee.co.uk/
+Keighley,B_equipment_repair,Northern Catering Equipment,"Richmond House, Lawnswood Business Park, Leeds LS16 6QY, UK",0113 833 1234,http://northerncatering.co.uk/
+Keighley,B_equipment_repair,Leon Catering Equipment,"Unit 17, Leon Catering Equipment, park house, 37 Ings Rd, Osmondthorpe, Leeds LS9 9EJ, UK",0113 513 0481,https://leoncatering.wixsite.com/lcequipments
+Keighley,B_equipment_repair,Calder Catering Equipment Services Ltd,"Newton House, Grey St, Wakefield WF1 3HQ, UK",01924 872972,http://www.caldercatering.co.uk/
+Keighley,B_equipment_repair,CaterCare Catering Equipment Ltd,"Unit 1, Nimbus Park, Porz Ave, Houghton Regis, Dunstable LU5 5WZ, UK",01582 862000,http://www.catercare.com/
+Keighley,B_equipment_repair,NWCE Foodservice Equipment,"Folds Rd, Bolton BL1 2SB, UK",0161 764 8688,http://www.nwce.co.uk/
+Keighley,B_equipment_repair,Catering Equipment Repair ‍ ️,"Unit 12, Shorncliffe Industrial Estate, North Cl, Folkestone CT20 3UH, UK",01304 873469,https://www.catering-equipment-repair.co.uk/
+Keighley,B_equipment_repair,Cairn Catering Engineers,"Hyde Park House, Cartwright St, Newton, Hyde SK14 4EH, UK",0800 999 1926,https://cairncateringengineers.co.uk/
+Keighley,B_equipment_repair,Byworth Boilers Limited,"Parkwood Boiler Works, Parkwood St, Keighley BD21 4NW, UK",01535 665225,http://www.byworth.co.uk/
+Keighley,B_equipment_repair,KES Facilities Limited,"Commer house, Station Rd, Tadcaster LS24 9JF, UK",0113 347 1234,http://www.kesfacilities.co.uk/?utm_source=gbp
+Keighley,B_equipment_repair,Service 2 (HVAC) Limited,"Unit 11, Parkwood Business Park, Parkwood St, Keighley BD21 4WD, UK",01535 601400,http://www.service2.co.uk/
+Keighley,B_equipment_repair,Catering Technical Services,"5 Emperor Way, Kingsnorth, Ashford TN23 3QY, UK",07946 347871,https://www.catering-technical.services/
+Keighley,B_equipment_repair,Concentric Design,"Unit 6, Progress Works, Parkwood St, Keighley BD21 4PJ, UK",01535 643643,http://www.concentricdesign.co.uk/
+Keighley,B_equipment_repair,ATL Commercial Kitchens Ltd,"Unit 9, Boulevard Factory Estate, Hull HU3 4AY, UK",01482 215870,http://www.atlcommercialkitchens.com/
+Keighley,B_equipment_repair,Speak's Workwear,"3-11 Lawkholme Cres, Keighley BD21 3NN, UK",01535 603979,http://www.speaksworkwear.com/
+Keighley,B_equipment_repair,Knight Engineers Ltd,"Unit 2, The Pattern Shed, Riverside, Keighley BD21 4AQ, UK",01535 668000,https://www.knightengineers.co.uk/
+Keighley,B_equipment_repair,Cater Solutions,"Unit 8, Integra:ME Bircholt Rd, Maidstone ME15 9GQ, UK",0845 066 9966,http://www.catersolutions.co.uk/
+Keighley,B_equipment_repair,Vanilla Etc Ltd,"Unit 5 - 6, Oakwood Business Park, Royd Way, Keighley BD21 3EQ, UK",01535 280021,https://vanillaetc.com/
+Keighley,B_equipment_repair,CCCS U.K,"Unit 8, Integra Business Park, Maidstone ME15 9GQ, UK",0845 066 9966,http://www.icombi.pro/
+Eastleigh,A_catering_engineers,Catering Equipment Support Ltd,"Unit 12 Deer Park Farm Ind Est, Knowle Ln, Fair Oak, Eastleigh SO50 7DZ, UK",023 8000 6082,https://www.cateringequipmentsupport.co.uk/
+Eastleigh,A_catering_engineers,HCE Foodservice Equipment,"School Lane Chandlers Ford Industrial Estate, School Ln, Chandler's Ford, Eastleigh SO53 4DG, UK",023 8027 1010,http://www.hce-catering.co.uk/
+Eastleigh,A_catering_engineers,Meridian Catering Engineers,"Wessex House, Upper Market St, Eastleigh SO50 9FD, UK",023 8064 7062,https://www.meridiancateringengineers.co.uk/
+Eastleigh,A_catering_engineers,Allens Catering Equipment Hire Southampton,"7, Aercon Trading Estate, Woodside Rd, Eastleigh, Southampton SO50 4ET, UK",023 8065 2316,https://www.allenshire.co.uk/?utm_source=Google_Business_Southampton&utm_medium=organic&utm_campaign=HSGMB
+Eastleigh,B_equipment_repair,Catering Equipment Support Ltd,"Unit 12 Deer Park Farm Ind Est, Knowle Ln, Fair Oak, Eastleigh SO50 7DZ, UK",023 8000 6082,https://www.cateringequipmentsupport.co.uk/
+Eastleigh,B_equipment_repair,HCE Foodservice Equipment,"School Lane Chandlers Ford Industrial Estate, School Ln, Chandler's Ford, Eastleigh SO53 4DG, UK",023 8027 1010,http://www.hce-catering.co.uk/
+Eastleigh,B_equipment_repair,Meridian Catering Engineers,"Wessex House, Upper Market St, Eastleigh SO50 9FD, UK",023 8064 7062,https://www.meridiancateringengineers.co.uk/
+Lancaster,A_catering_engineers,C & C Catering Engineer Services,"61 Cleveleys Ave, Lancaster LA1 5HE, UK",,
+Lancaster,B_equipment_repair,Lakes Catering Maintenance,"Moss End Business Village, Crooklands, Milnthorpe LA7 7NU, UK",01539 724506,https://www.lakescateringmaintenance.co.uk/
+Lancaster,B_equipment_repair,Commercial Kitchen Services,"Cornford Rd, Blackpool FY4 4QQ, UK",01253 791797,https://www.ckscatering.co.uk/
+Lancaster,B_equipment_repair,Mainland Catering Equipment Ltd,"Fountain Mill, 1 Rake Foot, Haslingden, Rossendale BB4 5RE, UK",01706 244810,http://www.mainlandcateringequipment.co.uk/
+Lancaster,B_equipment_repair,NWCE Foodservice Equipment,"Folds Rd, Bolton BL1 2SB, UK",0161 764 8688,http://www.nwce.co.uk/
+Lancaster,B_equipment_repair,Rusholme Catering Equipment & Services,"Unit 3, Dagenham Road Industrial Estate, Manchester M14 5ED, UK",0161 478 7245,
+Lancaster,B_equipment_repair,South Coast Catering Equipment Limited,"Unit 4-5, Commercial House, Apex Park, Hailsham BN27 3JU, UK",01323 444530,http://www.southcoastcatering.co.uk/
+Lancaster,B_equipment_repair,Catering Partnership Ltd,"River View, Staveley Mill Yard, Staveley, Kendal LA8 9LR, UK",01539 822552,https://cateringpartnership.co.uk/contact/
+Lancaster,B_equipment_repair,Catering Equipment Services Ltd,"Unit 3D, Maryland Industrial Estate, Belfast, Newtownards BT23 6BL, UK",028 9049 1616,https://cescatering.co.uk/
+Lancaster,B_equipment_repair,Food Safety Direct,"Dale St, Lancaster LA1 3AW, UK",0844 800 4086,https://www.foodsafetydirect.co.uk/
+Lancaster,B_equipment_repair,Acme Facilities Group,"Acme House, Blackburn BB1 5RL, UK",01254 277999,https://www.acmefg.com/
+Lancaster,B_equipment_repair,Tastes Of Torrisholme,"314 Lancaster Rd, Torrisholme, Morecambe LA4 6LY, UK",01484 711947,https://www.tastesoftorrisholme.co.uk/
+Lancaster,B_equipment_repair,LCD Support Services LTD,"The Gatehouse, Caton Rd, Lancaster LA1 3PE, UK",01524 745706,https://lcdsupportservices.co.uk/
+Lancaster,B_equipment_repair,CRW Plumbing and Gas services Ltd,"2 Owen Rd, Lancaster LA1 2AX, Lancaster LA1 2AR, UK",01524 942848,http://www.crwplumbingandgas.co.uk/
+Lancaster,B_equipment_repair,Farrer Building Services,"15 Torrisholme Square, Torrisholme, Morecambe LA4 6NJ, UK",01524 900550,https://www.farrerbuildingservices.co.uk/
+Lancaster,B_equipment_repair,Screwfix Lancaster - Lake Enterprise Park,"Unit 32 & 33, Lake Enterprise Park, Lancaster LA1 3NX, UK",0333 011 2112,https://www.screwfix.com/stores/HB7/Lancaster-LakeEnterprisePark?utm_source=google&utm_medium=organic&utm_campaign=Google_HB7
+Lancaster,B_equipment_repair,Replenish Kitchen,"Mannin Way, Caton Rd, Lancaster LA1 3PE, UK",01524 65280,https://thereplenishkitchen.co.uk/
+Lancaster,B_equipment_repair,BHE Heating & Plumbing - Lancaster & Morecambe,"18 China St, Lancaster LA1 1EX, UK",01204 450450,https://www.bhe-services.co.uk/
+Lancaster,B_equipment_repair,Metcalf Cooling & Heating Services,"24 Ashton Rd, Lancaster LA1 4RT, UK",01524 928528,http://www.coolingandheating.co.uk/
+Lancaster,B_equipment_repair,Wickes Lancaster,"Mellishaw Ln, Morecambe LA3 3FE, UK",01524 848148,https://www.wickes.co.uk/store/8251?utm_source=google&utm_medium=organic&utm_campaign=lpm_google_lancaster
+Lancaster,B_equipment_repair,Bluemotion Plumbing,"18 Allandale Gardens, Lancaster LA1 5JN, UK",07704 039073,https://www.bluemotionplumbing.com/
+Lancaster,B_equipment_repair,T Entwisle Plumbing & Heating LTD,"unit 19, Lake Enterprise Park, Lancaster LA1 3NX, UK",01524 571994,http://www.entwisleplumbing.co.uk/
+Lancaster,B_equipment_repair,White Cross Business Park,"South Rd, Lancaster LA1 4XQ, UK",01524 585360,https://whitecrossbusinesspark.co.uk/
+Lancaster,B_equipment_repair,A House of Stone,"Unit 28, Lake Enterprise Park, Ladies Walk, Caton Rd, Lancaster LA1 3NX, UK",01524 844484,http://www.ahouseofstone.co.uk/
+Lancaster,B_equipment_repair,"Evolution PHG - Plumbing, Heating & Gas","13 Cockersand Dr, Lancaster LA1 4QL, UK",07344 424166,http://www.evolutionphg.com/
+Lancaster,B_equipment_repair,MJK Plumbing & Heating Ltd,"7 Cork Rd, Lancaster LA1 4BD, UK",07918 191540,http://plumber-in-lancaster.co.uk/
+Lancaster,B_equipment_repair,Currys,"Retail Park, Unit 1 Bulk Rd, Lancaster LA1 1DT, UK",0344 561 0000,https://www.currys.co.uk/store-finder/lancaster-2218.html?cmpid=Yext~GMB~2218
+Lancaster,B_equipment_repair,Lamb's Plumbing and Heating,"12 Bedford Pl, Lancaster LA1 4EB, UK",07521 116306,http://www.lambsplumbingandheating.co.uk/
+Lancaster,B_equipment_repair,James Hargreaves Plumbing Supplies,"Unit 29, Lake Industrial Estate, Caton Rd, Lancaster LA1 3NX, UK",01524 548661,https://www.jameshargreaves.com/plumbing-supplies-branch/lancaster/
+Lancaster,B_equipment_repair,Screwfix Lancaster - White Lund Ind Est,"Unit 3 Northgate, Morecambe LA3 3AY, UK",0333 011 2112,https://www.screwfix.com/stores/MT3/Lancaster-WhiteLundIndEst?utm_source=google&utm_medium=organic&utm_campaign=Google_MT3
+Lancaster,B_equipment_repair,"Farrer Plumbing, Heating & Electrical","15 Torrisholme Square, Torrisholme, Morecambe LA4 6NJ, UK",01524 900550,http://www.farrerltd.co.uk/
+Lancaster,B_equipment_repair,"Ripple Plumbing, Heating & Renewables LTD","Manor Cres, Slyne, Lancaster LA2 6BA, UK",07960 308155,http://facebook.com/Rippleplumbingheating
+Lancaster,B_equipment_repair,Plumbase Morecambe,"Unit 4B Middlegate, Morecambe LA3 3BN, UK",01524 585250,https://www.plumbase.co.uk/
+Lancaster,B_equipment_repair,Plumb Force,"80 High St, Lancaster LA1 1LD, UK",01524 544310,http://www.plumbforceemergencyplumberlancaster.co.uk/
+Macclesfield,A_catering_engineers,SMS Food,"Ste S8.1, 2nd Floor, Adelphi Mill, Grimshaw Ln, Bollington, Macclesfield SK10 5JB, UK",01625 827827,https://smsfoodpro.com/
+Macclesfield,A_catering_engineers,Keeling Catering Engineers Ltd - Rational Service Partner,"Unit 4, Priestley Business Centre, Froghall Ln, Cheshire, Warrington WA5 1TF, UK",01925 604722,http://keelingcatering.co.uk/
+Macclesfield,A_catering_engineers,The Treacle Town Wedding & Event Catering & Pies Co CHESHIRE,"10 Charlotte St, Macclesfield SK11 6JB, UK",07766 673734,http://www.thetreacletownpiecompany.co.uk/
+Macclesfield,B_equipment_repair,SMS Food,"Ste S8.1, 2nd Floor, Adelphi Mill, Grimshaw Ln, Bollington, Macclesfield SK10 5JB, UK",01625 827827,https://smsfoodpro.com/
+Macclesfield,B_equipment_repair,P & A Services Ltd,"Unit 4, Titan House, Newby Road Industrial Estate, 2 Lowick Cl, Hazel Grove, Stockport SK7 5ED, UK",0161 483 8060,http://www.paservice.co.uk/
+Macclesfield,B_equipment_repair,Rusholme Catering Equipment & Services,"Unit 3, Dagenham Road Industrial Estate, Manchester M14 5ED, UK",0161 478 7245,
+Macclesfield,B_equipment_repair,Paul Peters Electrical Services,"3 Roe St, Macclesfield SK11 6UT, UK",01625 423888,http://www.paulpeterselectrical.com/
+Macclesfield,B_equipment_repair,NWCE Foodservice Equipment,"Folds Rd, Bolton BL1 2SB, UK",0161 764 8688,http://www.nwce.co.uk/
+Macclesfield,B_equipment_repair,Lakes Catering Maintenance,"Moss End Business Village, Crooklands, Milnthorpe LA7 7NU, UK",01539 724506,https://www.lakescateringmaintenance.co.uk/
+Macclesfield,B_equipment_repair,Total Kitchen Services Ltd,"Unit 2B/Mackenzie Ind Est/Bird Hall La, Cheadle Heath, Stockport SK3 0SB, UK",0161 428 4154,http://totalkitchenservices.co.uk/
+Macclesfield,B_equipment_repair,Macclesfield Repair Cafe,"Community Centre, Duke St, Macclesfield SK11 6UR, UK",,https://www.maccrepaircafe.com/
+Macclesfield,B_equipment_repair,Francis Fire Ltd,"Unit 1, 121 Chestergate, Cheshire, Macclesfield SK11 6DP, UK",01625 365199,https://francisfire.co.uk/
+Macclesfield,B_equipment_repair,Caterforce,"Fence House, Fence Ave, Macclesfield SK10 1LT, UK",01625 440188,https://www.caterforce.co.uk/
+Macclesfield,B_equipment_repair,Advanced Appliance Care ( uk) ltd,"1 Foxhill Cl, Cheshire, Northwich CW8 2AP, UK",07866 480587,https://www.aacadvancedappliancecare.co.uk/
+Macclesfield,B_equipment_repair,The Treacle Town Wedding & Event Catering & Pies Co CHESHIRE,"10 Charlotte St, Macclesfield SK11 6JB, UK",07766 673734,http://www.thetreacletownpiecompany.co.uk/
+Macclesfield,B_equipment_repair,Dinahs,"35 Sunderland St, Cheshire, Macclesfield SK11 8JF, UK",01625 428911,
+Macclesfield,B_equipment_repair,KES Facilities Limited,"Commer house, Station Rd, Tadcaster LS24 9JF, UK",0113 347 1234,http://www.kesfacilities.co.uk/?utm_source=gbp
+Macclesfield,B_equipment_repair,Cater Solutions,"Unit 8, Integra:ME Bircholt Rd, Maidstone ME15 9GQ, UK",0845 066 9966,http://www.catersolutions.co.uk/
+Macclesfield,B_equipment_repair,Caterfix Limited,"316 Padholme Rd E, Peterborough PE1 5XL, UK",01733 561555,https://www.caterfix.com/
+Cheshunt,A_catering_engineers,Chiller Box Ltd,"Sopers House, Sopers Rd, Cuffley, Potters Bar EN6 4RY, UK",020 8365 5430,http://www.chillerbox.com/
+Cheshunt,A_catering_engineers,SOS Catering Equipment and Engineering Limited,"Unit 5 Lockwood Way, London E17 5RB, UK",020 8531 8543,http://www.soscateringequipment.co.uk/
+Cheshunt,A_catering_engineers,BA Repairs,"Hanbury Cl, Cheshunt, Waltham Cross EN8 9BZ, UK",01992 236450,https://www.ba-repairs.co.uk/
+Cheshunt,A_catering_engineers,LEL Services,"99 Linden Gardens, Enfield EN1 4DY, UK",07860 639185,http://www.lelservices.co.uk/
+Cheshunt,A_catering_engineers,Ece Catering Equipment,"2 Rippers Ct, Sible Hedingham, Halstead CO9 3PY, UK",01787 582574,http://www.ececateringequipment.com/
+Cheshunt,A_catering_engineers,Focus Events Uk,"Unit 3, st georges works, 22 - 23 Delamare Rd, Cheshunt, Waltham Cross EN8 9AP, UK",020 3086 7992,http://www.focusevents.co.uk/
+Cheshunt,A_catering_engineers,Caterkit Services Ltd,"Unit 2 Modular Business Park, Norton Rd, Stevenage SG1 2FZ, UK",01920 872580,https://www.caterkitservices.com/
+Cheshunt,A_catering_engineers,Reynolds Food Group,"National Distribution Centre, Britannia Rd, Waltham Cross EN8 7RQ, UK",01992 809200,https://www.reynolds-cs.com/
+Cheshunt,A_catering_engineers,Salvo 1968 Ltd - Italian Food Supplier,"Maxwells West, Great Cambridge Rd, Cheshunt, Waltham Cross EN8 8XH, UK",0808 122 1968,http://salvo1968.co.uk/
+Cheshunt,A_catering_engineers,SQ Professional Ltd,"Voltage Business Centre, Unit 1, Enfield, 6 Mollison Ave, Waltham Cross EN3 7XQ, UK",01992 716070,https://www.sqprofessional.com/
+Cheshunt,A_catering_engineers,BKH Consulting,"186 Hammondstreet Rd, Cheshunt, Waltham Cross EN7 6PA, UK",07743 186684,http://bkhconsultingltd.com/
+Cheshunt,A_catering_engineers,Capital FoodService Ltd,"10 Fieldings Rd, Cheshunt, Waltham Cross EN8 9TL, UK",01992 283440,https://capitalfood.co.uk/
+Cheshunt,A_catering_engineers,CK Assessment & Training,"Unit 2/3, Meridian, Nazeing New Rd, Nazeing, Broxbourne EN10 6SX, UK",01992 444029,https://www.ckat.uk/
+Cheshunt,A_catering_engineers,International Master Chefs LTD,"4 Winnington Rd, London EN3 5RH, UK",07999 505303,http://www.internationalmasterchefs.com/
+Cheshunt,B_equipment_repair,TAG Catering Equipment UK Ltd,"Unit 2, Modular Business Park, Norton Rd, Stevenage SG1 2FZ, UK",01920 877007,https://www.tagukltd.com/
+Cheshunt,B_equipment_repair,CaterCare Catering Equipment Ltd,"Unit 1, Nimbus Park, Porz Ave, Houghton Regis, Dunstable LU5 5WZ, UK",01582 862000,http://www.catercare.com/
+Cheshunt,B_equipment_repair,Caterkit Services Ltd,"Unit 2 Modular Business Park, Norton Rd, Stevenage SG1 2FZ, UK",01920 872580,https://www.caterkitservices.com/
+Cheshunt,B_equipment_repair,U&G Cooling and Fridge Repair Ltd,"29 Hawthorne Ave, Cheshunt, Waltham Cross EN7 5BY, UK",07951 907713,http://www.ugur-cooling.co.uk/
+Cheshunt,B_equipment_repair,Catech Catering Technical Solutions,"Unit 12&13, Wilbury Court, 29 Wilbury Way, Hitchin SG4 0TW, UK",01462 233692,http://www.catech-cts.co.uk/
+Cheshunt,B_equipment_repair,Chiller Box Ltd,"Sopers House, Sopers Rd, Cuffley, Potters Bar EN6 4RY, UK",020 8365 5430,http://www.chillerbox.com/
+Cheshunt,B_equipment_repair,BA Repairs,"Hanbury Cl, Cheshunt, Waltham Cross EN8 9BZ, UK",01992 236450,https://www.ba-repairs.co.uk/
+Cheshunt,B_equipment_repair,Catering Equipment Support Ltd,"Unit 12 Deer Park Farm Ind Est, Knowle Ln, Fair Oak, Eastleigh SO50 7DZ, UK",023 8000 6082,https://www.cateringequipmentsupport.co.uk/
+Cheshunt,B_equipment_repair,SQ Professional Ltd,"Voltage Business Centre, Unit 1, Enfield, 6 Mollison Ave, Waltham Cross EN3 7XQ, UK",01992 716070,https://www.sqprofessional.com/
+Cheshunt,B_equipment_repair,South Coast Catering Equipment Limited,"Unit 4-5, Commercial House, Apex Park, Hailsham BN27 3JU, UK",01323 444530,http://www.southcoastcatering.co.uk/
+Wellingborough,A_catering_engineers,U S S Catering & Refrigeration Equipment Ltd,"9, Denington Court, Denington Ind Est, Wellingborough NN8 2QR, UK",01933 274675,https://www.usscatering.co.uk/
+Wellingborough,A_catering_engineers,Countywide Catering Equipment Ltd,"Faraday Court, 4 Faraday Ct, Wellingborough NN8 6XY, UK",01933 402002,http://www.countywidecateringequipment.co.uk/
+Wellingborough,A_catering_engineers,Atosa Catering Equipment UK Ltd,"280 Wellingborough Rd, Finedon, Wellingborough NN8 4BW, UK",01604 700853,http://atosauk.com/
+Wellingborough,A_catering_engineers,Taurus Catering Equipment Ltd,"3 Matson Ct, Raunds, Wellingborough NN9 6RG, UK",,http://www.tauruscatering.co.uk/
+Wellingborough,A_catering_engineers,Arolite Ltd,"23 Paterson Rd, Wellingborough NN8 4BZ, UK",0344 811 1255,https://arolite.co.uk/?utm_source=gmb&utm_medium=organic
+Wellingborough,A_catering_engineers,Midlands Catering Equipment,"17 Deer Park Rd, Northampton NN3 6AT, UK",01604 961161,https://www.midlandscateringequipment.co.uk/
+Wellingborough,A_catering_engineers,LTN Catering,"129 Windsor Rd, Wellingborough NN8 2NB, UK",07498 754944,https://www.ltncatering.co.uk/
+Wellingborough,A_catering_engineers,County Glassware Ltd,"Faraday Court, 4 Faraday Ct, Wellingborough NN8 6XY, UK",01933 402204,http://www.countyglassware.co.uk/
+Wellingborough,A_catering_engineers,Alti's Foodservice and Cash & Carry,"14-20 Paterson Rd, Wellingborough NN8 4AJ, UK",01933 834734,https://altiscatering.co.uk/ords/mis/r/myorder/home-page
+Wellingborough,A_catering_engineers,AXIS Catering Equipment,"Regent Park, Booth Dr, Wellingborough NN8 6GR, UK",0844 251 1800,http://axisce.co.uk/
+Wellingborough,A_catering_engineers,Northants Budget Crockery Hire,"Unit 16, Leyland Trading Estate, Irthlingborough Rd., Wellingborough NN8 1RS, UK",07460 569390,http://www.northantsbudgetcrockeryhire.co.uk/
+Wellingborough,A_catering_engineers,UK Catering Engineer,"Unit B, Lyttleton Rd, Northampton NN5 7ET, UK",07787 069044,http://ukcateringengineer.co.uk/
+Wellingborough,A_catering_engineers,HOM Refrigeration & Catering Engineers,"73 Bective Rd, Northampton NN2 7TB, UK",01604 965823,http://www.commercialkitchenequipmentservice.co.uk/
+Wellingborough,A_catering_engineers,Thorns Group,"37 Finedon Station Rd, Wellingborough NN9 5NX, UK",020 8801 4444,https://www.thorns.co.uk/
+Wellingborough,B_equipment_repair,U S S Catering & Refrigeration Equipment Ltd,"9, Denington Court, Denington Ind Est, Wellingborough NN8 2QR, UK",01933 274675,https://www.usscatering.co.uk/
+Wellingborough,B_equipment_repair,Countywide Catering Equipment Ltd,"Faraday Court, 4 Faraday Ct, Wellingborough NN8 6XY, UK",01933 402002,http://www.countywidecateringequipment.co.uk/
+Wellingborough,B_equipment_repair,Taurus Catering Equipment Ltd,"3 Matson Ct, Raunds, Wellingborough NN9 6RG, UK",,http://www.tauruscatering.co.uk/
+Wellingborough,B_equipment_repair,Midlands Catering Equipment,"17 Deer Park Rd, Northampton NN3 6AT, UK",01604 961161,https://www.midlandscateringequipment.co.uk/
+Wellingborough,B_equipment_repair,CaterCare Catering Equipment Ltd,"Unit 1, Nimbus Park, Porz Ave, Houghton Regis, Dunstable LU5 5WZ, UK",01582 862000,http://www.catercare.com/
+Wellingborough,B_equipment_repair,Commercial Kitchen Breakdowns Ltd,"5-6 Maiden Ln, Stamford PE9 2AZ, UK",01780 778088,https://commercialkitchenbreakdowns.co.uk/
+Wellingborough,B_equipment_repair,Atosa Catering Equipment UK Ltd,"280 Wellingborough Rd, Finedon, Wellingborough NN8 4BW, UK",01604 700853,http://atosauk.com/
+Wellingborough,B_equipment_repair,Arolite Ltd,"23 Paterson Rd, Wellingborough NN8 4BZ, UK",0344 811 1255,https://arolite.co.uk/?utm_source=gmb&utm_medium=organic
+Wellingborough,B_equipment_repair,County Glassware Ltd,"Faraday Court, 4 Faraday Ct, Wellingborough NN8 6XY, UK",01933 402204,http://www.countyglassware.co.uk/
+Wellingborough,B_equipment_repair,HOM Refrigeration & Catering Engineers,"73 Bective Rd, Northampton NN2 7TB, UK",01604 965823,http://www.commercialkitchenequipmentservice.co.uk/
+Wellingborough,B_equipment_repair,MC Refrigeration Ltd,"Leyland Trading Estate, Wellingborough NN8 1RT, UK",01933 277672,http://www.mcrefrigeration.co.uk/
+Wellingborough,B_equipment_repair,AXIS Catering Equipment,"Regent Park, Booth Dr, Wellingborough NN8 6GR, UK",0844 251 1800,http://axisce.co.uk/
+Kingston upon Thames,A_catering_engineers,JPL Catering Ltd,"6-8 Penrhyn Rd, Kingston upon Thames KT1 2BB, UK",020 7078 7336,http://www.jplcatering.co.uk/
+Kingston upon Thames,A_catering_engineers,SOS Catering Equipment and Engineering Limited,"Unit 5 Lockwood Way, London E17 5RB, UK",020 8531 8543,http://www.soscateringequipment.co.uk/
+Kingston upon Thames,A_catering_engineers,Romann Catering,"Progress Business Park, 14 Progress Way, Croydon CR0 4XD, UK",01474 706338,https://www.romanncatering.co.uk/
+Kingston upon Thames,A_catering_engineers,Jacksons Catering & Janitorial Supplier,"Catering House, Cox Ln., Chessington KT9 1SG, UK",020 8391 5555,http://www.jacksonscg.co.uk/
+Kingston upon Thames,A_catering_engineers,Big Roast | London's Hog Roast Company,"Unit 5 Hampden Rd, London, Kingston upon Thames KT1 3HG, UK",020 3096 8962,http://www.bigroast.com/
+Kingston upon Thames,A_catering_engineers,TP4HEAT Plumbing & heating Company LPG specialists,"46 King Henry's Rd, Kingston upon Thames KT1 3QA, UK",07791 623197,
+Kingston upon Thames,A_catering_engineers,General Engineers Catering Ltd,"The Cake Barn, Brunton, Collingbourne Kingston, Marlborough SN8 3SE, UK",01264 850060,http://www.gecatering.com/
+Kingston upon Thames,A_catering_engineers,Cedabond Catering Equipment,"Great N Rd, Wyboston, Bedford MK44 3BY, UK",0333 344 0037,http://www.cedabond.co.uk/
+Kingston upon Thames,A_catering_engineers,The Garden Catering,"Unit 6, Chessington Trade Park, 60 Cox Ln., Chessington KT9 1TW, UK",020 3504 6404,http://thegardencatering.com/
+Kingston upon Thames,A_catering_engineers,NCE London Ltd,"Aberdeen House, 428A Limpsfield Rd, Warlingham CR6 9LA, UK",0345 112 8811,http://www.nce.uk.com/
+Kingston upon Thames,A_catering_engineers,Ece Catering Equipment,"2 Rippers Ct, Sible Hedingham, Halstead CO9 3PY, UK",01787 582574,http://www.ececateringequipment.com/
+Kingston upon Thames,A_catering_engineers,Nottingham Catering Engineers Ltd,"8 Valley Rd, Beeston, Nottingham NG9 4GP, UK",0115 877 8888,http://www.nottinghamcateringengineers.co.uk/
+Kingston upon Thames,A_catering_engineers,Galati G&G Catering International Machine,"8 Sussex Pl, New Malden KT3 3PU, UK",07432 661436,
+Kingston upon Thames,B_equipment_repair,Ao-Catering Equipment Maintenance,"161 Woodyates Rd, London SE12 9JJ, UK",07776 987245,http://aocateringequipmentmaintenanceandrepair.com/
+Kingston upon Thames,B_equipment_repair,Romann Catering,"Progress Business Park, 14 Progress Way, Croydon CR0 4XD, UK",01474 706338,https://www.romanncatering.co.uk/
+Kingston upon Thames,B_equipment_repair,Commercial Kitchen Breakdowns Ltd,"5-6 Maiden Ln, Stamford PE9 2AZ, UK",01780 778088,https://commercialkitchenbreakdowns.co.uk/
+Kingston upon Thames,B_equipment_repair,CC Fix,"Masefield Cl, london DA8 2DG, UK",020 8050 2886,https://www.ccfix.co.uk/
+Kingston upon Thames,B_equipment_repair,Catering Equipment Repair ‍ ️,"Unit 12, Shorncliffe Industrial Estate, North Cl, Folkestone CT20 3UH, UK",01304 873469,https://www.catering-equipment-repair.co.uk/
+Kingston upon Thames,B_equipment_repair,South Coast Catering Equipment Limited,"Unit 4-5, Commercial House, Apex Park, Hailsham BN27 3JU, UK",01323 444530,http://www.southcoastcatering.co.uk/
+Kingston upon Thames,B_equipment_repair,Able Appliance Repairs,"Park Road House, Park Rd, Kingston upon Thames KT2 6DF, UK",07715 296066,http://www.checkatrade.com/trades/ableappliancerepairs
+Kingston upon Thames,B_equipment_repair,Caterkit Services Ltd,"Unit 2 Modular Business Park, Norton Rd, Stevenage SG1 2FZ, UK",01920 872580,https://www.caterkitservices.com/
+Kingston upon Thames,B_equipment_repair,RTC Technical Ltd,"Unit 1, Boxmend Industrial Estate, Parkwood Industrial Estate, Maidstone ME15 9YG, UK",01322 404909,https://rtctechnical.co.uk/
+Kingston upon Thames,B_equipment_repair,JJ HOME APPLIANCES UK,"125 High St, New Malden KT3 4BH, UK",07708 701664,http://www.jjhomeappliances.co.uk/
+Kingston upon Thames,B_equipment_repair,Jacksons Catering & Janitorial Supplier,"Catering House, Cox Ln., Chessington KT9 1SG, UK",020 8391 5555,http://www.jacksonscg.co.uk/
+Kingston upon Thames,B_equipment_repair,Catering Equipment Solutions,"30 Shrewsbury Ave, Peterborough PE2 7BF, UK",01733 236033,http://www.catering-equipment-solutions.co.uk/
+Kingston upon Thames,B_equipment_repair,Advantage Catering Equipment,"Unit 12, Shorncliffe Industrial Estate, North Cl, Folkestone CT20 3UH, UK",01304 827272,http://www.advantage-catering-equipment.co.uk/
+Kingston upon Thames,B_equipment_repair,D.M.M. Catering Services Limited,"95 Church St, Atworth, Melksham SN12 8JA, UK",01225 700201,http://www.dmmcateringservices.co.uk/
+Kingston upon Thames,B_equipment_repair,JPL Catering Ltd,"6-8 Penrhyn Rd, Kingston upon Thames KT1 2BB, UK",020 7078 7336,http://www.jplcatering.co.uk/
+Kingston upon Thames,B_equipment_repair,Lakeland,"23-25 Thames St, Kingston upon Thames KT1 1PH, UK",020 8546 3671,https://www.lakeland.co.uk/stores/kingston
+Kingston upon Thames,B_equipment_repair,Caterfix Limited,"316 Padholme Rd E, Peterborough PE1 5XL, UK",01733 561555,https://www.caterfix.com/
+Kingston upon Thames,B_equipment_repair,Virtue Facilities Management Services Ltd,"Unit 6, Thames industrial Estate, High St S, Dunstable LU6 3HL, UK",01582 343092,http://www.virtuefms.co.uk/
+Kingston upon Thames,B_equipment_repair,Fan Services LTD,"Ste 44, 2-3 Coleridge Gardens, London NW6 3QH, UK",020 3539 1475,https://www.fanservices.co.uk/
+Kingston upon Thames,B_equipment_repair,Catering Equipment Services Ltd,"Unit 3D, Maryland Industrial Estate, Belfast, Newtownards BT23 6BL, UK",028 9049 1616,https://cescatering.co.uk/
+Kingston upon Thames,B_equipment_repair,Roundstone Catering Equipment,"8 Lysander Rd, Bowerhill, Melksham SN12 6SP, UK",01225 709595,https://www.roundstonecatering.com/
+Kingston upon Thames,B_equipment_repair,Collini Cutlery Ltd,"Rear of, 111-113 Red Lion Rd, Tolworth, Surbiton KT6 7PJ, UK",020 8390 1453,http://www.colliniknives.co.uk/
+Kingston upon Thames,B_equipment_repair,ProCook,"Second Floor, Bentall Centre, Kingston upon Thames KT1 1TP, UK",020 8434 2721,https://www.procook.co.uk/stores/Kingston
+Kingston upon Thames,B_equipment_repair,A3 Appliances - Tolworth,"By Pass, 236 Tolworth Rise S, Tolworth, Surbiton KT5 9NB, UK",020 8330 3653,https://www.a3appliances.co.uk/
+Kingston upon Thames,B_equipment_repair,Glow Maintenance,"Unit 5, 60 High St, Hampton Wick, Kingston upon Thames KT1 4DB, UK",020 8607 0449,http://www.glowmaintenance.co.uk/
+Kingston upon Thames,B_equipment_repair,Cater Solutions,"Unit 8, Integra:ME Bircholt Rd, Maidstone ME15 9GQ, UK",0845 066 9966,http://www.catersolutions.co.uk/
+Kingston upon Thames,B_equipment_repair,Kingston Home Services,"3 Willow Rd, New Malden KT3 3RS, UK",07427 669646,https://www.kingstonhomeservices.co.uk/
+Kingston upon Thames,B_equipment_repair,Snow White Cleaners,"Endeavour House, 2 Cambridge Rd, Kingston upon Thames KT1 3JU, UK",020 3876 5000,http://www.snowwhitecleaners.co.uk/
+Kingston upon Thames,B_equipment_repair,Riverside Construction Group,"unit 6 & 7, Canbury Business Park, Elm Cres, Kingston upon Thames KT2 6HJ, UK",020 3148 1518,http://www.riversidepropertysolutions.co.uk/
+Kingston upon Thames,B_equipment_repair,TP4HEAT Plumbing & heating Company LPG specialists,"46 King Henry's Rd, Kingston upon Thames KT1 3QA, UK",07791 623197,
+Kingston upon Thames,B_equipment_repair,Computer Rescue uk,"58 Surbiton Rd, Kingston upon Thames KT1 2HT, UK",07985 681070,http://www.computerescueuk.co.uk/
+Kingston upon Thames,B_equipment_repair,TAM Leisure,"180, 186 Kingston Rd, New Malden KT3 3RD, UK",020 8949 5435,http://www.calorinsurrey.co.uk/
+Kingston upon Thames,B_equipment_repair,The Garden Catering,"Unit 6, Chessington Trade Park, 60 Cox Ln., Chessington KT9 1TW, UK",020 3504 6404,http://thegardencatering.com/
+Kingston upon Thames,B_equipment_repair,Stratos Building Services Ltd,"17 Clifton Rd, Kingston upon Thames KT2 6PH, UK",020 8274 1078,http://www.stratosbuilders.co.uk/
+Kingston upon Thames,B_equipment_repair,Big Roast | London's Hog Roast Company,"Unit 5 Hampden Rd, London, Kingston upon Thames KT1 3HG, UK",020 3096 8962,http://www.bigroast.com/
+Kingston upon Thames,B_equipment_repair,Tucker French Ltd. Kingston Branch,"106-108 Villiers Ave, Surbiton KT5 8BH, UK",020 8390 4786,https://www.tuckerfrench.com/
+Kingston upon Thames,B_equipment_repair,Dream Doors Kingston,"406 Ewell Rd, Tolworth, Surbiton KT6 7HF, UK",020 3553 1835,https://www.dreamdoors.co.uk/kitchen-showrooms/kingston?utm_source=google&utm_medium=organic&utm_campaign=googleBusinessProfile
+Kingston upon Thames,B_equipment_repair,Artis UK,"Cox Ln., Chessington KT9 1SF, UK",020 8391 5544,http://www.artis-uk.com/
+Kingston upon Thames,B_equipment_repair,M & K Boilers Repair and Plumbing Surbiton,"125A Chiltern Dr, Surbiton KT5 8LS, UK",020 3519 6671,https://round-the-corner-plumbing.co.uk/
+Kingston upon Thames,B_equipment_repair,Screwfix Kingston Upon Thames,"Unit 1, St Georges Industrial Estate, 1 St George's Industrial Estate, Richmond Rd, Kingston upon Thames KT2 5BQ, UK",0333 011 2112,https://www.screwfix.com/stores/GT5/KingstonUponThames?utm_source=google&utm_medium=organic&utm_campaign=Google_GT5
+Kingston upon Thames,B_equipment_repair,Howdens - Kingston,"Fairfield Industrial Estate, Unit 5 Hogsmill Ln, Kingston upon Thames KT1 3AJ, UK",020 8549 6181,https://www.howdens.com/find-a-depot/kingston?y_source=1_ODgxMzI4My03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D
+Kingston upon Thames,B_equipment_repair,Jessops Kingston,"18/20 Thames St, Kingston upon Thames KT1 1PE, UK",020 8541 0379,https://www.jessops.com/storefinder/kingston
+Kingston upon Thames,B_equipment_repair,ServiceMaster Clean upon Thames,"92 Richmond Rd, Kingston upon Thames KT2 5EN, UK",020 8546 7494,http://www.servicemasterclean.co.uk/kingston-upon-thames/
+Kingston upon Thames,B_equipment_repair,Leyland SDM Kingston | Decorating & DIY,"117 London Rd, Kingston upon Thames KT2 6NH, UK",020 3146 0879,https://leylandsdm.co.uk/amlocator/kingston/?utm_source=google&utm_medium=organic&utm_campaign=LPM_google_Kingston
+Kingston upon Thames,B_equipment_repair,John Lewis & Partners,"Wood St, Kingston upon Thames KT1 1TE, UK",0345 608 0677,https://www.johnlewis.com/our-shops/kingston?source=ATLCampaign_LocalListing_29012019&y_source=1_OTQ4MzA0NS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D
+Kingston upon Thames,B_equipment_repair,Snow White Professionals,"446 Ewell Rd, Surbiton KT6 7EL, UK",020 3874 7474,http://www.swprofessionals.co.uk/
+Kingston upon Thames,B_equipment_repair,AJ Sports Kingston,"81-85 Robin Hood Way, London SW15 3PW, UK",020 8974 5654,https://ajsports.co.uk/
+Kingston upon Thames,B_equipment_repair,Max Granti and Marble Tops Ltd,"Units 9 - 6, 177 Hook Rd, Surbiton KT6 5AR, UK",07956 284311,
+Kingston upon Thames,B_equipment_repair,Kitchencraft & Kingston Bathrooms,"The White Cottage, 99 Brighton Rd, Surbiton KT6 5NF, UK",020 8390 7197,https://www.kitchencraft-surrey.co.uk/
+Kingston upon Thames,B_equipment_repair,Stretch + Tents,"Unit C Station Yard, Norbiton, Kingston upon Thames KT2 7AZ, UK",020 7097 1875,https://www.stretchandtents.co.uk/
+Kingston upon Thames,B_equipment_repair,Cullifords,"52 Lower Marsh Ln, Kingston upon Thames KT1 3BJ, UK",020 8390 4656,http://www.geraldculliford.co.uk/
+Kingston upon Thames,B_equipment_repair,Ranger,"10, Central Parade, Surbiton KT6 4PJ, UK",020 8399 9995,http://www.ranger.uk.com/
+Kingston upon Thames,B_equipment_repair,A & B Waters Ltd,"6, 372 Ewell Rd, Tolworth, Surbiton KT6 7BA, UK",020 8390 0648,http://www.abwaters.co.uk/
+Kingston upon Thames,B_equipment_repair,MJ Services,"Unit at Malden Manor Station, Manor Dr N, New Malden KT3 5PN, UK",020 8715 0185,https://www.m-j-services.co.uk/
+Andover,A_catering_engineers,S & J Mobile Catering,"6 My Way, Picket Piece, Andover SP11 6NS, UK",01264 363325,http://www.sjcatering.co.uk/
+Andover,A_catering_engineers,Foodie Catering and Events,"Foodie Catering and Events, The Commercial Centre, Picket Piece, Andover SP11 6RU, UK",01264 317000,http://www.foodiecateringevents.com/
+Andover,A_catering_engineers,SML Catering,"14 Hopkinson Way, Andover SP10 3ZE, UK",01264 334475,https://www.smlsupplies.co.uk/
+Andover,A_catering_engineers,Blue Badger Wholesale,"123 The Commercial Centre, Picket Piece, Andover SP11 6RU, UK",01264 333777,http://www.bluebadger.co.uk/
+Andover,A_catering_engineers,Catering Equipment Support Ltd,"Unit 12 Deer Park Farm Ind Est, Knowle Ln, Fair Oak, Eastleigh SO50 7DZ, UK",023 8000 6082,https://www.cateringequipmentsupport.co.uk/
+Andover,A_catering_engineers,Andover Gas Engineers Ltd,"13 Millway Cl, Andover SP10 3AX, UK",07808 318983,https://www.andovergasengineers.co.uk/
+Andover,A_catering_engineers,Service Please! Hospitality Consultancy & Academy,"The Commercial Centre, Picket Piece, Andover SP11 6RU, UK",01264 317000,https://servicepleasehospitality.com/
+Andover,A_catering_engineers,Meridian Catering Engineers,"Wessex House, Upper Market St, Eastleigh SO50 9FD, UK",023 8064 7062,https://www.meridiancateringengineers.co.uk/
+Andover,A_catering_engineers,Perch UK,"Central Way, Andover SP10 5AN, UK",0800 093 0995,http://www.perchuk.com/
+Andover,A_catering_engineers,SML Supplies Ltd,"Edison Gate, 10a Hopkinson Way, W Portway, Andover SP10 3ZE, UK",01264 334475,https://www.smlsupplies.co.uk/
+Andover,A_catering_engineers,Chef Xpress,"10a W Portway, Andover SP10 3ZE, UK",01264 334475,
+Andover,A_catering_engineers,BF Engineering Servics Limited,"Unit A, Lake Works, Cranleigh Rd, Portchester, Fareham PO16 9DR, UK",023 9249 8080,http://www.bfes.co.uk/
+Andover,A_catering_engineers,Knight Catering Services Ltd,"52 Water Ln, Totton, Southampton SO40 3DN, UK",07973 181453,http://www.k-c-s.co.uk/
+Andover,A_catering_engineers,Apeiron Catering,"Unit 7, Pintail Business Park, 165 Christchurch Rd, Ringwood BH24 3AL, UK",01425 511693,https://www.apeironcatering.co.uk/
+Andover,A_catering_engineers,Wessex Cater Hire,"Unit 10/11, Scallows Ln, West Wellow, Romsey SO51 6DX, UK",01794 884566,https://wessexcaterhire.co.uk/
+Andover,A_catering_engineers,Caterfix UK,"8 Testwood Ave, Totton, Southampton SO40 3LW, UK",0800 808 7760,https://www.commercialkitchenrepairs.co.uk/
+Andover,B_equipment_repair,Catering Equipment Support Ltd,"Unit 12 Deer Park Farm Ind Est, Knowle Ln, Fair Oak, Eastleigh SO50 7DZ, UK",023 8000 6082,https://www.cateringequipmentsupport.co.uk/
+Andover,B_equipment_repair,Catering Equipment Repair ‍ ️,"Unit 12, Shorncliffe Industrial Estate, North Cl, Folkestone CT20 3UH, UK",01304 873469,https://www.catering-equipment-repair.co.uk/
+Andover,B_equipment_repair,Knight Catering Services Ltd,"52 Water Ln, Totton, Southampton SO40 3DN, UK",07973 181453,http://www.k-c-s.co.uk/
+Andover,B_equipment_repair,Caterfix UK,"8 Testwood Ave, Totton, Southampton SO40 3LW, UK",0800 808 7760,https://www.commercialkitchenrepairs.co.uk/
+Andover,B_equipment_repair,Blue Badger Wholesale,"123 The Commercial Centre, Picket Piece, Andover SP11 6RU, UK",01264 333777,http://www.bluebadger.co.uk/
+Andover,B_equipment_repair,S & J Mobile Catering,"6 My Way, Picket Piece, Andover SP11 6NS, UK",01264 363325,http://www.sjcatering.co.uk/
+Andover,B_equipment_repair,Service Please! Hospitality Consultancy & Academy,"The Commercial Centre, Picket Piece, Andover SP11 6RU, UK",01264 317000,https://servicepleasehospitality.com/
+Andover,B_equipment_repair,Advantage Catering Equipment,"Unit 12, Shorncliffe Industrial Estate, North Cl, Folkestone CT20 3UH, UK",01304 827272,http://www.advantage-catering-equipment.co.uk/
+Andover,B_equipment_repair,Foodie Catering and Events,"Foodie Catering and Events, The Commercial Centre, Picket Piece, Andover SP11 6RU, UK",01264 317000,http://www.foodiecateringevents.com/
+Andover,B_equipment_repair,Apeiron Catering,"Unit 7, Pintail Business Park, 165 Christchurch Rd, Ringwood BH24 3AL, UK",01425 511693,https://www.apeironcatering.co.uk/
+Andover,B_equipment_repair,SML Catering,"14 Hopkinson Way, Andover SP10 3ZE, UK",01264 334475,https://www.smlsupplies.co.uk/
+Andover,B_equipment_repair,Catering Equipment Solutions,"30 Shrewsbury Ave, Peterborough PE2 7BF, UK",01733 236033,http://www.catering-equipment-solutions.co.uk/
+Andover,B_equipment_repair,BF Engineering Servics Limited,"Unit A, Lake Works, Cranleigh Rd, Portchester, Fareham PO16 9DR, UK",023 9249 8080,http://www.bfes.co.uk/
+Andover,B_equipment_repair,Andover Domestic Appliances,"3 Beckett Rd, Andover SP10 3HT, UK",07710 691043,http://www.andoverdomestic.co.uk/
+Andover,B_equipment_repair,The Commercial Centre,"The Commercial Centre, Picket Piece, Andover SP11 6RU, UK",01264 332274,http://www.thecommercialcentre.co.uk/
+Andover,B_equipment_repair,Ace Domestics,"By Apointment Only, 12 Old Down Rd, Andover SP10 3JP, UK",01264 333454,http://www.acedomestics.com/
+Andover,B_equipment_repair,Gamma Catering Equipment,"30 Primrose Way, Park Gate, Southampton SO31 6WX, UK",07577 969799,http://www.gammacatering.co.uk/
+Andover,B_equipment_repair,Perch UK,"Central Way, Andover SP10 5AN, UK",0800 093 0995,http://www.perchuk.com/
+Andover,B_equipment_repair,Wok Cooker Services Ltd,"Unit H3, Westfield Industrial Estate, Second Ave, Midsomer Norton, Radstock BA3 4BH, UK",01761 411772,http://www.wokcookerservices.co.uk/
+Andover,B_equipment_repair,Cater Solutions,"Unit 8, Integra:ME Bircholt Rd, Maidstone ME15 9GQ, UK",0845 066 9966,http://www.catersolutions.co.uk/
+Andover,B_equipment_repair,Catering Equipment Engineers,"Unit 26, Antrim Business Park, 25 Randalstown Rd, Antrim BT41 4LD, UK",028 9446 8666,https://cateringequipmentengineers.com/
+Andover,B_equipment_repair,Wessex Cater Hire,"Unit 10/11, Scallows Ln, West Wellow, Romsey SO51 6DX, UK",01794 884566,https://wessexcaterhire.co.uk/
+Andover,B_equipment_repair,Andover Gas Engineers Ltd,"13 Millway Cl, Andover SP10 3AX, UK",07808 318983,https://www.andovergasengineers.co.uk/
+Andover,B_equipment_repair,Eastleigh Services,"53 Twyford Rd, Eastleigh SO50 4HH, UK",023 8061 1630,https://www.eastleighservices.co.uk/
+Andover,B_equipment_repair,Prego Technical Services Ltd,"43 Bramley Dr, Hartley Wintney, Hook RG27 8ZF, UK",07590 983739,http://prego.tech/
+Andover,B_equipment_repair,Pennies Haberdashery,"Pennies, Shaws Walk, Andover SP10 1LJ, UK",01264 333662,https://penniesandover.co.uk/
+Andover,B_equipment_repair,CCCS U.K,"Unit 8, Integra Business Park, Maidstone ME15 9GQ, UK",0845 066 9966,http://www.icombi.pro/
+Andover,B_equipment_repair,"Cooper Foods - wholesale meat, seafood, ambient and frozen food supplier","Market House, Portway Business Park, Hopkinson Way, Andover SP10 3ZE, UK",01264 321050,http://www.cooperfoods.co.uk/
+Christchurch,A_catering_engineers,Southern Contracts,"Unit 4, Ambassador Industrial Estate, 9 Airfield Rd, Christchurch BH23 3TG, UK",01202 422100,https://www.southerncontracts.co.uk/
+Christchurch,A_catering_engineers,Merlins Catering,"The Old Cart Shed/Parley Green Lane, Christchurch BH23 6BB, UK",01202 911017,https://www.merlinscatering.co.uk/
+Christchurch,A_catering_engineers,South Catering Fabrication Ltd,"Unit 2 Bosley Nursery, Hurn, Christchurch BH23 6DY, UK",01202 519979,http://www.southcateringfabrication.co.uk/
+Christchurch,A_catering_engineers,Crock-A-Dial,"50 Clarendon Rd, Christchurch BH23 2AA, UK",07957 540460,https://crockadialhire.co.uk/
+Christchurch,A_catering_engineers,Alfresco Catering,"25 Southcliffe Rd, Christchurch BH23 4EN, UK",01425 275162,http://www.alfrescocatering.biz/
+Christchurch,A_catering_engineers,Ako Dining Catering,"Unit 3, Costrells, Derritt Ln, Christchurch BH23 8AX, UK",,https://www.akodining.co.uk/
+Christchurch,A_catering_engineers,Hot & Cold Bournemouth Ltd,"Unit 2 Bosley Nursery, Hurn, Christchurch BH23 6DY, UK",01202 519979,http://www.hotandcoldbournemouth.com/
+Christchurch,A_catering_engineers,Hants and Dorset Catering Equipment services,"891 Christchurch Rd, Pokesdown, Bournemouth BH7 6AU, UK",07860 636409,
+Christchurch,A_catering_engineers,Apeiron Catering,"Unit 7, Pintail Business Park, 165 Christchurch Rd, Ringwood BH24 3AL, UK",01425 511693,https://www.apeironcatering.co.uk/
+Christchurch,A_catering_engineers,Cemco Southern Ltd,"37 Marston Cl, Blandford Forum DT11 7RR, UK",01202 377205,https://cemcoltd.co.uk/
+Christchurch,A_catering_engineers,Dorset Food Machinery,"29C St Catherine's Rd, Southbourne, Bournemouth BH6 4AE, UK",01202 423754,https://newmapiuk.top/details/dorset-food-machinery-ChIJv9_
+Christchurch,A_catering_engineers,Expert Catering Equipment Services,"Unit C, McKay Way, Lynch Ln, Weymouth DT4 9DN, UK",07740 862385,http://www.catering-repair.co.uk/
+Christchurch,A_catering_engineers,All in One Pro PAT Testing,"20 Airfield Rd, Bournemouth, Christchurch BH23 3TG, UK",0800 211 8188,http://www.allinonepropat.co.uk/
+Christchurch,A_catering_engineers,Ozinox,"683 Christchurch Rd, Boscombe, Bournemouth BH7 6RT, UK",07400 393099,http://ozinox.co.uk/
+Christchurch,B_equipment_repair,Cemco Southern Ltd,"37 Marston Cl, Blandford Forum DT11 7RR, UK",01202 377205,https://cemcoltd.co.uk/
+Christchurch,B_equipment_repair,Southern Contracts,"Unit 4, Ambassador Industrial Estate, 9 Airfield Rd, Christchurch BH23 3TG, UK",01202 422100,https://www.southerncontracts.co.uk/
+Christchurch,B_equipment_repair,Apeiron Catering,"Unit 7, Pintail Business Park, 165 Christchurch Rd, Ringwood BH24 3AL, UK",01425 511693,https://www.apeironcatering.co.uk/
+Christchurch,B_equipment_repair,ACCEM - All Aspects of Catering Equipment Maintenance,"4 St Leonard's Ave, Blandford Forum DT11 7PF, UK",07789 758555,https://aacem.co.uk/
+Christchurch,B_equipment_repair,Expert Catering Equipment Services,"Unit C, McKay Way, Lynch Ln, Weymouth DT4 9DN, UK",07740 862385,http://www.catering-repair.co.uk/
+Christchurch,B_equipment_repair,Caterfix UK,"8 Testwood Ave, Totton, Southampton SO40 3LW, UK",0800 808 7760,https://www.commercialkitchenrepairs.co.uk/
+Christchurch,B_equipment_repair,Crock-A-Dial,"50 Clarendon Rd, Christchurch BH23 2AA, UK",07957 540460,https://crockadialhire.co.uk/
+Christchurch,B_equipment_repair,South Catering Fabrication Ltd,"Unit 2 Bosley Nursery, Hurn, Christchurch BH23 6DY, UK",01202 519979,http://www.southcateringfabrication.co.uk/
+Christchurch,B_equipment_repair,D.M.M. Catering Services Limited,"95 Church St, Atworth, Melksham SN12 8JA, UK",01225 700201,http://www.dmmcateringservices.co.uk/
+Christchurch,B_equipment_repair,Christchurch Appliance Repairs Limited,"18 Albert Rd, Bournemouth BH1 1BZ, UK",01202 366716,https://christchurch-appliance-repair.co.uk/
+Christchurch,B_equipment_repair,Cater-Equip Ltd,"Unit 1, Junction Industrial Estate, Pontyclun CF72 9ES, UK",01443 225325,https://www.cater-equip.co.uk/
+Christchurch,B_equipment_repair,Commercial Dishwasher Repairs,"1B Larksmead, Blandford Forum DT11 7LU, UK",01202 377205,https://www.dishwasherservice.co.uk/
+Christchurch,B_equipment_repair,Cwservice Dorset Ltd,"30 Ashmore Cl, Blandford Forum DT11 7UH, UK",,https://www.cwservicedorset.co.uk/
+Christchurch,B_equipment_repair,All in One Pro PAT Testing,"20 Airfield Rd, Bournemouth, Christchurch BH23 3TG, UK",0800 211 8188,http://www.allinonepropat.co.uk/
+Romford,A_catering_engineers,romford catering equipment ltd,"GLOMONT WORKS, Selinas Ln, Dagenham RM8 1QH, UK",07385 190378,https://romfordce.com/
+Romford,A_catering_engineers,RC Catering,"2, Northgate Business, Romford RM5 2BG, UK",07949 152522,http://www.rccatering.co.uk/
+Romford,A_catering_engineers,DH Kitchen,"Riverside Cl, Romford RM1 1EN, UK",07492 778362,
+Romford,A_catering_engineers,Jamal catering equipment LTD,"Alfabess Works, Selinas Ln, Dagenham RM8 1QH, UK",07376 374668,http://jmcequipment.net/
+Romford,A_catering_engineers,AA ServicePro UK,"26 Rose Ln, Dagenham, Romford RM6 5JU, UK",020 8049 2295,https://aaservicepro.co.uk/
+Romford,A_catering_engineers,J. Scott & Sons Ltd,"Unit 8, Hainault Business Park, 97-101 Peregrine Rd, Ilford IG6 3XH, UK",020 8500 4736,https://jss.limited/
+Romford,A_catering_engineers,Swift Catering Equipment Ltd,"North Ind Est, 10 Braiswick Pl, Laindon SS15 6EB, UK",01268 491579,https://www.swiftcatering.co.uk/
+Romford,A_catering_engineers,Ace Catering Engineers,"Fields End, Back Rd, Ardleigh, Colchester CO7 7TD, UK",01255 224004,http://www.acecateringengineers.co.uk/
+Romford,A_catering_engineers,Ece Catering Equipment,"2 Rippers Ct, Sible Hedingham, Halstead CO9 3PY, UK",01787 582574,http://www.ececateringequipment.com/
+Romford,A_catering_engineers,Marigold Engineers Ltd,"Unit 19 Moorside, Colchester CO1 2ZF, UK",01206 870863,http://www.marigolds.uk.com/
+Romford,A_catering_engineers,Metropolitan Technical Solutions,"Aaron House, 132 The Avenue, Hornchurch RM12 4JG, UK",01708 450330,https://metropolitantechnicalsolutions.co.uk/
+Romford,A_catering_engineers,Unique Engineering Services,"82 Rainham Rd, Rainham RM13 7RJ, UK",07515 808229,http://www.uniqueengineeringservices.co.uk/
+Romford,A_catering_engineers,Riklu Catering Equipment & Event Supplies,"17 Suez Rd, Enfield EN3 7SN, UK",020 3004 9090,http://riklu.com/
+Romford,A_catering_engineers,Addwell EPOS Solutions Ltd,"82 Brentwood Rd, Hornchurch, Romford RM1 2EL, UK",01708 730980,http://www.addwell.co.uk/
+Romford,A_catering_engineers,KRD Catering Equipment Ltd,"Unit 8, Sharvatt Business Centre, Keats Rd, Belvedere DA17 6BP, UK",01322 923522,https://krdcatering.co.uk/
+Romford,A_catering_engineers,Corrigans Service Engineers,"309A Hornchurch Rd, Hornchurch RM12 4TQ, UK",0808 135 1721,
+Romford,A_catering_engineers,Romann Catering,"Progress Business Park, 14 Progress Way, Croydon CR0 4XD, UK",01474 706338,https://www.romanncatering.co.uk/
+Romford,A_catering_engineers,Ossie's,"206 Lea Bridge Rd, London E10 7LN, UK",020 8539 9173,
+Romford,A_catering_engineers,Caterkit Services Ltd,"Unit 2 Modular Business Park, Norton Rd, Stevenage SG1 2FZ, UK",01920 872580,https://www.caterkitservices.com/
+Romford,A_catering_engineers,"Saffron Heating - Plumbing, Boiler and Gas Engineers","85 Sheffield Dr, Romford RM3 9YB, UK",01708 701867,http://saffronheating.co.uk/
+Romford,A_catering_engineers,F.A.S Plumbing & Heating Ltd.,"44 Hailsham Rd, Romford RM3 7SP, UK",07872 471587,https://www.fasplumbingheatingltd.co.uk/
+Romford,B_equipment_repair,romford catering equipment ltd,"GLOMONT WORKS, Selinas Ln, Dagenham RM8 1QH, UK",07385 190378,https://romfordce.com/
+Romford,B_equipment_repair,Payne Bros UK Ltd,"Oldchurch Rd, Romford RM7 0BB, UK",01708 766644,http://www.paynebros.com/
+Barnet,A_catering_engineers,North London Catering Equipment Ltd,"191 Summers Ln, London N12 0QH, UK",020 8361 6644,http://www.nlce.co.uk/
+Barnet,A_catering_engineers,SOS Catering Equipment and Engineering Limited,"Unit 5 Lockwood Way, London E17 5RB, UK",020 8531 8543,http://www.soscateringequipment.co.uk/
+Barnet,A_catering_engineers,Melanie's Catering,"Melanie's Event Catering, Industrial Estate Unit D1, Queens Rd, Barnet EN5 4DJ, UK",020 8447 4727,http://www.melaniescatering.com/
+Barnet,A_catering_engineers,Comet Catering Equipment Co Ltd,"Brimsdown Industrial Estate, 45 Lockfield Ave, Enfield EN3 7XZ, UK",020 8804 4779,http://www.cometcatering.com/
+Barnet,A_catering_engineers,Catering Repairs London,"The Brew, Victoria House, 64 Paul St, London EC2A 4NA, UK",020 3875 8981,https://cateringrepairslondon.co.uk/?utm_source=GoogleGBP&utm_medium=GBP&utm_campaign=OrganicGBP
+Barnet,A_catering_engineers,Allens Catering Equipment Hire,"Units 8 & 9, Heathrow International Trading Estate, Green Ln, Cranford, Hounslow TW4 6HB, UK",020 8574 9600,https://www.allenshire.co.uk/?utm_source=Google_Business_London&utm_medium=organic&utm_campaign=HSGMB
+Barnet,A_catering_engineers,Olympic Catering,"59 Heath Rd, Little Heath, Potters Bar EN6 1LR, UK",07930 645978,http://www.olympiccatering.co.uk/
+Barnet,A_catering_engineers,Ece Catering Equipment,"2 Rippers Ct, Sible Hedingham, Halstead CO9 3PY, UK",01787 582574,http://www.ececateringequipment.com/
+Barnet,A_catering_engineers,Caterkit Services Ltd,"Unit 2 Modular Business Park, Norton Rd, Stevenage SG1 2FZ, UK",01920 872580,https://www.caterkitservices.com/
+Barnet,A_catering_engineers,Romann Catering,"Progress Business Park, 14 Progress Way, Croydon CR0 4XD, UK",01474 706338,https://www.romanncatering.co.uk/
+Barnet,A_catering_engineers,CC Fix,"Masefield Cl, london DA8 2DG, UK",020 8050 2886,https://www.ccfix.co.uk/
+Barnet,A_catering_engineers,Marigold Engineers Ltd,"Unit 19 Moorside, Colchester CO1 2ZF, UK",01206 870863,http://www.marigolds.uk.com/
+Barnet,A_catering_engineers,London Engineers Company,"Station ​London, 12 Melcombe Pl, London NW1 6JJ, UK",020 3603 7172,http://www.lecompany.co.uk/
+Barnet,A_catering_engineers,Sainlo Events,"Home Farm, Aldenham Rd, Elstree, Radlett, Borehamwood WD6 3AZ, UK",020 3154 4383,http://www.sainloevents.co.uk
+Barnet,A_catering_engineers,NWCE Foodservice Equipment,"Folds Rd, Bolton BL1 2SB, UK",0161 764 8688,http://www.nwce.co.uk/
+Barnet,A_catering_engineers,Kent Catering.,"27 Unit T, Bromley Business Centre, Hastings Rd, Bromley BR2 8NA, UK",020 8462 9911,http://kentcatering.com/
+Barnet,A_catering_engineers,The Loft Converter,"153 High St, Barnet EN5 5SU, UK",020 8361 7458,http://www.theloftconverter.com/
+Barnet,B_equipment_repair,Ao-Catering Equipment Maintenance,"161 Woodyates Rd, London SE12 9JJ, UK",07776 987245,http://aocateringequipmentmaintenanceandrepair.com/
+Barnet,B_equipment_repair,North London Catering Equipment Ltd,"191 Summers Ln, London N12 0QH, UK",020 8361 6644,http://www.nlce.co.uk/
+Barnet,B_equipment_repair,Caterglobe Ltd.,"Unit C6, Bounds Green Industrial Estate, South Way, London N11 2UL, UK",020 8920 0817,http://www.caterglobe.co.uk/
+Barnet,B_equipment_repair,SOS Catering Equipment and Engineering Limited,"Unit 5 Lockwood Way, London E17 5RB, UK",020 8531 8543,http://www.soscateringequipment.co.uk/
+Barnet,B_equipment_repair,Catering Repairs London,"The Brew, Victoria House, 64 Paul St, London EC2A 4NA, UK",020 3875 8981,https://cateringrepairslondon.co.uk/?utm_source=GoogleGBP&utm_medium=GBP&utm_campaign=OrganicGBP
+Barnet,B_equipment_repair,CC Fix,"Masefield Cl, london DA8 2DG, UK",020 8050 2886,https://www.ccfix.co.uk/
+Barnet,B_equipment_repair,Caterkit Services Ltd,"Unit 2 Modular Business Park, Norton Rd, Stevenage SG1 2FZ, UK",01920 872580,https://www.caterkitservices.com/
+Barnet,B_equipment_repair,Romann Catering,"Progress Business Park, 14 Progress Way, Croydon CR0 4XD, UK",01474 706338,https://www.romanncatering.co.uk/
+Barnet,B_equipment_repair,Catering Repair Services,"unit 4, Eleventh Ave N, Gateshead NE11 0NJ, UK",0191 447 7020,
+Barnet,B_equipment_repair,Millers Catering Equipment,"Unit 2, College Fields Business Centre, Prince Georges Rd, London SW19 2PT, UK",020 8687 5390,https://www.millerscatering.co.uk/
+Barnet,B_equipment_repair,NWCE Foodservice Equipment,"Folds Rd, Bolton BL1 2SB, UK",0161 764 8688,http://www.nwce.co.uk/
+Barnet,B_equipment_repair,Kent Catering.,"27 Unit T, Bromley Business Centre, Hastings Rd, Bromley BR2 8NA, UK",020 8462 9911,http://kentcatering.com/
+Barnet,B_equipment_repair,Virtue Facilities Management Services Ltd,"Unit 6, Thames industrial Estate, High St S, Dunstable LU6 3HL, UK",01582 343092,http://www.virtuefms.co.uk/
+Barnet,B_equipment_repair,Ken Bowman and Son,"334 Ballards Ln, London N12 0EY, UK",020 8446 3003,
+Barnet,B_equipment_repair,Alpha Appliances LTD,"Big Yellow Storage, 447 High Rd, London N12 0AF, UK",020 8050 4768,http://www.alphaappliances.co.uk/
+Barnet,B_equipment_repair,Mc Ventilation,"Oakleigh Gardens, London N20 9AB, UK",07474 559797,http://www.mcventilation.co.uk/
+Barnet,B_equipment_repair,Cater Solutions,"Unit 8, Integra:ME Bircholt Rd, Maidstone ME15 9GQ, UK",0845 066 9966,http://www.catersolutions.co.uk/
+Barnet,B_equipment_repair,Glotech Kitchen & Appliances Showroom,"2 Soothouse Spring, St Albans AL3 6PF, UK",01727 855456,https://www.glotech.co.uk/
+Barnet,B_equipment_repair,Profitappliances,"22 Pepys Cres, Barnet EN5 3EG, UK",07312 094950,https://profitappliances.co.uk/
+Barnet,B_equipment_repair,London Engineers Company,"Station ​London, 12 Melcombe Pl, London NW1 6JJ, UK",020 3603 7172,http://www.lecompany.co.uk/
+Barnet,B_equipment_repair,Appliance Centre,"219 Regents Park Rd, London N3 3LD, UK",020 8343 2509,https://www.appliancentre.com/
+Barnet,B_equipment_repair,AJL Domestic Appliances Ltd,"6 Cheapside, Muswell Hill, London N2 9HP, UK",020 8444 4303,http://www.ajlappliances.co.uk/
+Barnet,B_equipment_repair,Melanie's Catering,"Melanie's Event Catering, Industrial Estate Unit D1, Queens Rd, Barnet EN5 4DJ, UK",020 8447 4727,http://www.melaniescatering.com/
+Barnet,B_equipment_repair,Baking,"2-4 Clapham High St, London SW4 7UT, UK",020 7450 0480,https://www.dentonscatering.com/contact-us
+Barnet,B_equipment_repair,All Services 4U,"37A Church Hill Rd, London, Barnet EN4 8SY, UK",020 3627 0820,https://allservices4u.co.uk/
+Barnet,B_equipment_repair,Arta domestic Appliances,"104 Brent St, London NW4 2HH, UK",07988 975261,
+Barnet,B_equipment_repair,Domecon Plumbing & Electrical Wholesale,"8 Ashbourne Ave, Finchley Rd, London NW11 0AD, UK",020 3662 6009,
+Barnet,B_equipment_repair,Grosvenor Event Rentals Ltd,"16 Hillview Gardens, London NW4 2JH, UK",020 8202 6003,http://grosvenorrentals.co.uk/
+Barnet,B_equipment_repair,CCCS U.K,"Unit 8, Integra Business Park, Maidstone ME15 9GQ, UK",0845 066 9966,http://www.icombi.pro/
+Barnet,B_equipment_repair,D & J's Plumbing Supplies,"The Bailey, 187 Victoria Rd, London, Barnet EN4 9SG, UK",020 8447 3888,http://www.djplumbingsupplies.com/
+Barnet,B_equipment_repair,Prego Technical Services Ltd,"43 Bramley Dr, Hartley Wintney, Hook RG27 8ZF, UK",07590 983739,http://prego.tech/
+Barnet,B_equipment_repair,Cold stations ltd,"931 High Rd, London N12 8QP, UK",07458 633311,http://coldstation.co.uk/
+Barnet,B_equipment_repair,GoHeat Ltd,"77 Hill Rise, Barnet, Greenford UB6 8PE, UK",,https://www.goheat.co.uk/
+Barnet,B_equipment_repair,DELI HOUSE,"Kiosk 1, The Spires Shopping Centre, 111 High St, Barnet EN5 5XY, UK",07837 645420,http://www.delihouseuk.com/
+Barnet,B_equipment_repair,Dexterous Group Decorating,"8 Page Mdw, London NW7 2EN, UK",07904 166000,http://www.dexterousgroup.co.uk/
+Barnet,B_equipment_repair,Fixiz LTD,"1ST FLOOR, Gallery Court, 28 Arcadia Ave, London N3 2FG, UK",020 7971 1318,https://fixiz.co.uk/
+Barnet,B_equipment_repair,Schmidt,"17 High St, High Barnet, London EN5 5UJ, UK",020 3691 8888,https://home-design-schmidt.uk/showrooms/barnet/
+Barnet,B_equipment_repair,Barnet Hardware Ltd,"113 High St, Barnet EN5 5UZ, UK",020 8275 0138,http://www.barnethardware.co.uk/
+Barnet,B_equipment_repair,Debonair Cooling,"Office 105, Atlas Business Centre, Oxgate Ln, London NW2 7HJ, UK",020 3960 2555,https://debonaircooling.co.uk/
+Barnet,B_equipment_repair,Your Handy Solutions Ltd,"64 Linthorpe Rd, London, Barnet EN4 9BY, UK",07402 993484,http://www.yourhandysolutions.co.uk/
+Barnet,B_equipment_repair,"RAFIXBUILDING LTD builder Barnet, Haringey , London","9B Fordham Cl, London EN4 9AJ, UK",07872 967015,https://www.rafixbuildinglocalbuilderlondon.co.uk/
