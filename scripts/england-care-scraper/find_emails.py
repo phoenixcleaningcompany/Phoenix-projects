@@ -24,9 +24,9 @@ from urllib.parse import urljoin, urlparse
 import requests
 
 SOURCE = "independent_and_small_chain.csv"
-EMAIL_RE = re.compile(r"[a-zA-Z0-9._%+\-]+@[a-zA-Z0-9.\-]+\.[a-zA-Z]{2,}")
-MAILTO_RE = re.compile(r'mailto:([a-zA-Z0-9._%+\-]+@[a-zA-Z0-9.\-]+\.[a-zA-Z]{2,})', re.IGNORECASE)
-BAD_DOMAIN_SNIPPETS = ("sentry.io", "wixpress.com", "example.com", "godaddy.com", "cloudflare.com")
+EMAIL_RE = re.compile(r"[a-zA-Z0-9._+\-]{1,64}@[a-zA-Z0-9.\-]+\.[a-zA-Z]{2,}")
+MAILTO_RE = re.compile(r'mailto:([a-zA-Z0-9._+\-]{1,64}@[a-zA-Z0-9.\-]+\.[a-zA-Z]{2,})', re.IGNORECASE)
+BAD_DOMAIN_SNIPPETS = ("sentry.io", "wixpress.com", "example.com", "godaddy.com", "cloudflare.com", "calendar.google.com")
 CONTACT_PATHS = ("", "/contact", "/contact-us")
 
 HEADERS = {

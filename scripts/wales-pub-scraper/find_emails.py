@@ -20,9 +20,9 @@ from urllib.parse import urljoin, urlparse
 import requests
 
 SOURCE = "pubs_independent.csv"
-EMAIL_RE = re.compile(r"[a-zA-Z0-9._%+\-]+@[a-zA-Z0-9.\-]+\.[a-zA-Z]{2,}")
-MAILTO_RE = re.compile(r'mailto:([a-zA-Z0-9._%+\-]+@[a-zA-Z0-9.\-]+\.[a-zA-Z]{2,})', re.IGNORECASE)
-BAD_DOMAIN_SNIPPETS = ("sentry.io", "wixpress.com", "example.com", "godaddy.com", "cloudflare.com")
+EMAIL_RE = re.compile(r"[a-zA-Z0-9._+\-]{1,64}@[a-zA-Z0-9.\-]+\.[a-zA-Z]{2,}")
+MAILTO_RE = re.compile(r'mailto:([a-zA-Z0-9._+\-]{1,64}@[a-zA-Z0-9.\-]+\.[a-zA-Z]{2,})', re.IGNORECASE)
+BAD_DOMAIN_SNIPPETS = ("sentry.io", "wixpress.com", "example.com", "godaddy.com", "cloudflare.com", "calendar.google.com")
 CONTACT_PATHS = ("", "/contact", "/contact-us")
 HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
 CA_BUNDLE = "/root/.ccr/ca-bundle.crt"
