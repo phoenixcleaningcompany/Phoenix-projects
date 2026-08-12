@@ -84,6 +84,7 @@ def main():
     ap.add_argument("--max-pages", type=int, default=3)
     ap.add_argument("--skip-towns", type=int, default=0, help="skip this many already-processed towns and append to --out")
     ap.add_argument("--commit-every", type=int, default=0, help="git add/commit/push the --out file every N towns")
+    ap.add_argument("--append", action="store_true", help="append to --out even if --skip-towns is 0 (e.g. when --towns is already a filtered remaining-towns list)")
     args = ap.parse_args()
 
     api_key = os.environ.get("PLACES_API_KEY")
@@ -95,9 +96,10 @@ def main():
     if args.skip_towns:
         towns = towns[args.skip_towns:]
 
+    do_append = (args.skip_towns or args.append) and os.path.exists(args.out)
     fieldnames = ["Town", "Query", "Name", "Address", "Phone", "Website"]
-    write_header = not (args.skip_towns and os.path.exists(args.out))
-    mode = "a" if args.skip_towns and os.path.exists(args.out) else "w"
+    write_header = not do_append
+    mode = "a" if do_append else "w"
 
     total_rows = 0
     total_with_website = 0
