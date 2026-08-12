@@ -1,2 +1,1 @@
-scripts/england-care-scraper/found_emails_full.csv
-scripts/england-care-scraper/find_emails_full.log
+*.log
