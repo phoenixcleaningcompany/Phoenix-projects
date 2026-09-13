@@ -10,6 +10,8 @@ CREATE TABLE IF NOT EXISTS houses (
   blurb_cy      TEXT NULL,
   note_en       VARCHAR(160) NULL,
   note_cy       VARCHAR(160) NULL,
+  walk_en       VARCHAR(80) NULL,
+  walk_cy       VARCHAR(80) NULL,
   token         VARCHAR(24) NOT NULL,
   active        TINYINT(1) NOT NULL DEFAULT 1,
   UNIQUE KEY uniq_token (token),

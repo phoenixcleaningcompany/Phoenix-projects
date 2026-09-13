@@ -8,6 +8,7 @@
     lang: localStorage.getItem('llt_lang') || 'en',
     houses: [], categories: [], visited: [], picks: {},
     votingOpen: true, liveResults: true, results: null, voters: 0,
+    showAll: false,
   };
 
   const t = (en, cy) => (S.lang === 'cy' ? cy : en);
@@ -58,18 +59,40 @@
   function trail() {
     const done = S.visited.length, total = S.houses.length;
     const pct = total ? Math.round((done / total) * 100) : 0;
+    const next = S.houses.find((h) => !S.visited.includes(Number(h.id)));
+    const finished = done === total && total > 0;
+
+    const banner = finished
+      ? `<div class="card finish">
+           <h3>${t('That is the lot — all twelve.', "Dyna'r cyfan — pob un o'r deuddeg.")}</h3>
+           <p class="muted">${t(
+             'Thank you for walking it. Now go and vote for your favourites.',
+             'Diolch am ei gerdded. Nawr ewch i bleidleisio dros eich ffefrynnau.'
+           )}</p>
+           <button class="btn" data-go="vote" style="margin-top:var(--space-3)">${t('Vote now', 'Pleidleisio nawr')}</button>
+         </div>`
+      : next
+        ? `<div class="card next">
+             <div class="muted">${t('Next stop', 'Y stop nesaf')}</div>
+             <h3>${esc(next.stop_no)}. ${esc(next.name)}</h3>
+             <div class="muted">${esc(next.address)}</div>
+           </div>`
+        : '';
 
     const stops = S.houses.map((h) => {
       const seen = S.visited.includes(Number(h.id));
+      const isNext = !finished && next && Number(next.id) === Number(h.id);
       const blurb = S.lang === 'cy' && h.blurb_cy ? h.blurb_cy : h.blurb_en;
       const note  = S.lang === 'cy' && h.note_cy ? h.note_cy : h.note_en;
-      return `<article class="stop ${seen ? 'visited' : ''}">
+      const walk  = S.lang === 'cy' && h.walk_cy ? h.walk_cy : h.walk_en;
+      return `<article class="stop ${seen ? 'visited' : ''} ${isNext ? 'isnext' : ''}">
         <div class="no">${seen ? '✓' : esc(h.stop_no)}</div>
         <div class="body">
           <h3>${esc(h.name)}</h3>
           <div class="addr">${esc(h.address)}</div>
           <p class="blurb">${esc(blurb)}</p>
           ${note ? `<div class="note">● ${esc(note)}</div>` : ''}
+          ${walk && !seen ? `<div class="walk">${t('About', 'Tua')} ${esc(walk)} ${t('to the next stop', "i'r stop nesaf")}</div>` : ''}
         </div>
         ${seen ? `<div class="tick">${t('Visited', 'Wedi ymweld')}</div>` : ''}
       </article>`;
@@ -81,9 +104,10 @@
         <div class="bar"><i style="width:${pct}%"></i></div>
         <div class="count">${done}/${total}</div>
       </div>
+      ${banner}
       <p class="muted">${t(
-        'Scan the QR code on the gatepost at each house to check it off.',
-        'Sganiwch y cod QR ar y postyn giât wrth bob tŷ i’w nodi.'
+        'Point your phone camera at the QR code on each gatepost to tick that house off.',
+        'Anelwch gamera eich ffôn at y cod QR ar bob postyn giât i nodi\u2019r tŷ hwnnw.'
       )}</p>
       <div class="stops">${stops}</div>
     </section>`;
@@ -93,29 +117,54 @@
     if (!S.votingOpen) {
       return `<section class="screen">
         ${topbar(t('Vote', 'Pleidlais'))}
-        <div class="card"><p>${t('Voting has closed. Thank you!', 'Mae’r bleidlais wedi cau. Diolch!')}</p></div>
+        <div class="card"><p>${t('Voting has closed. Thank you!', 'Mae\u2019r bleidlais wedi cau. Diolch!')}</p></div>
       </section>`;
     }
 
+    const seen = S.houses.filter((h) => S.visited.includes(Number(h.id)));
+    const rest = S.houses.filter((h) => !S.visited.includes(Number(h.id)));
+    // You judge what you have actually seen — but nobody is locked out for
+    // forgetting to scan, so the others stay one tap away.
+    const shown = S.showAll ? S.houses : (seen.length ? seen : S.houses);
+
+    const optionFor = (c, h) => `
+      <button class="opt" aria-pressed="${Number(S.picks[c.id]) === Number(h.id)}"
+              data-vote="${esc(c.id)}" data-house="${esc(h.id)}">
+        <span class="dot"></span>
+        <span class="who"><b>${esc(h.name)}</b><i>${t('Stop', 'Stop')} ${esc(h.stop_no)} · ${esc(h.address)}</i></span>
+      </button>`;
+
     const cats = S.categories.map((c) => {
       const label = S.lang === 'cy' ? c.label_cy : c.label_en;
-      const picked = S.picks[c.id];
-      const opts = S.houses.map((h) => `
-        <button class="opt" aria-pressed="${Number(picked) === Number(h.id)}"
-                data-vote="${esc(c.id)}" data-house="${esc(h.id)}">
-          <span class="dot"></span>
-          <span class="who"><b>${esc(h.name)}</b><i>${t('Stop', 'Stop')} ${esc(h.stop_no)} · ${esc(h.address)}</i></span>
-        </button>`).join('');
-      return `<div class="cat"><h3>${esc(label)}</h3><div class="opts">${opts}</div></div>`;
+      return `<div class="cat">
+        <h3>${esc(label)}</h3>
+        <div class="opts">${shown.map((h) => optionFor(c, h)).join('')}</div>
+      </div>`;
     }).join('');
 
+    const toggle = (seen.length && rest.length)
+      ? `<button class="btn-ghost" id="showall" style="align-self:flex-start">${
+          S.showAll
+            ? t('Show only houses I visited', "Dangos y tai y bûm ynddynt yn unig")
+            : t(`Show all ${S.houses.length} houses`, `Dangos pob un o'r ${S.houses.length} tŷ`)
+        }</button>`
+      : '';
+
     const n = Object.keys(S.picks).length;
+    const hint = seen.length
+      ? t(
+          `One pick per category, from the ${S.showAll ? S.houses.length : seen.length} houses shown. You can change your mind until voting closes. (${n} of ${S.categories.length} chosen.)`,
+          `Un dewis ym mhob categori. Gallwch newid eich meddwl nes i\u2019r bleidlais gau. (${n} o ${S.categories.length} wedi\u2019u dewis.)`
+        )
+      : t(
+          'You have not checked in anywhere yet, so every house is listed. Scan a gatepost code as you go and this shortens to the ones you have actually seen.',
+          'Nid ydych wedi cofrestru yn unman eto, felly mae pob tŷ wedi\u2019i restru. Sganiwch god giât wrth fynd a bydd hyn yn byrhau.'
+        );
+
     return `<section class="screen">
       ${topbar(t('Your vote', 'Eich pleidlais'))}
-      <p class="muted">${t(
-        `One pick per category. You can change your mind until voting closes. (${n} of ${S.categories.length} chosen.)`,
-        `Un dewis ym mhob categori. Gallwch newid eich meddwl nes i’r bleidlais gau. (${n} o ${S.categories.length} wedi’u dewis.)`
-      )}</p>
+      <p class="muted">${hint}</p>
+      ${toggle}
       ${cats}
     </section>`;
   }
@@ -258,6 +307,11 @@
       S.lang = S.lang === 'cy' ? 'en' : 'cy';
       localStorage.setItem('llt_lang', S.lang);
       document.documentElement.lang = S.lang;
+      return render();
+    }
+
+    if (e.target.closest('#showall')) {
+      S.showAll = !S.showAll;
       return render();
     }
 
