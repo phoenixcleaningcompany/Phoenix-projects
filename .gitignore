@@ -1,0 +1,3 @@
+# Real credentials and local development database never belong in git.
+lights-trail/public/config.local.php
+lights-trail/dev.sqlite

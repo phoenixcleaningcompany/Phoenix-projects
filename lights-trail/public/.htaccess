@@ -1,0 +1,21 @@
+# Keep settings and plumbing out of the browser's reach.
+<FilesMatch "^(config([.-][a-z]+)?|lib)\.php$">
+  Require all denied
+</FilesMatch>
+
+# Never serve a stray database file.
+<FilesMatch "\.(sqlite|sql|log)$">
+  Require all denied
+</FilesMatch>
+
+# Force https so QR scans open a secure page.
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteCond %{HTTPS} off
+  RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+</IfModule>
+
+<IfModule mod_headers.c>
+  Header set X-Content-Type-Options "nosniff"
+  Header set Referrer-Policy "same-origin"
+</IfModule>
