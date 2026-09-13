@@ -168,7 +168,7 @@ button { font: inherit; cursor: pointer; }
 .nav {
   position: fixed; bottom: 0; left: 50%; transform: translateX(-50%);
   width: 100%; max-width: 520px;
-  display: grid; grid-template-columns: repeat(4, 1fr);
+  display: grid; grid-auto-flow: column; grid-auto-columns: 1fr;
   background: color-mix(in srgb, var(--n900) 92%, transparent);
   backdrop-filter: blur(12px);
   border-top: 1px solid var(--n800);
@@ -214,3 +214,52 @@ button { font: inherit; cursor: pointer; }
 .stop.isnext { border-color: color-mix(in srgb, var(--accent) 55%, transparent); }
 .stop.isnext .no { background: var(--accent); color: var(--n900); }
 .walk { font-size: 12px; color: var(--n400); margin-top: 3px; }
+
+/* ---- map -------------------------------------------------------------- */
+.mapbox {
+  height: 58vh; min-height: 320px; width: 100%;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--n800);
+  background: var(--n800);
+  z-index: 0; /* keeps Leaflet panes under the fixed nav */
+}
+.maprow { display: flex; align-items: center; gap: var(--space-3); flex-wrap: wrap; }
+
+/* Numbered stop markers, styled like the trail cards rather than Leaflet's
+   default blue teardrop. */
+.pin {
+  display: grid; place-items: center;
+  width: 34px; height: 34px; border-radius: 50%;
+  font-family: var(--font-head); font-size: 15px;
+  background: var(--n800); color: var(--n200);
+  border: 2px solid var(--n700);
+  box-shadow: 0 2px 8px rgba(0,0,0,.5);
+}
+.pin.seen { background: var(--sage); color: var(--n900); border-color: var(--sage); }
+.pin.next { background: var(--accent); color: var(--n900); border-color: var(--accent-300); }
+
+/* Leaflet's own chrome, brought into the palette. */
+.leaflet-container { font-family: var(--font-body); background: var(--n800); }
+.leaflet-popup-content-wrapper, .leaflet-popup-tip {
+  background: var(--n800); color: var(--n200);
+  box-shadow: 0 12px 32px rgba(0,0,0,.5);
+}
+.leaflet-popup-content-wrapper { border-radius: var(--radius-md); }
+.leaflet-popup-content { margin: 13px 15px; font-size: 14px; line-height: 1.5; }
+.leaflet-popup-content a { color: var(--accent); font-weight: 600; }
+.leaflet-popup-close-button { color: var(--n400) !important; }
+.leaflet-control-zoom a {
+  background: var(--n800); color: var(--n200); border-color: var(--n700);
+}
+.leaflet-control-zoom a:hover { background: var(--n700); }
+.leaflet-control-attribution {
+  background: color-mix(in srgb, var(--n900) 80%, transparent) !important;
+  color: var(--n400);
+}
+.leaflet-control-attribution a { color: var(--n300); }
+
+/* The map tiles are the one part of the page that is not ours; keep them
+   from glaring on a dark screen at night. */
+.leaflet-tile { filter: brightness(.72) saturate(.85) contrast(1.05); }
+.nav button svg { width: 21px; height: 21px; stroke: currentColor; fill: none;
+  stroke-width: 1.7; stroke-linecap: round; stroke-linejoin: round; }

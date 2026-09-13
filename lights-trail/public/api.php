@@ -15,7 +15,7 @@ try {
         // Everything the page needs on load: the trail, your progress, your picks.
         case 'state': {
             $houses = db()->query(
-                'SELECT id, stop_no, name, address, blurb_en, blurb_cy, note_en, note_cy, walk_en, walk_cy
+                'SELECT id, stop_no, name, address, blurb_en, blurb_cy, note_en, note_cy, walk_en, walk_cy, lat, lng
                    FROM houses WHERE active = 1 ORDER BY stop_no'
             )->fetchAll();
 

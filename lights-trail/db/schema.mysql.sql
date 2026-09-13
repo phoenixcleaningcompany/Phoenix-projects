@@ -12,6 +12,8 @@ CREATE TABLE IF NOT EXISTS houses (
   note_cy       VARCHAR(160) NULL,
   walk_en       VARCHAR(80) NULL,
   walk_cy       VARCHAR(80) NULL,
+  lat           DECIMAL(9,6) NULL,
+  lng           DECIMAL(9,6) NULL,
   token         VARCHAR(24) NOT NULL,
   active        TINYINT(1) NOT NULL DEFAULT 1,
   UNIQUE KEY uniq_token (token),

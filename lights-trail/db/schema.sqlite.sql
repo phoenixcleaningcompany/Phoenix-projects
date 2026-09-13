@@ -12,6 +12,8 @@ CREATE TABLE IF NOT EXISTS houses (
   note_cy       TEXT NULL,
   walk_en       TEXT NULL,
   walk_cy       TEXT NULL,
+  lat           REAL NULL,
+  lng           REAL NULL,
   token         TEXT NOT NULL,
   active        INTEGER NOT NULL DEFAULT 1,
   UNIQUE (token),

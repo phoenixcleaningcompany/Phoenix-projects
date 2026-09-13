@@ -8,7 +8,7 @@
     lang: localStorage.getItem('llt_lang') || 'en',
     houses: [], categories: [], visited: [], picks: {},
     votingOpen: true, liveResults: true, results: null, voters: 0,
-    showAll: false,
+    showAll: false, mapAll: false, mapFar: 0,
   };
 
   const t = (en, cy) => (S.lang === 'cy' ? cy : en);
@@ -111,6 +111,111 @@
       )}</p>
       <div class="stops">${stops}</div>
     </section>`;
+  }
+
+  function map() {
+    const placed = S.houses.filter((h) => h.lat !== null && h.lng !== null);
+    return `<section class="screen">
+      ${topbar(t('Map', 'Map'))}
+      ${placed.length
+        ? `<div id="leaflet" class="mapbox" role="application"
+                aria-label="${t('Map of the trail','Map o\u2019r llwybr')}"></div>
+           <div class="maprow">
+             <button class="btn-ghost" id="locate">${t('Where am I?','Ble rydw i?')}</button>
+             <button class="btn-ghost" id="fitall" hidden>${
+               S.mapAll ? t('Back to the town','Yn ôl i\u2019r dref') : t('Fit all stops','Ffitio pob stop')}</button>
+             <span class="muted">${t('Tap a stop for directions','Tapiwch stop am gyfarwyddiadau')}</span>
+           </div>`
+        : `<div class="card"><p>${t(
+             'The stops have not been placed on the map yet.',
+             'Nid yw\u2019r stopiau wedi\u2019u gosod ar y map eto.'
+           )}</p></div>`}
+    </section>`;
+  }
+
+  // Leaflet needs a live element, so it is built after render, not in the
+  // HTML string. Re-created each time the screen is shown.
+  let lmap = null;
+  function drawMap() {
+    const el = document.getElementById('leaflet');
+    if (!el || typeof L === 'undefined') return;
+    if (lmap) { lmap.remove(); lmap = null; }
+
+    const placed = S.houses.filter((h) => h.lat !== null && h.lng !== null);
+    if (!placed.length) return;
+
+    lmap = L.map(el, { scrollWheelZoom: false });
+    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap'
+    }).addTo(lmap);
+
+    const next = S.houses.find((h) => !S.visited.includes(Number(h.id)));
+    const bounds = [];
+
+    placed.forEach((h) => {
+      const seen = S.visited.includes(Number(h.id));
+      const isNext = next && Number(next.id) === Number(h.id);
+      const cls = 'pin' + (seen ? ' seen' : '') + (isNext ? ' next' : '');
+      const marker = L.marker([h.lat, h.lng], {
+        icon: L.divIcon({
+          className: '',
+          html: `<span class="${cls}">${seen ? '✓' : esc(h.stop_no)}</span>`,
+          iconSize: [34, 34],
+          iconAnchor: [17, 17]
+        }),
+        title: h.name
+      }).addTo(lmap);
+
+      const dir = `https://www.google.com/maps/dir/?api=1&destination=${h.lat},${h.lng}`;
+      marker.bindPopup(
+        `<b>${esc(h.name)}</b><br>${esc(h.address)}<br>` +
+        `<a href="${dir}" target="_blank" rel="noopener">${t('Directions','Cyfarwyddiadau')}</a>`
+      );
+      bounds.push([h.lat, h.lng]);
+    });
+
+    // Most stops sit within a few hundred metres of each other, and one or
+    // two may be out of town. Fitting all of them zooms out far enough to
+    // pile the town centre into an unreadable heap, so open on the walkable
+    // cluster and offer a control for the rest.
+    const mid = (xs) => xs.slice().sort((a, b) => a - b)[Math.floor(xs.length / 2)];
+    const cLat = mid(placed.map((h) => Number(h.lat)));
+    const cLng = mid(placed.map((h) => Number(h.lng)));
+    const km = (a, b, c, d) => {
+      const R = 6371, r = Math.PI / 180;
+      const dLat = (c - a) * r, dLng = (d - b) * r;
+      const x = Math.sin(dLat / 2) ** 2 +
+                Math.cos(a * r) * Math.cos(c * r) * Math.sin(dLng / 2) ** 2;
+      return 2 * R * Math.asin(Math.sqrt(x));
+    };
+    const core = placed.filter((h) => km(cLat, cLng, Number(h.lat), Number(h.lng)) <= 0.9);
+    const far = placed.length - core.length;
+
+    S.mapFar = far;
+    const fit = (list) => lmap.fitBounds(list.map((h) => [h.lat, h.lng]), {
+      padding: [34, 34], maxZoom: 17
+    });
+    fit(S.mapAll || core.length < 2 ? placed : core);
+
+    const btn = document.getElementById('fitall');
+    if (btn) btn.hidden = far === 0;
+  }
+
+  function locate() {
+    if (!navigator.geolocation || !lmap) return;
+    navigator.geolocation.getCurrentPosition(
+      (pos) => {
+        const { latitude: la, longitude: ln, accuracy } = pos.coords;
+        L.circleMarker([la, ln], {
+          radius: 7, color: '#f6a06b', fillColor: '#f6a06b', fillOpacity: 1, weight: 2
+        }).addTo(lmap).bindPopup(t('You are about here','Rydych tua fan hyn'));
+        L.circle([la, ln], { radius: accuracy, color: '#f6a06b', weight: 1, fillOpacity: 0.07 }).addTo(lmap);
+        lmap.setView([la, ln], 16);
+      },
+      () => toast(t('Could not get your location.','Methu cael eich lleoliad.'), true),
+      { enableHighAccuracy: true, timeout: 10000 }
+    );
   }
 
   function vote() {
@@ -242,10 +347,12 @@
   // ---- render -----------------------------------------------------------
 
   function render() {
-    const body = { welcome, trail, vote, results, info }[S.screen]();
+    const body = { welcome, trail, map, vote, results, info }[S.screen]();
     const nav = S.screen === 'welcome' ? '' : document.getElementById('tpl-nav').innerHTML;
     app.innerHTML = body + nav;
     app.removeAttribute('aria-busy');
+
+    if (S.screen === 'map') requestAnimationFrame(drawMap);
 
     app.querySelectorAll('.nav button').forEach((b) => {
       b.setAttribute('aria-current', String(b.dataset.screen === S.screen));
@@ -307,6 +414,13 @@
       S.lang = S.lang === 'cy' ? 'en' : 'cy';
       localStorage.setItem('llt_lang', S.lang);
       document.documentElement.lang = S.lang;
+      return render();
+    }
+
+    if (e.target.closest('#locate')) return locate();
+
+    if (e.target.closest('#fitall')) {
+      S.mapAll = !S.mapAll;
       return render();
     }
 

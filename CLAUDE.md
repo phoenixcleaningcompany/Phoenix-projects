@@ -32,12 +32,39 @@ route. The plan:
   time but synced after it still count? Recommendation is yes, judged on when
   it was cast.
 
+### December handover — what to send
+
+Entrants are not confirmed until early December, and the organiser sends the
+list here rather than editing anything (decided; no admin page was built).
+For each house:
+
+```
+Stop order:   1
+Name:         Bryn Awel
+Address:      Dolecoed Road
+Description:  one or two sentences, as it should read on the phone
+Note:         optional - "card reader at the gate", "quiet display", "steep drive"
+Walk:         optional - minutes on to the NEXT stop
+Coordinates:  52.104, -3.6355
+```
+
+Coordinates are the only fiddly one. In Google Maps, right-click the house and
+the latitude/longitude at the top of the menu copies to the clipboard. Twelve
+of those is about five minutes and is far more reliable than geocoding rural
+Welsh addresses, which routinely lands on the wrong lane.
+
+Then: update `tools/seed.php`, re-run it, and re-print the QR sheet. Existing
+check-in tokens survive a re-run, so only genuinely new houses get new codes.
+
 ### Open decisions (need the organiser, not code)
 
-- The twelve houses are invented placeholder content from the design prototype.
-  Real names, addresses and descriptions go in `tools/seed.php`.
+- The twelve houses are invented placeholder content from the design prototype,
+  and their coordinates are rough points around Llanwrtyd Wells chosen only to
+  make the map previewable. Nothing there is surveyed.
 - House descriptions have no Welsh translation. The interface is fully
   bilingual; `blurb_cy` and `note_cy` columns are ready and empty.
+- The map uses OpenStreetMap tiles, which need a connection. Llanwrtyd is small
+  enough to pre-cache the whole town when the offline layer is built.
 - Nobody has walked the route checking phone signal at each gate. That result
   decides how urgent the offline layer is.
 - Branding is deliberately not settled. Colours, fonts and spacing are CSS
