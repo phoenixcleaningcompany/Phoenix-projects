@@ -14,8 +14,22 @@ RedirectMatch 404 ^/.*/(inc|posts)/
 # Force https so QR scans open a secure page.
 <IfModule mod_rewrite.c>
   RewriteEngine On
+
+  # https first, before anything else rewrites the path.
   RewriteCond %{HTTPS} off
   RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+  # Content lives at /news/<slug> and /guides/<slug>. The query-string forms
+  # still work, so the site survives mod_rewrite being unavailable.
+  RewriteRule ^news/?$            blog.php   [L]
+  RewriteRule ^guides/?$          guides.php [L]
+  RewriteRule ^news/([a-z0-9-]+)/?$   post.php?p=$1  [L,QSA]
+  RewriteRule ^guides/([a-z0-9-]+)/?$ guide.php?g=$1 [L,QSA]
+
+  # /whats-on rather than /whats-on.php, for anything that really exists.
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_FILENAME}\.php -f
+  RewriteRule ^([a-z0-9-]+)/?$ $1.php [L]
 </IfModule>
 
 <IfModule mod_headers.c>

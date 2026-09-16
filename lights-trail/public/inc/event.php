@@ -16,6 +16,11 @@ return [
     'times'     => '6pm – 10pm',
     'date_confirmed' => false,
 
+    // CONFIRM: the real domain. Used for canonical links, sharing previews
+    // and the sitemap — all of which are wrong until this is right.
+    'site_url'  => 'https://example.co.uk/lights',
+    'site_url_confirmed' => false,
+
     'town'      => 'Llanwrtyd Wells',
     'county'    => 'Powys',
 

@@ -2,6 +2,7 @@
 return [
   'title'   => 'Putting your house on the trail',
   'date'    => '2026-09-16',
+  'tags'    => ['displays', 'taking-part', 'llanwrtyd'],
   'summary' => 'Entries for this year are open. You do not need eight thousand bulbs — one tree done properly is genuinely enough.',
   'body'    => <<<'HTML'
 <p>Every year the same thing happens: people walk the trail, enjoy it enormously,

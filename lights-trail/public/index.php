@@ -27,8 +27,8 @@ page_head('', $ev['tagline'] . ' ' . $ev['town'] . ', ' . $ev['date_text'] . '.'
       in a tin on the way round. Then vote for the display you liked best.
     </p>
     <div class="actions">
-      <a class="btn" href="trail.php">Open the trail</a>
-      <a class="btn ghost" href="whats-on.php">See what's on</a>
+      <a class="btn" href="<?= u('trail.php') ?>">Open the trail</a>
+      <a class="btn ghost" href="<?= u('whats-on') ?>">See what's on</a>
     </div>
   </div>
 </section>
@@ -54,7 +54,7 @@ page_head('', $ev['tagline'] . ' ' . $ev['town'] . ', ' . $ev['date_text'] . '.'
       <?php endforeach; ?>
     </div>
     <div class="actions">
-      <a class="btn ghost" href="whats-on.php">Full details</a>
+      <a class="btn ghost" href="<?= u('whats-on') ?>">Full details</a>
     </div>
   </div>
 </section>
@@ -70,7 +70,7 @@ page_head('', $ev['tagline'] . ' ' . $ev['town'] . ', ' . $ev['date_text'] . '.'
         <?php endif; ?>
         The houses do the work, the town turns out, and the money stays here.
       </p>
-      <div class="actions"><a class="btn ghost" href="charity.php">How to give</a></div>
+      <div class="actions"><a class="btn ghost" href="<?= u('charity') ?>">How to give</a></div>
     </div>
   </div>
 </section>
@@ -84,7 +84,7 @@ page_head('', $ev['tagline'] . ' ' . $ev['town'] . ', ' . $ev['date_text'] . '.'
       <div class="fact"><dt>Cost</dt><dd>Free to walk</dd></div>
       <div class="fact"><dt>On foot</dt><dd>About 90 minutes</dd></div>
     </dl>
-    <div class="actions"><a class="btn ghost" href="visiting.php">Parking, access and what to wear</a></div>
+    <div class="actions"><a class="btn ghost" href="<?= u('visiting') ?>">Parking, access and what to wear</a></div>
   </div>
 </section>
 

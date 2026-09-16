@@ -25,18 +25,42 @@ function todo(string $s): string
     return '<mark class="todo">' . e($s) . '</mark>';
 }
 
+/**
+ * Where the site is installed — "/lights", or "" at a domain root. Derived
+ * from the running script, so it survives being moved and works whether or
+ * not mod_rewrite rewrote the URL.
+ */
+function base(): string
+{
+    static $b = null;
+    if ($b === null) {
+        $b = rtrim(str_replace('\\', '/', dirname($_SERVER['SCRIPT_NAME'] ?? '/')), '/');
+    }
+    return $b;
+}
+
+/** Root-relative URL. Pretty paths need these; relative ones break under /news/. */
+function u(string $path = ''): string
+{
+    return base() . '/' . ltrim($path, '/');
+}
+
 const NAV = [
     ''            => 'Home',
     'whats-on'    => "What's on",
     'visiting'    => 'Visiting',
+    'guides'      => 'Guides',
     'charity'     => 'The collection',
-    'blog'        => 'News',
+    'news'        => 'News',
 ];
 
-function page_head(string $title, string $description, string $current = ''): void
+function page_head(string $title, string $description, string $current = '', string $canonical = ''): void
 {
     $ev = event();
     $full = $title === '' ? $ev['name'] : $title . ' · ' . $ev['name'];
+    // Both /whats-on and /whats-on.php resolve, so a canonical link says
+    // which one counts and keeps the two from competing in search results.
+    $url = rtrim($ev['site_url'], '/') . '/' . ltrim($canonical, '/');
     ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -49,25 +73,30 @@ function page_head(string $title, string $description, string $current = ''): vo
 <meta property="og:title" content="<?= e($full) ?>">
 <meta property="og:description" content="<?= e($description) ?>">
 <meta property="og:type" content="website">
+<meta property="og:site_name" content="<?= e($ev['name']) ?>">
+<?php if ($ev['site_url_confirmed']): ?>
+<link rel="canonical" href="<?= e($url) ?>">
+<meta property="og:url" content="<?= e($url) ?>">
+<?php endif; ?>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Caprasimo&family=Figtree:wght@400;500;600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="assets/tokens.css">
-<link rel="stylesheet" href="assets/site.css">
+<link rel="stylesheet" href="<?= u('assets/tokens.css') ?>">
+<link rel="stylesheet" href="<?= u('assets/site.css') ?>">
 </head>
 <body>
 <header class="site-head">
   <div class="wrap">
-    <a class="brand" href="./">
+    <a class="brand" href="<?= u() ?>">
       <span class="bulbs"><i></i><i></i><i></i></span>
       <?= e($ev['name']) ?>
     </a>
     <nav class="site-nav" aria-label="Main">
       <?php foreach (NAV as $slug => $label): ?>
-        <a href="<?= $slug === '' ? './' : e($slug) . '.php' ?>"
+        <a href="<?= u($slug) ?>"
            <?= $slug === $current ? 'aria-current="page"' : '' ?>><?= e($label) ?></a>
       <?php endforeach; ?>
-      <a class="cta" href="trail.php">Open the trail</a>
+      <a class="cta" href="<?= u('trail.php') ?>">Open the trail</a>
     </nav>
   </div>
 </header>
@@ -83,7 +112,7 @@ function page_foot(): void
 <footer class="site-foot">
   <div class="wrap">
     <div><?= e($ev['name']) ?> · <?= e($ev['town']) ?>, <?= e($ev['county']) ?></div>
-    <div><a href="trail.php">Open the trail</a> · <a href="charity.php">The collection</a></div>
+    <div><a href="<?= u('trail.php') ?>">Open the trail</a> · <a href="<?= u('charity') ?>">The collection</a> · <a href="<?= u('guides') ?>">Guides</a></div>
   </div>
 </footer>
 </body>

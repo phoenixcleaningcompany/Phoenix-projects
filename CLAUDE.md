@@ -86,9 +86,57 @@ check-in tokens survive a re-run, so only genuinely new houses get new codes.
   distance, last year's fundraising total, online giving link, and who to
   contact to enter a house. Search the codebase for `todo(` and `CONFIRM` to
   find every one.
-- Blog posts are files in `public/posts/`, one per post, no database and no
-  admin screen. Open question: whether the organiser wants to self-publish
-  these or keep sending them here.
+- Content is written here in Claude and committed, not self-published, so no
+  admin screen is needed (settled).
+
+### Writing content
+
+Content is the plan for bringing people to the site: Christmas lights, light
+trails, Christmas events in the area, and related subjects — all linking back
+to the event.
+
+**Two separate kinds, deliberately.**
+
+- `public/posts/` — **dated news**. Entries opening, this year's line-up, how
+  the night went. Newest first, dated on the page, ages naturally. Lives at
+  `/news/<slug>`.
+- `public/guides/` — **evergreen articles**. No date shown, because a date
+  makes a useful guide look stale long before it is. Ordered by an `order`
+  key. Lives at `/guides/<slug>`.
+
+Both are one PHP file each, discovered automatically. `'draft' => true` keeps
+one out of the lists. `tags` drive the "Read next" block, so give every piece
+two or three shared tags or it will sit unlinked.
+
+**The bar.** The organiser asked specifically for non-templated, non-thin,
+genuinely useful pages. What earns its place is what only someone here can
+write: the actual town, the actual route, real local knowledge, practical
+advice with specifics in it. What does not is anything that could appear on a
+thousand other sites — generic Christmas filler ranks for nothing and makes
+the rest look worse. Where a page needs a fact nobody has confirmed, mark it
+with `todo()` rather than inventing it; that rule matters more in content than
+anywhere else on the site.
+
+**Images** go in `public/assets/img/`. Every one needs real alt text. Resize
+before uploading — a 4MB phone photo on a page people open on mobile data in
+a field is a genuine problem, not a nicety.
+
+### URLs
+
+Settled before publishing, because changing them afterwards costs rankings and
+needs redirects:
+
+- `/`, `/whats-on`, `/visiting`, `/charity`, `/guides`, `/news`
+- `/guides/<slug>`, `/news/<slug>`
+- `/trail.php` — the app; a gate QR at the site root redirects here
+
+`.htaccess` rewrites map these onto the real scripts, and the query-string
+forms still work if mod_rewrite is ever unavailable. **The rewrites have never
+run against Apache** — there is none in the dev container — so check them on
+the real host before relying on them. `page_head()` emits a canonical link,
+but only once `site_url_confirmed` is true in `inc/event.php`.
+
+`/sitemap.php` generates itself from the content files.
 
 ### Conventions
 

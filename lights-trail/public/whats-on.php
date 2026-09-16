@@ -28,7 +28,7 @@ page_head("What's on", 'The lights trail, Santa\'s grotto, the reindeer, food an
             <?php endforeach; ?>
           </div>
           <?php if ($a['slug'] === 'trail'): ?>
-            <div class="actions"><a class="btn" href="trail.php">Open the trail</a></div>
+            <div class="actions"><a class="btn" href="<?= u('trail.php') ?>">Open the trail</a></div>
           <?php endif; ?>
         </div>
       </article>
