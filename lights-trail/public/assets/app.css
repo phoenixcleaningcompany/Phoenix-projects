@@ -1,29 +1,4 @@
-/* Llanwrtyd Lights — palette and spacing lifted from the design prototype. */
-
-:root {
-  --accent:     #f6a06b;
-  --accent-300: #ffc6a5;
-  --accent-700: #8c491a;
-  --sage:       #ccdbb2;
-  --n100: #f9f4ed;
-  --n200: #eee7db;
-  --n300: #dcd3c4;
-  --n400: #c0b6a5;
-  --n700: #645c50;
-  --n800: #474238;
-  --n900: #2e2b25;
-
-  --radius-md: 16px;
-  --radius-lg: 28px;
-  --space-2: 8.8px;
-  --space-3: 13.2px;
-  --space-4: 17.6px;
-  --space-6: 26.4px;
-  --space-8: 35.2px;
-
-  --font-body: "Figtree", system-ui, -apple-system, sans-serif;
-  --font-head: "Caprasimo", Georgia, serif;
-}
+/* Trail app screens. Tokens live in tokens.css. */
 
 * { box-sizing: border-box; }
 

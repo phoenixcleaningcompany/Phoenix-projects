@@ -47,7 +47,12 @@ You should see four tables appear: `houses`, `categories`, `checkins`, `votes`.
 
 Upload everything inside the `public/` folder to a folder on your site — for
 example `public_html/lights/`. Upload the *contents* of `public/`, not the
-folder itself, so you end up with `public_html/lights/index.php`.
+folder itself, so you end up with `public_html/lights/index.php`. Keep the
+`assets`, `inc` and `posts` folders with it.
+
+`index.php` is the website people find beforehand; `trail.php` is the app they
+use on the night. A gate QR code pointing at the site root redirects to the
+trail automatically, so printed codes keep working.
 
 Then open `config.php` in cPanel's File Manager (right-click → Edit) and fill in
 the database name, user and password from step 1. While you are in there, set
@@ -77,6 +82,13 @@ generator, print it large, laminate it, and tape it to that house's gatepost.
 without walking anywhere.
 
 ---
+
+## Adding a news post
+
+Copy an existing file in `public/posts/`, change the title, date, summary and
+body, save it under a new name, and upload it. The news page picks it up
+automatically — there is nothing to rebuild. Add `'draft' => true,` to keep one
+out of the list while you work on it.
 
 ## How it works on the night
 
@@ -111,12 +123,20 @@ You can hand this whole folder back to Claude and ask for changes. The pieces:
 
 | File | What it does |
 |---|---|
-| `public/index.php` | The page people land on |
+| `public/index.php` | Website home page |
+| `public/whats-on.php` `visiting.php` `charity.php` | The event pages |
+| `public/blog.php` `post.php` | News index and a single post |
+| `public/posts/*.php` | One file per post — add a file to publish |
+| `public/inc/event.php` | Dates, times and the attraction list |
+| `public/inc/layout.php` | Shared header and footer |
+| `public/trail.php` | The trail app people use on the night |
+| `public/assets/tokens.css` | **Colours and fonts — the whole look, in one file** |
 | `public/api.php` | Check-in, voting and results |
 | `public/lib.php` | Database connection and shared helpers |
 | `public/config.php` | Your settings — the only file you must edit |
-| `public/assets/app.js` | Screens and buttons |
-| `public/assets/styles.css` | Colours, fonts, spacing |
+| `public/assets/app.js` | Trail app screens and buttons |
+| `public/assets/app.css` | Trail app styling |
+| `public/assets/site.css` | Website styling |
 | `tools/seed.php` | The twelve houses and three categories |
 | `tools/qr-links.php` | Prints the gate URLs for your QR codes |
 

@@ -1,0 +1,137 @@
+/* Website pages. Tokens live in tokens.css; the trail app uses app.css. */
+
+*{box-sizing:border-box}
+body{
+  margin:0;
+  background:var(--n900);
+  background-image:radial-gradient(110% 45% at 50% 0%, color-mix(in srgb,var(--accent-700) 38%,transparent), transparent 68%);
+  color:var(--n200);
+  font-family:var(--font-body);
+  font-size:var(--step-0);
+  line-height:1.6;
+  -webkit-text-size-adjust:100%;
+}
+h1,h2,h3{font-family:var(--font-head);font-weight:400;line-height:1.08;margin:0;color:var(--n100);text-wrap:balance}
+h1{font-size:var(--step-4)}
+h2{font-size:var(--step-3)}
+h3{font-size:var(--step-2)}
+p{margin:0;text-wrap:pretty}
+a{color:var(--accent)}
+img{max-width:100%;height:auto;display:block}
+:focus-visible{outline:2px solid var(--accent);outline-offset:3px;border-radius:6px}
+
+.wrap{width:100%;max-width:var(--page);margin:0 auto;padding-inline:20px}
+
+/* ---- header ---------------------------------------------------------- */
+.site-head{
+  position:sticky;top:0;z-index:30;
+  background:color-mix(in srgb,var(--n900) 88%,transparent);
+  backdrop-filter:blur(12px);
+  border-bottom:1px solid var(--n800);
+}
+.site-head .wrap{display:flex;align-items:center;gap:var(--space-4);padding-block:13px;flex-wrap:wrap}
+.brand{display:flex;align-items:center;gap:10px;text-decoration:none;color:var(--n100);font-family:var(--font-head);font-size:19px;margin-right:auto}
+.brand .bulbs{display:flex;gap:4px}
+.brand .bulbs i{width:9px;height:9px;border-radius:50%}
+.brand .bulbs i:nth-child(1){background:var(--accent);box-shadow:0 0 10px var(--accent)}
+.brand .bulbs i:nth-child(2){background:var(--sage);box-shadow:0 0 10px var(--sage)}
+.brand .bulbs i:nth-child(3){background:var(--n300);box-shadow:0 0 10px var(--n300)}
+.site-nav{display:flex;gap:var(--space-4);flex-wrap:wrap;align-items:center}
+.site-nav a{color:var(--n300);text-decoration:none;font-size:15px}
+.site-nav a:hover{color:var(--n100)}
+.site-nav a[aria-current="page"]{color:var(--accent)}
+.site-nav .cta{
+  background:var(--accent);color:var(--n900);border-radius:999px;
+  padding:9px 17px;font-family:var(--font-head);font-size:15px
+}
+.site-nav .cta:hover{background:var(--accent-300);color:var(--n900)}
+
+/* ---- hero ------------------------------------------------------------ */
+.hero{padding-block:clamp(48px,9vw,96px) clamp(32px,6vw,64px)}
+.hero .kicker{
+  font-size:13px;letter-spacing:.16em;text-transform:uppercase;
+  color:var(--accent);margin-bottom:var(--space-3)
+}
+.hero p.lead{font-size:var(--step-1);color:var(--n300);max-width:var(--measure);margin-top:var(--space-4)}
+.hero .when{
+  font-family:var(--font-head);font-size:var(--step-2);color:var(--accent);
+  margin-top:var(--space-4)
+}
+.actions{display:flex;gap:var(--space-3);flex-wrap:wrap;margin-top:var(--space-6)}
+.btn{
+  display:inline-block;border:0;border-radius:999px;padding:15px 26px;
+  font-family:var(--font-head);font-size:17px;text-decoration:none;
+  background:var(--accent);color:var(--n900);transition:background .15s
+}
+.btn:hover{background:var(--accent-300);color:var(--n900)}
+.btn.ghost{background:transparent;color:var(--n200);border:1px solid var(--n700)}
+.btn.ghost:hover{border-color:var(--n400);background:transparent;color:var(--n100)}
+
+/* ---- sections -------------------------------------------------------- */
+.section{padding-block:clamp(40px,7vw,76px)}
+.section > h2 + p{margin-top:var(--space-4);max-width:var(--measure);color:var(--n300)}
+.prose{max-width:var(--measure);display:flex;flex-direction:column;gap:var(--space-4);color:var(--n300)}
+.prose h2,.prose h3{color:var(--n100);margin-top:var(--space-4)}
+
+/* What's on: each attraction is its own block, not a uniform card grid —
+   they differ in importance and the layout should say so. */
+.bills{display:flex;flex-direction:column;gap:var(--space-6);margin-top:var(--space-6)}
+.bill{display:grid;grid-template-columns:auto 1fr;gap:var(--space-4) var(--space-6);align-items:start}
+.bill .glyph{
+  width:56px;height:56px;border-radius:50%;display:grid;place-items:center;
+  background:color-mix(in srgb,var(--accent) 14%,transparent);
+  border:1px solid color-mix(in srgb,var(--accent) 35%,transparent);
+}
+.bill .glyph svg{width:26px;height:26px;stroke:var(--accent);fill:none;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
+.bill .body{display:flex;flex-direction:column;gap:7px;min-width:0}
+.bill .body p{color:var(--n300)}
+.bill .meta{font-size:14px;color:var(--n400);display:flex;gap:var(--space-3);flex-wrap:wrap}
+
+.facts{
+  display:grid;grid-template-columns:repeat(auto-fit,minmax(min(220px,100%),1fr));
+  gap:var(--space-4);margin-top:var(--space-6)
+}
+.fact{border:1px solid var(--n800);border-radius:var(--radius-md);padding:var(--space-4);display:flex;flex-direction:column;gap:5px}
+.fact dt{font-size:13px;letter-spacing:.1em;text-transform:uppercase;color:var(--n400)}
+.fact dd{margin:0;font-family:var(--font-head);font-size:var(--step-1);color:var(--n100)}
+
+/* ---- charity band ---------------------------------------------------- */
+.band{
+  border-block:1px solid var(--n800);
+  background:color-mix(in srgb,var(--sage) 7%,transparent);
+}
+.band .wrap{padding-block:clamp(36px,6vw,64px);display:flex;gap:var(--space-6);flex-wrap:wrap;align-items:center}
+.band .body{flex:1 1 320px;display:flex;flex-direction:column;gap:var(--space-3)}
+.band h2{color:var(--sage)}
+
+/* ---- blog ------------------------------------------------------------ */
+.posts{display:flex;flex-direction:column;gap:0;margin-top:var(--space-6)}
+.post-link{
+  display:grid;grid-template-columns:1fr auto;gap:var(--space-3) var(--space-6);
+  align-items:baseline;text-decoration:none;color:inherit;
+  padding-block:var(--space-4);border-top:1px solid var(--n800)
+}
+.post-link:last-child{border-bottom:1px solid var(--n800)}
+.post-link:hover h3{color:var(--accent)}
+.post-link .date{font-size:14px;color:var(--n400);font-variant-numeric:tabular-nums;white-space:nowrap}
+.post-link p{color:var(--n300);font-size:15px;grid-column:1/-1;max-width:var(--measure)}
+
+.article{max-width:var(--measure);display:flex;flex-direction:column;gap:var(--space-4)}
+.article .date{font-size:14px;color:var(--n400)}
+.article p{color:var(--n300)}
+.article h2{margin-top:var(--space-6)}
+
+/* ---- to-confirm marker ----------------------------------------------- */
+/* Anything still unconfirmed is flagged rather than quietly invented. */
+.todo{
+  background:color-mix(in srgb,var(--accent) 20%,transparent);
+  color:var(--accent-300);border-bottom:1px dashed var(--accent);
+  padding:1px 5px;border-radius:4px;font-style:normal
+}
+
+/* ---- footer ---------------------------------------------------------- */
+.site-foot{border-top:1px solid var(--n800);margin-top:var(--space-8)}
+.site-foot .wrap{padding-block:var(--space-6);display:flex;gap:var(--space-6);flex-wrap:wrap;justify-content:space-between;color:var(--n400);font-size:14px}
+.site-foot a{color:var(--n300)}
+
+@media (prefers-reduced-motion:reduce){*{animation-duration:.01ms !important;transition-duration:.01ms !important}}

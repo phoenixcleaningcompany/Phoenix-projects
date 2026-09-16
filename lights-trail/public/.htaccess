@@ -3,6 +3,9 @@
   Require all denied
 </FilesMatch>
 
+# Includes and post sources are read by PHP, never fetched directly.
+RedirectMatch 404 ^/.*/(inc|posts)/
+
 # Never serve a stray database file.
 <FilesMatch "\.(sqlite|sql|log)$">
   Require all denied

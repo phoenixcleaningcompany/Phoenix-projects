@@ -1,53 +1,91 @@
 <?php
 declare(strict_types=1);
-require __DIR__ . '/lib.php';
+require __DIR__ . '/inc/layout.php';
 
-$c = cfg();
-device_id(); // sets the cookie on first visit, before any output
+// Gate QR codes may point at the site root. Send those straight to the trail
+// so a printed code keeps working whatever else changes here.
+if (isset($_GET['c'])) {
+    header('Location: trail.php?c=' . urlencode((string) $_GET['c']), true, 302);
+    exit;
+}
 
-// A QR scan lands here as /?c=TOKEN. Hand it to the page; app.js posts it
-// to the API and then cleans the address bar so a refresh can't re-trigger.
-$scan = preg_match('/^[A-Z0-9]{6,24}$/', (string) ($_GET['c'] ?? '')) ? $_GET['c'] : '';
+$ev = event();
+page_head('', $ev['tagline'] . ' ' . $ev['town'] . ', ' . $ev['date_text'] . '.', '');
 ?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta name="theme-color" content="#2e2b25">
-<title><?= htmlspecialchars($c['event_name_en']) ?></title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Caprasimo&family=Figtree:wght@400;500;600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="assets/leaflet/leaflet.css">
-<link rel="stylesheet" href="assets/styles.css?v=2">
-</head>
-<body>
 
-<div id="app" class="app" aria-busy="true">
-  <div class="loading"><span class="bulb"><span class="bulb"><span class="bulb"></div>
-</div>
+<section class="hero">
+  <div class="wrap">
+    <div class="kicker"><?= e($ev['town']) ?> · <?= e($ev['county']) ?></div>
+    <h1><?= e($ev['name']) ?></h1>
+    <p class="when">
+      <?= $ev['date_confirmed'] ? e($ev['date_text']) : todo($ev['date_text'] . ' — to confirm') ?>,
+      <?= e($ev['times']) ?>
+    </p>
+    <p class="lead">
+      Twelve houses across the town switch their displays on for one night only.
+      Walk the trail, meet the reindeer, queue for the grotto, and put something
+      in a tin on the way round. Then vote for the display you liked best.
+    </p>
+    <div class="actions">
+      <a class="btn" href="trail.php">Open the trail</a>
+      <a class="btn ghost" href="whats-on.php">See what's on</a>
+    </div>
+  </div>
+</section>
 
-<template id="tpl-nav">
-  <nav class="nav">
-    <button data-screen="trail"><svg viewBox="0 0 24 24"><path d="M12 3 4 20h16L12 3Z"/><path d="M12 20v2"/></svg><em data-en="Trail" data-cy="Llwybr"></em></button>
-    <button data-screen="map"><svg viewBox="0 0 24 24"><path d="m9 4-6 3v13l6-3 6 3 6-3V4l-6 3Z"/><path d="M9 4v13M15 7v13"/></svg><em data-en="Map" data-cy="Map"></em></button>
-    <button data-screen="vote"><svg viewBox="0 0 24 24"><path d="M3 13h18v7H3z"/><path d="m7 13 2-9h6l2 9"/><path d="M11 8h2"/></svg><em data-en="Vote" data-cy="Pleidlais"></em></button>
-    <button data-screen="results"><svg viewBox="0 0 24 24"><path d="M8 21h8"/><path d="M12 17v4"/><path d="M7 4h10v5a5 5 0 0 1-10 0V4Z"/><path d="M17 5h3v2a3 3 0 0 1-3 3M7 5H4v2a3 3 0 0 0 3 3"/></svg><em data-en="Results" data-cy="Canlyniadau"></em></button>
-    <button data-screen="info"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 11v5"/><path d="M12 8h.01"/></svg><em data-en="Info" data-cy="Gwybodaeth"></em></button>
-  </nav>
-</template>
+<section class="section">
+  <div class="wrap">
+    <h2>What happens on the night</h2>
+    <p>Everything is within walking distance. Come when you like and leave when you like — there is no set start.</p>
+    <div class="bills">
+      <?php foreach ($ev['attractions'] as $a): ?>
+      <article class="bill">
+        <div class="glyph"><?= icon($a['icon']) ?></div>
+        <div class="body">
+          <h3><?= e($a['title']) ?></h3>
+          <p><?= e($a['lede']) ?></p>
+          <div class="meta">
+            <?php foreach ($a['meta'] as $m): ?>
+              <span><?= str_starts_with($m, 'CONFIRM') ? todo($m) : e($m) ?></span>
+            <?php endforeach; ?>
+          </div>
+        </div>
+      </article>
+      <?php endforeach; ?>
+    </div>
+    <div class="actions">
+      <a class="btn ghost" href="whats-on.php">Full details</a>
+    </div>
+  </div>
+</section>
 
-<script>
-window.LLT = {
-  scan: <?= json_encode($scan) ?>,
-  event: {
-    name: { en: <?= json_encode($c['event_name_en']) ?>, cy: <?= json_encode($c['event_name_cy']) ?> },
-    date: { en: <?= json_encode($c['event_date_en']) ?>, cy: <?= json_encode($c['event_date_cy']) ?> }
-  }
-};
-</script>
-<script src="assets/leaflet/leaflet.js"></script>
-<script src="assets/app.js?v=2"></script>
-</body>
-</html>
+<section class="band">
+  <div class="wrap">
+    <div class="body">
+      <h2>It is all for the collection</h2>
+      <p>
+        Every tin on the trail goes to <?= $ev['charity_confirmed'] ? e($ev['charity']) : todo($ev['charity'] . ' — to confirm') ?>.
+        <?php if ($ev['raised_last_year']): ?>
+          Last year the town raised <?= e($ev['raised_last_year']) ?>.
+        <?php endif; ?>
+        The houses do the work, the town turns out, and the money stays here.
+      </p>
+      <div class="actions"><a class="btn ghost" href="charity.php">How to give</a></div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <h2>Before you come</h2>
+    <dl class="facts">
+      <div class="fact"><dt>When</dt><dd><?= $ev['date_confirmed'] ? e($ev['date_text']) : todo('To confirm') ?></dd></div>
+      <div class="fact"><dt>Time</dt><dd><?= e($ev['times']) ?></dd></div>
+      <div class="fact"><dt>Cost</dt><dd>Free to walk</dd></div>
+      <div class="fact"><dt>On foot</dt><dd>About 90 minutes</dd></div>
+    </dl>
+    <div class="actions"><a class="btn ghost" href="visiting.php">Parking, access and what to wear</a></div>
+  </div>
+</section>
+
+<?php page_foot(); ?>

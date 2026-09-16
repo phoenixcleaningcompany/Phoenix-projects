@@ -2,6 +2,13 @@
 
 ## Llanwrtyd Lights (`lights-trail/`)
 
+Two things in one site, sharing one visual identity:
+
+- **The website** (`index.php` and the content pages) — what draws people to the
+  event beforehand: what's on, visiting, the collection, and a news section for
+  content that brings search traffic in.
+- **The trail app** (`trail.php`) — what people use on the night.
+
 A website for a Christmas lights trail: twelve houses, one night, walk the
 route, scan a QR code at each gate, vote in three categories, watch live
 results. Welsh and English.
@@ -67,9 +74,21 @@ check-in tokens survive a re-run, so only genuinely new houses get new codes.
   enough to pre-cache the whole town when the offline layer is built.
 - Nobody has walked the route checking phone signal at each gate. That result
   decides how urgent the offline layer is.
-- Branding is deliberately not settled. Colours, fonts and spacing are CSS
-  custom properties at the top of `public/assets/styles.css` — changing the
-  whole look is editing that one block, not a rebuild.
+- Branding is deliberately not settled. The entire visual identity is in
+  `public/assets/tokens.css` — changing the whole look, website and app, is
+  editing that one file.
+- **The event date is not confirmed.** `inc/event.php` currently says Friday 18
+  December 2026 with `date_confirmed => false`, which makes every mention of it
+  render as a visible "to confirm" marker. Last year's was Thursday 18 December
+  2025. Set the real date and flip the flag.
+- Lots of event facts are unknown and deliberately marked rather than invented:
+  grotto times and price, reindeer times, parking, toilets, dog policy, trail
+  distance, last year's fundraising total, online giving link, and who to
+  contact to enter a house. Search the codebase for `todo(` and `CONFIRM` to
+  find every one.
+- Blog posts are files in `public/posts/`, one per post, no database and no
+  admin screen. Open question: whether the organiser wants to self-publish
+  these or keep sending them here.
 
 ### Conventions
 
